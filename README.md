@@ -1,6 +1,6 @@
 # ISAdatasets
 
-Repository for ISA datasets, which may be available in different formats (tab, RDF, JSON)
+Repository for ISA datasets for testing purposes
 
 ISA datasets from EMBL-EBI Metabolights:
 ftp://ftp.ebi.ac.uk/pub/databases/metabolights/studies/public/
