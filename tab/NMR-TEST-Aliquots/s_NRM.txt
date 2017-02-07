@@ -1,0 +1,4 @@
+"Source Name"	"Material Type"	"Term Source REF"	"Term Accession Number"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[age]"	"Term Source REF"	"Term Accession Number"	"Characteristics[gender]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Characteristics[tissue specimen]"	"Term Source REF"	"Term Accession Number"
+"patient1"	"study subject"	""	""	"homo sapiens"	""	""	"45"	""	""	"male"	""	""	"sample collection"	"patient1.sample1"	"whole blood"	""	""
+"patient2"	"study subject"	""	""	"homo sapiens"	""	""	"45"	""	""	"male"	""	""	"sample collection"	"patient2.sample1"	"whole blood"	""	""
+"NIST reference material"	"quality control material"	""	""	"not applicable"	""	""	""	""	""	""	""	""	"quality control"	"NIST reference material"	"synthetic sample"	""	""
