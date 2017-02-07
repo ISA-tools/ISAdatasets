@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"OBI"	
-Term Source File	"http://data.bioontology.org/ontologies/OBI"	
-Term Source Version	"31"	
-Term Source Description	"Ontology for Biomedical Investigations"	
+Term Source Name	"HL7"	"BIOMO"	"OBI"	"NCIT"	"PATO"	"SNOMEDCT"	
+Term Source File	"BIOPORTAL"	"BIOPORTAL"	"http://data.bioontology.org/ontologies/OBI"	"BIOPORTAL"	"BIOPORTAL"	"BIOPORTAL"	
+Term Source Version	"8"	"1"	"31"	"46"	"164"	"13"	
+Term Source Description	"Health Level Seven Reference Implementation Model, Version 3"	"Biological Observation Matrix Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Phenotypic Quality Ontology"	"SNOMED CT"	
 INVESTIGATION
 Investigation Identifier	"1486464737275"
 Investigation Title	"Investigation"
