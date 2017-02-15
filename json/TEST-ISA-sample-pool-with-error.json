@@ -58,10 +58,10 @@
                     ],
                     "dataFiles": [
                         {
-                            "@id": "#data/rawdatafile-1.cel",
+                            "@id": "#data/arraydatafile-1.cel",
                             "comments": [],
                             "name": "1.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
                             "@id": "#data/imagefile-1.dat",
@@ -120,7 +120,7 @@
                             "name": "hyb1.scan1",
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-1.cel"
+                                    "@id": "#data/arraydatafile-1.cel"
                                 },
                                 {
                                     "@id": "#data/imagefile-1.dat"

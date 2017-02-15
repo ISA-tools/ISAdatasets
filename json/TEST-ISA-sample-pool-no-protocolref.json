@@ -63,9 +63,9 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-1.cel",
+                            "@id": "#data/arraydatafile-1.cel",
                             "name": "1.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         }
                     ],
                     "filename": "a_test-template3-splitting_transcription_profiling_DNA_microarray.txt",

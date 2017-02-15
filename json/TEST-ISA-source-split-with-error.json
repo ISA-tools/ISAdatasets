@@ -64,16 +64,16 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-3.cel",
+                            "@id": "#data/arraydatafile-3.cel",
                             "comments": [],
                             "name": "3.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-1.cel",
+                            "@id": "#data/arraydatafile-1.cel",
                             "comments": [],
                             "name": "1.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
                             "@id": "#data/imagefile-2.dat",
@@ -88,10 +88,10 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-2.cel",
+                            "@id": "#data/arraydatafile-2.cel",
                             "comments": [],
                             "name": "2.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         }
                     ],
                     "filename": "a_test-template2-splitting_transcription_profiling_DNA_microarray.txt",
@@ -199,7 +199,7 @@
                                     "@id": "#data/imagefile-2.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-2.cel"
+                                    "@id": "#data/arraydatafile-2.cel"
                                 }
                             ],
                             "parameterValues": [],
@@ -271,7 +271,7 @@
                                     "@id": "#data/imagefile-1.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-1.cel"
+                                    "@id": "#data/arraydatafile-1.cel"
                                 }
                             ],
                             "parameterValues": [],
@@ -291,7 +291,7 @@
                             "name": "hyb3.scan1",
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-3.cel"
+                                    "@id": "#data/arraydatafile-3.cel"
                                 },
                                 {
                                     "@id": "#data/imagefile-3.dat"

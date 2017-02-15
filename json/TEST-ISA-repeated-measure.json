@@ -82,10 +82,10 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-4.cel",
+                            "@id": "#data/arraydatafile-4.cel",
                             "comments": [],
                             "name": "4.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
                             "@id": "#data/imagefile-4.dat",
@@ -94,10 +94,10 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-1.cel",
+                            "@id": "#data/arraydatafile-1.cel",
                             "comments": [],
                             "name": "1.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
                             "@id": "#data/imagefile-6.dat",
@@ -106,28 +106,28 @@
                             "type": "Image File"
                         },
                         {
-                            "@id": "#data/rawdatafile-2.cel",
+                            "@id": "#data/arraydatafile-2.cel",
                             "comments": [],
                             "name": "2.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-5.cel",
+                            "@id": "#data/arraydatafile-5.cel",
                             "comments": [],
                             "name": "5.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-6.cel",
+                            "@id": "#data/arraydatafile-6.cel",
                             "comments": [],
                             "name": "6.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-3.cel",
+                            "@id": "#data/arraydatafile-3.cel",
                             "comments": [],
                             "name": "3.cel",
-                            "type": "Raw Data File"
+                            "type": "Array Data File"
                         },
                         {
                             "@id": "#data/imagefile-3.dat",
@@ -451,7 +451,7 @@
                                     "@id": "#data/imagefile-6.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-6.cel"
+                                    "@id": "#data/arraydatafile-6.cel"
                                 }
                             ],
                             "parameterValues": [],
@@ -474,7 +474,7 @@
                                     "@id": "#data/imagefile-1.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-1.cel"
+                                    "@id": "#data/arraydatafile-1.cel"
                                 }
                             ],
                             "parameterValues": [],
@@ -622,7 +622,7 @@
                             "name": "hyb2.scan1",
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-2.cel"
+                                    "@id": "#data/arraydatafile-2.cel"
                                 },
                                 {
                                     "@id": "#data/imagefile-2.dat"
@@ -668,7 +668,7 @@
                             "name": "hyb3.scan1",
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-3.cel"
+                                    "@id": "#data/arraydatafile-3.cel"
                                 },
                                 {
                                     "@id": "#data/imagefile-3.dat"
@@ -720,7 +720,7 @@
                                     "@id": "#data/imagefile-4.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-4.cel"
+                                    "@id": "#data/arraydatafile-4.cel"
                                 }
                             ],
                             "parameterValues": [],
@@ -879,7 +879,7 @@
                             "name": "hyb5.scan1",
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-5.cel"
+                                    "@id": "#data/arraydatafile-5.cel"
                                 },
                                 {
                                     "@id": "#data/imagefile-5.dat"

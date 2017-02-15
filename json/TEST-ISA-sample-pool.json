@@ -70,16 +70,16 @@
                     ],
                     "dataFiles": [
                         {
+                            "@id": "#data/arraydatafile-1.cel",
+                            "comments": [],
+                            "name": "1.cel",
+                            "type": "Array Data File"
+                        },
+                        {
                             "@id": "#data/imagefile-1.dat",
                             "comments": [],
                             "name": "1.dat",
                             "type": "Image File"
-                        },
-                        {
-                            "@id": "#data/rawdatafile-1.cel",
-                            "comments": [],
-                            "name": "1.cel",
-                            "type": "Raw Data File"
                         }
                     ],
                     "filename": "a_test-template3-splitting_transcription_profiling_DNA_microarray.txt",
@@ -135,7 +135,7 @@
                                     "@id": "#data/imagefile-1.dat"
                                 },
                                 {
-                                    "@id": "#data/rawdatafile-1.cel"
+                                    "@id": "#data/arraydatafile-1.cel"
                                 }
                             ],
                             "parameterValues": [],
