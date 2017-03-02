@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 01/08/2014 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITaxon	UBERON	OBI	NCIT	ERO
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/ERO
+Term Source Version	1.2	releases/2013-12-15	2014-03-29	14.06e	2013-08-02
+Term Source Description	National Center for Biotechnology Information (NCBI) Organismal Classification	Uber Anatomy Ontology	Ontology for Biomedical Investigations	National Cancer Institute Thesaurus	Eagle-I Research Resource Ontology
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2014.14
+Study Title	Transcriptomic analysis of midbrain and individual hindbrain rhombomeres in the chick embryo
+Study Submission Date	22/07/2013
+Study Public Release Date	22/07/2014
+Study Description	http://www.nature.com/articles/sdata201414#abstract
+Study File Name	s_chambers.txt
+Comment[Subject Keywords]	Biological sciences/Developmental biology;Biological sciences/Biological techniques/Gene expression analysis/Microarray analysis;Biological sciences/Neuroscience/Development of the nervous system;Biological sciences/Developmental biology/Experimental organisms/Model vertebrates
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]	
+Comment[Supplementary Information File Type]	x-zip-compressed
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata201414#supplementary-information
+Comment[Data Repository]	Gene Expression Omnibus
+Comment[Data Record Accession]	GSE48359
+Comment[Data Record URI]	http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=tpobfsaesaiyybw&acc=GSE48359
+STUDY DESIGN DESCRIPTORS
+Study Design Type	organism development design	organism part comparison design	transcription profiling by array design
+Study Design Type Term Accession Number	OBI:0001328	OBI:0001422	OBI:0001290
+Study Design Type Term Source REF	OBI	OBI	OBI
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	biological replicate	organism part
+Study Factor Type	Replicate	Organism Part
+Study Factor Type Term Accession Number	NCIT:C28038	NCIT:C103199
+Study Factor Type Term Source REF	NCIT	NCIT
+STUDY ASSAYS
+Study Assay Measurement Type	transcription profiling assay
+Study Assay Measurement Type Term Accession Number	OBI:0000424
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	DNA microarray
+Study Assay Technology Type Term Accession Number	OBI:0400148
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Affymetrix Chicken GeneChip
+Study Assay File Name	a_chambers.txt
+STUDY PROTOCOLS
+Study Protocol Name	Developing brain tissue collection	RNA extraction	RNA Labeling & Oligonucleotide array	Probe-level intensity estimation	Gene-level expression
+Study Protocol Type	sample collection	biological sample processing	data collection method	data processing operation	data transformation
+Study Protocol Type Term Accession Number	""	ERO:0000705	ERO:0001932	ERO:0100287	OBI:0200000
+Study Protocol Type Term Source REF	""	ERO	ERO	ERO	ERO
+Study Protocol Description					
+Study Protocol URI	""	""	""	""	""
+Study Protocol Version					
+Study Protocol Parameters Name	""	""	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	""	""	""
+Study Protocol Components Name	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	Wilson	Chambers
+Study Person First Name	Leigh	David
+Study Person Mid Initials		
+Study Person Email	""	david.2.chambers@kcl.ac.uk
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation	MRC Centre for Developmental Neurobiology, King’s College London, 4th Floor New Hunt’s House, London SE1 1UL, UK	Drug Discovery Unit, Wolfson Centre for Age Related Disease, King’s College London, Guy’s Campus, London SE1 1UL, UK
+Study Person Roles		
+Study Person Roles Term Accession Number		
+Study Person Roles Term Source REF		
+Comment[Study Person ORCID]		
+Comment[Funder]		
+Comment[FundRef ID]		
+Comment[Funder Term Source REF]		
+Comment[Grant Identifier]		
