@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 05/06/2014 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI	SO	NCIT	ERO
+Term Source File	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/SO	http://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/ERO
+Term Source Version	2014-03-29	unknown	14.04d	2013-08-02
+Term Source Description	Ontology for Biomedical Investigations	Sequence Types and Features Ontology	National Cancer Institute Thesaurus	Eagle-I Research Resource Ontology
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2014.11
+Study Title	Genomes and phenomes of a population of outbred rats and its progenitors
+Study Submission Date	26/02/2014
+Study Public Release Date	10/06/2014
+Study Description	http://www.nature.com/articles/sdata201411#abstract
+Study File Name	s_RGSMC.txt
+Comment[Subject Keywords]	Biological sciences/Genetics/Genome/Genetic variation;Biological sciences/Genetics/Genetic association study/Genome-wide association studies
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]		Supplementary Information	Supplementary Table 1	Supplementary Table 2	Supplementary Table 3	Supplementary Table 4	Supplementary Table 5
+Comment[Supplementary Information File Type]	x-zip-compressed	pdf	vnd.openxmlformats-officedocument.spreadsheetml.sheet	vnd.openxmlformats-officedocument.spreadsheetml.sheet	vnd.openxmlformats-officedocument.spreadsheetml.sheet	vnd.openxmlformats-officedocument.spreadsheetml.sheet	vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information	http://www.nature.com/articles/sdata201411#supplementary-information
+Comment[Data Repository]	ArrayExpress;EMBL Nucleotide Sequence Database;figshare;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database;EMBL Nucleotide Sequence Database
+Comment[Data Record Accession]	E-MTAB-2332;ERS184490;943485;ERS184491;ERS184492;ERS184493;ERS184494;ERS184495;ERS184496;ERS184497
+Comment[Data Record URI]	https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2332/;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/ACI_merge_20110524.bam;http://dx.doi.org/10.6084/m9.figshare.943485;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/BNssn_merged_20111126.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/Buf_merge_20110516.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/F344_merge_20110712.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/M520_merge_20110617.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/MR_merge_20110524.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/WKY_merge_20110805.bam;ftp://ftp.sra.ebi.ac.uk/vol1/ERA169/ERA169634/bam/WN_merge_20110611.bam
+STUDY DESIGN DESCRIPTORS
+Study Design Type	strain comparison design	individual genetic characteristics comparison design	longitudinal study design
+Study Design Type Term Accession Number	OBI:0001464	OBI:0001448	
+Study Design Type Term Source REF	OBI	OBI	
+STUDY PUBLICATIONS
+Study PubMed ID	
+Study Publication DOI	doi:10.1038/ng.2644
+Study Publication Author List	Baud A, Hermsen R, Guryev V, Stridh P, Graham D, McBride MW, Foroud T, Calderari S, Diez M, Ockinger J, Beyeen AD, Gillett A, Abdelmagid N, Guerreiro-Cacais AO, Jagodic M, Tuncel J, Norin U, Beattie E, Huynh N, Miller WH, Koller DL, Alam I, Falak S, Osborne-Pellegrin M, Martinez-Membrives E, Canete T, Blazquez G, Vicens-Costa E, Mont-Cardona C, Diaz-Moran S, Tobena A, Hummel O, Zelenika D, Saar K, Patone G, Bauerfeind A, Bihoreau MT, Heinig M, Lee YA, Rintisch C, Schulz H, Wheeler DA, Worley KC, Muzny DM, Gibbs RA, Lathrop M, Lansu N, Toonen P, Ruzius FP, de Bruijn E, Hauser H, Adams DJ, Keane T, Atanur SS, Aitman TJ, Flicek P, Malinauskas T, Jones EY, Ekman D, Lopez-Aumatell R, Dominiczak AF, Johannesson M, Holmdahl R, Olsson T, Gauguier D, Hubner N, Fernandez-Teruel A, Cuppen E, Mott R, Flint J
+Study Publication Title	Combined sequence-based and genetic mapping analysis of complex traits in outbred rats
+Study Publication Status	published
+Study Publication Status Term Accession Number	
+Study Publication Status Term Source REF	
+STUDY FACTORS
+Study Factor Name	genotype	sex	animal generation
+Study Factor Type	genotype	Sex	animal generation
+Study Factor Type Term Accession Number	SO:0001027	NCIT:C28421	
+Study Factor Type Term Source REF	SO	NCIT	
+STUDY ASSAYS
+Study Assay Measurement Type	phenotypic profiling	genomic sequence profiling	SNP profiling
+Study Assay Measurement Type Term Accession Number			
+Study Assay Measurement Type Term Source REF			
+Study Assay Technology Type	phenotype characterization	next generation sequencing	DNA microarray
+Study Assay Technology Type Term Accession Number	ERO:0000923	ERO:0001183	OBI:0400148
+Study Assay Technology Type Term Source REF	ERO	ERO	OBI
+Study Assay Technology Platform	visual inspection; maze/ cage/ shuttlebox; glucose meter (Accucheck, Roche Diagnostics); blood pressure cuff and piezoceramic transducer (Hartmann & Braun type 2); hemacytometer (ADVIA 120, Bayer, Siemens Diagnostics); flow cytometry (LSR-II, Becton Dickinson); manual scoring; biochemistry (Olympus AU400 chemistry Immuno Analyser); immunohistochemistry; bone densitometry (PIXImus mouse densitometer, Lunar Corp.); wound healing (metal ear punch, Fine science tools model 24210/02)	SOLiD 4 or 5500, Life Technologies	RATDIV array, Affymetrix
+Study Assay File Name	a_assay_RGSMC_phenotyping.txt	a_assay_RGSMC_sequencing.txt	a_assay_RGSMC_genotyping.txt
+STUDY PROTOCOLS
+Study Protocol Name	Animals	Coat colour	Fear related behaviours	Intraperitoneal Glucose Tolerance Test (IPGTT)	Blood pressure	Basal hematology	Basal immunology	Experimental Autoimmune Encephalomyelitis (EAE)	Euthanasia and tissue dissection	Serum biochemistry	Arterial elastic lamina ruptures	Bone mass and strength	Body weight	Renal agenesis	Wound healing	DNA extraction and genotyping	Genotype calling	Positioning the RATDIV SNPs on the Rnor5.0 assembly	Selection of a subset of high quality SNPs for haplotype reconstruction	Haplotype reconstruction in the outbred rats	Whole genome shotgun sequencing of the eight progenitors	Sequence alignment	Variant calling
+Study Protocol Type	Animal Husbandry	data collection method	behavioral assay	data collection method	data collection method	data collection method	data collection method	Intervention or Procedure	specimen collection	data collection method	data collection method	data collection method	data collection method	data collection method	data collection method	data collection method	data processing operation	data processing operation	data processing operation	data processing operation	data collection method	data processing operation	data processing operation
+Study Protocol Type Term Accession Number	NCIT:C16293	ERO:0001932	ERO:0001116	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0001932	NCIT:C25218	OBI:0000659	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0001932	ERO:0100287	ERO:0100287	ERO:0100287	ERO:0100287	ERO:0001932	ERO:0100287	ERO:0100287
+Study Protocol Type Term Source REF	NCIT	ERO	ERO	ERO	ERO	ERO	ERO	NCIT	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO	ERO
+Study Protocol Description																							
+Study Protocol URI																							
+Study Protocol Version																							
+Study Protocol Parameters Name																							
+Study Protocol Parameters Name Term Accession Number																							
+Study Protocol Parameters Name Term Source REF																							
+Study Protocol Components Name																							
+Study Protocol Components Type																							
+Study Protocol Components Type Term Accession Number																							
+Study Protocol Components Type Term Source REF																							
+STUDY CONTACTS
+Study Person Last Name	Baud	Guryev	Hummel	Johannesson	Flint
+Study Person First Name	Amelie	Victor	Oliver	Martina	Jonathan
+Study Person Mid Initials					
+Study Person Email	abaud@rip.ens-cachan.fr	""	""	""	jf@well.ox.ac.uk
+Study Person Phone					
+Study Person Fax					
+Study Person Address					
+Study Person Affiliation	EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK	European Research Institute for the Biology of Ageing, Rijksuniversiteit Groningen, Universitair Medisch Centrum Groningen, Groningen, 9700 AD, The Netherlands	Max-Delbruck Center for Molecular Medicine, Berlin, 13125, Germany	Department of Medical Biochemistry and Biophysics, Division of Medical Inflammation Research, Karolinska Institutet, Stockholm, SSE-17177 Sweden	Wellcome Trust Centre for Human Genetics, Roosevelt Drive, Oxford OX3 7BN, UK
+Study Person Roles					
+Study Person Roles Term Accession Number					
+Study Person Roles Term Source REF					
+Comment[Study Person ORCID]					
+Comment[Funder]					
+Comment[FundRef ID]					
+Comment[Funder Term Source REF]					
+Comment[Grant Identifier]					
