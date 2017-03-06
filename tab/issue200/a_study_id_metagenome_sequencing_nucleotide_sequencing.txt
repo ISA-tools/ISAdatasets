@@ -1,0 +1,22 @@
+"Sample Name"	"Protocol REF"	"Extract Name"	"Protocol REF"	"Parameter Value[library strategy]"	"Parameter Value[library selection]"	"Parameter Value[library layout]"	"Parameter Value[mid]"	"Protocol REF"	"Parameter Value[sequencing instrument]"	"Parameter Value[base caller]"	"Parameter Value[quality scorer]"	"Assay Name"	"Comment[Export]"	"Raw Data File"	"Protocol REF"	"Normalization Name"	"Data Transformation Name"	"Derived Data File"
+"sample1"	"nucleic acid extraction"	"extract1                  "	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample2"	"nucleic acid extraction"	"extract2"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample3"	"nucleic acid extraction"	"extract3"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample4"	"nucleic acid extraction"	"extract4"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample5"	"nucleic acid extraction"	"extract5"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample6"	"nucleic acid extraction"	"extract6"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
+"sample7"	"nucleic acid extraction"	"extract7"	"library construction"	"AMPLICON"	"PCR"	"SINGLE"	"1"	"nucleic acid sequencing"	"454 GS"	"1"	"2"	"assay_X"	"
+                no
+        "	"16903574_773500562798256_6592535530161297235_o.jpg"	"sequence analysis data transformation"	"2"	"t"	"16904627_773500209464958_1666499519258896817_o.jpg"
