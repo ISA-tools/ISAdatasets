@@ -2746,20 +2746,18 @@
                 }
               },
               {
-                "value": {
-                  "annotationValue": 60.269444,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 60.269444,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(latitude)"
                 }
               },
               {
-                "value": {
-                  "annotationValue": 5.222222,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 5.222222,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(longitude)"
@@ -3099,20 +3097,18 @@
                 }
               },
               {
-                "value": {
-                  "annotationValue": 60.269444,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 60.269444,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(latitude)"
                 }
               },
               {
-                "value": {
-                  "annotationValue": 5.222222,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 5.222222,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(longitude)"
@@ -3452,20 +3448,18 @@
                 }
               },
               {
-                "value": {
-                  "annotationValue": 60.269444,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 60.269444,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(latitude)"
                 }
               },
               {
-                "value": {
-                  "annotationValue": 5.222222,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 5.222222,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(longitude)"
@@ -3805,20 +3799,18 @@
                 }
               },
               {
-                "value": {
-                  "annotationValue": 60.269444,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 60.269444,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(latitude)"
                 }
               },
               {
-                "value": {
-                  "annotationValue": 5.222222,
-                  "termSource": "",
-                  "termAccession": ""
+                "value": 5.222222,
+                "unit": {
+                  "@id": "#Unit/degree"
                 },
                 "category": {
                   "@id": "#characteristic_category/geographic_location_(longitude)"
@@ -4490,6 +4482,12 @@
           "termSource": "",
           "termAccession": "",
           "annotationValue": "degree celsius"
+        },
+        {
+          "@id": "#Unit/degree",
+          "termSource": "",
+          "termAccession": "",
+          "annotationValue": "degree"
         }
       ]
     }
