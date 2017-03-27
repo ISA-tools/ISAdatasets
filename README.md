@@ -1,9 +1,17 @@
 # ISAdatasets
 
-Repository for ISA datasets, which may be available in different formats (tab, RDF, JSON)
+## Master branch
 
-ISA datasets from EMBL-EBI Metabolights:
+In the master branch, we keep example ISA datasets, which may be available in different formats (tab, RDF, JSON)
+
+Other ISA datasets are available:
+
+1. from EMBL-EBI Metabolights
 ftp://ftp.ebi.ac.uk/pub/databases/metabolights/studies/public/
 
-ISA datasets from NPG Scientific Data:
-https://github.com/ScientificDataLabs/ISA-tab
+1. from NPG Scientific Data:
+
+https://github.com/ScientificDataLabs/ISA-tab\
+
+
+
