@@ -1,0 +1,50 @@
+MAGE-TAB Version	1.1						
+Investigation Title	Growth control of the eukaryote cell: a systems biology study in yeast						
+Public Release Date	2009-03-10						
+SDRF File	BII-S-1.transcriptome.sdrf.txt	BII-S-2.microarray.sdrf.txt					
+Experimental Design	intervention design	time series design					
+Experimental Design Term Source REF	OBI	OBI					
+Experimental Design Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000115	http://purl.obolibrary.org/obo/OBI_0500020					
+Experimental Factor Name	limiting nutrient	rate	compound	exposure time	dose		
+Experimental Factor Type	chemical compound	rate	compound	time	dose		
+Experimental Factor Term Source REF		PATO		EFO	EFO		
+Experimental Factor Term Accession Number		http://purl.obolibrary.org/obo/PATO_0000161		http://www.ebi.ac.uk/efo/EFO_0000721	http://www.ebi.ac.uk/efo/EFO_0000428		
+Quality Control Type							
+Quality Control Term Accession Number							
+Quality Control Term Source REF							
+Replicate Type							
+Replicate Term Accession Number							
+Replicate Term Source REF							
+Normalization Type							
+Normalization Term Accession Number							
+Normalization Term Source REF							
+Person Last Name	Stephen	Castrillo	Zeef				
+Person Mid Initials	G	I	A				
+Person First Name	Oliver	Juan	Leo				
+Person Email							
+Person Phone							
+Person Fax							
+Person Address	Oxford Road, Manchester M13 9PT, UK	Oxford Road, Manchester M13 9PT, UK	Oxford Road, Manchester M13 9PT, UK				
+Person Affiliation	Faculty of Life Sciences, Michael Smith Building, University of Manchester	Faculty of Life Sciences, Michael Smith Building, University of Manchester	Faculty of Life Sciences, Michael Smith Building, University of Manchester				
+Person Roles	corresponding author	author	author				
+Person Roles Term Source REF							
+Person Roles Term Accession Number							
+PubMed ID	17439666						
+Publication DOI	doi:10.1186/jbiol54						
+Publication Author List	Castrillo JI, Zeef LA, Hoyle DC, Zhang N, Hayes A, Gardner DC, Cornell MJ, Petty J, Hakes L, Wardleworth L, Rash B, Brown M, Dunn WB, Broadhurst D, O'Donoghue K, Hester SS, Dunkley TP, Hart SR, Swainston N, Li P, Gaskell SJ, Paton NW, Lilley KS, Kell DB, Oliver SG.						
+Publication Title	Growth control of the eukaryote cell: a systems biology study in yeast.						
+Publication Status	published						
+Publication Status Term Accession Number							
+Publication Status Term Source REF							
+Protocol Name					metabolite extraction		
+Protocol Type					extraction		
+Protocol Term Accession Number					http://purl.obolibrary.org/obo/OBI_0302884		
+Protocol Term Source REF					OBI		
+Protocol Description							
+Protocol Parameters					sample volume;standard volume		
+Protocol Hardware							
+Protocol Software							
+Protocol Contact							
+Term Source Name	OBI	BTO	NEWT	UO	CHEBI	PATO	EFO
+Term Source File	http://bioportal.bioontology.org/ontologies/1123	ArrayExpress Experimental Factor Ontology					
+Term Source Version	47893	v 1.26	v 1.26	v 1.26	v 1.26	v 1.26	v 1.26
