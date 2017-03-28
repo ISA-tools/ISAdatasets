@@ -1,0 +1,5 @@
+Source Name	Characteristics[reference descriptor]	Material Type	Characteristics[organism]	Term Source REF	Term Accession Number	Protocol REF	Sample Name	Characteristics[organism part]	Term Source REF	Term Accession Number	Protocol REF	Sample Name
+source1	not applicable	specimen	Human	NCBITAXON	http://purl.bioontology.org/ontology/STY/T016	sample collection	sample1	liver	UBERON	http://purl.obolibrary.org/obo/UBERON_0002107	sample collection	sample2
+source2	not applicable	specimen	Human	NCBITAXON	http://purl.bioontology.org/ontology/STY/T016	sample collection	sample1	liver	UBERON	http://purl.obolibrary.org/obo/UBERON_0002107	sample collection	sample2
+source3	not applicable	specimen	Human	NCBITAXON	http://purl.bioontology.org/ontology/STY/T016	sample collection	sample1	liver	UBERON	http://purl.obolibrary.org/obo/UBERON_0002107	sample collection	sample2
+source4	not applicable	specimen	Human	NCBITAXON	http://purl.bioontology.org/ontology/STY/T016	sample collection	sample1	liver	UBERON	http://purl.obolibrary.org/obo/UBERON_0002107	sample collection	sample2
