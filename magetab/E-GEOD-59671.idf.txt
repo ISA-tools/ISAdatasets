@@ -1,0 +1,26 @@
+Comment[ArrayExpressAccession]	E-GEOD-59671
+MAGE-TAB Version	1.1						
+Public Release Date	2015-04-20
+Investigation Title	Celecoxib, rofecoxib treated human smooth muscle cells microarray timecourse						
+Comment[Submitted Name]	Celecoxib, rofecoxib treated human smooth muscle cells microarray timecourse
+Experiment Description	The aim of this data set is to measure the effect of rofecoxib and celecoxib on the transcription profile in an in vitro inflammation model. Transcription profiling was carried out using Affymetrix HG U-133A v2 microarrays. Human aortic smooth muscle cells (3F1243) were pre-treated with rofecoxib (500 nM) or celecoxib (500 nM) for two hours and subsequently exposed to IL-1beta (10 ng/ml). Transcription profiling was carried out at several time points of IL-1beta exposure: Four samples at -2 hours. Four samples each of control, celecoxib, and rofecoxib at each time point 0hr, 2hr, 8hr and 24hr. 52 samples in total.						
+Term Source Name	ArrayExpress	EFO
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl					
+Person Last Name	Ricciotti	Ricciotti	Grosser	Price	Fitzgerald		
+Person First Name	Emanuela	Emanuela	Tilo	Thomas	Garret		
+Person Mid Initials				S	A		
+Person Email	emanuela@mail.med.upenn.edu						
+Person Affiliation	University of Pennsylvania						
+Person Address	Department of Pharmacology/Institute for Translational Medicine and Therapeutics, University of Pennsylvania, 3400 Civic Center Blvd., Philadelphia, PA, USA						
+Person Roles	submitter						
+Protocol Name	P-GSE59671-1	P-GSE59671-5	P-GSE59671-6	P-GSE59671-2	P-GSE59671-3	P-GSE59671-4	P-GSE59671-7
+Protocol Description	Expression values were generated using RMA as implemented in the Affymetrix Expression Console software. ID_REF =  VALUE = Log2 RMA signal calculated by Affymetrix Expression Console software	Labeling was carried out at the Penn Microarray Facility.	Hybridization was carried out at the Penn Microarray Facility. Affymetrix Human Genome U133A v2 was used.	Cells were incubated with rofecoxib (500 nM), celecoxib (500 nM) or DMSO for 2 hours. Subsequently, cells were stimulated with interleukin 1beta (10 ng/mL). The start of incubation with interleukin 1beta is taken to be time zero.	Primary human aortic smooth muscle cells (3F1243) from Lonza were cultured using standard cell culture. Cells were harvested from culture after 0, 2, 8, or 24 hours incubation with interleukin 1beta (10 ng/mL).	Qiagen kit was used to isolate total RNA.	Data were collected at the Penn Microarray Facility.
+Protocol Type	normalization data transformation protocol	labelling protocol	hybridization protocol	sample treatment protocol	growth protocol	nucleic acid extraction protocol	array scanning protocol
+Experimental Factor Name	nsaid treatment	time					
+Experimental Factor Type	nsaid treatment	time					
+Comment[SecondaryAccession]	GSE59671						
+Comment[GEOReleaseDate]	2015-04-20						
+Comment[ArrayExpressSubmissionDate]	2014-07-22						
+Comment[GEOLastUpdateDate]	2015-04-21						
+Comment[AEExperimentType]	transcription profiling by array						
+SDRF File	E-GEOD-59671.sdrf.txt
