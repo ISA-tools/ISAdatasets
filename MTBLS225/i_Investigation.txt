@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MEDDRA"	"OBI"	"NCBITAXON"	"BTO"	"MS"	"CHMO"	"NCIT"	"MESH"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MEDDRA"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"6"	"22"	"2"	"22"	"86"	"18"	"44"	"6"	"99"	"113"	
+Term Source Description	"Medical Dictionary for Regulatory Activities"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS225"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS225"
+Study Title	"Targeted metabolomic analysis in hepatic extracts, serum, and urine of female mice gavaged with TCDD every 4 days for 28 days"
+Study Description	"TCDD is an environmental contaminant that elicits a number of hepatic effects including fat accumulation, inflammation, and fibrosis that can progress to hepatocellular carcinoma. RNA-Seq and targeted metabolomics were integrated with complementary dioxin response element (DRE) location and aryl hydrocarbon receptor (AhR) ChIP-Seq data to further investigate the hepatotoxicity of TCDD. Our integrative analysis identified changes similar to the Warburg effect observed in cancer cells, including pyruvate kinase isoform switching (PKM1 to PKM2), and an increase in the glutaminase (GLS1) GAC:KGA isoform ratio. Consequently, metabolites are redirected towards the pentose phosphate pathway, serine biosynthesis, and glutaminolysis. We propose that the effects of TCDD on central carbon and amino acid metabolism represents AhR-mediated hepatic metabolic reprogramming in order to increase NADPH production as an oxidative stress counter-measure."
+Study Submission Date	"2015-09-03"
+Study Public Release Date	"2016-06-02"
+Study File Name	"s_mtbls225.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"2,3,7,8-tetrachlorodibenzodioxine"	"Dose-Response Relationship, Drug"	"targeted metabolites"	"Hepatotoxicity"	"liquid chromatography-tandem mass spectrometry"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_28119"	"http://purl.bioontology.org/ontology/MESH/D004305"	""	"http://purl.bioontology.org/ontology/MEDDRA/10019851"	"http://purl.obolibrary.org/obo/CHMO_0000701"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	"CHEBI"	"MESH"	""	"MEDDRA"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26582802"	"27562557"
+Study Publication DOI	"10.1093/toxsci/kfv245"	"10.1093/toxsci/kfw163"
+Study Publication Author List	"Nault R, Fader KA, Kirby MP, Ahmed S, Matthews J, Jones AD, Lunt SY, Zacharewski TR."	"Nault R, Fader KA, Ammendolia DA, Dornbos P, Potter D, Sharratt B, Kumagai K, Harkema JR, Lunt SY, Matthews J, Zacharewski T."
+Study Publication Title	"Pyruvate Kinase Isoform Switching and Hepatic Metabolic Reprogramming by the Environmental Contaminant 2,3,7,8-Tetrachlorodibenzo-p-Dioxin."	"Dose-Dependent Metabolic Reprogramming and Differential Gene Expression in TCDD-Elicited Hepatic Fibrosis."
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Replicate"	"Dose"
+Study Factor Type	"treatment"	"biological replicate"	"Unit of Dose Calculation"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0002091"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66973"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls225_liver_mass_spectrometry.txt"	"a_mtbls225_serum_mass_spectrometry.txt"	"a_mtbls225_urine_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo TQ-S (Waters)"	"TSQ Vantage (Thermo Scientific)"	"TSQ Vantage (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Postnatal day 25 (PND25) female C57BL/6 mice (Charles River Laboratories, Portage, MI), housed in polycarbonate cages with cellulose fiber chips (Aspen Chip Laboratory Bedding, Northeastern Products, Warrensberg, NY) at 30-40% humidity and a 12h light/dark cycle and acclimatized for 4 days, were fed ad libitum (Harlan Teklad 22/5 Rodent Diet 8940, Madison, WI) with free access to deionized water. On PND 28 and every following 4th day animals (N = 5) were orally gavaged with 0.1 ml sesame oil or TCDD (Dow Chemical Company, Midland, MI) for a total of 28 days (0.01, 0.03, 0.1, 0.3, 1, 3, 10, or 30 µg/kg).  Blood was collected on day 28 by submandibular vein puncture into BD microtainer tubes with serum separator (BD, Franklin Lakes, NJ) and centrifuged at 10,000 x g for 5 min and serum was immediately stored at -80 ºC. Liver samples were frozen in liquid nitrogen, and stored at -80 ºC. Urine was collected from individual mice over 2 h on
+day 26 in the absence of food or water and stored immediately at -80 ºC."	"Liver (~100 mg) and serum (30 µl) aqueous metabolites were extracted by chloroform:water:methanol. Briefly, frozen liver samples were homogenized (Polytron PT2100, Kinematica) or vortexed (serum) in HPLC grade methanol:water (5:3, 4.63 ml, -20 °C) in Pyrex glass tubes. HPLC-grade chloroform was added following homogenization (methanol:water:chloroform, 5:3:5), vortexed, shaken on ice for 10 min, and centrifuged at 3,000 x g. The transferred aqueous phase was dried under nitrogen gas at room temperature and resuspended in HPLC-grade water prior to analysis. Hepatic extract protein layers were dried and a bicinchoninic acid assay (Sigma-Aldrich) on a Tecan Infinite 200 microplate reader (Männedorf, Switzerland) was used to normalize signal in liver.
+</p>
+Amino acids were carbobenzyloxy (cbz) derivatized for analysis. Redissolved solutions (20 µl) were added to 80 µl of HPLC-grade methanol, and 2.5 µl of triethylamine. 0.5 µl benzylchloroformate was added and samples were vortexed then centrifuged, and the supernatant was transferred to HPLC vials for analysis."	"Liver and Urine:</br>
+Hepatic extracts were first loaded onto a trapping column (C18, 4 mm x 2 mm, from Phenomenex) and washed for 30 seconds with HPLC grade water containing 10 mM tributylamine and 15 mM acetic acid for desalting. Hepatic extracts were examined by liquid chromatography (LC) and tandem mass spectrometry (MS/MS) as previously described[1] using a Paradigm MS4 HPLC (Michrom Bioresources, Auburn, CA), and a Synergi Hydro column (4 µm particle size, 80 Å, 150 mm x 2 mm, from Phenomenex). Urine samples, collected at 26 days (PND 54, 7 TCDD doses) were processed and analysed in the same way.
+</p>
+Blood:</br>
+For serum extracts, separation was performed as described above using an Acquity UPLC system (Waters), Ascentis Express column (C18, 5 cm x 2.1 mm, 2.7 µm from Sigma-Aldrich) coupled to a Xevo TQ-S triple quadrupole mass spectrometer (Waters). 
+</p>
+Ref:</br>
+[1] Lunt SY, Muralidhar V, Hosios AM, Israelsen WJ, Gui DY, Newhouse L, Ogrodzinski M, Hecht V, Xu K, Acevedo PN, Hollern DP, Bellinger G, Dayton TL, Christen S, Elia I, Dinh AT, Stephanopoulos G, Manalis SR, Yaffe MB, Andrechek ER, Fendt SM, Vander Heiden MG. Pyruvate kinase isoform expression alters nucleotide synthesis to impact cell proliferation. Mol Cell. 2015 Jan 8;57(1):95-107. doi:10.1016/j.molcel.2014.10.027. PMID:25482511</br>"	"Liver and Urine:</br>
+HPLC separation was coupled with negative-mode electrospray ionization (ESI) to a TSQ Vantage Triple Stage Quadrupole Mass Spectrometer (Thermo Scientific) operating in multiple reaction monitoring (MRM) mode. The same procedures were repeated for the urine samples
+</p>
+Blood:</br>
+After separation, negative-mode electrospray ionization was performed using a Xevo TQ-S triple quadrupole mass spectrometer (Waters) operating in MRM mode."	"Data analysis, including peak integration was performed using MAVEN[1][2]. Waters raw data were converted to mzxml format using msconvert in the ProteoWizard Tools[3] prior to analysis by MAVEN. One-way ANOVA was performed in SAS 9.3 (SAS Institute, Inc., Cary, NC).
+</p>
+Ref:</br>
+[1] Clasquin MF, Melamud E, Rabinowitz JD. LC-MS data processing with MAVEN: a metabolomic analysis and visualization engine. Curr Protoc Bioinformatics. 2012 Mar;Chapter 14:Unit14.11. doi: 10.1002/0471250953.bi1411s37. PMID:22389014</br>
+[2] Melamud E1, Vastag L, Rabinowitz JD. Metabolomic analysis and visualization engine for LC-MS data. Anal Chem. 2010 Dec 1;82(23):9818-26. doi:10.1021/ac1021166. PMID:21049934</br>
+[3] Kessner D, Chambers M, Burke R, Agus D, Mallick P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics. 2008 Nov 1;24(21):2534-6. doi:10.1093/bioinformatics/btn323. PMID:18606607</br>"	"Metabolites were identified using selective reaction monitoring and known parent-daughter fragmention in MRM mode."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zacharewski"	"Nault"
+Study Person First Name	"Timothy"	"Rance"
+Study Person Mid Initials	"R"	""
+Study Person Email	"tzachare@msu.edu"	"naultran@msu.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,118 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BCO"	"OBI"	"NCBITAXON"	"BTO"	"IDO"	"CHMO"	"NCIT"	"MS"	"MESH"	"FIX"	"EFO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/BCO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/IDO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/FIX"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"6"	"22"	"2"	"22"	"7"	"18"	"44"	"129"	"6"	"4"	"146"	"113"	
+Term Source Description	"Biological Collections Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Infectious Disease Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"Physico-Chemical Methods and Properties"	"Experimental Factor Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS216"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS216"
+Study Title	"Metabolomic Profiling of Mice Serum during Toxoplasmosis Progression Using Liquid Chromatography-Mass Spectrometry"
+Study Description	"Better understanding of the molecular changes associated with disease is essential for identifying new routes to improved therapeutics and diagnostic tests. The aim of this study was to investigate the dynamic changes in the metabolic profile of mouse sera during T. gondii infection. We carried out untargeted metabolomic analysis of sera collected from female BALB/c mice experimentally infected with the T. gondii Pru strain (Genotype II). Serum samples were collected at 7, 14 and 21 day post infection (DPI) from infected and control mice and were subjected to liquid chromatography-quadrupole time-of-flight mass spectrometry (LC-Q-TOF-MS)-based global metabolomics analysis. Multivariate statistical analysis identified 79 differentially expressed metabolites in ESI+ mode and 74 in ESI− mode in sera of T. gondii-infected mice compared to the control mice. Further principal component analysis (PCA) and partial least squares-discrimination analysis (PLS-DA) identified 19 dysregulated metabolites (5 in ESI+ mode and 14 in ESI− mode) related to the metabolism of amino acids and energy metabolism. The potential utility of these metabolites as diagnostic biomarkers was validated through receiver operating characteristic (ROC) curve analysis. These findings provide putative metabolite biomarkers for future study and allow for hypothesis generation about the pathophysiology of toxoplasmosis."
+Study Submission Date	"2015-08-10"
+Study Public Release Date	"2016-08-10"
+Study File Name	"s_mtbls216.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Toxoplasma gondii"	"untargeted metabolites"	"parasite host"	"liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/NCBITAXON/5811"	""	"http://purl.obolibrary.org/obo/IDO_0000536"	"http://purl.obolibrary.org/obo/CHMO_0000524"
+Study Design Type Term Source REF	"NCBITAXON"	""	"IDO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26785939"
+Study Publication DOI	"10.1038/srep19557"
+Study Publication Author List	"Zhou CX, Zhou DH, Elsheikha HM, Zhao Y, Suo X, Zhu XQ."
+Study Publication Title	"Metabolomic Profiling of Mice Serum during Toxoplasmosis Progression Using Liquid Chromatography-Mass Spectrometry."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Experimental Group"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_NEG_mtbls216_mass_spectrometry.txt"	"a_POS_mtbls216_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"6530 Q-TOF LC/MS (Agilent)"	"6530 Q-TOF LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"6 to 8-week-old female BALB/c mice (n = 6 per group) were either left uninfected or inoculated orally with freshly prepared 10 cysts of Toxoplasma gondii type II Prugniuad (Pru) strain parasites by oral gavage. Mock-infected (control) mice underwent the identical infection protocol but with plain PBS without any parasite cysts. All the mice were checked daily for clinical signs of toxoplasmosis for 21 DPI (days post infection). Following anesthetizing animals, 6 mice from both infection group and control group were sacrificed at 7, 14 and 21 DPI, respectively."	"The blood samples from different infection groups (7d, n=6; 14d, n=6; 21d, n=6) and their corresponding control groups (n=6) were prepared as described previously [1]. Blood was collected by retro-orbital bleed into Eppendorf tubes directly and allowed to clot for 30 min followed by centrifugation at 3000 x g for 10 min at 4 °C to collect the serum fraction. Supernatants were frozen immediately at -80 °C and shipped on dry ice. A total of 100 µl serum sample was thawed on ice at 4 °C and then precipitated by a solvent of acetonitrile-water (7:3), treated with ultrasonic waves for 15 min. The mixture was centrifuged at 12,000 rpm for 15 min at 4 °C and then the supernatant was transferred to 1.5 ml polypropylene tube.
+</p>
+Ref:</br>
+[1] Wikoff WR, Anfora AT, Liu J, Schultz PG, Lesley SA, Peters EC, Siuzdak G. Metabolomics analysis reveals large effects of gut microflora on mammalian blood metabolites. Proc Natl Acad Sci U S A. 2009 Mar 10;106(10):3698-703. doi:10.1073/pnas.0812874106. PMID:19234110</br>"	"Metabolomic analysis was performed using an Agilent 1290 Infinity LC System coupled to an Agilent 6530 Q-TOF/MS (Agilent Corp.) (LC-Q/TOF-MS) equipped with an electrospray ionization (ESI) source. The separation of all samples was performed on a C18 column (Agilent Technologies, Santa, Clara, CA) 100 Å (1.8 µm, 100 x 2.1 mm) with the column temperature maintained at 40 °C. The LC-MS system was run in a binary gradient solvent mode consisting of 0.1% (v/v) formic acid in water (solvent A) and 0.1% formic acid in acetonitrile (solvent B) and the flow rate was 0.4 ml/min.
+</p>
+The gradient of mobile phase:</br>
+ 0 min 0.4 ml/min A:95% B: 5%</br>
+ 2 min 0.4 ml/min A:95% B: 5%</br>
+17 min 0.4 ml/min A: 5% B:95%</br>
+19 min 0.4 ml/min A: 5% B:95%</br>"	"The instrument used was an Agilent 6530 Q-TOF/MS. The sample injection volume was 4 µl. Sample analysis was carried out in both positive and negative ion modes. The mass scanning range was 50-1000 m/z. Nitrogen was used as the dry gas and cone gas. The mass spectrometry was operated in V optics mode and the data acquisition rate was set to 0.03 s, with interscan delay of 0.02 s. To ensure accuracy and reproducibility, LockSpray were used in all analyses and Leucine-enkephalin was selected as the lockmass for positive ([MH]+ = 556.2771) and negative ([MH]- = 554.2615) ion modes.
+</p>
+We used Quality control (QC) samples to assess the reproducibility and reliability of the LC-MS system. QC samples were prepared by mixing equal volumes (10 µl) from each serum sample as they were aliquoted for analysis. This “pooled” sample was used to provide a “mean” profile representing all the analytes encountered during the analysis. The pooled “QC” sample was injected five times at the beginning of the run to ensure system equilibrium and then every 6 samples to further monitor the stability of the analysis.
+</p>
+Instrument parameters:</br>
+Positive ion mode:Capillary voltage 4 kV; Sampling cone 35 kV; Source temperature 100 °C;</br>
+Desolvation temprature 350 °C; Cone gas flow 50 l/h; Desolvation gas flow 600 l/h; Extraction cone 4 V</br>
+Negative ion mode: Capillary voltage 3.4 kV; Sampling cone 50 kV; Source temperature 100 °C;</br>
+Desolvation temprature 300 °C; Cone gas flow 50 l/h; Desolvation gas flow 700 l/h; Extraction cone 4 V</br>"	"Raw data were acquired by using LC-MS-Q-TOF MassHunter Workstation QTOF Acquisition software (B.03.01) (Agilent Technologies, Santa Clara, CA, USA) in an untargeted mode. LC-MS raw data file was converted into common format, and then directly processed by the XCMS toolbox (http://metlin.scripps.edu/xcms/)[1]. Peak picking, peak grouping and retention time correction were all involved in data pre-treatment, which was done through the XCMS software that was implemented with the freely available R programming language (v 2.13.1). Retention time (RT)-m/z data pairs were used to identify ion intensities of those detected peaks. The consistent variables (ion intensity information) were obtained by filtering peaks with 80% missing values and those with isotope ions from each group.
+</p>
+In order to remove the offsets and adjust the importance of high and low abundance metabolites to an equal level, the data was pre-processed by both mean-centering and variance-scaling prior to multivariate analysis. Then, the resulting three-dimensional matrix, which includes assigned peak indices (retention time-m/z pairs), sample names and variables, was further subjected to multivariate data analysis.
+</p>
+Ref:</br>
+[1] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. doi:10.1021/ac051437y. PMID:16448051</br>"	"Putative metabolites were first derived by searching the exact molecular mass data from redundant m/z peaks against the online HMDB (http://www.hmdb.ca/), METLIN (http://metlin.scripps.edu/) and KEGG (www.genome.jp/kegg/) databases. A specific metabolite was sieved out when a match with a difference between observed and theoretical mass was less than 10 ppm. Then, the metabolite molecular formula of matched metabolites was further identified by the isotopic distribution measurement[1].
+</p>
+Ref:</br>
+[1] Xu Y, Heilier JF, Madalinski G, Genin E, Ezan E, Tabet JC, Junot C. Evaluation of accurate mass and relative isotopic abundance measurements in the LTQ-orbitrap mass spectrometer for further metabolomics database building. Anal Chem. 2010 Jul 1;82(13):5490-501. doi:10.1021/ac100271j. PMID:20515063</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhou"	"Zhou"	"Elsheikha"	"Zhao"	"Suo"	"Zhu"
+Study Person First Name	"Chun-Xue"	"Dong-Hui"	"Hany"	"Yu"	"Xun"	"Xing-Quan"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"zhouchunxue23@163.com"	"zhoudonghui@caas.cn"	"Hany.Elsheikha@nottingham.ac.uk"	"zhaoyudc@163.com"	"suoxun@cau.edu.cn"	"xingquanzhu1@hotmail.com"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""
+Study Person Affiliation	""	""	""	""	""	""
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"113"	"5"	"22"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS341"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS341"
+Study Title	"Piriformospora indica stimulates root metabolism of Arabidopsis thaliana"
+Study Description	"Piriformospora indica is a root-colonizing fungus, which interacts with a variety of plants including Arabidopsis thaliana. This interaction has been considered as mutualistic, as it leads to an increased mycelia dry weight and increased shoot fresh weight, respectively. So far, only indolic glucosinolates and phytohormones have been identified as major key players. In a comprehensive non-targeted metabolite profiling study by means of UPLC/ESI-QTOFMS and GC/EI-QMS we analyzed Arabidopsis thaliana’s roots, root exudates, and leaves of inoculated and non-inoculated plants and identified further biomarkers. Among them, the concentration of nucleosides, dipeptides, oligolignols, and glucosinolate degradation products was affected in the exudates. In the root profiles, nearly all metabolite levels increased upon co-cultivation, namely those of carbohydrates, organic acids, amino acids, glucosinolates, oligolignols, and flavonoids. In the leaf profiles, we detected by far less significant changes. We only observed an increased concentration in organic acids, carbohydrates, ascorbate, glucosinolates and hydroxycinnamic acids, and a decreased concentration in nitrogen-rich amino acids in inoculated plants."
+Study Submission Date	"2016-04-27"
+Study Public Release Date	"2017-06-01"
+Study File Name	"s_MTBLS341.txt"
+Comment[Study Grant Number]	"Joint Initiative for Research and Innovation of the Leibniz Association (SAW-2011-IPB-3 97, “Chemical Communication in the Rhizosphere”)"
+Comment[Study Funding Agency]	"Leibniz Association"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"genotype"	"hydroponic plant culture media"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513"	"http://purl.obolibrary.org/obo/EO_0007067"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"EFO"	"EFO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27399695"
+Study Publication DOI	"10.3390/ijms17071091"
+Study Publication Author List	"Steffen Neumann"
+Study Publication Title	"Piriformospora indica Stimulates Root Metabolism of Arabidopsis thaliana"
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Replicate"	"Treatment"
+Study Factor Type	"replicate"	"Fungi"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683"	"http://purl.obolibrary.org/obo/NCBITaxon_4751"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls341_metabolite_profiling_gcms-root.txt"	"a_mtbls341_metabolite_profiling_gcms-leaf.txt"	"a_mtbls341_metabolite_profiling_lcms-root_pos.txt"	"a_mtbls341_metabolite_profiling_lcms-root_neg.txt"	"a_mtbls341_metabolite_profiling_lcms-leaf_pos.txt"	"a_mtbls341_metabolite_profiling_lcms-leaf_neg.txt"	"a_mtbls341_metabolite_profiling_lcms-exudate_pos.txt"	"a_mtbls341_metabolite_profiling_lcms-exudate_neg.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"P. indica was cultured on agar plates (1.5 % (w/v) agar) for 3 weeks at 28 °C in the dark using Aspergillus minimal medium. For this purpose, a punched out agar block with mycelia of P. indica was placed in the center of a culture plate. Two-week old A. thaliana plantlets were co-cultivated for two weeks with P. indica in a hydroponic system under short day conditions (23 °C, 8 h light, 180 μE·m-2·s-1 and 21 °C, 16 h dark). After two weeks of co-cultivation (four-week old plants) roots, leaves, and root exudates were harvested."	"Exudate samples were spiked with 20 µM 2-(2,4-dichlorophenoxy)acetic acid, evaporated until dryness, reconstituted in 9 ml water/methanol 95/5 (v/v) and subjected to a Bond Elut PPL cartridge (200 mg, 3 ml, Agilent Technologies, Böblingen). For this purpose, Bond Elut PPL cartridges were washed with 1 ml methanol, conditioned with 1 ml water/formic acid, 98/2 (v/v), loaded with 4 ml sample solution, washed with 1 ml water, and eluted with 2 ml methanol/formic acid, 99/2 (v/v). Finally, the eluate was dried and reconstituted in 120 µl water/methanol 70/30 (v/v) prior to LC/MS analysis.</br>
+</p>
+Ground tissue material (leaf and root) was processed by solid liquid extraction using methanol/water, 80/20 (v/v) (40 mg root fresh weight corresponds to 200 µl extraction solution and 50 mg leaf fresh weight corresponds to 400µl extraction solution). Frozen material was extracted twice with methanol/water, 80/20 (v/v) and reconstituted in methanol/water, 30/70 (v/v) prior to LC/MS-analysis. 100 µl extract of the remainder from the LC/MS-based metabolite profiling studies was spiked with 100 µM succinic acid-2,2,3,3-d4, dried down in a vacuum concentrator and subjected to a two-step derivatization process."	"GC:</br>
+For GC/MS analysis, 40 µl of the root extract were vacuum-evaporated and subjected to a derivatization with firstly methoxyamine hydrochloride and secondly N,O-bis(trimethylsilyl)trifluoroacetamide. Splitless injection at 230 °C onto an Agilent 6890N GC; ZB-5MS column (30 m × 0.25 mm, 0.25 µm 95 % dimethyl/5 % diphenyl polysiloxane film, 10 m integrated guard column, Phenomenex, www.phenomenex.com); carrier gas helium, constant flow: 1 ml min-1; temperature program: 70 °C for 1 min, gradient 9 K* min-1 to 300 °C, 5 min at 300 °C.</br>
+UPLC:</br>
+Acquity UPLC system (Waters, Eschborn/Germany); HSS T3 column (100 x 1.0 mm, particle size 1.8 µm, Waters); binary gradient (A: water / 0.1% (v/v) formic acid; B: acetonitrile / 0.1% (v/v) formic acid); full loop (loop volume: 2.5 µl); gradient: (flow rate: 150 µL min-1) 0–1 min, isocratic 95 % A, 5 % B; 1–16 min, linear from 5 to 95 % B; 16–18 min, isocratic 95 % B; 18–18.01, linear from 95 to 5 % B; 18.01–20 min, isocratic 5 % B.
+"	"ESI:</br>
+Eluting compounds were detected in positive and negative ionization mode from m/z 100 – 1000 using a MicroTOF–Q I hybrid quadrupole time-of-flight mass spectrometer equipped with an Apollo II electrospray ion source (Bruker Daltonics, Billerica, MA, USA).</br>
+ESI(+) settings: nebulizer gas, nitrogen, 1.6 bar; dry gas, nitrogen, 6 l/min, 190 °C; capillary, –5000 V; end plate offset, -500 V; funnel 1 RF, 200 Vpp; funnel 2 RF, 200 Vpp; in-source CID energy, 0 V; hexapole RF, 100 Vpp; quadrupole ion energy, 3 eV; collision gas, argon; collision energy, 3 eV; collision RF 200 Vpp; transfer time, 70 μs; pre pulse storage, 5 μs; spectra rate, 3 Hz.</br>
+ESI(-) settings: all parameters were maintained except for the nebulizer gas (1.4 bar), capillary (4000 V), quadrupole ion energy (5 eV), collision energy (7eV), and collision RF (150 Vpp).</br>
+Data acquisition: centroid mode; recalibration on the basis of lithium formate cluster ions after injecting 20 μL 10 mM lithium hydroxide 49.9/49.9/0.2 (dissolved in isopropanol/water/formic acid; v/v/)</br>
+</p>
+EI:</br>
+Eluting components were detected from m/z 70-600 using an Agilent 5975 Series Mass Selective Detector with the following EI settings: transfer line 300 °C; ion source temperature 230 °C; scan rate 3 Hz."	"GC/MS:</br>
+Chromatograms were baseline-corrected using Metalign and imported into the TagFinder software. TagFinder settings: Peak Finder (Smooth Width Apex Finder: 3; Low Intensity Threshold: 500; Max: Merging Time Width: 0.3); Time Scanner (Time Scan Width: 1; Min Fragment Intensity: 500); Tag Gen Filter (Tag Mass: 76, 146, 150-600; Sample Counts > 5); Intensity Calculator (Simple: MAX_INTENSITY); Tag Correlation (Correlation Method: PearsonCor; Significance Level: SIG_005); Tag Clustering (Core Adjacency Option: SAME_CORE; Min Core Option: INPUT_VALUE); Tag Output (Min Cluster Size: 3).</br>
+LC/MS:</br>
+Raw data files were converted to mzData using CompassXPort version 1.3.10 (Bruker Daltonics). For feature detection, alignment, and filling of missing values the R package XCMS version 1.41.0 was used. Following XCMS settings were applied: centWave algorithm; sntresh: 3, prefilter: (3,100), ppm: 25, peak width: (5,12); feature alignment with the XCMS function group.density (minfrac: 0.75, bw: 2, mzwid: 0.05); missing value replacement with the XCMS function fillPeaks.
+
+"	"GC/MS:</br>
+Mass spectral features were identified via best mass spectral and retention index match using the Golm Metabolome Database (http://gmd.mpimp-golm.mpg.de/) and the NIST2012 software.</br>
+LC/MS:</br>
+Annotations were obtained from prior experiments, including comparison to authentic standards (MSI level 1) and additional putative identifications (MSI levels 2 and 3).
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Column type;Column model"	"Instrument;Ion source;Mass analyzer;Scan polarity;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Strehmel"	"Mönchgesang"	"Herklotz"	"Krüger"	"Ziegler"	"Scheel"
+Study Person First Name	"Nadine"	"Susann"	"Siska"	"Sylvia"	"Jörg"	"Dierk"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"nadine.strehmel@ipb-halle.de"	"susann.moenchgesang@ipb-halle.de"	"siska.herklotz@pflanzenphys.uni-halle.de"	"sylvia.krueger@ipb-halle.de>"	"joerg.ziegler@ipb-halle.de"	"dierk.scheel@ipb-halle.de"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"
+Study Person Affiliation	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"BAO"	"CRISP"	"BIOMODELS"	"MESH"	"CHMO"	"NCBITAXON"	"EFO"	"CCON"	"OBI"	"CCONT"	"EFO"	"MS"	"ADW"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/BIOMODELS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CCON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CCONT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/ADW"	
+Term Source Version	"26"	"17"	"2"	"3"	"5"	"18"	"6"	"146"	"7"	"21"	"2"	"111"	"83"	"2"	
+Term Source Description	"Environment Ontology"	"BioAssay Ontology"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"BioModels Ontology"	"Medical Subject Headings"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Cerrado concepts and plant community dynamics"	"Ontology for Biomedical Investigations"	"Cell Culture Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Animal Natural History and Life History Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS75"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS75"
+Study Title	"Phototrophic biofilm assembly in microbial-mat-derived unicyanobacterial consortia: model systems for the study of autotroph-heterotroph interactions"
+Study Description	"Microbial autotroph-heterotroph interactions influence biogeochemical cycles on a global scale, but the diversity and complexity of natural systems and their intractability to in situ manipulation make it challenging to elucidate the principles governing these interactions. The study of assembling phototrophic biofilm communities provides a robust means to identify such interactions and evaluate their contributions to the recruitment and maintenance of phylogenetic and functional diversity overtime. To examine primary succession in phototrophic communities, we isolated two unicyanobacterial consortia from the microbial mat in HotLake, Washington, characterizing the membership and metabolic function of each consortium. We then analyzed the spatial structures and quantified the community compositions of their assembling biofilms. The consortia retained the same suite of heterotrophic species, identified as abundant members of the mat and assigned to Alphaproteobacteria, Gammaproteobacteria, and Bacteroidetes. Autotroph growth rates dominated early in assembly, yielding to increasing heterotroph growth rates late in succession. The two consortia exhibited similar assembly patterns, with increasing relative abundances of members from Bacteroidetes and Alphaproteobacteria concurrent with decreasing relative abundances of those from Gamma proteobacteria. Despite these similarities at higher taxonomic levels, the relative abundances of individual heterotrophic species were substantially different in the developing consortial biofilms. This suggests that, although similar niches are created by the cyanobacterial metabolisms, the resulting webs of autotroph-heterotroph and heterotroph-heterotroph interactions are specific to each primary producer. The relative simplicity and tractability of the Hot Lake unicyanobacterial consortia make them useful model systems for deciphering interspecies interactions and assembly principles relevant to natural microbial communities."
+Study Submission Date	"2014-06-24"
+Study Public Release Date	"2014-06-24"
+Study File Name	"s_Biofilm Assembly.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"species diversity"	"metabolomic profiling"	"confocal microscopy"	"real-time PCR"	"multi-species biofilm formation"	"Phototrophic Processes"	"microbial mat"	"community dynamics"	"Untargeted metabolites"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://cerrado.linkeddata.es/ecology/ccon#SpeciesDiversity"	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000103"	"http://www.bioassayontology.org/bao#BAO_0002084"	"http://purl.org/obo/owl/GO#GO_0044399"	"http://purl.bioontology.org/ontology/MSH/D052817"	"http://purl.obolibrary.org/obo/ENVO_01000008"	"http://cerrado.linkeddata.es/ecology/ccon#ComunityDynamics"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	"CCON"	"EFO"	"CHMO"	"BAO"	"BIOMODELS"	"MESH"	"ENVO"	"CCON"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"24778628"
+Study Publication DOI	"10.3389/fmicb.2014.00109"
+Study Publication Author List	"Cole JK, Hutchison JR, Renslow RS, Kim YM, Chrisler WB, Engelmann HE, Dohnalkova AC, Hu D, Metz TO, Fredrickson JK, Lindemann SR."
+Study Publication Title	"Phototrophic biofilm assembly in microbial-mat-derived unicyanobacterial consortia: model systems for the study of autotroph-heterotroph interactions."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Primary Phototrophic cyanobacteria"	"Harvesting Time"	"Experimental Replication"
+Study Factor Type	"organism"	"timepoint"	"replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0100026"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_biofilm_assembly_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Enrichment cultures were generated by subdividing the mat lamina and streaking a subsample of the green layer onto BG-11 plates [1] buffered with 10 mM TES pH 8.0 and amended with 400 mM MgSO4, 80 mM Na2SO4, 20 mM KCl, 1 mM NaHCO3, here after referred to as Hot Lake autotroph (HLA) medium. HLA was amended with 1 x Wolfe's vitamins [2] for initial isolation. Solid medium was generated through the addition of 10 g/l triple-washed agar (Thermo Fisher Scientific, Waltham, MA). Unless noted, all chemicals and reagents were purchased from Sigma-Aldrich, Saint Louis, MO. Plates were incubated at room temperature (~23 °C) under a fluorescent grow light (General Electric PL/AQ, Fairfield, CT) with a continuous photon flux of 20 µE/m^2/s. No exogenous sources of organic carbon were added. Two morphologically distinct cyanobacteria that grew on the plate were resuspended in HLA broth and physically isolated with a micropipette under a dissecting microscope. Each filament, including its co-isolated heterotrophs, was inoculated into sterile HLA broth and cultivated, yielding two unicyanobacterial consortia, UCC-A and UCC-O. The consortia were there after maintained continuously, with passaging performed every 4 weeks at a dilution of 1:100 into 100 ml of HLA broth in 250 ml borosilicate-glass Erlenmeyer flasks under the cultivation conditions described above.
+</p>
+The enrichment cultures were physically homogenized prior to subculturing by dividing the cultures into sterile 50 ml conical vials with sterile 3mm glass beads and vigorously shaking the tubes by hand for ~15 s to disrupt the biofilms. Heterotrophs were isolated from the Hot Lake mat or enrichment cultures by streaking a portion of a homogenized sample onto HLA plates supplemented with 0.25% yeast extract and 5m MNH4Cl, henceforth referred to as Hot Lake Heterotroph (HLH) medium, and incubating at room temperature in the dark. Single colonies were picked and streaked at least five times to obtain pure heterotroph cultures. Purity was verified by light microscopy and rrnA sequencing. Consortial biomass was harvested after 7, 14, 21, and 28 days of cultivation and dried in vacuo.
+</p>
+Ref:</br>
+[1] Stanier R. Y., Kunisawa R., Mandel M., Cohen-Bazire G. (1971). Purification and properties of unicellular blue-green algae (order Chroococcales). Bacteriol. Rev. 35, 171–205. PMID:4998365</br>
+[2] Wolin E. A., Wolin M. J., Wolfe R. S. (1963). Formation of methane by bacterial extracts. J. Biol. Chem. 238, 2882–2886. PMID:14063318</br>"	"All chemicals and reagents were purchased from Sigma-Aldrich unless otherwise noted. Dry biomass weight was recorded prior to resuspension with 200 µl of nanopure water to which was added a half volume of 0.1 mm zirconium/silica beads (Biospec, Bartlesville,OK). The biomass was homogenized by vortexing for 2 min, and metabolites were extracted with 800 µl of chloroform/methanol mixture (2:1,v/v). After centrifugation (15,000 x g, 4 °C, 5min) the aqueous layer was transferred to glass vials and dried in vacuo. Polar metabolites from microbial mat collected -80 °C were extracted using the same procedure. A mixture of fatty acid methyl esters (FAMEs; C8-C28) dissolved in hexane was used as a retention index standard."	"Polar metabolite analysis was performed with an Agilent 7890A gas chromatograph coupled with a single quadrupole MSD 5975C mass spectrometer (Agilent Technologies, Santa Clara, CA). For untargeted analysis of polar metabolites, dried aqueous layers were chemically derivatized as previously described [1][2] and analyzed in duplicate. Samples were analyzed according to the method used to create the Agilent Fiehn Metabolomics Retention Time Locked (RTL) Library [3]. An HP-5MS column (30 m x 0.2 5mm x 0.25 µm; Agilent Technologies, Inc.) was used. The sample injection mode was splitless, and 1 µl of each sample was injected. The injection port temperature was held at 250 °C throughout the analysis. The GC oven was held at 60 °C for 1 min after injection, and the temperature was then increased to 325 °C by 10 °C/min, followed by a 5 min hold at 325 °C [2]. The helium gas flow rate was determined by the Agilent Retention Time Locking function based on analysis of deuterated myristic acid (Agilent Technologies) and was in the range of 0.45-0.5 ml/min. Data were collected over the mass range 50-550 m/z. The mixture of FAMEs(C8 - C28) was analyzed one per day alongside the samples to standardize retention index alignment in subsequent data analysis.
+</p>
+Ref:</br>
+[1] Kim Y.-M., Metz T. O., Hu Z., Wiedner S. D., Kim J.-S., Smith R. D., et al. (2011). Formation of dehydroalanine from mimosine and cysteine: artifacts in gas chromatography/mass spectrometry based metabolomics. Rapid Commun. Mass Spectrom. 25, 2561–2564 10.1002/rcm.5134. PMID:21910289</br>
+[2] Kim Y.-M., Schmidt B. J., Kidwai A. S., Jones M. B., Kaiser B. L. D., Brewer H. M., et al. (2013). Salmonella modulates metabolism during growth under conditions that induce expression of virulence genes. Mol. Biosyst. 9, 1522–1534 10.1039/C3MB25598K. PMID:23559334</br>
+[3] Kind T., Wohlgemuth G., Lee D. Y., Lu Y., Palazoglu M., Shahbaz S., et al. (2009). FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Anal. Chem. 81, 10038–10048 10.1021/ac9019522. PMID:19928838</br>"	"An Agilent GC 7890A coupled with a single quadrupole MSD 5975C (Agilent Technologies, Inc.; Santa Clara, CA, USA) was used, and the samples were blocked and analyzed in random order for each experiment. Data were collected over the mass range 50-550 m/z. A mixture of FAMEs (C8-C28) was analyzed once per day together with the samples for retention index alignment purposes during subsequent data analysis."	"GC-MS raw data files from each Experiment were processed using the Metabolite Detector software, version 2.0.6 beta. Briefly, Agilent.D files were converted to netCDF format using Agilent Chemstation, followed by conversion to binary files using Metabolite Detector. Retention indices of detected metabolites were calculated based on the analysis of the FAMEs mixture, followed by their chromatographic alignment across all analyses after deconvolution."	"Metabolites were initially identified by matching experimental spectra to an augmented version of FiehnLib (i.e., the Agilent Fiehn Metabolomics Retention Time Locked (RTL) Library, containing spectra and validated retention indices for over 700 metabolites), using a Metabolite Detector match probability threshold of 0.6 (combined retention index and spectral probability). All metabolite identifications were manually validated to reduce deconvolution errors during automated data-processing and to eliminate false identifications. The NIST 08 GC-MS library was also used to cross validate the spectral matching scores obtained using the Agilent library and to provide identifications of unmatched metabolites. Fragment ions due to trimethylsilylation (i.e. m/z 73 and 147) were excluded from the determination of metabolite abundance. Features resulting from GC column bleeding were removed from the data matrices prior to further data processing and analysis."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Metz"
+Study Person First Name	"Thomas"
+Study Person Mid Initials	"O"
+Study Person Email	"Thomas.Metz@pnnl.gov"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"3335 INNOVATION BLVD
+K8-98
+Richland, WA  99354"
+Study Person Affiliation	"Biological Sciences Division, Fundamental and Computational Sciences Directorate, Pacific Northwest National Laboratory"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

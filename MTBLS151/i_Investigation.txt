@@ -1,0 +1,120 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"NMR"	"CHEBI"	"BTO"	"SEP"	"EFO"	"CHMO"	"SIO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NMR"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/SEP"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/SIO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"28"	"2"	"7"	"80"	"22"	"2"	"113"	"5"	"44"	"42"	"22"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"NMR-Instrument Component of Metabolomics Investigations Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Sample Processing and Separation Techniques Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Semanticscience Integrated Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS151"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS151"
+Study Title	"Quantitative 1H NMR metabolome profiling of Thai Jasmine rice (Oryza sativa) reveals primary metabolic response during brown planthopper infestation"
+Study Description	"Brown planthopper (BPH; Nilaparvata lugens) is a phloem feeding insect which is one of the most serious threats to rice crops in many countries throughout Asia. 1H NMR spectroscopy, combined with chemometrics, was used to analyze the polar metabolome from leaf extracts of Thai Jasmine rice (brown planthopper (BPH)-susceptible KD) and its BPH resistant isogenic lines (BPH-resistant IL7 and BPH-resistant+ IL308 varieties) with and without BPH infestation at various time points (days 1, 2, 3, 4 and 8). Physiological changes of the rice isogenic lines were different based on the quantitative trait loci of BPH resistance. Multivariate models were capable of distinguishing between the susceptible and the resistant rice varieties throughout the infestation. The concentration of 10 metabolites were significantly altered (p < 0.05) between the infested and the control groups of each examined rice variety. Metabolic pathway analysis suggested that BPH infestation could perturb transamination during the early stages of infestation (days 1–3) for all rice varieties. In addition, the IL7 and IL308 varieties responded earlier (day 3) than the KD variety (day 8) by perturbing amino acid metabolism, shikimate and gluconeogenesis pathways. By day 8 of the infestation, the KD cultivar responded by activating the amino acid-mediated-de novo pathway whereas the IL308 variety activated the purine and pyrimidine compound-mediated-salvage pathway for nucleotide biosynthesis. This study has identified, for the first time, several potential metabolic pathways for acclimatization and defense mechanisms against BPH infestation. These findings provide a valuable, first insight into BPH resistance mechanisms in Thai Jasmine rice."
+Study Submission Date	"2015-01-05"
+Study Public Release Date	"2016-09-30"
+Study File Name	"s_brown planthopper infestation in rice.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"	"Chemometrics"	"Nilaparvata lugens"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://purl.bioontology.org/ontology/NCBITAXON/108931"
+Study Design Type Term Source REF	""	"CHMO"	""	"NCBITAXON"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0817-4"
+Study Publication Author List	"Umaporn Uawisetwathana, Stewart F. Graham, Wintai Kamolsukyunyong, Wissarut Sukhaket, Amornpan Klanchui, Theerayut Toojinda, Apichart  Vanavichit, Nitsara Karoonuthaisiri, Christopher T. Elliott"
+Study Publication Title	"Quantitative 1H NMR metabolome profiling of Thai Jasmine rice (Oryza sativa) reveals primary metabolic response during brown planthopper infestation"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"brown planthopper treatment"	"time course"	"replicate"
+Study Factor Type	"genotype"	"Boolean"	"timepoint"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_brown_planthopper_infestation_in_rice_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Rice and brown planthopper samples:</br>
+For rice varieties, one BPH-susceptible cultivar, Thai Jasmine rice (KD) and two BPH-resistant isogenic lines (ILs); strain UBN03078-101-342-4-7 (IL7) and UBN3078-101- 432-6-308 (IL308), were utilized to identify differential metabolomic profiles during BPH infestation at various time points. The IL7 and IL308 were the BPH-resistance-ILs of KD contain Bph3 only and Bph3 plus the terpene synthase (TPS) gene, respectively [1].
+</p>
+For BPH, the Ubon Rachathani population (UBN-BPH) was cultured and manipulated in a standard BPH-susceptible Taichung Native 1 (TN1) rice cultivar enclosure [2]. For rice samples, all examined rice varieties were grown in a total of 90 pots (30 pots/each; pot dimensions: 20 cm in diameter and 18 cm in height) with 3 plants per pot in a greenhouse with 13 h (06:00–19:00) light and 11 h (19:00–06:00) dark cycles for 45 days (tilling stage) before plants were equally divided into two groups (control and BPH treatment, 15 pots/group). For each group, samples were collected at five time points (1, 2, 3, 4, and 8 days; 3 pots/day/group). Effects of BPH infestation on the 3 varieties were investigated by dividing each variety into 2 groups: a control group (without BPH feeding) and a treatment group (with BPH feeding).
+</p>
+Brown planthopper (BPH) treatment and rice sample collection:</br>
+For the BPH treatment group, each rice variety in the group was separately transferred into an aluminum cage before being treated with BPH. The cage was covered with plastic mesh (1 mm diameter) to prevent the BPH to migrate between the different rice isogenic lines. In each cage, 25–30 second- to third-instar BPH nymphs were introduced to each plant (15 pots/variety/cage). In parallel, control groups were maintained in separate aluminum cages covered with plastic mesh without the introduction of BPH nymphs. For sample collection, a homogeneous pool of 3 plants/pot of leaf samples from three different varieties in both control and treatment groups were collected on days 1, 2, 3, 4 and 8, respectively. The samples were collected at the same time daily beginning at 09:00 for control groups followed by BPH treatment groups at 13:00. Rice varieties were collected in the same order for both control and BPH treatment groups. The samples were cut using scissors on the lowest point of the leaf sheath at ground level. Leaf samples (approximately 60–100 cm tall) including leaf sheathes and leaf blades were collected and flash frozen in liquid nitrogen. All frozen samples were lyophilized (Modulyo, Thermo Scientific, USA), ground to a fine powder (Phillip HR2020, USA) and sieved to remove any large particulates. All dried powder samples were stored at -80 °C prior to metabolomic analysis.
+</p>
+Ref:</br>
+[1] Kamolsukyunyong, W., Sukhaket, W., Ruanjaichon, V., Toojinda, T., & Vanavichit, A. (2013). Single-feature polymorphism mapping of isogenic rice lines identifies the influence of terpene synthase on brown planthopper feeding preferences. Rice, 6(1), 18. doi:10.1186/1939-8433-6-18. PMID:24280452</br>
+[2] Jairin, J., Teangdeerith, S., Leelagud, P., Kothcharerk, J., Sansen, K., Yi, M., et al. (2009). Development of rice introgression lines with brown planthopper resistance and KDML105 grain quality characteristics through marker-assisted selection. Field Crop Research, 110, 263–271. doi:10.1016/j.fcr.2008.09.009.</br>"	"The polar extraction method was modified from [1]. Briefly, 0.5 g of leaf samples were extracted with 10 and 15 ml of ice-cold 80:20 MeOH:H2O, respectively, by rigorously mixing samples (MINIMIX, merris, UK) for 10 min before sonicating for 15 min. Samples were subsequently centrifuged at 4000 x g followed by a 16,000 x g cycle for 20 min at 4 °C each. The supernatants were collected and lyophilized (Christ, UK) overnight until completely dried.
+</p>
+Ref:</br>
+[1] Graham, S., Amigues, E., Migaud, M., & Browne, R. (2009). Application of NMR based metabolomics for mapping metabolite variation in European wheat. Metabolomics, 5(3), 302–306. doi:10.1007/s11306-008-0154-y.</br>"	"The dried samples were reconstituted in 1 ml of deuterium oxide (Sigma, cat no. 151882) containing 0.081 lM of the internal standard 3-(trimethylsilyl) propionic-2,2,3,3-d4 acid sodium salt (TSP; Sigma, cat no. 269913) in 0.1 M phosphate buffer (PB, pH 7.0). The reconstituted samples were centrifuged at 16,000 x g for 20 min at 4 °C and 600 μl of the supernatant was transferred into 5 mm NMR tubes for analysis."	"All spectral data were acquired on a 400 MHz 1H Avance III NMR spectrometer (Bruker, Germany) at 300 K."	"Using a randomized running order one-dimensional 1H NMR spectra were acquired across a spectral width of 8.2 kHz into 32 K data points: Relaxation delay = 5 s, t1 = 6 ms. A total of 128 transients were acquired. As with standard one-dimensional spectra, the summed transients were multiplied by a 0.3 Hz apodisation factor prior to Fourier Transformation; chemical shifts (d) are reported in parts per million (ppm) of the operating frequency and were referenced to the TSP resonance (d = 0.00). Replication of results was insured by running a single sample throughout the experiment and direct comparison of the acquired spectra was used as a measure of reproducibility and quality control [1].
+</p>
+Ref:</br>
+[1] Graham SF, Ruiz-Aracama A, Lommen A, Cannizzo FT, Biolatti B, Elliott CT, Mooney MH. (2012). Use of NMR metabolomic plasma profiling methodologies to identify illicit growth-promoting administrations. Analytical and Bioanalytical Chemistry, 403(2), 573–582. doi:10.1007/s00216-012-5815-z. PMID:22370585</br>"	"All the sample spectra were phased and baselines were manually corrected using ACDlabs version 12.0 (Toronto, Canada). Data reduction was carried out by manually binning the spectra and measuring the integral for each bin/bucket between d0.00 and d8.50 ppm—a total of 197 buckets were recorded. The region from d4.70 to d4.90 ppm, which contained the residual water signal, was excluded. The integrals were normalized to the total spectral intensity prior to chemometric analysis."	"The spectral integrals were identified by comparing their chemical shift and multiplicity to public and commercial databases such as Chenomx NMR Profiler version 7.6 (Chenomx NMR suite 7.6, Chenomx Inc., Canada), the Human Metabolome database [1][2][3] and the Madison metabolome consortium database [4]. The identified metabolites were confirmed using 2D 1H-1H correlation spectroscopy (COSY), 1H-13C heteronuclear single quantum correlation (HSQC) and spiking with pure compounds. The metabolite were identified according to minimum reporting standards for chemical analysis [5].
+</p>
+For the chemometric analysis, all spectral integrals were mean centered and Pareto scaled using SIMCA P version 13.0.1 (Umetric, Sweden). Principle Component Analysis (PCA) was employed to generate models to examine the effects of different factors, namely: the rice varieties, the BPH treatment and the time points of the experiment.
+</p>
+Ref:</br>
+[1] Wishart, D. S., Jewison, T., Guo, A. C., Wilson, M., Knox, C., Liu, Y., et al. (2013). HMDB 3.0—The Human Metabolome Database in 2013. Nucleic Acids Research, 41(D1), D801–D807. doi:10.1093/nar/gks1065. PMID:23161693</br>
+[2] Wishart, D. S., Knox, C., Guo, A. C., Eisner, R., Young, N., Gautam, B., et al. (2009). HMDB: A knowledgebase for the human metabolome. Nucleic Acids Research, 37(suppl 1), D603–D610. doi:10.1093/nar/gkn810. PMID:18953024</br>
+[3] Wishart, D. S., Tzur, D., Knox, C., Eisner, R., Guo, A. C., Young, N., et al. (2007). HMDB: The Human Metabolome Database. Nucleic Acids Research, 35(suppl 1), D521–D526. doi:10.1093/nar/gkl923. PMID:17202168</br>
+[4] Cui, Q., Lewis, I. A., Hegeman, A. D., Anderson, M. E., Li, J., Schulte, C. F., et al. (2008). Metabolite identification via the Madison Metabolomics Consortium Database. Nature Biotechnology, 26(2), 162–164. doi:10.1038/nbt0208-162/nbt0208-162. PMID:18259166</br>
+[5] Sumner, L. W., Amberg, A., Barrett, D., Beale, M. H., Beger, R., Daykin, C. A., et al. (2007). Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics, 3(3), 211–221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Uawisetwathana"	"Graham"	"Kamolsukyunyong"	"Sukhaket"	"Klanchui"	"Toojinda"	"Vanavichit"	"Karoonuthaisiri"	"Elliott"
+Study Person First Name	"Umaporn"	"Stewart"	"Wintai"	"Wissarut"	"Amornpan"	"Theerayut"	"Apichart"	"Nitsara"	"Christopher"
+Study Person Mid Initials	""	"F"	""	""	""	""	""	""	"T"
+Study Person Email	"umaporn.uaw@biotec.or.th"	"Stewart.Graham@beaumont.edu"	"wtkmsyy@gmail.com"	""	"amornpan.boo@biotec.or.th"	"theerayuttoojinda@gmail.com"	"vanavichit@gmail.com"	"nitsara.kar@biotec.or.th"	"chris.elliott@qub.ac.uk"
+Study Person Phone	"+66-2-5646700"	""	""	""	""	""	""	""	""
+Study Person Fax	"+66-2-5646707 "	""	""	""	""	""	""	""	""
+Study Person Address	"Microarray Laboratory"	""	"Rice Gene Discovery Unit"	"Rice Gene Discovery Unit"	"Microarray Laboratory"	"Rice Gene Discovery Unit"	"Rice Gene Discovery Unit"	"Microarray Laboratory"	"Institute for Global Food Security"
+Study Person Affiliation	"National Center for Genetic Engineering and Biotechnology "	"Beaumont Health System,3601 W. Thirteen Mile Road, Royal Oak, MI 48073"	"National Center for Genetic Engineering and Biotechnology "	"National Center for Genetic Engineering and Biotechnology "	"National Center for Genetic Engineering and Biotechnology "	"National Center for Genetic Engineering and Biotechnology "	"National Center for Genetic Engineering and Biotechnology "	"National Center for Genetic Engineering and Biotechnology "	"School of Biological Sciences, Queen’s University Belfast"
+Study Person Roles	"researcher"	"researcher"	"researcher"	"researcher"	"researcher"	"graduate student advisor role"	"graduate student advisor role"	"graduate student advisor role"	"graduate student advisor role"
+Study Person Roles Term Accession Number	"http://nmrML.org/nmrCV#NMR:1001271"	"http://nmrML.org/nmrCV#NMR:1001271"	"http://purl.obolibrary.org/obo/sep_00034"	"http://purl.obolibrary.org/obo/sep_00034"	"http://purl.obolibrary.org/obo/sep_00034"	"http://semanticscience.org/resource/SIO_000878"	"http://semanticscience.org/resource/SIO_000878"	"http://semanticscience.org/resource/SIO_000878"	"http://semanticscience.org/resource/SIO_000878"
+Study Person Roles Term Source REF	"NMR"	"NMR"	"SEP"	"SEP"	"SEP"	"SIO"	"SIO"	"SIO"	"SIO"

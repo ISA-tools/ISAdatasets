@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BAO"	"CHMO"	"NCBITAXON"	"EFO"	"NIFSTD"	"MS"	"NCIT"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"29"	"26"	"18"	"6"	"146"	"21"	"129"	"44"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BioAssay Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Neuroscience Information Framework (NIF) Standard Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS59"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS59"
+Study Title	"A benchmark spike-in data set for biomarker identification in metabolomics"
+Study Description	"The development and the validation of innovative approaches for biomarker selection are of paramount importance in many -omics technologies. Unfortunately, the actual testing of new methods on real data is difficult, because in real data sets, one can never be sure about the “true” biomarkers. In this paper, we present a publicly available metabolomic ultra performance liquid chromatography–mass spectrometry spike-in data set for apples. The data set consists of 10 control samples and three spiked sets of the same size (G1,G2,G3), where naturally occurring compounds are added in different concentrations. In this sense, the data set can serve as a test bed to assess the performance of new algorithms (eg. biomarker selection, peak picking, etc.) and compare them with previously published results. The dataset includes the raw CDF files for all the injections. The raw data are organized in four assays: positive ion mode, negative ion mode, injections of the standard mixes (in both positive and negative ion modes). The spiked compounds are: epicatechin (CHEBI 90), catechin (CHEBI 15600), cyanidin-3-galactoside (CHEBI 27475), quercetin-3-galactoside (CHEBI 67486), quercetin-3-glucoside (CHEBI 28299), quercetin-3-rhamnoside (CHEBI 17558), resveratrol (CHEBI 27881), phloridzin (CHEBI 8113), quercetin (CHEBI 16243). All the compounds except resveratrol and cyanidin-3-galactoside are known to be present in the apple extracts. Spiking concentrations have been defined taking as a reference the ones measured in a pooled apple extract. A detailed description of the spiking concentration in the three group is included in the spiking.pdf file."
+Study Submission Date	"2013-10-14"
+Study Public Release Date	"2013-10-24"
+Study File Name	"s_SPK-APPLE.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Benchmarking dataset"	"Targeted metabolites"	"metabolomic profiling"	"ultra-performance liquid chromatography-mass spectrometry"	"spiking"
+Study Design Type Term Accession Number	"http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl#nlx_inv_20090406"	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0002852"
+Study Design Type Term Source REF	"NIFSTD"	""	"EFO"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""	"21962342"
+Study Publication DOI	"10.1002/cem.1420"	"10.1016/j.aca.2011.01.039"
+Study Publication Author List	"Pietro Franceschi, Domenico Masuero, Urska Vrhovsek, Fulvio Mattivi, Ron Wehrens"	"Wehrens R, Franceschi P, Vrhovsek U, Mattivi F."
+Study Publication Title	"A benchmark spike-in data set for biomarker identification in metabolomics."	"Stability-based biomarker selection."
+Study Publication Status	"published"	"published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Spiking"	"Apple Sample"
+Study Factor Type	"Group"	"biological replicate"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls59_pos_std_mix_mass spectrometry.txt"	"a_mtbls59_pos_mass spectrometry.txt"	"a_mtbls59_neg_mass spectrometry.txt"	"a_mtbls59_neg_std_mix_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"	"SYNAPT HDMS (Waters)"	"SYNAPT HDMS (Waters)"	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Twenty apples, variety Golden Delicious, have been purchased locally. Extracts of every single fruit were prepared as shown previously [1]. The core of the fruit was removed with a corer, and each apple was cut into equal slices. Three slices (cortex and skin) from the opposite side of each fruit were used for the preparation of aqueous acetone extracts.
+</p>
+Ref:</br>
+[1] Vrhovsek U, Rigo A, Tonon D, Mattivi F. Quantitation of polyphenols in different apple varieties. J Agric Food Chem. 2004 Oct 20;52(21):6532-8. PMID:15479019</br>"	"The samples were homogenized in a blender Osterizer mod. 847-86 (Oster GmbH, Germany) at speed one in a mixture of acetone/water (70/30 w/w).
+</p>
+Extracts of 10 apples were used as controls, and the extracts of the other 10 apples were used to create the spiked samples. The latter were divided into three aliquots and spiked with different concentrations of known compounds. The full data set, then, consists of four groups of 10 samples each. The concentrations and nature of the spiking compounds were chosen in order to simulate the conditions of a typical two-class metabolomic experiment. Some of these biomarkers are known to be naturally present in Golden Delicious apples, and for these, an artificial increase of concentration simulates their relative accumulation in tissues. Two compounds not naturally present in the matrix were also added (trans-resveratrol and cyanidin-3-galactoside), with the objective of simulating the biological synthesis of a new compound. The concentration of the biomarkers was chosen by taking as a reference the concentrations of the biomarker compounds measured in a pooled apple extract. The spiking concentration was constant in each group, but the use of different extracts conserves the absolute natural variation in marker levels between apples. As a consequence, any variation in concentration comes from analytical or biological variability. In each of the three groups, the spiking compounds are added in different concentrations, corresponding to approximate target increases of 20%, 40%, and 100%; in this way, for example, group 1 has 100% increase of quercetin-3-rhamnoside and phloridzin. The concentrations of trans-resveratrol and cyanidin-3-galactoside were chosen in such a way that the peak intensities should be in line with those of the other spike-in compounds."	"Before the injection, acetone was evaporated by rotary evaporation, the samples were brought back to the original volume with ethanol and were filtered with a 0.22 µm filter (Millipore, Bedford, USA). 
+</p>
+Ultra performance liquid chromatography–mass spectrometry spectra were acquired on an ACQUITY–SYNAPT Q-TOF (Waters, Milford, USA) in positive and negative ion mode with the following chromatographic conditions:</br>
+Column: BEH C18 1.7 um, 2.1 x 50mm; Column temperature 40 °C; Injection volume 5 µl; Eluent flux 0.8 ml/min; Solvent A 0.1% formic acid in H2O; Solvent B 0.1% formic acid in MeOH; Gradient: Linear gradient from 0% to 100% of solvent B in 10 min, 100% of B for 2 min, 100% A within 0.1min, Equilibration for 2.9 min.
+</p>
+No technical replicates were performed."	"Ultra performance liquid chromatography–mass spectrometry spectra were acquired on an ACQUITY–SYNAPT Q-TOF (Waters, Milford, USA) in positive and negative ion mode with the following mass spectrometry conditions:</br>
+Mass spectrometer: SYNAPT Q-TOF (Waters); Mass range 50–3000 Da; Capillary 3 kV; Sampling cone 25 V; Extraction cone 3 V; Source temperature 150 °C; Desolvation temperature 500 °C; Cone gas flow 50 l/h; Desolvation gas flow 1000 l/h."	"Raw data were transformed to the open NetCDF format by the DataBridge built-in utility of the MassLynx software (Waters Corp., Milford, MA)."	"The CDF files were imported into R [1], which was used for the data analysis, with the XCMS package [2]. Feature detection was performed on the full data set using the matched-filter algorithm [2] with the following parameters: fwhm=20, max=50, snthresh=4, step=0.05. After peak picking, only features present in at least one-half of the 10 samples of one of the four groups were retained, thus keeping the default value for the “group” function in XCMS. A linear retention time correction was performed, followed by the re-analysis of the profile data at the positions of missing peaks (peak filling). No further processing of the peak intensities (e.g., normalization) was performed.
+</p>
+Feature list annotation was performed by the R package CAMERA [3] with default parameters. The resulting annotated peak lists contain columns giving retention time and m/z value of each feature, one column for the isotope annotation, one for the common adducts, and one for the group number. The latter is obtained by clustering the features considering their retention time and the correlation between the extracted ion chromatograms to identify co-eluting ions. As a result of this procedure, the features are grouped into groups (“pcgroups”), which are likely to be related to the same metabolite.
+</p>
+To construct a data base containing the features corresponding to the spiked compounds, two standard mixtures were subject to the same analytical pipeline. The first mixture contained catechin, epicatechin, cyanidin-3-galactoside, quercetin-3-glucoside, and quercetin-3-rhamnoside; the second contained catechin, quercetin, trans-resveratrol, phloridzin, and quercetin-3-galactoside. In keeping to what was performed on the apple extract, peak picking on each chromatogram was performed by XCMS, with the same parameters used for the samples.
+</p>
+Ref:</br>
+[1] Team R D C. R: A Language and Environment for Statistical Computing. Vienna, Austria, 2011. ISBN 3-900051-07-0.</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID:16448051</br>
+[3] Kuhl C, Tautenhahn R, Neumann S. CAMERA: collection of annotation related methods for mass spectrometry data, 2010. R package version 1.5.9.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	""	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Franceschi"	"Wehrens"
+Study Person First Name	"Pietro"	"Ron"
+Study Person Mid Initials	""	""
+Study Person Email	"pietro.franceschi@fmach.it"	"ron.wehrens@fmach.it"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Biostatistics and Data Management - Fondazione E. Mach"	"Biostatistics and Data Management - Fondazione E. Mach"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,130 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"CHMO"	"EFO"	"MS"	"NCIT"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"2"	"22"	"18"	"146"	"129"	"44"	"22"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS71"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS71"
+Study Title	"A statistical analysis of the effects of urease pre-treatment on the measurement of the urinary metabolome by gas chromatography–mass spectrometry"
+Study Description	"Urease pre-treatment of urine has been utilized since the early 1960s to remove high levels of urea from samples prior to further processing and analysis by gas chromatography–mass spectrometry (GC–MS). Aside from the obvious depletion or elimination of urea, the effect, if any, of urease pre-treatment on the urinary metabolome has not been studied in detail. Here, we report the results of three separate but related experiments that were designed to assess possible indirect effects of urease pre-treatment on the urinary metabolome as measured by GC–MS. In total, 235 GC–MS analyses were performed and over 106 identified and 200 unidentified metabolites were quantified across the three experiments. The results showed that data from urease pre-treated samples (1) had the same or lower coefficients of variance among reproducibly detected metabolites, (2) more accurately reflected quantitative differences and the expected ratios among different urine volumes, and (3) increased the number of metabolite identifications. Overall, we observed no negative consequences of urease pre-treatment. In contrast, urease pre-treatment enhanced the ability to distinguish between volume-based and biological sample types compared to no treatment. Taken together, these results show that urease pre-treatment of urine offers multiple beneficial effects that outweigh any artifacts that may be introduced to the data in urinary metabolomics analyses."
+Study Submission Date	"2014-05-19"
+Study Public Release Date	"2014-05-21"
+Study File Name	"s_urease.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Untargeted metabolites"	"gas chromatography-mass spectrometry"	"urine"	"Statistics"	"urease pre-treatment"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/BTO_0001419"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17167"	""
+Study Design Type Term Source REF	""	"CHMO"	"BTO"	"NCIT"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25254001"
+Study Publication DOI	"10.1007/s11306-014-0642-1"
+Study Publication Author List	"Bobbie-Jo Webb-Robertson,
+Young-Mo Kim,
+Erika M. Zink,
+Katherine A. Hallaian,
+Qibin Zhang,
+Ramana Madupu,
+Katrina M. Waters,
+Thomas O. Metz"
+Study Publication Title	"A statistical analysis of the effects of urease pre-treatment on the measurement of the urinary metabolome by gas chromatography–mass spectrometry"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"sample treatment protocol"	"gender"
+Study Factor Type	"sample treatment protocol"	"Gender"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0003809"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_urease_varying_volume_metabolite_profiling_mass_spectrometry.txt"	"a_urease_malevsfemale_metabolite_profiling_mass_spectrometry.txt"	"a_urease_constant_volume_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Approval for the conduct of this programmatic research was obtained from the Pacific Northwest National Laboratory Institutional Review Board. Urine samples from consenting male and female donors (n = 20 each, see Supplemental Table S1 in paper associated with this study) after an overnight fast were purchased from Bioreclamation, LLC (Hicksville, NY) and received frozen on dry ice and deidentified. To create a uniform sample for Experiments 1 and 2 (see below), aliquots from each individual sample were pooled, realiquoted, and stored at -80 °C until used."	"Experiment 1: constant urine volume</br>
+To initially evaluate the effects of urease pre-treatment on the urinary metabolome, we compared the urine metabolite profiles from pooled urine after pre-treatment with urease, water, or no treatment at all. For this, 100 µl aliquots of the pooled urine sample were incubated (n = 5, each) with 100 µl of a 1 mg/ml solution of urease (Sigma-Aldrich catalog number U4002) prepared in water (urease-treated; ‘UT’) or an equal volume of water alone (water-treated; ‘WT’) for 30 min at 37 °C with mild shaking (500 rpm). Identical aliquots (n = 5) were not subjected to any treatment (no treatment; ‘NT’) and allowed to sit at room temperature for 30 min. Metabolites were then extracted with concomitant protein precipitation by addition of 1 ml of cold (-20 °C) methanol with vortexing for 30 s, and precipitated proteins were removed by centrifugation at 15,000 x g for 10 min at 4 °C. The supernatants were transferred to glass autosampler vials and then dried in vacuo prior to chemical derivatization. If the extracts could not be immediately derivatized and analyzed by GC–MS, then they were stored at -80 °C.
+</p>
+Experiment 2: varying urine volumes</br>
+To evaluate whether the effects of urease pre-treatment of urine varied with the volume of urine prepared, we compared the urine metabolite profiles from pooled urine after pre-treatment with urease (UT) and after no treatment (NT) using various volumes of urine. For this, several volumes (5, 10, 25, 50, and 100 µl) of the pooled urine sample were incubated (n = 3, each) with 100 µl of a 1 mg/ml solution of urease or were not subjected to any treatment, each as described above. Metabolites were then extracted as described above.
+</p>
+Experiment 3: male versus female urines</br>
+Finally, to evaluate whether any artifacts introduced by urease pre-treatment on the urinary metabolome interfered with the ability to distinguish between comparative samples, we compared the metabolite profiles from individual male and female urine samples after pre-treatment with urease or after no treatment (previous metabolomics studies of male and female urines [1][2][3][4] have reported differences in metabolite levels). For this, 50 µL aliquots of individual male and female urine samples (n = 20, each) were blocked, randomized, and then incubated with 50 µl of a 1 mg/ml solution of urease (UT) or were not subjected to any treatment (NT), each as described above. Metabolites were then extracted as described above. Creatinine was quantified in each sample using the DetectX Urinary Creatinine Detection Kit according to the manufacturer’s instructions, with the exception that a simple linear regression was used for the standard curve.
+</p>
+Chemical derivatization:</br>
+Dried metabolite extracts were chemically derivatized using a modified version of the protocol used to create FiehnLib [5]. Briefly, dried metabolite extracts were dried again to remove any residual water if they had been stored at -80 °C. To protect carbonyl groups and reduce the number of tautomeric isomers, 20 µl of methoxyamine in pyridine (30 mg/ml) were added to each sample, followed by vortexing for 30 s and incubation at 37 °C with generous shaking (1,000 rpm) for 90 min. At this point, the sample vials were inverted one time to capture any condensation of solvent at the cap surface, followed by a brief centrifugation at 1,000 x g for 1 min. To derivatize hydroxyl and amine groups to trimethylsilyated (TMS) forms, 80 µl of N-methyl-N-(trimethylsilyl)trifluoroacetamide (MSTFA) with 1% trimethylchlorosilane (TMCS) were then added to each vial, followed by vortexing for 10 s and incubation at 37 °C with shaking (1,000 rpm) for 30 min. Again, the sample vials were inverted one time, followed by centrifugation at 1,000 x g for 5 min. The samples were allowed to cool to room temperature and were analyzed in the same day.
+</p>
+For Experiment 1, the derivatized samples were split into 3 portions and transferred to 3 new autosampler vials with inserts. For Experiment 2, the derivatized samples were kept intact and each transferred to a single new autosampler vial with insert. For Experiment 3, the derivatized samples were split into 2 portions and transferred to 2 new autosampler vials with inserts.
+</p>
+Ref:</br>
+[1] Pasikanti, K. K., Ho, P. C., & Chan, E. C. (2008). Development and validation of a gas chromatography/mass spectrometry metabonomic platform for the global profiling of urinary metabolites. Rapid Communications in Mass Spectrometry, 22(19), 2984–2992. doi:10.1002/rcm.3699. PMID:18763274</br>
+[2] Slupsky, C. M., Rankin, K. N., Wagner, J., Fu, H., Chang, D., Weljie, A. M., et al. (2007). Investigations of the effects of gender, diurnal variation, and age in human urinary metabolomic profiles. Analytical Chemistry, 79(18), 6995–7004. PMID:17702530</br>
+[3] Saude, E. J., Adamko, D., Rowe, B. H., Marrie, T., & Sykes, B. D. (2007). Variation of metabolites in normal human urine. Metabolomics, 3(4), 439–451.</br>
+[4] Psihogios, N. G., Gazi, I. F., Elisaf, M. S., Seferiadis, K. I., & Bairaktari, E. T. (2008). Gender-related and age-related urinalysis of healthy subjects by NMR-based metabonomics. NMR in Biomedicine, 21(3), 195–207. PMID:17474139</br>
+[5] Kind, T., Wohlgemuth, G., Lee do, Y., Lu, Y., Palazoglu, M., Shahbaz, S., et al. (2009). FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Analytical Chemistry, 81(24), 10038–10048. doi:10.1021/ac9019522. PMID:19928838</br>"	"Samples were analyzed according to the method used to create FiehnLib [1]. An Agilent GC 7890A coupled with a single quadrupole MSD 5975C (Agilent Technologies, Inc.; Santa Clara, CA, USA) was used, and the samples were blocked and analyzed in random order for each Experiment. A HP-5MS column (30 m x 0.25 mm x 0.25 µm; Agilent Technologies, Inc.) was used for untargeted metabolomics analyses. The sample injection mode was splitless, and 1 µl of each sample was injected. The injection port temperature was held at 250 °C throughout the analysis. The GC oven was held at 60 °C for 1 min after injection, and the temperature was then increased to 325 °C by 10 °C/min, followed by a 5 min hold at 325 °C [2]. The helium gas flow rates for each Experiment were determined by the Agilent Retention Time Locking function based on analysis of deuterated myristic acid and were in the range of 0.45–0.5 ml/min.
+</p>
+Ref:</br>
+[1] Kind, T., Wohlgemuth, G., Lee do, Y., Lu, Y., Palazoglu, M., Shahbaz, S., et al. (2009). FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Analytical Chemistry, 81(24), 10038–10048. doi:10.1021/ac9019522. PMID:19928838</br>
+[2] Kim, Y. M., Schmidt, B. J., Kidwai, A. S., Jones, M. B., Deatherage Kaiser, B. L., Brewer, H. M., et al. (2013). Salmonella modulates metabolism during growth under conditions that induce expression of virulence genes. Molecular BioSystems, 9, 1522. doi:10.1039/c3mb25598k. PMID:23559334</br>"	"An Agilent GC 7890A coupled with a single quadrupole MSD 5975C (Agilent Technologies, Inc.; Santa Clara, CA, USA) was used, and the samples were blocked and analyzed in random order for each experiment. Data were collected over the mass range 50–550 m/z. A mixture of FAMEs (C8–C28) was analyzed once per day together with the samples for retention index alignment purposes during subsequent data analysis."	"GC–MS raw data files from each Experiment were processed using the Metabolite Detector software, version 2.0.6 beta [1]. Briefly, Agilent.D files were converted to netCDF format using Agilent Chemstation, followed by conversion to binary files using Metabolite Detector. Retention indices (RI) of detected metabolites were calculated based on the analysis of the FAMEs mixture, followed by their chromatographic alignment across all analyses after deconvolution. 
+</p>
+Ref:</br>
+[1] Hiller, K., Hangebrauk, J., Jager, C., Spura, J., Schreiber, K., & Schomburg, D. (2009). MetaboliteDetector: comprehensive analysis tool for targeted and nontargeted GC/MS based metabolome analysis. Analytical Chemistry, 81(9), 3429–3439. doi:10.1021/ac802689c. PMID:19358599</br>"	"Metabolites were initially identified by matching experimental spectra to an augmented version of FiehnLib [1] (i.e., the Agilent Fiehn Metabolomics Retention Time Locked (RTL) Library, containing spectra and validated retention indices for over 700 metabolites), using a Metabolite Detector match probability threshold of 0.6 (combined retention index and spectral probability). All metabolite identifications were manually validated to reduce deconvolution errors during automated data-processing and to eliminate false identifications. We propose that this approach results in a metabolite identification confidence of Level 1.5, according to the guidelines recommended by the Metabolomics Standards Initiative Chemical Analysis Working Group of the Metabolomics Society [2]. While the library used to identify metabolites was generated by an external laboratory, this library contains both retention indices and mass spectra from analyses of authentic chemical standards, and our analyses were performed using methods identical to those used to create the library. The NIST 08 GC–MS library was also used to cross validate the spectral matching scores obtained using the Agilent library and to provide identifications of unmatched metabolites (Level 2 identifications). The three most abundant fragment ions in the spectra of each identified metabolite were automatically determined by Metabolite Detector, and their summed abundances were integrated across the GC elution profile; fragment ions due to trimethylsilylation (i.e. m/z 73 and 147) were excluded from the determination of metabolite abundance. A matrix of identified metabolites, unidentified metabolite features (characterized by mass spectra and retention indices and assigned as ‘unknown’; Level 4 identifications), and their abundances was created for each Experiment for statistical analysis. Features resulting from GC column bleeding were removed from the data matrices prior to further data processing and analysis.
+</p>
+Ref:</br>
+[1] Kind, T., Wohlgemuth, G., Lee do, Y., Lu, Y., Palazoglu, M., Shahbaz, S., et al. (2009). FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Analytical Chemistry, 81(24), 10038–10048. doi:10.1021/ac9019522. PMID:19928838</br>
+[2] Sumner, L. W., Amberg, A., Barrett, D., Beale, M. H., Beger, R., Daykin, C. A., et al. (2007). Proposed minimum reporting standards for chemical analysis. Metabolomics, 3(3), 211–221.PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Metz"
+Study Person First Name	"Thomas"
+Study Person Mid Initials	"O"
+Study Person Email	"thomas.metz@pnnl.gov"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Pacific Northwest National Laboratory"
+Study Person Roles	"Principal Investigator"
+Study Person Roles Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19924"
+Study Person Roles Term Source REF	"NCIT"

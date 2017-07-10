@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"EFO"	"CHMO"	"CHEBI"	"BAO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"132"	"16"	"93"	"25"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"BioAssay Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS134"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS134"
+Study Title	"Absolute quantification of metabolites in tomato fruit extracts by fast 2D NMR (Calibration Standard 700 MHz samples)"
+Study Description	"Quantitative NMR metabolomics is a powerful tool to have access to valuable information on metabolism. Unfortunately, the quantitative analysis of metabolic samples is often hampered by peak overlap. Two-dimensional (2D) spectroscopy offers a promising alternative and quantitative results can be obtained provided that a calibration approach is employed. However, the duration of 2D NMR experiments is barely compatible with the metabolomic study of a large number of samples. This drawback can be circumvented by relying on “ultrafast” experiments capable of recording 2D spectra in a single-scan. While such experiments are not sensitive enough to match the concentrations of metabolic samples, a compromise can be reached by hybrid strategies capable of recording 2D NMR spectra of extracts in a few minutes only. The purpose of this study is to demonstrate that these multi-scan single-shot experiments can be successfully applied to the absolute quantification of major metabolites in plant extracts. Fast COSY experiments are recorded in 5 min on tomato fruit pericarp extracts at different stages of development. The concentration of eight major metabolites is determined with a trueness better than 10 % and a technical repeatability of a few percent. The experiments performed at two magnetic fields lead to similar quantitative results, in coherence with the metabolism of tomato fruit. The results show that fast 2D NMR methods form a promising tool for fast targeted metabolomics, and open promising perspective towards the automated and high-throughput quantitative analysis of large groups of plant and other samples for metabolomics and for the modelling of metabolism.</p>NMR Calibration Standard corresponding to the MTBLS132 datasets."
+Study Submission Date	"2014-10-24"
+Study Public Release Date	"2015-11-11"
+Study File Name	"s_UF700_CS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"COSY"	"two-dimensional 1H nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0002443"
+Study Design Type Term Source REF	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"http://dx.doi.org/10.1007/s11306-015-0780-0"
+Study Publication Author List	"Tangi Jézéquel, Catherine Deborde, Mickaël Maucourt, Vanessa Zhendre, Annick Moing and Patrick Giraudeau"
+Study Publication Title	"Absolute quantification of metabolites in tomato fruit extracts by fast 2D NMR"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_uf700_cs_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Reference standards were commercially purchased from Sigma-Aldrich, and prepared in-house."	"The particularity of 2D NMR for quantitative analysis is that the peak volumes depend on several factors in addition to the concentration. Building a calibration curve for each targeted metabolite is therefore indispensable—still, a single series of calibration samples containing all the targeted metabolites together is sufficient, and better reflects the complexity of the extracts. For this purpose, five calibration samples containing eight targeted metabolites at different concentrations were prepared in the phosphate buffer solution used to prepare the fruit extracts. The values of these concentrations (see Supplementary Table S2 in the paper associated with this study) were determined from previous profiling studies performed on tomato pericarp [1][2]. To keep a similar ionic force across the calibration range, the changes in the concentrations of these eight metabolites were not uniform.
+</p>
+As with the fruit extracts reported in MTBLS131 and MTBLS132, the calibration samples were also titrated with KOD to pH 6 using a titration unit BTpH (Bruker Biospin, Rheinstetten, Germany) in 200 mM potassium phosphate buffer solution in D2O containing 2 mM EDTA. Then, trimethylsilyl [2,2,3,3-2H4] propionate sodium salt (TSP, 0.01% final concentration for chemical shift calibration) was added. Titrated extracts were frozen in liquid nitrogen and lyophilized during 12 h.
+</p>
+Ref:</br>
+[1] Deborde, C., Maucourt, M., Baldet, P., Bernillon, S., Biais, B., Talon, G., et al. (2009). Proton NMR quantitative profiling for quality assessment of greenhouse-grown tomato fruit. Metabolomics, 5, 183–198. doi:10.1007/s11306-008-0134-2</br>
+[2] Mounet, F., Lemaire-Chamley, M., Maucourt, M., Cabasson, C., Giraudel, J., Deborde, C., et al. (2007). Quantitative metabolic profiles of tomato flesh and seeds during fruit development: Complementary analysis with ANN and PCA. Metabolomics, 3, 273–288. doi:10.1007/s11306-007-0059-1</br>"	"Just before the NMR acquisition, 600 µl of deuterium oxide (D2O; 99.90%D, Eurisotop, Saint Aubin, France) containing sodium azide (NaN3, 3.85 mM final concentration, in order to avoid bacterial contamination) were added to the dried titrated extracts, and the solubilized titrated extract was transferred into a 5 mm NMR Wilmad LabGlass tube of 7 inches (Wilmad, Vineland, USA)."	"All the NMR spectra of the calibration samples were recorded three times at 298 K on a Bruker Avance III HD 700 spectrometer operating at a frequency of 700.13 MHz with an inverse 1H/13C/15N/2H cryogenically cooled probe."	"For each experiment, the 90° pulse width was carefully calibrated and the water signal at 4.7 ppm was presaturated by continuous irradiation during the recovery delay. All experiments by ultrafast NMR were performed under partial saturation conditions, with TR = 5 s. All the ultrafast COSY experiments were recorded using the pulse sequence described previously [1], including the possibility to perform interleaved acquisitions. The final spectral width was 5 ppm (F2) x 5.4 ppm (F1) at 700 MHz. The experiment duration is given by Ta = NS•N1 where NS is the number of scans and N1 the number of interleaved acquisitions. For the experiments performed at 700 MHz, the following parameters were used: NS = 16 and N1 = 4. Due to high magnetic field, interleaving was required to sample the same spectral width as on a 500 MHz spectrometer. The experiment duration was kept constant by reducing the number of scans thanks to the highest sensitivity of the 700 MHz spectrometer. All the experiments were eventually performed with a ca. 5 min overall duration. For all the experiments, the spatial encoding was performed with two successive smoothed chirp pulses (60 kHz, 15 ms) applied together with 8.3 G/cm bipolar spatial encoding gradients. The mixing period included opposite coherence-selection gradients (sin shape; 58.5 G/cm, 0.8 ms). For the acquisition, 128 acquisition gradient pairs were applied, with the following amplitude and duration: 58.5 G/cm and 256 µs. The amplitude and duration of the pre-acquisition gradient were adapted to center the chemical shift range of interest in the middle of the detection window in the spatially encoded dimension.
+</p>
+Ref:</br>
+[1] Rouger, L., Charrier, B., Pathan, M., Akoka, S., & Giraudeau, P. (2014). Processing strategies to obtain clean interleaved ultrafast 2D NMR spectra. Journal of Magnetic Resonance, 238, 87–93. doi: 10.1016/j.jmr.2013.11.008. PMID:24322368</br>"	"Before Fourier Transformation, 2D FIDs were weighed with apodization functions leading to the optimum sensitivity for the relevant peaks. A sinebell function was applied in the conventional dimension of all the experiments. In the ultrafast dimension, an apodization was performed in the spatial dimension with optimized gaussian apodization functions designed according to a recently described procedure [1]. The conventional spectra were zero-filled in both dimensions and the ultrafast spectra were zero-filled in the conventional dimension.
+</p>
+All the spectra were processed in the magnitude mode. Finally, a second order automatic baseline correction was applied in the two dimensions of the 2D spectra.
+The specific processing for the ultrafast spectra (as described in [2]) was performed using a home-written routine in TopSpin (Bruker Biospin, Rheinstetten, Germany. All the pulse sequences and processing programs described in this paper are available on request.
+</p>
+Ref:</br>
+[1] Giraudeau, P., S. Akoka (2011). Sensitivity and lineshape improvement in ultrafast 2D NMR by optimized apodization in the spatially encoded dimension. Magn Reson Chem 49, 307-313.  doi: 10.1021/ac200007p. PMID:21417426</br>
+[2] Frydman, L., A. Lupulescu, T. Scherf (2003). Principles and features of single-scan two-dimensional NMR spectroscopy. J Am Chem Soc 125, 9204-9217. PMID:15369377</br>"	"Eight major polar compounds of tomato flesh, belonging to several metabolite families and implicated in fruit growth and quality, were selected for quantification. After annotation, the most isolated peak was selected for each compound. The peak volumes were measured using the 2D integration tool in TopSpin 3.1 (Bruker Biospin, Rheinstetten, Germany). The integration region limits were optimized for each peak of interest on the highest concentrated mixture. Integration regions were centered on the peak of interest and their size was chosen as large as possible to integrate the whole peak but small enough to avoid overlap with neighbouring peaks. Identical integration regions were used for all the samples.
+</p>
+To evaluate the repeatability of the NMR quantification procedure, each spectrum (calibration and biological extracts) was acquired three successive times, and average values were calculated for each peak volume. Calibration curves were then fitted by the linear regression equation: V = a•[m] + b, where V represents the 2D peak volume (arbitrary unit, a.u.) and [m] is the concentration (in millimoles per litre) of the given metabolite in the calibration sample.
+</p>
+To determine the unknown concentration of the eight metabolites in the twelve tomato pericarp extracts, the volume of each target peak was measured with the same integration file as for the calibration samples, and the concentration was determined using the linear regression equation of the corresponding metabolite. (Tomato extract samples available at MTBLS132)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"GIRAUDEAU"	"MOING"	"MAUCOURT"	"DEBORDE"
+Study Person First Name	"Patrick"	"Annick"	"Mickael"	"Catherine"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"patrick.giraudeau@univ-nantes.fr "	"moing@bordeaux.inra.fr"	"moing@bordeaux.inra.fr"	"cdeborde@bordeaux.inra.fr"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Universite de Nantes and Institut Universitaire de France"	"INRA"	"Universite de Bordeaux"	"INRA"
+Study Person Roles	"principal investigator role"	"investigator"	"investigator"	"investigator"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000103"	"http://www.ebi.ac.uk/efo/EFO_0001739"	"http://www.ebi.ac.uk/efo/EFO_0001739"	"http://www.ebi.ac.uk/efo/EFO_0001739"
+Study Person Roles Term Source REF	"OBI"	"EFO"	"EFO"	"EFO"

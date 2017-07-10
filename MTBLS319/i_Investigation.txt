@@ -1,0 +1,130 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PR"	"NCBITAXON"	"CHMO"	"EFO"	"ROLEO"	"OBI"	"CHEBI"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/PR"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"57"	"6"	"18"	"146"	"1"	"22"	"99"	"86"	"43"	
+Term Source Description	"Protein Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Role Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS319"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS319"
+Study Title	"Metabolic analysis of the response of Pseudomonas putida DOT-T1E strains to toluene using Fourier transform infrared spectroscopy and gas chromatography mass spectrometry"
+Study Description	"To elucidate any observable metabolic alterations during interactions of several strains of Pseudomonas putida (DOT-T1E, and its mutants DOT-T1E-PS28 and DOT-T1E-18) with the aromatic hydrocarbon toluene, metabolomic approaches were employed. Initially, Fourier-transform infrared (FT-IR) spectroscopy, which provided a rapid, high-throughput metabolic fingerprint of P. putida strains, was used to investigate any phenotypic changes resulting from exposure to toluene. Principal component discriminant function analysis (PC-DFA) allowed the differentiation between different conditions of toluene on bacterial cells, which indicated phenotypic changes associated with the presence of the solvent within the cell. Examination of PC-DFA loading plots suggested that the protein and fatty acids groups were responsible for discrimination of responses by P. putida strains to toluene. To identify metabolites of interest, the polar extracts of P. putida cells were analysed using gas chromatography-mass spectrometry (GC-MS) and 15 metabolites of P. putida central metabolic pathways were detected. Multi-block principal component analysis (MB-PCA) indicated that P. putida cultures challenged with toluene were differentially clustered away from the non-challenged cells. Investigation of MB-PCA loading plots and N-way ANOVA for condition | strain×time blocking (dosage of toluene) suggested ornithine as the most significant compound that increased upon solvent exposure. Ornithine presents itself as a major feature which may have important functions in toluene stress tolerance mechanisms."
+Study Submission Date	"2016-02-18"
+Study Public Release Date	"2016-06-30"
+Study File Name	"s_Toluene_Exp.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Bacteria"	"toluene"	"gas chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/NCBITAXON/629395"	"http://purl.obolibrary.org/obo/CHEBI_17578"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	"NCBITAXON"	"CHEBI"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1054-1"
+Study Publication Author List	"Ali Sayqal, Yun Xu, Drupad K. Trivedi, Najla AlMasoud, David I. Ellis, Howbeer Muhamadali, Nicholas J. W. Rattray, Carole Webb, Royston Goodacre"
+Study Publication Title	"Metabolic analysis of the response of Pseudomonas putida DOT-T1E strains to toluene using Fourier transform infrared spectroscopy and gas chromatography mass spectrometry"
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001796"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"Gene knockout"	"Stress"	"Time"
+Study Factor Type	"gene knock out"	"environmental stress"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000506"	"http://www.ebi.ac.uk/efo/EFO_0000470"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_toluene_exp_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"1. Bacterial strains and culture medium</br>
+Three strains of P. putida were chosen for this study to investigate the response of bacteria to toluene stress, sourced from the Juan Luis Ramos lab (Consejo Superior de Investigaciones Cientificas, Estacion Experimental del Zaidin, Department of Biochemistry and Molecular and Cellular Biology of Plants, Granada, Spain, http://www.eez.csic.es/?q=en/node/51). Nutrient agar (NA) and Lysogeny broth (LB) were used for cultivation of bacteria. NA was prepared as follows: peptone 5 g/l, beef extract 3 g/l, sodium chloride 8 g/l, 12 g/l of agar no. 2. LB medium contained: tryptone 10 g/l (Formedia, Hunstanton,UK), yeast extract 5 g/l (USP, Cleveland, USA) and NaCl 10 g/l.</br>
+</p>
+2. Cultivation of bacteria and culture conditions</br>
+P. putida DOT-T1E strains were sub-cultured in triplicate on agar plates in order to obtain pure single colonies. Cells were grown in LB and the cultures were incubated overnight with horizontal shaking in an orbital incubator (Infors HT Ltd, UK) at 30 °C and 200 rpm.</br>
+</p>
+3. Growth in response to toluene, sample collection and analysis</br>
+P. putida cells were incubated in an orbital shaker for 1 h at 30 °C and 200 rpm. At this point, cultures were divided into two groups: one was kept as a control and the other exposed to toluene supplied as gas phase via an evaporation tube (to avoid direct contact with the culture) containing 100 µl of toluene for 30 min. The culture flasks containing 50 ml of LB medium were sealed with Suba-Seal to prevent toluene leakage and then incubated for an additional 4 h. The concentration of toluene in the flask was approximately 12.5 mM (0.125% (v/v)) under these culture conditions. Once cell cultures reached the mid-log phase, the cultures were split into two halves; to one 0.1% (v/v) toluene was added and the other was kept as control, and incubated for additional 7 h. The tested concentration of toluene is below the minimum inhibitory concentrations (MICs) which are 5, 0.8 and 0.7% (v/v) for DOT-T1E, DOT-T1E-PS28 and DOT-T1E-18 respectively.</br>
+</p>
+4.Sample collection and metabolic quenching</br>
+Samples were collected as 15 ml aliquots at several time points (0, 10 and 60 min) in the absence and presence of different toluene conditions (0 min refer to the point immediately before the addition of toluene shock). The metabolic activity of the collected samples were immediately quenched by adding 30 ml of cold (-50 °C) 60% methanol followed by centrifugation at 3000 ×g for 10 min at 1 °C. After the centrifugation the supernatant was discarded, while the cell pellets were stored at -80 °C prior to metabolite extraction [1].
+</p>
+Ref:</br>
+[1] Winder CL, Dunn WB, Schuler S, Broadhurst D, Jarvis R, Stephens GM, Goodacre R. Global metabolic profiling of Escherichia coli cultures: an evaluation of methods for quenching and extraction of intracellular metabolites. Anal Chem. 2008 Apr 15;80(8):2939-48. doi: 10.1021/ac7023409."	"A 750 µl aliquot of 80% cold (-20 °C) methanol was added to the biomass and then transferred into a 2 ml Eppendorf tube, followed by three freeze-thaw cycle to extract the intracellular polar metabolites into the polar phase. The samples were then pelleted by centrifugation (13500 ×g, 3 min, 4 °C) and the supernatant stored on dry ice. This procedure was undertaken twice on the cell pellets and both extracts were combined and kept on dry ice.
+A 1400 µl aliquot of intracellular extracts were normalised according to OD660, followed by the preparation of a quality control (QC) sample [1][2]. The QC sample was prepared by transferring 100 µl sample into a 15 ml centrifuge tube. Internal standard solution (0.2 mg ml-1 succinic-d4, 0.2 mg ml-1 benzoic-d5 acid, 0.2 mg ml-1 lysine-d4, and acid 0.2 mg mL-1 glycine-d5) was added (100 µl) to all samples. The samples were then dried for 16 h in a speed vacuum concentrator (concentrator 5301; Eppendorf, Cambridge, UK), and stored at -80 °C prior to GC-MS analysis.</br>
+</p>
+Ref:</br>
+[1] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun ;6(7):1060-83. doi: 10.1038/nprot.2011.335.</br>
+[2] Fiehn O, Wohlgemuth G, Scholz M, Kind T, Lee DY, Lu Y, Moon S, Nikolau B. Quality control for plant metabolomics: reporting MSI-compliant studies. Plant J. 2008 Feb;53(4):691-704. doi: 10.1111/j.1365-313X.2007.03387.x.
+"	"Metabolite samples were removed from -80 °C storage and re-dried for 3 h in a concentrator prior to derivatisation, in order to remove any moisture absorbed by the sample during thawing, which could interfere with derivatisation process. Samples were derivatised for GC-MS following a two stage process as described previously [1]. Briefly, 50 µl O-methylhdroxylamine hydrochloride solution (20 mg/ml-1 in pyridine) was added to all samples. The samples were then heated using a heating block at 65 °C for 40 min followed by addition of 50 µl of MSTFA (N-methyl-trimethylsilyltrifluoroacetamide) and then heated for 40 min. An aliquot (20 µl) of retention index solution (C10/CH12/C15/C19/C22 n-alkanes) was added for chromatographic alignment.</br>
+The gas chromatography time-of-flight mass spectrometry (GC-TOF-MS) method was used to analyse the derivatised samples in a random order. The instrument was operated using an Agilent 6890 GC instrument linked to a LECO Pegasus III TOF mass spectrometer (Leco, St. Joseph, MI, USA), as described previously [2][3] which follows metabolomic standards initiative (MSI) guidelines [4]. QC samples were employed prior to statistical analysis as described from previous report [1], in order to provide quality assurance of the data by the evaluation and removal of mass features that exhibit high deviation within the QC samples.</br>
+</p>
+Ref:</br>
+[1] Wedge DC, Allwood JW, Dunn W, Vaughan AA, Simpson K, Brown M, Priest L, Blackhall FH, Whetton AD, Dive C, Goodacre R. Is serum or plasma more appropriate for intersubject comparisons in metabolomic studies? An assessment in patients with small-cell lung cancer. Anal Chem. 2011 Sep ;83(17):6689-97. doi: 10.1021/ac2012224.</br>
+[2] Begley P, Francis-McIntyre S, Dunn WB, Broadhurst DI, Halsall A, Tseng A, Knowles J; HUSERMET Consortium, Goodacre R, Kell DB. Development and performance of a gas chromatography-time-of-flight mass spectrometry analysis for large-scale nontargeted metabolomic studies of human serum. Anal Chem. 2009 Aug 15;81(16):7038-46. doi: 10.1021/ac9011599.</br>
+[3] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun ;6(7):1060-83. doi: 10.1038/nprot.2011.335.</br>
+[4] Sumner LW, Urbanczyk-Wochniak E, Broeckling CD. Metabolomics data analysis, visualization, and integration. Methods Mol Biol. 2007;406:409-36. PMID:18287705</br>
+
+"	"The Agilent 6890 GC instrument linked to a LECO Pegasus III TOF mass spectrometer (Leco, St. Joseph, MI, USA) was used as previously described [1][2]. The mass spectrometer source was operated at a temperature of 250 °C in electron ionization (EI) mode, with an electron energy of 70 eV and the detector  operated in the range 1400–1800 V.</br>
+</p>
+Ref:</br>
+[1] Begley P, Francis-McIntyre S, Dunn WB, Broadhurst DI, Halsall A, Tseng A, Knowles J; HUSERMET Consortium, Goodacre R, Kell DB. Development and performance of a gas chromatography-time-of-flight mass spectrometry analysis for large-scale nontargeted metabolomic studies of human serum. Anal Chem. 2009 Aug 15;81(16):7038-46. doi: 10.1021/ac9011599.</br>
+[2] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun ;6(7):1060-83. doi:10.1038/nprot.2011.335.</br>"	"Raw data processing was undertaken using LECO ChromaTOF v3.26 in order to construct a data matrix of metabolite peak vs. sample and infilled with peak areas for metabolites that were detected. A reference database was prepared that contained retention times, quant mass, peak area, retention index value and peak number related to each peak by analysing QC samples. All data collected in this study were analysed on Matlab version 2014a (Mathworks, Natick, MA)."	"The identification of analytes was based on both spectral similarity and matched with retention indices. In-house library as well as NIST library was used for identification, and we followed MSI guidelines for metabolite identification [1].</br>
+</p>
+Ref:</br>
+[1] Sumner LW, Urbanczyk-Wochniak E, Broeckling CD. Metabolomics data analysis, visualization, and integration. Methods Mol Biol. 2007;406:409-36. PMID:18287705
+
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sayqal"	"Xu"	"Trivedi"	"AlMasoud"	"Ellis"	"Muhamadali"	"Rattray"	"Webb "	"Goodacre"
+Study Person First Name	"Ali"	"Yun "	"Drupad "	"Najla "	"David "	"Howbeer "	"Nicholas "	"Carole "	"Royston "
+Study Person Mid Initials	"A"	""	"K "	""	"I"	""	"J. W"	""	""
+Study Person Email	"a.saigal@hotmail.com"	"yun.xu-2@manchester.ac.uk"	"drupad.trivedi@manchester.ac.uk"	"nagla.almasoud-2@postgrad.manchester.ac.uk"	"d.ellis@manchester.ac.uk"	"howbeer.muhamadali@manchester.ac.uk"	"nicholas.rattray@manchester.ac.uk"	"carole.i.webb@manchester.ac.uk"	"roy.goodacre@manchester.ac.uk"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"
+Study Person Affiliation	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"	"univrsity of manchester"
+Study Person Roles	"principal"	""	""	""	""	""	""	""	"principal"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/RoleO_0000427"	""	""	""	""	""	""	""	"http://purl.obolibrary.org/obo/RoleO_0000427"
+Study Person Roles Term Source REF	"ROLEO"	""	""	""	""	""	""	""	"ROLEO"

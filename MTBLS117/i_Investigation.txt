@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"CHMO"	"MESH"	"EFO"	"OBI"	"MS"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"28"	"3"	"12"	"10"	"113"	"22"	"96"	"29"	"43"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Medical Subject Headings"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS117"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS117"
+Study Title	"A Metabolic Profiling Strategy for the Dissection of Plant Defense against Fungal Pathogens (DI-MS assays)"
+Study Description	"Here we present a metabolic profiling strategy employing direct infusion Orbitrap mass spectrometry (MS) and gas chromatography-mass spectrometry (GC/MS) for the monitoring of soybean's (Glycine max L.) global metabolism regulation in response to Rhizoctonia solani infection in a time-course. Key elements in the approach are the construction of a comprehensive metabolite library for soybean, which accelerates the steps of metabolite identification and biological interpretation of results, and bioinformatics tools for the visualization and analysis of its metabolome. The study of metabolic networks revealed that infection results in the mobilization of carbohydrates, disturbance of the amino acid pool, and activation of isoflavonoid, α-linolenate and phenylpropanoid biosynthetic pathways. Components of these pathways include phytoalexins, coumarins, flavonoids, signaling molecules, and hormones, many of which exhibit antioxidant properties and bioactivity helping the plant to counterattack the pathogen's invasion. Unraveling the biochemical mechanism operating during soybean-Rhizoctonia interaction in addition to its significance towards the understanding of the plant's metabolism regulation under biotic stress, provides valuable insights with potential for applications in biotechnology, crop breeding, and agrochemical and food industries."
+Study Submission Date	"2014-10-29"
+Study Public Release Date	"2014-11-15"
+Study File Name	"s_Soyomics_DIMS_2014.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Plant metabolomics"	"Host-Pathogen Interactions"	"tandem mass spectrometry"	"Direct Infusion Mass Spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.bioontology.org/ontology/MESH/D054884"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""	""
+Study Design Type Term Source REF	""	"MESH"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25369450"
+Study Publication DOI	"10.1371/journal.pone.0111930"
+Study Publication Author List	"Aliferis KA, Faubert D, Jabaji S."
+Study Publication Title	"A metabolic profiling strategy for the dissection of plant defense against fungal pathogens."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time point"	"Infection"	"Replicate"
+Study Factor Type	"timepoint"	"Group"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls117_DIMS_NEG_mass_spectrometry.txt"	"a_mtbls117_DIMS_POS_mass_spectrometry.txt"	"a_mtbls117_MSMS_NEG_mass_spectrometry.txt"	"a_mtbls117_MSMS_POS_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Classic (Thermo Scientific)"	"LTQ Classic (Thermo Scientific)"	"LTQ Orbitrap Classic (Thermo Scientific)"	"LTQ Orbitrap Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds of the soybean cultivar AC Proteina (Semican, Plessisville, QC, Canada), which is susceptible to R. solani, were sterilized by immersion in ethanol (70%, v/v) for 1 min, followed by rinsing three times in sterile distilled water. For pre-germination, seeds were placed on sterilized moistened filter paper (Whatman No 1, 11 cm diameter) in Petri plates, and kept at 24 °C in the dark. Uniformly pre-germinated seeds were planted in sterile mix of turf:perlite (1:1, v/v) in plastic trays in the dark in a growth chamber at 22±2 °C and relative humidity of 85%. Sterile water was added every second day. Seedlings were etiolated in order to provide longer lengths of hypocotyls for inoculation. They were grown for one week to approximately 15 cm height before they were gently removed and inoculated.
+</p>
+For the production of the inoculum, starter cultures of the highly pathogenic R. solani AG4 isolate A76, provided by M. Cubeta (N. Carolina University, USA), were grown on potato dextrose agar (PDA) for three days. Uniform and healthy one-week-old seedlings were transferred to sterile Pyrex glass trays (38 x 27 x 6 cm) on filter paper (Whatman No 1), arranged horizontally, and their roots were covered with sterile moistened cotton. For the analysis of hyphae, the fungus was grown on cellophane membrane.
+</p>
+Inoculation was performed by sandwiching hypocotyls between two PDA strips (2 cm x 8 cm) of 3-day-old Rhizoctonia cultures or clean strips (control) in sterile environment under photosynthetically inactive black light (365 nm) on designated marked sites of the hypocotyls, 3 cm away from the roots. Trays were wrapped with plastic membrane, and returned to growth chambers for incubation at 24 °C, in the dark. The development of necrotic lesions was stereoscopically observed and plants were harvested 24 and 48 h post-inoculation, and prepared for metabolite extraction. These time points were specifically chosen in order to capture the onset of infection and the development of infection cushions. Each treatment (infected or control) was consisted of five biological replications, each obtained by pooling the hypocotyls of four seedlings.
+</p>
+Samples (100 mg of fresh weight, fw) were harvested from the edges of necrotic lesions at 24 h and 48 h post-inoculation and corresponding portions of control seedlings. Additionally, mycelia (50 mg, fw) from 3 day old R. solani cultures were harvested. Samples were pulverized to a fine powder in a mortar with a pestle under liquid nitrogen and kept at -80 ºC in glass autosampler vials (2 ml) until further processing."	"1 ml of a mixture of methanol:ethyl acetate (50:50, v/v) was added to the pulverized samples followed by sonication in an ultrasonic bath Branson 5510 (Branson, Connecticut, USA) for 25 min. Samples were then transferred to an orbital shaker (Infors AG, Bottmingen, Switzerland) for extraction under continuous agitation (150 rpm) for 2 h at 24 ºC. Extracts were filtered through 0.2 µm filters (Millex-FG, Millipore, MA, USA) to remove debris and the volume of samples was adjusted to 1.0 ml. 0.5 ml of the extract was taken in a glass autosampler vial for direct infusion Orbitrap MS analysis (DIMS). The extracts were sub-divided into equal portions of 0.25 ml for analysis in positive (ESI+) and negative (ESI-) electrospray modes, respectively. Finally, extracts were dried using a Labconco CentriVap refrigerated vacuum concentrator (Labconco, Kansas City, MO, USA) equipped with a cold trap."	"No chromatography was carried out."	"For analyses in ESI+, 160 µl of a mixture of methanol:formic acid (0.1% v/v) (50-50, v/v) were added to the dried samples, whereas for analyses in ESI-, 160 µl of methanol:ammonium acetate (2.5 mM) were added. Finally, extracts were transferred into microinserters, which were consecutively placed in glass autosampler vials. An LTQ-Orbitrap MS Classic (Thermo Scientific, San Jose, CA, USA) mass spectrometer was employed and experimental events were controlled by the software Xcalibur v.2.2 (Thermo Scientific). The analyzer was equipped with a quadrupole linear ion trap, an Orbitrap electrostatic Fourier transform mass spectrometer (FTMS) with a heated electrospray ionization probe (HESI-II, Thermo Scientific), and an Accela pump (Thermo Scientific). The source voltage was set to 3.2 kV (ESI+) and 4.0 kV (ESI-) and the capillary voltage to 5.0 V (ESI+) and -35 V (ESI-). The capillary temperature was set to 275 ºC. Sheath gas flow was set to 10 (ESI+), and 20 (ESI-) whereas no auxiliary and sweep gases were used. Samples (10 µl) were injected manually performing direct infusion at a flow rate of 10 µl/min using a 100 µl syringe (Hamilton, Reno, NV, USA). DIMS analysis was performed at a mass resolution of 60,000 at m/z 400 and spectra were acquired over the range of 50-1,800 Da for 3.5 min. For selected samples MS/MS analyses were performed with the normalized collision energy set at 35 eV, the activation q set to 0.25 and the activation time to 30 ms. Target ions already selected for MS/MS were dynamically excluded for 15 s. AGC target value was set to 5E^5 for the Orbitrap and to 1E^4 for the MS/MS analysis in the linear ion trap.
+</p>
+For each treatment, a quality control (QC) sample was obtained by pooling 25 µl from each of the five biological replicates (total 125 µl), and analyzed. In addition to biological replications and QC samples, technical one replication for randomly selected samples was performed per treatment. Following each sample's analysis, a blank (solvent system only) was injected to ensure that no carry over is observed between samples. Additionally, blank samples were used for the detection of possible contamination during the different experimental steps, such as material and reagent impurities. For this purpose, 1.5 ml of the extraction solvent mixture was processed alongside the experimental samples and was subjected to identical handling. Results were taken into account for the detection of metabolites not related to the biological material that was analyzed, which were subsequently excluded from analyses. Additionally, the metabolic composition of fungal samples was taken into consideration, in order to remove fungal-derived metabolites that could influence the biological interpretation of results. In order to optimize the performance of analyzers, calibration was performed at the beginning of analyses following the recommended by the manufacturers' procedures and using calibration solutions.
+</p>
+For Orbitrap MS, the ProteoMass ESI Calibration Kit MSCAL5 (Sigma-Aldrich), which covers the range between 138 and 1822 Da, was used for ESI+ analyses. For ESI-, calibration was performed using the ProteoMass ESI Calibration Kit MSCAL6 (Sigma-Aldrich), which covers the range between 265 to 1880 Da. Internal standards were not used but instead, mass errors were estimated based on accurate masses of common identified metabolites such as amino (ESI+) and lipid (ESI-) acids."	"Acquired data (*.raw format) were processed using the software SIEVE v1.3 (Thermo Scientific) installed in a 12-core 64-bit PC workstation (Windows 7 Ultimate SP1, Intel Core™ i7 CPU, 24 GB RAM). Although the software is designed for the analysis of LC/MS data, with appropriate changes in the settings, we were able to analyse data obtained by DIMS. The acquired mass spectra between 0.6 and 1.2 min were processed. Obtained frames [rectangular regions of m/z vs retention time (RT)] were filtered based on their coefficient of variation distribution (CV) in the reconstructed ion chromatograms (RIC). Frame intensities were normalized to the total ion chromatogram (TIC) and frames with CV>0.5 were excluded from further analysis. The obtained data matrices were exported to Simca P+, after the removal of peaks corresponding to isotopes, for multivariate analyses."	"In order to develop a high-throughput metabolomics protocol, identification was performed following a biologically-driven approach. Central to this approach is the species-specific in-house built library for soybean composed of 1339 metabolites, which includes information on metabolite monoisotopic mass, molecular formula, biosynthetic pathways, and chemical classification. For the construction of the library, information was retrieved from the publicly available databases of SoyCyc, KEGG, EMBL-EBI, KNApSAcK, and the literature. For standardization purposes, the KEGG coding system for pathways was adapted, which enables the comprehensive grouping of pathways and is compatible with bioinformatics tools such as the pathway tools of BioCyc. For the chemical classification of metabolites, information was retrieved from the database PubChem.
+</p>
+For Orbitrap MS analyses, using the software SIEVE, searches for the constructed frames were performed against the constructed library with a mass error (deltappm) <2 ppm. Putative identification of metabolites was based on mass accuracy and, where available, MS/MS fragmentation and isotope patterns, following heuristic rules [1]. MS/MS spectra deconvolution was performed using the software MetWorks 1.3 SP3 and Mass Frontier 7.0 SR1 (Thermo Scientific).
+</p>
+Ref:</br>
+[1] Kind T, Fiehn O. Seven Golden Rules for heuristic filtering of molecular formulas obtained by accurate mass spectrometry. BMC Bioinformatics. 2007 Mar 27;8:105. doi:10.1186/1471-2105-8-105. PMID:17389044</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jabaji"	"Aliferis"
+Study Person First Name	"Suha"	"Konstantinos"
+Study Person Mid Initials	""	"A"
+Study Person Email	"suha.jabaji@mcgill.ca"	"konstantinos.aliferis@mcgill.ca"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"MCGILL"	"MCGILL"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

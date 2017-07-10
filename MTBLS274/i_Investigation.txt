@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"MS"	"SNOMEDCT"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"129"	"11"	"146"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS274"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS274"
+Study Title	"Traditional Aboriginal Preparation Alters the Chemical Profile of Carica papaya Leaves and Impacts on Cytotoxicity towards Human Squamous Cell Carcinoma"
+Study Description	"Carica papaya leaf decoction, an Australian Aboriginal remedy, has been used widely for its healing capabilities against cancer, with numerous anecdotal reports. In this study we investigated its in vitro cytotoxicity on human squamous cell carcinoma cells followed by metabolomic profiling of Carica papaya leaf decoction and leaf juice/brewed leaf juice to determine the effects imparted by the long heating process typical of the Aboriginal remedy preparation. MTT assay results showed that in comparison with the decoction, the leaf juice not only exhibited a stronger cytotoxic effect on SCC25 cancer cells, but also produced a significant cancer-selective effect as shown by tests on non-cancerous human keratinocyte HaCaT cells. Furthermore, evidence from testing brewed leaf juice on these two cell lines suggested that the brewing process markedly reduced the selective effect of Carica papaya leaf on SCC25 cancer cells. To tentatively identify the compounds that contribute to the distinct selective anticancer activity of leaf juice, an untargeted metabolomic approach employing Ultra High Performance Liquid Chromatography-Quadrupole Time of Flight- Mass Spectrometry followed by multivariate data analysis was applied. Some 90 and 104 peaks in positive and negative mode respectively were selected as discriminatory features from the chemical profile of leaf juice and >1500 putative compound IDs were obtained via database searching. Direct comparison of chromatographic and tandem mass spectral data to available reference compounds confirmed one feature as a match with its proposed authentic standard, namely pheophorbide A. However, despite pheophorbide A exhibiting cytotoxic activity on SCC25 cancer cells, it did not prove to be the compound contributing principally to the selective activity of leaf juice. With promising results suggesting stronger and more selective anticancer effects when compared to the Aboriginal remedy, Carica papaya leaf juice warrants further study to explore its activity on other cancer cell lines, as well as investigation to confirm the identity of compounds contributing to its selective effect, particularly those compounds altered by the long heating process applied during the traditional Aboriginal remedy preparation."
+Study Submission Date	"2015-11-12"
+Study Public Release Date	"2015-12-25"
+Study File Name	"s_mtbls274.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"Botanical Therapy"	"cancer"	"Australian aborigine"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15250"	"http://www.ebi.ac.uk/efo/EFO_0000311"	"http://purl.bioontology.org/ontology/SNOMEDCT/413600007"
+Study Design Type Term Source REF	""	"CHMO"	"CHMO"	"NCIT"	"EFO"	"SNOMEDCT"
+STUDY PUBLICATIONS
+Study PubMed ID	"26829042"
+Study Publication DOI	"10.1371/journal.pone.0147956"
+Study Publication Author List	"Nguyen TT, Parat MO, Shaw PN, Hewavitharana AK, Hodson MP."
+Study Publication Title	"Traditional Aboriginal Preparation Alters the Chemical Profile of Carica papaya Leaves and Impacts on Cytotoxicity towards Human Squamous Cell Carcinoma."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample type"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls274_POS_mass_spectrometry.txt"	"a_mtbls274_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"POS_UPLC-QTOF-MS"	"NEG_UPLC-QTOF-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Fresh Carica papaya leaves were collected from Tropical Fruit World (TFW), a privately-owned plantation orchard farm and research park in northern New South Wales, Australia (http://www.tropicalfruitworld.com.au/). The papaya plants in this facility had not been sprayed with any chemicals. The leaves were thoroughly washed under running tap water to remove any particulate matter and rinsed carefully with MilliQ water to obtain clean leaves.
+</p>
+Leaf decoction:</br>
+Leaf decoction was prepared following the Australian remedy for cancer treatment; this recipe was also used in recent investigations[1][2]. The cleaned leaves (200 g) were partly dried in air at room temperature and then added to 2.5 l of deionized water in a glass beaker, brought to the boil and further heated uncovered for 4 hr. The leaf decoction was then lyophilised at -60 °C and 0.1 mbar using a Christ Alpha 2-4LD freeze-dryer (Martin Christ Gefriertrocknungsanlagen GmbH, Germany) to obtain a brown leaf decoction powder, which was portioned for storage at -80 °C prior to analysis.
+</p>
+Leaf juice:</br>
+The method to obtain leaf juice was adapted from procedures used in studies for dengue fever[3][4] or toxicity of Carica papaya leaves[5]–[7] as follows: The cleaned leaves were crushed using a mortar and pestle, without the addition of water. The juice was manually separated from the crushed leaf debris using clean muslin fabric, then lyophilised under the same conditions as the leaf decoction to obtain a dark green powder, which was portioned for storage at -80 °C prior to analysis.
+</p>
+Brewed leaf juice:</br>
+To comprehensively evaluate the effect of the heating process, we included in our study an extract obtained by brewing the leaf juice powder under the same condition as processing the whole leaf to obtain the leaf decoction. Leaf juice powder was added to deionised water in a glass beaker with a ratio 200 mg in 100 ml of water and heated to the boil then further heated uncovered for 4 hr to create brewed leaf juice. The brewed leaf juice was then lyophilised under the same conditions as the leaf decoction to obtain a brown brewed leaf juice powder, which was portioned for storage at -80 °C prior to analysis.
+</p>
+Ref:</br>
+[1] Morimoto C, Dang NH, inventors; US Patent 20080069907, assignee. Compositions for cancer prevention, treatment, or amelioration comprising papaya extract. 2008.</br>
+[2] Otsuki N, Dang NH, Kumagai E, Kondo A, Iwata S, Morimoto C. Aqueous extract of Carica papaya leaves exhibits anti-tumor activity and immunomodulatory effects. J Ethnopharmacol. 2010;127(3): 760–767. doi:10.1016/j.jep.2009.11.024. PMID:19961915</br>
+[3] Ahmad N, Fazal H, Ayaz M, Abbasi BH, Mohammad I, Fazal L. Dengue fever treatment with Carica papaya leaves extracts. Asian Pacific journal of tropical biomedicine. 2011;1(4): 330–333. doi:10.1016/S2221-1691(11)60055-5. PMID:23569787</br>
+[4] Subenthiran S, Choon TC, Cheong KC, Thayan R, Teck MB, Muniandy PK, Afzan A, Abdullah NR, Ismail Z. Carica papaya leaves juice significantly accelerates the rate of increase in platelet count among patients with dengue fever and dengue haemorrhagic fever. Evid Based Complement Alternat Med. 2013. doi:10.1155/2013/616737. PMID:23662145</br>
+[5] Afzan A, Abdullah NR, Halim SZ, Rashid BA, Semail RH, Abdullah N, Jantan I, Muhammad H, Ismail Z. Repeated dose 28-days oral toxicity study of Carica papaya L. leaf extract in Sprague Dawley rats. Molecules. 2012;17(4): 4326–4342. doi:10.3390/molecules17044326. PMID:22491681</br>
+[6] Halim S, Abdullah N, Afzan A, Rashid BA, Jantan I, Ismail Z. Acute toxicity study of Carica papaya leaf extract in Sprague Dawley rats. J Med Plants Res. 2011;5(10): 1867–1872.</br>
+[7] Ismail Z, Halim SZ, Abdullah NR, Afzan A, Abdul Rashid BA, Jantan I. Safety evaluation of oral toxicity of Carica papaya Linn. leaves: A subchronic toxicity study in sprague dawley rats. Evid Based Complement Alternat Med. 2014. doi:10.1155/2014/741470. PMID:25530788</br>"	"Leaf juice powder, brewed leaf juice powder, and leaf decoction powder were dissolved at concentrations of 2 mg/ml in water then the obtained solutions subsequently filtered through a 0.22 µm PVDF filter (Merck Millipore, Germany). When filtering, an adequate volume was passed through membrane filter; the first 1.0 ml was discarded and the remaining volume was collected in an HPLC vial, ready for injection.
+</p>
+To facilitate direct comparison among the extracts, the concentrations of extracts used in mass spectrometric/chemometric analysis were equivalently converted and expressed as concentrations of original leaf."	"Chromatographic analysis of compounds in papaya leaf extracts was performed on an Agilent 1290 UHPLC system (Agilent Technologies, Santa Clara, USA). Chromatographic separation was achieved using a 2.1 x 150 mm, 3.5 µm ECLIPSE PLUS C18 analytical column (Agilent) with guard protection. Mobile phase A was MilliQ water containing 5 mM ammonium bicarbonate and 0.1% formic acid, adjusted to pH 7.0 ± 0.1 and mobile phase B was 95% acetonitrile and 5% MilliQ water (v/v) containing 5 mM ammonium bicarbonate and 0.1% formic acid. The following gradient elution was adopted: 10 to 80% B from 0 to 42 min; 80 to 90% B from 42 to 45 min; 90 to 100% B from 45 to 46 min; held at 100% B from 46 to 48 min; returned to 10% B over the next 2 min; column re-equilibration with 10% B for 10 min prior to the next injection. Thus the total chromatographic run time was 60 min. A flow rate of 0.2 ml/min was applied and 20 µl of sample was injected."	"Each extract was run in triplicate in both positive and negative ionisation mode. Mass spectrometric detection was performed on an Agilent 6520 high resolution accurate mass quadrupole time-of-flight (Q-ToF) mass spectrometer equipped with a multimode source operating in both Electrospray Ionisation (ESI) and Atmospheric Pressure Chemical Ionisation (APCI) modes. Mass spectral acquisition was controlled using MassHunter software (B.02.01 SP3—Agilent). The mass spectrometer was operated using a mass range of m/z 100–1700, at a scan rate of 3.0 cycles/second using the following acquisition parameters: capillary voltage 2500 V, nebulizer pressure 30 psi, drying gas flow 5.0 l/min, gas temperature 300 °C, fragmenting voltage 175 V, skimmer voltage 65 V. To ensure the desired mass accuracy of recorded ions, continuous internal calibration was performed during analysis with the use of reference ions m/z 121.050873 (protonated purine) and m/z 922.009798 (protonated hexakis) in positive mode; in negative mode, ions with m/z 119.0362 (deprotonated purine) and m/z 966.000725 (formate adduct of hexakis) were used to correct for scan to scan variations."	"Data processing and analysis were performed using Agilent MassHunter Qualitative software (Version B.05.00) with Molecular Feature Extractor (MFE) algorithms in concert with Mass Profiler Professional software (Version 12.1, Agilent) to align features from the chromatograms of all 9 samples from 3 extracts of papaya leaves. The following cut-off settings were employed: minimum peak filters of 500 counts, peak spacing tolerance of 0.0025 m/z plus 7.0 ppm, assigned charge states limited to a maximum of 2, minimum compound filters of 3000 counts."	"The data matrix obtained from MS data analysis was imported into SIMCA-P software (Version 13.0.3.0, MKS Umetrics AB, Sweden). Data were log10 transformed and mean centered prior to multivariate data analysis using principal component analysis (PCA—unsupervised analysis) and Orthogonal Projection to Latent Structures-Discriminant Analysis (OPLS-DA—supervised analysis). The scores and loadings plot from these analyses, which describe the multivariate relationships of the observations (samples) and the variables (LC-MS features) respectively, were then used to determine the features that contribute to the differences among the extracts.
+</p>
+Preliminary compound identification of the features of interest was performed using a Personal Compound Database Library (PCDL) (Agilent, USA) with the METLIN Personal Metabolite Database and a customized database, compiled using the PCDL platform populated with compounds obtained from Naturally occurring Plant-based Anticancerous Compound-Activity-Target Database (NPACT)[1].
+</p>
+Ref:</br>
+[1] Morton J. Papaya In: Fruits of warm climates. Creative Resource Systems, Inc.; 1987, pp. 336–346.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hodson"
+Study Person First Name	"Mark"
+Study Person Mid Initials	"P."
+Study Person Email	"m.hodson1@uq.edu.au"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"Metabolomics Australia, Australian Institute for
+Bioengineering and Nanotechnology, The University of Queensland, Brisbane, QLD"
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

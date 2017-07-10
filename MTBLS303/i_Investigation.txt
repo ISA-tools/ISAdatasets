@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"RS"	"CSEO"	"EFO"	"NCBITAXON"	"CHMO"	"NCIT"	"UO"	"CHEBI"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/RS"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"103"	"65"	"2"	"132"	"6"	"16"	"40"	"43"	"99"	"25"	"29"	
+Term Source Description	"Mass Spectrometry Ontology"	"Rat Strain Ontology"	"Cigarette Smoke Exposure Ontology"	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS303"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UserslixGoogle DriveISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS303"
+Study Title	"Metabolomics dataset of PPAR-pan treated rat liver (acyl-carnitine and aqueous metabolite assays)"
+Study Description	"This article contains mass spectrometry (MS) data investigating small molecule changes as an effect of a triple peroxisome proliferator-activated receptor (PPAR-pan) agonist GW625019 in the liver as described in the manuscript “PPAR-pan Activation Induces Hepatic Oxidative Stress and Lipidomic Remodelling“ [1]. Samples were analysed using liquid chromatography-mass spectrometry (LC-MS) to measure intact lipids, carnitines and selected aqueous metabolites and eicosanoids. Data files comprise of Excel (Microsoft, WA, USA) spreadsheets of identified metabolites and there area ratio values for total fatty acids, carnitines, aqueous metabolites, and eicosanoids where the intensity of the analytes were normalised to the intensity of the internal standard. In the case of open profiling intact lipid data, the Excel file contains area ratio values of retention time and mass to charge ratio pairs; again, the area ratio values were calculated by normalising to the intensity of the internal standard. It should be noted that several metabolic changes are potentially indirect (secondary, tertiary and ensuing changes).</p>The protocols and data of the carnitine and targeted aqueous metabolites are included in current study MTBLS303.</br>The protocols and data of the eicosanoids are reported in the study MTBLS278.</p> Ref:</br> [1] Zsuzsanna Ament, James A West, Elizabeth Stanley, Tom Ashmore, Lee D Roberts, Jayne Wright, Andrew W Nicholls, Julian L Griffin, PPAR-pan Activation Induces Hepatic Oxidative Stress and Lipidomic Remodelling, Free Radic Biol Med. 2015 Nov 30;95:357-368."
+Study Submission Date	"2016-01-20"
+Study Public Release Date	"2016-05-13"
+Study File Name	"s_Ppar-pan.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"Lipidomics"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"PPARs"	"O-acylcarnitine"
+Study Design Type Term Accession Number	""	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""	"http://purl.obolibrary.org/obo/CHEBI_17387"
+Study Design Type Term Source REF	""	"CSEO"	"CHMO"	""	""	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	"26654758"	"27331087"
+Study Publication DOI	"10.1016/j.freeradbiomed.2015.11.033"	"10.1016/j.dib.2016.05.002"
+Study Publication Author List	"Zsuzsanna Ament, James A West, Elizabeth Stanley, Tom Ashmore, Lee D Roberts,  Jayne Wright, Andrew W Nicholls, & Julian L Griffin  "	"Ament Z, West JA, Stanley E, Li X, Ashmore T, Roberts LD, Wright J, Nicholls AW, Griffin JL."
+Study Publication Title	"PPAR-pan Activation Induces Hepatic Oxidative Stress, Lipidomic Remodelling and Inflammation"	"Metabolomics dataset of PPAR-pan treated rat liver."
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Dose"	"Group"
+Study Factor Type	"dose"	"Group"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000428"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_Ppar_pan_aqueous_metabolites.txt"	"a_Ppar_pan_acyl_carnitine.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"API 5500 QTRAP (AB Sciex)"	"API 5500 QTRAP (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"PPAR-pan activator was administered to male Sprague–Dawley rats (Crl:CD (SD) strain), 12 animals per group, by daily oral gavage at 30, 100, 300, 1000 mg/kg/day for 13 weeks. A separate satellite group of animals (6 per group) were kept for a 4 week treatment free period in the control, intermediate 2 (300 mg/kg/day) and high (1000 mg/kg/day) dose groups. Liver tissue samples were collected following an overdose of anaesthetic (halothane Ph. Eur. Vapour). Samples were immediately removed, weighed, and sections snap-frozen in liquid nitrogen.  Samples were maintained at -80 °C until further analysis."	"Methanol:chloroform solution (2:1, 600 µl) was added to approximately 50 mg of frozen tissue and homogenised with a tissue lyser. Chloroform and water (200 µl each) were added, samples were sonicated for 15 min and centrifuged (13,500 rpm, 20 min). The resulting aqueous and organic layers were separated and the extraction procedure was repeated. Samples were dried under nitrogen before processing for liquid chromatography-mass spectrometry (LC-MS).
+</p>
+Targeted analysis of aqueous metabolites:</br>
+For LC-MS/MS analysis, aqueous phase metabolites resulting from the chloroform:methanol extractions were used. The entire fraction was dissolved in 300 µl of 70:30 acetonitrile:water containing 20 µM universally 13C- and 15N-labelled glutamate. Samples were vortex mixed, sonicated, centrifuged, (17,000 x g, 5 min) pipetted into auto sampler vials.
+</p>
+Analysis of acyl-carnitines:</br>
+100 µl of internal standard solution mix (1.63 µM [D9] free carnitine, 0.3 µM [D3] acetyl carnitine, 0.06 µM [D3] propionyl-carnitine, 0.06 µM [D3] butyryl-carnitine, 0.06 µM [D9] isovarelyl-carnitine, 0.06 µM [D3] octanoyl-carnitine, 0.06 µM [D9] myristoyl-carnitine, and 0.12 µM [D3] palmitoyl-carnitine, Cambridge Isotope Laboratories, Andover, MA, USA) was added to 40 µl of the organic fraction of the methanol:chloroform extraction and the resulting mixture were dried down under nitrogen and derivatised with 100 µl of 3 M butanolic-HCl (Sigma-Aldrich, Louis, Missouri, USA). Samples were evaporated under nitrogen, re-constituted and sonicated in 4:1 acetonitrile:0.1% formic acid in water before transferring them to autosampler vials."	"Targeted analysis of aqueous metabolites:</br>
+The samples were analysed using an AB Sciex 5500 Qtrap mass spectrometer (AB Sciex UK Limited, Warrington, Cheshire) coupled to a SIL20-A LC system (Shimadzu Corp., Kyoto, Japan). Mobile phase A consisted of 100 mM ammonium acetate, mobile phase B was acetonitrile, and the flow rate was 0.3 ml/min. 2 µl of each sample was injected, and analytes separated using a 100 mm ZIC-HILIC column with 2.1 mm ID and 3.5 µm particle size (Sequant, Umeå, Sweden). A linear gradient was used, starting at 20% A for 2 min, followed by an increase to 50% A over 10 min, and finally a 3 min re-equilibration. 
+</p>
+Analysis of acyl-carnitines:</br>
+The samples were analysed using an AB Sciex 5500 QTRAP mass spectrometer (AB Sciex UK Limited, Warrington, Cheshire) coupled to an Acquity UPLC system (Waters Corp., Milford, MA). Mobile phase A consisted of 0.1% formic acid in water, while mobile phase B was acetonitrile. 2 µl of each sample was injected onto a Synergi Polar RP phenyl ether column (100 mm x 2.1 mm, 2.5 µm) supplied by Phenomenex (Macclesfield, Cheshire, UK). The analytical gradient started at 30% B, followed by a linear increase to 100% B over 3 min. The gradient was then held at 100% B for 5 min, after which it was returned to the re-equilibration level of 30% B for 2 min. A flow rate of 0.5 ml/min was used throughout."	"Targeted analysis of aqueous metabolites:</br>
+The samples were analysed using an AB Sciex 5500 Qtrap mass spectrometer (AB Sciex UK Limited, Warrington, Cheshire) coupled to a SIL20-A LC system (Shimadzu Corp., Kyoto, Japan). Metabolites of interest were measured in positive ionisation mode with unscheduled multiple reaction monitoring events (MRMs), using a source temperature of 500 ºC, an ion spray voltage of 4.5 kV and a dwell time of 50 ms.
+</p>
+Analysis of acyl-carnitines:</br>
+The samples were analysed using an AB Sciex 5500 QTRAP mass spectrometer (AB Sciex UK Limited, Warrington, Cheshire) coupled to an Acquity UPLC system (Waters Corp., Milford, MA). Parent masses yielded the common fragment of +85.0 Da. All analysis was performed in positive ion mode with a collision energy of 25 eV and a cone voltage of 35 V for each compound."	"Peaks were integrated by the Quantitation Wizard within Analyst™ version 1.6 by AB Sciex Ltd. (Warrington, Cheshire, UK)."	"Data were analysed using the Quantitation Wizard within Analyst™ version 1.6 by AB Sciex Ltd. (Warrington, Cheshire, UK). Metabolites were identified based on fragmentation patterns of analyte standards and retention times."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ament"	"Griffin"
+Study Person First Name	"Zsuzsanna"	"Jules"
+Study Person Mid Initials	""	""
+Study Person Email	"Zsuzsanna.Ament@mrc-hnr.cam.ac.uk"	"Jules.Griffin@mrc-hnr.cam.ac.uk"
+Study Person Phone	""	"01223426356"
+Study Person Fax	""	""
+Study Person Address	"120 Fulbourn Road, Human nutrition research,
+ Cambridge"	"120 Fulbourn Road, Human nutrition research,
+ Cambridge"
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

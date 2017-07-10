@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"BTO"	"CHMO"	"CHEBI"	"OBI"	"MS"	"BAO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BAO"	
+Term Source Version	"3"	"119"	"24"	"12"	"80"	"23"	"96"	"20"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BioAssay Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS20"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS20"
+Study Title	"Annotation of the human adult urinary metabolome and metabolite identification using ultra high performance liquid chromatography coupled to a LTQ-Orbitrap mass spectrometer"
+Study Description	"This study deals with the annotation of the human adult urinary metabolome and metabolite identification from electrospray-mass spectrometry (ESI-MS) based metabolomics datasets. Metabolite identification was achieved using two complementary approaches: (i) formal identification by matching chromatographic retention times, mass spectra and also product ion spectra (if required) of metabolites to be characterized in biological datasets to those of reference compounds, and, (ii) putative identification from biological data thanks to MS/MS experiments for metabolites not available in our chemical library. By these means, 384 metabolites corresponding to 1484 annotated features (659 in negative ion mode and 825 in positive ion mode) were characterized in human urine samples. Of these metabolites, 191 and 67 were formally and putatively identified, respectively."
+Study Submission Date	"2012-08-06"
+Study Public Release Date	"2013-07-26"
+Study File Name	"s_Annotation.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"urinary metabolome"	"spectral library building"	"flow injection analysis"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""	"http://purl.obolibrary.org/obo/MS_1000058"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"CHMO"	""	""	"MS"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"22770225"
+Study Publication DOI	"10.1021/ac300829f"
+Study Publication Author List	"Aurelie ROUX, Ying Xu, Jean-François Heilier, Marie-Françoise Olivier, Eric Ezan, Jean-Claude Tabet, and Christophe J"
+Study Publication Title	"Annotation of the human adult urinary metabolome and metabolite identification using ultra high performance liquid chromatography coupled to a LTQ-Orbitrap mass spectrometer"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Material sample"
+Study Factor Type	"material sample"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000747"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_439020neg_LCMS_metid_urine.txt"	"a_439020pos_LCMS_metid_urine.txt"	"a_439033neg_LCMS_metid_urine.txt"	"a_439033pos_LCMS_metid_urine.txt"	"a_MS2neg_FIAMS2_metid_urine.txt"	"a_MS2pos_FIAMS2_metid_urine.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Discovery (Thermo Scientific)"	"LTQ Orbitrap Discovery (Thermo Scientific)"	"LTQ Orbitrap Discovery (Thermo Scientific)"	"LTQ Orbitrap Discovery (Thermo Scientific)"	"LTQ Orbitrap Discovery (Thermo Scientific)"	"LTQ Orbitrap Discovery (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine samples were centrifuged (1430 x g for 5 min) and then diluted in deionized water (dilution 1/5, 20 µl urine in 80 µl of water) before analysis.  The reference compounds were weighed (1 mg) and dissolved in an appropriate solvent to obtain a 1 mg/ml stock solution. Working solutions were then obtained by diluting 5 µl of the stock solution in 995 µl of a mixture of water and acetonitrile (1/1 v/v) containing 0.1% formic acid. These solutions were directly introduced into the mass spectrometer using flow injection analysis (FIA)."	"N/A"	"LC-MS:</br>
+An Accela LC system (ThermoFisher Scientifics, Courtaboeuf, France) was coupled to an LTQ-Orbitrap instrument for sample introduction and separation. The UHPLC chromatographic separation was performed on a Hypersil GOLD C18 1.9 μm, 2.1 mm x 150 mm column (Thermo Fisher Scientific, Les Ulis, France) equipped with an online prefilter (Interchim, Montlucon, France). The mobile phases were (A) 100% water and (B) 100% acetonitrile, containing 0.1% formic acid. After an isocratic step of 2 min at 100% phase A, a linear gradient from 0% to 100% B was run over the next 11 min with a mobile phase flow of 500 μl/min. Returning to 100% A at 15.50 min, the column was then allowed to equilibrate for 3.5 min, leading to a total run time of 19 min. The HPLC chromatographic separation was performed on a Discovery® HS F5 PFPP (Pentafluorophenyl Propyl) 5 μm, 2.1 mm × 250 mm column (Sigma, Saint Quentin Fallavier, France), equipped with an online prefilter (Interchim, Montlucon, France). After an isocratic step of 3 min at 100% phase A, a linear gradient from 0% to 100% B was run over the next 17 min with a mobile phase flow of 200 μl/min. Returning to 100% A at 25.50 min, the column was then allowed to equilibrate for 19.5 min, leading to a total run time of 45 min.
+</p>
+FIA:</br>
+50 µl of working solutions was injected for FIA using a mobile phase consisting of a mixture ACN/H2O (1/1 v/v) containing 0.1% formic acid at a flow rate of 100 μl/min."	"LC-MS:</br>
+Analyses were performed using an Accela liquid chromatographic system (Thermo Fisher Scientific, Les Ulis, France) coupled to an LTQ-Orbitrap Discovery (Thermo Fisher Scientific, Les Ulis, France) fitted with an electrospray source operated in the positive and negative ion modes. The software interface was Xcalibur (version 2.1.) (Thermo Fisher Scientific, Les Ulis, France). For singly charged ions, the mass resolution power of the analyzer was set to 30 000 (m/Δm, FWHM at 400 u) and the mass accuracy was within a 5 ppm range. Mass spectra were recorded from 75 u up to 1000 u in positive and negative ion mode. In the positive ion mode, the electrospray voltage was set to 5 kV, the capillary voltage to 15 V, and the tube lens offset to 50 V. The sheath and auxiliary gas flows (both nitrogen) were optimized at 60 and 10 arbitrary units (a.u.), respectively, and the drying gas temperature was set to 275 °C. In the negative ion mode, the electrospray voltage was set to -3 kV, and the capillary voltage and tube lens offset were set to -10 and -100 V, respectively; the sheath and auxiliary gas flows (both nitrogen) were 60 and 10 au respectively, and the drying gas temperature was 275 °C.
+</p>
+MS/MS:</br>
+Mass spectra were recorded in continuous mode and CID (collision-induced dissociation) spectra were acquired concomitantly (dependent scan, CID of the most abundant ion at 20% and 30% of collision energy) from 75 u up to 1000 u with an AGC value of 5x10^5. For singly charged ions, the mass resolution power of the analyzer was set to 30 000 (m/Δm, FWHM at 400 u) and the mass accuracy was within a 5 ppm range. Mass spectra were recorded from 75 u up to 1000 u in positive and negative ion mode. In the positive ion mode, the electrospray voltage was set to 5 kV, the capillary voltage to 15 V, and the tube lens offset to 50 V. The sheath and auxiliary gas flows (both nitrogen) were optimized at 60 and 10 arbitrary units (a.u.), respectively, and the drying gas temperature was set to 275 °C. In the negative ion mode, the electrospray voltage was set to -3 kV, and the capillary voltage and tube lens offset were set to -10 and -100 V, respectively; the sheath and auxiliary gas flows (both nitrogen) were 60 and 10 au respectively, and the drying gas temperature was 275 °C."	"All raw data were manually inspected using the Qualbrowser module of Xcalibur version 2.0.7 (Thermo Fisher Scientific, Les Ulis, France), and its chemical formula generator was used to provide elemental compositions. Automatic peak detection and integration were performed using the XCMS software package. Raw files were first of all converted to netCDF format with Xconvert (Thermo Scientific, Les Ulis, France). Data were processed using XCMS version 1.14.126 running under R version 2.8.1. The R language was installed on a Dell Eight-core Intel Xeon 3.00 GHz Processor with 16 Go RAM running Linux (Centos 5.2 x86_64). The matchedFilter algorithm was used and default values were set for all parameters except for “fwhm”, “step”, “steps”, “mzdiff”, “mzwid”, and “minfrac” which were set, respectively, at 4, 0.01, 2, 0.01, 0.01 and 0.5 for both group functions. Grouping of features was performed using CAMERA27 (Collection of Algorithms for MEtabolite pRofile Annotation) software (Bioconductor version 2.8), a free R package. Grouping and annotation were carried out with optimized settings: “sigma” = 6, “perfwhm” = 0.6, “cor_eic_th” = 0.6, “maxcharge” = 2, “maxiso” = 3 and “ppm” = 5. Autocorrelation matrices 28 were generated thanks to a home-made informatics tool."	"Public database (KEGG, HMDB and Metlin) annotations were performed on datasets resulting from the XCMS process with a home-made informatics tool developed in R language. Annotations were carried out by matching the measured accurate masses ±10 ppm with theoretical ones of public databases."
+Study Protocol URI	"http://pubs.acs.org/doi/suppl/10.1021/ac300829f"	""	""	""	""	"http://pubs.acs.org/doi/suppl/10.1021/ac300829f/suppl_file/ac300829f_si_001.pdf"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Junot"	"Roux"
+Study Person First Name	"Christophe"	"Aurélie"
+Study Person Mid Initials	""	""
+Study Person Email	"christophe.junot@cea.fr"	"aurelieroux@gmail.com"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

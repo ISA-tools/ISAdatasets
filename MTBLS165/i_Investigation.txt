@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"EFO"	"NCBITAXON"	"BTO"	"CHMO"	"OBI"	"NCIT"	"MS"	"SNOMEDCT"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"119"	"3"	"24"	"12"	"22"	"34"	"86"	"9"	"43"	
+Term Source Description	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS165"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS165"
+Study Title	"Changes in the Milk of the Giant Panda (Ailuropoda melanoleuca) with Time After Birth – A Metabolomic Study of Early Lactation"
+Study Description	"LC-MS based metabolomic analysis of 55 milk samples from 3 individual panda mothers during early lactation period."
+Study Submission Date	"2015-02-11"
+Study Public Release Date	"2015-03-31"
+Study File Name	"s_Panda milk metabolomics study.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomics"	"Lactation"	"high-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.bioontology.org/ontology/SNOMEDCT/63158009"	"http://purl.obolibrary.org/obo/CHMO_0000796"
+Study Design Type Term Source REF	""	"SNOMEDCT"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	"Changes in the Milk of the Giant Panda (Ailuropoda melanoleuca) with Time After Birth – A Metabolomic Study of Early Lactation."
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Panda mother"	"Mother age"	"Timepoint"
+Study Factor Type	"Mother"	"age"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25189"	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls165_YY_metabolite_profiling_mass_spectrometry.txt"	"a_mtbls165_colostrum_metabolite_profiling_mass_spectrometry.txt"	"a_mtbls165_mature_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Milk samples were collected from three captive giant pandas, “Li Li” (abbreviated as LL) aged 20 years, “Yuan Yuan” (YY) aged 9 years and “Xiao Ya Tou” (XYT) aged 6 years in the Chengdu Research Base of Giant Panda Breeding. In the total of 55 milk samples 17 were collected from “Li Li”, 21 from “Yuan Yuan” and 17 from “Xiao Ya Tou” respectively. The collection dates and postpartum days with the information of individual panda mothers are detailed in Supplementary Material Table 1 (SM-T1). The samples were frozen within 2 hours of collection and kept at -80 ˚C until analysis. Infant formula (Enfamil) was purchased from Mead Johnson Company, LIC (No.2011503, Indiana USA). Dog milk replacer (Esbilac formula) was obtained from PetAg, New Hampshire, IL (No.IL-BLD-OO4, Illinois USA) and Panda milk replacer (research use only) was obtained from Morinyu Sunworld Co., Ltd (No. 141-0031, Tokyo Japan)."	"The panda milk samples were thawed at room temperature and 50 µl of each was added into 200 µl of methanol/acetonitrile 1:1 (v/v), the solution was mixed and placed in an ultra-sonic bath for 20 seconds. The emulsion was centrifuged for 10 minutes  at 15,000 rpm at 4 ˚C. The supernatant was transferred into a HPLC vial for LC-MS analysis. The preparation of three powdered milk samples was carried out according to their instructions and the extraction procedure was the same as above."	"The analysis of the milk samples was carried out on an Accela 600 HPLC system combined with an Exactive (Orbitrap) mass spectrometer (Thermo Fisher Scientific, UK). 10 µl of each sample solution was injected onto a ZIC-pHILIC column (150×4.6 mm, 5 µm) obtained from HiChrom (Reading UK) with mobile phase A: 20 mM ammonium carbonate in HPLC grade water (pH9.2) and B: HPLC grade acetonitrile. The LC and the MS conditions were same as used in our previous studies [1][2]. The samples were put into a random sequence for LC-MS analysis and the QC sample (YY-19day) was injected at the beginning, the middle and the end of the experiment respectively to monitor the stability of the instrumentation. The elution gradient was performed by decreasing the percentage of acetonitrile from 80% to 20% in 30 minutes followed by washing the column at 5% of acetonitrile for 5 minutes and finally re-equilibrating the column at 80% of B for 10 minutes. Flow rate was 0.3 ml/min.
+</p>
+Ref: </br>
+[1] Zhang T, Creek DJ, Barrett MP, Blackburn G, Watson DG (2012) Evaluation of coupling reversed phase, aqueous normal phase, and hydrophilic interaction liquid chromatography with Orbitrap mass spectrometry for metabolomic studies of human urine. Anal Chem 84: 1994-2001.
+[2] Zhang T, Watson DG, Wang L, Abbas M, Murdoch L, et al. (2013) Application of Holistic Liquid Chromatography-High Resolution Mass Spectrometry Based Urinary Metabolomics for Prostate Cancer Detection and Biomarker Discovery. PLoS One 8: e65880."	"The ESI interface was operated in a positive/negative polarity switching mode. The spray voltage was 4.5 kV for positive mode and 4.0 kV for negative mode. The temperature of the ion transfer capillary was 275 °C and sheath and auxiliary gas was 50 and 17 arbitrary units respectively. The full scan range was 75 to 1200 m/z for both positive and negative modes with settings of AGC target and resolution as Balanced and High (1e6 and 50,000) respectively. The data was recorded using Xcalibur 2.1.0 software package (Thermo Fisher Scientific). Mass calibration was performed for both ESI polarities before the analysis using the standard Thermo Calmix solution with addition of some additional compounds to cover the low mass range and the signals of 83.0604 m/z (2xACN+H) and 91.0037 m/z (2 x formate-H) were selected as lock masses for positive and negative mode respectively during each analytical run. For HCD-on experiments the collision energy was 25 eV for both ESI positive and negative modes."	"The raw data was converted into mzML format by using ProteoWizard. MZMine 2.10 was used for peak extraction and alignment and the detailed procedure and the parameter settings were described in our previous study [1]. The outcome was imported into an in-house macro (written in Microsoft Excel 2010) for removing the system background signals (the maximum intensity of a signal in the samples must be 20 times higher than in the blank otherwise it will be removed) and the remaining data was exported for multivariate analysis.
+</p>
+Ref: </br>
+[1] Zhang T, Watson DG, Wang L, Abbas M, Murdoch L, et al. (2013) Application of Holistic Liquid Chromatography-High Resolution Mass Spectrometry Based Urinary Metabolomics for Prostate Cancer Detection and Biomarker Discovery. PLoS One 8: e65880."	"Putative identification was also conducted in the macro by searching the accurate mass against our in-house database [1][2]. MS2 and MS3 fragmentation of the key components discovered in the multivariate analysis was carried out by using Collision Induced Dissociation (CID) at 35 V using a Surveyor HPLC system combined with a LTQ-Orbitrap mass spectrometer from Thermo Fisher Scientific UK. The  MS/MS spectra obtained were compared with the published data or interpreted for further identification (SM-T2).
+</p>
+SIMCA-P version 13.0 (Umetrics, Sweden) was used for multivariate analysis including PCA, HCA, OPLS-DA and OPLS. The data was centred and unit variance (UV) scaled for PCA and HCA but Pareto (Par) scaled for OPLS-DA and OPLS in order to generate an S-plot for visualisation of the components with significant influence in the dataset. The rate of increase in the weight of the giant panda baby was used as the single Y-variable in OPLS. It was calculated as the percentage increase in body weight in relation to the whole body weight on the previous day (SM-T3).
+</p>
+Ref: </br>
+[1] Zhang T, Creek DJ, Barrett MP, Blackburn G, Watson DG (2012) Evaluation of coupling reversed phase, aqueous normal phase, and hydrophilic interaction liquid chromatography with Orbitrap mass spectrometry for metabolomic studies of human urine. Anal Chem 84: 1994-2001.
+[2] Zhang T, Watson DG, Wang L, Abbas M, Murdoch L, et al. (2013) Application of Holistic Liquid Chromatography-High Resolution Mass Spectrometry Based Urinary Metabolomics for Prostate Cancer Detection and Biomarker Discovery. PLoS One 8: e65880."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhang"	"Zhang"	"Loeffler"	"Zhang"	"Zhang"	"Hou"	"Wang"	"Watson"	"Kennedy"
+Study Person First Name	"Tong"	"Rong"	"Kati"	"Liang"	"Zhihe"	"Rong"	"Hairui"	"David"	"Malcolm"
+Study Person Mid Initials	""	""	""	""	""	""	""	"G."	"W."
+Study Person Email	"tong.zhang.101@strath.ac.uk"	"zhangrong@gzucm.edu.cn"	"kati.loeffler@yahoo.com"	"lianne@panda.org.cn"	"zzh@panda.org.cn"	"hourong2000@panda.org.cn"	"wang200108143@aliyun.com"	"d.g.watson@strath.ac.uk"	"malcolm.kennedy@glasgow.ac.uk"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	""	""	""	""	""	""	""	""	""
+Study Person Roles	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""

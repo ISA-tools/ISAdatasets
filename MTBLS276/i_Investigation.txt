@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"BAO"	"BTO"	"MS"	"NCIT"	"CHMO"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"19"	"22"	"86"	"28"	"5"	"80"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BioAssay Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS276"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS276"
+Study Title	"Diversity in DNA: Identification of methylated deoxyadenosines in higher eukaryotes"
+Study Description	"Since the discovery that cytosine deoxynucleotides could be methylated (dC5m), not much is known in higher eukaryotes about modifications affecting other deoxynucleotides. Here, we now report that we detected N-6-methyl-deoxyadenosine (dA6m) not only in frog DNA, but also in other species including mouse and human. Our methylome analysis revealed that dA6m is widely distributed across the eukaryotic genome, is present in different cell types, but commonly depleted from gene exons. Since dA6m is a direct modification of DNA, it has the potential to generate a significant impact on different biological areas. Ultimately, our work shows that deoxycytidine modifications might not be the only ones in higher eukaryotes, suggesting that such direct DNA modifications might be more widespread than previously thought."
+Study Submission Date	"2015-11-13"
+Study Public Release Date	"2015-11-16"
+Study File Name	"s_Diversity in DNA.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"DNA Analysis"	"tandem mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17632"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""
+Study Design Type Term Source REF	"CHMO"	"NCIT"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26689968"
+Study Publication DOI	"10.1038/nsmb.3145"
+Study Publication Author List	"Koziol MJ, Bradshaw CR, Allen GE, Costa AS, Frezza C, Gurdon JB."
+Study Publication Title	"Identification of methylated deoxyadenosines in vertebrates reveals diversity in DNA modifications."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Pulldown"	"Replicate"
+Study Factor Type	"Pulldown"	"biological replicate"
+Study Factor Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	""	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_diversity_in_dna_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Dionex UltiMate 3000 RSLC System (Thermo)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Genomic DNA isolation:</br>
+Genomic DNA was isolated from different tissues and species. After homogenization of the samples (Precellys 24) and addition of phenol chloroform, and the aqueous phase was precipitated with isopropanol and sodium acetate. After 2 washes with 70% EtOH, the DNA was digested with RNAse A for at least 16 hrs at 37 °C. The DNA was subsequently treated with Proteinase K and purified using the DNeasy Blood & Tissue Kit (Qiagen). To ensure removal of any RNAse, the DNA was again digested with RNAse A and Proteinase K, and repeatedly extracted with the DNeasy Blood & Tissue Kit. The concentration of the genomic DNA was measured using the Qubit double stranded High Sensitivity assay kit.
+</p>
+DNA immunoprecipitation (DIP):</br>
+DNA immunoprecipitaiton was prepared using the protocol from [1], with the following variations: After the isolation of genomic DNA, at least 20 µg DNA was fractionated into 100-200bp fragments using the bioruptor (Diagenode). About 1 µg or the fractionated DNA was put aside as an input control. The rest of the fragmented genomic DNA was resuspended in a 1 ml final reaction volume containing 10 mM Tris-HCl, 150 mM NaCl, 0.1% (v/v) Igepal CA-630 and 1.5 µg/µl BSA. To this, at least 2.5 µg of the dA6m Ab (Synaptic Systems GmbH, m6A antibody, Cat. No. 202003) was added. Alternatively, the following antibodies were used: dA6m Ab* (Synaptic Systems GmbH, m6A antibody, Cat. No. 202011), dA6m Ab** (Synaptic Systems GmbH, m6A antibody, Cat. No. 202111), IgG (Abcam, Cat. No. ab171870). After an overnight incubation at 4 °C on a rotor, 100 µl of prewashed protein A magnetic beads were added for 2 hrs at 4 °C. Next, the supernatant was removed while Ab bound to the beads was retained using a magnet. After 5 washes with the washing buffer (10 mM Tris-HCl, 150 mM NaCl, 0.1% (v/v) Igepal CA-630), the DNA bound Ab fraction was eluted. For almost all applications, the DNA was eluted from the Ab and beads with 150 µl of elution buffer that contained 10 mM Tris-HCl, 150 mM NaCl, 0.1% (v/v) Igepal CA-630, 6.7 mM methylated adenosine triphophate). The mixture was then incubated for 1 hr with continuous shaking at 37 °C. The supernatant was removed, and then another 150 µl of elution buffer was added to remove any unbound remaining fraction. Next, the supernatants were combined, precipitated, and used for subsequent analysis.
+</p>
+DNA oligos:</br>
+Synthetic oligos were used on dot-blots and pulldown studies. The sequence of the 25bp DNA oligo with no dA6m is 5’ AGTCGTTCATCTAGTTGCGGTGTAC 3’. The sequence of the 25bp DNA oligo with dA6m is 5’ AGTCGTTCATCT(dA6m) GTTGCGGTGTAC 3’. The sequence of the 110bp DNA oligo with no dA6m is 5’ TGAGCAAGGGCGAGGAGCTGTTCACCGGGGTGGTGCCCATCCTGGTCGAGCTGGACGGCGACGTAAACGGCCACAAGTTCAGCGTGTCCGGCGAGGGCGAGGGCGATGCC 3’. The sequence of the 110bp DNA oligo with dA6m is 5’ TGAGCAAGGGCGAGGAGCTGTTCACCGGGGTGGTGCCCATCCTGGTCG (dA6m) GCTGGACGGCGACGTAAACGGCCACAAGTTCAGCGTGTCCGGCGAGGGCGAGGGCGATGCC 3’.
+</p>
+Strain genotypes:</br>
+The Dam- bacteria are a K12 strain, and in addition to lacking the Dam methylase, they are also deficient in deoxycytosine methylation (Dcm-). These strains were obtained from NEB (dam-/dcm- Competent E.coli). They have the following genotype:  ara-14 leuB6 fhuA31 lacY1 tsx78 glnV44 galK2 galT22 mcrA dcm-6 hisG4 rfbD1 R(zgb210::Tn10) TetS endA1 rspL136 (StrR) dam13::Tn9 (CamR) xylA-5 mtl-1 thi-1 mcrB1 hsdR2. The Dam+ bacteria are a DH10B strain, and have the following genotype: F- mcrA delta(mrr-hsdRMS-mcrBC) phi80lacZdeltaM15 deltalacX74 recA1 araD139 delta(araleu)7697 galU galK rpsL (StrR) endA1 nupG. These strains were obtained from Invitrogen. X. laevis fat and oviduct samples were obtained from female adults. X. laevis testes were isolated from adult males. All X. laevis were pigmented, and purchased from eNASCO. M. musculus kidney were obtained from adult wild type males, with the strain C57B6.
+</p>
+Ref:</br>
+[1] Dominissini, D., Moshitch-Moshkovitz, S., Salmon-Divon, M., Amariglio, N., Rechavi, G. Transcriptiome-wide mapping of N(6)-methyladenosine by m(6)A-seq based on immunocapturing and massively parallel sequencing. Nature Protocols 8, 176-189 (2013). doi: 10.1038/nprot.2012.148. PMID:23288318</br>"	"The samples to be analyzed by ultra high performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS) were diluted in a volume of 250 µl. The samples were then denatured by heating the samples at 100 °C for 5min and immediately placing them on ice. 20 µl of 20 mM ZnSO4 and 10 µl of the nuclease P1 (200 units/ml in 30 mM sodium acetate, pH 5.3) were added, in order to digest any DNA strands into individual nucleotides. After an overnight incubation at 50 °C, 180 µl of water, and 1 µl of bacterial alkaline phosphatase (BAP, 150 U/µl) were added. After a 24 hr incubation at 37 °C, 1 ul of the BAP was added again, and the samples were incubated at 65 °C for another hour. Next, 30 µl of 0.5 M Tris-HCl (pH 7.9) was added, and the phosphatase reaction was continued for another hour at 37 °C. Next, 400 µl of water was added, together with silicic acid that filled the 1.7 ml Eppendorf tube to about 200 µl. After incubation for 15 min with occasional vortexing, the sample mixture was transferred onto 0.45 µm cellulose acetate filters.  After centrifugation the silicic acid granules were removed. The flow through was then analyzed by UHPLC-MS/MS."	"Analysis of global levels of dA and dA6m was performed on a Q Exactive Orbitrap mass spectrometer coupled to a Dionex UltiMate 3000 Rapid Separation LC fitted with an Acquity UHPLC HSS T3 column (100 x 2.1 mm, 1.8 µm particle size). The mobile phase consisted of 0.1% aqueous formic acid (solvent A) and 0.1% formic acid in acetonitrile (solvent B) at a flow rate of 300 µl/min. Calibration curves were generated using serial dilutions of synthetic standards for deoxyadenosine (dA, Sigma) and N6-methyl-2’-deoxyadenosine (dA6m, Sigma)."	"The Q Exactive Orbitrap mass spectrometer was set in a positive ion mode and operated in parallel reaction monitoring. Ions of masses 252.11 (dA) and 266.12 (dA6m) were fragmented and full scans were acquired for the base fragments 136.0618 and 150.0774 ± 5ppm (adenine and methyladenine, respectively)."	"No data conversion was carried out on the output raw data files."	"The EIC of the base fragment was used for quantification. Accurate mass of the corresponding base-fragment was extracted using the XCalibur Qual Browser and XCalibur Quan Browser software (Thermo Scientific), and used for quantification."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	"Post Extraction;Derivatization"	""
+Study Protocol Parameters Name Term Accession Number	";;"	";;;;"	""	""	";"	""
+Study Protocol Parameters Name Term Source REF	";;"	";;;;"	""	""	";"	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Koziol"	"Bradshaw"	"Allen"	"Costa"	"Frezza"	"Gurdon"
+Study Person First Name	"Magdalena"	"Charles "	"George"	"Ana"	"Christian"	"John"
+Study Person Mid Initials	"J"	"R"	"E"	"S.H."	""	"B"
+Study Person Email	"mjk39@cam.ac.uk"	"crb55@cam.ac.uk"	"ga316@cam.ac.uk"	"ash51@mrc-cu.cam.ac.uk"	"CF366@MRC-CU.cam.ac.uk"	"j.gurdon@gurdon.cam.ac.uk"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge, Tennis Court Road, Cambridge, CB2 1QN, United Kingdom"	"Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge, Tennis Court Road, Cambridge, CB2 1QN, United Kingdom"	"Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge, Tennis Court Road, Cambridge, CB2 1QN, United Kingdom"	"Medical Research Council Cancer Unit, University of Cambridge, Hutchison/MRC Research Centre, Cambridge, CB2 0XZ, United Kingdom"	"Medical Research Council Cancer Unit, University of Cambridge, Hutchison/MRC Research Centre, Cambridge, CB2 0XZ, United Kingdom"	"Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge, Tennis Court Road, Cambridge, CB2 1QN, United Kingdom"
+Study Person Affiliation	"Gurdon Institute"	"Gurdon Institute"	"Gurdon Institute"	"MRC Cancer Unit"	"MRC Cancer Unit "	"Gurdon Institute"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

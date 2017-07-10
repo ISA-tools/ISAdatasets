@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CSEO"	"BTO"	"MS"	"CHMO"	"SWO"	"NCBITAXON"	"NCIT"	"EFO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/SWO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"2"	"22"	"86"	"18"	"22"	"6"	"44"	"146"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Cigarette Smoke Exposure Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Software Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS196"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS196"
+Study Title	"Integrated omics analysis of pathogenic host responses during pandemic H1N1 influenza virus infection: the crucial role of lipid metabolism"
+Study Description	"Pandemic influenza viruses modulate pro-inflammatory responses that can lead to immunopathogenesis. We present an extensive and systematic profiling of lipids, metabolites and proteins in respiratory compartments of ferrets infected with either 1918 or 2009 human pandemic H1N1 influenza viruses. Integrative analysis of high-throughput omics data with virologic and histopathologic data uncovered relationships between host responses and phenotypic outcomes of viral infection. Pro-inflammatory lipid precursors in the trachea following 1918 infection correlated with severe tracheal lesions. Using an algorithm to infer cell quantities changes from gene expression data, we found enrichment of distinct T cell subpopulations in the trachea. There was also a predicted increase in inflammatory monocytes in the lung of 1918 virus-infected animals that was sustained throughout infection. This study presents a unique resource to the influenza research community and demonstrates the utility of an integrative systems approach for characterization of lipid metabolism alterations underlying respiratory responses to viruses."
+Study Submission Date	"2015-04-24"
+Study Public Release Date	"2016-05-12"
+Study File Name	"s_Ferret_Omics.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"Systems biology"	"Lipidomics"	"H1N1 Influenza"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://edamontology.org/topic_2259"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80444"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"CHMO"	"SWO"	"CSEO"	"NCIT"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26867183"
+Study Publication DOI	"http://dx.doi.org/10.1016/j.chom.2016.01.002"
+Study Publication Author List	"Jennifer Tisoncik-Go, David J. Gasper, Jennifer E. Kyle, Amie J. Eisfeld, Christian Selinger, Masato Hatta, Juliet Morrison, Marcus J. Korth, Erika M. Zink, Young-Mo Kim, Athena A. Schepmoes, Carrie D. Nicora, Samuel O. Purvine, Karl K. Weitz, Xinxia Peng, Richard R. Green, Susan C. Tilton, Bobbie-Jo Webb-Robertson, Katrina M. Waters, Thomas O. Metz, Richard D. Smith, Yoshihiro Kawaoka, M. Suresh, Laurence Josset, and Michael G. Katze"
+Study Publication Title	"Integrated omics analysis of pathogenic host responses during pandemic H1N1 influenza virus infection: the crucial role of lipid metabolism "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time Collected"	"Tissue"	"Virus"
+Study Factor Type	"timepoint"	"Tissue"	"Virus"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://purl.obolibrary.org/obo/NCBITaxon_10239"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_GC_ferret_omics_mass_spectrometry.txt"	"a_pos_LC_ferret_omics_mass_spectrometry.txt"	"a_neg_LC_ferret_omics_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"LTQ Orbitrap Velos (Thermo Scientific)"	"LTQ Orbitrap Velos (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Ferrets were inoculated intranasally with either influenza A/California/04/2009 (CA04) virus or influenza A/Brevig Mission/1/1918 (1918) virus.  On days 1, 3 and 8 post-inoculation (p.i.), lung and trachea samples were collected to analyze lipids by LC-MS/MS and metabolites by GC-MS."	"Samples were extracted with cold (-20 °C) chloroform/methanol (2:1, v/v) in a 4-fold excess over the sample volume. The aqueous phase and organic phase were separated for polar metabolite and lipid analyses respectively.  For GC-MS analysis a two step derivatization protocol was used.  Briefly, to protect carbonyl groups and reduce the number of tautomeric isomers, methoxyamine (20 µl of a 30 mg/ml stock in pyridine) was added to each sample, followed by incubation at 37 °C with shaking for 90 min. To derivatize hydroxyl and amine groups to trimethylsilyated forms, N-methyl-N-(trimethylsilyl)trifluoroacetamide with 1% trimethylchlorosilane (80 µl) was added to each vial, followed by incubation at 37 °C with shaking for 30 min. The samples were allowed to cool to room temperature and were analyzed on the same day."	"Polar Metabolites with GC-MS:</br>
+Chromatography was carried out on an Agilent 7890A gas chromatograph using the manufacturer's software (Chemstation) and a HP-5MS gas chromatography column (Agilent Technologies, Santa Clara, CA; 30 m x 0.25 mm x 0.25 µm film thickness).
+</p>
+Lipids with LC-MS:</br>
+Chromatography was carried out on a Waters NanoAquity UPLC system. Samples were injected (1 µl) onto a capillary column (26 cm x 150 µm i.d.) containing HSS T3 reversed-phase material (1.8 µm), and separated over 90 min using gradient elution (mobile phase A: acetonitrile/water (40:60) containing 10 mM ammonium acetate; mobile phase B: acetonitrile/isopropanol (10:90) containing 10 mM ammonium acetate) at a flow rate of 1 µl/min."	"Polar Metabolites with GC-MS:</br>
+Samples were analyzed in duplicate using an Agilent GC 7890A coupled with a single quadrupole MSD 5975C (Agilent Technologies, Santa Clara, CA) using a HP-5MS column (30 m x 0.25 mm x 0.25 µm; Agilent Technologies). 1 µl of each sample was injected in splitless mode and with the port temperature held at 250 °C throughout analysis. The GC oven was initially maintained at 60 °C for 1 min and then ramped to 325 °C by 10 °C/min and kept at this final temperature for 5 min to complete an analysis cycle. Derivatized metabolites eluting from the GC column were ionized using electron ionization (70 eV), and data were collected over the mass range 50-600 m/z.
+</p>
+Lipids with LC-MS:</br>
+Samples were analyzed by liquid chromatography tandem mass spectrometry (LC-MS/MS) with a Waters NanoAquity UPLC system interfaced to a LTQ Velos Orbitrap ETD mass spectrometer (Thermo Scientific, San Jose, CA). Samples were analyzed in both positive and negative ionization using HCD (higher-energy collision dissociation) and CID (collision-induced dissociation)."	"Polar Metabolites with GC-MS:</br>
+After converting raw data to netCDF format, the data were processed by the MetaboliteDetector software for peak deconvolution and chromatographic alignment. Retention indices (RI) were calculated based on the analysis of a mixture of fatty acid methyl esters (C8 - C30) (Agilent Technologies) as external retention time standards, then their retention index information was subsequently applied to all experimental chromatograms for retention time alignment. MetaboliteDetector parameters for peak detection and deconvolution are as follows: Peak threshold, 7; minimum peak height, 7; deconvolution width, 8.
+</p>
+Lipids with LC-MS:</br>
+Raw data files were converted to mzXML format after identification prior to being uploaded into MZmine using the ProteoWizard MSConvert tool."	"No metabolite identification work is reported here."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Metz"
+Study Person First Name	"Tom"
+Study Person Mid Initials	""
+Study Person Email	"thomas.metz@pnnl.gov"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"PNNL"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

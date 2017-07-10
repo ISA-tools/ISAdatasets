@@ -1,0 +1,138 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"EFO"	"CHMO"	"NCBITAXON"	"MS"	"MESH"	"OBI"	"NCIT"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"119"	"12"	"6"	"129"	"8"	"23"	"44"	"29"	
+Term Source Description	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS79"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS79"
+Study Title	"Direct infusion mass spectrometry metabolomics dataset: a benchmark for data processing and quality control"
+Study Description	"Direct-infusion mass spectrometry (DIMS) metabolomics is an important approach for characterising molecular responses of organisms to disease, drugs and the environment. Increasingly large-scale metabolomics studies are being conducted, necessitating improvements in both bioanalytical and computational workflows to maintain data quality. This dataset represents a systematic evaluation of the reproducibility of a multi-batch DIMS metabolomics study of cardiac tissue extracts. It comprises of twenty biological samples (cow vs. sheep) that were analysed repeatedly, in 8 batches across 7 days, together with a concurrent set of quality control (QC) samples. Data are presented from each step of the workflow and are available in MetaboLights. The strength of the dataset is that intra- and inter-batch variation can be corrected using QC spectra and the quality of this correction assessed independently using the repeatedly-measured biological samples. Originally designed to test the efficacy of a batch-correction algorithm, it will enable others to evaluate novel data processing algorithms. Furthermore, this dataset serves as a benchmark for DIMS metabolomics, derived using best-practice workflows and rigorous quality assessment."
+Study Submission Date	"2014-03-24"
+Study Public Release Date	"2014-06-05"
+Study File Name	"s_MTBLS79.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Direct infusion mass spectrometry"	"Assay data processing method"	"Quality Control"	"Signal processing"	"Batch correction"	"Relative standard deviation"	"Reproducibility"	"Data processing workflow"
+Study Design Type Term Accession Number	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311"	""	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15318"	""
+Study Design Type Term Source REF	""	""	"NCIT"	""	""	""	"NCIT"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"http://dx.doi.org/10.1038/sdata.2014.12"
+Study Publication Author List	"Kirwan JA, Weber RJM, Broadhurst DI, Viant MR."
+Study Publication Title	"Direct infusion mass spectrometry metabolomics dataset: a benchmark for data processing and quality control"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Batch"
+Study Factor Type	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS79_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LTQ-FT Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Apodisation, Zero-filling and Fourier Transformation"	"Mass Calibration and SIM-stitching"	"Replicate Filtering"	"Sample Filtering including TIC-filtering, Blank Filtering and Missing-value Filtering"	"PQN Normalisation"	"Batch Correction"	"Spectral Cleaning"	"Missing Values Imputation - KNN"	"Glog Transformation"	"Averaging of transients"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Apodisation, Zero-filling and Fourier Transformation"	"Mass Calibration and SIM-stitching"	"Replicate Filtering"	"Sample Filtering including TIC-filtering, Blank Filtering and Missing-value Filtering"	"PQN Normalisation"	"Batch Correction"	"Spectral Cleaning"	"Missing Values Imputation - KNN"	"Glog Transformation"	"Averaging of transients"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Description	"Fresh sheep (Ovis aries; n=10) and cow (Bos primigenius taurus; n=10) heart tissue was obtained from a local abattoir less than 4 miles away, packed on ice and driven back to the laboratory where it was frozen in liquid nitrogen. Portions of heart tissue were dissected and weighed (52 mg ± 2.6 mg) before storing at -80 °C until extraction. Since the purpose of the study was to assess the analytical reproducibility of a DIMS metabolomics study, no data was collected on the sex, breed or origin of the tissue supplied."	"Low molecular weight metabolites were extracted from each cardiac tissue using a methanol / chloroform / water solvent system (final solvent ratio 2:2:1.8) as described previously [1]. Briefly, pre-weighed frozen tissue was homogenised in 8 ml/g of ice-cold methanol and 2.5 ml/g of ice-cold water in Precellys homogenisation tubes containing ceramic beads. The homogenate was transferred to 1.8 ml glass vials to which 8 ml/g chloroform and 4 ml/g water were added. Samples were vortexed and placed on ice for 10 mins before the biphasic mixture was centrifuged at 1800 g for 10 mins. After 5 mins at room temperature, ten 15 µl aliquots of the polar layer were transferred into ten 1.8 ml glass vials, dried in a centrifugal evaporator (Thermo Savant, Holbrook, NY) and stored at -80 °C until analysis. Further tissue from the same anatomical region of the same twenty hearts was extracted as one pool and then aliquoted in 100 µl aliquots to make ten identical QC samples.
+</p>
+Ref: </br>
+[1] Wu H, Southam AD, Hines A, Viant MR. High-throughput tissue extraction protocol for NMR- and MS-based metabolomics. Anal Biochem. 2008 Jan 15;372(2):204-12. PMID: 17963684"	"There is no Chromatography for this study."	"All biological and QC samples were reconstituted in 80:20 methanol / water containing 0.25% (by volume) formic acid. Samples were centrifuged at 15000-g at 4 °C for 10 mins to remove particulate matter. Metabolomic analyses were conducted in positive ion mode using a hybrid 7-T Fourier transform ion cyclotron resonance mass spectrometer (LTQ FT Ultra, Thermo Fisher Scientific, Bremen, Germany) with a chip-based direct infusion nanoelectrospray ion source (Triversa, Advion Biosciences, Ithaca, NY). Nanoelectrospray conditions comprised of a 200 nl/min flow rate, 0.3 psi backing pressure and +1.7 kV electrospray voltage controlled by ChipSoft software (version 8.1.0). Mass spectrometry conditions included an automatic gain control setting of 1 x 106 and a mass resolution of 100,000 (at 400 m/z). Analysis time was 2.25 minutes (per technical replicate), controlled using Xcalibur software (version 2.0, Thermo Fisher Scientific). Spectra were collected using the SIM stitching method, i.e. acquisition of seven overlapping selected ion monitoring (SIM) mass ranges between 70 and 590 Da in 100 Da windows, each with a 30 Da overlap with its neighbouring window [1]. This SIM stitching method has previously been shown to increase metabolome coverage compared to a traditional wide-scan approach, while providing high mass accuracy and a rapid sample throughput. For each replicate of each sample, data was collected as both proprietary-software-processed .RAW mass spectral files (Dataset 1: Instrument .RAW files) and as multiple individual transient files (i.e. signal intensity in the time domain).
+</p>
+Ref: </br>
+[1] Weber RJ, Southam AD, Sommer U, Viant MR. Characterization of isotopic abundance measurements in high resolution FT-ICR and Orbitrap mass spectra for improved confidence of metabolite identification. Anal Chem. 2011 May 15;83(10):3737-43. PMID: 21466230"	"Details in PQN Normalisation, Batch Correction, Spectral Cleaning and handling missing values
+"	"This is a data processing workflow, hence no metabolite Identification reported."	"The averaged FT-ICR transient data were Hanning apodised, zero-filled once and Fourier transformed using the FFT algorithm to convert them from a time to frequency domain."	"The individual files from the processing transients stage (Dataset 3:Frequency spectra) were further processed using a custom written Matlab code to peak pick and mass calibrate [1].  Peaks were selected based on using a signal-to-noise-ratio (SNR) threshold of 3.5:1, such that only peaks with a SNR value above this threshold were considered real, and retained in the dataset. Next, a calibration step was applied to convert the frequency domain to m/z values and finally the seven individual SIM windows per replicate were combined "stitched" into one file comprising frequency, intensity, resolution and SNR of each peak .  Three regions of electronic noise were removed (corresponding to m/z 74.00 to 74.05, 90.44 to 90.49, and 101.7 to 101.9) and a maximum peak distance of 1.5 ppm was used for alignment of peaks.
+</p>
+Ref: </br>
+[1] Southam AD, Payne TG, Cooper HJ, Arvanitis TN, Viant MR. Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray fourier transform ion cyclotron resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Anal Chem. 2007 Jun 15;79(12):4595-602. PMID: 17511421"	""Replicate filtering" was applied to the output files from SIM-stitching (Dataset 5 Stitched peak lists).  Using custom written Matlab code, for each sample [1], the m/z lists for the triplicate replicates were filtered to a single 'combined' peak list according to this criteria: a peak must be present in at least two out of three replicates (for that sample) to be retained.  A peak alignment maximum distance of 1.5 ppm was used here (i.e., only peaks with measured masses that were less than 1.5 ppm apart were considered to be the same peak).
+</p>
+Ref: </br>
+[1] Payne TG, Southam AD, Arvanitis TN, Viant MR. A signal filtering method for improved quantification and noise discrimination in fourier transform ion cyclotron resonance mass spectrometry-based metabolomics data. J Am Soc Mass Spectrom. 2009 Jun;20(6):1087-95. PMID: 19269189"	""Blank filtering" was applied to the output files from replicate filtering (Dataset 6 Replicate filtered peak lists).  This step consisted of using a custom written Matlab code to label and remove peaks from the biological samples that were also present in the blank samples; specifically, a threshold was set such that the peak was considered a contaminant if it had an intensity in the blank sample that was one-third or more of the intensity of the same peak in the biological samples.  This allowed for high intensity peaks of biological origin to be retained, even if there was a much lower intensity coincident contaminant peak. Next, 'sample filtering' was applied, which amalgamates the individual biological sample spectra into a data matrix according to this criteria: a peak must be present in at least 80% of the biological samples to be retained. A peak alignment maximum distance of 2.5 ppm was used here, i.e., only peaks with measured masses that were less than 2.5 ppm apart were considered to be the same peak."	"The output matrix from sample filtering (Dataset 7: Sample filtered peak matrix) was normalised using probabilistic quotient normalisation [1] to reduce any variance arising from subtly differing dilutions of the biological extracts.
+</p>
+Ref: </br>
+[1] Dieterle F, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul 1;78(13):4281-90. PMID: 16808434"	"A batch correction algorithm (Quality control-robust spline correction (QC-RSC)) was applied to Dataset 8a: SFPMPQN to reduce intra- and inter- batch variation. QC-RSC is written in Matlab (version R2011a, The MathWorks, Natick, MA) and requires the Statistics and Curve fitting toolboxes."	"Three "spectral cleaning" algorithms were applied to Dataset 8b: SFPMPQN+BATCH+KNN dataset (yielding Dataset 8c: SFPMPQN+BATCH+CLEAN) [1]. First, a peak was removed if the relative difference between the median QC sample intensity compared to the median biological sample intensity was inconsistent between batches. This phenomenon is indicative of a failure to detect that peak in the QC samples, within one or more batches (tested using non-parametric Kruskal-Wallis test for comparison of batch medians, after signal correction, with a critical p-value of 0.0001). As such the peak as a whole must be considered unreliable and removed. In the second spectral cleaning algorithm, a peak was removed if the difference between the median QC sample intensity and the median biological sample intensity was relatively large (tested using non-parametric Wilcoxon Signed-Rank test, with critical p-value set empirically to 1x10-14). This phenomenon indicates that the QC samples are not in fact representative of the average of the biological samples, perhaps due to degradation. Finally, a peak was removed if its RSDQC value was >20%; i.e. the analytical reproducibility of the peak was considered too high.
+</p>
+Ref: </br>
+[1] Kirwan JA, Broadhurst DI, Davidson RL, Viant MR. Characterising and correcting batch variation in an automated direct infusion mass spectrometry (DIMS) metabolomics workflow. Anal Bioanal Chem. 2013 Jun;405(15):5147-57. PMID: 23455646"	"Missing values existing in Datasets 8a: SFPMPQN, 8b: SFPMPQN+BATCH and 8c: SFPMPQN+BATCH+CLEAN were imputed by using K-nearest neighbour method [1].
+</p>
+Ref: </br>
+[1] Hrydziuszko O and Viant MR. Missing values in mass spectrometry based metabolomics: an undervalued step in the data processing pipeline. Metabolomics. June 2012, Volume 8, Issue 1 Supplement, pp 161-174."	"Datasets 9a: SFPMPQN+KNN, 9b: SFPMPQN+BATCH+KNN and 9c: SFPMPQN+BATCH+CLEAN+KNN were subject to a generalised logarithm transformation to minimise analytical variance across the peaks in preparation for multivariate statistical analysis [1].
+</p>
+Ref: </br>
+[1] Parsons HM, Ludwig C, Günther UL, Viant MR. Improved classification accuracy in 1- and 2-dimensional NMR metabolomics data using the variance stabilising generalised logarithm transformation. BMC Bioinformatics. 2007 Jul 2;8:234. PMID: 17605789"	"Transients are the recorded output measured by the mass spectrometer and contain information on the signal intensity for individual scans in the time domain.  For each analysis, custom written Matlab code [1] was used to collate and average the multiple individual transient files for each of the seven SIM windows and collate it with some important parameters for later processing.  The result is a single .mat file for each SIM window for each analysis (i.e. 7 .mat files per replicate, 3 replicates per sample, 21 files per sample).
+</p>
+Ref: </br>
+[1] Southam AD, Payne TG, Cooper HJ, Arvanitis TN, Viant MR. Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray fourier transform ion cyclotron resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Anal Chem. 2007 Jun 15;79(12):4595-602. PMID: 17511421"
+Study Protocol URI	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	""	"Calibrant list"	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kirwan"	"Weber"	"Broadhurst"	"Viant"
+Study Person First Name	"Jennifer"	"Ralf"	"David"	"Mark"
+Study Person Mid Initials	"A."	"J. M."	"I. "	"R."
+Study Person Email	"j.k.kirwan@bham.ac.uk"	"r.j.weber@bham.ac.uk"	"dbroadhu@ualberta.ca"	"m.viant@bham.ac.uk"
+Study Person Phone	""	""	""	"+44 (0)121 41 42219 "
+Study Person Fax	""	""	""	"+44 (0)121 41 45925"
+Study Person Address	"School of Biosciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"	"School of Biosciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"	"University of Alberta
+Division of General Internal Medicine
+4126A Katz Group Centre for Pharmacy & Health"	"School of Biosciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"
+Study Person Affiliation	""	""	""	""
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

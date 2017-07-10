@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BTO"	"NCBITAXON"	"CHMO"	"UO"	"EFO"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"22"	"4"	"5"	"42"	"132"	"22"	"86"	
+Term Source Description	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS234"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS234"
+Study Title	"Automated Label-free Quantification of Metabolites from Liquid Chromatography–Mass Spectrometry Data (Plasma)"
+Study Description	"Liquid chromatography coupled to mass spectrometry (LC-MS) has become a standard technology in metabolomics. In particular, label-free quantification based on LC-MS is easily amenable to large-scale studies and thus well suited to clinical metabolomics. Large-scale studies, however, require automated processing of the large and complex LC-MS datasets. </p> We present a novel algorithm for the detection of mass traces and their aggregation into features (i.e. all signals caused by the same analyte species) that is computationally efficient and sensitive and that leads to reproducible quantification results. The algorithm is based on a sensitive detection of mass traces, which are then assembled into features based on mass-to-charge spacing, co-elution information, and a support vector machine–based classifier able to identify potential metabolite isotope patterns. The algorithm is not limited to metabolites but is applicable to a wide range of small molecules (e.g. lipidomics, peptidomics), as well as to other separation technologies. </p> We assessed the algorithm's robustness with regard to varying noise levels on synthetic data and then validated the approach on experimental data investigating human plasma samples. We obtained excellent results in a fully automated data-processing pipeline with respect to both accuracy and reproducibility. Relative to state-of-the art algorithms, ours demonstrated increased precision and recall of the method. The algorithm is available as part of the open-source software package OpenMS and runs on all major operating systems. </p> See MTBLS235 for the simulated part of this study."
+Study Submission Date	"2015-09-23"
+Study Public Release Date	"2015-10-06"
+Study File Name	"s_Metabolite Quantitation Benchmark.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"	"LC-MS label-free quantitation analysis"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.obolibrary.org/obo/MS_1001834"
+Study Design Type Term Source REF	"CHMO"	""	"MS"
+STUDY PUBLICATIONS
+Study PubMed ID	"24176773"
+Study Publication DOI	"10.1074/mcp.M113.031278"
+Study Publication Author List	"Erhan Kenar, Holger Franken, Sara Forcisi, Kilian Wörmann, Hans-Ulrich Häring, Rainer Lehmann, Philippe Schmitt-Kopplin, Andreas Zell, Oliver Kohlbacher"
+Study Publication Title	"Automated Label-free Quantification of Metabolites from Liquid Chromatography–Mass Spectrometry Data"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"spike-in concentration"	"replicate"
+Study Factor Type	"concentration"	"technical replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://www.ebi.ac.uk/efo/EFO_0002090"
+Study Factor Type Term Source REF	"CHMO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_metabolite_quantitation_benchmark_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All aqueous solutions were prepared using LC-MS-grade water from Chromosolv®, Fluka Analytical (Sigma-Aldrich, Munich, Germany). LC-MS-grade acetonitrile and methanol were purchased from Chromosolv®, Fluka Analytical (Sigma-Aldrich, Munich, Germany). Formic acid (ultra-high-performance LC-MS grade) was procured from Biosolve (Valkenswaard, The Netherlands), and sodium hydroxide (=98%) was obtained from Roth (Karlsruhe, Germany). Leucine enkephaline (=95% HPLC grade), nialamide (95%), reserpine (=99% HPLC grade), sulfadimethoxine-d6 (VetranalTM), and terfenadine were purchased from Sigma-Aldrich (Munich, Germany). [3,3,3-d3]-propionyl-l-carnitine hydrochloride, [16,16,16-d3]-hexadecanoyl-l-carnitine hydrochloride, and [18,18,18-d3]-octadecanoyl-l-carnitine hydrochloride were purchased from Dr. H.J. ten Brink Laboratory (Amsterdam, The Netherlands).
+</p>
+A stock solution for each standard was prepared at a concentration of 1 g/l. Each standard was mixed at the same concentration in 20% acetonitrile solution. An experimental standard serial dilution at 10 mg/l, 5 mg/l, 2 mg/l, 1 mg/l, 0.5 mg/l, 0.2 mg/l, 0.1 mg/l, 0.05 mg/l, 0.02 mg/l, and 0.01 mg/l was set. In addition, a non-spiked sample was included in the experiment.
+</p>
+Fresh EDTA blood was collected from healthy male donors. Blood plasma was prepared via centrifugation at 2,000 x g at 4 °C for 7 min. The resulting plasma was pooled, mixed, and aliquoted for storage at -80 °C until analysis."	"Frozen EDTA plasma was thawed on ice and vortex-mixed for 30 s prior to treatment. The protein precipitation extraction was performed by adding cold acetonitrile (1 ml) to a plasma volume (250 µl). After the organic solvent had been added, the samples were vortex-mixed for 30 s at room temperature and centrifuged at 15,294 x g for 10 min at 4 °C. The dried samples were reconstituted in 50 µl of the different experimental standard solutions."	"Sample analysis was performed using a Waters Aquity ultra-high-performance LC system coupled to a Synapt HDMS oa-Q-TOF mass spectrometer (Waters, Milford, MA). The gradient chromatographic separation was performed with a C18 Vision HT-HL ultra-high-performance LC column (2 x 150 mm, 1.5 µm, Alltech Grom GmbH, Rottenburg-Hailfingen, Germany). Elution buffer A was water containing 0.1% formic acid, and elution buffer B was acetonitrile. The flow rate was set at 0.300 ml/min. The linear-gradient method consisted of 5% B over 0–1.12 min, 5% to 100% B over 1.12–22.27 min, and 100% B until 29.49 min, after which the gradient was returned to 5% B at 29.56 min. In order to equilibrate the column with the initial mobile phase, 5% B was maintained until minute 35. The column oven was set to 40 °C, and the sample manager temperature to 4 °C."	"The Synapt HDMS oa-Q-TOF mass spectrometer (Waters, Milford, MA) was equipped with an electrospray ion source operating in positive mode.  A solution of leucine enkephalin (556.2771 u, 400 pg/µl) in MeOH/H2O:1/1 containing 0.1% formic acid was infused as lockmass compound at a flow rate of 5 µl/min. The spectra were acquired in centroid mode within a range of 50–1000 u. The detection parameters are described in the supplemental material. The samples were measured in randomized triplicate and alternated with blank samples consisting of 20% acetonitrile."	"All data files were converted into mzML format [1] using the command line tool msconvert of the ProteoWizard suite [2].
+</p>
+Ref:</br>
+[1] Martens L., Chambers M., Sturm M., Kessner D., Levander F., Shofstahl J., Tang W. H., Rompp A., Neumann S., Pizarro A. D., Montecchi-Palazzi L., Tasman N., Coleman M., Reisinger F., Souda P., Hermjakob H., Binz P. A., Deutsch E. W. (2011) mzML—a community standard for mass spectrometry data. Mol. Cell. Proteomics 10, R110.000133. doi: 10.1074/mcp.R110.000133. PMID:20716697</br>
+[2] Kessner D., Chambers M., Burke R., Agusand D., Mallick P. (2008) ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics 24, 2534–2536. doi: 10.1093/bioinformatics/btn323. PMID:18606607</br>"	"For each measurement, we extracted metabolite features with our algorithm and stored the resulting feature map in the featureXML data format [1]. For the following processing steps, we used existing software solutions from the OpenMS framework (version 1.10). Features coinciding on at least two measurements were aggregated to consensus features and stored in the consensusXML format using the FeatureLinkerUnlabeledQT software. The consensusXML file was exported to a tabular text format with the TextExporter tool. All further analyses were conducted with the MATLAB R2012b [2] and R 2.15.2 [3] software packages.
+</p>
+Ref:</br>
+[1] Sturm M., Bertsch A., Gröpl C., Hildebrandt A., Hussong R., Lange E., Pfeifer N., Schulz-Trieglaff O., Zerck A., Reinert K., Kohlbacher O. (2008) OpenMS—an open-source software framework for mass spectrometry. BMC Bioinformatics 9, 163–163. doi: 10.1186/1471-2105-9-163. PMID:18366760</br>
+[2] (2012) MATLAB R2012b, The MathWorks Inc., Natick, MA.</br>
+[3] R Core Team (2012) R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna, Austria.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kenar"	"Kohlbacher"
+Study Person First Name	"Erhan"	"Oliver"
+Study Person Mid Initials	""	""
+Study Person Email	"erhan.kenar@uni-tuebingen.de"	"oliver.kohlbacher@uni-tuebingen.de"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Wilhelm Schickard Institute for Computer Science, University of Tübingen"	"Wilhelm Schickard Institute for Computer Science, University of Tübingen"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

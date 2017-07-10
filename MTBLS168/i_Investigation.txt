@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"GEXO"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/GEXO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"23"	"86"	"3"	"5"	"113"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Gene Expression Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS168"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS168"
+Study Title	"The metabolic background is a global player in Saccharomyces gene expression epistasis"
+Study Description	"The regulation of gene expression in response to nutrient availability is fundamental to the genotype-phenotype relationship. The metabolic-genetic make-up of the cell, as reflected in auxotrophy, is hence likely to be a determinant of gene expression. Here, we address the importance of the metabolic-genetic background by monitoring transcriptome, proteome and metabolome in a repertoire of 16 Saccharomyces cerevisiae laboratory backgrounds, combinatorially perturbed in histidine, leucine, methionine and uracil biosynthesis. The metabolic background affected up to 85% of the coding genome. Suggesting widespread confounding, these transcriptional changes show, on average, 83% overlap between unrelated auxotrophs and 35% with previously published transcriptomes generated for non-metabolic gene knockouts. Background-dependent gene expression correlated with metabolic flux and acted, predominantly through masking or suppression, on 88% of transcriptional interactions epistatically. As a consequence, the deletion of the same metabolic gene in a different background could provoke an entirely different transcriptional response. Propagating to the proteome and scaling up at the metabolome, metabolic background dependencies reveal the prevalence of metabolism-dependent epistasis at all regulatory levels. Urging a fundamental change of the prevailing laboratory practice of using auxotrophs and nutrient supplemented media, these results reveal epistatic intertwining of metabolism with gene expression on the genomic scale."
+Study Submission Date	"2015-02-21"
+Study Public Release Date	"2015-12-31"
+Study File Name	"s_YeastAuxotrophy.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"epistasis"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/MI_0797"
+Study Design Type Term Source REF	""	"CHMO"	"GEXO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27572163"
+Study Publication DOI	"10.1038/nmicrobiol.2015.30"
+Study Publication Author List	"Mohammad Tauqeer Alam1, Michael Mülleder1, Aleksej Zelezniak2, Pavel Shliaha1,4, Roland Schwarz3, Floriana Capuano1, Jakob Vowinckel1, Elahe Radmanesfahar1, Antje Krueger6, Enrica Calvani1, Steve Michel6, Stefan Christen5, Kiran Raosaheb Patil7, Bernd Timmermann6, Kathryn S Lilley1,4, and Markus Ralser1,2*"
+Study Publication Title	"Metabolism triggers system-wide epistasis on transcriptome, proteome and metabolome "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"OD600"	"Replicate"	"Deletion"
+Study Factor Type	"optical density measurement"	"replicate"	"Deletion"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002039"	"http://www.ebi.ac.uk/efo/EFO_0000683"	""
+Study Factor Type Term Source REF	"CHMO"	"EFO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_yeastauxotrophy_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"TSQ Quantum Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Pre-cultures of the S. cerevisiae strains were prepared in drop-in media (synthetic minimal media supplemented only with the nutrients to complement auxotrophic requirements) and cultured for 12-20 h in a 96-well plate (30 °C, 250 rpm). Main-cultures were inoculated in fresh synthetic completed media and cultivation, sample collection, quenching and metabolite extraction were performed according to [1]. Specifically, the yeast strains were cultured in 96-well fritted plates (1 strain per two wells) (Nunc, USA) with a 4 mm glass bead in each well for mixing. For quenching a 48-well plate containing 3.6 ml -40°C quenching solution  (60% methanol, 10 mM NH4-acetate) per well was prepared and put into a vacuum manifold. Mid-exponential cultures were put on top of the 48-well plate and sucked into the quenching solution. The quenched cultures were centrifuged for 5 min at 4000 rpm -9 °C and the supernatant was discarded. Subsequently, the plate with the cell pellets was transferred into a -50 °C ethanol bath with dry ice. 
+</p>
+Ref:</br>
+[1] Ewald JC, Heux S, Zamboni N. High-throughput quantitative metabolomics: workflow for cultivation, quenching, and analysis of yeast in a multiwell format. Anal Chem. 2009 May 1;81(9):3623-9. doi:10.1021/ac900002u. PMID:19320491.</br>"	"The extraction protocol was adopted from [1]. Specifically, the cell pellets were resuspended in 1 ml precooled extraction solution (75% ethanol, 10 mM NH4-acetate) and 50 µl 13C-yeast internal standard was added. To complete extraction, the plate was transferred into a 80 °C water bath for 3 min with vortexing steps every 30-45 s. The extracts were stored at -80 °C until they were dried over night with a vacuum centrifuge (Christ-RVC 2-33 CD plus, Kuehner AG, Switzerland).
+</p>
+Ref:</br>
+[1] Ewald JC, Heux S, Zamboni N. High-throughput quantitative metabolomics: workflow for cultivation, quenching, and analysis of yeast in a multiwell format. Anal Chem. 2009 May 1;81(9):3623-9. doi:10.1021/ac900002u. PMID:19320491.</br>"	"LC-MS measurements were performed as described in [1]. Specifically, the dried extracts were dissolved in 50-100 µl ddH2O and 15 µl were injected for LC-MS analysis. The metabolites were separated with a Waters Acquity T3 end-capped reversed phase column (150 mm x 2.1 mm x 1.8 µm) on a Waters Acquity UPLC (Waters, Milford, MA, USA) system.
+</p>
+Ref:</br>
+[1] Buescher JM, Moco S, Sauer U, Zamboni N. Ultrahigh performance liquid chromatography-tandem mass spectrometry method for fast and robust quantification of anionic and aromatic metabolites. Anal Chem. 2010 Jun 1;82(11):4403-12. doi:10.1021/ac100101d. PMID:20433152.</br>"	"The mass spectrometry was performed as described in [1]. Specifically, for the detection of the metabolites we used a Thermo TSQ Quantum Ultra triple quadrupole mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) with a heated electrospray ionization source in negative mode with single reaction monitoring. Peak integration was done with an in-house software [2]. The metabolite peak areas were further normalized to the internal 13C internal standard and to biomass (OD600).
+</p>
+Ref:</br>
+[1] Buescher JM, Moco S, Sauer U, Zamboni N. Ultrahigh performance liquid chromatography-tandem mass spectrometry method for fast and robust quantification of anionic and aromatic metabolites. Anal Chem. 2010 Jun 1;82(11):4403-12. doi:10.1021/ac100101d. PMID:20433152.</br>
+[2] B. Begemann & N. Zamboni, unpublished.</br>"	"Not applicable."	"Not applicable."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Alam"	"Ralser"
+Study Person First Name	"Tauqeer"	"Markus"
+Study Person Mid Initials	""	""
+Study Person Email	"mta26@cam.ac.uk"	"mr559@cam.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

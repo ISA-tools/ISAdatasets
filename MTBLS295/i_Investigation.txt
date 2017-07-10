@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"ADW"	"CHMO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/ADW"	"http://data.bioontology.org/ontologies/CHMO"	
+Term Source Version	"103"	"22"	"4"	"2"	"16"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Animal Natural History and Life History Ontology"	"Chemical Methods Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS295"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS295"
+Study Title	"A Phosphate starvation response gene (psr1-like) is present in Micromonas pusilla and other marine algae and coordinates the metabolic response to phosphate deficiency"
+Study Description	"Both marine phytoplankton and terrestrial plants have to deal with limited bioavailability of the key life nutrient, phosphate. In freshwater algae and plants, a phosphate starvation response gene (psr1) has been characterized, which encodes for a transcription factor that regulates the metabolic response to phosphate deficiency. This study describes a psr1-like gene present in Micromonas pusilla and other prasinophytes as well as the haptophyte, Emiliana huxleyi. The metabolic response of M. pusilla to P-deficiency, as described from targeted and untargeted metabolomics techniques, was characteristic of an algal response to nutrient limitation with an increase in polyunsaturated fatty acids. The levels of many central metabolites, such as amino acids, vitamins, nucleosides, decreased in response to P-deficiency, with a few notable exceptions including malate, aspartate, glutamate, guanine and xanthine. Additionally, genes involved in the metabolic pathways associated with the elevated metabolites share a significant motif in their intron regions, which may be the regulatory element where the psr1 gene product binds. Results form the present study taken together with data from the literature suggests that M. pusilla, other prasionophytes and E. huxleyi, may be physiologically well poised to take advantage of a future ocean with lower nutrient levels and increased levels of pCO2."
+Study Submission Date	"2015-12-31"
+Study Public Release Date	"2016-02-01"
+Study File Name	"s_MP1.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Phytoplankton"	"Fourier transform ion cyclotron resonance mass spectrometry"	"liquid chromatography-mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://www.owl-ontologies.com/unnamed.owl#Phytoplankton"	"http://purl.obolibrary.org/obo/CHMO_0000502"	"http://purl.obolibrary.org/obo/CHMO_0000524"	""	""
+Study Design Type Term Source REF	"ADW"	"CHMO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Fiore, C.L., Alexander, H., Kido Soule, M.C., Longnecker, K., and E.B. Kujawinski."
+Study Publication Title	"A Phosphate starvation response gene (psr1-like) is present in Micromonas pusilla and other marine algae and coordinates the metabolic response to phosphate deficiency"
+Study Publication Status	"In preparation"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample Type"
+Study Factor Type	"sample"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/MS_1000457"
+Study Factor Type Term Source REF	"MS"
+STUDY ASSAYS
+Study Assay File Name	"a_TAR_mp1_mass_spectrometry.txt"	"a_NEG_mp1_mass_spectrometry.txt"	"a_POS_mp1_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"TSQ Vantage (Thermo Scientific)"	"7T LTQ FT Ultra, Thermo Fisher Scientific"	"7T LTQ FT Ultra, Thermo Fisher Scientific"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Micromonas pusilla CCMP 1545 was purchased from the National Center for Marine Algae and Microbiota (Boothbay, ME, USA) and grown in 300 ml of L1-Si media (https://ncma.bigelow.org/algal-recipes) using 0.2 µm filtered (Omnipore filters; Millepore, MA, USA) sterilized seawater from Vineyard Sound (MA, USA) as a base.  Cultures were grown for several generations in L1-Si media, following which cultures were grown separately and simultaneously in regular L1-Si media with a 36 µM phosphate (P-replete) and phosphate deficient (P-deficient) L1-Si media with 0.4 µM.  A starter culture in exponential phase of each media type was used to inoculate 18 flasks of media with approximately 10% of the volume (33, 37 ml for P-replete and P-deficient cultures, respectively) totaling 320 ml volume and approximately 300,000 cells.  Another six flasks, three for each media type, contained only the media as cell-free controls.  The cultures were maintained at 22 ºC under a 12:12 light:dark regime (84 µmol/m2/s) and were sampled at approximately 1 hr into the light cycle, at each time point.  Cultures were grown for two weeks and samples were taken on at the time of experimental setup (T0; day 0) and in log phase (T1; day 4 P-deficient; day 6 P-replete) and stationary phase (T2; day 5 P-deficient; day 13 P-replete)."	"The intracellular metabolites were extracted using a method modified from a protocol described by [1]. Briefly, the filter was extracted three times with ice-cold extraction solvent (acetonitrile:methanol:water with 0.1 M formic acid, 40:40:20). The combined extracts were neutralized with ammonium hydroxide and dried in a vacufuge.
+</p>
+The samples for the targeted mass spectrometry analysis were re-dissolved in 90:10 (v/v) water:acetonitrile and combined with deuterated biotin (final concentration 0.05 µg/ml) as an internal standard.
+</p>
+For untargeted analysis, the extracts had to undergo an additional de-salting step prior to analysis. Therefore, the dried extracts were re-dissolved in 0.01 M hydrochloric acid and extracted using a 50 mg/1 cc PPL cartridge following the protocol of [2]. The resulting methanol extracts were re-dissolved in 95:5 water:acetonitrile.
+</p>
+The filtrate for each sample, representing the extracellular metabolite fraction, was processed using SPE as described above (following [1]) but with 1 g/6 cc cartridges. The extracellular metabolite extract was redissolved in 500 µl of 95:5 water:acetonitrile for both targeted and untargeted metabolomics analysis.
+</p>
+Ref:</br>
+[1] Rabinowitz JD, Kimball E. Acidic acetonitrile for cellular metabolome extraction from Escherichia coli. Anal Chem. 2007 Aug 15;79(16):6167-73. PMID: 17630720</br>
+[2] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235. doi: 10.4319/lom.2008.6.230</br>"	"For targeted metabolomics analysis, the samples were analyzed with a Synergi 4 µm Fusion – RP 80 Å, 150 x 2.00 mm column (Phenomenex, Torrance, CA) coupled to a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. The chromatography gradient was: an initial hold of 95% A (0.1% formic acid in water) : 5% B (0.1% formic acid in acetonitrile) for 2 min, ramp to 65% B from 2 to 20 min, ramp to 100% B from 20 to 25 min, and hold until 32.5 min. The column was re-equilibrated for 7 min between samples with solvent A. Each metabolite was quantified using multiple reaction monitoring (MRM) mode with optimal parameters determined from infusion of authentic standards. Eight-point external calibration curves (0.5, 1, 5, 10, 50, 100, 250, and 500 ng/ml) were generated for each compound by plotting peak area against concentration.
+</p>
+For untargeted metabolomics analysis, LC separation was performed using a Synergi Fusion reversed phase column (Phenomenex, Torrance, CA) with the same gradient as for targeted analysis."	"For targeted analysis, samples were analyzed with a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. This instrument allows polarity switching between positive and negative ion mode within a single LC run. Analysis of authentic standards was used to determine the optimal ionization mode for each metabolite.
+</p>
+For untargeted analysis, samples were analyzed in both negative and positive ion mode with liquid chromatography (LC) coupled by electrospray ionization to a 7-Tesla Fourier-transform ion cyclotron resonance mass spectrometer (FT-ICR MS). In parallel to the FT acquisition, four data dependent MS/MS scans were collected at nominal mass resolution in the ion trap (LTQ). Samples were analyzed in random order with a pooled sampled run every six samples in order to assess instrument variability."	"Targeted metabolomics data were analyzed using XCalibur 2.0. The concentration of the metabolites in the targeted mass spectrometry data is given in ng/ml.
+</p>
+Untargeted metabolomics data were collected as XCalibur RAW files which were converted to mzXML files using the msConvert tool within ProteoWizard [1]. Features were extracted from the LC-MS data using XCMS [2], where a feature is defined as a unique combination of a mass-to-charge (m/z) ratio and a retention time. Peak finding was performed with the centWave algorithm [3], and only peaks that fit a Gaussian shape were retained. Features were aligned across samples based on retention time and m/z value using the group.nearest function in XCMS; fillPeaks was used to reconsider features missed in the initial peak finding steps. CAMERA [4] was used to extract the intensities and m/z values for the associated MS/MS spectra.
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. PMID: 23051804</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID: 16448051</br>
+[3] Tautenhahn R, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. PMID: 19040729</br>
+[4] Kuhl C, Tautenhahn R, Böttcher C, Larson TR, Neumann S. CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem. 2012 Jan 3;84(1):283-9. PMID: 22111785</br>"	"For untargeted metabolomics data, mass features of interest with an associated fragmentation spectrum were processed using the xcmsFragment function in XCMS and the spectra were queried against the METLIN metabolomics database [1] and in the program MetFrag [2]. Putative identifications were confirmed, where possible, with commercial standards analyzed by our methods (i.e. kynurenine, tryptophan).
+</p>
+The targeted metabolomics compound identifications were based on measurements of authentic standards on the same mass spectrometer. Note that the LC/mass spectrometry system cannot distinguish between leucine and isoleucine, therefore the data are presented as 'leucine/isoleucine'. Similiarly, threonine and homeserine are not analytically distinct and are presented as 'threonine/homoserine'.
+</p>
+Ref:</br>
+[1] Smith CA, O'Maille G, Want EJ, Qin C, Trauger SA, Brandon TR, Custodio DE, Abagyan R, Siuzdak G. METLIN: a metabolite mass spectral database. Ther Drug Monit. 2005 Dec;27(6):747-51. PMID: 16404815</br>
+[2] Wolf S, Schmidt S, Müller-Hannemann M, Neumann S. In silico fragmentation for computer assisted identification of metabolite mass spectra. BMC Bioinformatics. 2010 Mar 22;11:148. PMID: 20307295</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fiore"	"Kujawinski"
+Study Person First Name	"Cara"	"Elizabeth"
+Study Person Mid Initials	""	""
+Study Person Email	"cfiore@whoi.edu"	"ekujawinski@whoi.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"360 Woods Hole Rd
+Woods Hole, MA 02543"	"360 Woods Hole Rd
+Woods Hole, MA 02543"
+Study Person Affiliation	"Woods Hole Oceanographic Institiution"	"Woods Hole Oceanographic Institution"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

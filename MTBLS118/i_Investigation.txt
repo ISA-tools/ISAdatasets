@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"EFO"	"NCIT"	"NCBITAXON"	"CHMO"	"EFO"	"OBI"	"MS"	"MESH"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"119"	"28"	"2"	"12"	"113"	"22"	"96"	"6"	"29"	"43"	
+Term Source Description	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS118"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS118"
+Study Title	"A Metabolic Profiling Strategy for the Dissection of Plant Defense against Fungal Pathogens (GC-MS assay)"
+Study Description	"Here we present a metabolic profiling strategy employing direct infusion Orbitrap mass spectrometry (MS) and gas chromatography-mass spectrometry (GC/MS) for the monitoring of soybean's (Glycine max L.) global metabolism regulation in response to Rhizoctonia solani infection in a time-course. Key elements in the approach are the construction of a comprehensive metabolite library for soybean, which accelerates the steps of metabolite identification and biological interpretation of results, and bioinformatics tools for the visualization and analysis of its metabolome. The study of metabolic networks revealed that infection results in the mobilization of carbohydrates, disturbance of the amino acid pool, and activation of isoflavonoid, α-linolenate and phenylpropanoid biosynthetic pathways of the plant. Components of these pathways include phytoalexins, coumarins, flavonoids, signaling molecules, and hormones, many of which exhibit antioxidant properties and bioactivity helping the plant to counterattack the pathogen's invasion. Unraveling the biochemical mechanism operating during soybean-Rhizoctonia interaction in addition to its significance towards the understanding of the plant's metabolism regulation under biotic stress, provides valuable insights with potential for applications in biotechnology, crop breeding, and agrochemical and food industries."
+Study Submission Date	"2014-10-29"
+Study Public Release Date	"2014-11-15"
+Study File Name	"s_Soyomics_GC-MS_10_14.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Plant metabolomics"	"gas chromatography-mass spectrometry"	"Host-Pathogen Interactions"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.bioontology.org/ontology/MESH/D054884"	""
+Study Design Type Term Source REF	""	"CHMO"	"MESH"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25369450"
+Study Publication DOI	"10.1371/journal.pone.0111930"
+Study Publication Author List	"Aliferis KA, Faubert D, Jabaji S."
+Study Publication Title	"A metabolic profiling strategy for the dissection of plant defense against fungal pathogens."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time point"	"Infection"	"Replicate"
+Study Factor Type	"timepoint"	"Group"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls118_GCMS_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds of the soybean cultivar AC Proteina (Semican, Plessisville, QC, Canada), which is susceptible to R. solani, were sterilized by immersion in ethanol (70%, v/v) for 1 min, followed by rinsing three times in sterile distilled water. For pre-germination, seeds were placed on sterilized moistened filter paper (Whatman No 1, 11 cm diameter) in Petri plates, and kept at 24 °C in the dark. Uniformly pre-germinated seeds were planted in sterile mix of turf:perlite (1:1, v/v) in plastic trays in the dark in a growth chamber at 22±2 °C and relative humidity of 85%. Sterile water was added every second day. Seedlings were etiolated in order to provide longer lengths of hypocotyls for inoculation. They were grown for one week to approximately 15 cm height before they were gently removed and inoculated.
+</p>
+For the production of the inoculum, starter cultures of the highly pathogenic R. solani AG4 isolate A76, provided by M. Cubeta (N. Carolina University, USA), were grown on potato dextrose agar (PDA) for three days. Uniform and healthy one-week-old seedlings were transferred to sterile Pyrex glass trays (38 x 27 x 6 cm) on filter paper (Whatman No 1), arranged horizontally, and their roots were covered with sterile moistened cotton. For the analysis of hyphae, the fungus was grown on cellophane membrane.
+</p>
+Inoculation was performed by sandwiching hypocotyls between two PDA strips (2 cm x 8 cm) of 3-day-old Rhizoctonia cultures or clean strips (control) in sterile environment under photosynthetically inactive black light (365 nm) on designated marked sites of the hypocotyls, 3 cm away from the roots. Trays were wrapped with plastic membrane, and returned to growth chambers for incubation at 24 °C, in the dark. The development of necrotic lesions was stereoscopically observed and plants were harvested 24 and 48 h post-inoculation, and prepared for metabolite extraction. These time points were specifically chosen in order to capture the onset of infection and the development of infection cushions. Each treatment (infected or control) was consisted of five biological replications, each obtained by pooling the hypocotyls of four seedlings.
+</p>
+Samples (100 mg of fresh weight, fw) were harvested from the edges of necrotic lesions at 24 h and 48 h post-inoculation and corresponding portions of control seedlings. Additionally, mycelia (50 mg, fw) from 3 day old R. solani cultures were harvested. Samples were pulverized to a fine powder in a mortar with a pestle under liquid nitrogen and kept at -80 ºC in glass autosampler vials (2 ml) until further processing."	"1 ml of a mixture of methanol:ethyl acetate (50:50, v/v) was added to the pulverized samples followed by sonication in an ultrasonic bath Branson 5510 (Branson, Connecticut, USA) for 25 min. Samples were then transferred to an orbital shaker (Infors AG, Bottmingen, Switzerland) for extraction under continuous agitation (150 rpm) for 2 h at 24 ºC. Extracts were filtered through 0.2 µm filters (Millex-FG, Millipore, MA, USA) to remove debris and the volume of samples was adjusted to 1.0 ml. 0.5 ml of the extract was taken in a glass autosampler vial for GC/MS. Finally, extracts were dried using a Labconco CentriVap refrigerated vacuum concentrator (Labconco, Kansas City, MO, USA) equipped with a cold trap.
+</p>
+Methoxymation was performed by adding to the dried samples 80 µl of methoxylamine hydrochloride (20 mg/ml in pyridine) followed by incubation at 30 ºC for 120 min. In a second step, silylation was performed by adding 80 µl of MSTFA (37 ºC for 90 min). Derivatized samples were then added to microinserters (150 µl, Fisher Scientific Company), which were placed in autosampler vials (2 ml)."	"For analyses, an Agilent 7890A GC platform (Agilent Technologies Inc. Santa Clara, CA, USA) coupled with a 5975C series mass selective detector (MSD) and a 7693A series autosampler was employed. Samples (1 µl) were injected using a split ratio of 10:1 into a HP-5MS ultra inert (UI) capillary column (30 m x 250 µm I.D, 0.25 µm film thickness; Agilent Technologies Inc.). Helium was used as the carrier gas at a constant flow rate of 1 ml/min. The temperature of the oven was initially 70 ºC stable for 5 min, followed by a 5 ºC/min increase to 310 ºC and finally stable for 1 min.
+</p>
+For each treatment, a quality control (QC) sample was obtained by pooling 25 µl from each of the five biological replicates (total 125 µl), and analyzed. In addition to biological replications and QC samples, technical one replication for randomly selected samples was performed per treatment. Following each sample's analysis, a blank (solvent system only) was injected to ensure that no carry over is observed between samples. Additionally, blank samples were used for the detection of possible contamination during the different experimental steps, such as material and reagent impurities and column stationary phase bleeding (for GC/MS). For this purpose, 1.5 ml of the extraction solvent mixture was processed alongside the experimental samples and was subjected to identical handling. Results were taken into account for the detection of metabolites not related to the biological material that was analyzed, which were subsequently excluded from analyses. Additionally, the metabolic composition of fungal samples was taken into consideration, in order to remove fungal-derived metabolites that could influence the biological interpretation of results. In order to optimize the performance of analyzers, calibration was performed at the beginning of analyses following the recommended by the manufacturers' procedures and using calibration solutions.
+</p>
+For GC/MS, tuning of the MS detector was performed automatically using the AutoTune function of the Agilent MSD Chemstation. The DRO/GRO Range Calibration Standard was injected every six samples in order to monitor the performance of the system and additionally, samples were spiked by adding 20 µl of ribitol solution (0.2 mg/ml) to methanol-water (50–50, v/v), which served as the internal standard."	"For analyses, an Agilent 7890A GC platform (Agilent Technologies Inc. Santa Clara, CA, USA) coupled with a 5975C series mass selective detector (MSD) and a 7693A series autosampler was employed. Electron impact (EI) at 70 eV was used. Full scan mass spectra were acquired at the mass range of 50 to 800 Da at 1 scan/s rate with a 10.0 min solvent delay. The temperature for the ion source was set to 150 ºC, for the transfer line to 230 ºC, and for the injector to 230 ºC."	"For data pre-processing (peak deconvolution, metabolite identification, and peak integration) the Agilent MSD Chemstation E.02.00.493 was used. Automatic integration was performed after optimization of the ChemStation Integrator parameters based on the total ion chromatogram (TIC). Processed chromatograms were exported to Microsoft excel for the creation of data matrices. Following retention time (RT) alignment, chromatograms were normalized to the TIC and the constructed matrix was exported to Simca P+ v.12.0.1 for the discovery of signatory metabolites and trends. To ensure the quality and validity of analyses, standard operating procedures (SOP) and quality control (QC) measures were applied throughout analyses."	"In order to develop a high-throughput metabolomics protocol, identification was performed following a biologically-driven approach. Central to this approach is the species-specific in-house built library for soybean composed of 1339 metabolites, which includes information on metabolite monoisotopic mass, molecular formula, biosynthetic pathways, and chemical classification. For the construction of the library, information was retrieved from the publicly available databases of SoyCyc, KEGG, EMBL-EBI, KNApSAcK, and the literature. For standardization purposes, the KEGG coding system for pathways was adapted, which enables the comprehensive grouping of pathways and is compatible with bioinformatics tools such as the pathway tools of BioCyc. For the chemical classification of metabolites, information was retrieved from the database PubChem.
+</p>
+For GC/MS, the guidelines of the metabolomics standards initiative (MSI) [1] were followed. Mass spectra searches were performed against the library of the National Institute of Standards and Technology (Gaithersburg, MD, USA) NIST 08 and for selected signatory metabolites, absolute identification was based on fragmentation patterns and retention times (RT) analyzing authentic chemical standards on the same GC/MS system with the same analytical method [1]. In cases in which a very good fit (e.g,>90%) could be achieved, tentative identification was performed. Metabolites of non-biological origin were excluded from further analysis.
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization "	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source  "	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jabaji "	"Konstantinos "
+Study Person First Name	"Suha"	"Aliferis"
+Study Person Mid Initials	""	"A"
+Study Person Email	"suha.jabaji@mcgill.ca"	"konstantinos.aliferis@mcgill.ca"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"MCGILL"	"MCGILL"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

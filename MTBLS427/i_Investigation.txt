@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"BTO"	"MS"	"NCIT"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"22"	"22"	"86"	"44"	"146"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS427"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS427"
+Study Title	"SPE-IMS-MS: An automated platform for sub-sixty second surveillance of endogenous metabolites and xenobiotics in biofluids"
+Study Description	"Characterization of endogenous metabolites and xenobiotics is essential to deconvoluting the genetic and environmental causes of disease. However, surveillance of chemical exposure and disease-related changes in large cohorts requires an analytical platform that offers rapid measurement, high sensitivity, efficient separation, broad dynamic range, and application to an expansive chemical space. Here, we present a novel platform for small molecule analyses that addresses these requirements by combining solidphase extraction with ion mobility spectrometry and mass spectrometry (SPE-IMS-MS). This platform is capable of performing both targeted and global measurements of endogenous metabolites and xenobiotics in human biofluids with high reproducibility (CV <= 3%), sensitivity (LODs in the pM range in biofluids) and throughput (10-s sample-to-sample duty cycle). We report application of this platform to the analysis of human urine from patients with and without type 1 diabetes, where we observed statistically significant variations in the concentration of disaccharides and previously unreported chemical isomers. This SPE-IMS-MS platform overcomes many of the current challenges of large-scale metabolomic and exposomic analyses and offers a viable option for population and patient cohort screening in an effort to gain insights into disease processes and human environmental chemical exposure."
+Study Submission Date	"2017-01-31"
+Study Public Release Date	"2017-02-15"
+Study File Name	"s_mtbls427.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Ion Mobility Spectrometry"	"untargeted metabolites"	"Exposomics"	"diabetes mellitus"	"targeted metabolites"	"Solid-Phase Extraction Ion Mobility Spectrometry Mass Spectrometry"
+Study Design Type Term Accession Number	""	""	""	"http://www.ebi.ac.uk/efo/EFO_0000400"	""	""
+Study Design Type Term Source REF	""	""	""	"EFO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1016/j.clinms.2016.11.002"
+Study Publication Author List	"Xing Zhang, Michelle Romm, Xueyun Zheng, Erika M. Zink, Young-Mo Kim, Kristin E. Burnum-Johnson, Daniel J. Orton, Alex Apffel, Yehia M. Ibrahim, Matthew E. Monroe,
+Ronald J. Moore, Jordan N. Smith, Jian Ma, Ryan S. Renslow, Dennis G. Thomas, Anne E. Blackwell,
+Glenn Swinford, John Sausen, Ruwan T. Kurulugama, Nathan Eno, Ed Darland, George Stafford,
+John Fjeldsted, Thomas O. Metz, Justin G. Teeguarden, Richard D. Smith, Erin S. Baker"
+Study Publication Title	"SPE-IMS-MS: An automated platform for sub-sixty second surveillance of endogenous metabolites and xenobiotics in biofluids"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diabetes Status"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls427_POS_GC_mass_spectrometry.txt"	"a_mtbls427_NEG_GC_mass_spectrometry.txt"	"a_mtbls427_POS_HILIC_mass_spectrometry.txt"	"a_mtbls427_NEG_HILIC_mass_spectrometry.txt"	"a_mtbls427_POS_MM_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Agilent SPE-IMS-MS"	"Agilent SPE-IMS-MS"	"Agilent SPE-IMS-MS"	"Agilent SPE-IMS-MS"	"Agilent SPE-IMS-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine was collected from type 1 diabetes (T1D) patients and healthy siblings associated with Children’s National Medical Center (CNMC). The Childhood and Adolescent Diabetes program at the CNMC is the largest center in the mid-Atlantic region of the United States, caring for approximately 1600 juvenile patients with T1D. A comprehensive human subject protocol was developed to ensure patient confidentiality, including all clinical and molecular meta-data collected during recruitment, and that the procedures for specimen collection were not associated with direct health risks. A human subject consent form was designed with sufficient information for the to-be-enrolled sibling pairs and their parents/guardians (for subjects less than 18 yrs of age) to allow them an assessment of the public benefits of the research and the confidentiality loss or health risks. The consent form and protocol were approved by the Internal Review Boards at Pacific Northwest National Laboratory (PNNL) and CNMC. PNNL staff had access to patient identifier codes but not the names or addresses of the study participants. The urine specimens were stored up to 4 weeks at -20 ºC at the CNMC clinical site and transferred to the PNNL for storage at -80 ºC until further use."	"A urease pretreatment procedure was performed before methanol extraction on the urine samples. 50 µl of urease solution was added to 50 µl of urine samples, vortexed briefly and spun down. The mixture was incubated at 37 ºC with mild shaking (500 rpm) for 30 min and then cooled on ice for 1 min. Methanol extraction was performed by adding 1 ml of ice-cold methanol to the urine solution after urease pre-treatment. The mixture was then vortexed for 30 s and centrifuged at 15,000 x g at 4 ºC for 10 min. The supernatants were collected and dried under speed vacuum for 4 h. 500 µl HPLC grade water was added for SPE-IMS-MS analyses. An aliquot of the human urine was run at least once every 20 samples and used as quality control for all urine measurements.
+</p>
+Twenty xenobiotic standards (see Table S1 in the paper assocaited with this study) were analyzed individually at concentration levels of 10 pM, 100 pM, 1 nM, 10 nM, 100 nM and 1 µM to determine their limits of detection (LODs) prior to biofluid addition. A mixed stock solution was then prepared using a 99.9/0.1 acetonitrile/formic acid buffer solution and 10 µM of each chemical for SPE-IMS-MS method optimization. The mix was added into the human urine extract to achieve final concentration levels of 500 pM, 1 nM, 5 nM, 10 nM, 50 nM and 100 nM for each chemical and the LOD was determined (see Table S1)."	"A RapidFire 365 Solid Phase Extraction (SPE) (Agilent Technologies, Santa Clara, CA) was interfaced to an Agilent 6560 Ion Mobility QTOF MS system[1][2] (Agilent Technologies, Santa Clara, CA). The RapidFire 365 uses high-speed robotics and fast-switching valves to facilitate ultra-fast online SPE. A 10 µl sample loop was used for all experiments. A C18 SPE cartridge (Agilent Technologies, Santa Clara, CA) was selected for the initial experiments. The system was optimized to maximize the binding efficiency, while minimizing carry-over, using the xenobiotic standard mixture. To overload the sample loop, 30 µl of each urine sample was loaded onto the SPE cartridge using a combination of 0.1% formic acid and 99.9% water (v/v) (mobile phase A, flow rate at1.5 ml/min), and eluted using a combination of 0.1% formic acid, 49.95% isopropanol (IPA) and 49.95% methanol (v/v/v) (mobile phase B, flow rate at 0.6 ml/min). Based on C18 SPE cartridge optimization of the small molecule polar extracts from urine, mixed mode, graphitic carbon, and HILIC cartridges were used to maximize detection coverage of small molecules with differing affinities. The same mobile phase A and B were applied to the mixed mode cartridge as described for the C18 cartridge. For the graphitic carbon cartridge, the polar urine extracts were loaded using the same mobile phase A as used for C18 cartridge, but the small molecules were eluted using a combination of 0.1% formic acid, 25% acetonitrile, 25% acetone and 49.9% water (v/v/v/v) (mobile phase B, flow rate at 0.6 ml/min). For the HILIC cartridge, the polar urine extracts were loaded using a combination of 0.1% formic acid, 10% IPA, 89.9% hexane (v/v/v) (mobile phase A, flow rate at 1.5 ml/min), and small molecules were eluted using the same mobile phase B as used for the C18 cartridge. Aspiration time, load time, elution time and re-equilibration time were 0.6 s, 3 s, 6 s, and 1 ms, respectively, for a total cycle time of ~10 s. The sample injection sipper and valve loops were washed with water followed by acetonitrile between each sample injection.
+</p>
+Ref:</br>
+[1] May JC, Goodwin CR, Lareau NM, Leaptrot KL, Morris CB, Kurulugama RT, Mordehai A, Klein C, Barry W, Darland E, Overney G, Imatani K, Stafford GC, Fjeldsted JC, McLean JA. Conformational ordering of biomolecules in the gas phase: nitrogen collision cross sections measured on a prototype high resolution drift tube ion mobility-mass spectrometer. Anal Chem. 2014 Feb 18;86(4):2107-16. doi:10.1021/ac4038448. PMID:24446877</br>
+[2] Ibrahim YM, Baker ES, Danielson WF 3rd, Norheim RV, Prior DC, Anderson GA, Belov ME, Smith RD. Development of a New Ion Mobility (Quadrupole) Time-of-Flight Mass Spectrometer. Int J Mass Spectrom. 2015 Feb 1;377:655-662. doi:10.1016/j.ijms.2014.07.034. PMID:26185483</br>"	"The Agilent 6560 used in this work couples a drift tube ion mobility spectrometer to a quadrupole time-of-flight mass spectrometer. A jet stream orthogonal electrospray ionization source was utilized to connect the RapidFire with the IMS-QTOF MS. Ions generated by ESI were transmitted through the glass capillary, high-pressure ion funnel and the ion funnel trap (IFT). The IFT pulsed ions into the IMS drift tube (78 cm) filled with nitrogen, where a uniform electric field (16.5 V/cm) was applied and pressure was maintained at 3.95 Torr. Ions were separated in the drift tube and refocused by a rear ion funnel before entering the Q-TOF MS. Additional instrumentation details can be found elsewhere[1][2]. 
+</p>
+Ref:</br>
+[1] May JC, Goodwin CR, Lareau NM, Leaptrot KL, Morris CB, Kurulugama RT, Mordehai A, Klein C, Barry W, Darland E, Overney G, Imatani K, Stafford GC, Fjeldsted JC, McLean JA. Conformational ordering of biomolecules in the gas phase: nitrogen collision cross sections measured on a prototype high resolution drift tube ion mobility-mass spectrometer. Anal Chem. 2014 Feb 18;86(4):2107-16. doi:10.1021/ac4038448. PMID:24446877</br>
+[2] Ibrahim YM, Baker ES, Danielson WF 3rd, Norheim RV, Prior DC, Anderson GA, Belov ME, Smith RD. Development of a New Ion Mobility (Quadrupole) Time-of-Flight Mass Spectrometer. Int J Mass Spectrom. 2015 Feb 1;377:655-662. doi:10.1016/j.ijms.2014.07.034. PMID:26185483</br>"	"No data transformation information was provided."	"No metabolite information was reported."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Cartridge type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Baker"	"Metz"
+Study Person First Name	"Erin"	"Tom"
+Study Person Mid Initials	"S."	"O."
+Study Person Email	"erin.baker@pnnl.gov"	"thomas.metz@pnnl.gov"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

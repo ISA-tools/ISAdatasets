@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"BTO"	"MS"	"CHMO"	"NCBITAXON"	"EFO"	"OBI"	"HL7"	"NCIT"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/HL7"	"http://data.bioontology.org/ontologies/NCIT"	
+Term Source Version	"28"	"26"	"103"	"16"	"4"	"132"	"22"	"3"	"34"	
+Term Source Description	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Health Level Seven Reference Implementation Model, Version 3"	"National Cancer Institute Thesaurus"	
+INVESTIGATION
+Investigation Identifier	"MTBLS126"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS126"
+Study Title	"Absorption efficiency of RESV through mouse skin using 3 bases in different tissues"
+Study Description	"Resveratrol (RESV) is a plant polyphenol, which is thought to have beneficial metabolic effects in laboratory animals as well as in humans. Following oral administration, RESV is immediately catabolized, resulting in low bioavailability. This study compared RESV metabolites and their tissue distribution after oral uptake and skin absorption. Metabolomic analysis of various mouse tissues revealed that RESV can be absorbed and metabolized through skin. We detected sulfated and glucuronidated RESV metabolites, as well as dihydroresveratrol. These metabolites are thought to have lower pharmacological activity than RESV. Similar quantities of most RESV metabolites were observed 4 h after oral or skin administration, except that glucuronidated RESV metabolites were more abundant in skin after topical RESV application than after oral administration. This result is consistent with our finding of glucuronidated RESV metabolites in cultured skin cells. RESV applied to mouse ears significantly suppressed inflammation in the TPA inflammation model. The skin absorption route could be a complementary, potent way to achieve therapeutic effects with RESV. </p> One mg of RESV dissolved in ethanol was applied directly (Et) or mixed with hydrophilic ointment (HO), macrogol (Ma) or CMC gel (CMC), and swabbed on mouse dorsal skin. After 4 h mice were sacrificed, metabolites were extracted from tissues and analyzed by LC-MS. Peak areas of metabolites were normalized using peak areas of spiked internal standards (10 nmol 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES) and piperazine-N,N’-bis(2-ethanesulfonic acid) (PIPES)."
+Study Submission Date	"2014-10-21"
+Study Public Release Date	"2014-12-15"
+Study File Name	"s_MTBLSXXX3.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Resveratrol"	"skin administration"	"tandem mass spectrometry"	"high-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1215"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000796"
+Study Design Type Term Source REF	""	"NCIT"	""	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"25506824 "
+Study Publication DOI	"10.1371/journal.pone.0115359"
+Study Publication Author List	"Murakami, Itsuo
+Chaleckis, Romanas
+Pluskal, Tomas
+Ito, Ken
+Kousuke, Hori
+Ebe, Masahiro
+Yanagida, Mitsuhiro
+Kondoh, Hiroshi"
+Study Publication Title	"Metabolism of skin-absorbed resveratrol into its glucuronized form in mouse skin"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Base"	"Tissue"
+Study Factor Type	"base"	"Tissue"
+Study Factor Type Term Accession Number	"http://purl.bioontology.org/ontology/HL7/C1550601"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"
+Study Factor Type Term Source REF	"HL7"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtblsxxx3_metabolite_profiling_mass_spectrometry-1.txt"	"a_mtblsxxx3_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Classic (Thermo Scientific)"	"LTQ Orbitrap Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Mice were anesthetized by pentobarbital and blood was collected from the right heart ventricle. Metabolome samples were prepared from blood (0.2 ml), liver and dorsal skin (around 100 mg of each tissue)."	"Around 100 mg of each mouse tissue was cut out and weighted. Tissues were minced and homogenized for 3 min in 500 µl 50% methanol on ice using BioMasher II (Nippi, Tokyo, Japan). Next, 1 ml 50% methanol and internal standards (10 nmol HEPES and PIPES) were added to the samples. HEPES and PIPES were used as internal standards to correct for the variation of sample preparation and different detection efficiency. After brief vortexing samples were centrifuged at 500 x g for 10 min at 4 °C. The supernatant was recovered for further processing.
+</p>
+For metabolite extraction 0.2 ml of blood were mixed with 1.8 ml 55% methanol pre-chilled to -40 °C. Internal standards (HEPES and PIPES) were added and samples kept until further processing.
+</p>
+To remove proteins, metabolome samples were transferred to Amicon Ultra 10 kDa cut-off filters (Millipore, Billerica, MA, USA). Following sample concentration by vacuum evaporation, each sample was resuspended in 40 µl 50% acetonitrile and 1 µl was used for liquid chromatography-mass spectrometry (LC-MS) analysis."	"LC-MS data were obtained using a Paradigm MS4 HPLC system (Michrom Bioresources, Auburn, CA, USA) coupled to an LTQ Orbitrap mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA), as described previously [1]. Briefly, metabolites were separated on a ZIC-pHILIC column (Merck SeQuant, Sweden; 150 x 2.1 mm, 5 µm particle size) using acetonitrile (A) and 10 mM ammonium carbonate buffer, pH 9.3 (B) as the mobile phase, with gradient elution from 80% A to 20% A in 30 min, at a flow rate of 100 µl/min. Sample injection volume was 1 µl per run.
+</p>
+Ref:</br>
+[1] Pluskal T, Nakamura T, Villar-Briones A, Yanagida M (2010) Metabolic profiling of the fission yeast S. pombe: quantification of compounds under different temperatures and genetic perturbation. Mol Biosyst 6:182–198. doi: 10.1039/b908784b PMID:20024080</br>"	"The LTQ Orbitrap mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) was operated in full scan mode with the scan range of 100-1,000 m/z. Each sample was analyzed twice, once in negative and once in positive ionization mode."	"Peak areas of metabolites of interest, within the raw LC-MS data, were measured using the MZmine 2.10 software and normalized using the peak areas of HEPES and PIPES. The complete workflow and processing parameters are summarized in the publication."	"Metabolites were identified by comparing their m/z values and retention times with authentic pure standards. If no standard was available, metabolites were assigned by analysis of MS/MS spectra (MS/MS), as described in the publication. In cases where no standard compound or MS/MS spectrum was available, compounds were identified by generating chemical formulae using m/z values in MZmine 2.10 module and given MS status."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Murakami"	"Chaleckis"	"Pluskal"	"Ito"	"Hori"	"Ebe"	"Yanagida"	"Kondoh"
+Study Person First Name	"Itsuo"	"Romanas"	"Tomáš "	"Ken"	"Kousuke"	"Masahiro"	"Mitsuhiro"	"Hiroshi"
+Study Person Mid Initials	""	""	""	""	""	""	""	""
+Study Person Email	"imuraka@kuhp.kyoto-u-ac.jp"	"romanas.chaleckis@gmail.com"	"pluskal@oist.jp"	"kenito@kuhp.kyoto-u.ac.jp"	"koushori@kuhp.kyoto-u.ac.jp"	"masahiro.ebe@oist.jp"	"myanagid@gmail.com"	"hkondoh@kuhp.kyoto-u.ac.jp"
+Study Person Phone	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""
+Study Person Address	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"	"Yoshida-Konoecho, Sakyo-ku, Kyoto 606-8501, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"
+Study Person Affiliation	"Graduate School of Medicine, Kyoto University"	"Graduate school of Biostudies, Kyoto university"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"	"Graduate School of Medicine, Kyoto University"	"Graduate School of Medicine, Kyoto University"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"	"Graduate School of Medicine, Kyoto University"
+Study Person Roles	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""

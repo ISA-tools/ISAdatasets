@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BTO"	"CHMO"	"NCBITAXON"	"NCIT"	"MS"	"NCIT"	"EFO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"22"	"18"	"6"	"44"	"129"	"28"	"146"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS164"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS164"
+Study Title	"Searching for metabolic changes in urine headspace composition as an effect of strenuous walking"
+Study Description	"The present investigation uses proton transfer reaction mass spectrometry (PTR-MS) combined with multivariate and univariate statistical analyses to study potential biomarkers for altered metabolism in urine due to strenuous walking. Urine samples, in concurrence with breath and blood samples, were taken from 51 participants (23 controls, 11 type-1 diabetes, 17 type-2 diabetes) during the Dutch endurance walking event, the International Four Days Marches. Multivariate analysis allowed for discrimination of before and after exercise for all three groups (control, type-1 and type-2 diabetes) and on three out of 4 days. The analysis highlighted 12 molecular ions contributing to this discrimination. Of these, acetic acid in urine is identified as a significant marker for exercise effects induced by walking; an increase is observed as an effect of walking. Analysis of acetone concentration with univariate tools resulted in different information when compared to breath as a function of exercise, revealing an interesting effect of time over the 4 days. In breath, acetone provides an immediate snapshot of metabolism, whereas urinary acetone will result from longer term diffusion processes, providing a time averaged view of metabolism. The potential to use PTR-MS measurements of urine to monitor exercise effects is exhibited, and may be utilized to monitor subjects in mass participation exercise events."
+Study Submission Date	"2015-02-05"
+Study Public Release Date	"2016-02-05"
+Study File Name	"s_VIERDAGURI.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Walking"	"Diabetes Mellitus"	"acetic acid"	"proton transfer reaction mass spectrometry"	"acetone"
+Study Design Type Term Accession Number	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73554"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2985"	"http://purl.obolibrary.org/obo/CHEBI_15366"	"http://purl.obolibrary.org/obo/CHMO_0000570"	"http://purl.obolibrary.org/obo/CHEBI_15347"
+Study Design Type Term Source REF	""	"NCIT"	"NCIT"	"CHEBI"	"CHMO"	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	"26491419"
+Study Publication DOI	"10.1007/s11306-015-0813-8"
+Study Publication Author List	"Devasena Samudrala1, Brigitte Geurts2, Phil A Brown1,3, Ewa Szymańska2,3, Julien Mandon1, Jeroen Jansen2, Lutgarde Buydens2, Frans J M Harren1, Simona M Cristescu1."
+Study Publication Title	"Changes in urine headspace composition as an effect of strenuous walking analyzed with Proton Transfer Reaction Mass Spectrometry and multivariate statistical analysis "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Exercise"	"Diabetes"	"Day"
+Study Factor Type	"Group"	"Group"	"Day"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25301"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_vierdagse_urine_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"PTR-MS Quad (Radboud)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All subjects participated in the International Four Days Marches, July 2012, an annual walking event in Nijmegen, the Netherlands, organized by the Dutch Walking Organization (KNBLO-NL). In total 51 participants gave urine samples. Among them 23 were control (CT), 11 type-1 diabetes mellitus (T1DM) and 17 type-2 diabetes mellitus (T2DM). Participants included 28 males and 23 females with an age range of 25–85 years. Depending on their age and gender, participants walked 30, 40 or 50 km per day.
+</p>
+Urine samples were collected twice a day for 4 consecutive days from each subject, once in the morning, prior to walking (between 3:30 am and 8:30 am) and another at the end of the walk (between 10:30 am and 17:30 pm)."	"After collection, the samples were transported via a cooler (~6 °C) to a storage freezer of temperature -80 °C. Samples were without any centrifuge separation and without any anti-bacterial additives. The samples were later defrosted, separated into two vials and refrozen. One vial was used for VOCs analysis with PTR-MS."	"Not applicable."	"Urine measurements were performed with an in-house built proton transfer reaction mass spectrometer (PTR-MS). A detailed description of this instrument has been given elsewhere [1]. Briefly, proton transfer reaction is a soft ionization method in which VOCs with molecular mass (M) are ionized by the transfer of a proton from a hydronium ion (H3O+), and are detected at mass M + 1 using a quadrupole mass spectrometer.
+</p>
+Samples to be measured by PTR-MS were removed from the freezer the night before the measurements to defrost at room temperature (~20 °C). The following day the instrument was calibrated and samples prepared and measured. 10 ml of urine was transferred from the vial to a glass cuvette with a 40 ml available volume. The closing lid of the glass cuvette was sealed in place with a metal fastening clip and an O-ring, with one gas inlet and one gas outlet port to allow sampling. A constant flow of 2 l/h of air was passing through the cuvette to flush the head space. The outlet for this flow was side sampled by the PTR-MS at 1.5 l/h. For the duration of the measurement the samples remained at room temperature. The intensity of the VOC signal was observed to decrease with time, due to the continuous flushing of the headspace. Therefore, to prevent the concentration declining, the headspace was flushed and measured for 4 min only for each sample. Beyond this time the headspace concentration drop becomes unacceptable (more than 18% drop). Three samples were measured sequentially using an automatic valve system [2] to switch between each cuvette.
+</p>
+The product ion intensities, measured in counts per seconds (cps) were normalized to reagent ion signal, which gave intensities in normalized counts per second (ncps). These were further normalized to creatinine concentrations (mmol) to give final units of ncps/mmol1. This allowed the detected signals to be normalized with respect to the level of biological dilution present in the sample [3]. For the duration of analysis, the transfer lines from the valves to the PTR-MS were heated up to 55 °C to prevent condensation.
+</p>
+The consistency of the analysis was checked by calibrating each day, before the start of the experiment with a standard gas mixture consisting of methanol (m/z 33), acetaldehyde (m/z 45), acetone (m/z 59), isoprene (m/z 69), benzene (m/z 79), toluene (m/z 93), O-xylene (m/z 107) and alpha-pinene (m/z 137), each in 1000 ppbv ± 5% (ppbv = part per billion volume) in a nitrogen dilution gas (Linde, Dieren, the Netherlands). The calibration was performed using different concentrations, from 35 to 1000 ppbv obtained by dilution of the standard mixture with nitrogen gas.
+</p>
+Ref:</br>
+[1] Steeghs, M., Bais, H. P., de Gouw, J., Goldan, P., Kuster, W., Northway, M., et al. (2004). Proton-transfer-reaction mass spectrometry as a new tool for real time analysis of root-secreted volatile organic compounds in arabidopsis. Plant Physiology, 135(1), 47–58. doi:10.1104/pp.104.038703. PMID:15141066.</br>
+[2] van Dam, N. M., Samudrala, D., Harren, F. J. M., & Cristescu, S. M. (2012). Real-time analysis of sulfur-containing volatiles in Brassica plants infested with root-feeding Delia radicum larvae using proton-transfer reaction mass spectrometry. AoB Plants, 2012, pls021. doi:10.1093/aobpla/pls021. PMID:22916330.</br>
+[3] Amann, A., & Smith, D. (2013). Volatile biomarkers: Non-invasive diagnosis in physiology and medicine. Amsterdam: Elsevier Science.</br>"	"No information given."	"Signal intensity of the hydronium ion and the protonated water cluster (m/z 19 and m/z 37) are typically measured for normalization. Apart from them, 38 other ions were measured, including acetone (m/z 59); the dwell time for each ion was 0.2 s."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Cristescu"	"Brown"
+Study Person First Name	"Simona"	"Phil"
+Study Person Mid Initials	"M"	"A"
+Study Person Email	"S.Cristescu@science.ru.nl"	"p.brown@science.ru.nl"
+Study Person Phone	"+31(0)24 365 2277"	"+31243653012"
+Study Person Fax	"+31(0)24 365 3311"	"+31(0)24 365 3311"
+Study Person Address	""	""
+Study Person Affiliation	"Radboud University"	"Radboud University"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

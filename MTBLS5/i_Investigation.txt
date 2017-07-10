@@ -1,0 +1,128 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"EFO"	"CHMO"	"XEO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/XEO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"132"	"16"	"4"	"43"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"XEML Environment Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS5"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS5"
+Study Title	"Inorganic Carbon Limitation in Cells of the Wild Type and Photorespiratory Mutants of the Cyanobacterium Synechocystis sp. Strain PCC 6803"
+Study Description	"The amount of inorganic carbon represents one of the main environmental factors determining productivity of photoautotrophic organisms. Using the model cyanobacterium Synechocystis sp. PCC 6803, we performed a first metabolome study with cyanobacterial cells shifted from high CO2 (5% in air) into conditions of low CO2 (LC; ambient air with 0.035% CO2). Using gas chromatography-mass spectrometry, 74 metabolites were reproducibly identified under different growth conditions. Shifting wild-type cells into LC conditions resulted in a global metabolic reprogramming and involved increases of, for example, 2-oxoglutarate (2OG) and phosphoenolpyruvate, and reductions of, for example, sucrose and fructose-1,6-bisphosphate. A decrease in Calvin-Benson cycle activity and increased usage of associated carbon cycling routes, including photorespiratory metabolism, was indicated by synergistic accumulation of the fumarate, malate, and 2-phosphoglycolate pools and a transient increase of 3-phosphoglycerate. The unexpected accumulation of 2OG with a concomitant decrease of glutamine pointed toward reduced nitrogen availability when cells are confronted with LC. Despite the increase in 2OG and low amino acid pools, we found a complete dephosphorylation of the PII regulatory protein at LC characteristic for nitrogen-replete conditions. Moreover, mutants with defined blocks in the photorespiratory metabolism leading to the accumulation of glycolate and glycine, respectively, exhibited features of LC-treated wild-type cells such as the changed 2OG to glutamine ratio and PII phosphorylation state already under high CO2 conditions. Thus, metabolome profiling demonstrated that acclimation to LC involves coordinated changes of carbon and interacting nitrogen metabolism. We hypothesize that Synechocystis has a temporal lag of acclimating carbon versus nitrogen metabolism with carbon leading."
+Study Submission Date	"2015-09-11"
+Study Public Release Date	"2015-09-14"
+Study File Name	"s_Inorganic Carbon Limitation in Cells of the Wild Type and Photorespiratory Mutants of the Cyanobacterium Synechocystis sp. Strain PCC 6803.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"intervention design"	"stimulus or stress design"	"untargeted metabolites"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/OBI/OBI_0000115"	"http://purl.bioontology.org/ontology/OBI/OBI_0001396"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	"OBI"	"OBI"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"18945936"
+Study Publication DOI	"10.1104/pp.108.129403"
+Study Publication Author List	"Eisenhut M, Huege J, Schwarz D, Bauwe H, Kopka J, Hagemann M."
+Study Publication Title	"Metabolome phenotyping of inorganic carbon limitation in cells of the wild type and photorespiratory mutants of the cyanobacterium Synechocystis sp. strain PCC 6803."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"CarbonDioxide_Quantity_after_initiation"	"CarbonDioxide_Quantity_after_01d"
+Study Factor Type	"air carbon dioxide content"	"air carbon dioxide content"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/XCO_0000012"	"http://purl.obolibrary.org/obo/XCO_0000012"
+Study Factor Type Term Source REF	"XEO"	"XEO"
+STUDY ASSAYS
+Study Assay File Name	"a_Inorganic Carbon Limitation in Cells of the Wild Type and Photorespiratory Mutants of the Cyanobacterium Synechocystis sp. Strain PCC 6803.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The Glc-tolerant strain of Synechocystis served as the wild type and was obtained from Prof. Murata (National Institute for Basic Biology, Okazaki, Japan). The generation and characterization of the mutants ΔglcD, bearing a defect in the GlcD coding gene sll0404, and ΔgcvT, bearing a defect in gene sll0171 coding for the T-protein subunit of the Gly decarboxylase complex, have been described elsewhere [1][2]. For all experiments, axenic cultures of the cyanobacteria were grown photoautotrophically in batch cultures using 3 cm glass vessels with 5 mm glass tubes for aeration (bubbling flow rate was 5 ml/min) and 29 °C growth temperature under continuous illumination of 130 µmol photons s-1 m-2 (warm light, Osram L58 W32/3). For shift experiments, cells were precultivated with air enriched by 5% CO2 (HC) in BG11 medium [3], pH 7.0. Cells were harvested by centrifugation and resuspended in fresh BG11 at an optical density at 750 nm (OD750) of 0.8. After 1 h cultivation under HC conditions, Ci limitation was set by transferring those exponentially growing cultures to bubbling with ambient air containing 0.035% CO2 (LC). To prove PII protein phosphorylation, cells were shifted to HC and LC conditions in BG11 medium without combined N (replacing NaNO3 by equimolar amounts of NaCl) and nitrate-containing standard BG11, respectively. Growth was monitored by measurements of the OD750. Cultivation of mutants was performed at 50 µg/ml kanamycin or 20 µg/ml spectinomycin. Contamination by heterotrophic bacteria was checked by spreading 0.2 ml of culture on Luria-Bertani plates. All experiments were repeated using at least three independent cell cultures. 
+</p>
+Ref: </br>
+[1] Hagemann M, Vinnemeier J, Oberpichler I, Boldt R, Bauwe H (2005) The glycine decarboxylase complex is not essential for the cyanobacterium Synechocystis sp. 
+strain PCC 6803. Plant Biol 7: 15–22. PMID: 15666206</br>
+[2] Eisenhut M, Kahlon S, Hasse D, Ewald R, Lieman-Hurwitz J, Ogawa T, Ruth W, Bauwe H, Kaplan A, Hagemann M (2006) The plant-like C2 glycolate cycle and the bacterial-like glycerate pathway cooperate in phosphoglycolate metabolism in cyanobacteria. Plant Physiol 142: 333–342. PMID:16877700</br>
+[3]  Rippka R, Deruelles J, Waterbury JB, Herdman M, Stanier RY (1979) Generic assignments, strain histories and properties of pure cultures of cyanobacteria. J Gen Microbiol 111: 1–16. doi: 10.1099/00221287-111-1-1</br>"	"Samples of 5 to 10 ml cells, equivalent to about 109 cells/ml, were taken from the cultivation vessels and separated from the medium by filtration (0.45 µm nitrocellulose filters, Schleicher and Schuell) in the light without any subsequent washing. The cell pellets on the filters were put into 2 ml Eppendorf tubes and immediately frozen in liquid nitrogen and stored at -80 °C. Time until metabolic inactivation by freezing was about 20 s. Thus, cells were separated from the bulk medium, but minor negligible contaminations of secreted metabolites may still have been present.
+</p>
+Metabolites were extracted from the deep frozen cells by a premixture of 300 µl methanol (final concentration approximately 80%), 30 µl nonadeconoic acid methylester (2 mg/ml chloroform), 30 µl of ribitol (0.2 mg/ml), and D4-2,3,3,3-Ala (1 mg/ml, standards in methanol). Each sample was mixed thoroughly at least 1 min for complete suspension, agitated 15 min at 70 °C, brought to room temperature mixed with 200 µl chloroform, and agitated again 5 min at 37 °C. Finally, phase separation was induced by 400 µl distilled water and the upper polar fraction retrieved by 5 min centrifugation at 14,000 rpm using an Eppendorf 5417 microcentrifuge. A total volume of 320 µl was concentrated and dried in 1.5 ml microtubes by 12 to 18 h of vacuum centrifugation. 
+</p>
+The chemical derivatization, namely methoxyamination and subsequent trimethylsilylation, was performed manually [1].
+</p>
+Ref: </br>
+[1]  Fiehn O, Kopka J, Dörmann P, Altmann T, Trethewey RN, Willmitzer L (2000) Metabolite profiling for plant functional genomics. Nat Biotechnol 18: 1157–1161. PMID:11062433</br>"	"Samples were processed using a Factor Four VF-5ms capillary column of dimensions, 30 m length, 0.25 mm i.d., and 0.25 µm film thickness with a 10 m EZ-guard pre-column (Varian Inc., Lake Forest, CA)) mounted to a Agilent 6890N gas chromatograph (Agilent, Böblingen, Germany), which was operated in splitless injection mode.
+</p>
+Injection of a 1 µl sample is performed at 230 °C in splitless mode with helium carrier gas flow set to 0.6 ml/min. Purge time is 1 min at 20 ml/min flow. The flow rate is kept constant with electronic pressure control enabled. Optionally and especially recommended in cases of high metabolite concentrations, injection is performed in split mode with the split ratio adjusted 1:25. As a rule of thumb, split injection may be prone to discrimination of high-boiling metabolic components, whereas splitless injection may, in rare cases, result in peak shape artifacts for low-boiling components. These artifacts occur in few chromatograms and result in different degrees of peak splitting and shoulder formation. For suppression of this peak shape artifact either inject at decreased flow or apply a 2 min pressure pulse at 110 psi during injection. However, a robust suppression of this artifact for all biological samples can currently not be recommended.
+</p>
+The temperature program starts in isothermal mode set to 1 min at 70 °C. The isothermal step is followed by a 9 °C/min ramp to 350 °C. The final temperature is kept constant for 5 min. Cooling is performed as fast as instrument specifications allow. The transfer line temperature is set to 250 °C and matches ion source conditions.
+</p>
+The n-alkanes used to calculate are retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. For additional information on the retention time index calculations see [1].
+</p>
+Ref: </br>
+[1] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Mass spectrometric data were acquired through a Pegasus III TOF mass spectrometer (LECO Instrumente GmbH, Mönchengladbach, Germany).  The ion source is set to maximum instrument specifications, 250 °C. High-boiling metabolic components exhibit increased peak tailing at lower temperature settings. The recorded mass range is m/z = 70–600 at 20 scans/s. Mass spectrometric solvent delay with filaments turned off is 6.6–7.5 min, the remaining chromatography is fully monitored with omission of cool down periods. Manual mass defect is set to 0, filament bias current is –70 V, and detector voltage is approx 1700–1850 V depending on detector age. The instrument tune is automated and performed without EPA tune compliance."	"GC-TOF-MS chromatograms were processed by TagFinder-Software [1] after export from the ChromaTOF software (version 1.00, Pegasus driver 1.61, LECO) to NetCDF file format.
+</p>
+Ref: </br>
+[1] Luedemann A, Strassburg K, Erban A, Kopka J (2008) TagFinder for the quantitative analysis of gas chromatography - mass spectrometry (GC-MS) based metabolite profiling experiments. Bioinformatics 24: 732–737.PMID:18204057</br>"	"A complete matrix of peak heights representing arbitrary mass spectral ion currents of all available mass features was used for initial numerical analysis. Peak heights were corrected by the amount of cells using OD750 and to the recovered amount of the internal standard, ribitol, to yield normalized responses. These normalized responses were used to calculate response ratios, subsequently also called relative content, compared to the respective choice of control condition. Identification of metabolite-specific mass fragments from this data matrix was manually supervised. Compounds were identified using the TargetFinder plug-in of TagFinder-Software and a reference library of mass spectra and retention indices from the collection of the Golm Metabolome Database (http://csbdb.mpimp-golm.mpg.de/csbdb/gmd/home/gmd_sm.html; [1]). Thresholds for automated mass spectral prematching were match factor >650 and retention indices deviation <1.0%. Identifications were confirmed manually by co-chromatography of defined reference mixtures [2]. The full resulting data set of identified metabolites and respective normalized responses may be found within Supplemental Table S1. 
+</p>
+Gln determination using the above GC-TOF-MS is impaired due to chemical conversion of Gln into pyroglutamate. Residual Gln can still be used for relative quantification but may be close to detection limits, while the use of pyroglutamate gives nonselective information on the sum of Gln and pyroglutamate and may contain trace contributions from Glu. For this reason, free amino acids were extracted from frozen cyanobacterial cell pellets with 80% ethanol at 65°C for 3 h. After centrifugation, the supernatants were dried by lyophilization and redissolved in 8 mm Na2HPO4, pH 6.8, containing 2.5% tetrahydrofurane. Individual amino acids were assayed after derivatization with o-phthaldialdehyde and analyzed by HPLC as previously described [3].
+</p>
+Data management, data transformation, and basic calculations were performed using Microsoft Office Excel 2003 options. The TM4 multi-experiment viewer [4] and the MetaGeneAlyse Web service [5] were employed for visual and statistical data assessment, e.g. ICA, one- and two-way ANOVA, Kruskal-Wallis, or Mack-Skillings tests.
+Ref: </br>
+[1] Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmueller E, Doermann P, Weckwerth W, Gibon Y, Stitt M, et al (2005) GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics 21: 1635–1638. PMID:15613389</br>
+[2] Strehmel N, Hummel J, Erban A, Strassburg K, Kopka J (2008) Retention index thresholds for compound matching in GC-MS metabolite profiling. J Chromatogr B 871: 182–190. PMID:18501684</br>
+[3] Hagemann M, Vinnemeier J, Oberpichler I, Boldt R, Bauwe H (2005) The glycine decarboxylase complex is not essential for the cyanobacterium Synechocystis sp. strain PCC 6803. Plant Biol 7: 15–22. PMID: 15666206</br>
+[4] Saeed AI, Sharov V, White J, Li J, Liang W, Bhagabati N, Braisted J, Klapa M, Currier T, Thiagarajan M, et al (2003) TM4: A free, open-source system for microarray data management and analysis. Biotechniques 34: 374–378. PMID:12613259</br>
+[5] Daub CO, Kloska S, Selbig J (2003) MetaGeneAlyse: analysis of integrated transcriptional and metabolite data. Bioinformatics 19: 2332–2333. PMID:14630670</br>"
+Study Protocol URI	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=cf0f592d-7883-4134-916f-3af8f0ad1c98"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization 1;Derivatization 2"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Eisenhut"	"Hagemann"	"Kopka"
+Study Person First Name	"Marion"	"Martin"	"Joachim"
+Study Person Mid Initials	""	""	""
+Study Person Email	"marion.eisenhut@uni-rostock.de"	"martin.hagemann@uni-rostock.de"	"kopka@mpimp-golm.mpg.de"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"Universität Rostock, Institut für Biowissenschaften, Pflanzenphysiologie, 18051 Rostock, Germany"	"Universität Rostock, Institut für Biowissenschaften, Pflanzenphysiologie, 18051 Rostock, Germany"	"Max Planck Institute of Molekular Plant Physiology"
+Study Person Roles	"Experimenter"	"Principal investigator"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

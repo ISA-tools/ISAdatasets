@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"EFO"	"BTO"	"CHMO"	"NCIT"	"BAO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"103"	"22"	"4"	"132"	"26"	"16"	"40"	"25"	"43"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"BioAssay Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS218"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS218"
+Study Title	"An untargeted metabolomics approach to characterize short-term and long-term metabolic changes after bariatric surgery"
+Study Description	"Bariatric surgery is currently one of the most effective treatments for obesity and leads to significant weight reduction, improved cardiovascular risk factors and overall survival in treated patients. To date, most studies focused on short-term effects of bariatric surgery on the metabolic profile and found high variation in the individual responses to surgery. The aim of this study was to identify relevant metabolic changes not only shortly after bariatric surgery (Roux-en-Y gastric bypass) but also up to one year after the intervention by using untargeted metabolomics. 132 serum samples taken from 44 patients before surgery, after hospital discharge (1–3 weeks after surgery) and at a 1-year follow-up during a prospective study (NCT01271062) performed at two study centers (Austria and Switzerland). The samples included 24 patients with type 2 diabetes at baseline, thereof 9 with diabetes remission after one year. The samples were analyzed by using liquid chromatography coupled to high resolution mass spectrometry (LC-HRMS, HILIC-QExactive). Raw data was processed with XCMS and drift-corrected through quantile regression based on quality controls. 177 relevant metabolic features were selected through Random Forests and univariate testing and 36 metabolites were identified. Identified metabolites included trimethylamine-N-oxide, alanine, phenylalanine and indoxyl-sulfate which are known markers for cardiovascular risk. In addition we found a significant decrease in alanine after one year in the group of patients with diabetes remission relative to non-remission. Our analysis highlights the importance of assessing multiple points in time in subjects undergoing bariatric surgery to enable the identification of biomarkers for treatment response, cardiovascular benefit and diabetes remission. Key-findings include different trend pattern over time for various metabolites and demonstrated that short term changes should not necessarily be used to identify important long term effects of bariatric surgery."
+Study Submission Date	"2015-08-11"
+Study Public Release Date	"2015-09-15"
+Study File Name	"s_Bariatric Surgery.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Bariatric Surgery"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"XCMS"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84399"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.obolibrary.org/obo/MS_1001582"
+Study Design Type Term Source REF	"NCIT"	"CHMO"	""	"MS"
+STUDY PUBLICATIONS
+Study PubMed ID	"27584017"
+Study Publication DOI	"10.1371/journal.pone.0161425"
+Study Publication Author List	"Narath SH, Mautner SI, Svehlikova E, Schultes B, Pieber TR, Sinner FM, Gander E, Libiseller G, Schimek MG, Sourij H, Magnes C."
+Study Publication Title	"An Untargeted Metabolomics Approach to Characterize Short-Term and Long-Term Metabolic Changes after Bariatric Surgery."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time"	"Visit"
+Study Factor Type	"sampling time"	"Patient Visit"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000689"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39564"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_bariatric_surgery_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Serum samples from 44 obese patients included in the study were analysed: 29 females (BMI: 44.2 ± 4.9, Age: 44±11) and 15 males (BMI: 45.2 ± 7.1, Age: 48 ± 15). The venous blood samples were collected, the blood was allowed to clot (30 min, 25 °C), the serum was separated by centrifugation (2000g, 4 °C, 30 min) and afterwards immediately stored at -80 °C."	"Serum samples were processed as published [1]. Briefly, 200 µl of serum were transferred to 1.5 ml tubes and centrifuged at 4 °C for 10 min at 13,000 g. 800 µl methanol (cooled to -80 °C) were added and mixed with the samples. Samples were incubated overnight at -80 °C then centrifuged at 13,000 g for 10 min and the supernatant was transferred to 1.5 ml tubes. Samples were evaporated to dryness by using nitrogen and reconstituted in 200 µl 30% methanol.
+</p>
+Ref:</br>
+[1] Yuan M, Breitkopf SB, Yang X, Asara JM. A positive/negative ion-switching, targeted mass spectrometry-based metabolomics platform for bodily fluids, cells, and fresh and fixed tissue. Nat Protoc. 2012 Apr 12;7(5):872-81. doi: 10.1038/nprot.2012.024. PMID:22498707</br>"	"The chromatographic separation was done on a Luna NH2 column (2 × 150 mm; 3 µm; Phenomenex, Torrance, USA) following the previously published procedure by [1]. Separation was performed using eluent A: 20 mM ammonium acetate + 20 mM ammonium hydroxide in 95:5 water: acetonitrile, pH 9.45; Eluent B: acetonitrile. The gradient was as follows: t=0 min, 85% B; t = 15 min 0% B; t=20 min 0% B; t=22min 85% B; t=37min 85% B. Flow rate was set to 150 µl/min.  Full scan spectra were recorded in positive and in negative electrospray from m/z 70–1050 with a resolution of 140,000 (at m/z 200).
+</p>
+Ref:</br>
+[1] Bajad SU, Lu W, Kimball EH, Yuan J, Peterson C, Rabinowitz JD. Separation and quantitation of water soluble cellular metabolites by hydrophilic interaction chromatography-tandem mass spectrometry. J Chromatogr A. 2006 Aug 25;1125(1):76-88. PMID:16759663</br>"	"LC-MS analyses were performed with an Ultimate 3000 UHPLC system (Thermo Fisher Scientific, San Jose, CA, USA) coupled to a high resolution mass spectrometer Q-Exactive (Thermo Fisher Scientific, Bremen, Germany). "	"Raw data was converted into an mzXML file format using ReadW (v4.0.2). The scans from negative and positive electrospray ionization were saved in two different files. Untargeted analysis for both ionization methods was done by using the open source R package XCMS44. XCMS parameters were optimized by the R-package IPO45. XCMS-data processing results in a data matrix which contains peak intensities (AUCs) from the negative and positive ionization mode. The peak intensities are called metabolic features, which are a unique combination of retention-time and median m/z ratio.
+</p>
+The order of the serum samples was randomized for analysis to avoid time-dependent bias. To exclude system-peaks (impurities in the measurement-system, visible in blanks) as well as poorly detected metabolic features, filter steps were performed based on QCs and BLs. A quantile regression approach was applied to correct time-dependent drifts, based on QC-intensities. Therefore, the R-function quant.reg was applied in two steps to achieve the requested drift correction 46,47. First based on the QC-intensities a model was built to configure the variation in time. The 50% quantile of the QC’s (y’s) was estimated via nonparametric quantile regression, using regression splines depending on the sample number (x’s). This procedure fit a piecewise cubic polynomial (breakpoints in the third derivative) with 16 knots (df) arranged at the 50% quantile of the x’s: rq (y ~ bs ( x, df = 16), tau = 0.5). Second, another quantile regression model was estimated to attune all samples using a multiplicative correction factor based on the median intensities of the original QC-intensities. After a successful drift correction, metabolic features were used for statistical analysis."	"Identified compounds were identified by accurate mass and retention time in comparison to reference standards.  Putatively annotated compounds were annotated by accurate mass comparison using freely available metabolite databases (HMDB, KEGG, Metlin)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Magnes"	"Sourij"	"Narath"
+Study Person First Name	"Christoph"	"Harald"	"Sophie"
+Study Person Mid Initials	""	""	""
+Study Person Email	"christoph.magnes@joanneum.at"	"ha.sourij@medunigraz.at"	"sophie.narath@joanneum.at"
+Study Person Phone	"+43 316 876-4201"	"+43 316 385 81310"	"+43 316 876-4204"
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"JOANNEUM RESEARCH Forschungsgesellschaft mbH           HEALTH – Institute for Biomedicine and Health Sciences Neue Stiftingtalstrasse 2, 8010 Graz, Austria"	"Medical University of Graz, Department of Internal Medicine, Division of Endocrinology and Metabolism, Graz, Austria"	"JOANNEUM RESEARCH Forschungsgesellschaft mbH           HEALTH – Institute for Biomedicine and Health Sciences Neue Stiftingtalstrasse 2, 8010 Graz, Austria"
+Study Person Roles	"Head of research group – Bioanalytics and metabolomics"	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

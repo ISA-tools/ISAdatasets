@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"BTO"	"OBI"	"MS"	"NCIT"	"CHMO"	"NCBITAXON"	"EFO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"26"	"25"	"103"	"40"	"16"	"4"	"132"	"43"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS31"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS31"
+Study Title	"Lipid mediators of inflammation in BALF 3-19 days after infection with influenza."
+Study Description	"In this study broncho-alveolar lavage fluid (BALF) from mice infected with influenza A virus, PR8 (200 PFU and 200,000 PFU), X31 (2000,000 PFU) was analyzed for lipidomic host response in comparison with the mock infected animals. Time Points: 3, 5, 7, 9, 11, 13, 19 days post infection, done in 8-10 replicates.)"
+Study Submission Date	"2013-05-09"
+Study Public Release Date	"2013-05-09"
+Study File Name	"s_BALF lipids 3-19 post infection with Influenza A TEST.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"Lipidomics"	"Bronchoalveolar Lavage Fluid"	"Influenza A virus"	"inflammatory response"
+Study Design Type Term Accession Number	""	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195"	"http://purl.obolibrary.org/obo/NCBITaxon_11320"	"http://purl.obolibrary.org/obo/GO_0006954"
+Study Design Type Term Source REF	""	"CSEO"	"NCIT"	"EFO"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"23827684"
+Study Publication DOI	"10.1016/j.cell.2013.05.052"
+Study Publication Author List	"Tam VC, Quehenberger O, Oshansky CM, Suen R, Armando AM, Treuting PM, Thomas PG, Dennis EA, Aderem A."
+Study Publication Title	"Lipidomic profiling of influenza infection identifies mediators that induce and resolve inflammation."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Time"	"Dose"
+Study Factor Type	"treatment"	"sampling time"	"dose"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000689"	"http://www.ebi.ac.uk/efo/EFO_0000428"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_balf lipids 3-19 post infection with influenza a test_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"API 4000 QTRAP (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"At specified time points mice were sacrificed by CO2 inhalation. Hole was clipped in trachea, and bronchoalveolar fluid (BALF) taken (3 x 1 ml cold phosphate-buffered saline (PBS) total). 700 µl of sample was used. After SPE column the elute was in 1 ml of methanol. That was then dried down to completion and taken up in 100 µl buffer A (63% H20, 37% ACN, 0.02% Formic Acid). Sample was enriched with 10 ng of each internal standard prior to extraction (100 µl of 26 internal standards from 0.1 ng/µl concentration solution)."	"Briefly, 0.9 ml of BALF samples were supplemented with a mix consisting of 25 deuterated internal standards (Cayman Chemical) and lipid metabolites isolated by solid phase extraction on a Strata X column (Phenomenex)."	"Lipid mediators were analyzed by liquid chromatography (LC) essentially as described previously [1][2]. The extracted samples were evaporated, reconstituted in a small volume and the eicosanoids were separated by reverse phase LC using a Synergy C18 column (Phenomenex, Torrance, CA).
+</p>
+Ref: </br>
+[1] Dumlao DS, Buczynski MW, Norris PC, Harkewicz R, Dennis EA. High-throughput lipidomic analysis of fatty acid derived eicosanoids and N-acylethanolamines. Biochim Biophys Acta. 2011 Nov;1811(11):724-36. doi: 10.1016/j.bbalip.2011.06.005. PMID:21689782</br>
+[2] Quehenberger O, Armando AM, Brown AH, Milne SB, Myers DS, Merrill AH, Bandyopadhyay S, Jones KN, Kelly S, Shaner RL, Sullards CM, Wang E, Murphy RC, Barkley RM, Leiker TJ, Raetz CR, Guan Z, Laird GM, Six DA, Russell DW, McDonald JG, Subramaniam S, Fahy E, Dennis EA. Lipidomics reveals a remarkable diversity of lipids in human plasma. J Lipid Res. 2010 Nov;51(11):3299-305. doi: 10.1194/jlr.M009449. PMID:20671299</br>"	"Lipid mediators were analyzed by mass spectrometry (MS) essentially as described previously [1][2]. The eicosanoids were analyzed by tandem quadrupole MS (MDS SCIEX 4000 QTRAP, Applied Biosystems, Foster City, CA) operated in the negative-ionization mode via multiple-reaction monitoring (MRM) using transitions that were optimized for selectivity and sensitivity.
+</p>
+Ref: </br>
+[1] Dumlao DS, Buczynski MW, Norris PC, Harkewicz R, Dennis EA. High-throughput lipidomic analysis of fatty acid derived eicosanoids and N-acylethanolamines. Biochim Biophys Acta. 2011 Nov;1811(11):724-36. doi: 10.1016/j.bbalip.2011.06.005. PMID:21689782</br>
+[2] Quehenberger O, Armando AM, Brown AH, Milne SB, Myers DS, Merrill AH, Bandyopadhyay S, Jones KN, Kelly S, Shaner RL, Sullards CM, Wang E, Murphy RC, Barkley RM, Leiker TJ, Raetz CR, Guan Z, Laird GM, Six DA, Russell DW, McDonald JG, Subramaniam S, Fahy E, Dennis EA. Lipidomics reveals a remarkable diversity of lipids in human plasma. J Lipid Res. 2010 Nov;51(11):3299-305. doi: 10.1194/jlr.M009449. PMID:20671299</br>"	"Data was normalized and calculated from total ng to pmol/ml using a standard curve."	"Authentic standards were analyzed under identical conditions and eicosanoid quantitation was achieved by the stable isotope dilution method and comparison with 141 quantitation standards. Data analysis was performed using the MultiQuant 2.1 software (Applied Biosystems)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Aderem"
+Study Person First Name	"Alan"
+Study Person Mid Initials	""
+Study Person Email	"alan.aderem@seattlebiomed.org"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Seattle Biomedical Research Institute"
+Study Person Roles	"PI"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

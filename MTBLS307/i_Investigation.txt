@@ -1,0 +1,142 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BTO"	"EFO"	"NCBITAXON"	"SNOMEDCT"	"VIVO"	"MS"	"EFO"	"UO"	"CHEBI"	"OBI"	"CHMO"	"NCIT"	"ROLEO"	"BAO"	
+Term Source File	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/VIVO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/BAO"	
+Term Source Version	"20"	"111"	"6"	"7"	"2"	"129"	"146"	"42"	"99"	"21"	"18"	"44"	"1"	"26"	
+Term Source Description	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Systematized Nomenclature of Medicine - Clinical Terms"	"VIVO Ontology for Researcher Discovery"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Role Ontology"	"BioAssay Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS307"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS307"
+Study Title	"Molecular networking coupled to high-resolution mass spectrometry fragmentation reveals a multitude of urinary antihypertensive drug metabolites"
+Study Description	"Mass spectrometry is the current technique of choice in studying drug metabolism. High-resolution mass spectrometry (HR-MS) in combination with fragment analysis (MS/MS) has the potential to contribute to rapid advances in this field. However, the data emerging from such fragmentation spectra pose challenges to downstream analysis, given their complexity and size. Here we apply a molecular networking approach to seek drugs and their metabolites, in fragmentation spectra from urine derived from a cohort of 26 patients on antihypertensive therapy. In total, 165 separate drug metabolites were found and structurally annotated (17 by spectral matching and 122 by classification based on a clustered fragmentation pattern). The clusters could be traced to 13 drugs including the known antihypertensives verapamil, losartan and amlopidine. The molecular networking approach also generated networks of endogenous metabolites, including carnitine derivatives, and conjugates containing glutamine, glutamate and trigonelline. The approach offers unprecedented capability in the untargeted identification of drugs and their metabolites at the population level and has great potential to contribute to understanding stratified responses to drugs where differences in drug metabolism may determine treatment outcome. Keywords: Antihypertensive drugs, Drug metabolism, Fragmentation, High-resolution mass spectrometry, Metabolomics, Urine."
+Study Submission Date	"2016-01-26"
+Study Public Release Date	"2016-05-23"
+Study File Name	"s_Antihypertensive_Drug_Metabolism_Urine.txt"
+Comment[Study Grant Number]	"105614/Z/14/Z"
+Comment[Study Funding Agency]	"Wellcome Trust"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"drug"	"liquid chromatography-mass spectrometry"	"metabolic process"	"spectral similarity"	"biomolecular annotation design"	"untargeted metabolites"	"hypertension"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_23888"	"http://purl.obolibrary.org/obo/CHMO_0000524"	"http://purl.obolibrary.org/obo/GO_0008152"	""	"http://www.ebi.ac.uk/efo/EFO_0004665"	""	"http://www.ebi.ac.uk/efo/EFO_0000537"
+Study Design Type Term Source REF	"EFO"	"CHMO"	"EFO"	""	"EFO"	""	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1064-z"
+Study Publication Author List	"Justin J.J. van der Hooft, Sandosh Padmanabhan, Karl E.V. Burgess, Michael P. Barrett"
+Study Publication Title	"Urinary antihypertensive drug metabolite screening using molecular networking coupled to high-resolution mass spectrometry fragmentation. "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Diabetes"	"Gender"	"mzXML conversion mode"
+Study Factor Type	"age"	"Boolean"	"Gender"	"Polarity"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48048"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_Top10_pos_mass_spectrometry.txt"	"a_Top10_neg_mass_spectrometry.txt"	"a_Top10_alt_pos_mass_spectrometry.txt"	"a_Top10_alt_neg_mass_spectrometry.txt"	"a_Full_alt_pos_mass_spectrometry.txt"	"a_Full_alt_neg_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Thermo Q Exactive (Thermo Scientific)"	"Thermo Q Exactive (Thermo Scientific)"	"Thermo Q Exactive (Thermo Scientific)"	"Thermo Q Exactive (Thermo Scientific)"	"Thermo Q Exactive (Thermo Scientific)"	"Thermo Q Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine samples from anonymized human volunteers were used from a clinical sample set in the Glasgow Polyomics archive. These samples were obtained as part of a trial for which ethical approval was applied for at Multi-centre Research and Ethics Committee (MREC), which was granted by the Scottish MREC and (with MREC No. 06/MRE00/106). Informed consent was obtained from all individual study participants.  Spot urine samples were obtained from the cohort of elderly hypertensive patients upon their first admission in the clinic. Urine extracts of 26 patients were selected as follows: diagnosed with hypertension, taking in a variety of different antihypertensive drugs (i.e., different drug classes), and availability of the sample extract in the Glasgow Polyomics archive. The resulting subject's age range spanned from 42 to 87; 15 were male, 11 female; 4 were smokers; 5 were reported to have diabetes; and each reportedly took from 2 to 7 different classes of antihypertensive drugs. Standards Mixes 1-3 from Glasgow Polyomics were run along with the batch. Blank injections are non-injections."	"A general metabolome extraction procedure was performed[1]: i) 5 µg urine was extracted in 200 µg/l chloroform/methanol/water (1:3:1) at 4 °C; ii) then vortexed for  5 min at 4 °C; iii) then centrifuged for 3 min (13,000 x g) at 4 °C. The resulting supernatant was stored at -80 °C until analysis. A pooled aliquot of the 26 selected urine samples was prepared prior to the LC-MS/MS runs.
+</p>
+Ref:</br>
+[1] Creek DJ, Jankevics A, Breitling R, Watson DG, Barrett MP, Burgess KE. Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: improved metabolite identification by retention time prediction. Anal Chem. 2011 Nov 15;83(22):8703-10. doi:10.1021/ac2021823. PMID:21928819</br>"	"A Thermo Scientific Ultimate 3000 RSLCnano liquid chromatography system (Thermo Scientific, CA, USA) was used. Column temperature was maintained at 25 °C. The HILIC separation was performed with a SeQuant ZIC-pHILIC column (150 x 4.6 mm, 5 µm) equipped with the corresponding pre-column (Merck KGaA, Darmstadt, Germany). A linear biphasic LC gradient was conducted from 80% B to 20% B over 15 min, followed by a 2 min wash with 5% B, and 7 min re-equilibration with 80% B, where solvent B is acetonitrile and solvent A is 20 mM ammonium carbonate in water. The flow rate was 300 µg/l/min, column temperature was held at 25 °C, injection volume was 10 µg/l, and samples were maintained at 4 °C in the autosampler [1].
+</p>
+Ref:</br>
+[1] Creek DJ, Jankevics A, Breitling R, Watson DG, Barrett MP, Burgess KE. Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: improved metabolite identification by retention time prediction. Anal Chem. 2011 Nov 15;83(22):8703-10. doi:10.1021/ac2021823. PMID:21928819</br>"	"A Thermo Scientific Q-Exactive Orbitrap mass spectrometer equipped with a HESI II interface (Thermo Scientific, Hemel Hempstead, UK). Thermo Xcalibur Tune software (version 2.5) was used for instrument control and data acquisition.
+</p>
+Combined Fragmentation Mode Top10:</br>
+A duty cycle consisted of a full scan in positive ionization mode, followed by a TopN MS/MS (MS2) data dependent fragmentation event, taking the 10 most abundant ion species not on the dynamic exclusion list, followed by the same two scan events in negative ionization mode. Data acquisition was carried out in positive (+) and negative (-) switching ionization mode, using m/z 74.0964 (+) (ACN cluster), 88.07569 (+) (contaminant), and m/z 112.98563 (-) (Formic Acid cluster) as locking masses. The set up was calibrated [Thermo calmix, with additional masses at lower m/z; 74.0964 m/z (+) and 89.0244 (-)] in both ionization modes before analysis and a tune file targeted towards the lower m/z range was used.
+</p>
+Unless specified, in both ionization modes full scan (MS1) data was acquired in profile mode at 35,000 resolution using 1 microscan, an AGC target of 1.0 x 10^6 cts, a maximum injection time of 120 ms, with spray voltages +3.8 kV and -3.0 kV, capillary temperature 320 °C, sheath gas flow rate 40, auxiliary gas flow rate 15 a.u., sweep gas flow rate 1 a.u, and a full scan mass window of 70–1050 m/z.
+</p>
+MS/MS (MS2) data was acquired in profile mode at 35,000 resolution using 1 microscan, an AGC target of 1.0 x 10^5 cts, a maximum injection time of 120 ms, a loop count of 10, a MSX count of 1, a TopN of 10, an isolation window of 1.0 Da, an isolation offset of 0.0 Da, a stepped normalized collision energy (NCE) higher collision dissociation (HCD) mode combining 25.2, 60.0, and 94.8 NCEs into one fragmentation scan, an underfill ratio of 20%, an intensity threshold of 1.7 x 10^5  cts, and the dynamic exclusion was set to 15 s. Further settings were: no apex trigger, no charge exclusion, peptide match was off, exclude isotopes was on, and if idle, the machine did not pick up other ions.
+</p>
+Combined Fragmentation Mode Top5:</br>
+As for the combined files (see above), with the following modifications: MS/MS (MS2) TopN was set to 5.
+</p>
+Separate Fragmentation mode - Negative Ionization Mode</p>
+As for the combined files (see above), data acquisition was carried out in negative (-) ionization mode with the following modifications: full scan (MS1) resolution was set to 70,000, MS/MS (MS2) resolution was set to 17,500, MS/MS maximum injection time was set to 80 ms and the underfill ratio set to 10%, with a resulting intensity threshold of 1.3 x 10^5 cts. The duty cycle consisted of one full scan (MS1) event and one Top10 MS/MS (MS2) fragmentation event.
+</p>
+Separate Fragmentation mode - Positive Ionization Mode</p>
+As for the combined files (see above), data acquisition was carried out in positive (+) ionization mode with the following modifications: full scan (MS1) resolution was set to 70,000, MS/MS (MS2) resolution was set to 17,500, MS/MS maximum injection time was set to 80 ms and the underfill ratio set to 10%, with a resulting intensity threshold of 1.3 x 10^5 cts. The duty cycle consisted of one full scan (MS1) event and one Top10 MS/MS (MS2) fragmentation event.
+</p>
+Combined Full Scan Mode:</br>
+As for the combined files (see above), with the following modifications: full scan (MS1) resolution was set to 70,000. The duty cycle consisted of two full scan (MS1) events."	"Immediately after acquisition, all .raw files were converted into mzXML format, thereby centroiding the mass spectra and separating positive and negative ionization mode spectra into two different mzXML files using the command line version of MSconvert (ProteoWizard).
+</p>
+In order to perform molecular networking analysis[1][2], the mzXML files were uploaded into the Global Natural Products Social Molecular Networking (GNPS) environment (http://gnps.ucsd.edu) a free account is needed to log in) using an FTP server (FileZilla, version 3.10.1.1). Parameter optimization for molecular network generation for the high-resolution mass spectrometry data sets resulted in the following settings. The data was clustered with MS-Cluster with a parent mass tolerance of 0.25 Da and a MS/MS fragment ion tolerance of 0.005 Da to create consensus spectra. Then, consensus spectra that contained less than 2 spectra were discarded. A network was created where edges were filtered to have a cosine score above 0.55 and 2 or more matched peaks. Further edges between two nodes were kept in the network only if each of the nodes appeared in each other's respective top 10 most similar nodes. The spectra in the network were then searched against the GNPS spectral libraries. The library spectra were filtered in the same manner as the input data. All matches kept between network spectra and library spectra were required to have a cosine score above 0.6 and at least 4 matched peaks. Analog search was enabled against the library with a maximum mass shift of 100.0 Da. All parameters and their values used can be found in Supporting Table S2 in the Supplementary Material of the paper associated with this study.
+</p> 
+Running times were under 15 min for both combined and single mode fragmentation files. Cytoscape, network visualization software (http://www.cytoscape.org/), was then used to further process and visualize the downloaded molecular network data. The recommended graphical layout style is FM3 which is available for Cytoscape versions 2.8.1 and below. Thus, the molecular network was uploaded into Cytoscape (version 2.8.1) following the documentation available on the GNPS website. After applying the FM3 layout plugin, the molecular network was saved in .cys format (Cytoscape Session File) and reopened in Cytoscape version 3.2.0, where labelling and colouring of nodes and edges was conducted. Most importantly, the nodes were labelled with precursor masses, and coloured such that 2 nodes have the same colour when they are present in the same set of files (using the rainbow pallet), and accordingly, 2 nodes having similar colours means that they are present in a similar set of files, often differing in 1 or 2 files). Finally, the size of the nodes was made proportional to the number of unique files from where the node spectra originated, i.e., the larger the node, the more unique files its spectra originated from. The edges were labelled with the mass differences between the two nodes they connect. The resulting molecular networks for the combined and separate fragmentation modes were then inspected in the Cytoscape environment.[1][2]
+</p>
+Ref:</br>
+[1] Yang, J. Y., Sanchez, L. M., Rath, C. M., Liu, X., Boudreau, P. D., Bruns, N., et al. (2013). Molecular Networking as a Dereplication Strategy. Journal of Natural Products, 76(9), 1686-1699, doi:10.1021/np400413s.</br>
+[2] Watrous, J., Roach, P., Alexandrov, T., Heath, B. S., Yang, J. Y., Kersten, R. D., et al. (2012). Mass spectral molecular networking of living microbial colonies. Proceedings of the National Academy of Sciences, 109(26), E1743-E1752, doi:10.1073/pnas.1203689109.</br>"	"Molecular Network inspection:</br> 
+The resulting molecular network was checked by initial library matches to the drugs present in the databases within the GNPS environment. Networks or clusters containing drug annotations were then selected and the individual nodes and edges were inspected, as well as the network topology. This was followed by cluster annotation.
+</p>
+Cluster annotation:</br>  
+Networks or clusters with one or more 'seed nodes' were annotated using the library matching of GNPS as a starting point. Clusters with a topology similar to the seven 'GNPS-annotated drug clusters' were annotated using spectral search in MzCloud of the most MS2 spectrum belonging to the node represented in the most different urine extracts. In addition, MAGMa was used to generate potential candidates if no successful spectral match was found. Endogenous urinary metabolite networks were annotated based on 'seed node annotations' or spectral matching of node spectra to MzCloud. Since the primary aim of this manuscript was to examine drug metabolites in the urine extracts, no further individual annotations on endogenous clusters were conducted.
+</p>
+Validation of Molecular Nodes:</br>
+A node in the molecular network is a set of MS2 spectra each with a cosine similarity score of 0.95 or higher to each other[1]; hence, this means that spectra of several isomers or very related compounds could be combined in one node. If such a situation occurs, the retention time associated with node will become the average RT of the different MS2 spectra associated and as a result will have a relatively large retention time deviation recorded for it. In addition, nodes can represent isotopes, fragments, or adducts of 'real metabolites', as no feature grouping is currently performed during the molecular networking. Thus, the nodes in the cluster need to be validated in the raw data by checking how many metabolites the node represents. Additionally, the most likely elemental formula was assigned and a theoretical mass was determined. Then, based on the validated metabolite spectra, recurring fragments were noted (see Supporting Table 4 of the paper associated with this study) and used to mine the urine extracts by extracted ion chromatograms of those fragment masses. If they co-occurred in the spectrum, the precursor ion mass was checked against the list of already annotated metabolites - and added if it was absent. All drug related networks or clusters prior to validation are presented in the Supporting Information of the paper associated with this study (see Section 2 in Supplementary Materials, Supporting Figures S2 - S15); in the other figures the nodes representing non-drug metabolites (e.g. isotopes or fragments of other nodes) were omitted from the network and colours and labelling were adapted to improve readability.
+</p>
+Metabolite Annotation:</br>
+The drug metabolites were annotated using the library matching, MzCloud database, and by searching for existing drug spectra in Massbank of North America (MoNa, http://mona.fiehnlab.ucdavis.edu).  Metabolite annotations are reported according to the Metabolomics Standards Initiative (MSI) metabolite identification (MI) levels: 1 for unambiguously identified, 2 for a spectral or literature match,  3 for a metabolite classification, 4 for metabolites that can be characterized by a retention time, mass, and fragmentation spectra if available[2]. Thus, if a reliable spectral match was found, the identification level was recorded as 2, if no match was found but a plausible elemental formula, drug specific fragments, and a likely annotation could be assigned, i.e., hydroxylated form of parent drug, the identification level was put to 3. MSI MI level 4 was given to those metabolites where the drug specific mass fragments were present, but no likely elemental formula or annotation could be assigned, or where the recurring fragments could not be assigned to a core structure. All structural information obtained was recorded in Supporting Table S3 in the Supplementary Materials of the paper associated with this study.
+</p>
+Ref:</br>
+[1] Yang, J. Y., Sanchez, L. M., Rath, C. M., Liu, X., Boudreau, P. D., Bruns, N., et al. (2013). Molecular Networking as a Dereplication Strategy. Journal of Natural Products, 76(9), 1686-1699, doi:10.1021/np400413s.</br>
+[2] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"van der Hooft"	"Burgess"	"Barrett"	"Padmanabhan"
+Study Person First Name	"Justin"	"Karl"	"Michael"	"Sandosh"
+Study Person Mid Initials	"J.J."	"E.V."	"P."	""
+Study Person Email	"justin.vanderhooft@glasgow.ac.uk"	"karl.burgess@glasgow.ac.uk"	"michael.barrett@glasgow.ac.uk"	"sandosh.padmanabhan@glasgow.ac.uk"
+Study Person Phone	"+441413302500"	"+441413308746"	"+441413306904"	"+441413302228"
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Glasgow Polyomics, College of Medical, Veterinary and Life Sciences, University of Glasgow"	"Glasgow Polyomics, College of Medical, Veterinary and Life Sciences, University of Glasgow"	"Glasgow Polyomics, College of Medical, Veterinary and Life Sciences, University of Glasgow"	"Institute of Cardiovascular and Medical Sciences, University of Glasgow"
+Study Person Roles	"Postdoc"	"lecturer"	"professor"	"professor"
+Study Person Roles Term Accession Number	"http://vivoweb.org/ontology/core#Postdoc"	"http://purl.obolibrary.org/obo/RoleO_0000280"	"http://purl.obolibrary.org/obo/RoleO_0000434"	"http://purl.obolibrary.org/obo/RoleO_0000434"
+Study Person Roles Term Source REF	"VIVO"	"ROLEO"	"ROLEO"	"ROLEO"

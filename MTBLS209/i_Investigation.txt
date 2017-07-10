@@ -1,0 +1,116 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"BTO"	"MS"	"CHMO"	"NCIT"	"ERO"	"EFO"	"LOINC"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/ERO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/LOINC"	
+Term Source Version	"22"	"2"	"22"	"86"	"18"	"44"	"13"	"146"	"6"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Eagle-I Research Resource Ontology"	"Experimental Factor Ontology"	"Logical Observation Identifier Names and Codes"	
+INVESTIGATION
+Investigation Identifier	"MTBLS209"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS209"
+Study Title	"The measurement of spatial distribution of grape metabolites in berry tissues using LC-MS"
+Study Description	"The study aims to describe the differential spatial distrubution of secondary metabolites in different grape species,. The aims is to describe the characteristics that differentiate wild grapes from good quality vinifera grapes, understand the limits and advantages from both classes."
+Study Submission Date	"2015-06-20"
+Study Public Release Date	"2015-12-10"
+Study File Name	"s_skin_pulp_seed Grape.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"grape metabolome"	"metabolomic profiling"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	""	"EFO"	"CHMO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""	""	""
+Study Publication DOI	"10.1007/s11306-011-0298-z"	"10.1007/s11306-014-0638-x "	"10.1016/j.foodchem.2010.10.102"
+Study Publication Author List	"Georgios Theodoridis, Helen Gika, Pietro Franceschi, Lorenzo Caputi, Panagiotis Arapitsas, Mattias Scholz, Domenico Masuero, Ron Wehrens, Urska Vrhovsek, Fulvio Mattivi"	"Panagiotis Arapitsas, Giuseppe Speri, Andrea Angeli, Daniele Perenzoni and Fulvio Mattivi"	"Eliana Fortes Gris, Fulvio Mattivi, Eduardo Antonio Ferreira, Urska Vrhovsek, Rozangela Curi Pedrosa,
+Marilde T. Bordignon-Luiz"
+Study Publication Title	"LC-MS based global metabolite profiling of grapes: solvent extraction protocol optimisation"	"The influence of storage on the 'chemical age' of red wines."	"Proanthocyanidin profile and antioxidant capacity of Brazilian Vitis vinifera red wines"
+Study Publication Status	"Published"	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""	""
+Study Publication Status Term Source REF	""	""	""
+STUDY FACTORS
+Study Factor Name	"tissue"	"species"	"domestication"
+Study Factor Type	"Tissue"	"species design"	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://www.ebi.ac.uk/efo/EFO_0001753"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_TARG_skin_pulp_seed_grape_mass_spectrometry.txt"	"a_UNTARG_NEG_skin_pulp_seed_grape_mass_spectrometry.txt"	"a_UNTARG_POS_skin_pulp_seed_grape_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo TQ MS (Waters)"	"SYNAPT MS (Waters)"	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All grape berry samples were collected when they reached 18 brix. They were immediately frozen and stored at -80 °C. The skin, pulp and seeds were manually separated and ground under liquid nitrogen and stored at -80 °C up to extraction."	"All the samples were extracted using a the method of [1] slightly modified. 0.5 g of grape tissue was extracted in 2 ml of methanol/water/chloroform solvents in a ratio 40/20/40 respectively. The samples were agitated for 1 min in vortex, 15 min in an orbital shaker and sonicated for 30 min at room temperature. The samples were then centrifuged at 5000 rpm for 5 min at 5 °C, the upper methanolic/water phase was collected, filtered through 0.22 µm Whatman filters and analyzed by LC-MS.
+</p>
+Ref:</br>
+[1] Georgios Theodoridis, Helen Gika, Pietro Franceschi, Lorenzo Caputi, Panagiotis Arapitsas, Mattias Scholz, Domenico Masuero, Ron Wehrens, Urska Vrhovsek, Fulvio Mattivi. LC-MS based global metabolite profiling of grapes: solvent extraction protocol optimisation. Metabolomics (2012) 8:175–185 doi:10.1007/s11306-011-0298-z</br>"	"Targeted:</br>
+We used the same method of [1] slightly modified to adapt it to UPLC column. A Waters Acquity UPLC coupled via an electrospray ionization (ESI) interface to a Xevo TQ MS (Waters, Manchester, UK). Samples were analysed on a reversed phase (RP) ACQUITY UPLC 1.8 µm 2.1 x 150 mm C18 column (Waters) at 40 °C during the analysis. Water with 0.1% formic acid (eluent A) and acetonitrile with 0.1% FA (eluent B). The gradient was as follows: starting from 95% of A, to 20% of B in 3 min; isocratic flow up to 4.3 min, and then ramping to 45% of B at 9 min. Then 100% of B at 11 min, holding up to 13 min, and then returning to the initial conditions of 95% of A for a total run of 17 min.
+</p>
+Untargeted:</br>
+We used the same method of [2]. A Waters Acquity UPLC coupled via an electrospray ionization (ESI) interface to a Synapt HDMS QTOF MS (Waters, Manchester, UK) operating in W-mode and controlled by MassLynx 4.1 was used. Samples were analysed on a reversed phase (RP) ACQUITY UPLC 1.8 µm 2.1 x 150 mm HSS T3 column (Waters) protected with an Acquity UPLC® BEH HSS T3 1.8 µm, 2.1 x 5 mm precolumn (Waters), at 40 °C during the analysis. Flow rate = 0.28 ml/min. Gredient: Total run = 28 min. Start with 100% eluent A (H2O 0.1% Formic acid), switch to 10% eluent B at 1.5 min (MeOH 0.1% Formic acid), up to 40% B in 18 min, then up to 100% B at 21 min, 100% B up to 25.5 min, then back to 100% A to requilibrate the column.
+</p>
+Ref:</br>
+[1] Eliana Fortes Gris, Fulvio Mattivi, Eduardo Antonio Ferreira, Urska Vrhovsek, Rozangela Curi Pedrosa, Marilde T. Bordignon-Luiz. Proanthocyanidin profile and antioxidant capacity of Brazilian Vitis vinifera red wines. Food Chemistry (2011) 126:213-220. doi:10.1016/j.foodchem.2010.10.102</br>
+[2] Panagiotis Arapitsas, Giuseppe Speri, Andrea Angeli, Daniele Perenzoni and Fulvio Mattivi. The influence of storage on the 'chemical age' of red wines. Metabolomics (2014) 10:816–832. doi:10.1007/s11306-014-0638-x</br>"	"Targeted:</br>
+We used the same method of [1]. Mass spectrometry instrument used was TQ-MS (ESI-QqQ-MS) WATERS. We targeted the signals of catechin, epicatechin, gallocatechin, epigallocatechin, epicatechin-gallate, epigallo-catechin-gallate, Procyanidin B1, and Procyanidin B2. Furthermore, we targeted the resullting products of the phloroglucinolysis (PHL) assay: catechin-PHL, epicatechin-PHL, epicatechin-gallate-PHL, epigallocatechin-PHL.
+</p>
+Untargeted:</br>
+We used the same method of [2]. Mass spectrometry instrument used was Synapt HDMS QTOF-MS (ESI-Q-TOF-MS) WATERS. Spectra were collected in positive ESI mode over a mass range of 50–2000 amu with a scan duration of 0.3 s in centroid mode. The transfer collision energy and trap collision energy were set at 6 and 4 V. The source parameters were set as follows: capillary 3 kV, sampling cone 25 V, extraction cone 3 V, source temperature 150°C, desolvation temperature 500 °C, desolvation gas flow 1000 l/h and nebulizer gas 50 l/h. External calibration with sodium formate and Lock Mass calibration with leucine enkephaline solution (0.5 mg/l, m/z 556.2771 at 0.1 ml/min) was applied.
+</p>
+Ref:</br>
+[1] Eliana Fortes Gris, Fulvio Mattivi, Eduardo Antonio Ferreira, Urska Vrhovsek, Rozangela Curi Pedrosa, Marilde T. Bordignon-Luiz. Proanthocyanidin profile and antioxidant capacity of Brazilian Vitis vinifera red wines. Food Chemistry (2011) 126:213-220. doi:10.1016/j.foodchem.2010.10.102</br>
+[2] Georgios Theodoridis, Helen Gika, Pietro Franceschi, Lorenzo Caputi, Panagiotis Arapitsas, Mattias Scholz, Domenico Masuero, Ron Wehrens, Urska Vrhovsek, Fulvio Mattivi. LC-MS based global metabolite profiling of grapes: solvent extraction protocol optimisation. Metabolomics (2012) 8:175–185 doi:10.1007/s11306-011-0298-z</br>"	"Databridge (WATERS) was used to convert the raw data files into netCDF."	"The same quantification method described by [1] was used. MSI level 1 of identification was achieved injecting pure chemical standards under the same analytical conditions. MSI level 2 and 3 were achieved through formula calculation, MS/MS spectra acquisition and quering in MetFRAG or MetFursion.
+</p>
+Ref:</br>
+[1] Eliana Fortes Gris, Fulvio Mattivi, Eduardo Antonio Ferreira, Urska Vrhovsek, Rozangela Curi Pedrosa, Marilde T. Bordignon-Luiz. Proanthocyanidin profile and antioxidant capacity of Brazilian Vitis vinifera red wines. Food Chemistry (2011) 126:213-220. doi:10.1016/j.foodchem.2010.10.102</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Column type;Column model"	"Mass analyzer;Ion source;Instrument;Scan m/z range;Scan polarity"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Narduzzi"
+Study Person First Name	"Luca"
+Study Person Mid Initials	""
+Study Person Email	"luca.narduzzi@fmach.it"
+Study Person Phone	"+390461615332"
+Study Person Fax	""
+Study Person Address	"via E.mach, 1, San Michele all'Adige (TN) Italy"
+Study Person Affiliation	"Fondazione Edmund Mach; University degli studi di Trento"
+Study Person Roles	"Ph.D. candidate"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

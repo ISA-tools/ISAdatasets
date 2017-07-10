@@ -1,0 +1,131 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CHMO"	"PLOSTHES"	"MS"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/PLOSTHES"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"4"	"18"	"5"	"129"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"PLOS Thesaurus"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS272"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS272"
+Study Title	"The Lipopolysaccharide-Induced Metabolome Signature in Arabidopsis thaliana Reveals Dynamic Reprogramming of Phytoalexin and Phytoanticipin Pathways"
+Study Description	"Lipopolysaccharides (LPSs), as MAMP molecules, trigger the activation of signal transduction pathways involved in defence. Currently, plant metabolomics is providing new dimensions into understanding the intracellular adaptive responses to external stimuli. The effect of LPS on the metabolomes of Arabidopsis thaliana cells and leaf tissue was investigated over a 24 h period. Cellular metabolites and those secreted into the medium were extracted with methanol and liquid chromatography coupled to mass spectrometry was used for quantitative and qualitative analyses. Multivariate statistical data analyses were used to extract interpretable information from the generated multidimensional LC-MS data. The results show that LPS perception triggered differential changes in the metabolomes of cells and leaves, leading to variation in the biosynthesis of specialised secondary metabolites. Time-dependent changes in metabolite profiles were observed and biomarkers associated with the LPS-induced response were tentatively identified. These include the phytohormones salicylic acid and jasmonic acid, and also the associated methyl esters and sugar conjugates. The induced defensive state resulted in increases in indole-and other glucosinolates, indole derivatives, camalexin as well as cinnamic acid derivatives and other phenylpropanoids. These annotated metabolites indicate dynamic reprogramming of metabolic pathways that are functionally related towards creating an enhanced defensive capacity. The results reveal new insights into the mode of action of LPS as an activator of plant innate immunity, broadens knowledge about the defence metabolite pathways involved in Arabidopsis responses to LPS, and identifies specialised metabolites of functional importance that can be employed to enhance immunity against pathogen infection."
+Study Submission Date	"2015-11-06"
+Study Public Release Date	"2016-11-06"
+Study File Name	"s_mtbls272.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"metabolomic profiling"	"ultra-performance liquid chromatography-mass spectrometry"	"camalexin"	"glucosinolate"	"lipopolysaccharide"	"Multivariate data analysis"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_22990"	"http://purl.obolibrary.org/obo/CHEBI_24279"	"http://purl.obolibrary.org/obo/CHEBI_16412"	"http://journals.plos.org/plosone/browse/#6477"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"EFO"	"CHMO"	"CHEBI"	"CHEBI"	"CHEBI"	"PLOSTHES"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27656890"
+Study Publication DOI	"10.1371/journal.pone.0163572"
+Study Publication Author List	"Finnegan T, Steenkamp PA, Piater LA, Dubery IA."
+Study Publication Title	"The Lipopolysaccharide-Induced Metabolome Signature in Arabidopsis thaliana Reveals Dynamic Reprogramming of Phytoalexin and Phytoanticipin Pathways."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Time"	"Experimental groups"
+Study Factor Type	"treatment"	"timepoint"	"concentration"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://purl.obolibrary.org/obo/CHMO_0002820"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"CHMO"
+STUDY ASSAYS
+Study Assay File Name	"a_POS_LC_mass_spectrometry.txt"	"a_NEG_LC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A. thaliana (ecotype Columbia, Col-0) callus cultures were initiated and grown as previously described[1]. Cells were subcultured onto fresh Murashige and Skoog (MS) agar medium[2] containing 3% sucrose (w/v), 0.8% agar (w/v), 2 mg/ml 2,4-dichlorophenoxyacetic acid, 100 mg/ml myoinositol and B5 vitamins, every 14 days. Plants were grown in germination mix soil (Culterra, Muldersdrif, South Africa) at 23 °C, 50% humidity, and 60 µmol/m^2/sec fluorescent illumination in a 12 h light/12 h dark cycle. 6 week old plants were used for experiments.
+</p>
+Cells (50 g) were transferred to MS basal salts medium containing LPS (80 µg/ml) in an 1:1.5 m/v ratio, transferred to Falcon tubes and gently mixed to form a suspension. The cell suspensions were divided into 4 equal aliquots for different time points and kept at 25 °C under constant agitation to ensure aerobic conditions. A treatment time study of 8, 12 and 24 h was conducted, and 24 h non-treated cells were used as a negative control. Cell viability–and cell permeability assays were conducted using the triphenyltetrazolium reduction and Evan’s Blue dye uptake methods respectively[3], and did not reveal any detrimental effects of the LPS treatment.
+</p>
+For Arabidopsis leaf elicitation, LPS was dissolved in sterile 10 mM MgSO4 to give a final concentration of 80 µg/ml. Arabidopsis plants were treated with the LPS solution by pressure infiltration into the leaves using a blunt-ended syringe. A MgSO4-control and non-treated (NT) control were included in the experiments. Following elicitation, 4 leaves were cut from 3 different plants (constituting 1 biological replicate) for the extraction procedure.
+</p>
+Subsequent to optimisation of conditions, each facet of the experimental design was repeated at least 3 times. Extracts generated from the various experimental treatments were analysed in triplicate (n = 9).
+</p>
+Ref:</br>
+[1] Huang J-C, Piater LA, Dubery IA. The NAC transcription factor gene ANAC072 is differentially expressed in Arabidopsis thaliana in response to microbe-associated molecular pattern (MAMP) molecules. Physiol. Mol. Plant Pathol. 2012; 80: 19–27. doi:10.1016/j.pmpp.2012.07.002.</br>
+[2] Murashige T, Skoog F. A revised medium for rapid growth and bio-assays with tobacco tissue cultures. Physiol. Plant. 1962; 15: 473–497. doi:10.1111/j.1399-3054.1962.tb08052.x</br>
+[3] Coventry HS, Dubery IA. Lipopolysaccharides from Burkholderia cepacia contribute to an enhanced defensive capacity and the induction of pathogenesis-related proteins in Nicotiana tabacum. Physiol. Molec. Plant Pathol. 2001; 58: 149–158.</br>"	"A methanol-based extraction[1] for polar and semi-polar metabolites was used to isolate metabolites from cells, culture medium and leaf tissue. For rapid quenching of enzyme activity, especially that of myrosinase, hot methanol (55 °C) was used to prevent degradation of GSs[2].
+</p>
+Extractions were carried out at 8, 12 and 24 h post-treatment respectively. Cell suspensions (20 ml) were centrifuged at 15 000 x g for 15 min, and the supernatants carefully removed and transferred to new 50 ml Falcon tubes. These supernatants, representative of the ‘culture medium’ and containing secreted metabolites, were snap frozen in liquid nitrogen and lyophilised before extraction with methanol. The pellets remaining after centrifugation of the cell suspensions (10 g) were re-suspended in HPLC-grade methanol (1:1.5 m/v), homogenised for 2 min using an Ultraturrax homogenizer (IKA, Staufen, Germany), and centrifuged at 15 000 x g for 15 min. The resulting supernatants were collected in new 50 ml Falcon tubes and represented the ‘cell’ fraction. The above extraction protocol was repeated twice and supernatants combined. Extracts were evaporated to 1 ml at 52 °C using rotary evaporation under vacuum and the remaining water removed by lyophilization. For both cell- and medium samples, the residues were re-suspended in 2 ml 50% HPLC-grade methanol. The mixtures were vortexed for 30 s and centrifuged at 6000 x g for 10 min at 25 °C. The supernatants were removed using a syringe and filtered through 0.22 µm nylon syringe filters into glass vials for analyses.
+</p>
+Leaves were cut and 3–5 g transferred to sterile 50 ml Falcon tubes, covered with 80% methanol (1:1 m/v) and homogenised for 3 min. The homogenates were centrifuged for 15 min at 15 000 x g and supernatants collected into new Falcon tubes. Methanol was evaporated to 1 ml at 52 °C using a rotary evaporator. The residues were then re-suspended in 2 ml 50% HPLC grade methanol and filtered through 0.22 µm syringe filters into glass vials.
+</p>
+Ref:</br>
+[1] Tugizimana F, Steenkamp PA, Piater LA, Dubery IA. Multi-platform metabolomic analyses of ergosterol-induced dynamic changes in Nicotiana tabacum cells. PLoS ONE 2014; 9(1): e87846 doi: 10.1371/journal.pone.0087846. PMID:24498209</br>
+[2] Kiddle G, Bennett RN, Botting NP, Davidson NE, Robertson AAB, Wallsgrove RM. High-performance liquid chromatographic separation of natural and synthetic desulphoglucosinolates and their chemical validation by UV, NMR and chemical ionisation-MS methods. Phytochem. Anal. 2001; 12: 226–242. doi:10.1002/pca.589. PMID:11705329</br>"	"UHPLC-qTOF-MS analyses were performed on a Waters Acquity UHPLC (class ‘Classic’) coupled in tandem to a Waters photodiode array (PDA) detector and a SYNAPT G1 qTOF-mass spectrometer (Waters Corporation, Milford, MA, USA). Chromatographic separation of the metabolites was carried out using a Waters HSS T3 column (150 x 2.1 mm), able to separate both polar and non-polar analytes. A binary solvent mixture of water containing 0.1% formic acid (solvent A) and acetonitrile containing 0.1% formic acid (solvent B) at a flow rate of 0.4 ml/min was used with an injection volume of 5 µl. A gradient protocol with a flow rate of 0.4 ml/min was used. The gradient was set as follows: 5% B over 0.0–1.0 min, 5–90% B over 1.0–10 min, held constant at 90% B over 10.00–12.00 min, and decreasing from 90% to 5% B over 13.00–15.00 min to return to the initial conditions. The PDA detector was set to scan between 200 and 500 nm (1.2 nm resolution) collecting 20 spectra/s. A quality control sample consisting of pooled extracts was used to monitor system stability and Rt reproducibility (technical precision), and was injected every 10 runs."	"The SYNAPT G1 qTOF-mass spectrometer was operated in both positive and negative modes to detect all metabolites of interest. Leucine enkephalin (50 pg/ml) was used as the reference calibrant to obtain typical mass accuracies of between 1 and 3 mDa. A capillary voltage of 2.0 kV with a sampling- and extraction cone voltage of 30.0 V and 4.0 V was used respectively. The scan time was 0.1 s covering a mass range of 100 to 1000 Da. The source temperature was 120 °C and the desolvation temperature was set at 400 °C. Nitrogen gas was used as the nebulisation gas at a flow rate of 800 l/h. Each sample was analysed in triplicate in a randomised manner.
+</p>
+The MS data was acquired in (MSE) mode (a function of the collision cell that alternates between low and high energy states to generate sequential unfragmented and in-source generated fragments) to assist with the annotation and identification of the biomarkers. Here, the MS experiment file was setup to perform unfragmented as well as five fragmenting experiments simultaneously. Ion fragmentation was performed by in-source collision energy ramping (3 eV—30 eV).
+</p>
+Tandem mass spectrometry (MS/MS) analyses were carried out on selected identified biomarkers in order to provide structural information about the compounds of interest, thereby providing an increased level of confidence in the metabolite annotations."	"ESI positive and negative raw data were extracted using MassLynx XSTM software and analysed with the MarkerLynxTM software (Waters Corporation, Manchester, UK). The parameters were set to analyse the 1–13 min retention time (Rt) range of the chromatograms, mass range 100–1000 Da, mass tolerance 0.01 Da, mass window 0.05 Da and a Rt window of 0.20 min.
+</p>
+Following MarkerLynxTM processing, the data matrix was exported into SIMCA-P (Soft independent modelling of class analogy) software, version 12 (Umetrics Corporation, Umea, Sweden), and Pareto scaled for principal component analysis (PCA) and orthogonal projection to latent structures discriminant analysis (OPLS-DA) modelling."	"Following separation and detection on the UHPLC-qTOF-MS SYNAPT G1, MassLynxTM software was used for analysis of the raw mass spectral data to compute molecular formulae for peaks of interest. The OPLS-DA S-plots were used for prioritising to-be-annotated metabolites that contributed to clustering of samples seen in the PCA plots. The S-plot gives a visual representation of the covariance and correlation from the OPLS-DA scatter plot. From these S-plots, lists of statistically significant and reliable signatory biomarkers were obtained, and putatively annotated according to the Metabolomic Standards Initiative (MSI), level 2[1].
+</p>
+The molecular formulae of the pseudo-molecular ions ([M-H]- or ([M+H]+) representing possible biomarkers were computed and selected based on the criterion that the mass difference between the measured and calculated mass was at/or below 5 mDa. In addition, a number of parameters, including isotopic fit (iFit) and double bond equivalent (DBE) values, were taken into account in order to increase the level of confidence in the molecular formulae obtained. The elemental composition was then searched against online libraries/databases: Dictionary of Natural Products (DNP) (dnp.chemnetbase.com), PubChem (www.pubchem.ncbi.nlm.nih.gov), Chemspider (www.chemspider.com), AraCyc (www.arabidopsis.org/tools/aracyc), PlantCyc (www.plantcyc.org), MetaCyc (www.metaCyc.org), KEGG (www.genome.jp/kegg), Metabolomics workbench (http://www.metabolomicsworkbench.org) and METLIN (metlin.scripps.edu). Moreover, annotation was based on interpretation of mass fragmentation patterns, MS/MS spectra, mass spectral library searches as well as published literature and datasets[2].
+</p>
+MarkerLynxTM software (Waters Corporation, Manchester, UK) was employed to process and analyse the MS/MS raw data for metabolite identification and structural characterisation. The MarkerLynxTM ‘MassFragment’ tool was used to allocate structures to the fragment ions observed in the LC/MS/MS tandem mass spectra by applying an in silico fragmentation algorithm to known precursor structures[3]. The structures of the various fragment ions were then compared to the fragmentation patterns observed in the MS/MS spectra and a putative identification was made.
+</p>
+Another tool employed in the study for metabolite annotation/putative identification was the PUTMEDID_LC-MS workflow[4][5] that operates on the Taverna workbench (http://www.taverna.org.uk). Putative identification was based on accurate mass data. The data matrix files obtained on the MarkerLynx XSTM software were converted to a version compatible for the PUTMEDID_LC-MS workflow. In workflow 1, a list of pairwise peak correlations were compiled for input into workflow 2. Different ion types of the same metabolite which share similar features (such as Rt and mass differences) were grouped together using basic correlation coefficients such as Pearson or Spearman algorithms (workflow 2). Each accurate m/z was then matched to an accurate mass of a neutral compound (reference file) and an elemental composition was calculated (workflow 2)[5]. Lastly, the molecular formulae were searched against accessible online databases/libraries (mentioned above) for identification of metabolites, and a putative identification was made (www.mcisb.org/resources/putmedid.html).
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA. et al. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group CAWG) Metabolomics Standards Initiative (MSI). Metabolomics 2007; 3: 211–221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>
+[2] Clarke DB. Glucosinolates, structures and analysis in food. Anal. Meth. 2010; 2: 310–325.</br>
+[3] Yu K, Castro-Perez J, Shockcor J. MassFragment for structural elucidation in metabolite identification using exact mass MS Application note 720002572EN LB-KP. Waters Corporation, Milford, MA, USA, 2008.</br>
+[4] Tugizimana F, Steenkamp PA, Piater LA, Dubery IA. Multi-platform metabolomic analyses of ergosterol-induced dynamic changes in Nicotiana tabacum cells. PLoS ONE 2014; 9(1): e87846 doi: 10.1371/journal.pone.0087846. PMID:24498209</br>
+[5] Brown M, Wedge DC, Goodacre R, Kell DB, Baker PN, Kenny LC, Mamas MA, Neyses L, Dunn WB. Automated workflows for accurate mass-based putative metabolite identification in LC/MS-derived metabolomic datasets. Bioinformatics 2011; 27: 1108–1112. doi:10.1093/bioinformatics/btr079. PMID:21325300</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Finnegan"	"Steenkamp"	"Piater"	"Tugizimana"	"Dubery"
+Study Person First Name	"Tarryn"	"Paul"	"Lizelle"	"Fidele"	"Ian"
+Study Person Mid Initials	""	"A."	"A."	""	"A."
+Study Person Email	"tarrynfinnegan@gmail.com"	"psteenkamp@csir.co.za"	"lpiater@uj.ac.za"	"fideletu@gmail.com"	"idubery@uj.ac.za"
+Study Person Phone	"+27 11 559 2402"	"+27 12 841 4730"	"+27 11 559 2403"	"+27 11 559 2402"	"+27 11 559 2401"
+Study Person Fax	"+27 11 559 2605"	"+27 12 841 4790"	"+27 11 559 2605"	"+27 11 559 2605"	"+27 11 559 2605"
+Study Person Address	"Department of Biochemistry at the University of Johannesburg, Auckland Park, 2006 South Africa"	"CSIR Bioscience, Meiring Naude road, Brummeria, Pretoria,  0001 South Africa"	"Department of Biochemistry at the University of Johannesburg, Auckland Park, 2006 South Africa"	"Department of Biochemistry at the University of Johannesburg, Auckland Park, 2006 South Africa"	"Department of Biochemistry at the University of Johannesburg, Auckland Park, 2006 South Africa"
+Study Person Affiliation	"Univerity of Johannesburg, South Africa"	"University of Johannesburg and CSIR Biosciences"	"University of Johannesburg, South Africa"	"Universit of Johannesburg, South Africa"	"University of Johannesburg, South Africa"
+Study Person Roles	"Experiments, data analysis, manuscript preparation"	"sample analysis (UPLC-MS)"	"manuscript preparation"	"Data analysis"	"Study design, overseeing study, manuscript preparation"
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

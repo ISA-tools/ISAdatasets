@@ -1,0 +1,125 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"CHMO"	"NCIT"	"BTO"	"UO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"103"	"22"	"4"	"18"	"44"	"26"	"43"	"113"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS148"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS148"
+Study Title	"Impact of collection conditions on the metabolite content of human urine samples as analyzed by liquid chromatography coupled to mass spectrometry and nuclear magnetic resonance spectroscopy (LC-MS assay)"
+Study Description	"There is a lack of comprehensive studies documenting the impact of sample collection conditions on metabolic composition of human urine. To address this issue, two experiments were performed at a three-month interval, in which midstream urine samples from healthy individuals were collected, pooled, divided into several aliquots and kept under specific conditions (room temperature, 4 °C, with or without preservative) up to 72 h before storage at -80 °C. Samples were analyzed by high-performance liquid chromatography coupled to high-resolution mass spectrometry and bacterial contamination was monitored by turbidimetry. Multivariate analyses showed that urinary metabolic fingerprints were affected by the presence of preservatives and also by storage at room temperature from 24 to 72 hours, whereas no change was observed for urine samples stored at 4 °C over a 72-hour period. Investigations were then focused on 280 metabolites previously identified in urine: 19 of them were impacted by the kind of sample collection protocol in both experiments, including 12 metabolites affected by bacterial contamination and 7 exhibiting poor chemical stability. Finally, our results emphasize that the use of preservative prevents bacterial overgrowth, but does not avoid metabolite instability in solution, whereas storage at 4 °C inhibits bacterial overgrowth at least over a 72-hour period and slows the chemical degradation process. Consequently, and for further LC/MS analyses, human urine samples should be maintained at 4 °C if their collection is performed over 24 hours."
+Study Submission Date	"2014-12-18"
+Study Public Release Date	"2014-12-18"
+Study File Name	"s_Impact of collection conditions on the urine metabolome.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"urine"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/UBERON_0001088"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"EFO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-014-0764-5"
+Study Publication Author List	"Aurélie Roux, Etienne Thévenot, François Seguin, Marie-Françoise Olivier, and Christophe Junot"
+Study Publication Title	"Impact of collection conditions on the metabolite content of human urine samples as analyzed by liquid chromatography coupled to mass spectrometry and nuclear magnetic resonance spectroscopy"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+Comment[Journal]	"Metabolomics"
+STUDY FACTORS
+Study Factor Name	"Experiment"	"Preservative"	"Timepoint"	"Temperature"	"Polarity"	"Sample type"	"Injection order"
+Study Factor Type	"replicate"	"Boolean"	"timepoint"	"temperature"	"scan polarity"	"Group"	"Injection order"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://purl.obolibrary.org/obo/MS_1000465"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	""
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"	"EFO"	"MS"	"NCIT"	""
+Comment[Collection_timepoint]	""	""	""	""	""	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_NEG_impact_of_collection_conditions_on_the_urine_metabolome_metabolite_profiling_mass_spectrometry.txt"	"a_POS_impact_of_collection_conditions_on_the_urine_metabolome_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Velos (Thermo Scientific)"	"LTQ Orbitrap Velos (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine samples were anonymously collected from laboratory staff. Only the gender of the donor was recorded. Samples were collected on the day of the experiment between 9:30 and 10:30 a.m. (T0 = 10:30 a.m.). Two experiments were conducted with different donors over a period of 3 months, always using the same protocol. Once urine samples were pooled (to eliminate inter-individual variations), several aliquots were prepared and subjected to different collection conditions (with or without preservatives) and were stored either at room temperature (on the laboratory bench, with recorded temperatures ranging from 19 to 26 °C) or at 4 °C. Samples were collected at regular time intervals (every 4 or 12 h) between 0 and 72 h and kept at -80 °C until analysis."	"Samples for UHPLC/HRMS analysis were centrifuged (3,000 rpm for 5 min) and then diluted in deionized water (dilution 1/5: 20 µl of urine in 80 µl of water) prior to analysis."	"Analyses were performed on an Accela liquid chromatographic system (Thermo Fisher Scientific). The UHPLC chromatographic separation was performed on a Hypersil GOLD C18 1.9 µm, 2.1 mm x 150 mm column (Thermo Fisher Scientific) equipped with an online prefilter (Interchim, Montluçon, France). The mobile phases were (A) 100% water and (B) 100% acetonitrile with 0.1% formic acid. After an isocratic step of 2 min at 100% phase A, a linear gradient from 0% to 100% B was run over the next 11 min with a mobile phase flow of 500 µl/min. After returning to 100% A at 15.5 min, the column was then allowed to equilibrate for 3.5 min, leading to a total run time of 19 min."	"The LTQ-Orbitrap Discovery (Thermo Fisher Scientific) was fitted with an electrospray source operated in the positive- and negative-ion modes. The software interface was Xcalibur (version 2.1) (Thermo Fisher Scientific). The mass spectrometer was calibrated before each analysis using a calibration solution provided by the manufacturer (external calibration). Mass spectra were recorded from 75 Th to 1,000 Th with an AGC value of 5x10^5. The mass resolution of the analyzer was set to 30,000 (m/Δm, fwhm at 400 Th). The mass spectra were acquired in the reduced profile mode. In the positive-ion mode, the electrospray voltage was set to 5 kV, the capillary voltage to 8 V, and the tube lens offset to 65 V. The sheath and auxiliary gas flows (both nitrogen) were optimized at 35 and 8 arbitrary units (au), respectively, and the drying gas temperature was set to 275 °C. In the negative-ion mode, the electrospray voltage was set to -3.5 kV, and the capillary voltage and tube lens offset were set to -20 and -70 V, respectively; the sheath and auxiliary gas flows (both nitrogen) were 45 and 15 au respectively, and the drying gas temperature was 275 °C.
+</p>
+Biological samples were randomly analyzed and a quality control sample (QC: urine pool) was injected every 10 samples to check the performance of the analytical system in terms of retention times, accurate mass measurements, and signal intensities."	"Data processing</br>
+Automatic peak detection and integration were performed using XCMS software package [1]. Raw files were preliminarily converted to netCDF format with Xconvert (Thermo Scientific, Les Ulis, France). Data were processed using XCMS version 1.14.1 running under R version 2.8.1. The R language was installed on a Dell Eight-core Intel Xeon 3.00 GHz Processor with 16 Go RAM running Linux (Centos 5.2 x86_64). The matchedFilter algorithm was used and default values were set for all parameters except for fwhm, step, steps, mzdiff, and mzwid, which were set respectively at 4, 0.01, 2, 0.01, and 0.01 (for both grouping steps).</br>
+</p>
+Intensity drift correction</br>
+Intensities of the 4 peak lists (2 experiments x 2 ionization modes) were normalized as follows. First, for each variable, a local quadratic (loess) model representative of intensity variation along passage order was built with the values of the quality control (QC) sample [2]. Intensities were then divided by the model predictions. For the positive peak list of Exp. 2, QC values were not representative, and variable intensities were divided by their median as no obvious drift was observed. Second, peak list intensities were scaled by multiplying each of the 4 blocks by a common factor equal to the geometric mean of the block raw intensity medians. Note that this last step is only aimed at providing intensities with meaningful values (otherwise relative intensities are close to 1) and does not modify univariate statistics (since nonparametric tests are used) nor multivariate modeling (because of unit-variance scaling). Normalization resulted in a decrease from the median of the coefficient of variation (CV) of the identified variables (see below) within the QC samples in Exp. 1 (resp. Exp. 2) from 24% to 5% (resp. from 14% to 11%). The few variables that remained correlated with injection order (< 5% and 2% for Exp. 1 and Exp. 2, respectively) were discarded.
+</p>
+Filtering</br>
+Variables with a mean intensity in the QC samples less than 2 times the mean intensity in blank samples (i.e., phase A: water with 0.1% formic acid), or with a coefficient of variation in the QC samples > 30% were filtered out.
+</p>
+Statistical analysis</br>
+Univariate correlation with time storage duration was tested by using the nonparametric Spearman coefficient of rank correlation [3] and controlling the false discovery rate [4] at a 0.01 threshold. All peak intensities of the metabolites showing significant variations were confirmed by manual integration using the QuanBrowser software, in order to avoid any false-positive or false-negative deconvolution that may have been generated with XCMS.
+</p>
+Prior to multivariate analysis, one observation from Exp. 2 with outlier distribution quantiles [5] (p=10-3 threshold) was discarded. Intensities were log10 transformed and variables were mean-centered and unit-variance scaled, prior to principal component analysis (PCA) and partial least-squares (PLS) analysis with 2 components (with the storage duration as Y response). To assess the predictive performance of each PLS-DA model, cross-validation was used to compute the diagnostic Q2 value [6]. The statistical significance of Q2 was estimated by permutation testing [7]: the Q2 value was compared to the distribution of 103 Q2 values corresponding to models built after random permutation of the response labels.
+</p>
+Normalization, univariate and multivariate statistical analyzes were all performed using scripts coded and run in the R language and environment (R Core Team, 2013; version 3.0.2). Venn diagrams were drawn using the "Vennerable" package version 1.0 [8].
+</p>
+Ref: </br>
+[1] Smith, C. A., Want, E. J., O’Maille, G., Abagyan, R., & Siuzdak, G. (2006). XCMS: Processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Analytical Chemistry, 78(3), 779–787. PMID:16448051</br>
+[2] Dunn, W. B., Broadhurst, D., Begley, P., Zelena, E., Francis-McIntyre, S., Anderson, N., et al. (2011). Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nature Protocols, 6(7), 1060–1083. PMID:21720319</br>
+[3] Kvam, P., & Vidakovic, B. (2007). Nonparametric statistics with applications to science and engineering. Hoboken: John Wiley & Sons.</br>
+[4] Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach for multiple testing. Journal of the Royal Statistical Society Series B (Methodological), 57, 289–300.</br>
+[5] Alonso, A., Julia, A., Beltran, A., Vinaixa, M., Diaz, M., Ibanez, L., et al. (2011). AStream: An R package for annotating LC/MS metabolomic data. Bioinformatics, 27(9), 1339–1340. PMID:21414990</br>
+[6] Wold, S., Sjöström, M., & Eriksson, L. (2001). PLS-regression: A basic tool of chemometrics. Chemometrics and Intelligent Laboratory Systems, 58, 109–130.</br>
+[7] Szymanska, E., Saccenti, E., Smilde, A., & Westerhuis, J. (2012). Double-check: Validation of diagnostic statistics for PLS-DA models in metabolomics studies. Metabolomics, 8, 3–16. PMID:22593721</br>
+[8] Swinton S. (2009). Venn diagrams in R with the Vennerable package."	"Metabolites were identified by taking into account the metabolomics standard initiative (MSI) criteria [1] and by using a spectral database developed in our laboratory [2]. UHPLC/HRMS-peaklists generated by XCMS were annotated using an in-house software tool that matches masses (within a 5 ppm range) and retention times of ions of biological datasets with those of reference compounds contained in the spectral database. 
+</p>
+Ref: </br>
+[1] Sumner, L. W., Amberg, A., Barrett, D., Beale, M. H., Beger, R., Daykin, C. A., et al. (2007). Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics, 3(3), 211–221. PMID:24039616</br>
+[2] Roux, A., Xu, Y., Heilier, J. F., Olivier, M. F., Ezan, E., Tabet, J. C., & Junot, C. (2012). Annotation of the human adult urinary metabolome and metabolite identification using ultra high performance liquid chromatography coupled to a linear quadrupole ion trap-Orbitrap mass spectrometer. Analytical Chemistry, 84(15), 6429–6437. PMID:22770225</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Junot"	"Thevenot"
+Study Person First Name	"Christophe"	"Etienne"
+Study Person Mid Initials	"CJ"	"ET"
+Study Person Email	"christophe.junot@cea.fr"	"etienne.thevenot@cea.fr"
+Study Person Phone	"33-1-69-08-43-66"	"33-1-69-08-79-23"
+Study Person Fax	""	""
+Study Person Address	"Centre d'Etude de Saclay, Gif-Sur-Yvette, France"	"F-91191 Gif-sur-Yvette, France"
+Study Person Affiliation	"Laboratoire d’Etude du Métabolisme des Médicaments, DSV/iBiTec-S/SPI, MetaboHUB Paris, CEA"	"CEA, LIST, Laboratory for Data Analysis and Smart Systems, MetaboHUB Paris"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

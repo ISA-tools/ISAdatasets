@@ -1,0 +1,118 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"CHMO"	"BAO"	"GO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"22"	"86"	"18"	"26"	"1358"	"113"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"BioAssay Ontology"	"Gene Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS259"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS259"
+Study Title	"Metabolomics reveals an involvement of pantothenate for male production responding to the short-day stimulus in the water flea, Daphnia pulex"
+Study Description	"Under favorable conditions, the micro-crustacean Daphnia pulex produces female offspring by parthenogenesis, whereas in response to various unfavorable external cues, they produce male offspring to induce sexual reproduction (environmental sex determination: ESD). We recently established a suitable experimental system for ESD studies using D. pulex WTN6 strain, in which the sex of the offspring can be regulated simply by alterations in day-length; long-day and short-day conditions can induce female and male offspring respectively. Taking advantage of this system, we have already demonstrated that methyl farnesoate (MF) synthesis is necessary for male offspring production. Further, we identified ionotropic glutamate receptors as an upstream regulator of MF signaling by transcriptome analysis. Despite these findings, the molecular mechanisms associated with MF signaling have not yet been well elucidated in D. pulex. To more comprehensively understand the molecular mechanisms of ESD, we analyzed the whole metabolic profiles of mother daphniids reared under long-day (female-producing) and short-day (male-producing) conditions using mass spectrometry based metabolomics. We discovered that pantothenate (vitamin B5), a known precursor to coenzyme A, was significantly accumulated in response to the short-day condition. To confirm the role of pantothenate in D. pulex ESD, this metabolite was administered to mother daphniids (under long-day conditions) resulting in a significantly increased proportion of male offspring producing mothers. This study not only provides several candidates for further investigations into the molecular changes involved in male offspring production, but also novel insights into the metabolic mechanisms of the ESD system in D. pulex."
+Study Submission Date	"2015-10-20"
+Study Public Release Date	"2017-04-03"
+Study File Name	"s_Daphnia pulex EST DIMS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"D.pulex WTN6"	"Environmental sex determination (ESD)"	"Direct Infusion Mass Spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	""	""	""
+Study Design Type Term Source REF	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27113113"
+Study Publication DOI	"10.1038/srep25125"
+Study Publication Author List	"Toyota K, Gavin A, Miyagawa S, Viant MR, Iguchi T."
+Study Publication Title	"Metabolomics reveals an involvement of pantothenate for male production responding to the short-day stimulus in the water flea, Daphnia pulex."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Photoperiod"
+Study Factor Type	"photoperiodism"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_0009648"
+Study Factor Type Term Source REF	"GO"
+STUDY ASSAYS
+Study Assay File Name	"a_neg_daphnia_pulex_est_dims_metabolite_profiling_mass_spectrometry.txt"	"a_pos_daphnia_pulex_est_dims_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ FT-Ultra (Thermo Scientific)"	"LTQ FT-Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The D. pulex WTN6 strain was obtained from the Center for Genomics and Bioinformatics (Indiana University, USA). Animals were maintained in dechlorinated freshwater, which was aerated and filtered through activated carbon for two weeks, at 18 °C. The water hardness and dissolved oxygen concentration were 60 mg/l (as CaCO3) and 91.5% as measured by chelatometric titration (Kyoritsu Chemical-check Lab., Corp., Tokyo, Japan) and a dissolved oxygen meter (SevenGo pro SG9, Mettler-Toledo, LLC., Ohio, USA), respectively. A 0.04 ml suspension of 4.3 x 108 cells/ml Chlorella vulgaris was added daily to each culture of 40 individual daphniids in 2l beakers as a food source. The WTN6 strain was selected for this study as it is possible to induce the production of female or male offspring by rearing under 14 h light:10 h dark or 10 h light:14 h dark conditions, respectively [1]. Each individual daphniid was cultured in 50 ml of freshwater under the long-day or short-day conditions, and then flash-frozen in liquid nitrogen during the critical period for sex determination (50 hours after ovulation) at one month of age (i.e. after ovulating at least 8 times). Three individual animals were combined to form sufficient biomass for one biological replicate, and ten experiments were conducted independently yielding ten biological replicates for each of the two conditions.</br>
+</p>
+Ref:</br>
+[1] Toyota K, Miyakawa H, Yamaguchi K, Shigenobu S, Ogino Y, Tatarazako N, Miyagawa S, Iguchi T. NMDA receptor activation upstream of methyl farnesoate signaling for short day-induced male offspring production in the water flea, Daphnia pulex. BMC Genomics. 2015 Mar 14;16:186. doi:10.1186/s12864-015-1392-9.</br>"	"Polar metabolites were extracted from D. pulex samples using a two-step, biphasic method as detailed previously [1]. Briefly, each frozen sample was homogenized using a Precellys-24 ceramic bead-based homogenizer (Stretton Scientific Ltd., UK) in 448 μl of a 5:2 mixture of methanol: water (both high-performance liquid chromatography [HPLC] grade). Homogenate was then transferred into a 1.8 ml glass vial and further volumes of water (160 µl) and chloroform (320 μl) were added to yield a final solvent ratio of 2:2:1.8 methanol: chloroform: water. This mixture was vortex-mixed and centrifuged (4000 x g rcf, 10 min) yielding a biphasic separation. The upper, polar layer of each sample was split evenly (approximately 180 µl per aliquot) into two 1.5 ml Eppendorf tubes for separate mass spectrometric analyses in positive and negative ion modes. The lower, non-polar layer was not used in this study. Polar extracts were dried using a centrifugal concentrator (Thermo Savant, Holbrook, NY, USA) and stored at -80 °C prior to DIMS analysis. Two “extract blanks” were created using the above homogenization and extraction protocols in the absence of biological material.</br>
+</p>
+Ref:</br>
+[1] Wu H, Southam AD, Hines A, Viant MR. High-throughput tissue extraction protocol for NMR- and MS-based metabolomics. Anal Biochem. 2008 Jan 15;372(2):204-12.
+"	"N/A"	"Immediately prior to analysis, polar extracts were removed from storage at -80 °C and resuspended for Fourier transform ion cyclotron resonance (FT-ICR) DIMS analysis. One extract per sample was resuspended in 60 µl 4:1 methanol:water with 20 mM ammonium acetate for negative ion analysis, while the other was resuspended in 60 µl 4:1 methanol:water containing 0.25% formic acid for positive ion analysis. Resuspended samples were centrifuged (22,000 x g rcf, 10 min, 4 °C) to remove particulate matter. The supernatant of each sample was then loaded as four adjacent technical replicates (5 µl per well) onto a 384 well plate (Agilent Technologies, Santa Clara, CA, USA) in a random order. From the remaining supernatant of each sample, 15 µl were removed and pooled to generate a quality control sample (QC).
+</p>
+All D. pulex samples were analyzed in both ion modes using an LTQ FT Ultra FT-ICR mass spectrometer (Thermo Fisher Scientific, Bremen, Germany) with a direct infusion, chip-based nanoelectrospray ionization source (Triversa, Advion Biosciences, Ithaca, NY, USA). Data was acquired from m/z 70-590 using the selected ion monitoring (SIM) stitching methodology [1] in seven SIM windows of 100 m/z width and 30 m/z overlap. Samples were analyzed as quadruplicate technical replicates with QC samples spaced evenly throughout the analysis to allow any drift in the DIMS signal intensities to be distinguished from genuine biological differences.</br>
+</p>
+Ref:</br>
+[1] Weber RJ, Southam AD, Sommer U, Viant MR. Characterization of isotopic abundance measurements in high resolution FT-ICR and Orbitrap mass spectra for improved confidence of metabolite identification. Anal Chem. 2011 May 15;83(10):3737-43. doi:10.1021/ac2001803.</br>"	"Once acquired, data from the three most consistent technical replicates (for each sample) were processed using the SIM stitch algorithm, as reported previously [1][2]. The resulting filtered matrices (one per ion mode) were probabilistic quotient normalized (PQN) [3] and missing values were imputed using the k-nearest neighbor (KNN) algorithm [4]. The resulting matrices were analysed using univariate statistics, and were transformed using the generalized logarithm [5] prior to multivariate statistical analysis. All spectral processing was conducted using in-house scripts in Matlab (version 7, The MathWorks, Natick, MA, USA).</br>
+</p>
+Ref:</br>
+[1] Payne TG, Southam AD, Arvanitis TN, Viant MR. A signal filtering method for improved quantification and noise discrimination in fourier transform ion cyclotron resonance mass spectrometry-based metabolomics data. J Am Soc Mass Spectrom. 2009 Jun;20(6):1087-95. doi: 10.1016/j.jasms.2009.02.001.</br>
+[2] Southam AD, Payne TG, Cooper HJ, Arvanitis TN, Viant MR. Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray fourier transform ion cyclotron resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Anal Chem. 2007 Jun;79(12):4595-602.</br>
+[3] Dieterle F, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul;78(13):4281-90.</br>
+[4] Hrydziuszko O, Viant M R. Missing values in mass spectrometry based metabolomics: an undervalued step in the data processing pipeline. Metabolomics. 2012 Jun;8(1):161-174.</br>
+[5] Parsons, H. M., Ludwig, C., Günther, U. L., & Viant, M. R. Improved classification accuracy in 1- and 2- dimensional NMR metabolomics data using the variance stabilizing generalised logarithm transformation. BMC Bioinformatics. 2007 Jul;8:234. "	"Putative empirical formula(e) and KEGG (Kyoto Encyclopedia of Genes and Genomes) compound names were assigned, where possible, to the significantly changing m/z peaks using the transformation mapping algorithm in the Metabolite Identification Package (MI-Pack) [1]. Briefly, MI-Pack calculates accurate m/z values for common negative ions ([M-H]−, [M + 35Cl]−, [M + 37Cl]−, [M + Acetate(Ac)]−, [M + K-2H]− and [M + Na-2H]−) and positive ions ([M + H]+, [M + Na]+, [M + 39K]+, [M + 41K]+) of all compounds within the KEGG compounds database. It then attempts to match these m/z values with the accurate masses measured in the mass spectra, within a mass error window of 1 ppm. The transformation mapping algorithm [1] was used to increase confidence in the assigned putative metabolite names. The resulting list of significantly changing KEGG compound IDs was input into MetaboAnalyst [2] and Fisher’s exact test was used for over-representation analysis against a background list of all putatively annotated KEGG compound IDs [3].</br>
+</p>
+Ref:</br>
+[1] Weber RJM & Viant MR. MI-Pack: Increased confidence of metabolite identification in mass spectra by integrating accurate masses and metabolic pathways. Chemometr. Intell. Lab. 2010; 104, 75–82. DOI: 10.1016/j.chemolab.2010.04.010.</br>
+[2] Xia J, Mandal R, Sinelnikov IV, Broadhurst D & Wishart DS. MetaboAnalyst 2.0 -a comprehensive server for metabolomic data analysis. Nucleic Acids Res. 2012; 40, 127–133.</br>
+[3] Xia J & Wishart DS. MetPA: a web-based metabolomics tool for pathway analysis and visualization. Bioinformatics 2010; 26, 2342–2344. DOI.org/10.1093/bioinformatics/btq418.
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Gavin"
+Study Person First Name	"Alex"
+Study Person Mid Initials	"J"
+Study Person Email	"ajsgavin@gmail.com"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT"
+Study Person Affiliation	"University of Birmingham"
+Study Person Roles	"Principal Investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

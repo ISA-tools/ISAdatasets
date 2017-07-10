@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"spermatophore"	"Photinus pyralis"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/7054"	"spermatophore/nuptial gift"	""	""	"Sample collection"	"Ppyr_Spermatophore_1"
+"body"	"Photinus pyralis"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/7054"	"Body - 2 posterior lantern segments excised"	""	""	"Sample collection"	"Ppyr_UM_TRF0001_body"
+"pre_spermatophore_blank_injection"	"blank"	""	""	"blank"	""	""	"Sample collection"	"pre_spermatophore_blank"
+"pre_body_blank_injection"	"blank"	""	""	"blank"	""	""	"Sample collection"	"pre_body_blank"

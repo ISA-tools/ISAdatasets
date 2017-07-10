@@ -1,0 +1,121 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"EFO"	"ENVO"	"CHMO"	"NCIT"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"103"	"22"	"132"	"29"	"16"	"40"	"6"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Experimental Factor Ontology"	"Environment Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS293"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS293"
+Study Title	"Metabolites from surface seawater collected in Narragansett Bay"
+Study Description	"In aquatic environments, the production and consumption of organic compounds is directly tied to the metabolic potential of the in situ microbial community. The community’s metabolic potential can be assessed using metatranscriptomics, which is a measure of gene expression in the environment. More recently, advances in metabolomics deliver details on specific organic compounds found in the environment. While the integration of these two datasets is desirable, the vast data streams can hinder investigations into biological and chemical processes. Here, we use data in the Kyoto Encyclopedia of Genes and Genomes (KEGG) combined with K means clustering to jointly interrogate metabolomics and metatranscriptomics data collected from a coastal marine environment. Using KEGG allowed us to focus our analysis on genes and compounds connected by a defined biochemical reaction. The K means clustering provided an unbiased means to place metabolites and genes into groups based on their temporal variability. Each of the groups defined by the K means clustering contained both transcripts and metabolites, which emphasized the interconnected nature of these two datasets. While conceptually simple, this analysis allowed us to explore a tractable number of biochemical pathways within our data. Continued development of computational tools to analyze meta-omics data is a pressing need. The application of tools such as described here is an exciting step towards integrated multi-omics data analysis that can be used to address broad questions in biogeochemical cycling."
+Study Submission Date	"2015-12-21"
+Study Public Release Date	"2016-01-14"
+Study File Name	"s_RIone.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Carbon"	"Fourier transform ion cyclotron resonance mass spectrometry"	"liquid chromatography-mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D002244"	"http://purl.obolibrary.org/obo/CHMO_0000502"	"http://purl.obolibrary.org/obo/CHMO_0000524"	""	""
+Study Design Type Term Source REF	"MESH"	"CHMO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	""
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"replicate"	"sampling date"
+Study Factor Type	"biological replicate"	"Date"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002091"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_TAR_rione_mass_spectrometry.txt"	"a_NEG_rione_mass_spectrometry.txt"	"a_POS_rione_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"TSQ Vantage (Thermo Scientific)"	"LTQ FT Ultra (Thermo Scientific)"	"LTQ FT Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Surface seawater was collected and filtered from Narragansett Bay (41°34'12'' N, 71°23'24'' W) on five different days in 2012 (May 16, May 21, May 30, June 4, June 8; [1]). Each water sample was 2 l and triplicate water samples were processed at each time point. The seawater was filtered through 5 µm polycarbonate filters and the filters were flash-frozen in liquid nitrogen.
+</p>
+Ref:</br>
+[1] Alexander H, Jenkins BD, Rynearson TA, Dyhrman ST. Metatranscriptome analyses indicate resource partitioning between diatoms in the field. Proc Natl Acad Sci U S A. 2015 Apr 28;112(17):E2182-90. doi: 10.1073/pnas.1421993112. PMID:25870299</br>"	"The intracellular metabolites were extracted using a method modified from a protocol described by [1]. Briefly, the filter was extracted three times with ice-cold extraction solvent (acetonitrile:methanol:water with 0.1 M formic acid, 40:40:20). The combined extracts were neutralized with ammonium hydroxide and dried in a vacufuge.
+</p>
+The samples for the targeted mass spectrometry analysis were re-dissolved in 90:10 (v/v) water:acetonitrile and combined with deuterated biotin (final concentration 0.05 µg/ml) as an internal standard.
+</p>
+For untargeted analysis, the extracts had to undergo an additional de-salting step prior to analysis. Therefore, the dried extracts were re-dissolved in 0.01 M hydrochloric acid and extracted using a 50 mg/1 cc PPL cartridge following the protocol of [2]. The resulting methanol extracts were re-dissolved in 95:5 water:acetonitrile. 
+</p>
+Ref:</br>
+[1] Rabinowitz JD, Kimball E. Acidic acetonitrile for cellular metabolome extraction from Escherichia coli. Anal Chem. 2007 Aug 15;79(16):6167-73. PMID:17630720</br>
+[2] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235. doi: 10.4319/lom.2008.6.230.</br>"	"For targeted metabolomics analysis, the samples were analyzed with a Synergi 4 µm Fusion – RP 80 Å, 150 × 2.00 mm column (Phenomenex, Torrance, CA) coupled to a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. The chromatography gradient was: an initial hold of 95% A (0.1% formic acid in water) : 5% B (0.1% formic acid in acetonitrile) for 2 min, ramp to 65% B from 2 to 20 min, ramp to 100% B from 20 to 25 min, and hold until 32.5 min. The column was re-equilibrated for 7 min between samples with solvent A. Each metabolite was quantified using multiple reaction monitoring (MRM) mode with optimal parameters determined from infusion of authentic standards. Eight-point external calibration curves (0.5, 1, 5, 10, 50, 100, 250, and 500 ng/ml) were generated for each compound by plotting peak area against concentration.
+</p>
+For untargeted metabolomics analysis, LC separation was performed using a Synergi Fusion reversed phase column (Phenomenex, Torrance, CA) with the same gradient as for targeted analysis."	"For targeted analysis, samples were analyzed with a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. This instrument allows polarity switching between positive and negative ion mode within a single LC run. Analysis of authentic standards was used to determine the optimal ionization mode for each metabolite.
+</p>
+For untargeted analysis, samples were analyzed in both negative and positive ion mode with liquid chromatography (LC) coupled by electrospray ionization to a 7-Tesla Fourier-transform ion cyclotron resonance mass spectrometer (FT-ICR MS). In parallel to the FT acquisition, four data dependent MS/MS scans were collected at nominal mass resolution in the ion trap (LTQ). Samples were analyzed in random order with a pooled sampled run every six samples in order to assess instrument variability."	"Targeted metabolomics data The resulting data were converted to mzML files using the msConvert tool [1] and processed with MAVEN [2]. The concentration of the metabolites in the targeted mass spectrometry data is given in ng/ml. Note that the concentration of these metabolites in the cell-free controls has been subtracted from the corresponding treatment with Thalassiosira.
+</p>
+Untargeted metabolomics data Data were collected as XCalibur RAW files which were converted to mzXML files using the msConvert tool within ProteoWizard [1]. Features were extracted from the LC-MS data using XCMS [3], where a feature is defined as a unique combination of a mass-to-charge (m/z) ratio and a retention time. Peak finding was performed with the centWave algorithm [4], and only peaks that fit a Gaussian shape were retained. Features were aligned across samples based on retention time and m/z value using the group.nearest function in XCMS; fillPeaks was used to reconsider features missed in the initial peak finding steps. CAMERA was used 1) to find compounds differing by adduct ion and stable isotope composition [5] and 2) to extract the intensities and m/z values for the associated MS/MS spectra.
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. PMID: 23051804</br>
+[2] Melamud E, Vastag L, Rabinowitz JD. Metabolomic analysis and visualization engine for LC-MS data. Anal Chem. 2010 Dec 1;82(23):9818-26. PMID: 21049934</br>
+[3] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID: 16448051</br>
+[4] Tautenhahn R, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. PMID: 19040729</br>
+[5] Kuhl C, Tautenhahn R, Böttcher C, Larson TR, Neumann S. CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem. 2012 Jan 3;84(1):283-9. PMID: 22111785</br>"	"The targeted metabolomics compound identifications were based on measurements of authentic standards on the same mass spectrometer. Note that the LC/mass spectrometry system cannot distinguish between leucine and isoleucine, therefore the data are presented as 'leucine/isoleucine'. For the same reason, threonine and homoserine are presented as threonine/homoserine."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Longnecker"	"Kujawinski"
+Study Person First Name	"Krista"	"Elizabeth"
+Study Person Mid Initials	""	"B"
+Study Person Email	"klongnecker@whoi.edu"	"ekujawinski@whoi.edu	"
+Study Person Phone	"508 289 2824"	"508 289 3493"
+Study Person Fax	""	""
+Study Person Address	"360 Woods Hole Road
+Woods Hole, MA 02543
+USA"	"360 Woods Hole Road
+Woods Hole, MA 02543
+USA"
+Study Person Affiliation	"Woods Hole Oceanographic Institution"	"Woods Hole Oceanographic Institution"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

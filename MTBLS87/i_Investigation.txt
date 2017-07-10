@@ -1,0 +1,120 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BTO"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"25"	"20"	"16"	"4"	"132"	"83"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS87"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS87"
+Study Title	"Unexpected similarities between the Schizosaccharomyces and human blood metabolomes, and novel human metabolites (Blood fraction)"
+Study Description	"Metabolomics, a new branch of chemical biology, provides compositional and quantitative information about the state of organism or cell at the levels of metabolite constituents. We here report non-targeted metabolome of human blood that is made up of plasma and red blood cells (RBCs), using liquid-chromatography and mass spectrometry (LC-MS). Previously, metabolome of a microbe, the fission yeast Schizosaccharomyces pombe, was reported. Two sets of metabolome results are highly similar in their compositions: among 133 compounds identified in human blood, 101 (75%) are also present in S. pombe, and among 57 compounds enriched in RBC, 45 (78%) are also present in S. pombe. Most abundant metabolites are ATP, glutathione and glutamine. Many of other relatively abundant metabolites identified are also implicated in energy, anti-oxidant and amino acid metabolism. We show fourteen newly-identified blood compounds; citramalate, GDP-glucose, trimethyl-histidine, trimethyl-phenylalanine, trimethyl-tryptophan, trimethyl-tyrosine, UDP-acetyl-glucosamine, UDP-glucuronate, dimethyl-lysine, glutamate methyl ester, N-acetyl-(iso)leucine, N-acetyl-glutamate, N2-acetyl-lysine, and N6-acetyl-lysine (the first eight are enriched in RBC). Ten of them are also detected in S. pombe, and ten of them are methylated or acetylated, amino acids. Trimethylated or acetylated free amino acids are also abundant in white blood cell. Their physiologic role may be investigated in the future by yeast genetics."
+Study Submission Date	"2014-07-08"
+Study Public Release Date	"2014-07-08"
+Study File Name	"s_MTBLS87.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"blood metabolome"	"tandem mass spectrometry"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	""	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25010571"
+Study Publication DOI	"10.1039/c4mb00346b"
+Study Publication Author List	"Chaleckis, Romanas
+Ebe, Masahiro
+Pluskal, Tomas
+Murakami, Itsuo
+Kondoh, Hiroshi
+Yanagida, Mitsuhiro"
+Study Publication Title	"Unexpected similarities between the Schizosaccharomyces and human blood metabolomes, and novel human metabolites"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"material sample"
+Study Factor Type	"material sample"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000747"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls87_metabolite profiling_mass spectrometry.txt"	"a_mtbls87_metabolite profiling_mass spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Classic (Thermo Scientific)"	"LTQ Orbitrap Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Human Blood:</br>
+Three healthy male and one female volunteers (23–33 years old) participated in this study. Blood samples for metabolomic analysis were taken in the morning and subjects were asked not to eat breakfast to ensure at least 12 h of fasting prior to sampling. Blood samples for metabolomic analysis were drawn by venipuncture into 5 ml heparinized tubes (Terumo). Immediately, 0.2 ml blood samples were quenched in 1.8 ml of 55% methanol at -40 °C. The remainder of each blood sample was centrifuged at 120 x g for 15 min at room temperature to separate plasma and Red Blood Cells. After centrifugation, 0.2 ml of separated plasma and RBCs, respectively, was quenched in 1.8 ml of 55% methanol at -40 °C.
+</p>
+Human White Blood Cells:</br>
+For isolation of leucocytes we employed Ficoll gradient centrifugation. Blood of two donors, 20 ml each, was collected into heparinized tubes (Terumo) and subsequently diluted with the same volume of PBS buffer. Diluted blood was carefully layered onto the same volume of Lympholyte-H (Cosmo Bio, Tokyo, Japan) and centrifuged at room temperature for 20 min at 800 x g.
+</p>
+Fission yeast:</br>
+The wild-type heterothallic haploid 972 h-S. pombe strain was used for metabolomic experiments. Cells were cultivated at 26 °C in minimal synthetic medium EMM2 with 0.1% glucose (5.6 mM) content. Limited glucose media were prepared by mixing regular EMM2 (2% glucose) medium with EMM2-G (0% glucose) in an appropriate ratio."	"Human Blood:</br>
+Ten nmol each of HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) and PIPES (piperazine-N,N'-bis(2-ethanesulfonic acid)) was added to each sample to serve as standards. After brief vortexing, the samples were transferred to Amicon Ultra 10 kDa cut-off filters (Millipore, Billerica, MA, USA) to remove proteins and cell debris. Following sample concentration by vacuum evaporation, each sample was re-suspended in 40 µl of 50% acetonitrile and 1 µl (equivalent to 5 µl of initial sample) was used for each injection into the LC-MS system.
+</p>
+Human White Blood Cells:</br>
+Separated leucocytes were washed 3x in PBS (1 min, 350 x g, 4 °C). After dilution, 0.2 ml of leucocytes was quenched in 1.8 ml of 55% methanol at -40 °C. After the addition of HEPES and PIPES, samples were processed as described above. Metabolites were isolated from 10 µl of leukocyte cell volume. One µl of the metabolome sample was injected into the LC-MS system, corresponding to ~0.25 µl of leukocyte intracellular volume.
+</p>
+Fission yeast:</br>
+Preparation of fission yeast samples was done as described previously [1]. Briefly, fission yeast cells from 40 ml of culture were collected by vacuum filtration. Metabolites were isolated from 30 µl of total S. pombe cell volume. LC-MS sample injections (1 µL) corresponded to ~0.75 µl of S. pombe intracellular volume.
+</p>
+Ref:</br>
+[1] Pluskal T, Nakamura T, Villar-Briones A, Yanagida M (2010) Metabolic profiling of the fission yeast S. pombe: quantification of compounds under different temperatures and genetic perturbation. Mol Biosyst 6:182–198. doi: 10.1039/b908784b PMID:20024080</br>"	"LC-MS data were obtained using a Paradigm MS4 HPLC system (Michrom Bioresources, Auburn, CA, USA) coupled to an LTQ Orbitrap mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA), as described previously [1]. Briefly, metabolites were separated on a ZIC-pHILIC column (Merck SeQuant, Sweden; 150 x 2.1 mm, 5 µm particle size) using acetonitrile (A) and 10 mM ammonium carbonate buffer, pH 9.3 (B) as the mobile phase, with gradient elution from 80% A to 20% A in 30 min, at a flow rate of 100 µl/min. Sample injection volume was 1 µl per run.
+</p>
+Ref:</br>
+[1] Pluskal T, Nakamura T, Villar-Briones A, Yanagida M (2010) Metabolic profiling of the fission yeast S. pombe: quantification of compounds under different temperatures and genetic perturbation. Mol Biosyst 6:182–198. doi: 10.1039/b908784b PMID:20024080</br>"	"The LTQ Orbitrap mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) was operated in full scan mode with the scan range of 100-1,000 m/z. Each sample was analyzed twice, once in negative and once in positive ionization mode."	"Peak areas of metabolites of interest, within the raw LC-MS data, were measured using the MZmine 2.10 software and normalized using the peak areas of HEPES and PIPES. The complete workflow and processing parameters are summarized in the publication."	"Metabolites were identified by comparing their m/z values and retention times with authentic pure standards. If no standard was available, metabolites were assigned by analysis of MS/MS spectra (MS/MS), as described in the publication. In cases where no standard compound or MS/MS spectrum was available, compounds were identified by generating chemical formulae using m/z values in MZmine 2.10 module and given MS status."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Chaleckis"	"Ebe"	"Pluskal"	"Murakami"	"Kondoh"	"Yanagida"
+Study Person First Name	"Romanas"	"Masahiro"	"Tomáš"	"Itsuo"	"Hiroshi "	"Mitsuhiro"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"romanas.chaleckis@gmail.com"	"masahiro.ebe@oist.jp"	"pluskal@oist.jp"	"imuraka@kuhp.kyoto-u-ac.jp"	"hkondoh@kuhp.kyoto-u.ac.jp"	"myanagid@gmail.com"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Yoshida-Konoecho, Sakyo-ku, Kyoto 606-8501, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"	"Graduate School of Medicine, Kyoto University, Kyoto 606-8507, Japan"	"1919-1 Tancha, Onna-son, Okinawa 904-0495, Japan"
+Study Person Affiliation	"Graduate school of Biostudies, Kyoto university"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"	"Graduate School of Medicine, Kyoto University"	"Graduate School of Medicine, Kyoto University"	"G0 Cell Unit, Okinawa Institute of Science and Technology Graduate University (OIST)"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

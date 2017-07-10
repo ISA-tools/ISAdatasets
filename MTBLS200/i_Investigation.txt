@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"DOID"	"BTO"	"NCIT"	"CHEBI"	"UO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/DOID"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"86"	"18"	"568"	"26"	"40"	"80"	"43"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Human Disease Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS200"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS200"
+Study Title	"Temporal characterization of serum metabolite signatures in lung cancer patients undergoing treatment"
+Study Description	"Lung cancer causes more deaths in men and women than any other cancer related disease. Currently, few effective strategies exist to predict how patients will respond to treatment. We evaluated the serum metabolomic profiles of 25 lung cancer patients undergoing chemotherapy ± radiation to evaluate the feasibility of metabolites as temporal biomarkers of clinical outcomes . Methods: Serial serum specimens collected prospectively from lung cancer patients were analyzed using both nuclear magnetic resonance (1H-NMR) spectroscopy and gas chromatography mass spectrometry (GC-MS). Multivariate statistical analysis consisted of unsupervised principal component analysis or orthogonal partial least squares discriminant analysis with significance assessed using a cross-validated ANOVA. Results: The metabolite profiles were reflective of the temporal distinction between patient samples before during and after receiving therapy (1H-NMR p<0.001 and GC-MS p<0.01). Disease progression and survival were strongly correlative with the GC-MS metabolite data whereas stage and cancer type were associated with 1H-NMR data. Metabolites such as hydroxylamine, tridecan-1-ol, octadecan-1-ol, were indicative of survival (GC-MS p<0.05) and metabolites such as tagatose, hydroxylamine, glucopyranose, and threonine that were reflective of progression (GC-MS p<0.05). Conclusions: Metabolite profiles have the potential to act as prognostic markers of clinical outcomes for lung cancer patients. Serial 1H-NMR measurements appear to detect metabolites diagnostic of tumor pathology, while GC-MS provided data better related to prognostic clinical outcomes warranting further study in a larger cohort and with various treatment options."
+Study Submission Date	"2015-05-21"
+Study Public Release Date	"2016-09-01"
+Study File Name	"s_UofC-HCC Serum Metabolomic Study.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Clinical Study"	"nuclear magnetic resonance spectroscopy"	"gas chromatography-mass spectrometry"	"untargeted metabolies"	"lung cancer"	"Personalized Medicine"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""	"http://purl.obolibrary.org/obo/DOID_1324"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84342"
+Study Design Type Term Source REF	"NCIT"	"CHMO"	"CHMO"	""	"DOID"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-0961-5"
+Study Publication Author List	"Desirée Hao, MD, PhD
+M Omair Sarfaraz, MBBS, MD
+Farshad Farshidfar, MD, PhD
+D. Gwyn Bebb, BMBCh, PhD
+Camelia Y. Lee, RN
+Marilyn David, RN
+Cynthia M. Card, MD, PhD
+Aalim Weljie, PhD"
+Study Publication Title	"Temporal Characterization of Serum Metabolite Signatures in Lung Cancer Patients Undergoing Treatment"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"CA Type"	"Timepoint"	"Outcome"	"Dis-free survival"	"Overall survival"	"Dis. Prog"	"Staging"
+Study Factor Type	"neoplasm"	"timepoint"	"Disease Outcome"	"disease free survival"	"overall survival"	"Resistance Process"	"Staging"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000616"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18226"	"http://www.ebi.ac.uk/efo/EFO_0000409"	"http://www.ebi.ac.uk/efo/EFO_0000638"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41546"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15608"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"NCIT"	"EFO"	"EFO"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_NMR_uofc-hcc_serum_metabolomic_study.txt"	"a_MS_uofc-hcc_serum_metabolomic_study.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"GCT Premier (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""	""	""
+Study Protocol Description	"Serum specimens were collected at pre-specified time-points: prior to treatment, during treatment, and at 6 mth post-treatment. Blood was collected by venipuncture, centrifuged at 1500 x g for 10 min at 4 °C and separated within 24 h of collection then stored at -80 °C until 1H-NMR and GC–MS analysis. Patients were not fasting at the time of blood sampling. In total, analyzed 134 serum samples were analyzed."	"Sample preparation for the GC-MS consisted of three basic steps: deproteinization, methoxiamination and finally derivitization.  Deproteinization is able to remove the interference from proteins such as albumin, which are present in a large concentration in blood. For GC-MS metabolite extraction, samples were thawed on ice and 50 µl of sample used for extraction using chloroform: methanol procedure. Aqueous metabolites were dried under vacuum, and then derivitized using methoxyamine and MSTFA."	"1H-NMR spectroscopy was performed using a protocol previously described [1]. For NMR analysis, serum samples were thawed in ice. 350 µl of serum sample were filtered through a prewashed Nanasep 3K Omega Filter Eppendorf to remove high molecular weight (>3kDa) compounds (e.g. large proteins, lipid complexes etc.). After centrifugation, samples were buffered to a pH of 7.0 for analysis. 
+</p>
+Ref: </br>
+[1]: Weljie A. M., Dowlatabadi R., Miller B. J., Vogel H. J., & Jirik F. R. (2007). An inflammatory arthritis-associated metabolite biomarker pattern revealed by 1H NMR spectroscopy. J Proteome Res, 6(9), 3456-3464. doi: 10.1021/pr070123j</br>"	"Regular one-dimensional proton NMR spectra were obtained using a 600-MHz Bruker Ultrashield NMR spectrometer equipped with a TXI probe (5 mm) (Bruker Biospin, Milton, Canada)."	"The spectra were acquired using a standard pulse sequence that had good water suppression characteristics and is commonly used for metabolite profiling of serum samples. Relaxation delay of 1s was used; t1 was set to 4 µs and tm had a value of 100 ms. Initial samples for each batch were shimmed to ensure half-height line width of <1.1 Hz for the dimethyly-silapentane-sulphonate peak, calibrated to 0.0 ppm. A 1D NOESY presaturation pulse sequence was used to analyze the samples. Spectra were acquired with 1024 scans, then zero filled and Fourier transformed to 128k data points using the Chenomx NMRSuite processor."	"GC-MS was performed on an Agilent chromatograph 7890A (Agilent Technologies Canada Inc, Mississauga, Ontario, Canada) using a 30m DB-5 column (Non-polar with very low bleed characteristics)as previously described [1]. 
+</p>
+Ref:</br>
+[1]: Farshidfar F., Weljie  A. M., Kopciuk  K., Buie W. D., Maclean A., Dixon  E.,Sutherland F.R., Molckovsky A., Vogel H. J., Bathe, O. F. (2012). Serum metabolomic profile as a means to distinguish stage of colorectal cancer. Genome Med, 4(5), 42. doi: 10.1186/gm341</br>"	"Mass spectral data was acquired using  a Waters GCT mass spectrometer coupled with an Agilent chromatograph 7890A (Agilent Technologies Canada Inc, Mississauga, Ontario, Canada) using GC-TOF-MS methodology. Metabolites were scanned in a positive mode with a range of 50 to 800 m/z."	"Raw data from 1H-NMR was processed and profiled using Chenomx NMR Suite 7.1 to a library of 55 compounds. 1H-NMR spectral data was evaluated using the strategy of ‘targeted profiling’[1]. This allows quantification of metabolite concentrations in the samples. Raw data from GC-MS was imported to the Metabolite Detector for peak detection [2].
+</p>
+The pre-processed data was exported to multi-variate statistical analytical software SIMCA-P 13+ and analyzed with principal component analysis (PCA) and orthogonal partial least squares discriminant analysis (OPLS-DA). Univariate scaling is applied to overcome the dominating effect of higher intensity metabolite features. Thus scaling gives equal importance to all the components. Logarithmic transformation was also done before analysis to reduce the effect of data skewness. 
+</p>
+PCA was performed to check the unsupervised segregation of the metabolome. OPLS-DA allowed us to discriminate between the different variables concerning the cancers in context. Model significance was assessed using a cross-validated ANOVA with p = 0.05 considered significant. Variables were selected according to the VIP (variable influence on projection) as previously described [3], which are reflective of the correlation of the metabolites towards different response.  VIP > 1 was considered significant.
+</p>
+Ref:</br>
+[1]: Weljie, A. M., Newton, J., Mercier, P., Carlson, E., & Slupsky, C. M. (2006). Targeted profiling: quantitative analysis of 1H NMR metabolomics data. Analytical Chemistry, 78(13), 4430. doi: 10.1021/ac060209g.</br>
+[2]: Hiller, K., Hangebrauk, J., Jäger, C., Spura, J., Schreiber, K., & Schomburg, D. (2009). MetaboliteDetector: comprehensive analysis tool for targeted and nontargeted GC/MS based metabolome analysis. Analytical Chemistry, 81(9), 3429-3439.</br>
+[3]: Weljie A. M., Dowlatabadi R., Miller B. J., Vogel H. J., & Jirik F. R. (2007). An inflammatory arthritis-associated metabolite biomarker pattern revealed by 1H NMR spectroscopy. J Proteome Res, 6(9), 3456-3464. doi: 10.1021/pr070123j.</br>"	"Additional 2-dimensional NMR experiments were performed for the purpose of confirming chemical shift assignments, including homonuclear total correlation spectroscopy (2D 1H-1H TOCSY) and heteronuclear single quantum coherence spectroscopy (2D 1H-13C HSQC), using standard Bruker pulse programs.
+</p>
+To elucidate the relative changes of significant metabolites before, during and after therapy, significance of analysis of microarrays (SAM) with time course analysis was performed [1]. This analysis was applied independently to both GC-MS and 1H-NMR metabolite datasets [2]. Metabolites were considered significant with a corrected p-value <0.05 and false discovery rate of  10% to account for multiple testing.
+</p>
+We further investigated if specific clinical and outcome factors, included variables such as cancer type (NSCLC and SCLC), cancer staging (stages 1 to 4), time-point(s) of sample collection, survival and progression could be predicted by the GC-MS and 1H-NMR datasets.  
+</p>
+Ref:</br>
+[1]: Zang S., Guo R., Zhang L., & Lu Y. (2007). Integration of statistical inference methods and a novel control measure to improve sensitivity and specificity of data analysis in expression profiling studies. Journal of Biomedical Informatics, 40(5), 552-560. doi: http://dx.doi.org/10.1016/j.jbi.2007.01.002</br>
+[2]: Denery J. R., Nunes A. A., & Dickerson T. J. (2010). Characterization of differences between blood sample matrices in untargeted metabolomics. Analytical Chemistry, 83(3), 1040-1047.</br>"
+Study Protocol URI	""	""	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Farshidfar"	"Sarfaraz"
+Study Person First Name	"Farshad"	"Omair"
+Study Person Mid Initials	""	""
+Study Person Email	"farshidf@ucalgary.ca"	"omair.sarfaraz@medportal.ca"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Cumming School of Medicine- University of Calgary"	"McMaster University- Health Sciences"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

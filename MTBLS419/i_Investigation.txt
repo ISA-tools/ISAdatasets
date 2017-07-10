@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"ROLEO"	"BAO"	"AURA"	"CHEBI"	"BTO"	"NCBITAXON"	"CHMO"	"EFO"	"BCTEO"	"OBI"	"NCIT"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/AURA"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BCTEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"1"	"19"	"1"	"80"	"22"	"6"	"18"	"146"	"3"	"23"	"44"	"43"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"Role Ontology"	"BioAssay Ontology"	"KB_Bio_101"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Bone and Cartilage Tissue Engineering Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS419"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS419"
+Study Title	"Evidence of a DHA signature in the lipidome and metabolome of human hepatocytes"
+Study Description	"Cell supplementation with bioactive molecules often causes a perturbation in the whole intracellular environment. Omics techniques can be applied for the assessment of this perturbation. In this study, the overall effect of docosahexaenoic acid (DHA) supplementation on cultured human hepatocyte lipidome and metabolome has been investigated using NMR in combination with traditional techniques. The effect of two additional bioactives sharing with DHA the lipid lowering effect - propionic acid (PRO) and protocatechuic acid (PCA) - has been also evaluated, also considering possible synergism. NMR analysis of the cell lipid extracts showed that DHA supplementation, alone or in combination with PCA or PRO, strongly altered the cell lipid profile. The perfect discrimination between cells receiving DHA (alone or in combination) and the other cells reinforced the idea of a global rearrangement of the lipid environment induced by DHA. Notably, GC and fluorimetric analyses totally confirmed the strong discrimination obtained by NMR. The DHA signature was evidenced not only in the cell lipidome, but also in the metabolome. Results herein reported indicate that NMR, combined with other techniques, represents a fundamental approach while studying the effect of the supplementation of bioactives, particularly in the case of molecules having a broad spectrum of mechanisms of action."
+Study Submission Date	"2016-12-28"
+Study Public Release Date	"2017-03-02"
+Study File Name	"s_Pathway.txt"
+Comment[Study Grant Number]	"311876: PATHWAY-27"
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"docosahexaenoic acid"	"3,4-dihydroxybenzoic acid"	"propionic acid"	"Metabolomics"	"Lipidomics"	"nuclear magnetic resonance spectrometer"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_36005"	"http://purl.obolibrary.org/obo/CHEBI_36062"	"http://purl.obolibrary.org/obo/CHEBI_30768"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49019"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0001807"	""
+Study Design Type Term Source REF	"CHEBI"	"CHEBI"	"CHEBI"	"NCIT"	"CSEO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"doi:10.3390/ijms18020359"
+Study Publication Author List	"Veronica Ghini, Mattia Di Nunzio, Leonardo Tenori, Veronica Valli, Francesca Danesi, Francesco Capozzi, Claudio Luchinat and Alessandra Bordoni "
+Study Publication Title	"Evidence of a DHA signature in the lipidome and metabolome of human hepatocytes"
+Study Publication Status	"in preparation"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001795"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"compound"	"time post exposure"	"dose"
+Study Factor Type	"treatment"	"hour"	"dose"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/UO_0000032"	"http://www.ebi.ac.uk/efo/EFO_0000428"
+Study Factor Type Term Source REF	"EFO"	"UO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_pathway_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"sample collection"	"extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"data transformation"	"Metabolite identification"
+Study Protocol Type	"sample collection"	"extraction"	"HepG2 cell water/lipid-soluble extracts"	"NMR spectroscopy"	"NMR assay"	"data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"HepG2 human hepatoma cells were kept at 37 °C, 95% air, 5% CO2 in DMEM supplemented with 10% (v/v) fetal bovine serum (FBS), 100 U/ml penicillin and 100 mg/ml streptomycin. Once a week, cells were split 1:20 into a new 75 cm2 flask, and medium was refreshed. Cells were seeded at a density of 0.6 × 10^6 cells (for fatty acid and lipid quantification) or at 1.0 × 10^6 cells (for NMR experiments). After 24 h, at 75%–80% confluence, cells were divided randomly into six groups: (i) not supplemented (NS); (ii) supplemented with 70 µM PRO; (iii) supplemented with 20 µM PCA; (iv) supplemented with 50 µM DHA; (v) supplemented with 50 µM DHA + 70 µM PRO; (vi) supplemented with 50 µM DHA + 20 µM PCA.</br>
+</p>
+DHA was dissolved in 100% ethanol, and complexed to bovine serum albumin (BSA); fatty acid–BSA complexes were prepared fresh each time at a final BSA concentration of 0.5% in serum-free DMEM. PCA was dissolved in dimethyl sulfoxide (DMSO) acidified with HCl (at pH 2), while PRO was dissolved in water. The final concentration of ethanol and DMSO was kept below 0.1% in serum-free DMEM. Control cells received corresponding amounts of BSA, ethanol and DMSO. DHA, PRO and PCA concentrations used in the study were evidenced to be non-cytotoxic in preliminary experiments.
+"	"Cells were scraped off; the cell pellet was washed with ice-cold M9 buffer to remove traces of growth medium, and dissolved with 400 µl ice-cold DPBS buffer. Cells were lysed by sonication for 150 s by repeating the pulse 2 s on and 3 s off, then extracted using 800 µl of methanol-chloroform 1:1 (v/v) pre-cold at −80 °C. After mixing, vortex cells were incubated on ice for 30 min, and centrifuged at 14,000× g for 20 min at 4 °C. The resulting two phases were divided carefully, and the extraction procedure was repeated twice for each sample.</br>
+"	"To prepare the water-soluble extracts, for each sample, the whole volume was evaporated, and the dried water-soluble cell extract was dissolved in 750 µl of phosphate sodium buffer (70 mM Na2HPO4; 20% (v/v) 2H2O; 0.025% (v/v) NaN3; 0.8% (w/v) sodium trimethylsilyl [2,2,3,3-2H4]propionate (TMSP) pH 7.4). A total of 600 µl of the extract were then transferred into 5 mm NMR tubes (Bruker BioSpin srl; Rheinstetten, Germany) for the analysis.</br>
+To prepare the lipid extract, for each sample, the whole volume was evaporated and the dried lipid cell extract was dissolved in 750 µl of CDCl3, and 600 µl were transferred into 5 mm NMR tubes (Bruker BioSpin srl; Rheinstetten, Germany) for the analysis."	"1H-NMR spectra for all samples were acquired using a Bruker 600 MHz spectrometer (Bruker BioSpin srl; Rheinstetten, Germany) operating at 600.13 MHz proton Larmor frequency and equipped with a 5 mm PATXI 1H-13C-15N and 2H-decoupling probe including a z axis gradient coil, an automatic tuning-matching (ATM) and an automatic and refrigerated sample changer (SampleJet, Bruker BioSpin srl; Rheinstetten, Germany). A BTO 2000 thermocouple served for temperature stabilization at the level of approximately 0.1 K at the sample. Before measurement, samples were kept for 5 min inside the NMR probe head, for temperature equilibration at 300 K."	"For each sample, a monodimensional 1H NMR spectra was acquired with water peak suppression and a standard NOESY (Nuclear Overhauser Effect Spectroscopy) pulse sequence using 32 scans; 98,304 data points; a spectral width of 18,028 Hz; an acquisition time of 2.7 s; a relaxation delay of 4 s; and a mixing time of 0.1 s."	"Free induction decays were multiplied by an exponential function equivalent to a 1.0 Hz line-broadening factor before applying Fourier transform. Transformed spectra were automatically corrected for phase and baseline distortions and calibrated (anomeric glucose peak at 5.24 ppm) using TopSpin (Version 3.8.4, Bruker). Each 1-D spectrum in the range between 0.02 and 10.00 ppm was segmented into 0.02 ppm chemical shift bins, and the corresponding spectral areas were integrated using AMIX software(Bruker BioSpin). Regions between 6.0 and 4.5 ppm containing residual water were removed."	"Signal identification was performed using a library of NMR spectra of pure organic compounds, public databases (such as HMBD, Human Metabolic Database, and SDBS, Spectra Database for Organic Compounds) storing reference NMR spectra of metabolites, spiking NMR experiments and literature data [1][2].</br>
+</p>
+Ref:</br>
+[1] Wishart DS, Jewison T, Guo AC, Wilson M, Knox C, Liu Y, Djoumbou Y, Mandal R, Aziat F, Dong E, et al. (2013) HMDB 3.0—The Human Metabolome Database in 2013. Nucleic Acids Res. 41, D801–D807.</br>
+[2] Vinaixa M, Rodriguez MA, Rull A, Beltran R, Blade C, Brezmes J, Canellas N, Joven J, Correig X. (2010) Metabolomic assessment of the effect of dietary cholesterol in the progressive development of fatty liver disease. J. Proteome Res. 9, 2527–2538.
+"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	"cell culture temperature;cell culture antibiotics;seeding density;cell culture CO2 partial pressure;harvesting;cell culture configuration;cell culture vessel;harvesting condition;cell culture medium;metabolism quenching;cell culture serum"	"Extraction protocol"	"NMR tube type;Temperature;Sample pH; Solvent"	"transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	";;;;;;;;;;"	"http://purl.obolibrary.org/obo/ID_0000232"	";;;"	";;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	";;;;;;;;;;"	"BCTEO"	";;;"	";;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ghini"	"Di Nunzio"	"Tenori"	"Valli"	"Danesi"	"Capozzi"	"Claudio"	"Bordoni"
+Study Person First Name	"Veronica"	"Mattia"	"Leonardo"	"Veronica"	"Francesca"	"Francesco"	"Luchinat"	"Alessandra"
+Study Person Mid Initials	""	""	""	""	""	""	""	""
+Study Person Email	"ghini@cerm.unifi.it"	"mattia.dinunzio@unibo.it"	"tenori@cerm.unifi.it"	"veronica.valli9@unibo.it "	"francesca.danesi@unibo.it "	"francesco.capozzi@unibo.it "	"claudioluchinat@cerm.unifi.it"	"alessandra.bordoni@unibo.it "
+Study Person Phone	"+390554574281"	""	"+390554574281"	""	""	""	"+390554574281"	""
+Study Person Fax	""	""	""	""	""	""	""	""
+Study Person Address	"via luigi sacconi 6, 50019, Sesto Fiorentino, Florence, Italy"	"Via Quinto Bucci, 336 - 47521 Cesena (FC), Italy"	"Largo Brambilla, 3 - 50134 Florence (FI) Italy"	"Piazza Goidanich, 60 - 47521 Cesena (FC), Italy"	"Piazza Goidanich, 60 - 47521 Cesena (FC), Italy"	"Piazza Goidanich, 60 - 47521 Cesena (FC), Italy"	"via luigi sacconi 6, 50019, Sesto Fiorentino, Florence, Italy"	"Piazza Goidanich, 60 - 47521 Cesena (FC), Italy"
+Study Person Affiliation	"Cerm, University of Florence"	"Interdepartmental Centre for Industrial Agri-Food Research, University of Bologna"	"Department of Experimental and Clinical Medicine, University of Florence"	"Department of Agri-Food Sciences and Technologies (DISTAL), University of Bologna"	"Department of Agri-Food Sciences and Technologies (DISTAL), University of Bologna"	"Department of Agri-Food Sciences and Technologies (DISTAL), University of Bologna"	"Cerm, University of Florence"	"Department of Agri-Food Sciences and Technologies (DISTAL), University of Bologna"
+Study Person Roles	"Post doctoral"	""	"researcher role"	""	""	"Professor"	"full professor"	"Professor"
+Study Person Roles Term Accession Number	""	""	"http://www.bioassayontology.org/bao#BAO_0002900"	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69170"	"http://purl.obolibrary.org/obo/RoleO_0000677"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69170"
+Study Person Roles Term Source REF	""	""	"BAO"	""	""	"NCIT"	"ROLEO"	"NCIT"

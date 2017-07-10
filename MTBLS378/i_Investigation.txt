@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"BTO"	"MS"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"22"	"22"	"86"	"18"	"146"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS378"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS378"
+Study Title	"FDR-controlled metabolite annotation for high-resolution imaging mass spectrometry imaging MS (LC-MS assay)"
+Study Description	"High-mass-resolution imaging mass spectrometry promises to localize hundreds of metabolites directly from tissues, cell cultures, and agar plates with cellular resolution, but is hampered by the lack of bioinformatics for automated metabolite identification. We developed the first bioinformatics framework for False Discovery Rate (FDR)-controlled metabolite annotation for high-mass-resolution imaging mass spectrometry (https://github.com/alexandrovteam/pySM) introducing a Metabolite-Signal Match (MSM) score and a target-decoy FDR-estimate for spatial metabolomics. LC-MS(/MS) datasets acquired from wild type adult mouse brain were used for the development of spatial metabolomics annotation bioinformatics. This study together with MTBLS317 and MTBLS378 provide the accompanying data for FDR-controlled metabolite annotation for high-resolution imaging mass spectrometry."
+Study Submission Date	"2016-09-14"
+Study Public Release Date	"2016-12-05"
+Study File Name	"s_FDRc-LC-MS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Spatial metabolomics"	"Metabolite-Signal Match (MSM) score"	"False Discovery Rate (FDR)"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	""	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	""	""	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27842059"
+Study Publication DOI	"10.1038/nmeth.4072"
+Study Publication Author List	"Palmer A, Phapale P, Chernyavsky I, Lavigne R, Fay D, Tarasov A, Kovalev V, Fuchser J, Nikolenko S, Pineau C, Becker M, Alexandrov T."
+Study Publication Title	"FDR-controlled metabolite annotation for high-resolution imaging mass spectrometry."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_fdrc-lc-ms_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"QExactive Plus"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"One female adult wild-type C57 mouse age 10 weeks was obtained from the European Molecular Biology Laboratory animal resource (EMBL-LAR, Heidelberg, Germany). The animal was reared under ad-lib conditions within the specific pathogen free facility. Care and handling of the animal complied with EU directive 2010/63/EU on the protection of animals used for scientific purposes. The whole brain was excised from each animal immediately post-mortem and rapidly cryo-frozen in CO2 cooled isopentane. Tissue was stored at -80 °C until use."	"20 mg of brain tissue was extracted using Bligh and Dyer extraction method 33. The dried extract was reconstituted with 100 μl of methanol and isopropanol (1:1) and 10 μl of this sample solution was injected LC-MS system for each run. Lipid standards were prepared in same solvent with concentration of 100 ng/ml each.</br>
+</p>
+All lipid standards used for validation of annotations were purchased from Sigma Chemicals (Sigma-Aldrich Co., St. Louis, MO) and Avanti Polar Lipids (Alabaster, LA, USA). The LC- MS grade buffers and other reagents were purchased from Sigma Chemical. All mass spectrometry grade solvents and MiliQ grade water was used throughout the analysis.
+"	"The separation of lipids was carried out on Agilent 1260 liquid chromatography (LC) system with Ascentis® Express C18 column (100 x 2.1 mm; 2.7 µM) and detected with high resolution mass spectrometry (Q Exactive Plus MS, Thermo Scientific). LC was run with flow rate of 0.25 ml/min with solvent A consisted of acetonitrile−water (6:4) and solvent B of isopropyl alcohol−acetonitrile (9:1), which were buffered with either 10 mM ammonium formate and 0.1% formic acid (buffer 1) or 10 mM ammonium acetate (buffer 2). 
+"	"Three LC-MS/MS methods were used;</br>
+Positive: ESI positive mode using buffer 1</br>
+Negative 1: ESI negative mode method using buffer 1</br>
+Negative 2: ESI negative mode method used buffer 2</br>
+</p>
+MS parameters (Tune, Thermo Scientific) were set as: spray voltage of 4 kV, sheath gas 30 and auxiliary gas 10 units, S-Lens 65 eV, capillary temperature 280 °C and vaporisation temperature of auxiliary gas was 280 °C. Data was acquired in full scan mode in mass range of 150-900 m/z (resolving power R=70000) and data dependent tandem mass spectra (MS/MS) were obtained for all precursors from an inclusion list (resolving power R=35000). Tandem mass spectra (MS/MS) were acquired using higher energy collisional dissociation (HCD) with normalized collision energies of 10, 20 and 30 units at the mass. The inclusion list was composed of all annotations provided from imaging MS analysis and detected in all three serial sections (s1, s2, s3 at the Bregma 1.42) for either of two animals. We considered adducts relevant for LC- MS (+H, +NH4, +Na for the Positive method; -H, -H+HCOOH for the Negative methods).
+
+"	"Centroiding (vendor provided)"	"LC-MS/MS validation of lipid annotations was performed differently for annotations when lipid standards are available and for other annotations. When lipid standards were available, LC-MS/MS information in particular the LC retention time (RT), MS and MS/MS (MS2) was used to compare the data from a standard with the data from a sample (both acquired using exactly the same LC-MS method and precursor selection range). First, extracted ion chromatograms (XICs) were evaluated for all possible adducts to confirm the presence of the ion of the sum formula obtained from imaging data. As for the tolerance value for XICs: for data with standards we used the 5 ppm; for data with no standards we selected the best fitting tolerance value from 2, 3, and 5 ppm. We considered possible adducts for each metabolite (+H, +Na, +NH4 for the ‘Positive’ method; -H, +FA-H for the ‘Negative’ methods, FA stands for the formic acid) and selected the best matching adduct as follows. The precursor delta m/z was calculated for the sample both in MS1 and MS/MS data. The matching MS/MS spectrum was searched within the elution profile and manually interpreted for fragments corresponding to head-group and fatty acid side chains. Only precursor and fragments with accuracy <6 ppm were considered for structural interpretation to identify possible lipid species. The lipid class was confirmed by the presence of head-group fragment or its neutral loss (e.g. MS/MS fragment with m/z 184.0735 corresponds to the phosphocholine head-group). Since lipids from the classes of phosphatidylcholines (PC) and sphingomyelins (SM) have the same head-group (m/z 184.0735), given a sum formula, we searched in HMDB and SwissLipids to rule out a possibility of the sum formula to correspond to a lipid from another class other than annotated by our framework. Further to confirm the fatty acid side chains, the ‘Negative’ LC-MS methods were used (e.g. fatty acid fragments for phosphocholines were obtained after fragmentation of formate ion precursors using the ‘Negative’ LC-MS method). The collision energy was selected as best representing the precursor and the expected fragments. When standards were available, the RT, precursor m/z and MS/MS fragments corresponding to head-groups and fatty acid chains from the sample were matched with spectra from the corresponding standard. When standards were not available the fragments were manually interpreted. Finally, structural annotation of the matching peaks in the MS/MS spectra was performed with the help of the HighChem MassFrontier software (Thermo Scientific). The MS, MS/MS and RT (for standards) data is presented in Supplementary Notes 1, 2 and summarized in Table S5 of the associated paper."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Palmer"	"Phapale"	"Alexandrov"
+Study Person First Name	"Andrew"	"Prasad"	"Theodore"
+Study Person Mid Initials	"D"	""	""
+Study Person Email	"palmer@embl.de"	"pphapale@gmail.com"	"theodore.alexandrov@embl.de"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"EMBL"	"EMBL"	"EMBL"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

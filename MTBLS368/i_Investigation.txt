@@ -1,0 +1,133 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NDFRT"	"BAO"	"CHMO"	"NCBITAXON"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"MESH"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NDFRT"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"4"	"26"	"18"	"6"	"146"	"44"	"22"	"99"	"86"	"6"	"29"	"43"	
+Term Source Description	"National Drug File - Reference Terminology"	"BioAssay Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS368"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS368"
+Study Title	"Nicotinamide Riboside is Uniquely Bioavailable in People and Mice"
+Study Description	"Nicotinamide riboside (NR) is in wide use as an NAD+ precursor vitamin. Here we conducted experiments to determine the time and dose-dependent effects of NR on blood, liver and heart NAD+ metabolism in people and mice. We report that human blood cell NAD+ can rise as much as 2.7-fold with a single dose of NR, that NR elevates mouse hepatic NAD+ with distinct and superior pharmacokinetics to those of nicotinic acid (NA) and nicotinamide (Nam), and that single doses of 100, 300, and 1000 mg of NR provide a dose-dependent increase in the blood cell NAD+ metabolome in the first clinical trial of NR pharmacokinetics. We also report that nicotinic acid adenine dinucleotide (NAAD), which was not thought to be en route for conversion of NR to NAD+, is formed from NR and that the rise in NAAD is a highly sensitive biomarker of effective NAD+ supplementation."
+Study Submission Date	"2016-07-28"
+Study Public Release Date	"2016-09-09"
+Study File Name	"s_NR Kinetics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"high-performance liquid chromatography-mass spectrometry"	"VITAMIN B3"	"nicotinic acid"	"nicotinamide-beta-riboside"	"nicotinic acid dinucleotide"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.bioontology.org/ontology/NDFRT/N0000146087"	"http://purl.obolibrary.org/obo/CHEBI_15940"	"http://purl.bioontology.org/ontology/MESH/C018613"	"http://purl.obolibrary.org/obo/CHEBI_37584"	""
+Study Design Type Term Source REF	"CHMO"	"NDFRT"	"CHEBI"	"MESH"	"CHEBI"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27721479"
+Study Publication DOI	"10.1038/ncomms12948"
+Study Publication Author List	"Samuel A.J. Trammell, Mark S. Schmidt, Benjamin J. Weidemann, Philip Redpath, Frank Jaksch, Ryan W. Dellinger, Zhonggang Li, E. Dale Abel, Marie E. Migaud, Charles Brenner"
+Study Publication Title	"Nicotinamide Riboside is Uniquely Bioavailable in People and Mice"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Gender"	"Dosage in Human Study"	"B3 Vitamin"	"Time"	"Dosage in Murine Study"
+Study Factor Type	"Gender"	"milligram per kilogram body weight"	"Small Molecule"	"timepoint"	"milligram per kilogram body weight"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://www.ebi.ac.uk/efo/EFO_0005354"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48809"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0005354"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_nr_kinetics_metabolite_profiling_mass_spectrometry.txt"	"a_nr_mouse_kinetics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"ACQUITY TQD (Waters)"	"Q-TOF Premier (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"n=1 human experiment:</br>
+After overnight fasting, a healthy 52 year old male self-administered 1000 mg of NR chloride orally at 8 am on 7 consecutive days. Blood and urine were taken for quantitative NAD+ metabolomic analysis. He took 0.25 g of NA to assess sensitivity to flushing and self-reported painful flushing that lasted 1 hr. No flushing was experienced on NR. The study was submitted for approval by the University of Iowa institutional review board (IRB), which ruled it not subject to human subjects research on the basis of informed self-administration [1].</br>
+</p>
+Clinical trial:</br>
+A randomized, double-blind, three-arm crossover pharmacokinetic study of oral NR chloride was performed at 100, 300, and 1000 mg doses (NCT02191462). Twelve healthy, non-pregnant subjects (6 male, 6 female) between the ages of 30 and 55 with body mass indices of 18.5 - 29.9 kg/m2 were recruited and randomized to one of three treatment sequences after screening, passing eligibility criteria and providing informed consent. Subjects taking multi-vitamins, vitamin B3 in any form, or consuming diets that could contain unusually high amounts of NA, Nam or NR were excluded. Complete exclusion criteria are provided in Supplementary Materials. 
+Overnight fasted subjects received a single morning dose of either 100 mg, 300 mg, or 1000 mg of NR on three test days separated by 7-day periods in which no supplement was given. To evaluate pharmacokinetics, blood was collected and separated into plasma and PBMC fractions for analysis of the NAD+ metabolome at pre-dose and again at 1, 2, 4, 8, and 24 hr. Urine was collected pre-dose and in 0 - 6 hr, 6 -12 hr and 12 - 24 hr fractions. Safety, vitals, biometrics, complete blood counts and a comprehensive metabolic panel were assessed at time zero and 24 hr after each dose.</br>
+</p>
+The study was reviewed and approved by the Natural Health Products Directorate, Health Canada and IRB Services, Aurora, Ontario. Written informed consent was obtained from each subject at the screening visit prior to all study-related activities.
+</p>
+Mice:</br>
+For gavage experiments, 12 week old male C57Bl/6J mice (Jackson Laboratories, Bar Harbor, ME) were housed 3 - 5 mice per cage on a chow diet (Teklad 7013) for one week prior to the experiment. Body weight-matched groups were randomly assigned to be given either 185 mg NR Cl /kg body weight (n = 3) or equimole amounts of NA (n = 4) or Nam (n = 4) by saline gavage. On each sacrifice day, a saline injection (n = 3) was performed and served as time point zero and an additional saline gavage (n = 3) time course was performed. To avoid circadian effects, time courses were established such that all sacrifices were performed at ~ 2 pm. With protocols approved by the University of Iowa Office of Animal Resources, mice were live-decapitated and the medullary lobe of the liver was freeze-clamped at liquid nitrogen temperature. For IP experiments, 6 - 8 week old, male C57Bl/6J mice were injected with either phosphate buffered saline or 500 mg NR Cl /kg body weight for six days. With protocols approved by the Institutional Animal Care and Use Committee of University of Utah, mice were anesthetized by chloral hydrate and the liver and hearts were freeze-clamped at liquid nitrogen temperature. Tissues were stored at -80 °C prior to analysis.</br>
+</p>
+Ref:</br>
+[1] Altman, L. K. Who Goes First: The Story of Self-experimentation in Medicine. (University of California Press, 1987).
+
+
+"	"Dual extractions were carried out for complete analysis of the NAD+ metabolome. For analysis of NR, Nam, NA, MeNam, Me2PY, and Me4PY (group A analytes or Acid group), samples were spiked with 60 pmol of [18O1]-Nam, [18O1]-NR, and [D3, 18O1]-MeNam and 240 pmol [D4]-NA (internal standard (IS) A). For analysis of NAD+, NADP+, NMN, NAR, NAMN, NAAD, and ADPR (group B analytes or Alkaline group), samples were dosed with 13C-yeast extract (IS B) as described [1]. For both human and mouse samples, samples were transferred to Waters polypropylene plastic total recovery vials (Part no. 186002639) after extraction or preparation and stored in a Waters Acquity H class autosampler maintained at 8 °C until injection. In all cases, 10 µl of extract was loaded onto the column.
+</p>
+Human Samples:</br>
+100 µl of urine was mixed with 20 µl of IS A in 5% (v/v) formic acid or IS B in water for the analysis of group A and B analytes, respectively. 50 µl of ice-cold methanol was added and the mixture vortexed prior to centrifugation at 16.1 kg at 4 °C for 10 min. Supernatants were injected without further dilution and analyzed as described below. Standard curves and quality controls for the complete analysis were prepared in the same manner as described for urine samples but in water.</br>
+To quantify group A analytes in plasma, 100 µl of plasma was added to 20 µl of IS A prepared in 5% (v/v) formic acid and mixed with 400 µl of ice-cold methanol. The mixture was allowed to sit on ice for 20 min then centrifuged as described for urine. After drying under vacuum overnight at 35 °C, the sample was reconstituted in 100 µl of water. To quantify group B analytes, 100 µl of plasma was added to 10 µl of IS B in water and mixed with 300 µl of acetonitrile with vortexing for 15 sec. After briefly resting on ice, the samples were centrifuged as above. Supernatants were applied to Phenomenex Phree SPE cartridges (Torrance, California, USA) and the flow-through collected. 200 µl of aqueous acetonitrile (4 volumes acetonitrile:1 volume water) was also applied and the flow through collected. The flow-through from both steps was combined and dried via speed vacuum. Samples were reconstituted in 60 µl of water. Standard curves and quality controls for both analyses were prepared in donor plasma (University of Iowa DeGowin Blood Center, Iowa City, IA, USA) and extracted using the same method employed for plasma samples.
+Blood cell fractions were thawed on ice and simultaneously extracted for both A and B analyses when possible. 100 µl of sample was added to either 20 µl of IS A in 5% formic acid (v/v) or 10 µl IS B in water for quantification of group A and B analytes, respectively. Samples were then mixed with 300 µl of acetonitrile and vortexed for 15 sec. Samples were shaken for 5 min at 40 °C then centrifuged as described above. For group A analytes, supernatants were dried via speed vacuum overnight at 35 °C after this step. For group B analytes, supernatant was applied to Phenomenex Phree SPE cartridges and treated in the same manner as described above for quantification of group B analytes in plasma. Immediately prior to analysis, samples were reconstituted in either 100 µl of 10 mM ammonium acetate with 0.1% formic acid (for group A analyte quantification) or 100 µl of 5% (v/v) aqueous methanol (for group B analyte quantification). Standard curves were prepared in water and processed in the same manner as samples.
+</p>
+Murine Samples:</br>
+Murine liver and heart obtained by freeze-clamp was pulverized using a Bessman pulverizer (100 – 1000 mg size) (Spectrum Laboratories, Rancho Dominguez, California) cooled to liquid N2 temperatures. Each pulverized liver and heart sample was aliquoted (5 – 20 mg) into two liquid N2 cooled 1.5 ml centrifuge tubes, which were stored at -80 °C until analysis. Prior to extraction, IS A and IS B were added to separate aliquots resting on dry ice for quantification of group A and B analytes, respectively. Samples were extracted by addition of 0.1 ml of buffered ethanol (3 volumes ethanol: 1 volume 10 mM HEPES, pH 7.1) at 80 °C. Samples were vortexed vigorously until thawed, sonicated in a bath sonicator (10 sec followed by 15 sec on ice, repeated twice for liver and thrice for heart), vortexed, then placed into a Thermomixer (Eppendorf, Hamburg, Germany) set to 80 °C and shaken at 1050 rpm for five min. Samples were centrifuged as described above. Clarified supernatants were transferred to fresh 1.5 ml tubes and dried via speed vacuum for two h. Prior to LC-MS/MS analysis, samples were resuspended in 40 µl of 10 mM ammonium acetate (>99% pure) in LCMS-grade water. Sample preparation following [13C1, D1]-NR administration differed only in the following respect. 60 pmol of [D4]-Nam and [D3, 18O1]-MeNam and 240 pmol of [D4]-NA was added to sample in lieu of IS A. Standard curves were performed without extraction in water.</br>
+</p>
+Ref:</br>
+[1] Trammell SA, Brenner C. Targeted, LCMS-based Metabolomics for Quantitative Measurement of NAD(+) Metabolites. Comput Struct Biotechnol J. 2013 May;4(5). doi: 10.5936/csbj.201301012. 
+"	"Separation and quantitation of analytes were performed with a Waters Acquity LC interfaced with a Waters TQD mass spectrometer operated in positive ion multiple reaction monitoring mode as described in Trammell and Brenner (2013)[1]. MeNam, Me2PY, and Me4PY were added to the analysis and detected using the following transitions: MeNam (m/z 137 > 94, cone voltage = 8 V, collision energy = 20 V); Me2PY (m/z 153 > 107, cone voltage = 44 V, collision energy = 22 V); and Me4PY (m/z 153 > 136, cone voltage = 24 V, collision energy = 14 V).</br>
+For the analysis of urine, plasma, and murine liver, group A analytes were separated as described for the acid separation. In blood cells, group A analytes were separated on a 2.1 x 150 mm Synergy Fusion-RP (Phenomenex, Torrance, CA, US) using the same gradient and mobile phase as described for the acid separation. For human samples, group B analytes were separated using the mobile phase and gradient as previously described for the alkaline separation. Murine liver extracts were analyzed using a slightly altered alkaline separation on a 2.1 x 100 mm Thermo Hypercarb column. Specifically, flow rate was increased to 0.55 ml/min and run time shortened to 11.6 min. Separation was performed using a modified gradient with initial equilibration at 3% B, a 0.9 min hold, a gradient to 50% B over 6.3 min, followed by a 1 min wash at 90% B and a 3 min re-equilibration at 3% B.
+</p>
+Ref:</br>
+[1] Trammell SA, Brenner C. Targeted, LCMS-based Metabolomics for Quantitative Measurement of NAD(+) Metabolites. Comput Struct Biotechnol J. 2013 May;4(5). doi: 10.5936/csbj.201301012. "	"Quantitation of analytes was performed with a Waters Acquity LC interfaced with a Waters TQD mass spectrometer operated in positive ion multiple reaction monitoring mode.</br>
+</p>
+Analysis of enrichment in murine liver was performed with a Waters Q-TOF Premier mass spectrometer operated in positive ion, full scan mode with the same LC conditions as described for non-enrichment experiments. Enrichment data were corrected for natural isotope abundance based on theoretical isotope distribution, 13-carbon abundance skew, and the purity of the labeled standard (3/97% [13C1]-NR/[13C1, D1]-NR). Quantitation was performed on the Waters TQD as described above and used to determine the quantity of non-labeled and labeled metabolites."	"Analytes were quantified in mol amounts using QuanLynx V4.1. These mol amounts were normalized to wet tissue weight in murine studies. Human peripheral blood mononuclear cells were normalized to blood volume. Human urine was normalized to mmol of creatinine."	"Metabolites were identified based upon retetion time and single reaction monitoring transition [1]. In enrichment experiments, metabolites were identified via retention time and mass (mass accuracy <5 mDa).
+</p>
+Ref:</br>
+[1] Trammell SA, Brenner C. Targeted, LCMS-based Metabolomics for Quantitative Measurement of NAD(+) Metabolites. Comput Struct Biotechnol J. 2013 May;4(5). doi: 10.5936/csbj.201301012. "
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Brenner"
+Study Person First Name	"Charles"
+Study Person Mid Initials	""
+Study Person Email	"charles-brenner@uiowa.edu"
+Study Person Phone	"+1 319-335-7934"
+Study Person Fax	"+1 319-335-9570"
+Study Person Address	"Department of Biochemistry
+4-403 Bowen Science Building
+51 Newton Road
+Iowa City, IA 52242"
+Study Person Affiliation	"University of Iowa"
+Study Person Roles	"Principal Investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

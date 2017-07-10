@@ -1,0 +1,118 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"EFO"	"BTO"	"CHMO"	"CHEBI"	"NCIT"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"103"	"22"	"4"	"132"	"26"	"16"	"93"	"40"	"43"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS226"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS226"
+Study Title	"Metabolomics identifies the intersection of phosphoethanolamine with menaquinone- triggered apoptosis in an in vitro model of leukemia"
+Study Description	"Altered metabolism is increasingly acknowledged as an important aspect of cancer, and thus serves as a potentially fertile area for the identification of therapeutic targets or leads. Our recent work using transcriptional data to predict metabolite levels in cancer cells led to preliminary evidence of the antiproliferative role of menaquinone (vitamin K2) in the Jurkat cell line model of acute lymphoblastic leukemia. However, nothing is known about the direct metabolic impacts of menaquinone in cancer, which could provide insights into its mechanism of action. Here, we used metabolomics to investigate the process by which menaquinone exerts antiproliferative activity on Jurkat cells. We first validated the dose-dependent, semi-selective, pro-apoptotic activity of menaquinone treatment on Jurkat cells relative to non-cancerous lymphoblasts. We then used mass spectrometry-based metabolomics to identify systems-scale changes in metabolic dynamics that are distinct from changes induced in noncancerous cells or by other chemotherapeutics. One of the most significantly affected metabolites was phosphoethanolamine, which exhibited a two-fold increase in menaquinone-treated Jurkat cells compared to vehicle-treated cells at 24 h, growing to a five-fold increase at 72 h. Phosphoethanolamine elevation was observed prior to the induction of apoptosis, and was not observed in menaquinonetreated lymphoblasts or chemotherapeutic-treated Jurkat cells. We also validated the link between menaquinone and phosphoethanolamine in an ovarian cancer cell line, suggesting potentially broad applicability of their relationship. This metabolomics-based work is the first detailed characterization of the metabolic impacts of menaquinone treatment and the first identified link between phosphoethanolamine and menaquinone-induced apoptosis."
+Study Submission Date	"2015-09-09"
+Study Public Release Date	"2015-10-19"
+Study File Name	"s_Menaquinone treated Leukemia.txt"
+Comment[Study Grant Number]	"R21CA167500"
+Comment[Study Funding Agency]	"National Institute of Health"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"two-dimensional gas chromatography"	"cancer"	"gas chromatography-mass spectrometry"	"Apoptosis"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002886"	"http://www.ebi.ac.uk/efo/EFO_0000311"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17557"	""
+Study Design Type Term Source REF	"CHMO"	"EFO"	"CHMO"	"NCIT"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26175011"
+Study Publication DOI	"http://dx.doi.org/10.1039/c5mb00237k"
+Study Publication Author List	"Suganthagunthalam Dhakshinamoorthy
+Nha-Truc Dinh
+Jeffrey Skolnick
+Mark P. Styczynski"
+Study Publication Title	"Metabolomics identifies the intersection of phosphoethanolamine with menaquinone-triggered
+apoptosis in an in vitro model of leukemia"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"compound"	"dose"	"time post exposure"
+Study Factor Type	"Compound"	"dose"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366"	"http://www.ebi.ac.uk/efo/EFO_0000428"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_Jurkat_mass_spectrometry.txt"	"a_Lymphoblast_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"a LECO Pegasus 4D instrument with an Agilent 7683B autosampler, Agilent 7890A gas chromatograph and time-of-flight mass spectrometer "	"a LECO Pegasus 4D instrument with an Agilent 7683B autosampler, Agilent 7890A gas chromatograph and time-of-flight mass spectrometer "
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The Jurkat cells and normal lymphoblasts were seeded at a density of 200000 cells/ml in T75 tissue culture flasks. Cells were treated with 25 & 35 µM menaquinone (MQ, vitamin K2), 0.02 µM docetaxel, 0.4 µM doxorubicin and DMSO-vehicle control in new media at 24h after seeding. All treatments were performed in biological triplicate. Cell suspensions for metabolite extractions were collected from the same flasks at 0, 24, 48 & 72 h after the treatments and subjected to fast filtration and quenching."	"Vacuum assisted-fast filtration on a vacuum manifold (Pall, Port Washington, NY, USA) was used to quickly remove media, followed by a 10 ml PBS wash. Filters (47 mm, 0.45 µM, PES; Millipore, Billerica, MA, US; catalog #HPWP04700) capturing the cells were immediately transferred to 1.5 ml of -80 °C methanol in a petri dish (60 mm x 15 mm) on dry ice and stored at -80 °C for 24 h for thorough extraction. The filters were rinsed with the methanol cell suspension, and the suspension was transferred to microcentrifuge tubes, vigorously mixed for 30 sec and centrifuged at 5000 x g for 5 min at -5 °C. Supernatants were collected and pellets were re-suspended in 250 µl of cold 100% methanol and centrifuged at the same conditions. Supernatants were pooled, and pellets were re-suspended in 250 µl ice cold ultrapure water and centrifuged at 5000 x g for 5 min at 4 °C.
+</p>
+The following labelling conventions were used for naming the samples:</br>
+J represents - Jurkat cell line (Leukemia)</br>
+L represents - Noncancerous lymphoblast cell line</br>
+The numbers 0, 24, 48, 72 represents the time (h) post exposure to the treatments</br>
+A - Solvent treated control</br>
+B - 25 µM menaquinone treatment</br>
+C - 35 µM menaquinone treatment</br>
+1 - biological replicate 1</br>
+2 - biological replicate 2</br>
+3 - biological replicate 3</br>
+Doxo - Doxorubicin treated control</br>
+Doce - Docetaxel treated control</br>"	"An Agilent 7683B autosampler fitted to an Agilent 7890A gas chromatograph adapted to GCxGC analysis was used.  The first column was an HP-5, 30 m long x 0.320 mm ID x 0.25 µm film thickness (Agilent, Santa Clara, CA, USA), and the second was an Rtx-200, 2 m long x 0.25 mm ID x 0.25 µm film thickness (Restek, Bellefonte, PA, USA). Helium was used as the carrier gas with a corrected constant flow rate of 1.00 ml/min. The inlet septum purge flow was maintained at 3 ml/min. The inlet was functioning in splitless mode with a purge flow of 100 ml/min delayed to start 30 seconds after injection, giving a total flow of 101 ml/min. Runs were performed in a gas saver mode with a flow of 20 ml/min set to start a minute after injection. Front inlet temperature was set at 250 °C for the entire run.  The primary oven temperature was held at 70 °C for 1 min and the temperature was ramped at 10 °C/min until 315 °C and held for 2 min. The secondary oven temperature and the modulator temperature offsets were 5 °C and 20 °C above the main oven respectively. One minute equilibration time was set for the ovens. The transfer line temperature was maintained at 320 °C for the entire run. From start to 450 s, a modulation period of 5 s was programmed with 1.00 s hot pulse and 1.50 s cool time. Modulation period was 6 s from 450 to 756 with 1.50 s each hot pulse and cool time. Modulation was reduced back to 5 s from 756 till the end of run with the hot and cold pulse of 1.50 s and 1.00 s respectively."	"A Leco Pegasus 4D time of flight mass spectrometer (TOF-MS) with electron impact ionization was used for mass analysis. Filaments were turned off for the initial 400 s to delay mass acquisition until after the solvent peak. The mass scanning range was from 50 to 500 u with a sampling rate of 200 spectra/s. The detector voltage was set at 100 V above the optimized voltage with an electron energy of -70 V. Manual mass defect mode was used with the mass defect 0 mu/100 u. Ion source temperature was required to reach 220 °C before starting mass acquisition."	"None"	"Date output from instrument was first analyzed with ChromaTOF (LECO, St. Joseph, MI) to determine baseline, peak area, and peak identities. Software settings included a baseline offset of 0.5, automatic smoothing, 1st dimension peak width of 24 s, 2nd dimension peak width of 0.25 s, and a match of 700 was required to combine peaks with a minimum signal-to-noise (S/N) of 10 for all subpeaks. Peaks were required to have a S/N of 100 and a minimum similarity score of 800 before assigning a name. Unique mass was used for peak area calculation.
+</p>
+To align the samples, MetPP (http://metaopen.sourceforge.net/metpp.html) was used, along with the extraction blank file used for peak deduction. Unknowns were retained during peak alignment. On-the-fly alignment was used with quality control samples manually selected as the peak list for primary alignment. Peak alignment was performed using the default criteria.
+</p>
+After alignment, further processing of the data was done to remove any batch effects from the data set using LOESS. To remove analytes that were not reproducibly detected, analytes for which more than half of the values were missing in the QC samples or for which the QC samples had a coefficient of variance larger than 0.5 were removed from the data set. Then, missing values were manually corrected using small value correction only if more than half of the values in biological replicates were missing. (However, we note that for the OVCAR-3 validation experiments, since only one metabolite was being tested and there were very few samples, direct results from ChromaTOF were used because the downstream analysis steps were either unnecessary or inappropriate.) 
+</p>
+Annotated analytes were then compared to the Kyoto Encyclopedia of Genes and Genomes (KEGG) and the Human Metabolome Database (HMDB); if they were listed in KEGG and HMDB they were considered annotated as metabolites. The metabolites were then verified by a manual confirmation of similarity between the annotated peak spectrum and the library spectrum."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type 1;Column model 1;Column type 2;Column model 2"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Styczynski"	"Dhakshinamoorthy"
+Study Person First Name	"Mark"	"Suganthagunthalam"
+Study Person Mid Initials	"P"	""
+Study Person Email	"mark.styczynski@chbe.gatech.edu"	"suganthamoorthy@gmail.com"
+Study Person Phone	"+1 (404) 894-2825 "	""
+Study Person Fax	""	""
+Study Person Address	"School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, 950 Atlantic Dr., Atlanta, GA 30332-0100."	"School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, 950 Atlantic Dr., Atlanta, GA 30332-0100. "
+Study Person Affiliation	""	""
+Study Person Roles	"Principal Investigator"	"Postdoctoral research fellow"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

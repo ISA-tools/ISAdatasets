@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"NCIT"	"CHMO"	"CHEBI"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"86"	"44"	"5"	"80"	"29"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS280"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"Boonstra"	"Hankemeier"
+Investigation Person First Name	"Andre"	"Thomas "
+Investigation Person Mid Initials	""	""
+Investigation Person Email	"p.a.boonstra@erasmusmc.nl"	"hankemeier@lacdr.leidenuniv.nl"
+Investigation Person Phone	"+31 (0)10 7032792"	"+31 (0)71 527 4226"
+Investigation Person Fax	""	""
+Investigation Person Address	"Erasmus MC, 's Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands"	"Gorlaeus Laboratories, Einsteinweg 55, 2333 CC Leiden, The Netherlands"
+Investigation Person Affiliation	"Department of Gastroentrology and Hepatology, Erasmus MC"	"Faculty of Science, Leiden Academic Centre for Drug Research, Analytical BioSciences"
+Investigation Person Roles	"associate professor"	"professor"
+Investigation Person Roles Term Accession Number	""	""
+Investigation Person Roles Term Source REF	""	""
+STUDY
+Study Identifier	"MTBLS280"
+Study Title	"Metabolic characterization of the natural progression of chronic hepatitis B (Biogenic amine and Acyl-carnitine assays)."
+Study Description	"Background: Worldwide, over 350 million people are chronically infected with the hepatitis B virus (HBV) and are at increased risk of developing progressive liver diseases. The confinement of HBV replication to the liver, which also acts as the central hub for metabolic and nutritional regulation, emphasizes the interlinked nature of host metabolism and the disease. Still, the metabolic processes operational during the distinct clinical phases of a chronic HBV infection—immune tolerant, immune active, inactive carrier, and HBeAg-negative hepatitis phases—remains unexplored. </p> Methods: To investigate this, we conducted a targeted metabolomics approach on serum to determine the metabolic progression over the clinical phases of chronic HBV infection, using patient samples grouped based on their HBV DNA, alanine aminotransferase, and HBeAg serum levels. </p> Results: Our data illustrate the strength of metabolomics to provide insight into the metabolic dysregulation experienced during chronic HBV. The immune tolerant phase is characterized by the speculated viral hijacking of the glycerol-3-phosphate–NADH shuttle, explaining the reduced glycerophospholipid and increased plasmalogen species, indicating a strong link to HBV replication. The persisting impairment of the choline glycerophospholipids, even during the inactive carrier phase with minimal HBV activity, alludes to possible metabolic imprinting effects. The progression of chronic HBV is associated with increased concentrations of very long chain triglycerides together with citrulline and ornithine, reflective of a dysregulated urea cycle peaking in the HBV envelope antigen-negative phase. </p> Conclusions: The work presented here will aid in future studies to (i) validate and understand the implication of these metabolic changes using a thorough systems biology approach, (ii) monitor and predict disease severity, as well as (iii) determine the therapeutic value of the glycerol-3-phosphate–NADH shuttle. </p> The Oxylipin assay and the Lipid assays for this study can be found in the MetaboLights studies MTBLS253 and MTBLS279 respectively."
+Study Submission Date	"2015-11-17"
+Study Public Release Date	"2016-06-06"
+Study File Name	"s_mtbls280.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"amine"	"ultra-performance liquid chromatography-mass spectrometry"	"chronic hepatitis B infection"	"O-acylcarnitine"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHEBI_32952"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://www.ebi.ac.uk/efo/EFO_0004239"	"http://purl.obolibrary.org/obo/CHEBI_17387"
+Study Design Type Term Source REF	""	"CHEBI"	"CHMO"	"EFO"	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1186/s13073-016-0318-8"
+Study Publication Author List	"JC Schoeman, J Hou, AC Harms, RJ Vreeken, R Berger, T Hankemeier, and A Boonstra"
+Study Publication Title	"Metabolic characterization of the natural progression of chronic Hepatitis B"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"control"	"phase"
+Study Factor Type	"Yes or No Response"	"phase"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_amine_mass_spectrometry.txt"	"a_acyl_carnitine_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo TQ MS"	"Xevo TQ MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Study population:</br>
+69 chronic HBV patients and 19 healthy controls (HCs) were included in this discovery study. Blood was prospectively collected in SST tubes at the Erasmus MC and centrifuged to separate the serum and stored at -80 °C until analysis. Patients were treatment naïve and excluded if they had other chronic infections (HIV, hepatitis C virus) or a body mass index of 31 or more. This study was conducted in accordance with the guidelines of the Declaration of Helsinki and the principles of Good Clinical Practice. The ethical review board of the Erasmus MC approved the study and informed consent was obtained from all patients who were asked to donate blood.
+</p>
+Definition of chronic HBV clinical phases:</br>
+Serum ALT was measured on an automated analyzer, qualitative serum HBV surface antigen (HBsAg), HBeAg, and anti-HBeAg antibodies (Abs) were measured on an Architect Abbott analyzer, and serum HBV DNA levels were measured using the COBAS AmpliPrep-COBAS Taq- Man HBVv2test (CAP-CTM; Roche Molecular Systems, Indianapolis, IN). Based on serum HBV DNA, ALT levels and HBeAg presence at the time of sampling, patients were categorized into four clinical HBV phases according to international guidelines[1]. Immune tolerant (IT, n=18) patients had detectable serum HBeAg and repetitive normal ALT values (<40 U/l). The HBeAg-positive immune active (IA, n=12) and HBeAg-negative (ENEG, n=19) patients had repetitive or intermittent abnormal serum ALT (>40 U/l) values, and HBV DNA levels >2,000 IU/ml. Inactive carrier (IC, n=20) patients were HBeAg-negative and had both repetitive normal ALT values (<40 IU/l) and HBV DNAllevels below 20,000 IU/ml.</br>
+Note: A Unit (U)/litre(l) (SI unit) is equivalent to an International (IU)/litre(l) (US unit)[2]
+</p>
+Quality control samples:</br>
+Quality control (QC) samples consisted of equally pooled volumes of all study samples. A set of QC samples was then included during the analyses of the experimental groups on the individual metabolomic platforms and evenly distributed through the randomized samples prior to liquid chromatography–mass spectrometry (LC–MS) analyses. In addition, independent duplicate samples (10–15%) were randomly selected where sample volume allowed.
+</p>
+Ref:</br>
+[1] European Association For The Study Of The, 2012 #259 (Table 2)</br>
+[2] SI to US units conversion.pdf, included with this study.</br>"	"Amines:</br>
+The amine platform covers amino acids and biogenic amines employing an Accq-tag derivatization strategy adapted from the protocol supplied by Waters. 5 µl of each serum sample was spiked with an internal standard solution, thiol amines are released from proteins and converted to reduced using TCEP. Then proteins are precipitated by the addition of methanol. The supernatant was transferred to a new eppendorf tube and dried under vacuum. The residue was reconstituted in borate buffer (pH 8.5) with AQc reagent. After reaction, 3 µl of 20% formic acid was added to lower the pH. The supernatant was transferred to a vial and the samples were transferred to an autosampler tray and cooled to 10 °C until the injection. 1.0 µl of the reaction mixture was injected into the UPLC-MS/MS system.
+</p>
+Acyl-Carnitines:</br>
+The acyl-carnitine platform covers acyl-carnitines as well as trimethylamine-N-oxide, choline, betaine, deoxycarnitine and carnitine. 10 µl of each sample was spiked with an internal standard solution, followed by deproteination by addition of methanol. The supernatant was transferred to an auto-sampler vial. The vials were transferred to an auto-sampler tray and cooled to 10 °C until the injection. 1.0 µl of the reaction mixture was injected into the UPLC-MS/MS system."	"An ACQUITY UPLC system with autosampler (Waters, Etten-Leur, The Netherlands) was used. The samples were analyzed using an Accq-Tag Ultra column (Waters)."	"A Xevo Tandem quadrupole mass spectrometer (Waters) operated using QuanLynx data acquisition software (version 4.1; Waters) was used as mass spectrometric method. The Xevo TQ was used in the positive-ion electrospray mode and all analytes were monitored in Multiple Reaction Monitorìng (MRM) using nominal mass resolution."	"Amines:</br>
+Acquired data were evaluated using TargetLynx software (waters), by ìntegration of assigned MRM peaks and normalization using proper internal standards. For analysis of amino acids their 13C15N-labeled analogs were used. For other amines, the closest-eluting internal standard was employed. Blank samples were used to correct for background, and ìn-house developed algorithms were applied using the pooled QC samples to compensate for shifts in the sensitivity of the mass spectrometer over the batch.
+</p>
+Acyl-carnitines:</br>
+Acquired data were evaluated using TargetLynx software (Waters), by integration of assigned MRM peaks and normalization using internal standards. The closest-eluting internal standard was employed and in-house developed algorithms were applied, using the pooled QC samples to compensate for shifts in the sensitivity of the mass spectrometer over the batch."	"MRM transitions were achieved by flow injection of pure standards and the optimizer application and were compared to literature. Then the MRM transitions were used for identification of each compound. The data was then subjected to Anova and K-means pattern analyses."
+Study Protocol URI	"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291832/pdf/11306_2011_Article_306.pdf"	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Chemical Fractionation;Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Schoeman"	"Hou"
+Study Person First Name	"Johannes Cornelius"	"Jun"
+Study Person Mid Initials	""	""
+Study Person Email	"j.c.schoeman@lacdr.leidenuniv.nl"	"j.hou@erasmusmc.nl"
+Study Person Phone	"+31 (0)71 527 5682"	""
+Study Person Fax	""	""
+Study Person Address	"Gorlaeus Laboratories, Einsteinweg 55, 2333 CC Leiden"	"Erasmus MC, 's Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands"
+Study Person Affiliation	"Faculty of Science, Leiden Academic Centre for Drug Research, Analytical BioSciences"	"Department of Gastroentrology and Hepatology, Erasmus MC"
+Study Person Roles	"Scientist"	"Research Doctorate"
+Study Person Roles Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28249"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67144"
+Study Person Roles Term Source REF	"NCIT"	"NCIT"

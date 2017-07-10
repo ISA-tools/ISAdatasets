@@ -1,0 +1,110 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"CHMO"	"EFO"	"NCIT"	"OBI"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"22"	"18"	"146"	"44"	"22"	"86"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS124"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS124"
+Study Title	"Large-scale non-targeted plasma metabolomics in the Uppsala Longitudinal Study of Adult Men"
+Study Description	"The Uppsala Longitudinal Study of Adult Men (ULSAM) study is an ongoing, longitudinal, epidemiologic study started in 1970 and based on men born between 1920 and 1924 in Uppsala, Sweden which were invited to participate at age 50 (N=2,841) [PMID: 9484991]; 81.7% (N=2,322) participated. Individuals were reinvestigated at the ages of 60, 70, 77, 82 and 88 years. Information collected includes a medical questionnaire, blood pressure and anthropometric measurements, glucose tolerance test and 24-hour ambulatory blood pressure. Metbaolomics has been performed on plasma samples from age 70. In the final analysis we included samples from 1,138 individuals."
+Study Submission Date	"2014-10-17"
+Study Public Release Date	"2015-03-23"
+Study File Name	"s_ULSAM.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Cohort Study"	"Population Based Study"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15208"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53307"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	"NCIT"	"NCIT"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""	"25502724"
+Study Publication DOI	"dx.doi.org/10.1101/002782"	"10.1371/journal.pgen.1004801"
+Study Publication Author List	"Andrea Ganna, Tove Fall, Woojoo Lee, Corey D Broeckling, Jitender Kumar, Sara Hagg, Patrik K.E. Magnusson, Jessica Prenni, Lars Lind, Yudi Pawitan, Erik Ingelsson"	"Ganna A, Salihovic S, Sundström J, Broeckling CD, Hedman AK, Magnusson PK, Pedersen NL, Larsson A, Siegbahn A, Zilmer M, Prenni J, Arnlöv J, Lind L, Fall T, Ingelsson E."
+Study Publication Title	"A workflow for UPLC-MS non-targeted metabolomic profiling in large human population-based studies"	"Large-scale Metabolomic Profiling Identifies Novel Biomarkers for Incident Coronary Heart Disease."
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Injection number"	"Spectrum type"	"RMSD"	"Analysis date"	"Plate effect"	"Age"	"Gender"
+Study Factor Type	"technical replicate"	"spectrum type"	"Standard Deviation"	"Date"	"Group"	"Age"	"Gender"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002090"	"http://purl.obolibrary.org/obo/MS_1000559"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53322"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"
+Study Factor Type Term Source REF	"EFO"	"MS"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_ulsam_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Xevo G2 QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Men born between 1920 and 1924 in Uppsala, Sweden were invited to participate at age 50 (N=2,841) in this longitudinal cohort study, which was started in 1970 [1]; 81.7% (N=2,322) participated. Individuals were reinvestigated at the ages of 60, 70, 77, 82 and 88 years. Information collected includes a medical questionnaire, blood pressure and anthropometric measurements, glucose tolerance test and 24-hr ambulatory blood pressure.
+</p> 
+At age 70, EDTA-plasma, citrate-plasma, serum and whole blood for DNA extraction were collected from fasting participants and stored at -70° C in liquid nitrogen until analysis. Additional EDTA-plasma was collected during oral glucose tolerance test. EDTA-plasma samples were used for the metabolomic profiling. Plasma samples were available for 1,138 participants at 70 years of age (1991-1994). We excluded 110 participants that experienced a CHD event before baseline, resulting in 1,028 individuals included in the current study.
+</p>
+Ref: </br>
+[1] Byberg L, Siegbahn A, Berglund L, McKeigue P, Reneland R, et al. (1998) Plasminogen activator inhibitor-1 activity is independently related to both insulin sensitivity and serum triglycerides in 70-year-old men. Arterioscler Thromb Vasc Biol 18: 258–264. PMID:9484991</br>"	"Plasma samples were thawed and 100 µl of plasma was transferred to 400 µl methanol in 96-well format to precipitate proteins. This 80% methanol solution was stored at -20 ºC overnight, and then centrifuged for 30 min at 3800 x g in 4 ºC to pellet precipitated protein. The supernatant was aliquoted to 3 separate 96-well plates, sealed using a heat-seal foil, and stored at -20 ºC until analysis.  Plate analysis order was completely randomized for each set of injections, and plates were run in batches of 2 plates, reflecting the autosampler capacity. Within each set of 2 plates, the run order was again completely randomized to prevent injection order artifacts. Duplicate injections were performed for all samples, with the second set of injections performed upon completion of the first set of injections for all samples."	"One µl injections of protein-precipitated plasma were performed on a Waters Acquity UPLC system. Separation was performed using a Waters Acquity UPLC BEH C8 column (1.8 µm, 1.0 x 100 mm), using a gradient from solvent A (95% water, 5% methanol, 0.1% formic acid) to solvent B (95% methanol, 5% water, 0.1% formic acid). Injections were made in 100% A, which was held for 0.1 min, ramped to 40% B in 0.9 min, to 70% B over 2 min, and to 100% B over 8 min. The mobile phase was held at 100% B for 6 min, returned to starting conditions over 0.1 min, and allowed to re-equilibrate at for 5.9 min. Flow rate was constant at 140 µl/min for the duration of the run. The column was held at 50 ºC, while samples were held at 10 ºC."	"Column eluent was infused into a Waters Xevo G2 QTOF MS fitted with an electrospray source. Data was collected in positive ion mode, scanning from 50-1200 at a rate of 5 scans per second. Scans were collected alternatively in MS mode at collision energy of 6 V and in idMS/MS mode using higher collision energy (15-30 V). IdMS/MS (also called MSE or MSn) allows for unbiased view of MS/MS fragmentation without additional experiments. 
+</p>
+Calibration was performed prior to sample analysis via infusion of sodium formate solution, with mass accuracy within 1 ppm. The capillary voltage was held at 2200 V, the source temp at 150 ºC, and the desolvation temperature at 350 ºC at a nitrogen desolvation gas flow rate of 800 l/hr. The quadrupole was held at collision energy of 6 V."	"Raw data files were converted to .cdf format using Waters DataBridge software for processing."	"Raw data were processed using XCMS software [1]. Procedures to perform non-targeted metabolomics in large-population studies have been previously described by our group [2]; the code has been made publically available at https://github.com/andgan/metabolomics_pipeline. Metabolic feature detection, alignment, grouping, imputation and normalization were performed separately for each study. Each feature is characterized by a specific mass-to-charge ratio (m/z) and retention time. A single metabolite is normally represented by more than one feature. Indiscriminant (id) MS and idMS/MS spectra were generated for all the significant features [3]. Those with highly similar spectra, strong correlation and similar retention time were deemed to be from the same metabolite. We used the spectra to identify the corresponding metabolite. Four approaches were considered, in agreement with what has been suggested by the Metabolomics Standard Initiative [4].
+</p>
+Normalization:</br>
+First, feature intensities were transformed to the log2 base scale to approximate normal distribution. Second, potential sample outliers were identified by plotting the total intensity for each sample. Samples with extremes total intensities might indicate sample degradation or technical errors and these samples were excluded.  Third, an ANOVA-type normalization was used to take into account factors of unwanted variation. Specifically, we fitted a linear regression for association between each feature intensity and several factors of unwanted variability. We then used the residuals from the regression as new feature intensities. The factors of unwanted variability can be identified by studying the association between several technical variables and the first principal components. In TwinGene we adjusted for the square root of the sum of the squared differences between original retention time and corrected retention time, analysis date, storage time and unknown cluster effect. Finally, feature intensities were averaged between technical duplicates to reduce the inherent instrumental variability. Features with poor correlation between duplicates were excluded. 
+</p>
+Ref: </br>
+[1] Smith CA, Want EJ, O’Maille G, Abagyan R, Siuzdak G (2006) XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem 78: 779–787. doi:10.1021/ac051437y. PMID:16448051</br>
+[2] Ganna A, Fall T, Lee W, Broeckling CD, Kumar J, et al. (2014) A workflow for UPLC-MS non-targeted metabolomic profiling in large human populationbased
+studies. bioRxiv.</br>
+[3] Broeckling CD, Heuberger AL, Prenni JE (2013) Large scale non-targeted metabolomic profiling of serum by ultra performance liquid chromatographymass spectrometry (UPLC-MS). J Vis Exp: e50242. doi:10.3791/50242. PMID:23524330</br>
+[4] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, et al. (2007) Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics 3: 211–221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ganna"	"Salihovic"	"Ingelsson"	"Lind"
+Study Person First Name	"Andrea"	"Samira"	"Erik"	"Lars"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"andrea.ganna@ki.se"	"Samira.Salihovic@medsci.uu.se"	"erik.ingelsson@medsci.uu.se"	"lars.lind@medsci.uu.se"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Karolinska Institutet"	"Uppsala University"	"Uppsala University"	"Uppsala University"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

@@ -1,0 +1,132 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"ENVO"	"EFO"	"OBI"	"NCIT"	"NCIT"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"3"	"12"	"27"	"113"	"23"	"44"	"34"	"86"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Environment Ontology"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS116"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS116"
+Study Title	"Application of 1H-NMR Metabolomic Profiling for Reef-Building Corals."
+Study Description	"In light of global reef decline new methods to accurately, cheaply, and quickly evaluate coral metabolic states are needed to assess reef health. Metabolomic profiling can describe the response of individuals to disturbance (i.e., shifts in environmental conditions) across biological models and is a powerful approach for characterizing and comparing coral metabolism. For the first time, we assess the utility of a proton-nuclear magnetic resonance spectroscopy (1H-NMR)-based metabolomics approach in characterizing coral metabolite profiles by 1) investigating technical, intra-, and inter-sample variation, 2) evaluating the ability to recover targeted metabolite spikes, and 3) assessing the potential for this method to differentiate among coral species. Our results indicate 1H-NMR profiling of Porites compressa corals is highly reproducible and exhibits low levels of variability within and among colonies. The spiking experiments validate the sensitivity of our methods and showcase the capacity of orthogonal partial least squares discriminate analysis (OPLS-DA) to distinguish between profiles spiked with varying metabolite concentrations (0 mM, 0.1 mM, and 10 mM). Finally, 1H-NMR metabolomics coupled with OPLS-DA, revealed species-specific patterns in metabolite profiles among four reef-building corals (Pocillopora damicornis, Porites lobata, Montipora aequituberculata, and Seriatopora hystrix). Collectively, these data indicate that 1H-NMR metabolomic techniques can profile reef-building coral metabolomes and have the potential to provide an integrated picture of the coral phenotype in response to environmental change."
+Study Submission Date	"2014-09-27"
+Study Public Release Date	"2014-11-20"
+Study File Name	"s_MTBLS116.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomic profiling"	"coral reef"	"nuclear magnetic resonance spectroscopy"	"species comparison design"	"sample variability"	"spiking"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/ENVO_00000150"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/OBI_0001310"	""	"http://purl.obolibrary.org/obo/CHMO_0002852"	""
+Study Design Type Term Source REF	"EFO"	"ENVO"	"CHMO"	"OBI"	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25354140"
+Study Publication DOI	"10.1371/journal.pone.0111274"
+Study Publication Author List	"Emilia Sogin 
+Paul Anderson 
+Philip Williams
+Chii-Shiarng Chen
+Ruth Gates
+"
+Study Publication Title	"1H-NMR Metabolomics for Reef-Building Corals"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+Comment[Journal]	"Plos One"
+STUDY FACTORS
+Study Factor Name	"Experiment "	"Treatment"	"Variability Level"
+Study Factor Type	"Experiment"	"Group"	"Location"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42790"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS116_Variability_NMR_spectroscopy.txt"	"a_MTBLS116_Spiking_NMR_spectroscopy.txt"	"a_MTBLS116_Species_Comparison_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Agilent"	"Agilent"	"Agilent"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Technical, Intra-, and Inter-Colony Variability</br>
+Reef-building coral samples were collected from a small area (ca. 135 m2) of a fringing reef in Kaneohe Bay, Hawaii (21°25'58.28"N, 157°47'23.55"W) using bone cutters and immediately immersed in liquid nitrogen. Samples used to assess intra-colony and technical variation in metabolite profiles were collected in December 2011, while those used to assess inter-colony variability were sampled in June 2013. While coral metabolite content may change, variability measured in 1H-NMR profiles is still likely to be comparable within and among colonies through time. Following sample collection, coral fragments were lyophilized and stored at -80 °C prior to metabolite extraction. To assess technical variation, three replicate fragments from separate colonies were collected, pooled, and pulverized. From these samples, 5 replicate extractions were performed. Five fragments of a single Porites compressa colony, which is a dominant reef-building coral in Hawaii, and 5 from separate colonies were used to assess intra- and inter-colony variation in 1H-NMR profiles.
+</p>
+Spiking Experiment</br>
+Eighteen fragments from a P. compressa colony were collected from a small region (c.a. 135 m2) of a fringing reef adjacent to HIMB in December 2011.
+</p>
+Species Comparison</br>
+Replicate fragments (n = 8–9) of Montipora aequituberculata, Pocillopora damicornis, Porites lobata, and Seriatopora hystrix were collected from Nanwan Bay, Taiwan (ca. 21°56'31"N, 120°44'56"E) in the June of 2011 and transported to the National Museum for Marine Biology and Aquarium (NMMBA), Checheng, Taiwan. These coral species are dominant reef-building corals in Taiwan and represent ecologically distinct taxa with varying morphological and physiological characteristics. Corals were re-fragmented and allowed to recover in a flow-through holding tank (environmental conditions: Temperature 27.6±0.03 °C; Salinity 33.8±0.02 ppt; Light 107±3.85 µmol photon) for two weeks prior to sampling for metabolome analysis."	"Technical, Intra-, and Inter-Colony Variability</br>
+All Porites compressa samples were extracted following extraction method 1. Only inter-colony samples were re-extracted using method 2 to determine if variation in metabolite profiles differed between protocols used in the current study.
+</p>
+- Extraction Method 1:<br>
+1 ml of pre-cooled 70% methanol/water (v/v; 70% MeOH) was added for every 0.7 g of coral to assess technical, intra-, and inter-colony variability. All extracts were sonicated for 15 min and shaken for 24 h at 4 °C. To ensure samples were fully extracted, a second solvent volume was added to each coral fragment for an additional 24 h at 4 °C. The two resulting extracts were combined and cellular debris removed by centrifugation (4000 rpm for 10 min at 4 °C). The supernatant containing the extracted metabolites was removed from the pellet and concentrated using a speed-vacuum concentrator. Extract weights were obtained prior to data acquisition and used to normalize 1H-NMR spectra.
+</p>
+- Extraction method 2:</br>
+Five inter-colony samples were also extracted by adding 2 ml of 70% MeOH (v/v) for every 0.1 g of coral. Extracts were sonicated for 15 min, mixed on ice for 45 min, and concentrated using a combination of rotary evaporation and lyophilization. Extract weights were obtained prior to data acquisition and used to normalize between 1H-NMR spectra.
+</p>
+Spiking Experiment</br>
+Fragment volumes were assessed by displacement of deionized (DI) water, which was used to remove excess salt and to determine the amount of solvent to add to each nubbin during metabolite extraction. While the addition of DI water may activate enzymatic pathways resulting in changes in metabolite composition, the identical treatment across all samples allows for comparison of coral metabolomes. Subsequently, fragments were immersed in liquid nitrogen to halt metabolism. To evaluate the capacity of 1H-NMR methods to identify differences in concentrations of coral metabolites, 1 M alanine, 1 M glycolic acid, and 1 M glucose were combined and diluted with DI water to prepare 0.1 mM and 10 mM metabolite cocktail spikes. Directly prior to metabolite extraction, 10 µl of the treatment and control (DI water only) cocktails were added to the surface of each whole coral nubbin (n = 6/treatment). Five ml of 70% methanol was added to each fragment for every 1 ml of coral volume (v/v) and metabolites were extracted following method 2 described above.
+</p>
+Species Comparison</br>
+Corals were briefly rinsed with DI water to remove excess salts, immediately immersed in liquid nitrogen, lyophilized, pulverized and transported on dry ice back to the HIMB where they were stored at -80 °C. Metabolites were extracted following extraction method 2 described above."	"Coral extracts were reconstituted in 250 µl of deuterium oxide (D2O) containing 1 mM of 3-(trimethylsilyl)propionic acid sodium salt (TMSP-d4) to facilitate comparison of resulting profiles to metabolites in 1H-NMR databases. Extracts were briefly sonicated and transferred to a 3 mm NMR tube."	"1H-NMR profiles were obtained using a 500 MHz Varian Unity Inova spectrometer equipped with a 1H/x-broadband 3 mm probe."	"Spectra were acquired using a water suppression pulse sequence (PRESAT), consisting of 128 (extraction method 1) or 64 (extraction method 2) transients of 32 K data-points with a relaxation delay of 1 s (extraction method 1) or 3 s (extraction method 2) over a spectral window of 5500 Hz. Resulting spectra were zero-filled to 64 K and multiplied by a line-broadening factor of 0.5 Hz prior to Fourier transformation."	"Spectra were imported in to MestreNova (Mestrelabs version 7.1.2), where spectral baselines were adjusted using Whittiker smoothing and normalized to the total area. Three alignments were created to compare 1H-NMR (1) profile variability, (2) spectra spiked with the metabolite cocktails, and (3) fingerprints among coral species. All alignments were reduced to ASCII files. Variables corresponding to the residual water impurity (4.48–4.92 ppm) and an observed acetone contaminant (2.22–2.27 ppm) were removed. Alignments were imported into Metabolink (http://metabolink.knoesis.org), where a dynamic adaptive binning routine was used to identify each peak as a separate variable. For each alignment, bins were found between 0.5 to 10 ppm. R statistical environment (version 3.0.0, R Development Core Team 2013, http://www.R-project.org) was used for all further analysis, including normalizing spectral intensities to extract weights for comparison across samples."	"To determine which variables drive separation in metabolite composition among coral species, variable coefficients from the OPLS-DA model were compared to their null distributions. Null distributions were calculated by refitting the OPLS-DA model to the data, in which each variable is independently and randomly permuted to remove correlation structure. The actual coefficients were compared to their null distributions and variables in the tails (a = 0.01) were determined to significantly contribute to the model.
+</p>
+To facilitate identification of the metabolites driving separation between species, a statistical total correlation spectroscopy analysis (STOSCY) in the R package MUMA was used to determine strong correlations between 1H-NMR variables. Highly correlated variables (r2>0.9) were assumed to originate from the same compound. Metabolites were assigned by matching peak positions and patterns to Chenomx 500 MHz spectral libraries.
+</p>
+Data analysis:</br>
+To investigate variability in 1H-NMR spectra, relative standard deviations were calculated across variables for each group. A Kruskal-Wallis analysis was applied to compare values among technical, intra-, and inter-colony spectra from Porites compressa.
+</p>
+In the spiking experiment, Chenomx NMR Suite 7.6 (Chenomx, Inc., Edmonton, Alberta, Canada) was used to identify and quantify 1H-NMR signals resulting from the metabolite spikes. A Kruskal-Wallis test was used to statistically compared metabolite concentrations of alanine, glucose, and glycolic acid among treatment groups.
+</p>
+All variables from the three alignments were scaled to unity and mean centered prior to multivariate analysis. Both principal component analysis (PCA) and orthogonal partial least squares-discriminate analyses (OPLS-DA) were used to investigate patterns in variables arising from 1H-NMR spectra.
+</p>
+PCA was applied to investigate patterns between 1H-NMR profiles. Additionally, PCA was used to screen for outlying samples. If spectra fell outside a 99% confidence interval and upon further inspection it was determined that NMR shims influenced resulting peak shapes and line widths, spectra were excluded from subsequently analyses.
+</p>
+OPLS-DA was applied to discriminate between 1H-NMR profiles arising from (1) spiking treatments and (2) among coral species (for source code see http://birg.cs.cofc.edu/index.php/O-PLS). Model strength was assessed using both R2 and Q2 metrics. R2 values report the total amount of variance explained by the model in both the 1H-NMR data (R2X) and independent variables (R2Y; e.g. spiking treatment or species identity). Q2 reports model accuracy and is calculated by 10-fold cross validation. The resulting Q2 statistic was compared to a null distribution to test model significance (p<0.05).  When there are more than three groups, the resulting model is influenced by group order. To facilitate comparing metabolite fingerprints among spiking treatments and reef-building corals, we developed an iterative strategy based on the magnitude of Q2 to determine group ordering in the model. The algorithm finds the maximum Q2 value between the two groups with the largest separation along the t-axis. Additional groups are inserted into the model based on the magnitude of Q2. The overall Q2 value is determined from model projections after allowing groups to cluster together based on profile similarities.  Finally, the OPLS-DA algorithm calculates coefficients describing the contribution of each variable to the model."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sogin"
+Study Person First Name	"Emilia"
+Study Person Mid Initials	"M"
+Study Person Email	"esogin@hawaii.edu"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Hawaii Institute of Marine Biology"
+Study Person Roles	"Corresponding Author"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

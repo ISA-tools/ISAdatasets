@@ -1,0 +1,154 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CSEO"	"OBI"	"CADSRVS"	"CHMO"	"NCIT"	"MS"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CADSRVS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"2"	"22"	"2"	"18"	"44"	"129"	"146"	"43"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Cigarette Smoke Exposure Ontology"	"Ontology for Biomedical Investigations"	"NCI caDSR Value Sets"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS315"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS315"
+Study Title	"Towards improving point-of-care diagnosis of non-malaria febrile illness: a metabolomics approach"
+Study Description	"Background: Non-malaria febrile illnesses such as bacterial bloodstream infections (BSI) are a leading cause of disease and mortality in the tropics. However, there are no reliable, simple diagnostic tests for identifying BSI or other severe non-malaria febrile illnesses. We hypothesized that different infectious agents responsible for severe febrile illness would impact on the host metabololome in different ways, and investigated the potential of plasma metabolites for diagnosis of non-malaria febrile illness. </p> Methodology: We conducted a comprehensive mass-spectrometry based metabolomics analysis of the plasma of 61 children with severe febrile illness from a malaria-endemic rural African setting. Metabolite features characteristic for non-malaria febrile illness, BSI, severe anemia and poor clinical outcome were identified by receiver operating curve analysis. </p> Principal Findings: The plasma metabolome profile of malaria and non-malaria patients revealed fundamental differences in host response, including a differential activation of the hypothalamic-pituitary-adrenal axis. A simple corticosteroid signature was a good classifier of severe malaria and non-malaria febrile patients (AUC 0.82, 95% CI: 0.70-0.93). Patients with BSI were characterized by upregulated plasma bile metabolites; a signature of two bile metabolites was estimated to have a sensitivity of 98.1% (95% CI: 80.2-100) and a specificity of 82.9% (95% CI: 54.7-99.9) to detect BSI in children younger than 5 years. This BSI signature demonstrates that host metabolites can have a superior diagnostic sensitivity compared to pathogen-detecting tests to identify infections characterized by low pathogen load such as BSI. </p> Conclusions: This study demonstrates the potential use of plasma metabolites to identify causality in children with severe febrile illness in malaria-endemic settings."
+Study Submission Date	"2016-02-05"
+Study Public Release Date	"2016-03-17"
+Study File Name	"s_NMFI and BSI diagnosis.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"fever"	"sepsis"	"biomarker"	"Diagnosis"	"malaria"	"gas chromatography-mass spectrometry"	"Lipidomics"	"ultra-performance liquid chromatography-mass spectrometry"	"non-malarial febrile illness"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/HP_0001945"	"http://www.ebi.ac.uk/efo/EFO_0001420"	"http://purl.obolibrary.org/obo/CHEBI_59163"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220"	"http://www.ebi.ac.uk/efo/EFO_0001068"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""
+Study Design Type Term Source REF	"EFO"	"EFO"	"EFO"	"NCIT"	"EFO"	"CHMO"	"CSEO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26943791"
+Study Publication DOI	"10.1371/journal.pntd.0004480"
+Study Publication Author List	"Saskia Decuypere, Jessica Maltha, Stijn Deborggraeve, Nicholas J.W. Rattray, Guiraud Issa , Kaboré Bérenger, Palpouguini Lompo, Marc C Tahita, Thusitha Ruspasinghe, Malcolm McConville, Royston Goodacre, Halidou Tinto, Jan Jacobs, and Jonathan R. Carapetis "
+Study Publication Title	"Towards improving point-of-care diagnosis of non-malaria febrile illness: a metabolomics approach"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"patient group"	"blood glucose"	"diff_basophils"	"diff_eosinophils"	"diff_monocytes"	"diff_lymphocytes"	"diff_neutrophils"	"platelet count"	"mean corpuscular hemoglobin concentration"	"mean corpuscular hemoglobin"	"mean corpuscular volume"	"hematocrit"	"hemoglobin"	"total red blood cell count"	"total white blood cell count"	"P. falciparum parasite density"	"temperature"	"duration illness prior to hospital admission"	"height"	"weight"	"age"	"Gender"	"malaria rapid diagnostic test"	"clinical outcome"	"severe malnutrition"	"prior antimalaria treatment"	"prior antibiotic treatment"
+Study Factor Type	"disease"	"concentration"	"basophils differential"	"eosinophils differential"	"monocytes differential"	"lymphocytes differential"	"neutrophils differential"	"number density"	"concentration"	"mass"	"volume"	"volume per unit volume"	"concentration"	"number density"	"number density"	"number density"	"temperature"	"duration"	"body height"	"body weight"	"age"	"Gender"	"test result"	"Status"	"Yes or No Response"	"Yes or No Response"	"Yes or No Response"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000408"	"http://purl.obolibrary.org/obo/CHMO_0002820"	""	""	""	""	""	""	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://purl.obolibrary.org/obo/PATO_0000125"	"http://www.ebi.ac.uk/efo/EFO_0001715"	"http://purl.obolibrary.org/obo/UO_0000205"	"http://purl.obolibrary.org/obo/CHMO_0002820"	""	""	""	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0004339"	"http://www.ebi.ac.uk/efo/EFO_0004338"	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://www.ebi.ac.uk/efo/EFO_0000720"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147"
+Study Factor Type Term Source REF	"EFO"	"CHMO"	""	""	""	""	""	""	"CHMO"	"EFO"	"EFO"	"UO"	"CHMO"	""	""	""	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"NCIT"	"EFO"	"NCIT"	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_GC_nmfi_and_bsi_diagnosis.txt"	"a_LC_nmfi_and_bsi_diagnosis.txt"	"a_UPLC_NEG_nmfi_and_bsi_diagnosis.txt"	"a_UPLC_POS_nmfi_and_bsi_diagnosis.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Classic (Thermo Scientific)"	"6550 Q-TOF LC/MS (Agilent)"	"Pegasus III GC/MS (Leco)"	"LTQ Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample Collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Patients were recruited at the district hospital Centre Médical avec Antenne Chirurgicale Saint Camille in malaria-endemic Nanoro, Burkina Faso. Admitted children < 15 years of age presenting with axillary temperature = 38 °C, or clinical signs of severe illness were enrolled. Medical history, physical examination and outcome of febrile episode were registered on a standardized form. At time of hospital admission, venous whole blood for blood culture, malaria diagnosis, full blood count, glucose measurements, plasma metabolome analysis, and 16S rRNA deep sequencing were collected from all participants by trained study nurses.
+</p>
+Samples were submitted within 15 min after collection to the lab facility of the Clinical Research Unit of Nanoro (CRUN), which is located on the compound of the district hospital St. Camille.
+</p>
+1-3 ml venous blood was collected into a pediatric blood culture bottle (BD BACTEC Preds Plus TM/F, Becton Dickinson and Company, USA). Blood culture bottles were incubated in a BACTEC 9050 instrument (Becton Dickinson) for a total of 5 days. If flagged for growth they were Gram stained, subcultured on EMB agar and 5% Sheep Blood agar (bioMérieux, France) and incubated at 35-37 °C for 24 h in atmospheric conditions and at 5% CO2 respectively. Isolates were identified to the species level by standard biochemical methods.
+</p> 
+Thick and thin blood films were stained with 3% Giemsa solution, and examined for presence of Plasmodium species according to standard procedures by at least 2 experienced microscopists. Results were expressed as asexual parasites per µl using the patient’s white blood cell count.
+</p>
+The malaria rapid diagnostic test (RDT) recommended by the national malaria control program, SD Bioline Pf (Standard Diagnostics, Korea) detecting P. falciparum-specific histidine-rich protein-2 (HRP-2), was performed on EDTA blood samples according to the manufacturer’s instructions.
+</p>
+Decision for additional infectious disease testing (e.g. HIV) was left to the discretion of attending health staff; only 1 study participant was identified as HIV-positive.
+</p>
+Full blood counts were assessed using Sysmex XS1000i (Sysmex Corporation, Japan). Full blood was collected on NaF tubes for glucose level measurement on Flexor Junior (Vital Scientific, Netherlands).
+</p>
+For metabolomics analysis, one 1 ml EDTA blood sample was centrifuged at 3,000 x g for 20 min at 4 °C for plasma separation. The plasma fraction was divided in 100 µl aliquots and immediately frozen at -80 °C. Plasma aliquots were stored within 2 h of sample collection, plasma processing times were kept in the study log book. Plasma samples were shipped on dry ice with temperature-control to the Institute of Tropical Medicine Antwerp for metabolite extraction.
+</p>
+Leftover EDTA blood samples (200-1000 µl) were kept at -80 °C at CRUN and utilized for additional molecular diagnosis of BSI. PCR products resulting from amplification of the V3-V4 regions of the bacterial 16S rRNA gene were deep sequenced on the Illumnia MiSeq platform (Illumina, USA). The sequencing reads underwent a quality filtering process using mothur. Paired reads were joined into single contigs and any contigs with ambiguous bases or a length longer than the 2 individual read lengths, were removed. Taxonomy was assigned using GAST and the associated full length 16S SILVA reference database (retrieved 13/02/15). Taxonomy assignments found within any negative control samples were labeled as potential contaminants and removed from all samples. Samples were only considered positive if a taxonomy assignment up to species level of a clinically significant organism could be reproduced in 2 repeated sequencing experiments."	"GC-MS:</br>
+For GC-MS, a 50 µl plasma aliquot was thawed on ice followed by addition of 100 µl ultrapure methanol. An additional 100 µl internal standard solution (0.2 mg/ml succinic-d4 acid, benzoic d5 acid, glycine-d5, lysine-d4 from Cambridge Isotope laboratories, UK) was added. The resulting mixture was vortex mixed and centrifuged at 13,500 rpm for 15 min. Following centrifugation, 125 µl of the clean supernatant was transferred to a clean tube and dried in a centrifugal vacuum evaporator for 16 hrs. 
+</p>
+C18-UHPLC-MS:</br>
+For C18-UHPLC-MS, a 50 µl plasma aliquot was thawed on ice followed by addition of 100 µl ultrapure methanol. The resulting mixture was vortex mixed and centrifuged at 13,500 rpm for 15 min. Following centrifugation, 125 µl of the clean supernatant was transferred to a clean tube and dried in a centrifugal vacuum evaporator for 16 hrs. 
+</p>
+C8-LC-MS:</br>
+Samples for lipid analysis on C8-LC-MS positive mode were prepared with a butanol/methanol extraction. The extraction solvent was prepared by mixing equal amounts of pure butanol and methanol, 10 mM ammonium formate, 0.1% butylated hydroxytoluene and 2.5 µM internal standard solution including D31PE(34:1), D31PS(34:1) and D31PI(34:1) (Avanti Polar Lipids Inc., USA ). A 10 µl plasma aliquot was thawed on ice and mixed with 90 µl of the extraction solvent. The mixture was vortexed for 30 sec and sonicated for 30 min, all the while ensuring that temperature was maintained at room temperature (20 °C). The resulting mix was centrifuged at 13,000 rpm for 15 min at 0 °C, and 50 µl of the supernatant was directly transferred to 0.2 ml micro-inserts of LC-MS glass vials with Teflon insert caps."	"GC-MS:</br>
+Samples for GC-MS analysis were prepared applying a two-stage chemical derivatisation procedure (oximation followed by trimethylsilylation) and followed by analysis applying an electron inonisation GC-TOF-MS system (Agilent 6890N GC coupled to a LECO Pegasus III mass spectrometer). 5 QC samples were analysed at the start of each analytical batch to condition the analytical system and a QC sample was analysed every 5th injection. The study samples were analysed in 2 analytical experimental batches.
+</p>
+C18-UHPLC-MS:</br>
+For C18-UHPLC-MS, samples were analysed as described by [1]. Briefly, the samples were reconstituted in 50 µl water and analysed applying C18-UHPLC-Orbitrap MS (Thermo Accela UHPLC coupled to a Thermo LTQ Orbitrap mass spectrometer) over a 25 min runtime. 10 QC samples were analysed at the start of an analytical batch to condition the analytical system and a QC sample was analysed every 5th injection. The study samples were analysed in 1 analytical batch. 
+</p>
+C8-LC-MS:</br>
+For C8-LC-MS, the samples were analysed as described earlier by [2]. Briefly the samples were analysed on a C8-LC-QTOF (Agilent 1290 LC coupled to an Agilent QTOF 6550 mass spectrometer) with a 30 min runtime. 10 solvent samples were analysed at the start of the analytical batch to condition the system and a QC sample was analysed every 4th injection. All study samples were analysed in 1 analytical batch. Samples were analysed in randomized order in each experiment. 
+</p>
+Ref:</br>
+[1] Dunn WB, Broadhurst D, Begley P, et al. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc 2011; 6(7): 1060-83. doi: 10.1038/nprot.2011.335. PMID:21720319</br>
+[2] Hu C, van Dommelen J, van der Heijden R, et al. RPLC-ion-trap-FTMS method for lipid profiling of plasma: method validation and application to p53 mutant mouse model. J Proteome Res 2008; 7(11): 4982-91. doi: 10.1021/pr800373m. PMID:18841877</br> "	"GC-MS:</br>
+For GC-MS, compounds were detected by a LECO Pegasus III mass spectrometer.
+</p>
+C18-UHPLC-MS:</br>
+For C18-UHPLC-MS, compounds were detected from m/z 100-1000 using a Thermo LTQ Orbitrap mass spectrometer in positive and negative mode.
+</p>
+C8-LC-MS:</br>
+For C8-LS-MS, compounds wered detected from m/z 100-1000 using a Agilent QTOF mass spectrometer in positive mode."	"GC-MS:</br>
+The two batches of raw GC-ToF-MS data files were peak picked and deconvolved using an internal deconvolution algorithm within the ChromaTof 2.1 software (Leco). This was applied stipulating an increasing peak width of 1.5 s (at 400 s) expanding to 1.8 s (at 800 s), a baseline cut-off at 0.5 and aligning to an internal retention index (decane, dodecane, pentadecane and nonadecane).  In order to account for instrumental drift, an in-house LOESS correction curve was splined through each QC data point and each analytical point aligned accordingly.
+</p>
+C18-UHPLC-MS and C8-LC-MS:</br>
+The LC-MS raw data files were converted into the mzXML format by msConvert. Further processing was handled by a flexible data processing pipeline implemented in R called mzMatch.R which includes XCMS-based mass chromatogram extraction and retention time alignment, peak matching, noise removal, contaminant removal based on extraction and solvent blanks, implementation dilution trend correlation filter to further remove non-informative peaks, correction signal drift over time based on fitting a LOESS function on the data of the QC samples, and peak derivative removal (isotopes, adducts, dimers and fragments) based on correlation analysis on both peak shape and intensity pattern. 
+</p>
+GC-MS, C18-UHPLC-MS and C8-LC-MS:</br>
+Metabolite peaks were considered to be detected reproducibly when they were detected in all QC samples and when the quantitative variation of the signal intensity across all the QC samples was less than 15% relative standard deviation (RSD) for the LC-MS platforms (samples analyzed in 1 analytical batch) and less than 20% RSD for GC-MS (samples analysed in 2 analytical batches). All peaks that did not fulfill these criteria were removed. Non-informative peaks that would not yield interesting biomarkers were also removed from the dataset and included: (i) peaks with signal intensity close to the limit of detection, (ii) peaks detected in less than 3 out of the 61 study samples, (iii) peaks that are near-constant in all included patient samples (RSD <15%). The final peak set obtained for each LC-MS platform was visually inspected to ensure that all included peaks corresponded to good-quality mass- chromatograms. 
+</p>
+Missing values in the data-matrix obtained per analytical platform were replaced with half the minimum value of the entire matrix of that analytical batch."	"GC-MS:</br>
+After deconvolution of the GC-MS data, metabolite identification was performed initially against an in-house metabolite reference database of over 1500 internal standards (generally linked to primary metabolism) and then subsequently against putative mass spectral fragmentation patterns within the NIST 8.0 spectral database (containing mass spectra from over 800,000 different compounds).
+</p>
+C18-UHPLC-MS and C8-LC-MS:</br>
+The selected LC-MS peaks were putatively identified by matching the masses (mass accuracy < 5 ppm) progressively to those from metabolite-specific databases. In a first round of identification, we used the Human Metabolome Database, KEGG, and a contaminant database. Only the remaining unidentified peaks went through a second round of matching to LIPIDMAPS and METLIN spectral database.  
+</p>
+Statistical analysis:</br>
+The final metabolite features (i.e., peaks that could be identified to one of the four levels designated by the Metabolomics Standards Initiative) of all three analytical platforms were merged into 1 data-matrix that was checked in R for outlying samples using standard chemometric tools including principal component analysis  and Mahalanobis distance. No outliers were detected and all samples were included in subsequent statistical analysis.
+</p>
+All statistical analyses were also performed using the R software environment which comprises a selection of packages suitable for the implemented statistical methods: multivariate analysis (partial-least-squares (PLS) regression), receiver-operating curve (ROC) analysis, correlation analysis, hierarchical cluster analysis, biomarker validation and Bayesian latent class modeling."
+Study Protocol URI	""	""	""	""	"http://mzmatch.sourceforge.net/"	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction;Post Extraction; Derivatization"	"Derivatisation;Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Decuypere"
+Study Person First Name	"Saskia"
+Study Person Mid Initials	""
+Study Person Email	"saskia.decuypere@telethonkids.org.au; sdecuypere@ext.itg.be; saskia@bistiaux.com"
+Study Person Phone	"+61 8 94897886"
+Study Person Fax	""
+Study Person Address	"Telethon Kids Institute - 100 Roberts Road, Subiaco 6008 WA, Australia
+
+Institute Tropical Medicine Antwerp - Nationalestraat 155, 2000 Antwerpen, Belgium"
+Study Person Affiliation	"Telethon Kids Institute, Univeristy of Western Australia - Institute Tropical Medicine Antwerp"
+Study Person Roles	"Principal Investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

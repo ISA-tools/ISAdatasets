@@ -1,0 +1,116 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"EFO"	"NCIT"	"BTO"	"CHMO"	"GO"	"SNOMEDCT"	"XEO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://bioportal.bioontology.org/ontologies/47638"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/XEO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"132"	"40"	"26"	"16"	"1484"	"10"	"4"	"43"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"NCI Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Gene Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"XEML Environment Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS15"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS15"
+Study Title	"Metabolomic responses to long-term salt stress in related Lotus species (B)"
+Study Description	"The legume genus Lotus includes glycophytic forage crops and other species adapted to extreme environments, such as saline soils. Understanding salt tolerance mechanisms will contribute to the discovery of new traits which may enhance the breeding efforts towards improved performance of legumes in marginal agricultural environments. Here, we used a combination of ionomic and gas chromatography-mass spectrometry (GC-MS)-based metabolite profilings of complete shoots (pooling leaves, petioles and stems) to compare the extremophile Lotus creticus, adapted to highly saline coastal regions, and two cultivated glycophytic grassland forage species, Lotus corniculatus and Lotus tenuis. L. creticus exhibited better survival after exposure to long-term lethal salinity and was more efficient at excluding Cl- from the shoots than the glycophytes. In contrast, Na+ levels were higher in the extremophile under both control and salt stress, a trait often observed in halophytes. Ionomics demonstrated a differential rearrangement of shoot nutrient levels in the extremophile upon salt exposure. Metabolite profiling showed that responses to NaCl in L. creticus shoots were globally similar to those of the glycophytes, providing little evidence for metabolic pre-adaptation to salinity. This study is the first comparing salt acclimation responses between extremophile and non-extremophile legumes, and challenges the generalization of the metabolic salt pre-adaptation hypothesis."
+Study Submission Date	"2015-09-11"
+Study Public Release Date	"2015-09-14"
+Study File Name	"s_Metabolomic responses to long-term salt stress in related Lotus species (B).txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"intervention design"	"stimulus or stress design"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"response to salt stress"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/OBI/OBI_0000115"	"http://purl.bioontology.org/ontology/OBI/OBI_0001396"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/GO_0009651"
+Study Design Type Term Source REF	"OBI"	"OBI"	""	"CHMO"	"GO"
+STUDY PUBLICATIONS
+Study PubMed ID	"21251019"	"21347266"
+Study Publication DOI	"10.1111/j.1365-3040.2010.02266.x"	"10.1371/journal.pone.0017094"
+Study Publication Author List	"Sanchez DH, Pieckenstain FL, Escaray F, Erban A, Kraemer U, Udvardi MK, Kopka J."	"Sanchez DH, Pieckenstain FL, Szymanski J, Erban A, Bromke M, Hannah MA, Kraemer U, Kopka J, Udvardi MK."
+Study Publication Title	"Comparative ionomics and metabolomics in extremophile and glycophytic Lotus species under salt stress challenge the metabolic pre-adaptation hypothesis."	"Comparative functional genomics of salt stress in related model and cultivated plants identifies and overcomes limitations to translational genomics."
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Container_after_initiation"	"Container_after_04d"	"RelativeHumidity_after_04d"	"Salt_Quantity_after_initiation"	"Salt_Quantity_after_08d"	"Salt_Quantity_after_12d"	"Salt_Quantity_after_16d"	"Temperature_after_04d"	"Total Light_On_after_04d"	"Total Light_Off_after_04d"	"Medium_after_initiation"	"Medium_after_04d"	"Watering_after_04d"
+Study Factor Type	"Container"	"Container"	"Relative humidity"	"Concentration"	"Concentration"	"Concentration"	"Concentration"	"temperature"	"duration"	"duration"	"media"	"media"	"Watering"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/XEO_00040"	"http://purl.obolibrary.org/obo/XEO_00040"	"http://purl.bioontology.org/ontology/SNOMEDCT/250829009"	""	""	""	""	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000579"	"http://www.ebi.ac.uk/efo/EFO_0000579"	"http://purl.obolibrary.org/obo/XEO_00124"
+Study Factor Type Term Source REF	"XEO"	"XEO"	"SNOMEDCT"	""	""	""	""	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"XEO"
+STUDY ASSAYS
+Study Assay File Name	"a_Metabolomic responses to long-term salt stress in related Lotus species (B).txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"L. creticus seeds were kindly provided by the Servicio Devesa-Albufera Ayuntamiento de Valencia, Viveros Municipales de El Saler, CV-500, Km 8.5, El Saler, Valencia (Spain). L. corniculatus var. San Gabriel and L. tenius (Lotus glaber) var. La Esmeralda were obtained from the LOTASSA consortium (http://www.lotassa.com). Seeds were germinated in plates containing half-strength BD agar [1] plus 2 mm KNO3 and 2 mm NH4NO3. For the evaluation of survival to long-term lethal NaCl levels, seedlings (at least 40 of each species) were transplanted to pots containing a mixture of sand and perlite (1:1) irrigated with nutrient solution, and grown in the greenhouse under a 16/8 h day/night, 23 ± 2 °C and 55–65% relative humidity regime. Eight days post-imbibition, the salt concentration in the nutrient solution was increased in 25 mm NaCl steps every three days to reach 300 mm NaCl. This concentration was used to continue irrigation, until all the plants died. The number of dead plants as a function of time was recorded. Plants were scored dead when the whole plant or all the leaves were wilted or chlorotic. For the gradual salt stress acclimation experiments, seedlings were transplanted to soil (type Null Einheitserde, Wandorf, Germany) and irrigated with nutrient solution. The stress treatment was started 8 days post-imbibition. The salt concentration in the nutrient solution was increased in three steps of 4 day intervals from 50, 100 to 150 mm NaCl [2]. In two successive independent experiments, L. creticus was tested parallel to the other Lotus species. Each independent experiment included sample sets of control and salt-treated plants. Each sample set had at least five independent biological replicates and each replicate was a pool of at least five plants. The total duration of the cultivation was 32 d. Complete shoots, pools of leaves, petioles and stems omitting cotyledons were harvested in situ in the middle of the light period and flash frozen in liquid nitrogen. The experimental design induced neither senescence nor was lethal within the cultivation period. At harvest, all plants were still in the vegetative stage and non-nodulated. Biomass was estimated by the mean fresh weight of the pooled shoot samples.
+</p>
+Ref: </br>
+[1] Broughton W.J. & Dilworth M.J. (1971) Control of leghaemoglobin synthesis in snake beans. Biochemical Journal 125, 1075–1080. PMID:5144223</br>
+[2] Sanchez D.H., Lippold F., Redestig H., Hannah M., Erban A., Krämer U., Kopka J. & Udvardi M.K. (2008) Integrative functional genomics of salt acclimatization in the model legume Lotus japonicus. The Plant Journal 53, 973–987.PMID:18047558</br>"	"Relative metabolites levels were determined in each biological replicate. For metabolomic profiling, 60 mg of frozen plant tissue was extracted with methanol/chloroform, and the polar fraction was prepared by liquid partitioning into water, dried and derivatized [1].
+</p>
+Ref: </br>
+[1] Desbrosses G.G., Kopka J. & Udvardi M.K. (2005) Lotus japonicus metabolic profiling. Development of gas chromatography-mass spectrometry resources for the study of plant–microbe interactions. Plant Physiology 137, 1302–1318. PMID:15749991</br>"	"Samples were processed using a Factor Four VF-5ms capillary column of dimensions, 30 m length, 0.25 mm i.d., and 0.25 µm film thickness with a 10 m EZ-guard pre-column (Varian Inc., Lake Forest, CA)) mounted to a Agilent 6890N gas chromatograph (Agilent, Böblingen, Germany), which was operated in splitless injection mode.
+</p>
+Injection of a 1 µl sample is performed at 230 °C in splitless mode with helium carrier gas flow set to 0.6 ml/min. Purge time is 1 min at 20 ml/min flow. The flow rate is kept constant with electronic pressure control enabled. Optionally and especially recommended in cases of high metabolite concentrations, injection is performed in split mode with the split ratio adjusted 1:25. As a rule of thumb, split injection may be prone to discrimination of high-boiling metabolic components, whereas splitless injection may, in rare cases, result in peak shape artifacts for low-boiling components. These artifacts occur in few chromatograms and result in different degrees of peak splitting and shoulder formation. For suppression of this peak shape artifact either inject at decreased flow or apply a 2 min pressure pulse at 110 psi during injection. However, a robust suppression of this artifact for all biological samples can currently not be recommended.
+</p>
+The temperature program starts in isothermal mode set to 1 min at 70 °C. The isothermal step is followed by a 9 °C/min ramp to 350 °C. The final temperature is kept constant for 5 min. Cooling is performed as fast as instrument specifications allow. The transfer line temperature is set to 250 °C and matches ion source conditions.
+</p>
+The n-alkanes used to calculate are retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. For additional information on the retention time index calculations see [1].
+</p>
+Ref: </br>
+[1] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Mass spectrometric data were acquired through a Pegasus III TOF mass spectrometer (LECO Instrumente GmbH, Mönchengladbach, Germany).  The ion source is set to maximum instrument specifications, 250 °C. High-boiling metabolic components exhibit increased peak tailing at lower temperature settings. The recorded mass range is m/z = 70–600 at 20 scans/s. Mass spectrometric solvent delay with filaments turned off is 6.6–7.5 min, the remaining chromatography is fully monitored with omission of cool down periods. Manual mass defect is set to 0, filament bias current is –70 V, and detector voltage is approx 1700–1850 V depending on detector age. The instrument tune is automated and performed without EPA tune compliance."	"GC-TOF-MS chromatograms were processed by TagFinder-Software [1] after export from the ChromaTOF software (version 1.00, Pegasus driver 1.61, LECO) to NetCDF file format.
+</p>
+Ref: </br>
+[1] Luedemann A, Strassburg K, Erban A, Kopka J (2008) TagFinder for the quantitative analysis of gas chromatography - mass spectrometry (GC-MS) based metabolite profiling experiments. Bioinformatics 24: 732–737.PMID:18204057</br>"	"The chemical identification was manually supervised using the NIST05 software (http://www.nist.gov/srd/nist1.cfm) and the mass spectral and retention time index collection of the Golm Metabolome Database [1]. The validity of this analytical approach to perform relative quantification of metabolites in plant tissues has been previously demonstrated [2].
+</p>
+Ref: </br>
+[1] Hummel J., Strehmel N., Selbig J., Walther D. & Kopka J. (2010) Decision tree supported substructure prediction of metabolites from GC-MS profiles. Metabolomics 6, 322–333. PMID:20526350</br>
+[2] Allwood J.W., Erban A., de Koning S., Dunn W.B., Luedemann A., Lommen A., Kay L., Loescher R., Kopka J. & Goodacre R. (2009) Inter-laboratory reproducibility of fast gas chromatography-electron impact-time of flight mass spectrometry (GC-EI-TOF/MS) based plant metabolomics. Metabolomics 5, 479–496. PMID:20376177</br>"
+Study Protocol URI	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=5f135f69-aff6-4d0a-8f7a-2f54be22d3e9"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization 1;Derivatization 2"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sanchez"	"Kopka"
+Study Person First Name	"Diego"	"Joachim"
+Study Person Mid Initials	""	""
+Study Person Email	""	"kopka@mpimp-golm.mpg.de"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Max Planck Institute of Molecular Plant Physiology, Potsdam, Germany"	"Max Planck Institute of Molekular Plant Physiology"
+Study Person Roles	"Experimenter"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

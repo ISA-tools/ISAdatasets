@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCIT"	"NCBITAXON"	"PR"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PR"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"44"	"6"	"64"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Protein Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS247"
+Investigation Title	"Proton Elucidation for IsotoPe Analysis (PEPA)"
+Investigation Description	"A novel metabolomics approach for NMR-based stable isotope tracer studies called PEPA is presented, and its performance validated using human cancer cells. This is applied to the assessment of metabolic functions of a newly characterized EXD2 exonuclease."
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	"Maria Vinaixa, Miguel A Rodriguez, Suvi Aivio, Jordi Capellades, Josep Gomez, Nicolau Canyellas, Travis H Stracker, Oscar Yanes"
+Investigation Publication Title	"Positional Enrichment by Proton Analysis (PEPA): a One-Dimensional 1H-NMR Approach for 13C Stable Isotope Tracer Studies in Metabolomics"
+Investigation Publication Status	"Accepted"
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"Vinaixa"
+Investigation Person First Name	"Maria"
+Investigation Person Mid Initials	""
+Investigation Person Email	"maria.vinaixa@urv.cat"
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+Comment[Investigation Person REF]	""
+STUDY
+Study Identifier	"MTBLS247"
+Study Title	"Positional Enrichment by Proton Analysis (PEPA): a One-Dimensional 1H-NMR Approach for 13C Stable Isotope Tracer Studies in Metabolomics"
+Study Description	"A novel metabolomics approach for NMR-based stable isotope tracer studies called PEPA is presented, and its performance validated using human cancer cells. PEPA detects the position of carbon label in isotopically enriched metabolites and quantifies fractional enrichment by indirect determination of 13C-satellite peaks using 1D-1H-NMR spectra. In comparison with 13C-NMR, TOCSY and HSQC, PEPA improves sensitivity, accelerates the elucidation of 13C positions in labeled metabolites and the quantification of the percentage of stable isotope enrichment. Altogether, PEPA provides a novel framework for extending the high-throughput of 1H-NMR metabolic profiling to stable isotope tracing in metabolomics, facilitating and complementing the information derived from 2D-NMR experiments and expanding the range of isotopically enriched metabolites detected in cellular extracts. The study also contains data, subjected to this technique, pertaining to exonuclease domain like 2 (EXD2), a nuclear encoded gene that we have found is targeted to the mitochondria and is critical for normal metabolism."
+Study Submission Date	"2015-10-03"
+Study Public Release Date	"2017-03-18"
+Study File Name	"s_mtbls247.txt"
+Comment[Study Grant Number]	"SAF2011-30578; BFU2014-57466; BFU2012-39521"
+Comment[Study Funding Agency]	"Spanish Ministry of Economy and Competitivenes"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"PEPA"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"	"tracer"	"exonuclease 3'-5' domain-containing protein 2"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	""	"http://purl.obolibrary.org/obo/PR_000030843"
+Study Design Type Term Source REF	""	"CHMO"	""	""	"PR"
+STUDY PUBLICATIONS
+Study PubMed ID	""	""
+Study Publication DOI	"10.1002/anie.201611347"	""
+Study Publication Author List	"Maria Vinaixa, Miguel A. Rodríguez, Suvi Aivio, Jordi Capellades, Josep Gómez, Nicolau Canyellas, Travis H. Stracker, Oscar Yanes"	"Joana Silva , Suvi Aivio , Philip Knobel , Andreu Casali , Laura Bailey , Maria Vinaixa , Isabel Garcia­Cao , Etienne Coyaud , Alexis Jourdain , Pablo Perez­Ferreros , Brian Raught , Acaimo Gonzalez­Reyes , Aidan Doherty , Oscar Yanes, Travis Stracker"
+Study Publication Title	"Positional Enrichment by Proton Analysis (PEPA): a One- Dimensional 1H-NMR Approach for 13C Stable Isotope Tracer Studies in Metabolomics"	"EXD2 governs stem cell homeostasis and lifespan by regulating mitochondrial translation and cellular respiration"
+Study Publication Status	"Accepted"	"In revision"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Substrate"	"Labeling"
+Study Factor Type	"Substrate"	"labelling"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120264"	"http://www.ebi.ac.uk/efo/EFO_0000562"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_NOESY_PEPA_NMR_spectroscopy.txt"	"a_13C_PEPA_NMR_spectroscopy.txt"	"a_TOCSY_PEPA_NMR_spectroscopy.txt"	"a_HSQC_PEPA_NMR_spectroscopy.txt"	"a_NOESY_EXD2_NMR_spectroscopy.txt"	"a_13C_EXD2_NMR_spectroscopy.txt"	"a_TOCSY_EXD2_NMR_spectroscopy.txt"	"a_HSQC_EXD2_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"	"Bruker"	"Bruker"	"Bruker"	"Bruker"	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"U2OS-cells human osteosarcoma cell line were cultured in Dulbeccos modified Eagle Medium (DMEM, Invitrogen 41966) supplemented with 10% (v/v) fetal bovine serum (FBS, Sigma F7524-500ML) and 100 U/ml penicillin/streptomycin (Reactiva 01030311B000). The cells (in duplicated batches) were cultured in a humidified atmosphere at 5% CO2 , 37 ºC and grown for 8-9 days in polypropylene bottles; the medium was changed once daily initially and twice daily near the end of the growth period. Then, U2OS-cells were seeded on 15-cm tissue culture plates in triplicates. During 6 hr, cells were supplemented with DMEM powder without glucose and glutamine (Sigma) supplemented with 5 mM glucose and 2 mM L-glutamine that was unlabeled or [U-13C]-Glucose or [U-13C]-Glutamine labeled (Cambridge Isotope Laboratories). After 6 hr, culture medium was removed and cells were collected by trypsinization and 106 cells were pelleted and snap-frozen for further metabolites extraction."	"Metabolites were extracted into the extraction solvent by adding 2 ml of a cold mixture of chloroform/ methanol (2:1 v/v). The resulting suspension was bath-sonicated for 3 min, and 2 ml of cold water was added. Then, 1 ml of chloroform/methanol (2:1 v/v) was added to the samples and bath-sonicated for 3 min. Cell lysates were centrifuged (5000 x g, 15 min at 4 °C) and the aqueous phase was carefully transferred into a new tube. The sample was frozen, lyophilized and stored at 80 °C until further NMR analysis."	"For NMR measurements, the hydrophilic extracts were reconstituted in 600 µl of D2O phosphate buffer (PBS 0.05 mM, pH 7.4, 99.5% D2O) containing 0.73 mM of deuterared trisilylpropionic acid (d6-TSP). Samples were then vortexed, homogenized for 5 min, and centrifuged for 15 min at 14000 x g at 4 °C. Finally, clear redissolved samples were tranferred into 5 mm NMR tubes."	"NMR spectra were recorded at 300 K on an Avance III 600 spectrometer (Bruker, Germany) operating at a proton frequency of 600.20 MHz and a carbon frequency of 150.93 MHz using a 5 mm CPTCI triple resonance (1H, 13C, 31P) gradient cryoprobe."	"One-dimensional 1H pulse experiments were performed using the nuclear Overhauser Effect Spectroscopy (NOESY) presaturation sequence (RD-90-t1-90-tm-90-ACQ) to suppress the residual water peak with mixing time (tm) of 100 ms. Solvent presaturation with irradiaton power of 50 Hz was applied during recycling delay (RD = 5 s) and mixing time. The 90 pulse length was calibrated for each sample and varied from 8.06 to 10.26 µs. The spectral width was 12 kHz (20 ppm), and a total of 256 transients were collected into 64 k data points for each 1H spectrum. The exponential line broadening applied before Fourier transformation was 0.3 Hz.
+</p>
+One-dimensional 13C-NMR spectra were recorded using Inverse Gate decoupled 13C pulse experiment and WALTZ-16 scheme proton presaturation and a relaxation delay of 10 s. The 90 pulse length was 14.75 µs. The spectral width was 36 kHz (240 ppm), and a total of 6144 transients were collected into 64 k data points for each 13C spectrum. The exponential line broadening applied before Fourier transformation was 1 Hz.
+</p>
+Two-dimensional TOCSY spectra were recorded using MLEV17 spin lock with 63 ms of duration, B1 field strength of 8,33 kHz, and acquisition times of 0.28 s in t2 and 0.071 s in t1. The recycling delay was set to 5 s, and 64 scans for each transient were collected into 2 k of data points in t2 and 1024 transients were acquired in t1. Data were zero-filled to 4 k points, apodized with a shifted Gaussian and a 1 Hz line broadening exponential function in both dimensions prior to Fourier transformation.
+</p>
+Two-dimensional gradient 1H-13C-HSQC spectra were recorded using an acquisition time of 0.128 s in t2 and 0.0084 s in t1 and a recycle time of 1.5 s, with the 13C GARP decoupling set to 100 ppm, and the evolution delay set for 145 Hz corresponding approximately to an average value of JCH coupling constants. The data were apodized with an unshifted Gaussian and a 1 Hz line broadening exponential in both dimensions prior to Fourier transformation."	"The frequency domain spectra were phased, baseline-corrected and referenced to TSP signal ( = 0 ppm) using TopSpin software (version 2.1, Bruker). Dolphin 1D[1] was used to profile metabolites identified in the 1H-NMR spectra.  Poorly resolved and partially overlapped resonances are resolved using line shape fitting and consequently, their area can be properly quantified. Profiled areas were row-wise normalized using ERETIC signal. Area of each profiled metabolite in unlabeled experiments were compared with the same area in experiments using isotopically enriched substrates using t-test (p<0.05 were considered for statistical significance).  Data analysis was performed using R version 3.2.0.
+</p>
+Ref:</br>
+[1] Gómez J, Brezmes J, Mallol R, Rodríguez MA, Vinaixa M, Salek RM, Correig X, Cañellas N. Dolphin: a tool for automatic targeted metabolite profiling using 1D and 2D (1)H-NMR data. Anal Bioanal Chem. 2014 Dec;406(30):7967-76. doi:10.1007/s00216-014-8225-6. PMID:25370160</br>"	"1H-NMR resonances were assigned using different database search engines BBioref AMIX database from Bruker, Chenomx, HMDB[1] and Complex Mixture Analysis by NMR (COLMAR)[2]. Both heteronuclear 2D-1H-13C-HSQC, 1H-13C-HMBC and homonuclear 2D 1H-1H-COSY, 1H-1H-TOCSY were used for structural confirmation.
+</p>
+Ref:</br>
+[1] Wishart DS, Jewison T, Guo AC, Wilson M, Knox C, Liu Y, Djoumbou Y, Mandal R, Aziat F, Dong E, Bouatra S, Sinelnikov I, Arndt D, Xia J, Liu P, Yallou F, Bjorndahl T, Perez-Pineiro R, Eisner R, Allen F, Neveu V, Greiner R, Scalbert A. HMDB 3.0--The Human Metabolome Database in 2013. Nucleic Acids Res. 2013 Jan;41(Database issue):D801-7. doi:10.1093/nar/gks1065. PMID:23161693</br>
+[2] Bingol K, Li DW, Bruschweiler-Li L, Cabrera OA, Megraw T, Zhang F, Brüschweiler R. Unified and isomer-specific NMR metabolomics database for the accurate analysis of (13)C-(1)H HSQC spectra. ACS Chem Biol. 2015 Feb 20;10(2):452-9. doi:10.1021/cb5006382. PMID:25333826</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Vinaixa"
+Study Person First Name	"Maria"
+Study Person Mid Initials	""
+Study Person Email	"maria.vinaixa@urv.cat"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Universitat Rovira i Virgili"
+Study Person Roles	"Research Associate"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

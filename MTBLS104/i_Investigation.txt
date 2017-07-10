@@ -1,0 +1,120 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"PDQ"	"CHEBI"	"BTO"	"CHMO"	"EFO"	"BTO"	"MESH"	"OBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PDQ"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"8"	"80"	"22"	"18"	"146"	"20"	"10"	"21"	"42"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Physician Data Query"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS104"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS104"
+Study Title	"NMR based metabolomics study of Y2 receptor activation by neuropeptide Y in the SK-N-BE2 human neuroblastoma cell line"
+Study Description	"Neuropeptide Y (NPY) and its Y2 receptors (Y2R) play an important role in regulating growth of various tumors and are highly expressed in human neuroblastoma brain tumors. Cell lines derived from neuroblastoma brain tumors provide a good model to study the consequences of NPY activation of Y2R in tumor metabolism. In this study, the metabolic response to activation and inhibition of Y2R was examined in the human neuroblastoma cell line SK-N-BE2 using high-resolution nuclear magnetic resonance spectroscopy (NMR). Three treatments were evaluated: (1) activation of Y2R with NPY, (2) blocking Y2R with BIIE0246, and (3) treatment of cells with both NPY and BIIE. The largest metabolic changes were observed for NPY activation of Y2R. The principal response to NPY activation of Y2R was increased glycolysis (Warburg effect). Our results also showed depleted intracellular nutrients in NPY activated cells, which may have been due to the high rate of conversion of glucose to lactate, glycine and alanine. All amino acids except glutamine were increased in response to Y2R activation, implying increased autophagic degradation of proteins. TCA cycle intermediates were not detected, possibly due to low steady-state concentrations, but the increase of glutamate and its high correlation with glucose provided evidence of increased TCA activity. The changes of most metabolites observed upon NPY treatment were reversed with BIIE treatment. In summary, our study indicates that NPY activation of Y2R in human neuroblastoma cells stimulates glycolysis, glutaminolysis and possibly TCA activity."
+Study Submission Date	"2014-09-30"
+Study Public Release Date	"2014-10-01"
+Study File Name	"s_NPY study.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"neuroblastoma"	"neuropeptide Y2 receptor"	"cancer"	"brain tumor"	"BIIE 0246"	"SK-N-BE2"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000621"	"http://purl.bioontology.org/ontology/MESH/C095889"	"http://www.ebi.ac.uk/efo/EFO_0000311"	"http://purl.bioontology.org/ontology/PDQ/CDR0000038958"	"http://purl.bioontology.org/ontology/MESH/C403256"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"EFO"	"MESH"	"EFO"	"PDQ"	"MESH"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0782-y"
+Study Publication Author List	"Bo Wang, Sulaiman Sheriff, Ambikaipakan Balasubramaniam, and Michael A. Kennedy"
+Study Publication Title	"NMR based metabolomics study of Y2 Receptor activation by neuropeptide Y in SK-N-BE2, a human neuroblastoma cell line"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Neuropeptide Y and Y2 receptorblocker treatment"
+Study Factor Type	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_npy_study_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"The human neuroblastoma cell line SK-N-BE2 was used in this study. The neuroblastoma cells were grown in Eagle's essential medium (EMEM), supplemented with 10% fetal calf serum (FBS), penicillin (100 IU/ml) and streptomycin (100 µg/ml) in a 95% air/5% CO2 humidified atmosphere at 37 °C as reported previously [1]. When the cells became 90% confluent (4–5 days), medium was replaced with the EMEM containing 0.25% FBS, and was used in the treatment experiments described below.
+</p>
+Three treatments were studied. Group 1 compared NPY-treated cells to a control (water) to monitor the cellular response to activation of Y2R by NPY. In Group 2, the Y2R receptor was blocked by BIIE (dissolved in ethanol) in treated cells and compared to cells treated with neat ethanol as a control. In Group 3, cells were treated with BIIE plus NPY versus NPY treatment alone to study the effect of selective blocking of Y2R in this Y2R-rich cell line. The dose concentration of NPY 100 nM and BIIE0246 was 1 µM. The dose values were chosen based
+on published values shown to activate and inhibit NPY Y2R, respectively, in different tissue/cell systems [1][2]. The SK-N-BE2 cells
+were treated with 1 µM Y2R antagonist, BIIE0246 in 0.25% FBS containing DMEM media. Fifteen minutes later 100 nM NPY was added to the cells and the incubation continued for additional 24 h and the media and the cells were extracted for the analysis. The order of treatment was antagonist first, 15 min later the agonist was added. NPY treatment for 48 h has been shown to increase cell growth by 40% and this increase was blocked by BIIE0246 [2]. The relative affinity of NPY (agonist) for Y2R is 0.2 nM and BIIE0246 (antagonist) is 15 nM [1].
+</p>
+When cells were grown to 75–85% confluence in 10 cm culture dishes, the media was aspirated and cells were trypsinized using trypsin–EDTA solution (Invitrogen). Fresh growth media containing 10% FBS was added to the trypsinized cells (10:1 ratio) and centrifuged for 5 min at 1,500 rpm at 4 °C. The spent media was aspirated and stored for analysis and the cell pellet was washed with 10 ml of cold phosphate buffered saline, pH 7.4, and centrifuged again as above. This step was repeated two more times and the cell pellets were stored at -80 °C until removal for cell extraction.
+</p>
+Ref:</br>
+[1] Balasubramaniam A1, Tao Z, Zhai W, Stein M, Sheriff S, Chance WT, Fischer JE, Eden PE, Taylor JE, Liu CD, McFadden DW, Voisin T, Roze C, Laburthe M. Structure-activity studies including a Psi(CH(2)-NH) scan of peptide YY (PYY) active site, PYY(22-36), for interaction with rat intestinal PYY receptors: development of analogues with potent in vivo activity in the intestine. J Med Chem. 2000 Sep 7;43(18):3420-7. PMID:10978189</br>
+[2] Dumont Y, Cadieux A, Doods H, Pheng LH, Abounader R, Hamel E, Jacques D, Regoli D, Quirion R. BIIE0246, a potent and highly selective non-peptide neuropeptide Y Y(2) receptor antagonist. Br J Pharmacol. 2000 Mar;129(6):1075-88. doi:10.1038/sj.bjp.0703162. PMID:10725255</br>
+[3] Kitlinska J, Abe K, Kuo L, Pons J, Yu M, Li L, Tilan J, Everhart L, Lee EW, Zukowska Z, Toretsky JA. Differential effects of neuropeptide Y on the growth and vascularization of neural crest-derived tumors. Cancer Res. 2005 Mar 1;65(5):1719-28. doi:10.1158/0008-5472.CAN-04-2192. PMID:15753367</br>"	"Intracellular metabolites were analyzed following extraction using the methanol-chloroform-water method as previously described [1][2]. Briefly, the cell pellets were resuspended in an ice-cold methanol and chloroform solution with a ratio of 2:1. The same total volume of ice-cold water and chloroform (1:1) was added after resuspension. The hydrophilic extraction was obtained by taking the top layer of the mixture after sonication and centrifugation, and the samples were dried in a SpeedVac centrifuge for about 2-3 h before storing in -20 °C until prepared for NMR analysis.
+</p>
+Ref:</br>
+[1] Gottschalk M, Ivanova G, Collins DM, Eustace A, O'Connor R, Brougham DF. Metabolomic studies of human lung carcinoma cell lines using in vitro (1)H NMR of whole cells and cellular extracts. NMR Biomed. 2008 Oct;21(8):809-19. doi:10.1002/nbm.1258. PMID:18470962</br>
+[2] Watanabe, M., Sheriff, S., Kadeer, N., Cho, J., Lewis, K., Balasubramaniam, A., & Kennedy, M. (2012). NMR based metabonomics study of NPY Y5 receptor activation in BT-549, a human breast carcinoma cell line. Metabolomics, 8, 854–868. doi:10.1007/s11306-011-0380-6</br>"	"Hydrophilic cell extracts were resuspended in 200 µl phosphate buffer (0.15 M) at pH 7.4 with 1 mM NaN3 and 0.01% trimethylsilylpropionate (TSP) in 100% D2O."	"NMR spectra were collected using a 600 MHz Bruker Avance III NMR spectrometer. Data were recorded at 298 K using 3 mm NMR tubes (Norell) with a spectral width of 17 ppm."	"Two 1H NMR experiments optimized were run on all samples: a standard 1D pulse and acquire pulse sequence employing water-suppression using pre-saturation (zgpr) and the one-dimensional first increment of a nuclear Overhauser effect spectroscopy (NOESY) experiment with pre-saturation (noesygppr1d). FIDs were apodized using exponential multiplication (EM) with line broadening equal to 0.3 Hz prior to Fourier transformation. All experiments included on-resonance water pre-saturation achieved by irradiation during a 4.0 s relaxation delay. The 90° pulse width was determined for every sample using the automatic pulse calculation feature in TopSpin 3.1. All pulse widths were 8.5±0.5 µs. The zgpr experiment was used to screen samples and ensure that pre-saturation and shimming were sufficient to collect reliable data. Shimming quality was determined by measuring the full width at half height (FWHH) of the Trimethylsilyl propionate (TSP) peak, which was deemed acceptable when the FWHH<1.0 Hz. One-dimensional zgpr 1H spectra were acquired using 8 scans and 2 dummy scans, with 45 K points per spectrum. This resulted in an acquisition time of 1.92 s. Once the spectrum was determined to be of acceptable quality the 1D NOESY experiment was collected. The one-dimensional first increment of the NOESY experiment was collected using 128 scans with 4 dummy scans. 65 K points per spectrum were collected which resulted in an acquisition time of 3.21 s. All NMR spectra were processed using the AU program apk0.noe. This AU program automatically corrects phase, baseline, and chemical shift registration relative to TSP in TopSpin 3.1."	"NMR spectra bucketing and PCA were conducted using Amix (Bruker Biospin, Billerica, MA, USA). Dynamic manual bucketing enabled use of unequal bucket widths, which allowed for optimization of the bucket widths and the center frequency of the buckets to ensure that a single peak was included in one bucket. Consequently, the manual bucketing guaranteed that the bucket intensity accurately preserve metabolite concentration information [1]. Prior to manual bucketing, spectral were aligned relative to the added TSP. After alignment, buckets belonging to the same metabolite and the same peak feature were determined manually as well. Any spectral features that were obviously overlapped based on visual inspection were excluded from the analysis. All spectra were subjected to total intensity normalization [2] and Pareto scaling [3] was applied before PCA. Residual water and internal standard peaks were excluded from analysis. Statistical significance analysis of the loadings data was performed using Amix based on the procedure we have previously published [4] except that a Kruskal–Wallis test [5] was used instead of the Mann–Whitney U test for non-parametric analysis of datasets that were not normally distributed.
+</p>
+Ref:</br>
+[1] Lindon, J. C., Nicholson, J. K., & Holmes, E. (2007). The Handbook of Metabonomics. The Handbook of Metabonomics: Elsevier.</br>
+[2] Zhang S, Zheng C, Lanza IR, Nair KS, Raftery D, Vitek O. Interdependence of signal processing and analysis of urine 1H NMR spectra for metabolic profiling. Anal Chem. 2009 Aug 1;81(15):6080-8. doi:10.1021/ac900424c. PMID:19950923</br>
+[3] van den Berg RA, Hoefsloot HC, Westerhuis JA, Smilde AK, van der Werf MJ. Centering, scaling, and transformations: improving the biological information content of metabolomics data. BMC Genomics. 2006 Jun 8;7:142. doi:10.1186/1471-2164-7-142. PMID:16762068</br>
+[4] Goodpaster AM, Romick-Rosendale LE, Kennedy MA. Statistical significance analysis of nuclear magnetic resonance-based metabonomics data. Anal Biochem. 2010 Jun 1;401(1):134-43. doi: 10.1016/j.ab.2010.02.005. PMID:20159006</br>
+[5] Kruskal, W. H., & Wallis, W. A. (1952). Use of ranks in one-criterion variance analysis. Journal of the American Statistical Association, 47, 583–621.</br>"	"Metabolites were putatively identified at MSI level 2 using the Chenomx NMR suit (Chenomx Inc. Edmonton, Alberta, Canada). The Pearson correlation coefficients were calculated to assess correlated changes in metabolite concentrations using Matlab R2012a (Mathworks, MA, US)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type 3 mm;Temperature 298 K;Sample pH 7.4;Solvent D2O"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kennedy"	"Wang"
+Study Person First Name	"Michael"	"Bo"
+Study Person Mid Initials	"A"	""
+Study Person Email	"kennedm4@miamioh.edu"	"wangb3@miamioh.edu"
+Study Person Phone	"513-529-8267"	""
+Study Person Fax	"513-529-5715"	""
+Study Person Address	"106 Hughes Laboratories
+651 East High Street
+Oxford, OH 45056
+"	""
+Study Person Affiliation	"Department of Chemistry and Biochemistry Miami University"	""
+Study Person Roles	"Principal Investigator"	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,127 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"UO"	"CHEBI"	"CHEMINF"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/CHEMINF"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"28"	"43"	"99"	"41"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Chemical Information Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS189"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS189"
+Study Title	"Comparison of Two Different Astragali Radix by 1H NMR based Metabolomic Approach"
+Study Description	"Astragali Radix (AR) is a commonly used herbal drug in Traditional Chinese Medicine, and widely used for the treatment of diabetes, cardiovascular diseases, nephropathy and neuropathy. The main source of AR is the dried root of Astragalus membranaceus var. mongholicus (Bge.) Hsiao in China, and both cultivated and wild ARs are used in the clinic. Systematic comparison of cultivated AR and wild AR should be performed to ensure the efficacy and safety in clinic. In this study, the chemical compositions of two different ARs, collected in Shanxi (wild) and Gansu (cultivated) Provinces, were compared by NMR based metabolic fingerprint coupled with multivariate analysis. Then SX-AR and GS-AR induced metabolic changes of endogenous metabolites in mice were also compared. The results showed that SX-AR and GS-AR differed significantly not only in the primary metabolites, but also the secondary metabolites. However, alterations of endogenous metabolites in serum, lung, liver and spleen were relatively small between them. This study provided a novel and valuable method for consistency and diversity evaluation of herbal drugs, and further studies should be conducted on the difference of polysaccharide as well as biological effect between the two kinds of ARs."
+Study Submission Date	"2015-03-29"
+Study Public Release Date	"2016-03-30"
+Study File Name	"s_mtbls189.txt"
+Comment[Study Grant Number]	"2011BA107B01; 2013131015"
+Comment[Study Funding Agency]	"The national twelfth five-year science and technology support program; Science and technology innovation team of Shanxi Province"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"	"Astragali Radix"	"chemical differences"	"metabolic changes"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	""	""	""
+Study Design Type Term Source REF	"CHMO"	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25844502"
+Study Publication DOI	"10.1021/pr501167u"
+Study Publication Author List	"Ai-Ping Li, Zhen-Yu Li, Hai-Feng Sun, Ke Li, Xue-Mei Qin, Guan-Hua Du"
+Study Publication Title	"Comparison of Two Different Astragali Radix by
+1H NMR based Metabolomic Approach
+"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"area"	"drug intervention"
+Study Factor Type	"geographic location"	"Group"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/GAZ_00000448"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"CHEMINF"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls189_M1_AR_NMR_spectroscopy.txt"	"a_mtbls189_M2E_AR_NMR_spectroscopy.txt"	"a_mtbls189_Ser_Tis_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Plant materials:</br>
+Astragali Radix (AR) samples were collected at the same time of year from the same planting area from Hunyuan County, Shanxi Province (SX-AR) and Minxian County, Gansu Province (GS-AR) of China, respectively. The voucher specimens were deposited in the herbarium of Modern Research Center for Traditional Chinese Medicine of Shanxi University.
+</p>
+Serum and tissue samples:</br>
+The freeze-dried extract (see Extraction section below) was suspended in distilled water to 1.0 g/ml, which is equivalent to the crude drug. According to the extraction yields, the final concentrations of SX-AR and GS-AR were 0.31 and 0.33 g/ml, respectively. For the low dose group, the drug concentration was diluted to 0.25 g/ml (equivalent to the crude drug). The animal study was performed according to the International Rules Concerning Animal Experiments and the Internationally Accepted Ethical Principles for Laboratory Animal Use and Care. Male 4-week-old Kunming (KM) mice, weighing 18–22 g, were purchased from the Experimental Animal Center of the Academy of Military Medical Sciences of the Chinese People’s Liberation Army [SCXK (Military) 2012–0004]. All animals were housed at room temperature (20–25 °C) and constant humidity (40–70%) under a 12 h light/dark cycle in Specific Pathogen Free (SPF) grade laboratory conditions. Animals were allowed to have access to food and water ad libitum except for fasting periods before experiments.
+</p>
+After a 1 week adaptive feeding period, KM mice were randomly divided into 5 groups (n = 8) for a 7 day treatment intervention: a control group (NS), a GS-AR low dose group (GS-AR-L), a GS-AR high dose group (GS-AR-H), an SX-AR low dose group (SX-AR-L), and an SX-AR high dose group (SX-AR-H). Aqueous extracts of AR were administrated into the mice via gavage for the low dose (5 g/kg, equivalent to the crude drug) and high dose (20 g/kg, equivalent to the crude drug) groups, and the control group was given the same volume of distilled water. A total volume of 0.2 ml per 10 g of body weight was administered to the mouse once a day.
+</p>
+Blood (0.5–0.8 ml) was withdrawn from the retro-orbital plexus of the mice and collected into Eppendorf tubes on the 8th day after fasting for 12 h. The blood was then separated using refrigerated centrifugation at 13 000 rpm for 10 min to afford the serum. The serum samples and liver, spleen, and lung tissues were snap-frozen in liquid nitrogen and stored at -80 °C for further analysis."	"Plant materials:</br>
+100 g of AR was extracted with 1000 ml of water by refluxing twice (2 h each). The combined solution was filtered, concentrated under reduced pressure, and subsequently freeze-dried.
+</p>
+Serum and tissue samples:</br>
+Liver (about 200 mg), spleen (about 100 mg), and lung (about 90 mg) tissues were extracted with 1 ml of acetonitrile/water (1:1) using an ultrasonic cell crusher (Ningbo Scientz Biotechnology Co., Ltd., China)."	"Plant materials:</br>
+Two different sample preparation procedures were used for the comprehensive chemical characterization of the AR aqueous crude extract. In the first procedure (M1), the freeze-dried powder (about 30 mg) was redissolved in KH2PO4 buffer in D2O (adjusted to pH 6.0 by 1 M NaOD) containing 0.05% TSP. The sample was then centrifuged for 10 min at 13 000 rpm. The supernatants (600 µl) of all the samples were transferred into 5 mm NMR tubes for NMR analysis. In the second procedure (M2), 4 g of freeze-dried powder was suspended in 100 ml of water and partitioned by an equal volume of petroleum ether, EtOAc, and n-BuOH in sequence. The soluble fractions in petroleum ether (M2P), EtOAc (M2E), and n-BuOH (M2B) and the residual water (M2W) fractions were transferred separately into round-bottomed flasks and taken to dryness with a rotary vacuum evaporator. The M2P and M2E samples were redissolved in CDCl3 and CD3OD, respectively, whereas the M2B and M2W samples were reconstituted in KH2PO4 buffer in D2O. All the samples were transferred into 5 mm NMR tubes for NMR analysis.
+</p>
+Serum and tissue samples:</br>
+Each serum sample (300 µl) was mixed with 300 µl of D2O and centrifuged (13 000 rpm, 4 °C, 10 min), after which 550 µl of the supernatant was transferred into 5 mm NMR tubes for NMR analysis. The resultant liver, spleen, and lung supernatants were centrifuged (13 000 rpm, 4 °C, 10 min), lyophilized in nitrogen flow, and redissolved into 600 µl of phosphate buffer (0.1 M, KH2PO4/Na2HPO4, pH 7.4) containing 0.01% TSP and 10% D2O. After final centrifugation (13 000 rpm, 4 °C, 10 min), each supernatant (550 µl) was transferred into a 5 mm NMR tube for NMR analysis."	"Plant materials:</br>
+The 1H NMR spectra was recorded at 25 °C on a Bruker 600 MHz AVANCE III NMR spectrometer (600.13 MHz proton frequency, Bruker BioSpin, Germany).
+</p>
+Serum and tissue samples:</br>
+The 1H NMR spectra were acquired at 298 K on a Bruker 600 MHz AVANCE III NMR spectrometer equipped with a Bruker 5 mm double resonance BBI probe."	"Plant materials:</br>
+Each 1H NMR spectrum for M1 and M2E was acquired using the zg30 pulse sequence, which consisted of 32 scans requiring a 2.654 s acquisition time with the following parameters: spectral width of 12,345.7 Hz, spectral size of 65,536 points, pulse width (PW) of 30°, and a relaxation delay (RD) of 1.0 s. For other fractions, the zg30 pulse sequence was used for M2P, and the noesygppr1d pulse sequence was used for M2B and M2W.
+</p>
+Serum and tissue samples:</br>
+1H NMR spectrum for M1 and M2E was acquired using the cpmgpr1d pulse sequence for serum samples and the noesygppr1d pulse sequence for tissue extracts."	"Plant materials:</br>
+The 1H NMR spectra were manually phase- and baseline-corrected and calibrated to TSP at 0.00 ppm for M1 and to methanol at 3.30 ppm for M2E using MestReNova (version 8.0.1, Mestrelab Research, Santiago de Compostella, Spain). For M1, the spectrum was divided into integrated regions of equal width (0.04 ppm) corresponding to the region of d 0.78–9.22. The region of d 4.66–5.06 was excluded from the analysis because of the residual signals of HOD. For M2E, the 1H NMR spectral region from d 0.16–9.76 was segmented into regions with widths of 0.04 ppm, and the two regions of d 4.68–5.40 and d 3.28–3.36 were excluded from the analysis due to the residual signal of HOD and CHD2OD.
+</p>
+Serum and tissue samples:</br>
+All spectra were manually phase- and baseline-corrected using the MestReNova software. TSP with a chemical shift at d 0.00 was used as a spectral reference for all tissue (lung, liver, spleen) extracts, whereas the NMR spectra of the serum were referenced to that of creatine at d 3.04. The regions containing the resonance from residual water (d 4.68–5.16) were excluded. All spectra were then segmented at 0.04 ppm intervals across d 0.72–7.88 for serum samples and across d 0.80–9.00 for tissue extract samples. Normalization to a total sum of all integrals for serum and to the tissue weights for tissue extracts were conducted before multivariate analysis."	"The resonances in these spectra were assigned to individual metabolites according to the literature data, NMR database such as Chenomx NMR suite software (chenomx Inc. Edmonton, AB, Canada, evaluated), HMDB (http://www.hmdb.ca/spectra/nmr_one_d/search), BMRB (http://www.bmrb.wisc.edu/), and also based on comparisons with the chemical shifts of standard compounds.
+</p>
+For quantitative data analysis of identified metabolites, relative amount of metabolites were evaluated based on the integrated regions (buckets) from the least overlapping NMR signals of metabolites."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Li"	"Li"
+Study Person First Name	"Aiping"	"Zhenyu"
+Study Person Mid Initials	""	""
+Study Person Email	"liaiping088@163.com; liapsxu@163.com"	"lizhenyu@sxu.edu.cn"
+Study Person Phone	"0351-7018379"	"0351-7018379"
+Study Person Fax	"0351-7018379"	"0351-7018379"
+Study Person Address	"Shanxi University, No. 92, Wucheng Road, Taiyuan 030006, Shanxi, People’s Republic of China"	"Shanxi University, No. 92, Wucheng Road, Taiyuan 030006, Shanxi, People’s Republic of China"
+Study Person Affiliation	"Modern Research Center for Traditional Chinese Medicine of Shanxi University; College of Chemistry and Chemical Engineering of Shanxi University"	"Modern Research Center for Traditional Chinese Medicine of Shanxi University"
+Study Person Roles	"principal investigator"	"investigator and corresponding author"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

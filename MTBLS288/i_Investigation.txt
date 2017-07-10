@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"GO"	"MS"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"1557"	"129"	"146"	"43"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS288"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS288"
+Study Title	"Identification of Conserved and Diverse Metabolic Shifts during Rice Grain Development (GC-MS assay)"
+Study Description	"Here we investigated the dynamic metabolic changes along the rice grain development of two japonica and two indica cultivars using non-targeted metabolomics approach, in which we successfully identified 214 metabolites. Principal component and clustering analysis revealed both cultivar and developmental stage dependent metabolic changes in rice grains. Generally, the stage specific metabolic kinetics corresponded well to the physiological status of the developing grains, and some of metabolic changes in developing grain of monocot rice are common with those of dicot Arabidopsis and tomato, while others show rice specific patterns. </p>See study MTBLS286 and MYTBLS287 for the LC-MS pos and neg assays respectively for this study."
+Study Submission Date	"2015-11-30"
+Study Public Release Date	"2016-05-03"
+Study File Name	"s_dynamic metabolomics of rice grain.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"seed development"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/GO_0048316"	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	""	"GO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26860358"
+Study Publication DOI	"http://dx.doi.org/10.1038/srep20942"
+Study Publication Author List	"Chaoyang Hu, Takayuki Tohge, Shen-An Chan, Yue Song, Jun Rao, Bo Cui, Hong Lin, Lei Wang, Alisdair R. Fernie, Dabing Zhang, Jianxin Shi"
+Study Publication Title	"Identification of Conserved and Diverse Metabolic Shifts during Rice Grain Development"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"rice seed developmental stage"	"different cultivar"
+Study Factor Type	"days after flowering"	"cultivar"
+Study Factor Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0005136"
+Study Factor Type Term Source REF	""	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_dynamic metabolomics of rice grain_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"TSQ Quantum GC (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Rice plants were planted in a paddy filed in Minghang (31.03 °N, 121.45 °E), Shanghai, China, during the summer season in 2013. Four biological replications of rice seeds at 7, 10, 14, 28 and 42 DAF were collected, immediately frozen with liquid nitrogen, lyophilized for 48 hours and stored at -80 °C until metabolomics analysis."	"20 mg rice grain powder was extracted in a prechilled methanol:chloroform:water extraction solution (1:2.5:1 v/v). Standard (0.2 mg/ml ribitol in water) was subsequently added as a quantification standard. The mixture was extracted for 15 min at 4 °C shaking. After centrifugation at 2,200 x g, 400 ml of water was added to the supernatant. Following vortexing and centrifugation the methanol-water phase was taken and 200 ml reduced to dryness in vacuum. Residues were redissolved and derivatized for 90 min at 37 °C (in 40 µl of 20 mg/ml methoxyamine hydrochloride in pyridine) followed by a 30-min treatment with 60 µl N-methyl-N-(trimethylsilyl)trifluoroacetamide at 37 °C. 8 µl of a retention time standard mixture (0.029% v/v n-dodecane, n-pentadecane, n-nonadecane, n-docosane, n-octacosane, n-dotracontane, and n-hexatriacontane dissolved in pyridine) was added prior to trimethylsilylation."	"The GC-MS system consisted of an AS 2000 autosampler, a GC 8000 gas chromatograph, and a Voyager quadrupole mass spectrometer (ThermoQuest). GC was performed on a 30 m SPB-50 column with 0.25 mm i.d. and 0.25 m film thickness (Supelco). Injection temperature was 230 °C, the interface set to 250 °C, and the ion source adjusted to 200 °C. The carrier gas used was helium set at a constant flow rate of 1 ml/min. The temperature program was 5 min isothermal heating at 70 °C, followed by a 5 °C/min oven temperature ramp to 310 °C, and a final 1 min heating at 310 °C. The system was then temperature equilibrated for 6 min at 70 °C prior to injection of the next sample. More detailed information can be found in [1].
+</p>
+Ref:</br>
+[1] Fait A, Angelovici R, Less H, Ohad I, Urbanczyk-Wochniak E, Fernie AR, Galili G. Arabidopsis seed development and germination is associated with temporally distinct metabolic switches. Plant Physiol. 2006 Nov;142(3):839-54. PMID:16963520</br>"	"The Voyager quadrupole mass spectrometer (ThermoQuest) was tuned according to the manufacturer's recommendations using tris-(perfluorobutyl)-amine (CF43). Mass spectra were recorded at 2 scans/s with a mass-to-charge ratio 50 to 600 scanning range. The chromatograms and mass spectra were evaluated using the MassLab program (ThermoQuest)."	"By using TagFinder software. Detailed information can be found in the reference Luedemann et al., Bioinformatics, 2008, 24: 732-737.
+</p>
+Ref:</br>
+[1] Luedemann A, Strassburg K, Erban A, Kopka J. TagFinder for the quantitative analysis of gas chromatography--mass spectrometry (GC-MS)-based metabolite profiling experiments. Bioinformatics. 2008 Mar 1;24(5):732-7. doi:10.1093/bioinformatics/btn023. PMID:18204057</br>"	"
+By using TagFinder software. Detailed information can be found in the reference Luedemann et al., Bioinformatics, 2008, 24: 732-737.
+</p>
+Ref:</br>
+[1] Luedemann A, Strassburg K, Erban A, Kopka J. TagFinder for the quantitative analysis of gas chromatography--mass spectrometry (GC-MS)-based metabolite profiling experiments. Bioinformatics. 2008 Mar 1;24(5):732-7. doi:10.1093/bioinformatics/btn023. PMID:18204057</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jianxin"	"Chaoyang"
+Study Person First Name	"Shi"	"Hu"
+Study Person Mid Initials	""	""
+Study Person Email	"jianxin.shi@sjtu.edu.cn"	"spiritsun85@163.com"
+Study Person Phone	"+86-21-34205073"	""
+Study Person Fax	"+86-21-34204869"	""
+Study Person Address	"800 Dongchuan Road, Minghan District, Shanghai 200240, China"	"800 Dongchuan Road, Minghan District, Shanghai 200240, China"
+Study Person Affiliation	"School of Life Sciences and Biotechnology, Shanghai Jiao Tong University"	"School of Life Sciences and Biotechnology, Shanghai Jiao Tong University"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

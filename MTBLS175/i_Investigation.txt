@@ -1,0 +1,141 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"CHEBI"	"OBI"	"NCBITAXON"	"NCIT"	"CHMO"	"NCIT"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"96"	"86"	"22"	"3"	"34"	"18"	"44"	"43"	"29"	
+Term Source Description	"Mass Spectrometry Ontology"	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS175"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS175"
+Study Title	"Metabolomics-derived insights into the manipulation of terpenoid sysnthesis in Centella asiatica cells by methyl-jasmonate"
+Study Description	"Centella asiatica is an important medicinal plant with a wide range of bioactivities associated with its secondary metabolites. Using two extraction procedures, metabolomic approaches were used to investigate changes in the metabolome of C. asiatica cells treated with exogenous MeJA. GC–MS and LC–MS platforms were employed for semi-targeted and untargeted analyses, respectively. Multivariate data analyses indicated concentration-dependent changes in the metabolite profiles, indicative of the cellular response to MeJA. Annotation of biomarkers correlated with the treatment indicate differential responses in flavonoid-, phenylpropanoid (cinnamates)- and terpenoid pathways and changes in fatty acid profiles. MeJA treatment triggered the accumulation of bicyclic sesquiterpenoids (aristolochene, deoxy-capsidiol, 15-hydroxysolavetivone, solavetivone, 3-hydroxylubimin) and a tricyclic sesquiterpenoid (phytuberin), indicating the stimulatory effect of MeJA on this branch of the terpenoid pathways. In contrast, flavonoids were mostly negatively correlated with the treatment. The presence of the sesquiterpenoids in MeJA-elicited cells and other tentatively identified metabolites (abscisic acid, fatty acids, phytosterols and metabolites of shikimate–phenylpropanoid pathways) indicates that the changes in the metabolome are associated with a defensive function in response to elicitation by MeJA, rather than just the amplification of existing terpene pathways. These results provide a detailed and comprehensive picture of metabolic changes occurring in C. asiatica cells in response to MeJA elicitation and contribute to the understanding of flexible and controllable aspects of metabolic manipulation."
+Study Submission Date	"2015-03-03"
+Study Public Release Date	"2015-03-03"
+Study File Name	"s_FT_CaM_MJ.txt"
+Comment[Centella Asiatica]	""
+Comment[Metabolomics]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"multivariate statistics "	"(-)-methyl jasmonate"	"Terpenoid Biosynthesis Pathway"	"untargeted metabolites"	"targeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	""	"http://purl.obolibrary.org/obo/CHEBI_15929"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38872"	""	""	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	"CHMO"	""	"CHEBI"	"NCIT"	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"http://dx.doi.org/10.1007/s11816-015-0350-y"
+Study Publication Author List	"Fidele Tugizimana, Efficient N. Ncube, Paul A. Steenkamp, Ian A. Dubery"
+Study Publication Title	"Metabolomics-derived insights into the manipulation of terpenoid synthesis in Centella asiatica cells by methyl-jasmonate"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Experimental Group"	"MeJA treatment "
+Study Factor Type	"concentration"	"Group"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"CHMO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_LC_ft_cam_mj_mass_spectrometry.txt"	"a_GC_ft_cam_mj_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"	"GCMS-QP2010 Plus (Shimadzu)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"GC-MS and LC-MS"	"GC-MS and LC-MS"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Plant material and cell cultures were obtaines and prepared as described previously [1][2]. Briefly, commercially cultivated C. asiatica was obtained from a local nursery. Explants from stems were cultivated and maintained in agar solidified Murashige and Skoog (MS) medium with vitamins (50 mg nicotinic acid, 50 mg thiamine HCl, 10 mg pyridoxine HCl and 10 g myo-inositol per 100 ml, Highveld Biologicals, South Africa) supplemented with 1 µM 2,4-D, 1 µM BAP, 30 g/l sucrose and 1 g/l casein hydrolysate. To obtain callus proliferation, 1 g of callus was transferred aseptically to solid MS salt solution as described above. The cultures were kept in a culture room with 18/6 h light/dark cycle and the temperature was regulated at 23 °C for 21 days. In addition, callus was transferred to sterile liquid medium, to initiate cell suspensions. These were incubated on an orbital shaker in the dark at 23 °C. Every 7 days the homogenous cell suspension was subcultured in a 1:1 (v/v) ratio with fresh MS medium.
+</p>
+For elicitation of cells, C. asiatica cell suspensions were treated by the application of MeJA (Sigma Aldrich, Munich, Germany) to obtain final concentrations of 100, 200 and 400 µM and incubated for 24 h with continuous rotation at 120 rpm and 25 °C. Non-treated C. asiatica cell suspensions, incubated in the same conditions as the MeJA-treated cells, were used as negative controls. All results are based on four biological repeats, with three analytical replicates for each biological repeat.
+</p>
+Ref:</br>
+[1] James JT,MeyerR,Dubery IA(2008)Characterisation of two phenotypes of Centella asiatica in Southern Africa through the composition of four triterpenoids in callus, cell suspensions and leaves. Plant Cell, Tissue Organ Cult 94:91–99. doi:10.1007/s11240-008-9391-z</br>
+[2] James JT, Tugizimana F, Steenkamp PA, Dubery IA (2013) Metabolomic analysis of methyl jasmonate-induced triterpenoid production in the medicinal herb Centella asiatica (L.) urban. Molecules 18:4267–4281. doi:10.3390/molecules18044267</br>"	"Two extraction methods were used: a selective extraction (chloroform extracts) to target non-polar metabolites and a general methanol extraction for mid-polar and polar compounds. Chloroform extracts were prepared as previously described, using the dispersive liquid-liquid microextraction (DLLME) method [1]. Briefly, 24 h post treatment, the excess media was filtered using a Buchner funnel and the cells were collected. 2 g of cells were re-suspended in 20 ml of methanol and homogenised using an Ultra Turrax homogenizer. The homogenates were centrifuged at 5525 x g for 7 min at 25 °C. The supernatants were placed into 50 ml round-bottom flasks, and the methanol evaporated to 1 ml at 50 °C using a Buchi Rotavapor R-200. To this, 1 ml of the crude aqueous extract, 200 µl of chloroform and 100 µl of methanol were added.  The mixture was vortexed for 30 s and centrifuged at 15,000 x g for 6 min at 25 °C in a glass centrifuge tube. Using a syringe, the bottom chloroform extraction layer was removed and filtered through 0.22 µm nylon filters, and placed into pre-labelled GC glass vials containing glass inserts and fitted with slitted caps. A general methanol extraction was carried out as previously described, with modification where necessary [2][3]. The resulting 50% methanol extracts were filtered through 0.22 µm filters and placed into pre-labelled UHPLC glass vials fitted with inserts and slitted caps. 
+</p>
+Ref:</br>
+[1] Tugizimana F, Steenkamp PA, Piater LA, Dubery IA (2012) Ergosterol-induced sesquiterpenoid synthesis in tobacco cells. Molecules 17:1698–1715. doi:10.3390/molecules17021698</br>
+[2] Madala NE, Piater LA, Steenkamp PA, Dubery IA (2014) Multivariate statistical models of metabolomic data reveals different metabolite distribution patterns in isonitrosoacetophenone-elicited Nicotiana tabacum and Sorghum bicolor cells. Springerplus 3:1–10. doi:10.1186/2193-1801-3-254</br>
+[3] Tugizimana F, Steenkamp PA, Piater LA, Dubery IA (2014) Multiplatform metabolomic analyses of ergosterol-induced dynamic changes in Nicotiana tabacum cells. PLoS ONE 9:e87846. doi:10.1371/journal.pone.0087846</br>"	"GC-MS:</br>
+The DLLME chloroform extracts were analysed on a Shimadzu GC–MS-QP2010 (Shimadzu, Kyoto, Japan) equipped with an electron-impact (EI) ion source and a quadrupole mass analyser. The chromatographic separation was achieved on a ZB1-MS non-polar column (Phenomenex, Tottance, CA, USA). A 1 µl aliquot of chloroform sample was injected into the GC-MS instrument in splitless mode and the injection temperature of 250 °C. The overall programmed-temperature GC run included zones with different temperature gradient (multi-linear programming) with initial and final isothermal zones. The initial GC oven temperature was 40 °C for 4 min, increased by 25 °C/min to 240 °C, then increased to 300 °C at a rate of 5 °C/min and held at 300 °C for 5.00 min
+</p>
+LC-MS:</br>
+UHPLC and high-definition mass spectrometry (UHPLC–HDMS) analyses were performed on a Waters Acquity UPLC coupled in tandem to a Waters photodiode array(PDA) detector and a SYNAPT G1 HDMS Q-TOF mass spectrometer (Waters Corporation, Manchester, UK). Chromatographic separation of methanol extracts was done utilising a Waters CSH C18 Acquity column (150 mm x 2.1 mm, 1.7 µm) thermostatted at 60 °C. A binary solvent mixture was used consisting of water (eluent A) containing 10 mM formic acid (pH 2.3) and acetonitrile (Romil Pure Chemistry, Cambridge, UK) (eluent B). The initial conditions were 95% A at a flow rate of 0.4 ml/min and were kept constant for 2 min. A gradient was introduced to change the chromatographic conditions to 5% A at 22 min. The conditions were kept constant for 3 min to flush the analytical column where after the column was returned to initial conditions at 27 min and allowed to equilibrate for 3 min. The run time was 30 min and the injection volume was 5 µl. Each sample was analysed in triplicate, to account for any analytical variability. The PDA detector was scanned between 200 and 500 nm (1.2 nm resolution) and collecting 20 spectra/s."	"GC-MS:</br>
+The MS was operated using EI at 70 eV. Helium was used as the carrier gas, and the column flow rate set at 1 ml/min. The ion source temperature was set at 200 °C, and the detector voltage was set at 0.5 kV to prevent the oversaturation of the detector. The solvent cut time for the MS was set at 5 min and EI scan mode was used for identification covering the range of 50-500 m/z. 
+</p>
+LC-MS:</br>
+The SYNAPT G1 mass spectrometer was used in V-optics and operated in electrospray ionisation (ESI) mode to detect the compounds of interest. Leucine enkephalin (50 pg/ml) was used as reference calibrant to obtain typical mass accuracies between 1 and 3 mDa. The mass spectrometer was operated in both positive and negative mode with a capillary voltage of 2.5 kV, the sampling cone at 17 V and the extraction cone at 4 V. The scan time was 0.1 s covering the 100 to 1000 Da mass range. The source temperature was 120°C and the desolvation temperature was set at 450 °C. Nitrogen gas was used as the nebulisation gas at a flow rate of 800 l/h. The software used to control the hyphenated system and perform all data manipulation was MassLynx 4.1 (SCN 704, Waters Corporation, Milford, MA, USA)."	"The raw data was processed using the software specific to the analytical platform used.
+</p>
+GC-MS:</br>
+For GC-MS data, the Profiling Solution software (Shimadzu, Kyoto, Japan) was used for data processing. The parameters were default settings except for the following: 6-25 min retention time (Rt) range of the chromatogram, ion m/z tolerance of 500 mDa, ion Rt tolerance of 0.5 min and ion intensity threshold of 1000 counts. The timebase ‘Warping’ method was used for the chromatogram alignment.
+</p>
+The data matrices obtained from Profiling Solution processing were exported to SIMCA 13.0 software (Umetrics, Umea, Sweden) for principal component analysis (PCA) and orthogonal projection to latent structures-discriminant analysis / orthogonal partial least squares-discriminant analysis (OPLS-DA).
+</p>
+LC-MS:</br>
+For LC-MS data, ESI positive and negative raw data were extracted using MassLynxTM XS software and analysed with MarkerLynxTM software (Waters Corporation, Mildford, MA, USA). The MarkerLynx software extracts the raw LC-MS data and produces a matrix of Rt-m/z variable pairs, with the m/z peak intensity for each sample. Software parameters were set to analyse the 2-26 min Rt range of the chromatogram, mass range 100-700 Da, mass tolerance 0.01 Da, mass window 0.05 Da and a Rt window of 0.20 min.
+</p>
+The data matrices obtained from MarkerLynx processing were exported to SIMCA 13.0 software (Umetrics, Umea, Sweden) for principal component analysis (PCA) and orthogonal projection to latent structures-discriminant analysis/orthogonal partial least squares-discriminant analysis (OPLS-DA).
+</p>
+XCMS analyses of LC-MS data:</br>
+Following the upload of the raw data files (netCDF), parameters for XCMS processing were as follows: centWave for feature detection (with 15 ppm as a maximal tolerated m/z deviation in consecutive scans, minimum chromatographic peak width of 5 s and maximum peak width of 20 s); obwarp method for retention time correction (profStep = 1, step size to use for profile generation). The chromatogram alignment parameters included: minfrac of 0.5 (minimum fraction of samples necessary in at least one of the sample groups for it to be a valid group), bw of 5 s (allowable retention time deviations) and mzwid of 0.015 (width of overlapping m/z slices to use for peak density chromatograms and grouping peaks across samples). The relative quantification of metabolite features was based on EIC (extracted ion chromatogram) areas, and statistical test was performed using unpaired parametric t-test (Welch t-test) method, with p-value and fold change thresholds of 0.01 and 1.5 respectively for highly significant features and p-value threshold of 0.05 for significant features."	"The selected mass ions from the SIMCA-derived S- and Variable Importance in Projection (VIP) plots were putatively annotated according to the Metabolomic Standards Initiative, level 2 [1]. For the LC-MS platform, selected mass ions obtained from MarkerLynx data were putatively identified using the Taverna workbench (www.taverna.org.uk) for PUTMEDID_LCMS metabolite identification workflows. The Taverna workflows allow for integrated, automated and high-throughput annotation and putative metabolite identification from LC-ESI-MS metabolomic data. The workflows consist of correlation analysis, metabolic feature annotation and metabolite annotation [2]. For the GC-EI-MS platform, the respective mass spectra of the extracted ion peaks of the selected mass ions from S- and VIP plots were searched against the NIST (National Institute of Standards and Technology) and Wiley mass spectra libraries (2007 versions) for similarity matches. This spectral comparison provided putative empirical formulae and structures, which were further searched in databases such as the Dictionary of Natural Products (www.dnp.chemnetbase.com) and ChemSpider (www.chemspider.com). The library search results were evaluated based on the probability factor, a match factor provided by the search algorithms that describes how unique a spectrum is, compared to all other spectra in the library [3][4]. Only spectra with probability hits in the range from 650 to 900 or above, were considered.
+</p>
+The statistically selected features in XCMS analyses are automatically annotated by searching the METLIN metabolite database, producing thus a list of putative identities based on accurate mass measurements. In this study, the XCMS online annotation parameters were set as follows: isotopes and adducts search, m/z absolute error of 0, ppm error of 5 and the tolerance for database search of 10 ppm.
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D et al (2007) Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics 3:211–221. doi:10.1007/s11306-007-0082-2</br>
+[2] Brown M, Wedge DC, Goodacre R et al (2011) Automated workflows for accurate mass-based putative metabolite identification in LC/MS-derived metabolomic datasets. Bioinformatics 27:1108–1112. doi:10.1093/bioinformatics/btr079</br>
+[3] Kanani HH, Klapa MI (2007) Data correction strategy for metabolomics analysis using gas chromatography-mass spectrometry. Metab Eng 9:39–51. doi:10.1016/j.ymben.2006.08.001</br>
+[4] Kanani H, Chrysanthopoulos PK, Klapa MI (2008) Standardizing GC–MS metabolomics. J Chromatogr B 871:191–201. doi:10.1016/j.jchromb.2008.04.049</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Tugizimana"	"Ncube"	"Steenkamp"	"Dubery"
+Study Person First Name	"Fidele"	"Efficient"	"Paul"	"Ian"
+Study Person Mid Initials	""	"N"	"A"	"A"
+Study Person Email	"fideletu@gmail.com"	"efficientncube@yahoo.com"	"psteenkamp@csir.co.za"	"idubery@uj.ac.za"
+Study Person Phone	"+27-011-559-2402"	"+27-011-559-2402"	"+27-012-841-4730"	"+27-011-559-2401"
+Study Person Fax	"+27-011-559-2605"	"+27-011-559-2605"	"+27-012-841-4790"	"+27-011-559-2370"
+Study Person Address	"Auckland Park, 2006, Johannesburg, South Africa"	"Auckland Park, 2006, Johannesburg, South Africa"	"Meiring Naude road
+Brummeria
+P O Box 395
+Pretoria, 0001
+South Africa"	"Kingsway Campus
+P.O.Box 524, Auckland Park,
+2006, Johannesburg, South Africa"
+Study Person Affiliation	"Department of Biochemistry, University of Johannesburg"	"Department of Biochemistry, University of Johannesburg"	"CSIR Biosciences"	"Department of Biochemistry, University of Johannesburg"
+Study Person Roles	" sample analyses (GC-MS), data analyses (GCMS, LCMS data), manuscript preparation"	" sample preparation, extraction, manuscript preparation"	" sample analyses (LC-MS) "	" design the project, director of the project, preparation of the manuscript "
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

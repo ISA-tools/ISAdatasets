@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"EFO"	"CHMO"	"BTO"	"GO"	"XEO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/XEO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"132"	"16"	"26"	"1484"	"4"	"43"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Gene Ontology"	"XEML Environment Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS22"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS22"
+Study Title	"Mining for metabolic responses to long-term salt stress: a case study on Arabidopsis thaliana Col-0 (A)"
+Study Description	"New metabolic profiling technologies provide data on a wider range of metabolites than traditional targeted approaches. Metabolomic technologies currently facilitate acquisition of multivariate metabolic data using diverse, mostly hyphenated, chromatographic detection systems, such as GC-MS or liquid chromatography coupled to mass spectrometry, Fourier-transformed infrared spectroscopy or NMR-based methods. Analysis of the resulting data can be performed through a combination of non-supervised and supervised statistical methods, such as independent component analysis and analysis of variance, respectively. These methods reduce the complex data sets to information, which is relevant for the discovery of metabolic markers or for hypothesis-driven, pathway-based analysis. Plant responses to salinity involve changes in the activity of genes and proteins, which invariably lead to changes in plant metabolism. Here, we highlight a selection of recent publications in the salt stress field, and use gas chromatography time-of-flight mass spectrometry profiles of polar fractions from the plant models, Arabidopsis thaliana, Lotus japonicus and Oryza sativa to demonstrate the power of metabolite profiling. We present evidence for conserved and divergent metabolic responses among these three species and conclude that a change in the balance between amino acids and organic acids may be a conserved metabolic response of plants to salt stress."
+Study Submission Date	"2015-09-11"
+Study Public Release Date	"2015-09-14"
+Study File Name	"s_Mining for metabolic responses to long-term salt stress a case study on Arabidopsis thaliana Col-0 (A).txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"intervention design"	"stimulus or stress design"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"response to salt stress"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/OBI/OBI_0000115"	"http://purl.bioontology.org/ontology/OBI/OBI_0001396"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/GO_0009651"
+Study Design Type Term Source REF	"OBI"	"OBI"	""	"CHMO"	"GO"
+STUDY PUBLICATIONS
+Study PubMed ID	"18251862"
+Study Publication DOI	"10.1111/j.1399-3054.2007.00993.x"
+Study Publication Author List	"Sanchez DH, Siahpoosh MR, Roessner U, Udvardi M, Kopka J."
+Study Publication Title	"Plant metabolomics reveals conserved and divergent metabolic responses to salinity."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Container_after_initiation"	"Salt_Quantity_after_initiation"	"Salt_Quantity_after_04d"	"Salt_Quantity_after_08d"	"Salt_Quantity_after_12d"	"Salt_Quantity_after_16d"	"Medium_after_initiation"	"Watering_after_initiation"
+Study Factor Type	"ContainerEnum"	"Quantity"	"Quantity"	"Quantity"	"Quantity"	"Quantity"	"media"	"Watering"
+Study Factor Type Term Accession Number	"http://purl.bioontology.org/ontology/XEO/XEO:00040"	""	""	""	""	""	"http://www.ebi.ac.uk/efo/EFO_0000579"	"http://purl.obolibrary.org/obo/XEO_00124"
+Study Factor Type Term Source REF	"XEO"	""	""	""	""	""	"EFO"	"XEO"
+STUDY ASSAYS
+Study Assay File Name	"a_Mining for metabolic responses to long-term salt stress a case study on Arabidopsis thaliana Col-0 (A).txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The metabolic profiling of A. thaliana was obtained from experiments carried out in soil under greenhouse conditions, following a gradual step-wise salt acclimation approach [1]. Seeds of A. thaliana were directly sown in soil, “Einheits-Erde” type 0, using 10 cm pots. Plants were irrigated with half-strength Hoagland’s nutrient solution. Salt treatment was for 20 days and started four days post-imbibition. Four days after imbibition, germinated plants were transplanted to soil and irrigated with the above nutrient solution. Salt treatment started eight days post-imbibition and samples were taken after 24 days. The salt content of the nutrient solution was increased in steps, 10, 25, 50 and 75 NaCl mM. Time of each step was 4 days. A subset of plants was kept at each final salt level until harvest. Details of plant growth and salt acclimation have been reported previously [2].
+</p>
+Ref:</br>
+[1] Sanchez et al. personal communication</br>
+[2] E. Zuther, K. I. Koehl and J. Kopka (2007) Comparative metabolome analysis of the salt response in breeding cultivars of rice , Advances in molecular breeding toward drought and salt tolerant crops. Springer-Verlag Berlin, Heidelberg, New York 285-315</br>"	"For non-targeted metabolite profiling, 60 mg plant tissue was ground with mortar and pestle under liquid nitrogen. Frozen powder was extracted with hot methanol/chloroform and the fraction of polar metabolites prepared by liquid partitioning into water. Chemical derivatization for GC was according to [1]. 
+</p>
+Ref:</br>
+[1] G. G. Desbrosses, J. Kopka and M. K. Udvardi (2005) Lotus japonicus metabolic profiling. Development of gas chromatography-mass spectrometry resources for the study of plant-microbe interactions, Plant Physiology 137: 1302-1318. PMID: 15749991</br>"	"Details of GC-EI-TOF-MS based profiling were reported previously [1][2].
+</p>
+Samples were processed using a Factor Four VF-5ms capillary column of dimensions, 30 m length, 0.25 mm i.d., and 0.25 µm film thickness with a 10 m EZ-guard pre-column (Varian Inc., Lake Forest, CA)) mounted to a Agilent 6890N gas chromatograph (Agilent, Böblingen, Germany), with split or splitless injection and electronic pressure control.
+</p>
+The n-alkanes used to calculate are retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. For additional information on the retention time index calculations see [2].
+</p>
+Ref: </br>
+[1] C. Wagner, M. Sefkow and J. Kopka (2003) Construction and application of a mass spectral and retention time index database generated from plant GC/EI-TOF-MS metabolite profiles, Phytochemistry 62: 887-900. PMID:12590116</br>
+[2] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Mass spectrometric data were acquired through a Pegasus III TOF mass spectrometer (LECO Instrumente GmbH, Mönchengladbach, Germany). Details of GC-EI-TOF-MS based profiling were reported previously [1][2].
+</p>
+Ref: </br>
+[1] C. Wagner, M. Sefkow and J. Kopka (2003) Construction and application of a mass spectral and retention time index database generated from plant GC/EI-TOF-MS metabolite profiles, Phytochemistry 62: 887-900. PMID:12590116</br>
+[2] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Metabolites were quantified after mass spectral deconvolution (ChromaTOF software version 1.00, Pegasus driver 1.61, LECO) of at least three mass fragments for each analyte. Peak height representing arbitrary mass spectral ion currents of each mass fragment was normalized using the amount of the sample fresh weight and ribitol for internal standardization of volume variations. Normalized responses and subsequently response ratios were calculated comparing to the global median of all samples as described [1]. Resulting response ratios were log10 transformed prior to statistical analysis. Principal (PCA) and independent (ICA) component analyses were performed through the MetaGenAlyse web service, http://metagenealyse.mpimp-golm.mpg.de. One-way analysis of variance (ANOVA) was calculated by the Multiple Experiment Viewer package, (MEV version 4.0.01, http://www.tm4.org/mev.html).
+</p>
+Ref:</br>
+[1] G. G. Desbrosses, J. Kopka and M. K. Udvardi (2005) Lotus japonicus metabolic profiling. Development of gas chromatography-mass spectrometry resources for the study of plant-microbe interactions, Plant Physiology 137: 1302-1318. PMID: 15749991</br>"	"Metabolites were identified using the NIST05 mass spectral search and comparison software (National Institute of Standards and Technology, Gaithersburg, MD, USA; http://www.nist.gov/srd/mslist.htm) and the mass spectral and retention time index (RI) collection of the Golm Metabolome Database [1][2]. Mass spectral matching was manually supervised and matches accepted with thresholds of match > 650 (with maximum match equal to 1000) and RI deviation < 1.0 %. RIs were calculated form standard additions to each chromatogram of a mixture of C12, C15, C19, C22, C32, C36 n-alkanes.
+</p>
+Ref:</br>
+[1] N. Schauer, D. Steinhauser, S. Strelkov, D. Schomburg, G. Allison, T. Moritz, K. Lundgren, U. Roessner-Tunali, M. G. Forbes, L. Willmitzer, A. R. Fernie and J. Kopka (2005) GC-MS libraries for the rapid identification of metabolites in complex biological samples, FEBS Letters 579: 1332-1337. PMID:15733837</br>
+[2] J. Kopka, N. Schauer, S. Krueger, C. Birkemeyer, B. Usadel, E. Bergmueller, P. Doermann, W. Weckwerth, Y. Gibon, M. Stitt, L. Willmitzer, A. R. Fernie and D. Steinhauser (2005) GMD@CSB.DB: the Golm Metabolome Database, Bioinformatics 21: 1635-1638. PMID:15613389</br>"
+Study Protocol URI	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=10b38aaf-b977-4950-85b8-f4775f66658d"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization 1;Derivatization 2"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sanchez"	"Kopka"
+Study Person First Name	"Diego"	"Joachim"
+Study Person Mid Initials	""	""
+Study Person Email	""	"kopka@mpimp-golm.mpg.de"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Max Planck Institute of Molecular Plant Physiology"	"Max Planck Institute of Molekular Plant Physiology"
+Study Person Roles	"Experimenter"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

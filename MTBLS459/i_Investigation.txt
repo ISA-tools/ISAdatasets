@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"BTO"	"CHMO"	"NCIT"	"MS"	"EFO"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"22"	"22"	"18"	"44"	"129"	"146"	"80"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS459"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:Metabolomics_analysisMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS459"
+Study Title	"Untargeted Metabolomics Reveals a Lack Of Synergy between Nifurtimox and Eflornithine against Trypanosoma brucei"
+Study Description	"A non-targeted metabolomics-based approach is presented that enables the study of pathways in response to drug action with the aim of defining the mode of action of trypanocides. Eflornithine, a polyamine pathway inhibitor, and nifurtimox, whose mode of action involves its metabolic activation, are currently used in combination as first line treatment against stage 2, CNS-involved, human African trypanosomiasis (HAT). Drug action was assessed using an LC-MS based non-targeted metabolomics approach. Eflornithine revealed the expected changes to the polyamine pathway as well as several unexpected changes that point to pathways and metabolites not previously described in bloodstream form trypanosomes, including a lack of arginase activity and N-acetylated ornithine and putrescine. Nifurtimox was shown to be converted to a trinitrile metabolite indicative of metabolic activation, as well as inducing changes in levels of metabolites involved in carbohydrate and nucleotide metabolism. However, eflornithine and nifurtimox failed to synergise anti-trypanosomal activity in vitro, and the metabolomic changes associated with the combination are the sum of those found in each monotherapy with no indication of additional effects. The study reveals how untargeted metabolomics can yield rapid information on drug targets that could be adapted to any pharmacological situation."
+Study Submission Date	"2017-05-16"
+Study Public Release Date	"2017-06-16"
+Study File Name	"s_NECT_PLOSNTDs.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Drug Metabolism"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"tandem mass spectrometry"	"nitrile"	"Oxidative Stress"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26633"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHEBI_18379"	"http://www.ebi.ac.uk/efo/EFO_1001905"
+Study Design Type Term Source REF	"NCIT"	"CHMO"	""	"CHMO"	"CHEBI"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"22563508"
+Study Publication DOI	"10.1371/journal.pntd.0001618"
+Study Publication Author List	"Vincent IM, Creek DJ, Burgess K, Woods DJ, Burchmore RJ, Barrett MP"
+Study Publication Title	"Untargeted metabolomics reveals a lack of synergy between nifurtimox and eflornithine against Trypanosoma brucei."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Timepoint"	"Experiment"	"Replicate"
+Study Factor Type	"Group"	"timepoint"	"Group"	"replicate"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_DFMO_low_nect_plosntds_mass_spectrometry.txt"	"a_DFMO_high_nect_plosntds_spectrometry.txt"	"a_GLU_nect_plosntds_mass_spectrometry.txt"	"a_PRO_nect_plosntds_mass_spectrometry.txt"	"a_ORN_nect_plosntds_mass_spectrometry.txt"	"a_ARG_nect_plosntds_mass_spectrometry.txt"	"a_ARG_ORN_nect_plosntds_mass_spectrometry.txt"	"a_NMOX_low_nect_plosntds_mass_spectrometry.txt"	"a_NMOX_high_nect_plosntds_mass_spectrometry.txt"	"a_NECT_nect_plosntds_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"	"LTQ Orbitrap Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Bloodstream form trypanosomes were grown in HMI-9 (Biosera)[1] supplemented with 10% foetal calf serum (Biosera), incubated at 37 °C, 5% CO2. Cells for metabolomics assays were grown in 500 cm^3 Corning vented culture flasks to a maximum volume of 175 ml per flask. The Alamar blue assay described previously[2] for bloodstream form trypanosomes was used to determine activity of drugs against T. brucei strain 427. For isobologram analyses, alamar blue assays were conducted for one drug in the presence of three different concentrations (IC50, 2x IC50 and 0.5x IC50) of another drug.
+</p>
+Cultures were kept in log phase growth (below 1 x 10^6/ml) in the presence of drug. At the time of harvest, 4 x 10^7 cells were rapidly cooled to 4 °C to quench metabolism by submersion of the flask in a dry ice-ethanol bath, and kept on ice for all subsequent steps. The cold cell culture was centrifuged at 1,250 RCF for 10 min and the supernatant completely removed.
+</p>
+For heavy metabolite tracking analyses, log phase cells were centrifuged 1,250 RCF for 10 min and resuspended in CBSS (20 mM HEPES, 120 mM NaCl, 5.4 mM KCl, 0.55 mM CaCl2, 0.4 mM MgSO4, 5.6 mM Na2HPO4, 11.1 mM glucose) or HMI-9. Heavy atom labelled amino acids were obtained with 15N incorporation from Cambridge Isotope Laboratories (L-threonine (98% enrichment, one incorporation, alpha-N, cat:NLM-742-0), L-glutamine (98% enrichment, one incorporation, alpha-N, cat: NLM-1016-0), L-arginine (98% enrichment, four incorporations, allo-N, cat: NLM-396-0), L-ornithine (98% enrichment, two incorporations, allo-N, cat: NLM-3610-0), L-lysine (95–99% enrichment, one incorporation, alpha-N, cat: NLM-143-0)) or Sigma Aldrich (L-proline (98% enrichment, one incorporation, alpha-N, cat: 608998), L-glutamate (98% enrichment, one incorporation, alpha-N, cat: 332143)).
+</p>
+Ref:</br>
+[1] Hirumi H, Doyle JJ, Hirumi K. Cultivation of Blood-Stream Trypanosoma-Brucei. Bulletin of the World Health Organization. 1977;55:405–409.  PMID:303956</br>
+[2] Raz B, Iten M, Grether-Buhler Y, Kaminsky R, Brun R. The Alamar Blue assay to determine drug sensitivity of African trypanosomes (T.b. rhodesiense and T.b. gambiense) in vitro. Acta Tropica. 1997;68:139–147. PMID:9386789</br>"	"Cell lysis and protein denaturation was achieved by either ethanol at 80 °C for 2 min (4x volume) (DFMO low dose) or the addition of 200 µl of 4 °C chloroform:methanol:water (ratio 1:3:1) plus internal standards (theophylline, 5-fluorouridine, Cl-phenyl cAMP, N-methyl glucamine, canavanine and piperazine, all at 1 µM), followed by vigorous shaking for 1 hr at 4 °C (all other samples). Extract mixtures were centrifuged for 2 min at 16,000 RCF, 4 °C. The supernatant was collected, frozen and stored at -80 °C under argon until further analysis."	"A U3000 RSLC HPLC (Dionex) with a ZIC-HILIC column (Sequant) was used to separate metabolite mixtures.  The HPLC mobile phase gradient was as follows: Solvent A is 0.1% formic acid in water, and solvent B is 0.1% formic acid in acetonitrile, 80% B (0 min), 50% B (12 min), 50% B (26 min), 20% B (28 min), 20% B (36 min), 80% B (37 min), 80% B (47 min)."	"Samples were analysed on an Exactive Orbitrap mass spectrometer (Thermo Fisher) in both positive and negative modes (rapid switching). Data were acquired at 25,000 resolution, with spray voltages +4.5kV and -2.6kV, capillary temperature 275 °C, sheath gas 20, aux gas 15 and sweep gas 1 unit. In addition, one set of samples, for the 'DMFO_low' assay, was analysed on an LTQ Orbitrap mass spectrometer (Thermo Fisher) in positive ion mode."	"Raw LCMS data was converted to mzXML format."	"Metabolite identification and relative quantitation was undertaken using ToxID software (Thermo Fisher), by searching for peaks that correspond to the accurate mass of metabolite ions within a 3 ppm window (or 5 ppm window for Exactive data). The metabolite lists were obtained from trypanosome-specific databases in Trypanocyc (metacyc.org) and KEGG (www.genome.jp/kegg/), lipids were excluded from the data analysis."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Vincent"	"Creek"	"Burgess"	"Woods"	"Burchmore"	"Barrett"
+Study Person First Name	"Isabel"	"Darren"	"Karl"	"Debra"	"Richard"	"Michael"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"isabel.vincent@glasgow.ac.uk"	""	""	""	""	"michael.barrett@glasgow.ac.uk"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""
+Study Person Affiliation	""	""	""	""	""	""
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

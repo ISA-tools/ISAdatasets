@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"OBI"	"CHMO"	"NCIT"	"MS"	"MESH"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"39"	"22"	"18"	"44"	"129"	"6"	"99"	
+Term Source Description	"Environment Ontology"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS428"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS428"
+Study Title	"Dissolved organic carbon compounds in deep-sea hydrothermal vent fluids"
+Study Description	"Deep-sea hydrothermal vents are unique ecosystems that may provide chemically distinct dissolved organic matter to the deep ocean. Here, we describe the types and concentrations of polar dissolved organic compounds observed at low and high temperature hydrothermal vents at 9°50’N, the East Pacific Rise. The concentration of dissolved organic carbon was 46 µM in the low temperature hydrothermal fluids and 14 µM in the high temperature hydrothermal fluids. In the low temperature vent fluids, identifiable dissolved organic compounds were dominated by water-soluble vitamins and amino acids. Derivatives of benzoic acid and the organic sulfur compound 2,3-dihydroxypropane-1-sulfonate (DHPS) were also present in low and high temperature hydrothermal fluids. Thus, low temperature vent fluids contain organic compounds that are central to biological processes, suggesting that they are a by-product of subseafloor biological activity. These compounds may fuel heterotrophic, metabolic processes at deep-sea hydrothermal vents and beyond."
+Study Submission Date	"2017-02-06"
+Study Public Release Date	"2018-02-05"
+Study File Name	"s_9North.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Carbon"	"targeted metabolites"	"liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D002244"	""	"http://purl.obolibrary.org/obo/CHMO_0000524"
+Study Design Type Term Source REF	"MESH"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Krista Longnecker, Stefan Sievert, Sean Sylva, Jeff Seewald, Elizabeth Kujawinski"
+Study Publication Title	"Dissolved organic carbon compounds in deep-sea hydrothermal vent fluids"
+Study Publication Status	"In preparation"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample type"	"Sampling date"
+Study Factor Type	"Group"	"Date"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_9north_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"TSQ Vantage (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Hydrothermal vent fluids were collected using either the ROV Jason or HOV Alvin deployed from the RV Atlantis during two cruises to the deep-sea hydrothermal vent field at 9º50’N on the East Pacific Rise in January and November 2014 (AT26-10 and AT26-23).
+"	"Fluid samples were filtered with 0.2 µM Omnipore filters. The filtrate was acidified and dissolved organic compounds were extracted using Bond Elut PPL cartridges (1 g/6 ml sized cartridges, Agilent) following the previusly published protocol[1] subsequently modified[2].
+</p>
+Ref:</br>
+[1] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235. doi: 10.4319/lom.2008.6.230.</br>
+[2]  Longnecker, K. (2015). "Dissolved organic matter in newly formed sea ice and surface seawater." Geochimica et Cosmochimica Acta 171: 39-49. doi:10.1016/j.gca.2015.08.014</br>"	"All samples were pre-separated with the same liquid chromatography method on a Synergi 4 µm Fusion – RP 80 Å, 150 x 2.00 mm column (Phenomenex, Torrance, CA) as previously described[1]. Eluents were (A) Milli-Q water with 0.1% formic acid and (B) acetonitrile with 0.1% formic acid. The gradient included: hold at 5% B for 2 min; ramp to 65% B for 16 min; ramp to 100% B for 7 min and hold for 8 min. The column was re-equilibrated for 7 min in between analyses with 95% A.
+</p>
+Ref:</br>
+[1] Kido Soule, M. C., K. Longnecker, W. M. Johnson and E. B. Kujawinski (2015). "Environmental metabolomics: analytical strategies." Marine Chemistry 177, Part 2: 374-387. doi:10.1016/j.marchem.2015.06.029</br>"	"The targeted method used a Thermo Scientific triple quadrupole mass spectrometer with a heated electrospray ionization source. A mixture containing the standards for all of the targeted metabolites was run at 0.5, 1, 5, 10, 25, 50, 100, 250, 500, and 1000 ng/ml concentrations."	"Targeted metabolomics data The resulting data were converted to mzML files using the msConvert tool[1] and processed with MAVEN[2]. The measured aqueous concentrations have been corrected for the loss of compounds during the extraction process using determined extraction efficiencies[3]. The concentration of the metabolites are given in picomolar.
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. PMID: 23051804</br>
+[2] Melamud E, Vastag L, Rabinowitz JD. Metabolomic analysis and visualization engine for LC-MS data. Anal Chem. 2010 Dec 1;82(23):9818-26. PMID: 21049934</br>
+[3] Johnson, W. M., M. C. Kido Soule and E. B. Kujawinski (in revision). Interpreting the impact of matrix on extraction efficiency and instrument response in a targeted metabolomics method. Limnology and Oceanography Methods.</br>"	"The targeted metabolomics compound identifications were based on measurements of authentic standards on the same mass spectrometer. Note that the LC method described here does not distinguish between leucine and isoleucine; therefore the data are presented as 'leucine/isoleucine'."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Longnecker"	"Sievert"	"Sylva"	"Seewald"	"Elizabeth"
+Study Person First Name	"Krista"	"Stefan"	"Sean"	"Jeff"	"Kujawinski"
+Study Person Mid Initials	""	"M"	"P"	"S"	""
+Study Person Email	"klongnecker@whoi.edu"	"ssievert@whoi.edu"	"ssylva@whoi.edu"	"jseewald@whoi.edu"	"ekujawinski@whoi.edu"
+Study Person Phone	"5082892824"	""	""	""	""
+Study Person Fax	""	""	""	""	""
+Study Person Address	"360 Woods Hole Road
+Woods Hole, MA 02543
+USA"	"360 Woods Hole Road"	"360 Woods Hole Road"	"360 Woods Hole Road"	"360 Woods Hole Road"
+Study Person Affiliation	"Woods Hole Oceanographic Institution"	"Woods Hole, MA 02543"	"Woods Hole, MA 02543"	"Woods Hole, MA 02543"	"Woods Hole, MA 02543"
+Study Person Roles	""	"USA"	"USA"	"USA"	"USA"
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

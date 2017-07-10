@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"MS"	"NCBITAXON"	"CHMO"	"UO"	"MESH"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"86"	"6"	"5"	"43"	"9"	"29"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Medical Subject Headings"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS203"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS203"
+Study Title	"Navigating natural variation in herbivory-induced secondary metabolism in coyote tobacco populations using MS/MS structural analysis"
+Study Description	"Natural variation can be extremely useful in unraveling the determinants of phenotypic trait evolution but has rarely been analyzed with unbiased metabolic profiling to understand how its effects are organized at the level of biochemical pathways. Native populations of Nicotiana attenuata, a wild tobacco species, have been shown to be highly genetically diverse for traits important for their interactions with insects. To resolve the chemodiversity existing in these populations, we developed a metabolomics and computational pipeline to annotate leaf metabolic responses to Manduca sexta herbivory. We selected seeds from 43 accessions of different populations from the southwestern United States—including the well-characterized Utah 30th generation inbred accession—and grew 183 plants in the glasshouse for standardized herbivory elicitation. Metabolic profiles were generated from elicited leaves of each plant using a high-throughput ultra HPLC (UHPLC)-quadrupole TOFMS (qTOFMS) method, processed to systematically infer covariation patterns among biochemically related metabolites, as well as unknown ones, and finally assembled to map natural variation. Navigating this map revealed metabolic branch-specific variations that surprisingly only partly overlapped with jasmonate accumulation polymorphisms and deviated from canonical jasmonate signaling. Fragmentation analysis via indiscriminant tandem mass spectrometry (idMS/MS) was conducted with 10 accessions that spanned a large proportion of the variance found in the complete accession dataset, and compound spectra were computationally assembled into spectral similarity networks. The biological information captured by this networking approach facilitates the mining of the mass spectral data of unknowns with high natural variation, as demonstrated by the annotation of a strongly herbivory-inducible phenolic derivative, and can guide pathway analysis."
+Study Submission Date	"2015-06-01"
+Study Public Release Date	"2015-06-15"
+Study File Name	"s_Accession idmsms.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"Natural variation "	"Herbivory"	"metabolomic profiling"	"Manduca sexta"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.bioontology.org/ontology/MESH/D060434"	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.bioontology.org/ontology/NCBITAXON/7130"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"CHMO"	""	"MESH"	"EFO"	"NCBITAXON"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26170304"
+Study Publication DOI	"10.1073/pnas.1503106112"
+Study Publication Author List	"Li D, Baldwin IT, Gaquerel E."
+Study Publication Title	"Navigating natural variation in herbivory-induced secondary metabolism in coyote tobacco populations using MS/MS structural analysis."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Collision energy"
+Study Factor Type	"collision energy"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/MS_1000045"
+Study Factor Type Term Source REF	"MS"
+STUDY ASSAYS
+Study Assay File Name	"a_accession_idmsms_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds from N. attenuata Torrey ex Watson were collected over the last 20 years by Ian T. Baldwin and his collaborators in the Southwestern USA and germinated [1]. The well-characterized inbred line ‘UT’ which we used as a control comparison was collected from southwestern UT in 1996 [2] and has been self-fertilized for 30 generations in glasshouse conditions in Jena, Germany. Metabolic changes induced during Manduca sexta feeding were elicited in a highly synchronized fashion by producing with a fabric pattern wheel three rows of punctures onto each side of the midvein of five fully expanded leaves per plant at rosette stage and immediately applying 1:1 diluted M. sexta oral secretions (OS) to the puncture wounds. Four treated leaves were harvested, pooled, flash-frozen 72 h after elicitation and metabolites were extracted. 
+</p>
+Ref: </br>
+[1] Krugel T, Lim M, Gase K, Halitschke R and Baldwin IT. Agrobacterium-mediated transformation of Nicotiana attenuata, a model ecological expression system. Chemoecology, 2002, 12(4), 117-183. doi:10.1007/PL00012666</br>
+[2] Glawe GA, Zavala JA, Kessler A, Van Dam NM, & Baldwin IT. Ecological costs and benefits correlated with trypsin protease inhibitor production in Nicotiana attenuata. Ecology, (2003), 84(1), 79-90. doi:10.1890/0012-9658(2003)084[0079:ECABCW]2.0.CO;2</br>"	"For metabolite profiling, approximately 100 mg of ground leaf tissue was weighed. 1 ml extraction buffer (50 mM acetate buffer, pH 4.8, containing 40% methanol) per 100 mg tissue was added and samples were homogenized in a ball mill (Genogrinder 2000; SPEX CertiPrep) for 45 s at 1 x rate and 250 strokes per min. Homogenized samples were centrifuged at 16,000 x g, 4 °C for 30 min, and supernatants were transferred into 1.5 ml microcentrifuge tubes and re-centrifuged as before. Supernatants of 400 µl were transferred to 2 ml glass vials for mass spectrometry-based metabolomics."	"2 µl of the 40% methanol leaf extracts were separated by U-HPLC  performed on a Dionex Ultimate 3000 UHPLC (Dionex, Sunnyvale, USA) system with a Acclaim (Thermo Scientific) column, particle size 2.2 µm, 2.1 x 150mm [1]. The following binary gradient was applied at 30 ºC: 1 min, isocratic 90% A (de-ionized water, 0.1% [v/v] acetonitrile and 0.05% formic acid), 10% B (acetonitrile and 0.05% formic acid); 24 min linear at 85% B, 5 min isocratic at 85% B. Flow rate was 0.3 ml/min. Injection volume 2 µl (positive detection mode), 3 µl (negative detection mode). 
+</p>
+Ref: </br>
+[1] Gaquerel E, Heiling S, Schoettner M, Zurek G, & Baldwin IT . Development and validation of a liquid chromatography-electrospray ionization-time-of-flight mass spectrometry method for induced changes in Nicotiana attenuata leaves during simulated herbivory. Journal of agricultural and food chemistry, 2010, 58(17), 9418-9427. doi:10.1021/jf1017737. PMID:20701244</br>"	"Eluted compounds were detected by a high-resolution MicroToF mass spectrometer (Bruker Daltonics, Bremen, Germany) equipped with an electrospray ionization source operating in positive ionization mode.
+</p>
+Typical instrument settings were as follows: capillary voltage 4500 V, capillary exit 130 V, dry gas temperature 200°C, dry gas flow of 8 L/min. Ions were detected from m/z 50 to 1400 at a repetition rate of 1 Hz. Mass calibration was performed using sodium formate clusters (10 mM solution of NaOH in 50/50% v/v isopropanol/water containing 0.2% formic acid).
+</p>
+idMS/MS datasets were acquired by operating the instrument with an isolation mass 400 Da, an isolation width 300 Da (largest width meaning all mass is accessible) and collision energies set either to 20, 30, 40, 50 ev to cover broad range mass signal fragmentation by collision-induced dissociation (CID). idMS/MS data collection was restricted to ten samples that were initially selected based on the high range of chemical variations within the total sample population that these samples captured. 4 µl of each of these samples were first analyzed by UHPLC-ESI/qTOF-MS in profile mode (single MS approach, collision energy of 0 ev) using the aforementioned chromatographic conditions with the objective of identifying compound precursors later on associated with molecular fragments as well as of inferring fragmentation patterns due to in-source collision during ionization (low cone voltage settings). The same samples were then analyzed for idMS/MS data acquisition at 4 different collision energy conditions (20, 30, 40 and 50 ev) separately with all detectable mass signals being equally considered as dissociation targets. This resulted into one MS profile dataset (MS1) and 4 CID-derived MS/MS datasets that were then rapidly aligned and post-processed using open source programs."	"Raw data files were converted to netCDF format using the export function of the Data Analysis v4.0 software (Bruker Daltonics, Bremen, Germany)."	"Not applicable."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Li"	"Gaquerel"	"Baldwin"
+Study Person First Name	"Dapeng"	"Emmanuel"	"Ian"
+Study Person Mid Initials	""	""	"T"
+Study Person Email	"dli@ice.mpg.de"	"emmanuel.gaquerel@cos.uni-heidelberg.de"	"baldwin@ice.mpg.de"
+Study Person Phone	""	"06221/ 54-5589"	""
+Study Person Fax	""	""	""
+Study Person Address	"Max Planck Institute for Chemical Ecology, Department of Molecular Ecology, Jena, Germany"	"Centre for Organismal Studies, University of Heidelberg, Im
+Neuenheimer Feld 360, Heidelberg, Germany"	"Max Planck Institute for Chemical Ecology, Department of Molecular Ecology, Jena, Germany"
+Study Person Affiliation	"Max Planck Institute for Chemical Ecology"	"University of Heidelberg,"	"Max Planck Institute for Chemical Ecology"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

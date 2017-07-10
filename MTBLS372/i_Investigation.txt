@@ -1,0 +1,133 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHEMINF"	"OBI"	"NCBITAXON"	"BTO"	"MS"	"NCIT"	"MESH"	"UO"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHEMINF"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"29"	"22"	"2"	"22"	"86"	"28"	"6"	"42"	"5"	"113"	
+Term Source Description	"Chemical Information Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	"Units of Measurement Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS372"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"“Sambles”"
+Investigation Person First Name	"“Christine”"
+Investigation Person Mid Initials	""
+Investigation Person Email	"“c.m.sambles@exeter.ac.uk”"
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	"“University of Exeter“"
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+Comment[Investigation Person REF]	""
+STUDY
+Study Identifier	"MTBLS372"
+Study Title	"Metabolomic profiling of Fraxinus excelsior genotypes tolerant or susceptible to ash dieback disease reveals changes in iridoid glycosides"
+Study Description	"European common ash, Fraxinus excelsior L., is currently threatened by Ash dieback (ADB) caused by the fungus, Hymenoscyphus fraxineus. To detect and identify metabolites that may be products of pathways important in contributing to resistance against H. fraxineus we performed untargeted metabolomic profiling on leaves from selected F. excelsior individuals showing strong tolerance or susceptibility to H. fraxineus. We identified sets of “features” [small molecules] that enabled strong discrimination between tolerant or susceptible genotypes of F. excelsior. Strikingly, tolerant F. excelsior lines exhibited low levels of iridoid glycosides, known anti-feeding deterrents. As Europe is threatened by Emerald Ash Borer (Agrilus planipennis), an invasive wood boring beetle native to East Asia that has devastated North American ash, our study raises the question whether selection for resistance to H. fraxineus leads to ecological trade-offs that result in susceptibility to emerging pests such as emerald ash borer."
+Study Submission Date	"2016-08-17"
+Study Public Release Date	"2016-11-09"
+Study File Name	"s_MTBLS372.txt"
+Comment[Study Grant Number]	"NORNEX"
+Comment[Study Funding Agency]	"BBSRC/DEFRA"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Hymenoscyphus fraxineus"	"liquid chromatography-mass spectrometry"	"Iridoid Glucosides"	"untargeted metabolites"	"Ash dieback"	"Agrilus planipennis"	"Danish Test Panel"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/NCBITAXON/746836"	"http://purl.obolibrary.org/obo/CHMO_0000524"	"http://purl.bioontology.org/ontology/MESH/D057888"	""	""	"http://purl.bioontology.org/ontology/NCBITAXON/224129"	""
+Study Design Type Term Source REF	"NCBITAXON"	"CHMO"	"MESH"	""	""	"NCBITAXON"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1038/nature20786"
+Study Publication Author List	"Elizabeth SA Sollars, Andrea L Harper, Laura J Kelly, Ricardo H Ramirez-Gonzalez, David Swarbreck, Gemy Kaithakottil, Christine Sambles, Endymion D Cooper, Cristobal Uauy, Lenka Havlickova, Gemma Worswick, David J Studholme, Jasmin Zohren, Deborah L Salmon, Bernardo J Clavijo, Yi Li, Zhesi He, Alison Fellgett, Lea Vig McKinney, Lene Rostgaard Nielsen, Gerry C Douglas, Erik Dahl Kjær, J. Allan Downie, David Boshier, Steve Lee, Jo Clark, Murray Grant, Ian Bancroft, Mario Caccamo, Richard JA Buggs"
+Study Publication Title	"Genome sequence and genetic diversity of European ash trees."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Phenotype"	"Geographic location"	"Time of first grafting"	"Age at time of first grafting"	"Dieback score"
+Study Factor Type	"phenotype"	"geographic location"	"Date"	"age"	"Score"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000651"	"http://purl.obolibrary.org/obo/GAZ_00000448"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"
+Study Factor Type Term Source REF	"EFO"	"CHEMINF"	"NCIT"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS372_POS_mass_spectrometry.txt"	"a_MTBLS372_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"6520 Q-TOF LC/MS (Agilent)"	"6520 Q-TOF LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Scions were collected from the 15 trees in either Randers or Tapsøre during January and February 2013, grafted onto rootstocks of F. excelsior seedlings, potted and placed in a greenhouse at the University of Copenhagen. Leaves were sampled in two batches: #-Taps trees (except 25Utaps) were sampled in May 2014 while R- trees (plus 25UTaps) were sampled in September 2014. All plants were symptom free at the time of sampling. Three leaves were sampled from each graft, flash frozen in liquid nitrogen and stored at -80 °C."	"Three leaflets from each triplicate sample were freeze dried and gently crushed. Approximately 100 mg was ground to a fine powder using a TissueLyser (Qiagen), and 10 mg was extracted in 400 ul 80% MeOH containing d5-IAA internal standard at 2.5 ng/ml, centrifuged (13,000 rpm, 4 °C, 10 min) and the pellet re-extracted in 80% MeOH. The pooled supernatants were filtered through a 0.2 µm syringe filter (Phenomenex, UK)."	"These leaf extracts (5 µl) were analysed using a Polaris C18 1.8 µm, 2.1 x 250 mm reverse phase analytical column (Agilent Technologies, Palo Alto, USA) and samples resolved on an Agilent 1200 series Rapid Resolution HPLC system coupled to a QToF 6520 mass spectrometer (Agilent Technologies, Palo Alto, USA). Buffers were as follows: positive ion mode; mobile phase A (5% acetonitrile, 0.1% formic acid), mobile phase B (95% acetonitrile with 0.1% formic acid). Negative ion mode; mobile phase A (5% acetonitrile with 1 mM ammonium fluoride), mobile phase B (95% acetonitrile). The following gradient was used: 0-10 min – 0% B; 10-30 min – 0-100% B; 30-40 min – 100% B. The flow rate was 0.25 ml/min and the column temperature was held at 35 °C throughout."	"Data were collected on a quadrapole time of flight QToF 6520 mass spectrometer (Agilent Technologies, Palo Alto, USA). The source conditions for electrospray ionisation were as follows: gas temperature was 325 °C with a drying gas flow rate of 9 l/min and a nebuliser pressure of 35 psig. The capillary voltage was 3.5 kV in both positive and negative ion mode. The fragmentor voltage was 115 V and skimmer 70 V. Scanning was performed using the autoMS/MS function at 4 scans/s for precursor ion surveying and 3 scans/s for MS/MS with a sloped collision energy of 3.5 V/100 Da with an offset of 5 V."	"Positive and negative ion data was converted into mzData using the export option in Agilent MassHunter. Peak identification and alignment was performed using the Bioconductor R package, xcms [1]. Using xcms, features were detected using the centWave method for high resolution LC/MS data in centroid mode at 30 ppm. Changes to the default parameters were: mzdiff=0.01, peakwidth=10-80, noise=1000, prefilter=3,500.  Peaks were matched across samples using the density method with a bw=5 and mzwid=0.025 and retention time correlated using the obiwarp algorithm with profStep=0.5. Missing peak data was filled in the peaklists generated from the ADB tolerant ash leaf samples compared to the peaklists generated from the ADB susceptible leaves. The resulting peaklists were annotated using the Bioconductor R package, CAMERA [2]. The peaks were grouped using 0.05% of the width of the full width at half maximum (FWHM) and groups correlated using a p-value of 0.05 and calculating correlation inside and across samples. Isotopes and adducts were annotated using a 10 ppm error.
+</p>
+Statistical analysis and modelling was performed using MetaboAnalyst v3.0 [3] with the following parameters. Features with 50% or more missing values were automatically removed and replaced using a missing value estimation corresponding to half of the minimum positive value in the original data. Data was filtered (40%) to remove non-informative variables using the interquartile range (IQR).  Samples were normalised using the internal standard d5-IAA (POS: M181T1448; NEG: M179T1382). Data was transformed using auto scaling.
+</p>
+Ref:</br>
+[1] Smith, C.A., Want, E.J., O'Maille, G., Abagyan, R., and Siuzdak, G. (2006). XCMS: Processing mass spectrometry data for metabolite profiling using Nonlinear peak alignment, matching, and identification. Anal Chem 78, 779- 787. doi:10.1021/ac051437y. PMID:16448051</br>
+[2] Kuhl, C., Tautenhahn, R., Bottcher, C., Larson, T.R., and Neumann, S. (2012). CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem 84, 283-289. doi:10.1021/ac202450g. PMID:22111785.</br>
+[3] Xia, J.G., Sinelnikov, I.V., Han, B., and Wishart, D.S. (2015). MetaboAnalyst 3.0-making metabolomics more meaningful. Nucleic Acids Res 43, W251- W257. doi:10.1093/nar/gkv380 PMID:25897128.</br>"	"Identification was not possible for those features with no fragmentation, or lacking significant supporting adducts. Many features of interest were identified but require further work to provide confident attributions, while some features did not provide fragmentation patterns."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sambles"	"Grant"	"Studholme"	"Salmon"	"Smirnoff"	"Florance"
+Study Person First Name	"Christine"	"Murray"	"David"	"Deborah"	"Nicholas"	"Hannah"
+Study Person Mid Initials	"M"	""	"J"	"L"	""	""
+Study Person Email	"c.m.sambles@exeter.ac.uk"	"M.R.Grant@exeter.ac.uk"	"D.J.Studholme@exeter.ac.uk"	"D.L.Salmon@exeter.ac.uk"	"N.Smirnoff@exeter.ac.uk"	""
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD "	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD "	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD "	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD "	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD"	"School of Biosciences 
+Geoffrey Pope Building
+University of Exeter 
+Stocker Road 
+Exeter 
+EX4 4QD"
+Study Person Affiliation	"University of Exeter"	"University of Exeter"	"University of Exeter"	"University of Exeter"	"University of Exeter"	"University of Exeter"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

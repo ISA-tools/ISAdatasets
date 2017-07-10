@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"MESH"	"CHMO"	"NCIT"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"146"	"10"	"5"	"44"	"22"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS433"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/vol/bioinvindex/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS433"
+Study Title	"Olive Oil Authenticity Studies by Target and Non-target LC-QTOF-MS combined with Advanced Chemometric Techniques"
+Study Description	"Food analysis is continuously requesting the development of more robust, efficient and cost-effective food authentication analytical methodologies to guarantee the safety, quality and traceability of food commodities with respect to legislation and consumer demands. Hence, a novel RP-UHPLC-ESI-QTOF-MS/MS analytical method was developed employing target, suspect and non-target screening strategies coupled to advanced chemometric tools for the investigation of authenticity of extra virgin olive oil (EVOO). The proposed method was successfully applied in real olive oil samples for the identification of markers responsible for its sensory profile. The proposed target analytical method includes the determination of 14 phenolic compounds and demonstrated low limits of detection (LODs) over the range of 0.015 (apigenin) - 0.039 (vanillin) μg/ml and adequate recoveries (96-107%). A suspect list of 60 relevant compounds was compiled and suspect screening was then applied to all the samples. Semi-quantitation of the suspect compounds was performed using the calibration curves of the target compounds having similar structures. Then, a non-target screening workflow was applied with the aim to identify additional compounds, responsible to differentiate EVOOs from defective oils. Robust classification-based models were built using supervised discrimination techniques, PLS-DA and CP-ANNs, for the classification of olive oils into EVOOs or defectives. Variance in Projection (VIP) was calculated to select the most significant features that affect the discrimination. Overall, 51 compounds were identified and suggested as markers; 14, 26 and 11 compounds were identified using target, suspect and non-target screening, respectively. Retrospective analysis was also performed to identify 19 free fatty acids."
+Study Submission Date	"2017-02-21"
+Study Public Release Date	"2018-02-10"
+Study File Name	"s_MTBLS433.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Foodomics"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""
+Study Design Type Term Source REF	""	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27585916"
+Study Publication DOI	"10.1007/s00216-016-9891-3"
+Study Publication Author List	"Natasa P.Kalogiouri, Nikiforos A. Alygizakis, Reza Aalizadeh, Nikolaos S. Thomaidis"
+Study Publication Title	"Olive Oil Authenticity Studies by Target and Non-target LC-QTOF-MS combined with Advanced Chemometric Techniques"
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001796"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"Region"	"Variety"	"Production Type"	"Harvest date"	"Fruitiness"	"Bitterness"	"Pungent"	"Fusty"	"Musty"	"Rancid"	"Oil quality"
+Study Factor Type	"Region"	"Variety"	"Production"	"Date"	"Score"	"Score"	"Score"	"Score"	"Score"	"Score"	"quality"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41129"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112927"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"	"http://www.ifomis.org/bfo/1.1/snap#Quality"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls433_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"maXis (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Sample collection"
+Study Protocol Type	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Sample collection"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A liquid-liquid micro-extraction (LLME) method was employed for isolating the phenolic compounds from the olive oil samples as was developed and validated by Becerra-Herrera et al [1]. Each sample was weighed (0.5 g) and 0.5 ml of methanol : water (80:20, v/v) was added in 2 ml Eppendorf tubes. Afterwards, the mixture was vortexed for 2 mins, and centrifuged for 5 mins at 13,400 rpm. The upper phase that consisted of methanol was collected and filtered through the membrane syringe filters of regenerated cellulose (CHROMAFIL® RC) (15 mm diameter, 0.22 μm pore size, provided by Macherey-Nagel (Düren, Germany). Two hundred microliters of the methanolic phase was diluted with ultrapure water to 0.5 ml. Finally, 5 μl of this solution was injected in the chromatographic system. Procedural blanks were also prepared and processed in the chromatographic system to detect any potential contamination. Quality Control (QC) samples were used in order to verify that the analytical system has been stabilized prior to analysis of the main batch of samples and assess its performance. A typical QC sample was prepared, as it has been suggested by Want et al. [2] by mixing all aliquots of the samples. In the beginning of the analysis, the QC was injected five times for conditioning and afterwards, it was injected at regular intervals (i.e. every ten sample injections) throughout the analytical run to provide a set of data from which repeatability can be assessed. Τhe calculated RSD values for the tR and the peak areas as well as Δm errors (n=7) are presented in Electronic Supplementary Material of the associated study paper (Section S2, Table S2) proving the good performance of the analytical system.</br>
+</p>
+Ref:</br>
+[1] Becerra-Herrera M, Sánchez-Astudillo M, Beltrán R, Sayago A. (2014) Determination of phenolic compounds in olive oil: new method based on liquid–liquid micro extraction and ultra high performance liquid chromatography-triple–quadrupole mass spectrometry. LWT Food Sci Technol. 57:49–57. doi.org/10.1016/j.lwt.2014.01.016.
+[2] Want EJ, Wilson ID, Gika H, Theodoridis G, Plumb RS, Shockcor J, Holmes E, Nicholson JK. (2010) Global metabolic profiling procedures for urine using UPLC–MS. Nat Protoc., 5:1005–18. doi: 10.1038/nprot.2010.50."	"Reversed phase (RP) chromatographic analysis was performed using a UHPLC system with an HPG-3400 pump (Dionex UltiMate 3000 RSLC, Thermo Fisher Scientific, Germany) interfaced to a Q-TOF mass spectrometer (Maxis Impact, Bruker Daltonics, Bremen, Germany) in negative electrospray ionization mode. Separation was carried out using an Acclaim RSLC C18 column (2.1 × 100 mm, 2.2 µm) purchased from Thermo Fisher Scientific (Driesch, Germany) with a pre-column of ACQUITY UPLC BEH C18 (1.7 μm, VanGuard Pre-Column, Waters (Ireland)). The separation was operated at column temperature of 30 °C. The solvents used consisted of: (A) 90% H2O, 10% MeOH and 5 mM CH3COONH4, (B) 100% MeOH and 5 mM CH3COONH4. The adopted elution gradient started with 1% of organic phase B (flow rate 0.2 ml/min) during one minute, gradually increasing to 39% for the next 2 mins, and then increasing to 99.9% (flow rate 0.4 ml/min) in the following 11 mins. These almost pure organic conditions were kept constant for 2 mins (flow rate 0.48 ml/min) and then initial conditions (1% B - 99% A) were restored within 0.1 min (flow rate decreased to 0.2 ml/min) to re-equilibrate the column for the next injection."	"The Q-TOF MS (Maxis Impact, Bruker Daltonics, Bremen, Germany) system was equipped with an electrospray ionization interface (ESI), operating in negative mode with the following settings: capillary voltage of 3500 V; end plate offset of 500 V; nebulizer pressure of 2 bar (N2); drying gas of 8 l/min (N2); and drying temperature of 200 °C. A Q-TOF external calibration was daily performed with a sodium formate cluster solution, and a segment (0.1−0.25 min) in every chromatogram was used for internal calibration, using a calibrant injection at the beginning of each run. The sodium formate calibration mixture consisted of 10 mM sodium formate in a mixture of water/isopropanol (1:1). Full scan mass spectra were recorded over the range of 50-1000 m/z, with a scan rate of 2 Hz. MS/MS experiments were conducted using AutoMS data dependent acquisition mode based on the fragmentation of the five most abundant precursor ions per scan. For certain masses of interest, if the intensity of the m/z was low, a second analysis including the list of the selected precursor ions was carried out in AutoMS (data dependent acquisition) mode. The instrument provided a typical resolving power (FWHM) between 36,000-40,000 at m/z 226.1593, 430.9137 and 702.8636."	"In order to process LC-HRMS data, first of all, binary files of all the analysed samples were converted to mzXML files using Proteowizard software [1]. Then, these files were processed using the R-language and the XCMS package [2] to extract peaks that are present in the samples. This procedure involved peak picking by CentWave algorithm [2], grouping of peaks representing the same analyte across the samples and a step to correct the chromatographic drift of retention time. The next step was to regroup the peaks of which the retention time was changed. At final step, a step of filling in the missing peaks was implemented. This replaces the missing values of none detected peaks with a small value of intensity [3]. CAMERA package was also used to deisotoping and removing the adduct peaks to avoid co-linearity during the model construction [4].</br>
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. (2012) A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol., 30(10):918-20. doi: 10.1038/nbt.2377.</br>
+[2] Tautenhahn R, Böttcher C, Neumann S. (2008) Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 28;9:504. doi: 10.1186/1471-2105-9-504.</br>
+[3] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. (2006) XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. Feb 1;78(3):779-87. doi: 10.1021/ac051437y.</br>
+[4] Kuhl C, Tautenhahn R, Böttcher C, Larson TR, Neumann S. (2012) CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem. Jan 3;84(1):283-9. doi: 10.1021/ac202450g.
+
+"	"A target list was created including 15 significant phenolic compounds that have been identified in olive oil and reported in the literature, as reviewed in the associated study paper. The list consisted of different classes of phenolic compounds, such as phenolic acids, secoiridoids, flavonoids and lignans, with commercially available standards. The initial target list can be found in Electronic Supplementary Material (Section S3, Table S3a). Α suspect list was also generated from literature including all the phenolic compounds that have already been identified in olive oil and in different organs of Olea Europaea (stems, leaves, drupes) in order to scan their presence in the olive oil samples of the current study. The initial suspect list consisted of 60 bioactive constituents and is presented in Electronic Supplementary Material with the molecular formulas and smiles of the suspect compounds, as well as the references of the studies in which they have been previously reported (Section S3, Table S3b)."	"Three standard defective olive oil samples with a known score (rancid, fusty and muddy) were acquired from the International Olive Council (IOC) and 3 defective and 16 extra virgin olive oils of the Kolovi and Adramitiani varieties, both monovarietal and mixtures, were provided along with the sensory evaluation by ELGO-DIMITRA I.O.S.V. in Lesvos. These samples were produced from olives during harvesting period in 2014-2015 and cultivated in different regions in Lesvos Island."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""	""
+Study Protocol Parameters Name Term Accession Number	";"	";;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	";"	";;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kalogiouri"	"Alygizakis"	"Aalizadeh"	"Thomaidis"
+Study Person First Name	"Natasa"	"Nikiforos"	"Reza"	"Nikolaos"
+Study Person Mid Initials	"P"	"A"	""	"S"
+Study Person Email	"kalogiourin@chem.uoa.gr"	"nalygizakis@chem.uoa.gr"	"raalizadeh@chem.uoa.gr"	"ntho@chem.uoa.gr"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens"	"Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens"	"Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens"	"Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

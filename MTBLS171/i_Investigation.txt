@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"EFO"	"BTO"	"NCIT"	"CHMO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	
+Term Source Version	"103"	"22"	"4"	"132"	"26"	"40"	"5"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS171"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS171"
+Study Title	"Assessment of automated trimethylsilyl derivatisation protocols for GC-MS-based untargeted metabolomic analysis of urine"
+Study Description	"GC-MS is a commonly used metabolomic platform for the analysis of urine. A key step in the preparation of samples for GC-MS is derivatisation, in particular, methoximation and trimethylsilylation. This paper presents an assessment of automated derivatisation protocols for GC-MS-based untargeted metabolomic analysis of rat urine. Automated batch and in-time (a sample ready for injection every 70 minutes) derivatisation protocols were tested using BSTFA and MSTFA. Principal component analysis determined differences based upon protocol tested (PC-1; 19%) and silylation reagent (PC-2; 17%) used. Of 249 compounds, 40 compounds were significantly different (P<0.05) based upon reagent and 154 compounds were significantly different (P<0.05) based upon protocol. A key outcome of this study was the demonstrated effects of derivatisation including reagent and protocol (i.e. reaction duration, temperature and mixing speed) on individual urinary metabolites. It is hoped that the current work will provide a reference on which to base future GC-MS-based untargeted and targeted metabolomic analyses of urine."
+Study Submission Date	"2015-02-24"
+Study Public Release Date	"2015-09-28"
+Study File Name	"s_Automated derivatisation.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"trimethylsilyl derivatisation"	"urine"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHMO_0002758"	"http://purl.obolibrary.org/obo/BTO_0001419"	""
+Study Design Type Term Source REF	"CHMO"	"CHMO"	"BTO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"http://dx.doi.org/10.1007/s11306-015-0839-y"
+Study Publication Author List	"Hayley Abbiss, Catherine Rawlinson, Garth L. Maker, Robert D. Trengove"
+Study Publication Title	"Assessment of automated trimethylsilyl derivatisation protocols for GC-MS-based untargeted metabolomic analysis of urine"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Derivatisation reagent"	"Derivatisation"
+Study Factor Type	"Reagent"	"protocol"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C802"	"http://purl.obolibrary.org/obo/OBI_0000272"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_automated_derivatisation_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent 6890 GC/5973N MSD"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Female Lewis (LEW/CrlBR) rat urine (4-5 ml spot; pooled) was collected at and purchased from the Animal Resources Centre (ARC; Perth, WA, Australia). Sample collection was conducted in accordance with the Australian Code of Practice for the Care and Use of Animals for Scientific Purposes (7th Edition, 2004). The sample was collected into a 10 ml plastic graduated centrifuge tube at room temperature and then frozen at -20 °C at the ARC. The sample was transported on dry ice on the same day as collection and then stored at -80 °C for approximately one month (38 days) until processing."	"Urine (50 µl) was treated with 50 µl of a urease solution (1 U/µl) as optimised by Abbiss et al.[1]. Samples were incubated for 30 min at 37 °C and then centrifuged for 10 min at 1,500 × g. Chilled (approx. -20 °C) methanol containing uniformly labelled 13C,15N-valine and 13C-sorbitol as internal standards (200 µl; 29.25 µg/ml) was added to the sample. Samples were agitated for 10 min at 1,200 rpm and subsequently centrifuged for 10 min at 4 °C and 13,400 × g. Aliquots (50 µl) of the sample were transferred to 200 µl glass inserts (for 2 ml GC vials) and dried in an Eppendorf Concentrator Plus rotary vacuum concentrator (Eppendorf South Pacific Pty. Ltd., North Ryde, NSW, Australia). The dried extract was stored at -80 °C for approximately 2 weeks (15 days) until derivatization and analysis.
+</p>
+For the control protocol, metabolites were treated with 20 µl of methoxyamine-HCl (20 mg/ml in pyridine) and agitated for 90 min at 1,200 rpm and 30 °C in an Eppendorf Thermomixer Comfort. Following this, 40 µl of BSTFA or MSTFA was added and incubated at 37 °C for 30 min at 300 rpm in the thermomixer.  5 µl of an alkane mix (C10, C12, C15, C19, C22, C28; 0.156 mg/ml; C32, C36; 0.313 mg/ml) in hexane was added to the final sample for the calculation of a Kovat’s Retention Index for each compound. For automated protocols (batch and in-time), reagents (methoxyamine-HCl, BSTFA or MSTFA, n-alkanes) were added using a CTC CombiPAL autosampler (CTC Analytics, Zwingen, Switzerland) with an agitator and equipped with a gas tight, cone tip 25 µl syringe (SGE, Ringwood, Victoria, Australia). Automated procedures were kept the same as the control with the exception that 500 rpm (maximum setting) was used for both automated procedures and a temperature of 37 °C for both methoximation and trimethylsilylation was used for the automated in-time protocol as there was only one agitator. The automated batch protocol prepared a batch of samples and the automated in-time procedure used a staggered approach resulting in a sample being ready for immediate injection every 70 min.
+</p>
+Ref:</br>
+[1] Abbiss H, Maker GL, Gummer J, Sharman MJ, Phillips JK, Boyce M, Trengove RD. Development of a non-targeted metabolomics method to investigate urine in a rat model of polycystic kidney disease. Nephrology (Carlton). 2012 Feb;17(2):104-10. doi: 10.1111/j.1440-1797.2011.01532.x. PMID:22017187</br>"	"An Agilent 6890 series gas chromatograph was used. The GC was equipped with an Agilent 7683 series auto-injector. The auto-injector and GC were controlled by MSD Chemstation v D.01.02.16. The column used was an Agilent VF-5ms (30 m × 0.25 mm ID × 0.25 µm DF + 10 m EZ-Guard; Agilent Technologies, Palo Alto, CA, USA). The derivatized sample (1 µl) was injected in splitless mode into the inlet at a temperature of 230 °C. The syringe was rinsed with methanol three times before each injection and ten times after each injection. The initial column temperature was set to 70 °C. A temperature ramp of 1 °C/min for 5 minutes followed by a temperature ramp of 5.63 °C/min to a final temperature of 330 °C with a hold time of 10 minutes. The mannitol retention time was locked to elute at 30.6 min. The carrier gas used was helium at a flow rate of 1 ml/min (constant flow mode)."	"An Agilent 5973N mass selective detector (Palo Alto, CA, USA) was used. The transfer line was set to 330 °C and the ion source was set to 200 °C. Ionisation was achieved with a 70 eV electron beam and the quadrupole mass analyzer was operated in full scan mode over the range m/z 45-600 with a scan rate of approximately 3 scans per second. The MS was calibrated and auto-tuned using PFTBA. The reproducibility (RSD) of internal standards was in the range 6-29% for all except one method which was 68%."	"Full scan data was processed using AnalyzerPro™ v2.7 (SpectralWorks, Runcorn, UK). The Ruby scripting program was used to align common chromatographic peaks as described in Gummer et al.[1]. Following this, manual alignment of data was required to align peaks of the same compound which had deconvoluted differently in different samples. Peaks which occurred in <10% of the samples were removed from subsequent analyses. Unless otherwise stated, peak area (x) was log transformed using the equation x=log10(x+1) for further analysis. Principal component analysis was conducted using The Unscrambler X v10.1 (CAMO, Oslo, Norway). All metabolites were assessed for statistical significance using the Statistical Package for the Social Sciences (SPSS v22). Where data were normally distributed (determined by Kolmogorov-Smirnov test) and variance was homogenous (determined by Levene’s test), two-way ANOVA was used to determine the effects of reagent and protocol on 1) number of deconvoluted peaks; and 2) total ion chromatogram (TIC) area. A one-way ANOVA was used to determine the effects of 1) reagent and 2) protocol on metabolite peak area. Where data were non-normal and/or variance was heterogeneous the Mann-Whitney U-test or Kruskal-Wallis test were used. Main effects were analysed using Bonferroni post hoc correction for multiple comparisons. Spearman’s correlation coefficient was employed to determine significant correlations between the internal standard and total ion chromatogram area where appropriate. A 0.05 criterion of statistical significance and 95% confidence interval were employed for all tests.
+</p>
+Ref:</br>
+[1] Gummer JP, Trengove RD, Oliver RP, Solomon PS. Dissecting the role of G-protein signalling in primary metabolism in the wheat pathogen Stagonospora nodorum. Microbiology. 2013 Sep;159(Pt 9):1972-85. doi: 10.1099/mic.0.067009-0. PMID:23744904</br>"	"All compounds were assigned an identification number (compound number) and subsequently named according to their putative identification or, where identification was not possible: compound number, ‘unknown’, compound class (if determined), retention index (retention index plus retention time were given if index was <1200) and deconvoluted base peak. Putative identifications were made by comparing mass spectra with a user-generated library of metabolite standards (Metabolomics Australia, Murdoch University Node) and the National Institute of Standards and Technology (NIST) 2011 MS Search v2.0 library. Where compounds were identified using only the NIST library, identifications were made with confidence scores >70% and probability scores >20% (>70% of IDs were made with probability scores >50%). Identifications were made for all compounds where possible and assigned an identification level as per Sumner et al.[1] and score as per Sumner et al.[2]. A revised score has been proposed to include a score for a match to an authentic standard (+1.5) and compound class match (+0.5).
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. PMID:24039616</br>
+[2] Sumner, L. W., Lei, Z., Nikolau, B. J., Saito, K., Roessner, U., & Trengove, R. (2014). Proposed quantitative and alphanumeric metabolite identification metrics. Metabolomics, 10, 1047–1049.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Trenogve"	"Abbiss"	"Rawlinson"	"Maker"
+Study Person First Name	"Robert"	"Hayley"	"Catherine"	"Garth"
+Study Person Mid Initials	"D"	"J"	""	"L"
+Study Person Email	"R.Trengove@murdoch.edu.au"	"H.Abbiss@murdoch.edu.au"	"C.Rawlinson@murdoch.edu.au"	"G.Maker@murdoch.edu.au"
+Study Person Phone	"61893607639"	""	""	"61893601288"
+Study Person Fax	""	""	""	""
+Study Person Address	"Bldg AUS1, Murdoch University, 90 South Street, Murdoch WA 6150  "	""	""	""
+Study Person Affiliation	"Murdoch University"	"Murdoch University"	"Murdoch University"	"Murdoch University"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

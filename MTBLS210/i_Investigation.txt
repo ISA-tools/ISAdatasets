@@ -1,0 +1,148 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CSEO"	"MS"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"2"	"86"	"16"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Cigarette Smoke Exposure Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS210"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS210"
+Study Title	"Wolbachia modulation of lipid metabolism in Aedes albopictus mosquito cells"
+Study Description	"Certain strains of the intracellular endosymbiont Wolbachia can strongly inhibit or block the transmission of viruses such as dengue by Aedes mosquitoes, and the mechanisms responsible are still not well understood. Direct infusion and liquid chromatography FT-ICR mass spectrometry based lipidomicse DIMS and LCMS analyses were conducted using Aedes albopictus Aa23 cells that were infected with the wMel and wMelPop strains of Wolbachia compared to uninfected cells. Substantial shifts in the cellular lipid profile were apparent in the presence of Wolbachia. Most significantly, sphingolipids were depleted across all classes, and some reduction in diacylglyerol fatty acids and phosphatidylcholines was also observed. These lipid classes have previously been shown to be selectively enriched in DENV-infected mosquito cells, suggesting that Wolbachia may produce a cellular lipid environment that is antagonistic to viral replication. The data improve understanding of the intracellular interactions between Wolbachia and mosquitoes."
+Study Submission Date	"2015-06-26"
+Study Public Release Date	"2016-03-11"
+Study File Name	"s_Wolbachia modulation of lipid metabolism in Aedes albopictus mosquito cells.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Direct Infusion Mass Spectrometry"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"Lipidomics"	"Fourier transform ion cyclotron resonance mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	""	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0000502"
+Study Design Type Term Source REF	""	"CHMO"	""	"CSEO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"26994075"
+Study Publication DOI	"10.1128/aem.00275-16"
+Study Publication Author List	"Molloy JC, Sommer U, Viant MR, Sinkins SP."
+Study Publication Title	"Wolbachia Modulates Lipid Metabolism in Aedes albopictus Mosquito Cells."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Infection"
+Study Factor Type	"infection"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000544"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_DIMS_mtbls210.txt"	"a_LCMS_mtbls210.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ FT Ultra"	"LTQ FT Ultra"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Aa23.T, Aa23.wMel and Aa23.wMelPop cells were grown in 25 cm^2 flasks as per refsec:cellculture in 5 ml of media with passaging of 1 ml to 5 ml of new media every five days. Eight flasks per line were independently passaged for at least 5 wks before lipid and DNA extraction. Cells were quenched 72 h after the final passage, before confluence was reached. A centrifuge was pre-chilled to -9 °C for at least 1 h and the metal fixed angle centrifuge rotor was frozen at -20 °C for 1 h to ensure rapid quenching of cells. 1.6 ml quenching solution (60:40 HPLC grade MeOH:H2O (Sigma-Aldrich)) per flask was added to pre-weighed 2 ml tubes and left on dry ice for 15 min to cool to approximately -40 °C. Cells were scraped into the flask media with minimum disruption and the cell suspension was transferred to a 15 ml tube for centrifugation at room temperature for 5 min at 1000 x g. 500 µl cell suspension was retained for DNA extraction. Supernatant was removed by pouring and cell pellets were resuspended in residual media by gently pipetting. 200 µl of this cell suspension was added to 1.6 ml quenching solution at -40 °C and mixed immediately by inversion. Samples were centrifuged in the pre-chilled rotor at -9 °C, 2500 x g  for 5 min. A maximum of 10 samples were processed at a time to ensure all were kept below 0 °C. Quenching solution was removed using a glass Pasteur pipette and the tube was weighed to estimate cell mass before being frozen at -80 °C until extraction."	"HPLC grade MeOH (EMD Millipore), H2O and chloroform (Sigma-Aldrich) were cooled on ice and 8 µl/mg pellet mass MeOH and 7.2 µl/mg H2O added to each sample tube. Tubes were vortexed for 30 s and returned to ice. 8 µl/mg chloroform were added to 1.9 ml glass vials and after pulse vortexing, the pellet and MeOH/H2O mixture were transferred using a glass Pasteur pipette. Samples were vortexed and incubated on ice for 10 min before centrifugation at 1500 x g for 15 min at 4 °C. Biphasic samples were left at room temperature for 5 min before the upper layer containing polar metabolites was removed using a Hamilton syringe. 270 µl of non-polar lipid-containing lower layer were then transferred to a 1.8 ml glass tube and stored overnight at -80 °C. 7 Aa23-T samples and 6 samples from each infected line were taken forward. 40 µl was removed to combine for a quality control (QC) sample before all samples were dried under nitrogen, taken back up in 270 µl chloroform and stored at -80 °C until use."	"Reversed-phase high performance liquid chromatography Fourier transform ion cyclotron resonance mass spectrometry (RPLC-FT-ICR-MS) based analysis of the lipids was carried out on a Thermo Scientific Dionex Ultimate 3000 system connected to the same mass spectrometer as above. Samples were dried and each taken up in the original volume of solvent A (5 mM ammonium acetate, 5% isopropanol in water) / solvent B (5 mM ammonium acetate, 5% isopropanol, 5% water in acetonitrile) 1:1 and centrifuged for 10 min at 4 °C and 4000 rcf. 8 µl of each sample were injected onto a Dionex Acclaim C30 column (Thermo Scientific, 2.1 x 150 mm, 3 µm particles) and separated at 40 °C with a flow rate of 200 µl/min and a gradient from solvent (A) over solvent (B) to solvent (C) (5 mM ammonium acetate, 5% water in isopropanol); see Table S4 in the publication. The gradient was designed to thoroughly wash out polar compounds before lipid analysis. One LC-FT-ICR-MS analysis was performed per sample."	"Direct Infusion MS:</br>
+Negative ion mode Fourier Transform Ion Cyclotron Resonance Direct Infusion Mass Spectrometry (FTICR-DIMS) was performed. Negative ion mode MS analyses were conducted using a hybrid 7-Tesla linear ion trap FT-ICR mass spectrometer (LTQ FT Ultra, Thermo Fisher Scientific) equipped with an Advion Triversa chip-based direct injection nanoelectrospray ion source (Advion Biosciences). Samples were diluted 1:4 in 5 mM ammonium acetate (from a 1 M stock in methanol) in methanol/chloroform 3:1. Technical triplicates were run in controlled randomized order. Data were acquired from m/z 120-1200 in 12 wide SIM (selected ion monitoring) windows at a nominal resolution of 100,000. Failed runs were repeated the same night. Additional compound identification (DI-MS/MS and MSn) was performed on the same instrument.
+</p>
+LC-MS:</br>
+One LC-FT-ICR-MS analysis was performed per sample. Data was acquired in the negative ion mode from m/z 120-1200 at a resolution of 50,000 in centroid mode. A QC sample was pooled from all biological samples and analysed repeatedly at the start, end, and equidistantly throughout the sequence. Two further QC sample runs were performed using data dependent acquisition (MSMS) of the most intense ions in the negative and positive ion modes, respectively, at a nominal resolution of 50,000."	"DIMS:</br>
+Data processing was performed using NBAF-B in-house scripts in MatLab. During replicate filtering, Ppeaks were allowed if found in two out of three technical replicates and the blank filter required biological signals to be 2x the height of background signals. Sample filtering with 2 ppm error and a 75% filter resulted in a matrix containing 2044 peaks (m/z values) (see DIMS_SFPM.xlsx). 
+LC-MS:</br>
+The intensity matrix was imported into our SIMStitch pipeline immediately after the replicate filter, and hence included blank and sample filtering as for DIMS processing above (see LCMS_SFPM.xlsx).
+</p>
+Additional compound identification (DI-MS/MS and MSn) was performed on the same instrument and is reported in the publication.
+</p>
+Normalisation:</br>
+Probabilistic quotient normalization (PQN) normalisation using in-house Matlab script, followed by filling missing values in the resulting data matrix using the knn algorithm (k=5) (see DIMS_SFPM_norm.xlsx and LCMS_SFPM_norm.xlsx). 
+</p>
+G-log transformation:</br>
+Scaling by G-log transform optimisation using in-house Matlab script (see DIMS_SFPM_glog.xlsx and LCMS_SFPM_glog.xlsx).
+</p>
+LC-MS data conversion:</br>
+LCMS: RPLC-FT-ICR-MS lipidomics data were initially converted into netcdf (.cdf) format using Xcalibur 2.1. 
+</p>
+XCMS conversion:</br>
+Netcdf files are processed using an R based XCMS script</br>
+  library(Hmisc)</br>
+  library(xcms)</br>
+  library(CAMERA)</br>
+  xset <- xcmsSet(step=0.02,snthresh=5,mzdiff = 0.01)</br>
+  grp <- group(xset,bw=10,mzwid = 0.05)</br>
+  xsa <- annotate(grp, cor_eic_th=0)</br>
+  peaklist<-getPeaklist(xsa)</br>
+  write.csv(peaklist,'Sinkins_LCMSneg_a.csv')</br>
+to generate an intensity matrix with a list of peak retention times (see LCMS_XCMSoutput.xlsx).</br>
+</p>
+All the Excel (.xlsx) files referenced above can be found within the study folder."	"Putative annotations were complemented with LC-MS/MS, DIMS/MS and MSn data. The MAF file is based on mass matches in the Lipid Maps database performed by MIPack."
+Study Protocol URI	""	""	""	"http://www.ncbi.nlm.nih.gov/pubmed/21466230"	"http://link.springer.com/article/10.1016%2Fj.jasms.2009.02.001
+https://xcmsonline.scripps.edu
+http://www.nature.com/articles/sdata201412
+http://www.nature.com/nprot/journal/v6/n7/full/nprot.2011.335.html
+"	"http://www.sciencedirect.com/science/article/pii/S0169743910000596"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+Comment[Normalisation]	""	""	""	""	""	""
+Comment[Data Transformation]	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sommer"	"Molloy"	"Viant"	"Sinkins"
+Study Person First Name	"Ulf"	"Jenny"	"Mark"	"Steven"
+Study Person Mid Initials	""	""	"R"	"P"
+Study Person Email	"u.sommer@bham.ac.uk"	"jcm80@cam.ac.uk"	"m.viant@bham.ac.uk"	"s.sinkins@lancaster.ac.uk"
+Study Person Phone	"+44(0)1214148699"	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	"NERC Biomolecular Analysis Facility - Metabolomics Node (NBAF-B)
+School of Biosciences
+University of Birmingham
+Edgbaston, Birmingham
+B15 2TT, UK
+"	"Department of Plant Sciences
+University of Cambridge
+Downing Street
+Cambridge
+CB2 3EA
+"	"NERC Biomolecular Analysis Facility - Metabolomics Node (NBAF-B)
+School of Biosciences
+University of Birmingham
+Edgbaston, Birmingham
+B15 2TT, UK"	"Biomedical and Life Sciences
+Lancaster University
+Lancaster LA1 4YQ
+"
+Study Person Affiliation	"University of Birmingham"	"University of Cambridge"	"University of Birmingham"	"Lancaster University"
+Study Person Roles	"Mass Spectrometrist"	"Culturing & extractions"	"Metabolomics Supervision"	"Biology supervision"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

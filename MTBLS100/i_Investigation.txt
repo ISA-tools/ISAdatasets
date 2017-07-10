@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"CHMO"	"UO"	"NCIT"	"OBI"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"2"	"22"	"18"	"42"	"44"	"22"	"99"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS100"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS100"
+Study Title	"The Human Saliva Metabolome"
+Study Description	"Saliva is composed of a variety of molecules that modulate the oral cavity. It is mainly composed of water (95%) and several minor components such as electrolytes, proteins, and low molecular weight compounds. It consists of metabolites from drinks, foods, drugs, environmental contaminants, and bacterial by-products. As part of the ongoing human metabolome project, the human cerebrospinal fluid metabolome, the human serum metabolome, and recently the human urine metabolome have been characterized. Unlike urine, serum, and cerebrospinal fluid, saliva metabolomics have not shown much progress. Therefore, the present study aims at characterizing the human saliva metabolome. In an attempt to understand saliva metabolomics, we have undertaken comprehensive multi analytical tools based quantitative metabolomics. The nuclear magnetic resonance (NMR) spectroscopy data is presented in this study."
+Study Submission Date	"2014-07-16"
+Study Public Release Date	"2015-09-01"
+Study File Name	"s_DWHSaliva.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Biofluid"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	""
+Study Design Type Term Source REF	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0840-5"
+Study Publication Author List	"Zerihun T. DameFarid AziatRupasri MandalRam KrishnamurthySouhaila BouatraShima BorzouieAn Chi GuoTanvir SajedLu DengHong LinPhilip LiuEdison DongDavid S. Wishart"
+Study Publication Title	"The human saliva metabolome"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"control sample group"
+Study Factor Type	"Control"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61299"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_dwhsaliva_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Human saliva samples were collected from 16 healthy adult volunteers. Collection was done in the early morning before tooth brushing by a standard method [1] consisting of spitting into a 50 ml sterile falcon tube. To assess the effect of sampling time on concentrations of salivary metabolites, samples were also collected three times (before breakfast, 2 hr after breakfast and 2 hr after lunch) in a day. Following collections, the samples were centrifuged at 10000 rpm for 10 min to remove particulate matter and the aliquots were stored in eppendorf tubes at -20 °C until analysis. The pH of each sample was measured before processing and analysis. The average pH was 7.22 ± 0.64, which is within the normal range.
+</p>
+Ref: </br>
+[1] Sugimoto, M., Saruta, J., Matsuki, C., et al. (2013). Physiological and environmental parameters associated with mass spectrometry-based  salivary  metabolomic  profiles. Metabolomics, 9(2), pp. 454–463. doi:10.1007/s11306-012-0464-y"	"Saliva samples contain proteins and particulate matter, which affects the quality of proton NMR by interfering with the identification and quantification of metabolites. After thawing and centrifuging, the human saliva samples were deproteinized using ultrafiltration. Prior to filtration, the 0.5 ml, 3 KDa cut-off centrifugal filter units (Millipore Microcon YM-3) were rinsed five times each with 500 μl of HPLC-grade water, then centrifuged at 10,000 rpm for 10 mins to remove residual glycerol bound to the filter membranes. Two 500 μl aliquots of each saliva sample were then transferred into the centrifuge filter devices. The samples were then spun at a rate of 10,000 rpm for 35 minutes to remove macromolecules (primarily proteins and lipoproteins) from the sample [1].</br>
+</p>
+Ref:</br>
+[1] Psychogios, N., Hau, D. D., Peng, J., et al. (2011). The human serum metabolome. PLoS ONE, 6(2), e16957. doi:10.1371/journal.pone.0016957. PMID:21359215</br>
+"	"A 600 μl aliquot of deproteinized saliva was placed in a 1.5 ml Eppendorf tube followed by the addition of 70 μl of D2O and 30 μl of a standard buffer solution (25 mM DSS [disodium-2,2-dimethyl-2-silapentane-5-sulphonate], 730 mM imidazole, and 0.47% NaN3 in H2O). The samples (700 μl) were then transferred to a standard 5 mm thin-walled glass NMR tube for subsequent NMR spectral analysis. In total, 16 saliva samples were prepared in this manner. The pH of the samples ranged from 6.5-7.5."	"All 1H-NMR spectra were collected on a 500 MHz Inova (Varian Inc., Palo Alto, CA) spectrometer equipped with a 5 mm HCN Z-gradient pulsed-field gradient (PFG) room-temperature probe. 1H-NMR spectra were acquired at 25 °C using the first transient of the Varian tnnoesy-presaturation pulse sequence, which was chosen for its high degree of quantitative accuracy [1].</br>
+</p>
+Ref:</br>
+[1] Saude EJ, Slupsky CM, & Sykes BD. (2006). Optimization of NMR analysis of biological fluids for quantitative accuracy. Metabolomics, 2(3), 113-123, doi:DOI 10.1007/s11306-006-0023-5."	"All FIDs were zero-filled to 64,000 data points and line broadened 0.5 Hz. The methyl singlet produced by a known quantity of DSS was used as an internal standard for chemical shift referencing (set to 0 ppm) and for quantification. Spectra were collected with 128 transients and 8 steady-state scans using a 4 second acquisition time and a 1 second recycle delay."	"The resulting 1H-NMR spectra were processed and analyzed using the Chenomx NMR Suite Professional software package version 7.7 (Chenomx Inc., Edmonton, AB) as previously described [1][2]. Each spectrum was processed and analyzed by two experienced NMR spectroscopists to minimize compound mis-identification and mis-quantification.
+</p>
+Ref: </br>
+[1] Bouatra, S., Aziat, F., Mandal, R., et al. (2013). The human urine metabolome. PLoS ONE, 8(9), e73076. doi:10.1371/journal.pone.0073076. PMID:24023812</br>
+[2] Psychogios, N., Hau, D. D., Peng, J., et al. (2011). The human serum metabolome. PLoS ONE, 6(2), e16957. doi:10.1371/journal.pone.0016957. PMID:21359215</br>"	"Allcompound identifications and concentrations were compiled, compared and their names ‘‘normalized’’ to match HMDB identifiers. The entire literature-derived salivary compound data was annotated using an in-house program called DataWrangler (which automatically generates names, synonyms, descriptions, structures, chemical taxonomies and physical property data) and then manually entered into the HMDB."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Dame"	"Wishart"
+Study Person First Name	"Zerihun"	"David"
+Study Person Mid Initials	"T"	"S"
+Study Person Email	"zdame@ualberta.ca"	"dwishart@ualberta.ca"
+Study Person Phone	""	"+1-780-492-0383"
+Study Person Fax	""	"+1-780-492-1071"
+Study Person Address	""	"Departments of Biological and Computing Sciences, University of Alberta, Edmonton, AB Canada T6G 2E8"
+Study Person Affiliation	""	"University of Alberta"
+Study Person Roles	""	"PI"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"BTO"	"MS"	"CHMO"	"EFO"	"NEMO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NEMO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"2"	"22"	"22"	"86"	"18"	"146"	"24"	"99"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Neural ElectroMagnetic Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS354"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS354"
+Study Title	"Lipid metabolites as potential diagnostic and prognostic biomarkers for acute community acquired pneumonia"
+Study Description	"Early diagnosis of acute community-acquired pneumonia (CAP) is important in patient triage and treatment decisions. To identify biomarkers that distinguish patients with CAP from non-CAP controls, we conducted an untargeted global metabolome analysis for plasma samples from142 patients with CAP (CAP cases) and 97 without CAP (non-CAP controls). Thirteen lipid metabolites could discriminate between CAP cases and non-CAP controls with area-under-the-receiver-operating-characteristic curve of > 8 (P ≤ 10-9). The levels of glycosphingolipids, sphingomyelins, lysophosphatidylcholines and L-palmitoylcarnitine were higher, while the levels of lysophosphatidylethanolamines were lower in the CAP cases than those in non-CAP controls. All 13 metabolites could distinguish CAP cases from the non-infection, extrapulmonary infection and non-CAP respiratory tract infection subgroups. The levels of trihexosylceramide (d18:1/16:0) were higher, while the levels of lysophosphatidylethanolamines were lower, in the fatal than those of non-fatal CAP cases. Our ﬁndings suggest that lipid metabolites are potential diagnostic and prognostic biomarkers for CAP."
+Study Submission Date	"2016-06-08"
+Study Public Release Date	"2016-08-31"
+Study File Name	"s_CAP.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"biomarker"	"glycolipid"	"phospholipid"	"pneumonia"	"sphingolipid"	"ultra high performance liquid chromatography"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_59163"	"http://purl.obolibrary.org/obo/CHEBI_33563"	"http://purl.obolibrary.org/obo/CHEBI_16247"	"http://www.ebi.ac.uk/efo/EFO_0003106"	"http://purl.obolibrary.org/obo/CHEBI_26739"	"http://purl.obolibrary.org/obo/CHMO_0000795"	""
+Study Design Type Term Source REF	"CHEBI"	"CHEBI"	"CHEBI"	"EFO"	"CHEBI"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27105773"
+Study Publication DOI	"http://dx.doi.org/10.1016/j.diagmicrobio.2016.03.012 "
+Study Publication Author List	"To, Kelvin K.W. ; Lee, Kim-Chung ; Wong, Samson S.Y. ; Sze, Kong-Hung ; Ke, Yi-Hong ; Lui, Yin-Ming ; Tang, Bone S.F. ; Li, Iris W.S. ; Lau, Susanna K.P. ; Hung, Ivan F.N. ; Law, Chun-Yiu ; Lam, Ching-Wan ; Yuen, Kwok-Yung"
+Study Publication Title	"Lipid metabolites as potential diagnostic and prognostic biomarkers for acute community acquired pneumonia."
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"disease state"
+Study Factor Type	"disease_state"
+Study Factor Type Term Accession Number	"http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_5159000"
+Study Factor Type Term Source REF	"NEMO"
+STUDY ASSAYS
+Study Assay File Name	"a_cap_metabolite_profiling_mass_spectrometry.txt"	"a_cap_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"6540 Q-TOF LC/MS (Agilent)"	"6540 Q-TOF LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"This study included patients admitted to Queen Mary Hospital in Hong Kong between 2007 and 2013. Archived plasma samples collected at admission were retrieved for metabolomics study. CAP cases were hospitalized adult patients 18 years or above with radiological evidence of consolidation within 48 hours of admission and at least one of the following symptoms (cough with or without sputumproduction, dyspnea, tachypnea, pleuritic chest pain) plus one auscultatory ﬁnding or one sign of infection (core body temperature >38 °C, shivers, leukocyte count >10,000 cells/μl or <4000 cells/μl [1].
+ </p>
+
+Ref: </br>
+[1] Müller F, Christ-Crain M, Bregenzer T, Krause M, Zimmerli W, Mueller B, et al.
+Procalcitonin levels predict bacteremia in patients with community-acquired pneumonia:a prospective cohort trial. Chest. 2010 Jul;138(1):121-9. doi: 10.1378/chest.09-2920. Epub 2010 Mar 18. "	"For metabolomics analysis, 100 μl of plasma was thawed at 4 °C and plasma proteins were precipitated with 400 μl of methanol/ethanol/acetone mixture at a ratio of 1:1:1 (v/v/v). The sample extract was vigorously vortexed for 1 min, and centrifuged at 14,000 rpm at 4 °C for 10 min. The supernatant was collected for ultra-high-performance liquid chromatography-electrospray ionization-quadrupole time-of-flight mass spectrometry (UHPLC-ESI-Q-TOF-MS) analysis."	"UHPLC-ESI-Q-TOF-MS was performed as we described previously [1]. Waters Acquity UPLC BEH C18 column (2.1 x 100 mm, 1.7 μm, Milford Massachusetts, USA) was used for the chromatographic separation of plasma supernatant with injection volume of 5 μl. Temperatures of the column and autosampler were maintained at 45 °C and 10 °C, respectively. The separation was performed at a flow rate of 0.4 ml/min under a gradient program in which mobile phase A was composed of 0.1% formic acid (v/v) in water and mobile phase B was composed of acetonitrile. The gradient program was applied as follows: time (t) = 0 min, 5% B; t = 0.5 min, 5% B; t = 5.5 min, 48% B; t = 16 min, 78% B; t = 31min, 80% B; t = 33min, 99.5% B; t = 37min, 99.5% B; t = 37.1 min, 5% B. The stop time was 40 min. 
+</p>
+Ref:</br>
+[1] To KK, Lee KC, Wong SS, Lo KC, Lui YM, Jahan AS, et al  Lipid mediators of inﬂammation as novel plasma biomarkers to identify patients with bacteremia. J Infect. 2015 May;70(5):433-44. doi: 10.1016/j.jinf.2015.02.011. Epub 2015 Feb 26."	"The electrospray ionization (ESI) mass spectra were acquired in both positive and negative ion modes using Agilent Jet Stream ESI source with capillary voltages at +3800V and -3500V, respectively. Other source conditions were kept constant in all the experiments as follow: gas temperature was kept constant at 320 °C, drying gas (nitrogen) was set at the rate of 7 l/min, and the pressure of nebulizer gas (nitrogen) was 30 psi. The sheath gas was kept at a flow rate of 10 l/min at a temperature of 380 °C. The voltages of the fragmentor, skimmer 1, and octopoleRFPeak were 135V, 50V and 500V, respectively. The mass data was collected between m/z 80 and 1,700 at the acquisition rate of 2 scans per second. Two reference masses at m/z 121.0509 (protonated molecular ion of C5H4N4) and m/z 922.0098 (protonated molecular ion of C18H18O6N3P3F24) for positive mode as well as m/z 119.0363 (deprotonated molecular ion of C5H4N4) and m/z 966.0007 (formate adduct of C18H18O6N3P3F24) for negative mode were used as constant mass correction during liquid chromatography-mass spectrometry (LC-MS) run. Product ion scanning experiments were conducted using ultra-high purity nitrogen as collision gas with same parameters set in MS acquisition, the collision energy (CE) was set at 10, 20 or 40eV to generate the best quality of MS/MS spectra for the putative identification and structural elucidation of the significant metabolites."	"The metabolomic data was analyzed and reported according to the Metabolomics Standards Initiative (http://msi-workgroups.sourceforge.net/). The LC-MS data was processed using XCMS package (http://www.bioconductor.org/packages/2.8/bioc/html/xcms.html) operating in R script (http://www.r-project.org/). Data was further processed with normalization, scaling, filtering and statistical analysis using MetaboAnalyst 3.0 (www.metaboanalyst.ca). </p>
+The MS data was log2-transformed, mean-centered, and divided by the standard deviation of each variable scaling for statistical analysis. To identify molecular features (MFs) that can distinguish CAP cases with non-CAP controls, both multivariate and univariate analyses were performed. For multivariate analyses, principal component analysis (PCA) and partial-least squares discrimination analysis (PLS-DA) were performed for unsupervised and supervised analyses, respectively. PLS-DA models were validated based on accuracy, multiple correlation coefficient (R2) and cross-validated R2 (Q2) in cross-validation and permutation test by applying 2,000 iterations, and the significance of the variables was ranked using the variable importance in projection (VIP) score. For univariate analysis, volcano plots were constructed and analyzed using Student’s t-test. Significant MFs with VIP score of >1 in PLSDA and volcano plot analysis of fold-change >1.5 and P values <0.05 were included for univariate receiver operating characteristic (ROC) analysis using ROCEET (http://www.roccet.ca). The classical ROC curve analysis was performed. Area-under-receiver operating characteristic curve (AUC) was calculated by Monte Carlo Cross Validation using sub-sampling. Significant MFs with AUC ≥0.8 were identified and box-whisker plots were generated using Analyse-it software (Analyse-it, UK). The data was subsequently processed with hierarchical clustering analysis employing Eluclidean distance measure with average clustering algorithm using MetaboAnalyst 3.0. "	"Significant variables were selected for product ion scanning experiments. MS/MS spectra were processed using Agilent MassHunter Qualitative Analysis software (version B.05.00, Agilent Technologies, USA) to generate potential molecular formula based on the accurate mass and isotopic pattern recognitions of parent and fragment ions. All putative identities were confirmed by matching with entries in the METLIN database (http://metlin.scripps.edu/), Human Metabolome Database (HMDB) (http://www.hmdb.ca/), MassBank (http://www.massbank.jp/), LipidMaps (http://www.lipidmaps.org/), KEGG database (http://www.genome.jp/kegg) using exact molecular weights, nitrogen rule or MS/MS fragmentation pattern data and literature search. Efforts were made to distinguish metabolites from the other isobaric compounds whenever possible by its elution order and virtue of difference in fragmentation pattern corresponding to its structural characteristics. "
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kwok-Yung "
+Study Person First Name	"Yuen"
+Study Person Mid Initials	"K"
+Study Person Email	"kyyuen@hku.hk "
+Study Person Phone	"+852-22554892"
+Study Person Fax	"+852-28551241"
+Study Person Address	"Department of Microbiology, The University of Hong Kong, Hong Kong SAR, China"
+Study Person Affiliation	"university of Hong Kong"
+Study Person Roles	"principal investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

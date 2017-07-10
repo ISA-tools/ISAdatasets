@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"EFO"	"ENVO"	"CHMO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	
+Term Source Version	"103"	"22"	"4"	"132"	"29"	"16"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Environment Ontology"	"Chemical Methods Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS281"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS281"
+Study Title	"Sponge exhalent seawater contains a unique chemical profile of dissolved organic matter"
+Study Description	"Sponges are efficient filter feeders, removing significant portions of particulate and dissolved organic matter (POM, DOM) from the water column. While the assimilation and respiration of POM and DOM by sponges and their abundant microbial symbiont communities have received much attention, there is virtually no information on the impact of sponge holobiont metabolism on the composition of DOM at a molecular-level. We applied untargeted and targeted metabolomics techniques to characterize DOM in seawater samples prior to entering the sponge (inhalant reef water), in samples exiting the sponge (exhalent seawater), and in samples collected just outside the reef area (off reef seawater). Samples were collected from two sponge species, Ircinia campana and Spheciospongia vesparium, on a near-shore hard bottom reef in the Florida Keys. Metabolic profiles generated from untargeted metabolomics analysis indicated that many more compounds were enhanced in the exhalent samples than in the inhalant samples. Targeted metabolomics analysis revealed differences in diversity and concentration of metabolites between exhalent and off reef seawater. For example, most of the nucleosides were enriched in the exhalent seawater, while the aromatic amino acids, caffeine and the nucleoside xanthosine were elevated in the off reef water samples. Although the metabolic profile of the exhalent seawater was unique, the impact of sponge metabolism on the overall reef DOM profile was spatially limited in our study. There were also no significant differences in the metabolic profiles of exhalent water between the two sponge species, potentially indicating that there is a characteristic DOM profile in the exhalent seawater of Caribbean sponges. Additional work is needed to determine whether the impact of sponge DOM is greater in habitats with higher sponge cover and diversity. This work provides the first insight into the molecular-level impact of sponge holobiont metabolism on reef DOM and establishes a foundation for future experimental studies addressing the influence of sponge-derived DOM on chemical and ecological processes in coral reef ecosystems."
+Study Submission Date	"2015-11-17"
+Study Public Release Date	"2016-02-01"
+Study File Name	"s_Sponge DOM.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"marine sponge reef"	"dissolved organic matter"	"coral reef"	"liquid chromatography-mass spectrometry"	"Fourier transform ion cyclotron resonance mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/ENVO_01000161"	""	"http://purl.obolibrary.org/obo/ENVO_00000150"	"http://purl.obolibrary.org/obo/CHMO_0000524"	"http://purl.obolibrary.org/obo/CHMO_0000502"	""	""
+Study Design Type Term Source REF	"ENVO"	""	"ENVO"	"CHMO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28097070"
+Study Publication DOI	"10.7717/peerj.2870"
+Study Publication Author List	"Fiore CL, Freeman CJ, Kujawinski EB."
+Study Publication Title	"Sponge exhalent seawater contains a unique chemical profile of dissolved organic matter."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample Type"	"Replicate"
+Study Factor Type	"sample"	"biological replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/MS_1000457"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"MS"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_sponge_dom_metabolite_profiling_mass_spectrometry.txt"	"a_sponge_dom_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"7T LTQ FT Ultra, Thermo Fisher Scientific"	"TSQ Vantage (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seawater samples were collected from near Long Key State Park, FL (24.8169° N 80.8200° W) by scuba divers (4-5 m depth). Acid-washed Nalgene syringes (100 ml) attached to 1 l FlexFoil Plus sample bags (SKC, Pittsburgh, PA, USA) via a three-way valve with Teflon tubing were used to collect ambient reef water and exhalent water from the sponge.  Ambient water was collected near each sponge but away from the direction of the exhalent plume of the sponge.  Exhalent water from each sponge was collected by drawing water into the syringe slowly (1 ml/s) through tubing placed just above the osculum for Spheciospongia vesparium and just above the base of the spongeocoel for Ircinia campana.  Seawater away from sponge filtration (off-reef seawater) was collected in Nalgene bottles (n=2, 1.5 l total) by hand near the surface and approximately 300 m seaward from the reef, over a mix of sand and hard substrate. The seawater was put on ice immediately upon end of the dive and was filtered through a combusted glass fiber filter (GF/F; 0.7 µm, Whatman) and a 0.2 µm PTFE filter (Omnipore, Millipore, MA, UA) filters the same day."	"The seawater was filtered through 0.2 micron filter. The filtrate was processed using solid phase extraction (SPE) with 1 g/6 cc PPL cartridges (BondElut, Agilent, Santa Clara, CA, USA) as described previously [1] to remove salt. Metabolites were eluted from the column using 100% methanol and these were stored at -20 °C until analysis. Just prior to analysis on the instruments described below, the methanol extract was dried down and redissolved in 500 µl of 95:5 water:acetonitrile and deuterated biotin was added to each sample as a high-performance liquid chromatography (HPLC) injection standard (final concentration 0.05 µg/ml). At this stage, 100 and 200 µl of the extract was removed for targeted and untargeted metabolomics analysis respectively.  A pooled sample was also made consisting of equal amounts of each extract.
+</p>
+Ref:</br>
+[1] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235. doi: 10.4319/lom.2008.6.230</br>"	"For targeted metabolomics analysis, the samples were analyzed with a Synergi 4 µm Fusion – RP 80 Å, 150 x 2.00 mm column (Phenomenex, Torrance, CA) coupled to a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. The chromatography gradient was: an initial hold of 95% A (0.1% formic acid in water) : 5% B (0.1% formic acid in acetonitrile) for 2 min, ramp to 65% B from 2 to 20 min, ramp to 100% B from 20 to 25 min, and hold until 32.5 min. The column was re-equilibrated for 7 min between samples with solvent A. Each metabolite was quantified using multiple reaction monitoring (MRM) mode with optimal parameters determined from infusion of authentic standards. Eight-point external calibration curves (0.5, 1, 5, 10, 50, 100, 250, and 500 ng/ml) were generated for each compound by plotting peak area against concentration.
+</p>
+For untargeted metabolomics analysis, LC separation was performed using a Synergi Fusion reversed phase column (Phenomenex, Torrance, CA) with the same gradient as for targeted analysis."	"For targeted analysis, samples were analyzed with a Thermo Scientific TSQ Vantage Triple Stage Quadrupole Mass Spectrometer. This instrument allows polarity switching between positive and negative ion mode within a single LC run. Analysis of authentic standards was used to determine the optimal ionization mode for each metabolite.
+</p>
+For untargeted analysis, samples were analyzed in both negative and positive ion mode with liquid chromatography (LC) coupled by electrospray ionization to a 7-Tesla Fourier-transform ion cyclotron resonance mass spectrometer (FT-ICR MS). In parallel to the FT acquisition, four data dependent MS/MS scans were collected at nominal mass resolution in the ion trap (LTQ). Samples were analyzed in random order with a pooled sample run at the start, middle, and end of the run in order to assess instrument variability."	"Targeted metabolomics data were analyzed using XCalibur 2.0. The concentration of the metabolites in the targeted mass spectrometry data is given in ng/ml. Untargeted metabolomics data were collected as XCalibur RAW files which were converted to mzXML files using the msConvert tool within ProteoWizard [1]. Features were extracted from the LC-MS data using XCMS [2], where a feature is defined as a unique combination of a mass-to-charge (m/z) ratio and a retention time. Peak finding was performed with the centWave algorithm [3], and only peaks that fit a Gaussian shape were retained. Features were aligned across samples based on retention time and m/z value using the group.nearest function in XCMS; fillPeaks was used to reconsider features missed in the initial peak finding steps. CAMERA [4] was used to extract the intensities and m/z values for the associated MS/MS spectra.
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. PMID: 23051804</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID: 16448051</br>
+[3] Tautenhahn R, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. PMID: 19040729</br>
+[4] Kuhl C, Tautenhahn R, Böttcher C, Larson TR, Neumann S. CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem. 2012 Jan 3;84(1):283-9. PMID: 22111785</br>"	"The targeted metabolomics compound identifications were based on measurements of authentic standards on the same mass spectrometer."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fiore"	"Kujawinski"
+Study Person First Name	"Cara"	"Elizabeth"
+Study Person Mid Initials	"L"	"B"
+Study Person Email	"cfiore@whoi.edu"	"ekujawinski@whoi.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"360 Woods Hole Rd
+Woods Hole MA 02543"	"360 Woods Hole Rd
+Woods Hole MA 02543"
+Study Person Affiliation	"Woods Hole Oceanographic Institution"	"Woods Hole Oceanographic Institution"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

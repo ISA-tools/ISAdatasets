@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"EFO"	"NCBITAXON"	"CHMO"	"EFO"	"MESH"	"OBI"	"CHEBI"	"NCIT"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"119"	"6"	"18"	"146"	"8"	"23"	"99"	"34"	"29"	"43"	
+Term Source Description	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS77"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS77"
+Study Title	"Impacts of the Callipyge mutation on ovine plasma metabolites"
+Study Description	"The ovine Callipyge mutation causes postnatal muscle hypertrophy localized to the pelvic limbs and torso, as well as body leanness. The mechanism underpinning enhanced muscle mass is unclear, as is the systemic impact of the mutation. To investigate potential systemic effects of the mutation, 1H NMR spectra of plasma taken from lambs at 8 and 12 weeks of age were measured. Multivariate statistical analysis of plasma metabolite profiles demonstrated effects of development and genotype but not gender. Plasma from Callipyge lambs at 12 weeks of age, but not 8 weeks, was characterized by a metabolic profile consistent with contributions from the affected hypertrophic fast twitch glycolytic muscle fibres. We conclude that there is an indirect systemic effect of the Callipyge mutation in skeletal muscle in the form of changes of blood metabolites, which may contribute to secondary phenotypes such as body leanness."
+Study Submission Date	"2015-01-26"
+Study Public Release Date	"2015-01-31"
+Study File Name	"s_CallipygeMutation_Ovine.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomic profiling"	"Callipyge mutation"	"nuclear magnetic resonance spectroscopy"	"hypertrophy"	"untargeted metabolites"	"Multivariate Analysis"	"two-dimensional 1H nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://www.ebi.ac.uk/efo/EFO_0002460"	""	"http://purl.bioontology.org/ontology/MESH/D015999"	"http://purl.obolibrary.org/obo/CHMO_0002443"
+Study Design Type Term Source REF	"EFO"	""	"CHMO"	"EFO"	""	"MESH"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"24937646"
+Study Publication DOI	"10.1371/journal.pone.0099726"
+Study Publication Author List	"Juan Li, Paul L. Greenwood, Noelle E. Cockett, Tracy S. Hadfield, Tony Vuocolo, Keren Byrne, Jason D. White, Ross L. Tellam, Horst Joachim Schirra"
+Study Publication Title	"Impacts of the Callipyge mutation on ovine plasma metabolites and muscle fibre type"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Genotype"	"Gender"
+Study Factor Type	"age"	"genotype"	"Gender"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_callipygemutation_ovine_metabolite profiling_NMR spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Blood samples from lambs at 8 and 12 weeks of age were collected into vacutainer tubes containing EDTA. The tubes were gently inverted and centrifuged to isolate the plasma, which was then stored at -80 ºC."	"Not applicable."	"Plasma was thawed at room temperature and 300 µl was mixed with 100 µl of 1 M phosphate buffer (pH 7.4), 150 µl H2O and 50 µl D2O. Precipitates were removed by centrifugation (12,000 x g) for 5 min, and 550 µl of the supernatant was transferred into 5 mm NMR tubes."	"1H NMR spectra were recorded on a Bruker AV500 NMR spectrometer operating at a 1H frequency of 500.13 MHz and equipped with a 5 mm self-shielded z-gradient triple resonance probe and a B-ACS 60 sample changer (Bruker Biospin, Rheinstetten, Germany)."	"For each plasma sample two types of proton (1H) NMR spectra were acquired at 298 K. (i) 1D NOESY spectra were acquired with the noesypr1d pulse sequence (Bruker Biospin pulse program library). The water signal was suppressed by continuous wave irradiation during both the relaxation delay of 2.3 s and the mixing time (tm) of 100 ms. (ii) Water-suppressed Carr–Purcell–Meibom–Gill (CPMG) spectra were acquired with the cpmgpr1d pulse sequence (Bruker Biospin pulse program library). A fixed spin-spin relaxation delay 2 nt of 60 ms duration (t = 500 µs) was used to eliminate the broad signals from high molecular weight analytes, and water suppression irradiation was applied during the relaxation delay of 2.3 s. For both types of spectra, 256 transients were collected into 32,768 data points using a spectral width of 20.0 ppm. All spectra were processed using TOPSPIN version 2.1 (Bruker Biospin). The free induction delays (FIDs) were multiplied by an exponential window function corresponding to 0.3 Hz line broadening factor before Fourier transformation. The acquired spectra were manually phased and baseline corrected. The spectra of plasma samples were referenced to the anomeric proton of glucose (d = 5.233 ppm)."	"1H NMR spectra were automatically data-reduced to consecutive integral regions of equal width of 0.01 ppm (“buckets”), covering the range of d = 9.0-0.5 ppm, using AMIX (Analysis of Mixtures software package, version 3.6.6, Bruker Biospin). The chemical shift regions at d 6.00-5.60 ppm and d 5.20-4.68 ppm were excluded from the plasma spectra to eliminate artifacts of the urea signal and of imperfect water suppression. The regions at d 3.63-3.60 ppm, 3.23-3.20 ppm, 3.15-3.07 ppm, 2.70-2.68 ppm, and 2.58-2.53 ppm, which contained EDTA signals, were also excluded to avoid these signals affecting the multivariate statistical analysis. For each spectrum, the resulting integral regions were normalized to the total intensity of the spectrum to correct for inter-sample differences in dilution. Subsequently, the bucketed data matrices were imported into the SIMCA-P+12.0 software package (Umetrics AB, Umeå, Sweden) for multivariate statistical analysis."	"The assignment of peaks to specific metabolites was based on the online databases Human Metabolome Database and Biological Magnetic Resonance Bank. Assignments were confirmed by 2-dimensional (2D) 1H-1H double-quantum filtered correlation spectroscopy (DQF–COSY), 1H-1H total correlation spectroscopy (TOCSY), 1H-13C heteronuclear single quantum coherence (13C-HSQC) and 1H-13C heteronuclear multiple bond correlation (13C-HMBC) spectra measured on selected samples."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Li"	"Tellam"	"Schirra"
+Study Person First Name	"Juan"	"Ross"	"Horst Joachim"
+Study Person Mid Initials	""	"L"	""
+Study Person Email	"daisy.li@csiro.au"	"ross.tellam@csiro.au"	"h.schirra@uq.edu.au"
+Study Person Phone	"+61 7 32142344"	"+61 7 32142476"	"+61 7 33460360"
+Study Person Fax	"+61 7 32142900"	"+61 7 32142900"	"+61 7 33460346"
+Study Person Address	"Queensland Bioscience Precinct, Level 6 South
+306 Carmody Rd 
+St Lucia 
+QLD 4067
+Australia 
+"	"Queensland Bioscience Precinct, Level 6 South
+306 Carmody Rd 
+St Lucia 
+QLD 4067
+Australia "	"Building 57
+Research Road,
+The University of Queensland,
+St Lucia, QLD, 4072"
+Study Person Affiliation	"CSIRO Animal, Food and Health Sciences"	"CSIRO Animal, Food and Health Sciences"	"The University of Queensland, Centre for Advanced Imaging"
+Study Person Roles	"principal investigator role"	"principal investigator role"	"principal investigator role"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

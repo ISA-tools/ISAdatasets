@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"PECO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/PECO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"21"	"2"	"86"	"5"	"9"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Plant Environmental Conditions"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS160"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS160"
+Study Title	"Natural variation of root exudates in Arabidopsis thaliana-linking metabolomic and genomic data"
+Study Description	"The 19 parent lines of the Arabidopsis thaliana MAGIC collection show significant differences in their root exudate profiles. Changes in metabolism were analyzed by ultra-performance liquid chromatography coupled to electrospray ionization quadrupole time–of–flight mass spectrometry (UPLC-ESI-QTOF-MS) untargeted in positive and negative mode, and targeted for a set of known metabolites."
+Study Submission Date	"2015-05-22"
+Study Public Release Date	"2017-02-03"
+Study File Name	"s_MTBLS160.txt"
+Comment[Study Grant Number]	"Joint Initiative for Research and Innovation of the Leibniz Association (SAW-2011-IPB-3 97, “Chemical Communication in the Rhizosphere”)"
+Comment[Study Funding Agency]	"Leibniz Association"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"genotype"	"hydroponic plant culture media"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513"	"http://purl.obolibrary.org/obo/EO_0007067"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""
+Study Design Type Term Source REF	"EFO"	"PECO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27363486"
+Study Publication DOI	"10.1038/srep29033"
+Study Publication Author List	"Strehmel N, Böttcher C, Schmidt S, Scheel D."
+Study Publication Title	"Natural variation of root exudates in Arabidopsis thaliana-linking metabolomic and genomic data."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Replicate"
+Study Factor Type	"genotype"	"replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513"	"http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS160_NEG_mass_spectrometry.txt"	"a_MTBLS160_POS_mass_spectrometry.txt"	"a_MTBLS160_TAR_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"micrOTOF-Q I ESI-Qq-TOF (Bruker)"	"micrOTOF-Q I ESI-Qq-TOF (Bruker)"	"micrOTOF-Q I ESI-Qq-TOF (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds of the accession Bur-0, Col-0, Can-0, Ct-1, Edi-0, Hi-0, Kn-0, Ler-0, Mt-0, No-0, Oy-0, Po-0, Rsch-4, Sf-2, Tsu-0, Wil-2, Ws-0, Wu-0, and Zu-0 of Arabidopsis thaliana were obtained from the European Arabidopsis Stock Centre and surface sterilized prior to plant cultivation. Then, all accessions were cultivated as previously described [1] in a hydroponic system with three independent biological experiments. Culture medium was used as a blank. This experimental setup resulted in 57 pooled root exudates and 228 root samples from individual plants.  For the analysis of root exudates, the content of four bottles (approximately 280 ml) was collected after the sixth week, pooled and stored at 4 °C in the dark until sample preparation.
+</p>
+Ref:</br>
+[1] Strehmel N, Böttcher C, Schmidt S, Scheel D. Profiling of secondary metabolites in root exudates of Arabidopsis thaliana. Phytochemistry. 2014 Dec;108:35-46. doi:10.1016/j.phytochem.2014.10.003. PMID:25457500</br>"	"The pooled nutrient solution (280 ml) was spiked with 4 µg 2-(2,4-dichlorophenoxy)acetic acid and successively evaporated under reduced pressure at 40 °C to dryness using a 250 ml round-bottom flask and a vacuum rotary evaporator. The remaining residue was thoroughly reconstituted in 9 ml water/methanol, 95/5 (v/v), sonicated for 10 min at 20 °C, transferred into a 15 ml polypropylene centrifuge tube and centrifuged at 6000 x g for 10 min. An aliquot of the supernatant was subjected to solid phase extraction using a Bond Elut C18 cartridge (500 mg, 3 ml, Agilent, www.agilent.com). For that purpose, the cartridge was conditioned with 1 ml methanol, equilibrated with 1 ml water/formic acid, 98/2 (v/v) and loaded with 4 ml concentrated nutrient solution. The cartridge was washed with 1 ml water and retained compounds eluted using 1 ml methanol/formic acid, 98/2 (v/v). The eluate was evaporated to dryness at 40 °C using a vacuum centrifuge. The remaining residue was reconstituted in 120 µl water/methanol, 70/30 (v/v), sonicated for 5 min at 20 °C and centrifuged at 16,000 x g for 5 min. The supernatant was transferred into a glass vial and subjected to UPLC/ESI-QTOFMS analysis."	"Samples (2.6 µl, full loop injection) were separated at 40 °C on an Acquity UPLC platform (Waters, www.waters.com) equipped with a HSS T3 column (100 x 1.0 mm, particle size 1.8 µm, Waters) applying the following gradient at a flow rate of 150 µl/min: 0–1 min, isocratic 95% A (water/formic acid, 99.9/0.1 (v/v)), 5% B (acetonitrile/formic acid, 99.9/0.1 (v/v)); 1–16 min, linear from 5 to 95% B; 16–18 min, isocratic 95% B; 18–20 min, isocratic 5% B."	"Eluting compounds were detected in positive and negative ionization mode from m/z 80 – 1000 using a MicroTOF–Q I hybrid quadrupole time-of-flight mass spectrometer equipped with an Apollo II electrospray ion source (Bruker Daltonics, Billerica, MA, USA). Instrument parameters were defined as follows for the positive mode: nebulizer gas, nitrogen, 1.6 bar; dry gas, nitrogen, 6 l/min, 190 °C; capillary, –5000 V; end plate offset, -500 V; funnel 1 RF, 200 Vpp; funnel 2 RF, 200 Vpp; in-source CID energy, 0 V; hexapole RF, 100 Vpp; quadrupole ion energy, 5 eV, low mass 55; collision gas, argon; collision energy, 10 eV; collision RF 150 Vpp; transfer time, 70 µs; pre pulse storage, 5 µs; spectra rate, 3 Hz. For the negative ionization mode all parameters were maintained except for the capillary voltage (4000 V).
+</p>
+All mass spectra were acquired in centroid mode and recalibrated on the basis of lithium formiate cluster ions."	"Targeted:</br>
+DataAnalysis 4.0 (Bruker Daltonics) was used for generation of extracted ion chromatograms, deconvolution of compound mass spectra and calculation of elemental compositions. For the relative quantification of compounds extracted ion chromatograms of quantifier ions were integrated applying QuantAnalysis 2.0 (Bruker Daltonics). 
+</p>
+Untargeted:</br>
+Raw data files were converted to mzData using CompassXPort (Bruker Daltonics 4.0). Subsequently, the R package XCMS [1] was used for feature detection, alignment and filling of missing values. On this account, features were detected with the help of the centWave algorithm according to [2] (sntresh: 5, prefilter: (3,100), ppm: 20, peak width: (5,12), scanrange=c(1,3060) and aligned using the XCMS function group.density (minfrac: 0.75, bw: 2, mzwid: 0.05). Missing values were replaced with the help of the XCMS function fillPeaks.
+</p>
+Ref:</br>
+[1] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87.PMID:16448051</br>
+[2] Tautenhahn R1, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. doi: 10.1186/1471-2105-9-504. PMID:19040729</br>
+
+
+"	"The target compounds were obtained from prior experiments, including comparison to authentic standards (MSI level 1) and additional  putative identifications (MSI levels 2 and 3)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Mönchgesang"	"Strehmel"	"Schmidt"	"Westphal"	"Taruttis"	"Müller"	"Herklotz"	"Neumann"	"Scheel"
+Study Person First Name	"Susann"	"Nadine"	"Stephan"	"Lore"	"Franziska"	"Erik"	"Siska"	"Steffen"	"Dierk"
+Study Person Mid Initials	""	""	""	""	""	""	""	""	""
+Study Person Email	"susann.moenchgesang@ipb-halle.de"	"nadine.strehmel@ipb-halle.de"	"stephan.schmidt@ipb-halle.de"	"lore.westphal@ibp-halle.de"	"franziska.taruttis@klinik.uni-regensburg.de"	"erik.mueller@ipb-halle.de"	"siska.herklotz@ipb-halle.de"	"sneumann@ipb-halle.de"	"dierk.scheel@ipb-halle.de"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Josef-Engert-Str. 9, 93053 Regensburg"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"	"Weinberg 3, 06120 Halle"
+Study Person Affiliation	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"University of Regensburg"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"
+Study Person Roles	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""

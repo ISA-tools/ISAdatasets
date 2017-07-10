@@ -1,0 +1,2 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"simulated"	"Simulation experiment"	"EDAM"	"http://edamontology.org/topic_3524"	"simulated squares"	""	""	"Sample collection"	"sim_001"

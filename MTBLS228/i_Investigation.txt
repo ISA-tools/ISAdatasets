@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"AURA"	"NCBITAXON"	"MS"	"SNOMEDCT"	"FIX"	"UO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/AURA"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/FIX"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"1"	"2"	"86"	"9"	"4"	"42"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"KB_Bio_101"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Physico-Chemical Methods and Properties"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS228"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS228"
+Study Title	"Untargeted extraction of metabolites 13C labeling profiles from time course labeling switch experiment"
+Study Description	"Dynamic isotope labeling data provide crucial information about the operation of metabolic pathways, and are commonly generated via liquid chromatography mass spectrometry (LC-MS). Metabolome-wide analysis is challenging as it requires grouping of metabolite features over different samples. We developed DynaMet for fully automated investigations of isotope labeling experiments from LC-high resolution MS raw data. DynaMet enables untargeted extraction of metabolite labeling profiles and provides integrated tools for expressive data visualization. For this study we generated labeling data of the model strain Bacillus methanolicus from 13C methanol resulting in complex spectra in multi carbon compounds. Analysis of two biological replicates revealed high robustness and reproducibility of the pipeline. In total, DynaMet extracted 386 features showing dynamic labeling within ten minutes. Of these features, 357 could be fitted by implemented kinetic models. Feature identification against KEGG database resulted in 247 matches covering multiple pathways of core metabolism and major biosynthetic routes. The study results reported here are only a summary. To reproduce the complete results including plots, DynaMet software is required."
+Study Submission Date	"2015-09-16"
+Study Public Release Date	"2015-10-19"
+Study File Name	"s_DLI.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"isotope method"	"nanoscale high performance liquid chromatography mass spectrometry"	"untargeted metabolites"	"DynaMet"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/FIX_0000359"	""	""	""
+Study Design Type Term Source REF	"FIX"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26366644"
+Study Publication DOI	"10.1021/acs.analchem.5b01660"
+Study Publication Author List	"Patrick Kiefer, Uwe Schmitt, Jonas Norbert Ernst Müller, Johannes Hartl, Fabian Meyer, Florian Ryffel, and Julia Anne Vorholt"
+Study Publication Title	"DynaMet, a fully automated pipeline for dynamic LC-MS data"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"incubation time"
+Study Factor Type	"duration"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000433"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_dli_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Classic (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"B. Methanolicus MGA3 cells were sampled at OD600 between 1 and 1.5. To perform 13C labeling , 0.5 ml of B. methanolicus MGA3 culture grown in bioreactors with naturally labeled methanol was transferred into 50 ml Falcon tubes containing 4.5 ml of temperature adjusted (50 °C) MSV medium with 0.5 M 99% 13C methanol. Samples in tubes were continuously mixed and incubated for 5 s, 10 s, 20 s, 30 s, 60 s, 120 s, 300 s, and 600 s at the respective temperatures before the entire 5 ml was transferred onto a 0.2 µm polyethylensulfon (PESU) filter (Sartorius Stedium). Cells were vacuum filtered and immediately washed with 10 ml warm MilliQ water (20 °C) to remove culture medium."	"For quenching and metabolite extraction, filters with cells were transferred into 8 ml quenching solution (mixture of acetonitrile, methanol and 0.5 M formic acid at a 60:20:20 ratio) at -20 °C, incubated for 10 minutes on ice and sonified 3 times for 10 s based on a protocol adapted from [1]. Samples were snap frozen in liquid N2, lyophilized and stored at -20 °C until analysis. Prior to analysis, samples were resuspended with MilliQ water to a final biomass concentration of 1 µg/µl. Biomass content of the samples was calculated based on sample volume and corresponding culture OD600.
+</p>
+Ref:</br>
+[1] Kiefer P, Schmitt U, Vorholt JA. eMZed: an open source framework in Python for rapid and interactive development of LC/MS data analysis workflows. Bioinformatics. 2013 Apr 1;29(7):963-4. doi: 10.1093/bioinformatics/btt080. PMID: 23418185</br>"	"Analysis of the prepared 13C-labeled experiment samples was performed using nanoscale ion-pair reversed-phase high-performance liquid chromatography (nano-IP-RP-HPLC) with a split-free nanoLC Ultra system (Eksigent, Dublin, CA) hyphenated to an LTQ-Orbitrap mass spectrometer (ThermoFisher Scientific, San Jose, CA) by nanoelectrospray ionization as described previously with slight modifications [1]. Separation of the metabolites was performed on a C18 column (Dr. Maisch HPLC Markensäule, Reprosil-Gold 120, 100 mm x 0.1 mm, Morvay Analytik GmbH) as the stationary phase with a tributylamine (TBA) solution as the ion-pairing reagent and methanol (solvent B) as the eluent. The TBA solution (solvent A) was obtained by dissolving 1.7 mM TBA in 1.5 mM acetic acid; the pH was adjusted to 9.0 with 6 M ammonium hydroxide. Solvent B (methanol) varied according to the gradient under a flow rate of 400 nl/min as follows: 0 min, 3%; 30 min, 90%; 35 min, 90%; 36 min, 3%; and 45 min, 3%. The injection volume was 1 µl.
+</p>
+Ref:</br>
+[1] Kiefer, P., Delmotte, N., and Vorholt, J. A. (2011) Nanoscale ion-pair reversed-phase HPLC-MS for sensitive metabolome analysis. Anal Chem 83, 850-855. doi: 10.1021/ac102445r. PMID:21166460</br>"	"LC–HRMS analysis was performed applying a nanoscale ion-pair reversed-phase HPLC–MS method [1] with an LTQ-Orbitrap instrument operating in negative FT mode at unit resolution of 60,000 (at m/z 400) and with a scan range of m/z 150-850.  The Orbitrap Parameters can be found in a text file in the study folder.
+</p>
+Ref:</br>
+[1] Kiefer P, Delmotte N, Vorholt JA. Nanoscale ion-pair reversed-phase HPLC-MS for sensitive metabolome analysis. Anal Chem. 2011 Feb 1;83(3):850-5. doi: 10.1021/ac102445r. PMID:21166460.</br>"	"Conversion from Thermo raw data files into mzML using Proteowizard tool msconvert (http://proteowizard.sourceforge.net/tools.shtml). All further Processing was performed with DynaMet app, an extension package from emzed (installation can be found at http://emzed.ethz.ch/installation.html). After installation of emzed, DynaMet can be directly installed by typing following command in the IPython console: !pip install dynamet. An overview of all processing steps is shown in the file 'Data Transformation Protocol.txt' which is available in the study folder."	"Metabolite identification was performed using identification module of Dynamet software. To match features to data base, monoisotopic masses of features are calculated from possible adducts mass shifts. In case of successful adduct grouping the assigned monoisotopic mass is used to search for masses in database within user defined maximal deviation whereby matches are further restricted by estimation of metabolites possible number of carbon atoms. We estimated the number of carbon atoms from mass isotopologue pattern of natural labeled, and if provided, from a mixture of natural labeled and uniformly 13C labeled cell extract. As a general restriction the range of the possible number of carbon atoms is calculated for each metabolite, whereby the lower limit is defined by the number of 13C related mass isotopologues grouped per feature and the upper limit by the compound with similar mass present in the Pubchem database containing most number of carbon atoms. Depending on the consistency and reliability of the results obtained by applied estimation methods, each estimation gets a quality score (q-score) ranging from 0 to 15, and best scored estimation is selected. For the current study the KEGG database was used.
+</p>
+For each compound in each sample we determined the summed number of labeled Carbon atoms:</br>
+n_13C=(f_M0 * f_M1*1 + f_Mn *n)</br>
+where n is number of C atoms, f_Mi is f_Mi=A_Mi/A_tot and A_Mi is ith isotopologue of metabolite i, A_tot is summed area of all isotopologues, A_tot=summed area of all isotopologue of a feauture where m is the metabolites number of carbon atoms.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kiefer"
+Study Person First Name	"Patrick"
+Study Person Mid Initials	""
+Study Person Email	"pkiefer@ethz.ch"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"HCI F431
+Valdimir-Prelog-Weg 4
+8093 Zurich
+Switzerland"
+Study Person Affiliation	"ETHZ, Institute of Microbiology"
+Study Person Roles	"Scientist"
+Study Person Roles Term Accession Number	"http://www.projecthalo.com/aura#Scientist"
+Study Person Roles Term Source REF	"AURA"

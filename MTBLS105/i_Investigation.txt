@@ -1,0 +1,128 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MS"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"132"	"129"	"22"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS105"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS105"
+Study Title	"GC-MS Based Plasma Metabolomics for Identification of Candidate Biomarkers for Hepatocellular Carcinoma in Egyptian Cohort"
+Study Description	"This study evaluates changes in metabolite levels in hepatocellular carcinoma (HCC) cases vs. patients with liver cirrhosis by analysis of human blood plasma using gas chromatography coupled with mass spectrometry (GC-MS). Untargeted metabolomic analysis of plasma samples from participants recruited in Egypt was performed using two GC-MS platforms: a GC coupled to single quadruple mass spectrometer (GC-qMS) and a GC coupled to a time-of-flight mass spectrometer (GC-TOFMS). Analytes that showed statistically significant changes in ion intensities were selected using ANOVA models. These analytes and other candidates selected from related studies were further evaluated by targeted analysis in plasma samples from the same participants as in the untargeted metabolomic analysis. The targeted analysis was performed using the GC-qMS in selected ion monitoring (SIM) mode. The method confirmed significant changes in the levels of glutamic acid, citric acid, lactic acid, valine, isoleucine, leucine, alpha tocopherol, cholesterol, and sorbose in HCC cases vs. patients with liver cirrhosis. Specifically, our findings indicate up-regulation of metabolites involved in branched-chain amino acid (BCAA) metabolism. Although BCAAs are increasingly used as a treatment for cancer cachexia, others have shown that BCAA supplementation caused significant enhancement of tumor growth via activation of mTOR/AKT pathway, which is consistent with our results that BCAAs are up-regulated in HCC."
+Study Submission Date	"2014-08-13"
+Study Public Release Date	"2015-08-13"
+Study File Name	"s_mtbls105.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"hepatocellular carcinoma"	"cirrhosis of liver"	"biomarker"	"targeted metabolites"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://www.ebi.ac.uk/efo/EFO_0000182"	"http://www.ebi.ac.uk/efo/EFO_0001422"	"http://purl.obolibrary.org/obo/CHEBI_59163"	""	""
+Study Design Type Term Source REF	"CHMO"	"EFO"	"EFO"	"EFO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26030804"
+Study Publication DOI	"10.1371/journal.pone.0127299"
+Study Publication Author List	"Mohammad R. Nezami Ranjbar, Yue Luo, Cristina Di Poto, Rency S. Varghese, Chi Zhang, Mahlet G. Tadesse, Dina Hazem Zaida, and Habtom W. Ressom"
+Study Publication Title	"GC-MS based plasma metabolomics for HCC biomarker discovery in Egyptian cohort"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Disease"	"Batch"
+Study Factor Type	"disease"	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000408"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls105_GC_TOF_mass_spectrometry.txt"	"a_mtbls105_GC_Q_mass_spectrometry.txt"	"a_mtbls105_GC_SIM_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Agilent GC/MS, LECO GC/TOFMS"	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Adult patients were recruited from the outpatient clinics and inpatient wards of the Tanta University Hospital in Tanta, Egypt. The participants consist of 89 subjects (40 HCC cases and 49 patients with liver cirrhosis). The protocol of the study was approved by the ethical committee at Tanta University. Through peripheral venepuncture, single blood sample was drawn into 10 ml BD Vacutainer sterile vacuum tubes in presence of EDTA anticoagulant. The blood was immediately centrifuged at 1000 x g for 10 min at room temperature. The plasma supernatant was carefully collected and centrifuged at 2500 x g for 10 min at room temperature. After aliquoting, plasma was kept frozen at -80 °C until use. Primary tubes and plasma aliquots were labeled using anonymous confidential code numbers with no personal identifiers. Identification codes were cross-referenced with clinical information in a pass code protected computer system."	"Plasma metabolites were extracted by adding 1 ml of working solution composed of acetonitrile, isopropanol, and water (3:3:2) containing isotope-labeled internal standards at a concentration of 1.25 µg/ml (tyrosine-3,3-d2, glutamic acid-2,3,3,4,4-d5, alanine-2,3,3,3-d4, phenylalanine-phenyl-d5-2,3,3,-d3, myristic acid d27) to 30 µl of plasma. After vortexing, samples were centrifuged at 14,500 x g for 15 min at room temperature. The supernatant was then divided into two, 460 µl each, for analysis by each of the two GC-MS systems. Each supernatant was then concentrated to dryness in speedvac. The dried samples were kept at -20 °C until derivatization prior to analysis by GC-MS.
+</p>
+Derivatization:</br>
+We derivatized the dried samples in each batch prior to injection following a two-stage process of oximation followed by trimethylsilylation (TMS) [1][2]. Briefly, 20 µl of a 20mg/ml methoxyamine hydrochloride in pyridine was added to the dried extracts, vortexed and incubated at 80 °C for 20 min. After returning the samples to room temperature, 91 µl of MSTFA + RI standards were added, vortexed and incubated at 80 °C for 20 min. Samples were then centrifuged at 14,500 rpm for 15 min, and 60 µl of the supernatant was transferred into 250 µl clear glass autosampler vials.
+</p>
+Ref:</br>
+[1] Fiehn O, Kind T. Metabolite profiling in blood plasma. Methods Mol Biol. 2007;358:3-17. doi:10.1007/978-1-59745-244-1_1. PMID:17035677</br>
+[2] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun 30;6(7):1060-83. doi:10.1038/nprot.2011.335. PMID:21720319.</br>"	"Untargeted GC-MS:</br>
+Metabolites extracted from plasma samples were analyzed by using both the GC-qMS (Agilent 5975C MSD coupled to an Agilent 7890A GC) and GC-TOFMS (LECO Pegasus TOF coupled to an Agilent 7890A GC) systems both equipped with an Electron Impact ionization source. For the GC-qMS, Agilent J&W DB-5MS column (30 m x 0.25 mm x 0.25 µm film 95% dimethyl/5% diphenyl polysiloxane) + 10 m Duragard Capillary column was installed and calibrated. Prior to sample analysis, the GC system was locked by performing retention time locking (RTL) of myristic acid d27 at 16.727 min. The samples were injected in splitless mode, with the injection port held at 250 °C. The initial oven temperature was held at 60 °C for 1 min and then ramped at 10 °C/min to 325 °C and held for 10 min. The post run is 1 min to allow the oven cool down to 60 °C.
+</p>
+For the GC-TOFMS system, Agilent HP-5 column (30 m x 0.32 mm id x 0.25 µm film 95% dimethyl/5% diphenyl polysiloxane) was used. 99.9% pure Helium was set at a constant flow of 1.5 ml/min. The oven temperature was held constant at 70 °C for 4 min and then ramped at 20 °C/min to 300 °C at which it was held constant for 5 min.
+</p>
+Targeted GC-SIM-MS:</br>
+Targeted quantification was performed in SIM mode by using the GC-qMS platform. The methods for sample preparation, GC separation, injection, and RI calibration were the same as the untargeted metabolomic analysis by GC-qMS described in previous sections."	"Untargeted GC-MS:</br>
+For GC-qMS data acquired on the Agilent 5975C MSD, the MSD transfer line was held at 290 °C, ion source at 250 °C and the mass analyzer at 150 °C. The data were acquired in 37.5 min with 5.9 min solvent delay at normal scan rate in the mass range 50–600D amu.
+</p>
+For the GC-TOFMS data on the LECO Pegasus TOF, the transfer line temperature between the GC and the MS was set to 225 °C. The ion source temperature was set at 200 °C. After 5 min of solvent delay, filament was turned on and mass spectra were acquired over the range of m/z of 50–600D amu at an acquisition rate of 20 scans/s. The detector was operated in the range of 1400–1600 V with an optimized voltage offset of 200 V. Recording ended after 19.5 min.
+</p>
+Targeted GC-SIM-MS:</br>
+Targeted quantification was performed in SIM mode by using the GC-qMS platform. The methods for sample preparation, GC separation, injection, and RI calibration were the same as the untargeted metabolomic analysis by GC-qMS described in previous sections. The targets for this analysis included analytes that displayed statistically significant differences between cases and controls in our untargeted analysis and other related studies. For each analyte, four ions were selected based on their specificity and intensity, with one used as a quantifier for intensity calculation and others used as qualifiers for confirmation. The fragments were selected based on the uniqueness across co-eluting analytes and their relative intensity compared to the base peak in the spectrum. Time segments are set up to allow at least 10 ms dwell time for each ion monitored."	"Untargeted GC-MS:</br>
+For GC-qMS, .D Agilent files were converted to netCDF format using ChemStation software. For GC-TOFMS, peg LECO files were converted to netCDF format using ChromaTOF software.
+</p>
+Targeted GC-SIM-MS:</br>
+For GC-SIM-MS, .D Agilent files were converted to netCDF format using ChemStation software."	"
+Untargeted GC-MS:</br>
+The GC-TOFMS data were analyzed using the LECO ChromaTOF software. The GC-qMS data were processed by the Automated Mass Spectral Deconvolution and Identification System (AMDIS) [1] for peak detection, deconvolution, and metabolite identification. The results were then imported into Mass Profiler Professional (MPP) for alignment and statistical analysis. In addition, both the GC-TOFMS and GC-qMS data were analyzed by MetaboliteDetector [2], which allows the utilization of RI values for alignment using the RI values calculated for every detected analyte based on RI calibration that were performed for each batch separately. The calculated RI values were also used for narrowing the library search results, thereby reducing the number of false putative identifications. Also, MetaboliteDetector enables us to select the top three fragments based on the quality of their EICs. Putative metabolite identifications were determined based on spectral matching using the Fiehn and NIST libraries. The Fiehn library includes spectra only from TMS compounds. To reduce the false discovery rate in the metabolite identification process using the NIST library, we extracted all compounds acquired by TMS derivatization (around 5,000 compounds with more than 22,000 spectra).
+</p>
+Prior to statistical analysis, raw intensities were log-transformed to make the component intensity distributions more comparable with a normal probability density function. Based on the number of measurements available for each feature across the runs, we used three different steps to evaluate the statistical significance comparing cases and controls. If a peak is found in most of the runs from one group and is missing completely in the other group, it is considered as a potential candidate without any further statistical hypothesis testing. If a peak is present in both groups, but missing in many runs, a logistic regression model is used to find the difference between cases and controls and significance is estimated based on the calculated p-values. The remaining peaks were analyzed by using a two-way ANOVA model. To control the false discovery rate (FDR), we calculated q-values using the Benjamini-Hochberg method. Analytes were selected based on two criteria (consistent mean fold change direction in all batches and q<0.1), i.e., analytes with significant group effect but insignificant batch-group interaction were selected. The mean fold change was calculated for each batch separately based on the cases and controls within the batch. Also the batch-group interaction term was included to avoid overestimation of the error variance as it can increase the number of false negatives.
+</p>
+Targeted GC-SIM-MS:</br>
+We used MetaboliteDetector to find the retention time (RT) values for a subset of the targets with relatively high similarity scores. These RT values were compared against those in the Fiehn library to estimate the difference between expected and observed elution times. Following that, we used an in-house tool to extract the EIC guided by the estimated RT from the previous step. The algorithm uses an RT window centered at the expected elution time of the analyte of interest and searches the neighborhood area for all detected peaks at monitored masses. The quantifier fragment is used to perform the search and all qualifiers peaks are found based on the location of the quantifier peak. Following smoothing of the EICs and baseline correction, the peak width and the area under the curve (AUC) of the EICs are calculated. Finally, a similarity score is calculated based on the expected SIM spectra from the library to verify the identification. Since only four fragments were monitored per analyte in the SIM mode, we used a more restrictive approach to calculate the spectral matching similarity score [3]. Specifically, a mixed measure is used based on two scores: (i) weighted dot product; (ii) average pairwise ratios between fragments. Also, we checked each EIC by visual inspection to avoid identification errors.
+</p>
+Ref:</br>
+[1] Stein SE. An integrated method for spectrum extraction and compound identification from gas chromatography/mass spectrometry data. J Am Soc Mass Spectrom. 1999;10: 770–781.</br>
+[2] Hiller K, Hangebrauk J, Jäger C, Spura J, Schreiber K, Schomburg D. MetaboliteDetector: comprehensive analysis tool for targeted and nontargeted GC/MS based metabolome analysis. Anal Chem. 2009 May 1;81(9):3429-39. doi:10.1021/ac802689c. PMID:19358599</br>
+[3] Stein SE. Estimating probabilities of correct identification from results of mass spectral library searches. J Am Soc Mass Spectrom. 1994 Apr;5(4):316-23. doi:10.1016/1044-0305(94)85022-4. PMID:24222569</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ressom"
+Study Person First Name	"Habtom"
+Study Person Mid Initials	"W"
+Study Person Email	"hwr@georgetown.edu"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Georgetown University"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

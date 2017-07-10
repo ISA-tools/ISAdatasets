@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"EFO"	"OBI"	"OBCS"	"NCIT"	"PTO"	"NCIT"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/OBCS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/PTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"12"	"6"	"146"	"23"	"13"	"44"	"356"	"34"	"96"	"29"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Ontology of Biological and Clinical Statistics"	"National Cancer Institute Thesaurus"	"Plant Trait Ontology"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS52"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS52"
+Study Title	"Profiles of phenolic secondary metabolites in plants of barley (Hordeum vulgare L.)"
+Study Description	"Secondary metabolites are frequently involved in mechanisms of the plant tolerance to environmental stresses. Determining metabolic biomarkers for drought tolerance may be a useful implementation in increasing and stabilizing crop plant productivity. The most accurate and fast tool for this purpose is the ultra-high performance liquid chromatography (UHPLC). It enabled a rapid discrimination between samples from plants grown in different water limitation regimes. Multivariate statistical analysis was applied to handle and interpret the complexity of the generated data. UHPLC raw data was mathematically pre-processed to reduce the effects of instrumental factors. The multivariate analysis of variance was used to find the significant changes in the secondary metabolites composition induced by the drought stress. Tests were performed on 9 varieties of spring barley (Hordeum vulgare L.) originating from Europe, North America and Syria. Drought stress was applied at different developmental stages. The UHPLC results suggest that the changes in metabolite profiles are a stage-specific trait and alter in the life cycle. In addition, there is variability in metabolites selected as significant for the reaction to drought depending on sampling time and variety. In parallel, an ion trap mass spectrometer with an electrospray ion source coupled to a high performance liquid chromatography (HPLC) and UV detector was used for qualitative analysis of phenolic compounds and identification of the potential biomarkers."
+Study Submission Date	"2013-08-05"
+Study Public Release Date	"2014-11-20"
+Study File Name	"s_barley-drought2010.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"drought tolerance"	"multivariate analysis"	"ultra high performance liquid chromatography"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/TO_0000276"	"http://purl.obolibrary.org/obo/OBCS_0000023"	"http://purl.obolibrary.org/obo/CHMO_0000795"	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	"PTO"	"OBCS"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Aneta Sawikowska, Anna Piasecka, Piotr Kachlicki, Paweł Krajewski"
+Study Publication Title	"Profiles of phenolic secondary metabolites in plants of barley (Hordeum vulgare L.)"
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"variety"	"drought treatment"	"time point of drought duration"
+Study Factor Type	"Variety"	"drought environment"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709"	"http://purl.obolibrary.org/obo/EO_0007404"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_barley-drought-2010_metabolite profiling_mass spectrometry.txt"	"a_mtbls52_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Acquity UPLC PDA"	"Bruker Daltonics esquire 3000"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Nine spring barley (Hordeum vulgare L.) genotypes were used in the experiment: European varieties Georgia, Maresi, Lubuski, Sebastian and Stratus, Morex - bred in USA, and Cam/B1/C1…/CL05761 (hereinafter referred to CamB1), Harmal and Maris Dingo/Deir Alla 106 (hereafter referred to as MDingo) being lines bred in Syria. Experiment was conducted in a greenhouse under partially controlled conditions. Plants grew in pots filled with loam-sandy soil. Four water regimes were applied: control (C) and three drought treatments in different developmental stages (S1, S2 and S3) as follows:
+</p>
+C: 12% of soil moisture during all vegetation season;</br>
+S1: first drought treatment: at the 3-lives stage, soil moisture in the pots was decreased to 6%, which was achieved within 48 hours, and maintained during 10 days;</br>
+S2: second drought treatment: decreased soil moisture to 6% started at the stage of the flag leaf and maintained during 14 days;</br>
+S3: combined drought treatment: S1 and S2 variants of drought applied on the same plants.
+</p>
+Leaf samples were harvested from the stressed and control plants in four replicates after 1, 3, 6 and 10 days of drought which is marked as I, II, III, IV moments of drought treatments for S1 and C respectively and V, VI, VII, VIII moments of drought treatments for S2, S3, C respectively. Harvested material was immediately frozen in liquid nitrogen and stored at –80 °C until the metabolite extraction and instrumental analysis."	"All reagents and solvents for extraction and LC-MS analyses (methanol, acetonitrile and ultrapure water HPLC or LC-MS grade) were from Sigma-Aldrich (Poznan, Poland). Standards of flavonoids (apigenin, apigenin-7-O-glucoside, apigenin-6-C-glucoside, apigenin-8-C-glucoside, isorhamnetin, luteolin, luteolin 7-O-glucoside, luteolin 4’-O-glucoside, luteolin-8-C-glucoside, luteolin-6-C-glucoside, kaempferol, kaempferol-3-O-glucoside, kaempferol-7-O-glucoside, quercetin) were purchased from the Extrasynthese (Genay, France).
+</p>
+Weighted samples of frozen leaves (about 100 mg) were placed in Eppendorf tubes with 1.4 ml of 80% methanol and the internal standard solution, homogenized using a ball mill (MM 400, Retsch, Haan, Germany) and subsequently placed in an ultrasonic bath for 30 min and centrifuged (11,000 x g) for 10 min. Apigenin (5 µl of 1 mg/ml solution in dimethylsulfoxide) were used as the internal standards in extracts prepared for the HPLC-MS and UPLC analyses.  Obtained extracts (200 µl) were  filtered through 0.45 µm GHP Acrodisc 13 filter (Waters) and subjected to HPLC-MS. Prior to the UPLC analysis extracts were diluted with 80% methanol (800 µl)."	"UPLC-PDA analysis was performed using the Acquity Ultra Performance Liquid Chromatography system with a photodiode - array detector (Waters, Milford, USA). The studies were carried out on BEH C18 column (2.1 x 150 mm, 1.7 µm particle size) (Waters) at 40 °C with a mobile phase flow rate of 0.4 ml/min with water containing 0.1% formic acid v/v (solvent A) and acetonitrile (B). The elution was conducted with gradient: 0-1.5 min from 2 to 8% B, 1.5-3.5 min to 14% B; 3.5-6 min to 16% B; 6-8 min to 25% B; 8-9.2 min to 98% B, at 10.5 min solvent composition returned to the starting conditions and equilibration of system was achieved at 12 min.  The injection volume was 2 µl. Chromatographic profiles were acquired in the wavelength range 210-450 nm with resolution 2 nm. Data treatment was carried out with Empower 2 Chromatography Data Software.
+</p>
+Identification of secondary metabolites present in the barley leaves was performed using the HPLC-MS system consisting of Agilent 1100 HPLC instrument (Palo Alto, CA, USA) with the XBridge C18 column (150 x 2.1 mm, 3.5 µm particle size). Flow rate was 0.2 ml/min and the gradient: 0-6 min from 8 to 10% B, 6-40 min to 20% B; 40-46 min to 98% B. After 52 min solvent composition returned to starting conditions and equilibration of system was achieved at 65 min."	"Ion trap mass spectrometer (Esquire 3000, Bruker, Germany) with electrospray ionization coupled to a high performance liquid chromatography (HPLC) and UV detector (Agilent 1100) HPLC/PDA-ESI/MSn was used for the qualitative analysis of phenolic compounds in negative and positive mode. The spectra were acquired in the range of 50-3000 m/z. The spectrometer was controlled by software Esquire Software version 5, and data were analyzed using software DataAnalysis version 5 in the package supplied by Bruker."	"The chromatographic UPLC-UV data concerning all drought variants submitted for joint analysis were in the form of (retention time x wavelength x sample) table, with 10 801 retention times, 2 wavelengths, and 547 samples. They were processed using our own R-scripts in the following way:
+</p>
+a) Normalization: the raw data were normalized by mass of samples, which means that every single chromatogram value was divided by the mass of the appropriate extracted leaf sample.</br>
+b) Baseline removal: chromatographic baselines need to be removed since they can negatively affect the alignment and ultimately the results of the data analysis. Therefore baselines were removed using the numerical differentiation without their explicit estimation.</br>
+c) Retention time alignment: the correlation optimized warping (COW) was chosen for this purpose. This method operates on the entire chromatograms prior to the peak detection (see point d); it aligns profiles by matching their shapes and compressing or expanding time intervals, whereas the peak height and area are generally unaffected.</br>
+d) Peak detection: peaks are here interpreted as the retention time intervals in which some kind of metabolite or a group of metabolites with similar chromatographic properties occurs. Peaks within individual chromatograms were detected using profiles of the second derivative; since the second derivative is usually characterized by a high noise, it was smoothed by a cubic smoothing spline. The inflection points were located to find boundaries for the individual peaks and peaks common for several (or all) chromatograms were built. Such defined peaks are not equivalent to chromatographic peaks present in different individual chromatograms as sometimes they cover several peaks (usually with small intensity).</br>"	"The individual compounds were identified by comparison of mass spectra and retention times to these of standard compounds and literature data. Several compounds were isolated from barley leaves on a preparative scale and purified using the flash chromatography on a polyamide column followed by preparative HPLC on reversed phase C18 column. Structures of the purified compounds were established using 1H, 13C, COSY, NOESY, HMBC, HSQC NMR spectra."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type;Guard column;Detector;Signal range;Resolution;Detector;Signal range;Resolution"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;;;;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;;;;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sawikowska"	"Piasecka"	"Kachlicki"	"Krajewski"
+Study Person First Name	"Aneta"	"Anna"	"Piotr"	"Paweł"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"asaw@igr.poznan.pl"	"akar@igr.poznan.pl"	"pkac@igr.poznan.pl"	"pkra@igr.poznan.pl"
+Study Person Phone	"(+48 61) 65 50 223"	"(+48 61) 65 50 254"	"(+48 61) 65 50 264"	"(+48 61) 65 50 238"
+Study Person Fax	"(+48 61) 65 50 301"	"(+48 61) 65 50 301"	"(+48 61) 65 50 301"	"(+48 61) 65 50 301"
+Study Person Address	"Institute of Plant Genetics 
+Department of Biometry and Bioinformatics
+ul. Strzeszynska 34
+60-479 Poznan"	"Institute of Plant Genetics
+Department of Pathogen Genetics and Plant Resistance
+Metabolomics Team
+ul. Strzeszynska 34
+60-479 Poznan"	"Institute of Plant Genetics
+Department of Pathogen Genetics and Plant Resistance
+Metabolomics Team
+ul. Strzeszynska 34
+60-479 Poznan"	"Institute of Plant Genetics
+ Department of Biometry and Bioinformatics
+ul. Strzeszynska 34
+60-479 Poznan"
+Study Person Affiliation	"Institute of Plant Genetics Polish Academy of Science"	"Institute of Plant Genetics Polish Academy of Science"	"Institute of Plant Genetics Polish Academy of Science"	"nstitute of Plant Genetics Polish Academy of Science"
+Study Person Roles	"doctor"	"doctor"	"associate professor"	"professor"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

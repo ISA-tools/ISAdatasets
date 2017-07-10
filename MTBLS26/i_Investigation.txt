@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"CSEO"	"NCBITAXON"	"BTO"	"CHMO"	"NCIT"	"MESH"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"103"	"22"	"2"	"4"	"26"	"16"	"40"	"9"	"113"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Cigarette Smoke Exposure Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS26"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS26"
+Study Title	"Lipidomic analysis of lipid droplets from murine hepatocytes reveals distinct signatures for nutritional stress."
+Study Description	"Liver steatosis can be induced by fasting or high-fat diet. We investigated by lipidomic analysis whether such metabolic states are reflected in the lipidome of hepatocyte lipid droplets (LDs) from mice fed normal chow diet (FED), fasted (FAS), or fed a high-fat diet (HFD). LC-MS/MS at levels of lipid species profiles and of lipid molecular species uncovered a FAS phenotype of LD enriched in triacylglycerol (TG) molecular species with very long-chain (VLC)-PUFA residues and an HFD phenotype with less unsaturated TG species in addition to characteristic lipid marker species. Nutritional stress did not result in dramatic structural alterations in diacylglycerol (DG) and phospholipid (PL) classes. Moreover, molecular species of bulk TG and of DG indicated concomitant de novo TG synthesis and lipase-catalyzed degradation to be active in LDs. DG species with VLC-PUFA residues would be preferred precursors for phosphatidylcholine (PC) species, the others for TG molecular species. In addition, molecular species of PL classes fitted the hepatocyte Kennedy and phosphatidylethanolamine methyltransferase pathways. We demonstrate that lipidomic analysis of LDs enables phenotyping of nutritional stress. TG species are best suited for such phenotyping, whereas structural analysis of TG, DG, and PL molecular species provides metabolic insights."
+Study Submission Date	"2012-11-14"
+Study Public Release Date	"2014-08-19"
+Study File Name	"s_HFD.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"tandem mass spectrometry"	"Lipid Droplets"	"untargeted mwetabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"Diet, High-Fat"	"fasting"	"Steatosis"	"Principal Component Analysis"
+Study Design Type Term Accession Number	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.bioontology.org/ontology/MESH/D066292"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.bioontology.org/ontology/MESH/D059305"	"http://www.ebi.ac.uk/efo/EFO_0002756"	""	""
+Study Design Type Term Source REF	"CSEO"	"CHMO"	"MESH"	""	"CHMO"	"MESH"	"EFO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"22872753"
+Study Publication DOI	"http://dx.doi.org/10.1194/jlr.M028902"
+Study Publication Author List	"Chitraju C, Trötzmüller M, Hartler J, Wolinski H, Thallinger GG, Lass A, Zechner R, Zimmermann R, Köfeler HC, Spener F"
+Study Publication Title	"Lipidomic analysis of lipid droplets from murine hepatocytes reveals distinct signatures for nutritional stress"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Nutritional status"	"Genotype"
+Study Factor Type	"Nutritional Status"	"genotype"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17993"	"http://www.ebi.ac.uk/efo/EFO_0000513"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls26_PLpos_metabolite profiling_mass spectrometry.txt"	"a_mtbls26_PLneg_metabolite profiling_mass spectrometry.txt"	"a_mtbls26_TG_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0001478"	"http://purl.obolibrary.org/obo/OBI_0001478"	"http://purl.obolibrary.org/obo/OBI_0001478"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ-FT"	"LTQ-FT"	"LTQ-FT"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Analysis"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Analysis"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Wild-type male C57BL/6 mice (Jackson Laboratory; Bar Harbor, ME) aged 12 weeks were used in this study. Mice were maintained on a regular light (14 h)/dark(10 h) cycle and fed a standard laboratory chow diet (FED group) or high-fat diet (HFD group) containing 4.5 or 34 wt% fat in the diet, respectively. The third group of mice was fed a chow diet, but were fasted 14 h prior to euthanasia (FAS group). Starting with 6-week-old animals, the intervention trial was carried out two times under identical conditions. In each of the three groups, three animals were kept for 6 weeks in one cage per group with ad libitum access to food and water. During the intervention period, mice weights were monitored regularly. At the end of the 6 weeks feeding period, animals were euthanized at 8 AM under anesthesia with Narkodorm (60 µl/100 g weight) and the abdomen was surgically opened. Primary hepatocytes from livers were isolated as described previouly [1] with modifications. Prior to liver perfusion, buffers and collagenase type II solution (20 mg collagenase type II in 100 ml Krebs-Henseleit buffer without SO4(2-) but containing 0.1 mM CaCl2, 2% BSA) were brought to 37 °C. Each liver was perfused via the hepatic portal vein with Krebs-Henseleit buffer without Ca2+ and SO4(2-) (115 mM NaCl, 25 mM NaHCO3, 5.9 mM KCl, 1.18 mM MgCl2, 1.23 mM NaH2PO4, 6 mM glucose) for 10 min, followed by perfusion with collagenase type II solution. Thereafter, liver was carefully removed and transferred into a Petri dish filled with 5 ml collagenase type II solution, cut into small pieces, and pressed through a household sieve that was finally flushed with ice-cold Krebs-Henseleit buffer containing 1.2 mM Na2SO4 and 1.25 mM CaCl2. The cell suspension obtained was filtrated through a cell strainer (70 µm nylon filter) into a 50 ml Greiner tube. Approximately 20 ml ice-cold DMEM was added to the filtrated cell suspension, which was subsequently centrifuged at 50 x g in a Beckman CS-6R rotor for 3 min at 4 °C. Supernatant containing nonparenchymal cells was aspirated, and the remaining hepatocyte pellet was washed by resuspension of the cell pellet in 20 ml ice-cold Krebs-Henseleit buffer containing 1.2 mM Na2SO4 and 1.25 mM CaCl2 and centrifuged again under the same conditions as were applied before. Hepatocytes obtained in this manner were stored at 80 °C until isolation of LDs.
+</p>
+Ref:</br>
+[1] Riccalton-Banks L, Bhandari R, Fry J, Shakesheff KM. A simple method for the simultaneous isolation of stellate cells and hepatocytes from rat liver tissue. Mol Cell Biochem. 2003 Jun;248(1-2):97-102. PMID: 12870660</br>"	"Samples of hepatocytes isolated from individual mice were resuspended in disruption buffer (20 mM potassium phosphate, pH 7.4, 250 mM sucrose, 1 mM EDTA, 1 mM PMSF) and kept for 15 min on ice. The cells were lysed by nitrogen cavitation at 800 psi for 10 min using nitrogen bomb, and the resulting homogenate was transferred to a 50 ml Greiner tube and centrifuged at 1,000 x g (Beckman CS-6R rotor) for 5 min at 4 °C to remove cell debris. The supernatant obtained was transferred to a SW41 ultracentrifuge tube and overlaid with buffer containing 50 mM potassium phosphate, pH 7.4, 100 mM KCl, 1 mM EDTA, and 1 mM PMSF. The centrifugation was carried out at 100,000 x g in a Beckman ultracentrifuge (SW41 rotor, Beckman Coulter; Brea, CA) for 1 h at 4 °C; LDs were floated in a white band at the top of the tube. Floating LDs were collected into another SW41 tube, overlaid with the same buffer, and centrifuged at the same speed in the Beckman ultracentrifuge (SW41 rotor) for 1 h at 4 °C to avoid cytosol contamination. Refloating LDs were collected and used in all further experiments. LDs isolated from hepatocytes were measured individually (6 each for FED, FAS, and HFD group) according to the hyphenated approach described previously [1]. In brief, samples were spiked with 40 nmol TG 17:0/17:0/17:0 and 400 pmol PC 12:0/12:0 as internal standards, and lipids were extracted with methyl tert-butyl ether as described previously [2]. Lipid extracts were resuspended in 200 µl CHCl3/MeOH 1:1, and a mix of 45 LIPID MAPS internal standards was added.
+</p>
+Ref:</br>
+[1] Fauland A, Köfeler H, Trötzmüller M, Knopf A, Hartler J, Eberl A, Chitraju C, Lankmayr E, Spener F. A comprehensive method for lipid profiling by liquid chromatography-ion cyclotron resonance mass spectrometry. J Lipid Res. 2011 Dec;52(12):2314-22. PMID: 21960706</br>
+[2] Matyash V, Liebisch G, Kurzchalia TV, Shevchenko A, Schwudke D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res. 2008 May;49(5):1137-46. PMID: 18281723</br>"	"Spiked samples of volume 5 µl were injected onto a 100 x 1 mm Hypersil GOLD 1.9 µm C18 HPLC column (Thermo Scientific) mounted in an Accela HPLC instrument (Thermo Scientific). Solvent A was water with 1% ammonium acetate and 0.1% formic acid, solvent B was acetonitrile/2-propanol 5:2 (v/v) with 1% ammonium acetate and 0.1% formic acid. The gradient ran from 35% to 70% B in 4 min, then to 100% B in another 16 min, and was held there for further 10 min. The flow rate was 250 µl/min."	"Data acquisition was performed by Fourier Transform-Ion Cyclotron Resonance (FT-ICR-MS) (Linear Trap Quadrupole-Fourier Transform, LTQ-FT; Thermo Scientific) full scans at a resolution of 200,000 and <2 ppm mass accuracy with external calibration. Spray voltage was set to 5,000 V in positive mode and to -4,500 V in negative mode, capillary voltage to 35 V, and the tube lens was at 120 V. Capillary temperature was set to 250 °C. From the FT-ICR-MS preview scan, the four most-abundant m/z values were picked in data-dependent acquisition mode, fragmented in the linear ion trap, and ejected at nominal mass resolution. Normalized collision energy was set to 35%, repeat count was two, and exclusion duration was 60 s."	"Quantitative analysis of data acquired by the platform described above was carried out by the software package Lipid Data Analyzer (LDA) [1]. Lipid species are presented in ‰ of total amount of respective lipid class where appropriate for better comparisons. The total amount (1,000‰) was calculated by summing up the quantitative amounts of each lipid species belonging to this lipid class as determined by LS-MS/MS.
+</p>
+Ref:</br>
+[1] Hartler J, Trötzmüller M, Chitraju C, Spener F, Köfeler HC, Thallinger GG. Lipid Data Analyzer: unattended identification and quantitation of lipids in LC-MS data. Bioinformatics. 2011 Feb 15;27(4):572-7. PMID: 21169379</br>"	"Constituent FA of phosphatidylserine (PS), PE, PC, DG, and TG species were analyzed in positive MS/MS spectra by respective FA neutral losses. FA composition of lysophosphatidylcholines (LPCs) and sphingomyelins (SMs) was obvious by elemental composition derived from high-resolution MS data and by lipid class-specific fragments (m/z 184). FA composition for phosphatidylinositol (PI) molecular species was elucidated by their carboxylate anions in negative MS/MS spectra. The most abundant FA fragment or neutral loss in an MS/MS spectrum was normalized to 100% (base peak). Fragments indicative for FA with less than 25% intensity of the base peak were termed minor FA fragments and all others were termed major FA fragments. For better manageability, particularly of isobaric species, possible combinations predominantly composed of major fragments were considered major molecular species, and possible combinations predominantly composed of minor fragments were considered minor molecular species. On the one hand quantitative mass spectrometric data for each lipid species are given in ‰ (or %) relative to total amount of a lipid class and pertain to 1st and 2nd intervention trials, consequently they are means ± SD of 6 animals. Total lipid class amounts were calculated as sum from individual lipid species; the standard deviation of the lipid class is a result of the individual standard deviations of each species determined by the law of error propagation."	"Independent two-sample t-test for equal sample sizes and equal variance was used to assess statistical significance of the observed changes at a level of P < 0.05. This type of calculation was chosen, because it illustrates relative changes in the lipid profile between different statistical groups very well. On the other hand mass spectrometric data for each lipid species in nmol (or µmol) per LD sample are presented as means ± SD (n = 3). These additional values pertain to the second intervention trial and were calculated by LDA based on sets of internal standards for each lipid class as described previously [1][2]. For better comparability, data were normalized to the amount of acylglycerols measured by the TG Kit referred to previously in this section. Principal component analysis (PCA) based on ‰ data (n = 6) was performed in R using the function prcomp with default parameters.
+</p>
+Ref:</br>
+[1] Fauland A, Köfeler H, Trötzmüller M, Knopf A, Hartler J, Eberl A, Chitraju C, Lankmayr E, Spener F. A comprehensive method for lipid profiling by liquid chromatography-ion cyclotron resonance mass spectrometry. J Lipid Res. 2011 Dec;52(12):2314-22. PMID: 21960706</br>
+[2] Hartler J, Trötzmüller M, Chitraju C, Spener F, Köfeler HC, Thallinger GG. Lipid Data Analyzer: unattended identification and quantitation of lipids in LC-MS data. Bioinformatics. 2011 Feb 15;27(4):572-7. PMID: 21169379</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Köfeler"	"Spener"
+Study Person First Name	"Harald"	"Friedrich"
+Study Person Mid Initials	"C"	""
+Study Person Email	"harald.koefeler@medunigraz.at"	"fritz.spener@uni-graz.at"
+Study Person Phone	"+43 (316) 385-73005"	"+43 (316) 380-5501"
+Study Person Fax	"+43 (316) 385-73009"	""
+Study Person Address	"Stiftingtalstrasse 24, 8010 Graz, Austria"	"Heinrichstrasse 31, 8010 Graz, Austria"
+Study Person Affiliation	"Medizinische Universität Graz"	"Karl-Franzens Universität Graz"
+Study Person Roles	"Lipidomic analysis"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

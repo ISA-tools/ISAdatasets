@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"UO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"42"	"44"	"22"	"99"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS103"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS103"
+Study Title	"Metabolomics reveals impaired maturation of HDL particles in adolescents with hyperinsulinaemic androgen excess"
+Study Description	"Hyperinsulinaemic androgen excess (HIAE) in prepubertal and pubertal girls usually precedes a broader pathological phenotype in adulthood that is associated with anovulatory infertility, metabolic syndrome and type 2 diabetes. The metabolic derangements that determine these long-term health risks remain to be clarified. Here we use NMR and MS-based metabolomics to show that serum levels of methionine sulfoxide in HIAE girls are an indicator of the degree of oxidation of methionine-148 residue in apolipoprotein-A1. Oxidation of apo-A1 in methionine-148, in turn, leads to an impaired maturation of high-density lipoproteins (HDL) that is reflected in a decline of large HDL particles. Notably, such metabolic alterations occur in the absence of impaired glucose tolerance, hyperglycemia and hypertriglyceridemia, and were partially restored after 18 months of treatment with a low-dose combination of pioglitazone, metformin and flutamide."
+Study Submission Date	"2014-08-01"
+Study Public Release Date	"2015-04-09"
+Study File Name	"s_Ibanez_02.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolomics"	"targeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"nuclear magnetic resonance spectroscopy"	"predictive markers"	"Type 2 Diabetes Mellitus"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26747"
+Study Design Type Term Source REF	""	""	"CHMO"	"CHMO"	""	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"26099471"
+Study Publication DOI	"10.1038/srep11496"
+Study Publication Author List	"Samino S, Vinaixa M, Díaz M, Beltran A, Rodríguez MA, Mallol R, Heras M, Cabre A, Garcia L, Canela N, de Zegher F, Correig X, Ibáñez L, Yanes O."
+Study Publication Title	"Metabolomics reveals impaired maturation of HDL particles in adolescents with hyperinsulinaemic androgen excess."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"HIAE"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_ibanez_02_NMR_spectroscopy.txt"	"a_ibanez_02_RP_LC_mass_spectrometry.txt"	"a_ibanez_02_HILIC_mass_spectrometry.txt"	"a_ibanez_02_QqQ_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"UHPLC system (1290 Agilent)"	"UHPLC system (1290 Agilent)"	"6490 Triple Quadrupole LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""	""	""
+Study Protocol Description	"The study population consisted of 12 non-obese adolescents (age, 16.3±0.4 yr; BMI, 22.8±0.5 kg/m2) diagnosed with HIAE and 14 age-, weight- and ethnicity-matched healthy controls.
+</p>
+Untargeted metabolomic analyses on serum samples of HIAE and control patients were performed using two analytical platforms: 1H-NMR and LC-ESI-QTOF. Each serum sample was split into two aliquots and run in parallel using the two analytical platforms."	"The second aliquot was used for LC-MS analysis. 30 µl of serum sample was mixed with 120 µl of cold ACN/H2O (1:1) with 1% meta-phosphoric acid (MPA) and 0.1% formic acid (previously filtered). Samples were vortexed vigorously for 30 s and stored at –20 °C for 2 hr to enable protein precipitation. Subsequently, samples were centrifuged 15 min at 4 °C and 22600 RCF and the supernatant was transferred to a LC-MS vial."	"For the NMR measurement 250 µl of serum were mixed with 250 µl of phosphate buffer (0.75 mM Na2HPO4 adjusted at pH 7.4, and 20% D2O to provide the field frequency lock). The final solution was transferred to a 5 mm NMR tube and kept refrigerated at 4 °C in the autosampler until the analysis."	"1H-NMR spectra were recorded at 310 K on a Bruker Avance III 600 spectrometer operating at a proton frequency of 600.20 MHz using a 5 mm CPTCI triple resonance (1H, 13C, 31P)."	"Two different 1H-NMR pulse experiments were performed for each sample: 1) Nuclear Overhauser Effect Spectroscopy (NOESY)-presaturation sequence to suppress the residual water peak; and 2) Carr-Purcell-Meiboom-Gill sequence (CPMG, spin-spin T2 relaxation filter) with a total time filter of 410 ms to attenuate the signals of serum macro-molecules to a residual level; 20 ppm spectral width and a total of 64 transients collected into 64 k data points."	"Samples were injected in a UHPLC system (1290 Agilent) coupled to a quadrupole time of flight (QTOF) mass spectrometer (6550 Agilent Technologies) operated in positive electrospray ionization (ESI+) mode. Metabolites were separated using either C18-RP (ACQUITY UPLC HSS T3 1.8 µm, Waters) or HILIC (ACQUITY UPLC BEH 1.7 µm, Waters) chromatography at a flow rate of 0.4 ml/min. The solvent system in C18-RP was A=0.1% formic in water, and B=0.1% formic in acetonitrile. The linear gradient elution started at 100% A (time 0-3 min) and finished at 100% B (20–21 min). The solvent system in HILIC was A=50mM NH4OAc in water, and B=ACN. The linear gradient elution started at 95% B (time 0–2 min) and finished at 55% B (6 min). "	"The injection volume was 2 µl. ESI conditions were gas temperature, 225 °C; drying gas, 13 l/min; nebulizer, 20 psig; fragmentor, 125 V; and skimmer, 65 V. The instrument was set to acquire over the m/z range 80-1200 with an acquisition rate of 4 spectra/s. Quality control samples (QC) consisting of pooled serum samples of all patients were used. QC samples were injected before the first study sample and then periodically after five-study samples. Furthermore, real samples were randomized to reduce systematic error associated with instrumental drift. MS/MS was performed in targeted mode, and the instrument was set to acquire over the m/z range 50-1000, with a default iso width (the width half-maximum of the quadrupole mass bandpass used during MS/MS precursor isolation) of 4 m/z. The collision energy was fixed at 20 V. With the exception of glutamyl taurine and glutamyl glycine, all metabolites were identified conforming to Level 1 as specified by the Metabolomics Standards Initiative[1], that is, by comparison with accurate mass, retention time and MS/MS data of chemical standards analysed in our laboratory with the same analytical platform and method. Glutamyl taurine and glutamyl glycine conform Level 2 (i.e., putatively annotated compound) since we did not find the chemical standards. Still, their experimental MS/MS spectra coincide with the expected fragmentation pattern of these dipeptides.
+</p>
+Targeted metabolomics:</br>
+Relevant metabolites were measured again using an UHPLC system (1290 Agilent) coupled to a triple quadrupole (QqQ) MS (6490 Agilent Technologies) operated in multiple reaction monitoring (MRM) and positive electrospray ionization (ESI+) mode. MRM transitions were: methionine (150->56, 61), methionine sulfoxide (166->56, 74), taurine (126->41, 85), glutamate (148->56, 84), cysteine-glycine (179->59, 116), glutathione (308->76, 162), glutathione disulfide (613->355, 484), glutamate-glutamate (277->84, 130), glutamate-cysteine (251->84, 122), 5-oxoproline (130->56, 84).
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"	"The acquired CPMG NMR spectra were phased, baseline corrected and referenced to the chemical shift of the a-glucose anomeric proton doublet at 5.23 ppm.
+</p>
+LC-MS (RP-C18 and HILIC ESI+ mode) data were processed using the XCMS software[1] (version 1.38.0) to detect and align features. A feature is defined as a molecular entity with a unique m/z and a specific retention time.
+</p>
+Ref:</br>
+[1] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. doi:10.1021/ac051437y. PMID:16448051</br>"	"For the NMR data, pure compound references in Bioref AMIX (Bruker), HMDB and Chenomx databases were used for metabolite identification. After baseline correction, intensities of each 1H-NMR regions identified in the CPMG 1D-NMR spectra were integrated for each sample entering the study using the AMIX 3.8 software package (Bruker, GmBH).
+</p>
+For the MS data, XCMS analysis of these data provided a matrix containing the retention time, m/z value, and integrated peak area of greater than 38.000 features after the analytical variability had been corrected[1]. Only the integrated areas of those metabolite features above 5,000 spectral counts in at least one of the two groups were considered for quantification. The tab-separated text files containing LC-MS data were imported into Rstudio (version 3.0.2) where QC samples were used to filter analytical variation as previously described[1]. Univariate statistical analysis was performed using robust statistics (Yuen-Welch’s t-test). Differentially regulated metabolites (fold>1.5) that passed our statistical criteria (p-value<0.01) were characterized by LC-qTOF MS/MS and identified using the Metlin database and pure standards purchased on our lab. Regression models and multivariate data analysis were performed using Rstudio software version 3.0.2.
+</p>
+Ref:</br>
+[1] Vinaixa M, Samino S, Saez I, Duran J, Guinovart JJ, Yanes O. A Guideline to Univariate Statistical Analysis for LC/MS-Based Untargeted Metabolomics-Derived Data. Metabolites. 2012 Oct 18;2(4):775-95. doi: 10.3390/metabo2040775. PMID:24957762</br>"
+Study Protocol URI	""	""	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Samino"	"Yanes"
+Study Person First Name	"Sara"	"Oscar"
+Study Person Mid Initials	"SSG"	"OY"
+Study Person Email	"sara.samino@urv.cat"	"oscar.yanes@urv.cat"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"CIBERDEM"	"CIBERDEM"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

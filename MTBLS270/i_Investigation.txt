@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"SWEET"	"MS"	"BTO"	"CHMO"	"NCIT"	"UO"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/SWEET"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"1"	"86"	"26"	"16"	"40"	"42"	"80"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Semantic Web for Earth and Environment Technology Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS270"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS270"
+Study Title	"A new method for quantitative determination of bitter components of Belgian endive, with a focus on sesquiterpene oxalates."
+Study Description	"The sesquiterpene lactones typical of the genera Cichorium and Lactuca were historically thought to be present in the free and glycosylated form, but recent developments have highlighted the presence of highly unusual oxalyl esters. In this work, first a liquid chromatography method that requires minimal sample preparation and can measure both free and conjugated sesquiterpene lactones was developed. Then the most common sample preparation techniques used in the past studies (e.g., solid-phase extraction, liquid/liquid extraction) were evaluated and shown to introduce significant bias against the polar oxalyl-terpenes. Finally the method was applied to a case study, highlighting the effect of variety, duration and temperature of forcing on the sesquiterpene lactone content of Belgian endive."
+Study Submission Date	"2015-10-29"
+Study Public Release Date	"2016-01-04"
+Study File Name	"s_Belgian endive.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Horticulture"	"sesquiterpene"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://sweet.jpl.nasa.gov/2.3/humanAgriculture.owl#Horticulture"	"http://purl.obolibrary.org/obo/CHEBI_35189"	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	"SWEET"	"CHEBI"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Carlo Annaratone , Ans De Roeck , Maarten L. A. T. M. Hertog, Bart M. Nicolaï"
+Study Publication Title	"A new method for quantitative determination of bitter components of Belgian endive, with a focus on sesquiterpene oxalates."
+Study Publication Status	"in preparation"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Variety"	"Temperature of forcing"	"Duration of forcing"
+Study Factor Type	"Variety"	"temperature"	"duration"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709"	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://www.ebi.ac.uk/efo/EFO_0000433"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_belgian_endive_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"QTof Micro (Micromass)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Belgian endive was field-grown and forced at the experimental station Inagro vzw (Rumbeke-Beitem, Belgium). Three varieties were used in this study: Takine, Symphonie, and Vintor. Roots were harvested on 19/11/2013, and subsequently forced following an experimental design including three forcing temperatures (11, 16, and 21 ˚C) and three forcing periods (14, 21, and 28 d). The combinations of 14 d at 11 ˚C and 28 d at 21 ˚C were not implemented as they would not produce chicons fit for consumption. Forcing started on 27/5/2014 (for 28 days of forcing), 3/6/2014 (21 days) or 10/6/2014 (14 days). All chicons were harvested on 24/6/2014 and kept refrigerated at 4 ˚C. During the two following days, ten chicons were randomly chosen per condition for sampling. After removing the two external leaves, the remaining leaves were separated from the pit with a knife, immediately frozen in liquid nitrogen and ground to a fine powder in a CryoMill grindomixer MM200 (Retsch, Germany). Samples were kept in dry ice for transport to the lab, and stored subsequently at  80 °C until analysis."	"For each sample (commercial), 300 mg of crushed frozen leaves was weighed in a 2 ml Eppendorf tube, to which 1.4 ml of extraction solvent was added. Extraction solvent was prepared by adding 1 ml of formic acid and 100 µl of acetonitrile containing 20 mg/ml of α-santonin to 1 l of HPLC water. Extraction was performed under continuous shaking at 30 °C for 15 min in a Thermomixer (Eppendorf brand, VWR, Belgium), followed by centrifugation at 2000 x g at 4 °C for another 15 min. Exactly 1 ml of the supernatant was filtered through a 13 mm x 0.2 µm PTFE disc filter in a glass vial and injected in the HPLC-MS."	"High performance liquid chromatography-mass spectrometry (HPLC-MS) separation was performed using a modified Alliance 2695 system (Waters, Belgium). The following modifications were applied: a) all the internal tubing was replaced with custom cut, burr-free electropolished stainless steel tubes of 0.254 mm I.D. (Valco Vici, Schenkon, Switzerland) with the only exception being the tube leading to the primary pump head from the gradient valve (0.508 mm I.D.), b) the eluent filter placed after the pumps was removed, c) the original sample loop was replaced with a 30 µl PEEK-lined stainless steel tubing (IDEX Health & Science, Germany), d) a 25 µl syringe (Hamilton, Switzerland) was installed, and e) a 100 µm I.D. PEEK tubing was placed between injector and column, and between column and detector.
+</p>
+A  Kinetex C18 (2.1 mm I.D. x 150 mm length x 5 µm particle diameter, core shell silica) column, coupled to an adequate precolumn of the same diameter and stationary phase, were used in this study (Phenomenex, the Netherlands). The column oven was kept at 40 °C and injection volume was 5 µl. The HPLC was run in gradient mode according to the following table:
+</p>
+from 0 to 15 min: linear gradient from 5 to 53% B, 0.2 ul/min</br>
+from 15 to 19 minutes: isocratic 100% B, 0.5 ul/min</br>
+from 19 to 23 min: isocratic 5% B, 0.5 ul/min
+</p>
+solvent A: water + 0.1% formic acid
+solvent B: acetonitrile"	"A Micromass QTof Micro (Waters, Belgium) directly connected to the column outlet was used as the MS detector. The optimized values for the positive mode were as follows: capillary voltage: 3100 V, sample cone: 24 V, extraction cone 1 V, desolvation temperature: 450 ˚C, desolvation flow: 600 l/h, no cone flow, source temperature: 110 ˚C, collision energy: 3 V.  Acquisition parameters were: scan time: 0.4 s, inter-scan time: 0.1 s, reference scan (leu-enkephalin): 60 s, centroid mode, centroid threshold: 1, minimum point: 5. Integration was performed over EICs with a window of 0.02 Da around the target ion. The mass spectrometer was tuned to a resolution of 5500. Its performance was monitored daily by calibrating with a solution of sodium formate prepared according to the manufacturer’s specifications, and ensuring that the residuals of the polynomial calibration were under 5 mDa. Deadtime correction (Np factor) was calculated separately for positive and negative mode by injecting increasing concentrations of leu-enkephalin and empirically measuring the correct value."	"Mass-locked data was acquired with MassLynx 4.1 and the raw files converted with DataBridge (part of the MassLynx suite)."	"The analytes were quantified by integrating in MassLynx and reporting their raw area. The peaks specified in the metabolite identification table are those used for quantification (either [M+H]+ or [M+Na]+).
+</p>
+Lactucin was identified on the basis of an authentic standard. Lactucin oxalate and lactucopicrin oxalate were identified based on the data of Sessa et al. [1]. Other sesquiterpenes were identified on the basis of accurate mass, isotope pattern, and mass spectra similarity to those described in literature (including regular series of neutral losses).
+</p>
+Ref:</br>
+[1] Sessa, R. A.; Bennett, M. H.; Lewis, M. J.; Mansfield, J. W.; Beale, M. H. Metabolite profiling of sesquiterpene lactones from Lactuca species. Major latex components are novel oxalate and sulfate conjugates of lactucin and its derivatives. J. Biol. Chem. 2000, 275 (35), 26877–26884. PMID:10858433</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Annaratone"	"Hertog"	"Bart"	"De Roeck"
+Study Person First Name	"Carlo"	"Maarten"	"Nicolai"	"Ans"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"carlo.annaratone@gmail.com"	"maarten.hertog@biw.kuleuven.be"	"bart.nicolai@biw.kuleuven.be"	"ans.deroeck@biw.kuleuven.be"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"KULeuven"	"KULeuven"	""	""
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"BAO"	"EFO"	"CHMO"	"OBI"	"NCIT"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"3"	"24"	"26"	"113"	"5"	"22"	"34"	"86"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"BioAssay Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS85"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS85"
+Study Title	"High-throughput carotenoid profiling using multivariate curve resolution (Stability of isoprenoids in grape extract)"
+Study Description	"We present automated data analysis of high throughput high-performance liquid chromatography with diode array detection (HPLC-DAD) data using multivariate curve resolution. This technique provides spectra and elution profiles of all UV-Vis active compounds present in the mixture. The specifics of using this method in noninteractive fashion are discussed. A case study on the stability of isoprenoids in grape extracts under two different experimental regimes serves to illustrate the potential of the method: quantitative results clearly show that the addition of triethylamine is beneficial in that carotenoid, chlorophyll, and tocopherol compounds are much more stable and in this way can be kept up to at least 30 days without any sign of degradation."
+Study Submission Date	"2014-06-09"
+Study Public Release Date	"2014-07-01"
+Study File Name	"s_TEAnoTEA.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"isoprenoid"	"Multivariate Curve Resolution"	"diode array detector"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_24913"	""	"http://purl.obolibrary.org/obo/CHMO_0002503"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"CHEBI"	""	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s00216-012-6555-9 "
+Study Publication Author List	"Ron Wehrens, Elisabete Carvalho, Domenico Masuero, Anna de Juan and Stefan Martens"
+Study Publication Title	"High-throughput carotenoid profiling using multivariate curve resolution"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Addition of TEA"	"Storage"
+Study Factor Type	"Yes or No Response"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_teanotea_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0001478"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"TSQ Quantum Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"10 ± 0.1 g of Vitis Vinifera L cv. Sangiovese grapes (2009 harvest, Tuscany, Italy) were weighed from a representative sample (~1 kg) of healthy grapes at technological maturity and stored at -80 °C after homogenisation under liquid nitrogen. Technological maturity was defined via measurements of total soluble solids (23.6° Brix) and titratable acidity (as tartaric acid, 4.7 g/l) in the Sangiovese grapes juice [1].
+</p>
+Ref:</br>
+[1] Georgios Theodoridis, Helen Gika, Pietro Franceschi, Lorenzo Caputi, Panagiotis Arapitsas, Mattias Scholz, Domenico Masuero, Ron Wehrens, Urska Vrhovsek and Fulvio Mattivi. LC-MS based global metabolite profiling of grapes: solvent extraction protocol optimisation. Metabolomics April 2012, Volume 8, Issue 2, pp 175-185. doi:10.1007/s11306-011-0298-z</br>"	"1 g of frozen homogenized grape was extracted with 2 ml of a mix of methanol, chloroform, and water, in a ratio of 2:2:1. After vortexing and shaking for 15 min, samples were centrifuged to help in phase separation. The chloroform fraction of 24 different grape varieties, of which about half were white and half red types, was collected and pooled. Two different pooled grape sets were prepared, each pool containing different grape varieties. For the first experimental set, “No TEA,” the pooled fraction was divided into 500 µl aliquots, dried using centrifugal evaporation at room temperature, and stored at -20 °C. For the second experimental set, “TEA,” 0.1% of triethylamine was added to the pooled fraction, which was then divided into aliquots and dried as before. The dry TEA samples were stored at -80 °C. In the experimental set with TEA as an internal standard, trans beta-Apo-8’-carotenal, was added to the pooled extract before aliquoting. Before injection, samples were resuspended in 50 µl of ethyl acetate, briefly vortexed, centrifuged for 2 min at 14,000 x g and transferred to dark vials."	"Chromatography was carried out on these samples as described before [1], with some small modifications. Briefly, chromatography was performed in a 1290 Agilent UPLC equipped with an RP C30 3 µm column (250 x 2.1 mm i.d.) coupled to a 20 x 4.6 mm C30 guard column (YMC Inc., Wilmington, NC, USA). A flow rate of 0.21 ml/min and an injection volume of 3 µl were adopted. The mobile phases consisted of methanol (A) and tert-methyl butyl ether (B), both containing 5% of a mixture of water/methanol (20/80 by volume) and 0.2% (w/v) ammonium acetate. The gradient elution consisted of 100% A isocratically for 6 min, a step to 82.5% A at 7 min, maintained isocratically for 5 min, followed by a linear gradient to 32.5% A by 30 min, these conditions were maintained for 14 min. A conditioning phase (48–60 min) was then used to return the column the initial concentration of A.  The DAD signal was acquired from 200 to 600 nm (step 1.2 nm) with a slit width of 1 nm, at a frequency of 2.5 Hz.
+</p>
+The data set analyzed here includes chromatograms corresponding to the injection of the following:</br>
+– The ten standards, each injected once;</br>
+– No TEA samples, immediately after preparation (day 0) and at regular periods afterwards. In total, ten samples of this class have been injected, the last one after 29 days;</br>
+– TEA samples, immediately after preparation (day 0) and at regular periods afterwards. One replicate injection was performed at day 0. The final sample was injected after 28 days - in total, 14 TEA samples have been injected. These 34 samples are then analyzed simultaneously.
+</p>
+Ref:</br>
+[1] Fraser PD, Pinto ME, Holloway DE, Bramley PM (2000) Technical advance: application of high-performance liquid chromatography with photodiode array detection to the metabolic profiling of plant isoprenoids. Plant J. 2000 Nov;24(4):551-8. PMID:11115136</br>"	"Not applicable."	"Raw data from the spectrophotometer were exported to csv format for further processing."	"Analysis:</br>
+Multivariate curve resolution (MCR) was performed using nonnegativity constraints in both the chromatographic and spectral dimensions. No unimodality or selectivity constraints were imposed. The MCR algorithm was started using initial guesses from orthogonal projection approach (OPA), using eight components for each individual time window. The number of eight components was chosen to be sufficient to cover all expected compounds plus a few unexpected ones. OPA was initialized with the spectra of those standards known to be eluting in the corresponding time windows, and the rest of the eight components were found by the OPA algorithm. Again, to ensure complete automation, no attempt was made at this stage to optimize the number of components. The MCR algorithm was allowed to run for at most 1,000 iterations. If the default convergence criterion was met, the run was terminated earlier. MCR models were then stored for visualization and further inspection. 
+</p>
+Postprocessing of the basic MCR models serves to simplify, validate, and improve the initial results. Two aspects in particular are addressed here. Firstly, one may check for the possible overestimation or underestimation of the number of components in the MCR analysis. Underestimation will result in high residuals and a bad description of the system. If so, additional components may be added until a correct description is obtained. Overestimation of components may be detected when two or more elution profiles of different MCR components show a very high correlation coefficient. If this happens, one may hypothesize that these components need to be combined.
+</p>
+In the case of multimodal elution profiles, caused by compounds with similar or equal spectral characteristics, we use a simple peak-finding algorithm to identify all individual peaks in the elution profile and approximate the corresponding peak areas by fitting Gaussian profiles. The locations of the peaks are given by the peak maxima, and the peak widths are determined using the full widths at half maximum. Only peaks with a maximum intensity above a threshold of 20 units are considered. This threshold has been determined empirically and can be changed easily if visual inspection of the elution profiles indicates the need to do so.
+</p>
+After building the final MCR models, they should be validated in terms of model fit. The resulting elution profiles and spectra can be interpreted. Spectra can be compared to spectra from a library or evaluated on the presence and absence of expected features. Elution profiles can be evaluated easily on the basis of peak shapes and intensities. Unequivocal identification can be done on the basis of spectral characteristics and retention times in cases where standards are available.
+</p>
+MCR was used according to the functions in packages ALS (http://cran.r-project.org/package=ALS), data analysis was performed using R (http://www.r-project.org/)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type;Guard column;Detector;Signal range;Resolution"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Wehrens"	"Carvalho"
+Study Person First Name	"Ron"	"Elisabete"
+Study Person Mid Initials	""	""
+Study Person Email	"ron.wehrens@gmail.com"	"Elisabete.Carvalho@rhul.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Fondazione Edmund Mach, Via E. Mach 1, San Michele all'Adige (TN), Italy"	"Royal Holloway University, London, UK"
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

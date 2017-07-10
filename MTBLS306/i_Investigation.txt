@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BAO"	"BTO"	"MS"	"CHMO"	"NCBITAXON"	"NCIT"	"CMO"	"EFO"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"19"	"22"	"86"	"18"	"6"	"44"	"72"	"146"	"80"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BioAssay Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Clinical Measurement Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS306"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS306"
+Study Title	"Metabolomic Profiling of Submaximal Exercise at a Standardised Relative Intensity in Healthy Adults"
+Study Description	"Ten physically active subjects underwent two cycling exercise trials. In the first, aerobic capacity (VO2max) was determined and the second was a 45 min submaximal exercise test. Urine samples were collected separately the day before (day 1), the day of (day 2), and the day after (day 3) the submaximal exercise test (12 samples per subject). Metabolomic profiling of the samples was carried out using hydrophilic interaction chromatography (HILIC) coupled to an Orbitrap Exactive mass spectrometer. Data were extracted, database searched and then subjected to principle components (PCA) and orthogonal partial least squares (OPLSDA) modelling. The best results were obtained from pre-treating the data by normalising the metabolites to their mean output on days 1 and 2 of the trial. This allowed PCA to separate the day 2 first void samples (D2S1) from the day 2 post-exercise samples (D2S3) PCA also separated the equivalent samples obtained on day 1 (D1S1 and D1S3). OPLSDA modelling separated both the D2S1 and D2S3 samples and D1S1 and D1S3 samples. The metabolites affected by the exercise samples included a range of purine metabolites and several acyl carnitines. Some metabolites were subject to diurnal variation these included bile acids and several amino acids, the variation of these metabolites was similar on day 1 and day 2 despite the exercise intervention on day 2. Using OPLS modelling it proved possible to identify a single abundant urinary metabolite provisionally identified as oxo-aminohexanoic acid (OHA) as being strongly correlated with VO2max when the levels in the D2S3 samples were considered."
+Study Submission Date	"2016-01-24"
+Study Public Release Date	"2016-02-01"
+Study File Name	"s_Exercise study.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"exercise"	"high-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"maximal oxygen consumption"	"purines"	"O-acylcarnitine"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000483"	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CMO_0000135"	"http://purl.obolibrary.org/obo/CHEBI_26401"	"http://purl.obolibrary.org/obo/CHEBI_17387"
+Study Design Type Term Source REF	""	"EFO"	"CHMO"	"CHMO"	"CMO"	"CHEBI"	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	"26927198"
+Study Publication DOI	"10.3390/metabo6010009"
+Study Publication Author List	"Muhsen Ali A, Burleigh M, Daskalaki E, Zhang T, Easton C, Watson DG."
+Study Publication Title	"Metabolomic Profiling of Submaximal Exercise at a Standardised Relative Intensity in Healthy Adults."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Participant"	"Exercise set"	"Sampling time"
+Study Factor Type	"Study Subject"	"Group"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_exercise_study_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"10 healthy recreationally active adults, 2 female and 8 male, visited the laboratory on 2 separate occasions to complete 2 cycling exercise trials. The first was an incremental exercise test until exhaustion in order to determine aerobic capacity (VO2max) and the second was a 45 min submaximal exercise test. Urine samples were collected the day before, the day of, and the day after the submaximal exercise test. Participants were asked not to exercise 24 hr prior to the maximal test and for the duration of the urine collection period other than the submaximal trial. They were also asked to refrain from the consumption of alcohol 24 hr before each test, caffeine for 6 hr before testing, or consume anything other than water for 3 hr before testing."	"Coded pre-labelled sterilised urine containers were distributed to the subjects. A designated drop-off point was designated for the samples. The unopened urine containers were stored at -20 °C until analysis and were thawed at room temperature and prepared for LC-MS analysis. Urine (200 µl) was thoroughly mixed with 800 µl of ACN, followed by centrifugation at 10000 revolutions per min for 5 min; 800 µl of supernatant was then transferred to a LC auto-sampler vial (Thermo Fisher, UK). The instrumental variation was also minimised by running the 12 samples for each subject in blocks. Since the final normalisation is subject specific, rather than being based on the full cohort this reduces the impact of technical variations in a long run. Samples are designated as follows D = day, S= sample number within a day e.g. D1S1 = day1 sample 1. Pooled samples were interspersed throughout the run to check for technical variation. Within the blocks of 12 the samples the samples were randomised. 4 standard mixtures containing 200 standards were run also after the samples."	"LC-MS data were acquired on an Dionex 3000 HPLC (Thermo Fisher Scientific, Hemel Hempstead, UK) coupled to an Exactive Orbitrap (Thermo Fisher Scientific), controlled by Xcalibur version 2.1.0 (Thermo Fisher Scientific, Hemel Hempstead, UK). The chromatographic separation was performed on a ZIC-pHILIC column (150 mm x 4.6 mm, 5 µm from HiChrom, Reading, UK) in binary gradient mode. The mobile phase used was 20 mM ammonium carbonate buffer (pH 9.2) and pure ACN; the flow rate was 300 µl/min. The gradient was programed as follows: 0 min 20% A 80% B to time 30 min 80% A 20% B. The injection volume was 10 µl and the sample tray temperature was controlled at 12 °C during the measurement."	"LC-MS data were acquired on an Dionex 3000 HPLC (Thermo Fisher Scientific, Hemel Hempstead, UK) coupled to an Exactive Orbitrap (Thermo Fisher Scientific) in both positive and negative mode set at 50,000 resolution, controlled by Xcalibur version 2.1.0 (Thermo Fisher Scientific, Hemel Hempstead, UK). The mass scanning range was m/z 75–1200, the capillary temperature was 320 °C and the sheath and auxiliary gas flow rates were 50 and 17 arbitrary units, respectively. Samples were run in a stratified method with between subject samples placed in randomised order. MS2 spectra were obtained at 35 V by using an LTQ-Orbitrap under the same conditions described for the Exactive Orbitrap."	"Raw LC-MS files were processed by using m/z Mine 2.14[1].
+</p>
+Ref:</br>
+[1] Pluskal T, Castillo S, Villar-Briones A, Oresic M. MZmine 2: modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC bioinformatics 2010, 11 (1), 395. doi:10.1186/1471-2105-11-395. PMID:20650010.</br>"	"The accurate mass data were searched against an in-house metabolite database prepared by including data from the Human Metabolome database, Lipid Maps and the Metlin database. Graphical representations, tabular features and statistical analysis (p-value generation) were performed in Excel (Microsoft Office 2013). The mean of the peak areas for each metabolite across the samples within each day was calculated and then the area for each metabolite was divided by the mean. This provided a subject-specific normalisation within the non-exercise and exercise days. All subsequent metabolite responses, paired t-test and fold changes (ratio) were conducted on the new data set.
+</p>
+SIMCA-P version 14.0 (Umetrics, Sweden) was used for multivariate analysis which included PCA, OPLS-DA and Orthogonal Partial Least Squares (OPLS). The data were centred, and Pareto scaled for PCA and OPLS-DA and OPLS in order to generate S-plots for visualisation of the components with significant influence in the dataset."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Watson"	"Ali"
+Study Person First Name	"David"	"Ali"
+Study Person Mid Initials	"G."	"Muhsen"
+Study Person Email	"d.g.watson@strath.ac.uk"	"ali.muhsen.ali@strath.ac.uk"
+Study Person Phone	"(+44) (0) 141 54 82 651"	""
+Study Person Fax	""	""
+Study Person Address	"Strathclyde Institute of Pharmacy and Biomedical Sciences
+The John Arbuthnott Building
+161 Cathedral Street
+Glasgow G4 0RE"	"Strathclyde Institute of Pharmacy and Biomedical Sciences
+The John Arbuthnott Building
+161 Cathedral Street
+Glasgow G4 0RE"
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

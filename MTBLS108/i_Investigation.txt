@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"NCIT"	"OBI"	"CHEBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"18"	"6"	"44"	"22"	"99"	"86"	"29"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS108"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS108"
+Study Title	"A metabolomics approach to unravel the regulating role of phytohormones towards carotenoid metabolism in tomato fruit. (Lutein Metabolism)"
+Study Description	"Carotenoids are important secondary metabolites, which have been recognized as an essential component of the human diet because of their valuable beneficial health effects. With this rationale, there is a continuous aim to define the distribution of these compounds in plants, to better understand their metabolism and to increase their concentration levels in fruits and vegetables. This study aimed at deepening the knowledge on the regulatory role of phytohormones in carotenoid metabolism. More specifically, it was envisaged to reveal the phytohormones involved in the metabolism of alpha-carotene, beta-carotene, lycopene, lutein and zeaxanthin. To this purpose, the phytohormone profiles of 50 tomato fruits were determined by high-resolution Orbitrap mass spectrometry and evaluated towards the associated carotenoid levels. Data mining was performed by differential expression and orthogonal partial least squares analyses. This metabolomics approach revealed 5 phytohormonal metabolites, which significantly influenced (Variable Importance in Projection scores =0.80) carotenoid metabolism. These metabolites were identified as cis-12-oxo-phytodienoic acid, cucurbic acid, 2-oxindole-3-acetic acid, 1-acetylindole-3-carboxaldehyde, and cis-zeatin-O-glucoside. The involvement of the individual phytohormones towards carotenoid metabolism was investigated by regression analysis (P values =0.05, R2 varying between 0.280 and 0.760) and statistical correlation (P values =0.01, correlation varying between 0.403 and 0.846). It was concluded that these phytohormones all have significant contributing value in the regulation of carotenoid metabolism, thereby exhibiting down- and up-regulating influences. As a result, this knowledge encloses the potential for improving tomato fruit nutritional quality by targeted control of agronomic conditions, exogenous use of plant bioregulators, or genetic engineering."
+Study Submission Date	"2014-08-22"
+Study Public Release Date	"2014-08-31"
+Study File Name	"s_Study P_C.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"plant hormone"	"carotenoid"	"Untargeted metabolites"	"Targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_37848"	"http://purl.obolibrary.org/obo/CHEBI_23044"	""	""
+Study Design Type Term Source REF	"CHMO"	"CHEBI"	"CHEBI"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-014-0728-9"
+Study Publication Author List	"Lieven Van Meulebroek, Julie Vanden Bussche, Nathalie De Clercq, Kathy Steppe, Lynn Vanhaecke
+"
+Study Publication Title	"A metabolomics approach to unravel the regulating role of phytohormones towards carotenoid metabolism in tomato fruit 
+"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Phytohormones"	"Carotenoids"
+Study Factor Type	"concentration"	"concentration"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://purl.obolibrary.org/obo/CHMO_0002820"
+Study Factor Type Term Source REF	"CHMO"	"CHMO"
+STUDY ASSAYS
+Study Assay File Name	"a_study_p_c_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Tomato plants (Solanum lycopersicum L. cv. Moneymaker) were grown in a greenhouse compartment of the Institute for Agricultural and Fisheries Research (ILVO, Melle, Belgium) and were subjected to normal cultural practices [1]. When tomato plants were 29 weeks old, 108 tomato fruits were collected from 4 tomato plants during a single harvest moment. Considering the days after anthesis (DAA), the harvested tomato fruits were classified into five groups (see Table S1 in the paper associated with this study), representing various developmental stages. Next, from each group, 10 fruits were selected for analysis. As such, different stages of fruit development and ripening were enclosed, whereby a wide range of carotenoid concentrations and divergent phytohormone profiles were covered. Selection of these fruits was each time realized in such a way that the number of different plants and trusses, from which the fruits originated, was maximized. For each single batch of 10 fruits, at least three different plants and thus at least three different trusses were considered. The consecutive cutting, lyophilization, grinding and sieving of each individual tomato fruit resulted in a homogenous powder, which allowed representative sampling. It should be noted that from the moment that the tomato fruits were harvested, they were kept cold (-20 °C) and shielded from light in order to prevent degradation of any fruit component.
+</p>
+Ref:</br>
+[1] Van Meulebroek, L., Vanhaecke, L., De Swaef, T., Steppe, K., and De Brabander, H. F. (2012). U-HPLC-MS/MS to quantify liposol- uble antioxidants in red-ripe tomatoes, grown under different salt stress levels. Journal of Agriculture and Food Chemistry, 60(2), 566–573. doi:10.1021/jf2028329. PMID:22175546</br>"	"The procedures for extraction and detection of phytohormones from tomato fruit tissue were performed as described [1]. The extraction procedure applied solid–liquid extraction, using a solution composed of methanol/ultrapure water/formic acid (75:20:5, v/v/v), and included a purification step with a 30 kDa Amicon Ultra centrifugal filter unit (Merck Millipore Corporation, Massachusetts, USA).
+</p>
+Ref:</br>
+[1] Van Meulebroek, L., Vanden Bussche, J., Steppe, K., and Vanhaecke, L. (2012). Ultra-high performance liquid chromatography coupled to high resolution Orbitrap mass spectrometry for metabolomic profiling of the endogenous phytohormonal status of the tomato plant. Journal of Chromatography A, 1260, 67–80. doi:10.1016/j.chroma.2012.08.047. PMID:22980641</br>"	"Chromatographic separation was achieved on an Accela UHPLC system (Thermo Fisher Scientific, San José, USA), equipped with a Nucleodur Gravity C18 UHPLC column (1.8 µm, 50 mm x 2.1 mm internal diameter) (Macherey-Nagel, Düren, Germany). The applied gradient elution program, was carried out with a binary solvent system, 0.1% (v/v) formic acid in ultrapure water (solvent A) and methanol (solvent B): 0-1 min A=98%, B=2%; 2.5 min A=60%, B=40%; 4 min A=50%, B=50%; 5-7 min A=20%, B=80%; 7.10-8 min A=0%, B=100%; 8.01-10 A=98%, B=2%; at a constant flow rate of 300 µl/min. The column oven temperature was set at 30 °C."	"High-resolution mass spectrometric analysis was carried out on an Exactive single-stage Orbitrap mass spectrometer (Thermo Fisher Scientific, San José, USA), operating at 100,000 FWHM, equipped with a heated electrospray ionization source (HESI-II), operating in polarity switching mode. Ionization source working parameters are: Auxiliary gas pressure 5 au; Sweep gas pressure 2 au; Heater temperature 330 °C; Capillary temperature 220 °C; Capillary voltage 65 (-62.5) V; Tube lens voltage 75 (-100) V; Skimmer voltage 24 (-27) V. An m/z scan range of 100 - 800 was selected and the resolution was set at 100,000 full width at half maximum (FWHM) at 1 Hz (1 scan per second). The automatic gain control (AGC) target was set at the high dynamic range (3 x 10^6 ions).
+</p>
+Instrument control and data processing were carried out by Xcalibur 2.1 software. Because of the applied full-scan operating principle of this type of mass spectrometer and the associated metabolomic screening possibilities, the phytohormone profiles of the individual tomato fruits could be defined by means of chemometric data analysis. To ensure data quality for metabolomic screening purposes, system stability during analysis was verified by using matrix-matched calibration curves [1]. These curves (6 calibration levels) were set up in early-stage tomato fruit matrix and were run at the beginning and end of the batch of samples.
+</p>
+For each of the major hormonal classes, at least one representative was considered. The following average coefficients of variance (n = 6) were obtained: 6.25% for abscisic acid, 5.07% for N6-benzyladenine, 6.93% for epibrassinolide, 6.26% for gibberellic acid, 5.97% for jasmonic acid, 9.26% for salicylic acid, 0.77% for zeatin, and 7.43% for indol-3-acetic acid. Since these values were well below 15% [2], appropriate stability during analysis was concluded.
+</p>
+Ref:</br>
+[1] Van Meulebroek, L., Vanden Bussche, J., Steppe, K., and Vanhaecke, L. (2012). Ultra-high performance liquid chromatography coupled to high resolution Orbitrap mass spectrometry for metabolomic profiling of the endogenous phytohormonal status of the tomato plant. Journal of Chromatography A, 1260, 67–80. doi:10.1016/j.chroma.2012.08.047. PMID:22980641</br>
+[2] Shah, V. P., Midha, K. K., and Findlay, J. W. A. (2000). Bioanalytical method validation-A revisit with a decade of progress. Pharmaceutical Research, 17(2), 1551–1557. PMID:11303967</br>"	"Data processing was carried out by Xcalibur 2.1 software."	"Metabolites were identified using a detailed methodology detailed in Section 2.5 of the paper associated with this study.  Briefly, the steps involved were: Grouping of samples based on carotenoid concentration; First screening using Sieve software; Predictive modelling using SIMCA software; and Identification of relevant metabolite ions."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Van Meulebroek"	"Vanden Bussche"	"De Clercq"	"Steppe"	"Vanhaecke"
+Study Person First Name	"Lieven"	"Julie"	"Nathalie"	"Kathy"	"Lynn"
+Study Person Mid Initials	""	""	""	""	""
+Study Person Email	"lieven.vanmeulenbroek@ugent.be"	""	""	""	"lynn.vanhaecke@ugent.be"
+Study Person Phone	""	""	""	""	""
+Study Person Fax	""	""	""	""	""
+Study Person Address	""	""	""	""	""
+Study Person Affiliation	"Ghent University"	"Ghent University"	"Ghent University"	"Ghent University"	"Ghent University"
+Study Person Roles	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

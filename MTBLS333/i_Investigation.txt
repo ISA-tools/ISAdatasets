@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MESH"	"OBI"	"NCIT"	"MS"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"6"	"18"	"146"	"10"	"23"	"44"	"86"	"29"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS333"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS333"
+Study Title	"Discovery of A-type procyanidin dimers in yellow raspberries by untargeted metabolomics and correlation based data analysis"
+Study Description	"Introduction:</br>Raspberries are becoming increasingly popular due to their reported health beneficial properties. Despite the presence of only trace amounts of anthocyanins yellow varieties seems to show similar or better effects in comparison to conventional raspberries.</br>Objectives:</br>The aim of this work is to characterize the metabolic differences between red and yellow berries, focussing on the compounds showing a higher concentration in yellow varieties.</br>Methods:</br>The metabolomic profile of 13 red and 12 yellow raspberries (of different varieties, locations and collection dates) was determined by UPLC-TOF-MS and a novel correlation based approach was implemented to extract the pseudospectra of the most relevant biomarkers from high energy LC-MS runs.</br>Results:</br>Among the metabolites showing higher concentration in yellow raspberries it was possible to identify a series of compounds showing a pseudospectrum similar to that of A-type procyanidin polymers. The annotation of this group of compounds was confirmed by specific MS/MS experiments and performing standard injections.</br>Conclusion:</br>In berries lacking anthocyanins the polyphenol metabolism might be shifted to the formation of a novel class of A-type procyanidin polymers."
+Study Submission Date	"2016-03-28"
+Study Public Release Date	"2016-06-12"
+Study File Name	"s_MTBLS333.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"Untargeted metabolites"	"procyanidin"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.bioontology.org/ontology/MESH/C017674"
+Study Design Type Term Source REF	"CHMO"	""	"MESH"
+STUDY PUBLICATIONS
+Study PubMed ID	"27547172"
+Study Publication DOI	"10.1007/s11306-016-1090-x"
+Study Publication Author List	"Elisabete Carvalho, Pietro Franceschi*, Antje Feller, Lorena Herrera, Luisa Palmieri, Panagiotis Arapitsas, Samantha Riccadonna, Stefan Martens
+"
+Study Publication Title	"Discovery of A-type procyanidin dimers in yellow raspberries by untargeted metabolomics and correlation based data analysis 
+"
+Study Publication Status	"Submited"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Colour"	"Cultivar"	"Cultivation Year"	"Location"	"Storage conditions"	"Freezing method"
+Study Factor Type	"Color"	"cultivar"	"Date"	"Location"	"temperature"	"Freezing"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37927"	"http://www.ebi.ac.uk/efo/EFO_0005136"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341"	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48160"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"NCIT"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls333_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Raspberry fruits of different colors and varieties were collected from different locations. The fruits were collected in the ripe stage (when the berry is easily detached from the crown). DR samples were collected in Julius Kühn Institute (Dresden, Germany), VG samples were collected from the the Berries Germplasm Collection of FEM, in Pergine Valsugana (TN, Italy), BP samples were collected from the company Berry Plant (Verona, Italy). 
+</p>
+Samples were collected in different years. All samples collected in 2010 were stored in cooled containers and transported to FEM laboratories where they were flash frozen and stored. Samples collected in Dresden were frozen in dry ice and transported to FEM. All other samples were flash frozen with liquid nitrogen immediately after collection and trasnported in dry ice to FEM."	"Small portions of each of the raspberry samples analysed were mixed to prepare a quality control sample (QC). For each sample and QC, the extraction was made as follows: 11.5 to 12.5 g of frozen raspberry was weighed in plastic 50 ml tubes, followed by addition of 150 mg internal standard (3,5-hidroxybenzoic acid) and 10 ml of 70% acetone to each tube. Samples were homogeneized with an IKA Ultraturrax disperser (Staufen, Germany) at a speed of 18 for 1.5 min. 10 ml of 70% acetone was used to help wash and collect all the sample from the homogenizer. The sample was allowed to extract for 20 min, after which it was centrifuged for 5 min at 5000 rcf. The supernatant was collected into a 100 ml round bottom flask, filtering through glass wool to help collect any solid residues. Further 20 ml of 70% acetone was added to the pellet, vortexed vigorously to help homogeneization and centrifuged as before. The second (clear) supernatant was combined with the first one. After washing the funnel and glass wool with 5 ml of 70% acetone, the acetone was removed by rotary evaporation at 40 °C. The concentrated extract was transfered to a 20 ml volumetric flask and brought to volume with 5% methanol. 480 µl of each extract was transfered to an eppendorf containing 20 µl of 4-hidroxystilbene (5.6 g/l), filtered through 0.2 µM PTFE filters into 2 ml amber (LC-MS certificated) vials, and stored at 4 ºC until the time of analysis. Samples were prepared in random order."	"Liquid chromatography was performed on a Waters Acquity UPLC equiped with an ACQUITY UPLC 1.8 µm 2.1 x 150 mm HSS T3 column from Waters (Manchester, UK) kept at 30 °C. The instrument was controlled by the MassLynx 4.1 software provided. The solvents used were water (A) and methanol (B), both with 0.1% formic acid, at a flow rate of 0.3 ml/min. The gradient started at 100% A, kept for 6 min. The percentage of B increased to 100% over 50 min and maintained at that percentage for further 4 min. The system was returned to initial conditions and allowed to equilibrate for 3 min. Injection volume was 5 µl and samples were kept at 4 °C.
+
+"	"Detection was made on a Synapt HDMS QTOF MS, equiped with electrospray ionization (ESI) source, all from Waters (Manchester, UK). The instrument was controlled by the MassLynx 4.1 software provided. Data was collected in negative ion mode from 50 to 3000 m/z, from two different acquisition channels (high and low energy).
+</p> 
+The transfer collision energy and trap collision energy were set at 6 V and 4 V for the low energy channel and 30 V and 6 V for the high energy.
+</p> 
+The analyser was set in W Mode. The source parameters were set as follows: capillary 2.5 kV, Sampling Cone 25 V, Extraction Cone 3.0 V, Source Temperature 150 °C, Desolvation Temperature 500 °C, Cone Gas Flow 50 l/hr, Desolvation Gas Flow 1000 l/hr.
+</p> 
+External calibration of the instrument was performed in the beginning by direct infusion of a sodium formate solution (10% formic acid/0.1 M NaOH/Acetonitrile 1/1/8) by controlling the mass accuracy from 50 to 3000 m/z (less than 5 ppm) and mass resolution (over 14000 FWHM). LockMass calibration was applied using a solution of leucine enkephaline (0.5 mg/l, m/z 554.2615 for negative ion mode) at 0.1 ml/min."	"Raw files were converted to cdf format using the MassLynx software. Feature detection was performed using the XCMS centWave algorithm, without any prefilter step, setting ppm=30 and peakwidth=c(5,60). We discarded from the following analysis features having either m/z greater than 2,900 or retention time greater than 3,000 s (50 min) or smaller than 30 s. We then performed retention time correction, followed by feature grouping (bw = 5, minsamp = 2, minfrac = 0 and mzwid = 0.05), and filling peaks. Finally we extracted (and annotated) the data matrix of 6,365 features using CAMERA."	"No metabolites were identified in this study."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Carvalho"	"Franceschi"
+Study Person First Name	"Elisabete"	"Pietro"
+Study Person Mid Initials	""	""
+Study Person Email	"elisabetebdcarvalho@gmail.com"	"pietro.franceschi@fmach.it"
+Study Person Phone	"+351962554617"	"+39-0461-615556"
+Study Person Fax	""	""
+Study Person Address	"Research and Innovation Centre
+Fondazione E. Mach - via E. Mach 1, 38010, Trento - Italy"	"Research and Innovation Centre
+Fondazione E. Mach - via E. Mach 1, 38010, Trento - Italy"
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

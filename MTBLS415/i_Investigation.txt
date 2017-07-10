@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PTO"	"NCBITAXON"	"EFO"	"CHMO"	"UO"	"NCIT"	"IMS"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/PTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://www.maldi-msi.org/download/imzml/imagingMS.obo"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"406"	"2"	"113"	"5"	"42"	"44"	"1.2"	"22"	"86"	
+Term Source Description	"Plant Trait Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Imaging Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS415"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+Comment[Created With Tool]	"mzml2isa 0.5.0"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS415"
+Study Title	"3D DESI mass spectrometry imaging of 52 serial sections from a human colorectal adenocarcinoma"
+Study Description	"Fifty-two serial sections from a single human adenocarcinama are made available in this dataset. Four neighbouring sections were placed on a single slide and analysed together. The tissue sections were analysed by desorption electrospray ionisation mass spectrometry imaging (DESI-MSI) according to the procedure outlined in the associated publications. The data files are made available in centroid- and profile-mode imzML format. Additionally, H&E-stained optical images are included."
+Study Submission Date	"2016-11-29"
+Study Public Release Date	"2017-03-07"
+Study File Name	"s_Colo3D.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"desorption electrospray ionisation mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000484"	""
+Study Design Type Term Source REF	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""	""
+Study Publication DOI	"10.1186/s13742-015-0059-4"	"10.1039/C6SC03738K"
+Study Publication Author List	"Janina Oetjen, Kirill Veselkov, Jeramie Watrous, James S McKenzie, Michael Becker, Lena Hauberg-Lotte, Jan Hendrik Kobarg, Nicole Strittmatter, Anna K Mróz, Franziska Hoffmann, Dennis Trede, Andrew Palmer, Stefan Schiffler, Klaus Steinhorst, Michaela Aichler, Robert Goldin, Orlando Guntinas-Lichius, Ferdinand von Eggeling, Herbert Thiele, Kathrin Maedler, Axel Walch, Peter Maass, Pieter C Dorrestein, Zoltan Takats and Theodore Alexandrov"	"Paolo Inglese, James S. McKenzie, Anna Mroz, James Kinross, Kirill Veselkov, Elaine Holmes, Zoltan Takats, Jeremy K. Nicholson, Robert C. Glen"
+Study Publication Title	"Benchmark datasets for 3D MALDI- and DESI-imaging mass spectrometry"	"Deep learning and 3D-DESI imaging reveal the hidden metabolic heterogeneity of cancer"
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Section location"
+Study Factor Type	"position"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/PATO_0000140"
+Study Factor Type Term Source REF	"MS"
+STUDY ASSAYS
+Study Assay File Name	"a_Colo3D_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap XL ETD"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The human colorectal adenocarcinoma sample was excised during a surgical operation performed at the Imperial College Healthcare NHS Trust. The sample and procedures were carried out in accordance with ethical approval (14/EE/0024)."	"The tissue specimen was snap-frozen in liquid nitrogen and stored in a freezer at -80 °C prior to cryosectioning at 10 µm thickness using a Microm HM550 Cryostat (Thermo Fisher Scientific, Runcorn, UK) set at -16 °C, and thaw mounted onto SuperFrost® Glass slides (Thermo Fisher Scientific). Distilled water was used to mount the sample to the sample holder, and the cryosectioning was performed without embedding medium. The built-in vacutome function of the cryostat was used to facilitate sectioning. The slides were stored in closed containers at -80 °C prior to analysis and allowed to thaw at room temperature under nitrogen flow prior to DESI-imaging MS acquisition. Sections were cut to a thickness of 10 µm, and every tenth section was imaged. The instrumental spatial resolution of 100 µm resulted in voxels of 100 cubic µm. Four sections were placed on each slide in this order: 1) top right; 2) bottom right; 3) bottom left; 4) top left, i.e. proceeding clockwise from the top right. The preparation procedure is the same as that employed for the 3D liver sample found in http://www.ebi.ac.uk/metabolights/MTBLS282."	"DESI imaging was performed in negative ion mode over an m/z range of 150 - 1,500 using a Thermo Exactive instrument (Thermo Scientific GmbH, Bremen, Germany) coupled to a home-built automated DESI-imaging source as described previously [1]. The solvent used for DESI analysis was methanol/water (95/5 v/v) at a flow rate of 1.5 ml/min. Nitrogen was used as a nebulizing gas at a pressure of 7 bar. The distance between the DESI spray tip and the sample surface was set to 1.5 mm; the distance between the DESI spray tip and the mass spectrometer was set to 14 mm; and the distance between the inlet capillary and the sample surface was 0.1 mm. The spray angle was 80°, whereas the collection angle was fixed at 10°. The spray voltage used for analysis was 4.5 kV. Each row of pixels was acquired as a continuous line scan over the sample surface and saved in a separate raw file.</br>
+</p>
+Ref:</br>
+[1] Gerbig S, Golf O, Balog J, Denes J, Baranyai Z, Zarand A, Raso E, Timar J, Takats Z. Analysis of colorectal adenocarcinoma tissue by desorption electrospray ionization mass spectrometric imaging. Anal Bioanal Chem. 2012 Jun;403(8):2315-25. doi:10.1007/s00216-012-5841-x. PMID:22447214"	"The sections were stained with H&E and found to consist of cancerous and healthy regions. The stained images typically require to be rotated by 90 degrees clockwise in order to match the MS data."	"All Thermo raw files of one imaging experiment were then converted to imzML format using the imzML converter v1.1.4.5i [1]. The imzML files were named with reference to the section number and location of the section on the slide. For example, in the file named “240TopL, 210TopR, 230BottomL, 220BottomR-centroid.imzML”, the top-right section was the 210th section cut from the sample at a depth of 2100 µm.</br>
+</p>
+Data files are provided in profile and centroid modes.</br>
+</p>
+Ref:</br>
+[1] MALDI MSI Interest Group: Msimaging. http://www.maldi-msi.org (2011)."	"No metabolite identification has been performed."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Sample mounting;Sample preservation;Sectioning instrument;Section thickness"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range;Spatial resolution;Solvent"	"Stain;High-res image;Low-res image"	"Data transformation software;Data transformation software version"	""
+Study Protocol Parameters Name Term Accession Number	""	";;;"	";;;;;;"	";;"	";"	""
+Study Protocol Parameters Name Term Source REF	""	";;;"	";;;;;;"	";;"	";"	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"McKenzie"	"Takats"
+Study Person First Name	"James"	"Zoltan"
+Study Person Mid Initials	"S"	""
+Study Person Email	"j.mckenzie@imperial.ac.uk"	"z.takats@imperial.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Imperial College, London"	"Imperial College, London"
+Study Person Roles	"Data curator"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

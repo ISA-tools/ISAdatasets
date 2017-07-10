@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CHMO"	"BTO"	"CHEBI"	"NCIT"	"EFO"	"MESH"	"UO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"4"	"18"	"26"	"93"	"40"	"146"	"9"	"43"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS177"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS177"
+Study Title	"Metabolic responses induced by DNA damage and poly (ADP-ribose) polymerase (PARP) inhibition in MCF-7 cells"
+Study Description	"Genomic instability is one of the hallmarks of cancer. Several chemotherapeutic drugs and radiotherapy induce DNA damage to prevent cancer cell replication. Cells in turn activate different DNA damage response (DDR) pathways to either repair the damage or induce cell death. These DDR pathways also elicit metabolic alterations which can play a significant role in the proper functioning of the cells. The understanding of these metabolic effects resulting from different types of DNA damage and repair mechanisms is currently lacking. In this study, we used NMR metabolomics to identify metabolic pathways which are altered in response to different DNA damaging agents. By comparing the metabolic responses in MCF-7 cells, we identified the activation of poly (ADP-ribose) polymerase (PARP) in methyl methanesulfonate (MMS)-induced DNA damage. PARP activation led to a significant depletion of NAD+. PARP inhibition using veliparib (ABT-888) was able to successfully restore the NAD+ levels in MMS-treated cells. In addition, double strand break induction by MMS and veliparib exhibited similar metabolic responses as zeocin, suggesting an application of metabolomics to classify the types of DNA damage responses. This prediction was validated by studying the metabolic responses elicited by radiation. Our findings indicate that cancer cell metabolic responses depend on the type of DNA damage responses and can also be used to classify the type of DNA damage."
+Study Submission Date	"2015-03-10"
+Study Public Release Date	"2015-08-01"
+Study File Name	"s_DDA_PI.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"cancer"	"DNA Damage"	"EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000311"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16507"	"http://purl.obolibrary.org/obo/CHEBI_62913"	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"EFO"	"NCIT"	"CHEBI"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0831-6"
+Study Publication Author List	"Bhute VJ and Palecek SP"
+Study Publication Title	"Metabolic responses induced by DNA damage and poly (ADP-ribose) polymerase (PARP) inhibition in MCF-7 cells."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"compound"	"dose"	"time post exposure"
+Study Factor Type	"Cancer Therapeutic Procedure"	"dose"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16212"	"http://www.ebi.ac.uk/efo/EFO_0000428"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_dda_pi_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformatio"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"MCF-7 cells were obtained from ATCC and cultured in Dulbecco’s Modified Eagle Medium (DMEM, high glucose, Invitrogen) supplemented with 10% fetal bovine serum (FBS, Invitrogen) and 1% penicillin/streptomycin (P/S, Invitrogen) in T-75 flasks until they reached subconfluence (~90% or ~10 million cells). Cells were treated with DNA damaging agents: cisplatin (Biotang Inc.), methyl methane sulfonate (Acros Organics), zeocin (Invivogen) or a phosphate buffered saline (PBS, Invitrogen) control for 24 h (or 1 h in the case of MMS followed by 23 h of recovery due to rapid DNA damage induction in the case of MMS due to a higher rate of interaction with the DNA as compared to other drugs) before harvesting. Cells were treated with the PARP inhibitor veliparib (ABT-888) (Selleckchem) or PBS containing DMSO (1 lg/ml) 24 h prior to other drug treatments. Stock solution for all drugs, except for veliparib which was in DMSO, were prepared in PBS. All experiments were performed in three independent, biological replicates.
+</p>
+To identify appropriate dosage of radiation treatment, MCF-7 cells were seeded in 6 well plates and after reaching subconfluency, cells were irradiated with 137Cs source (J. L. Sheppard Mark I unit) at a dose rate of 221 rad/min with a total dose of 4, 8 or 12 Gy and the cell growth over the next 2 days was calculated using hemocytometer. 8 Gy treatment for 48 h led to a ~80% survival and the samples were collected for NMR analysis."	"The cells were quenched using 3 ml methanol using the protocol described previously [1]. Briefly, the culture medium was aspirated and the cells were immediately rinsed twice with ice-cold PBS (pH 7.4). The residual PBS was removed using vacuum aspiration and the cells were quenched using 3 ml HPLC grade methanol (Sigma-Aldrich). The cells were then detached using a cell scraper and pipetted into 50 ml centrifuge tube. A dual phase extraction procedure detailed previously [2] was used to extract the intracellular metabolites. Briefly, the quenched cells suspended in a mixture of chloroform, methanol and water in the ratio of 6:6:5.4 to make the final volume of 17.4 ml. The aqueous layer (top) contains the water-soluble low-molecular weight metabolites while the organic layer (bottom) contains non-polar metabolites. Proteins and other macromolecules are precipitated by addition of methanol and chloroform and trapped between the aqueous and organic layer. After centrifugation for 15 min at 3600 rpm, only the upper aqueous layer was used for further analysis. The samples were dried at 30 ºC using a centrifugal vacuum concentrator and stored in -80 ºC until NMR analysis. 
+</p>
+Ref:</br>
+[1] Teng et al. A direct cell quenching method for cell-culture based metabolomics. Metabolomics. 2009; 5: 199-208.</br>
+[2] Martineau E, Tea I, Loaëc G, Giraudeau P, Akoka S. Strategy for choosing extraction procedures for NMR-based metabolomic analysis of mammalian cells. Anal Bioanal Chem. 2011 Oct; 401(7):2133-42. PMID:21837464</br>"	"Prior to NMR analysis, the samples were reconstituted in 0.6 ml of 0.1 M phosphate buffered D2O (pH = 7.0) solution containing 0.5 mM 3-trimethylsilyl-propionate-2,2,3,3-d4 (TMSP, d = 0.0 ppm) as an internal standard and 0.2% w/v sodium azide. The samples were centrifuged at 18,0009 x g for 10 min and 550 µl of the supernatant was transferred to 5 mm NMR tubes (Norell Inc.)."	"1H NMR spectra were recorded at 298 K on Bruker Avance III equipped with a 5 mm cryogenic probe operating at 500 MHz (11.74 T)."	"1D spectra were acquired using standard NOESYPR1D pulse sequence (RD-90°-t1-90°-tm-90°-acquire) with a relaxation delay of 1 s, a mixing time of 100 ms and  a pre-scan delay of 30 µs. Each spectrum consisted of 128 transients or free induction decays (FIDs) collected into 48 K complex data points with a spectral width of 12 ppm and an acquisition time of 4 s. Prior to Fourier transformation, the FIDs were zero-filled to 128k data points and multiplied by an exponential window function (LB=0.5Hz). The chemical shifts were referenced to the TMSP peak (d=0 ppm), using TopSpinTM software (version 3.1, Bruker)."	"Spectra were exported to ACD/1D NMR Processor (Advanced Chemistry Development) for phasing, baseline correction and solvent region removal (water: 4.7-5.1 ppm and DMSO: 2.72-2.75 ppm)."	"The peaks were annotated through the HMDB [1] and Metabohunter [2] and the targeted profiling [3] was accomplished using ChenomX NMR Suite Profiler (version 7.7, ChenomX Inc.) and the concentrations were referenced to a TMSP concentration of 0.5 mM. Over 95% of the peaks were assigned to metabolites available in the ChenomX library and the quantified metabolite concentrations were exported to an Excel file.
+</p>
+Ref:</br>
+[1] Wishart etal. HMDB 3.0--The Human Metabolome Database in 2013. Nucleic Acids Res. 2013 Jan; 41(Database issue):D801-7. PMID:23161693.</br>
+[2] Tulpan D, Léger S, Belliveau L, Culf A, Cuperlovic-Culf M. MetaboHunter: an automatic approach for identification of metabolites from 1H-NMR spectra of complex mixtures. BMC Bioinformatics. 2011 Oct 14; 12:400. PMID:21999117</br>
+[3] Weljie AM, Newton J, Mercier P, Carlson E, Slupsky CM.Targeted profiling: quantitative analysis of 1H NMR metabolomics data. Anal Chem. 2006 Jul 1; 78(13): 4430-42. PMID:16808451</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Palecek"	"Bhute"
+Study Person First Name	"Sean"	"Vijesh"
+Study Person Mid Initials	"P"	"J"
+Study Person Email	"sppalecek@wisc.edu"	"bhute@wisc.edu
+"
+Study Person Phone	"+1 608 262 8931"	"+1 608  556 8113"
+Study Person Fax	"+1 608 262 5434"	""
+Study Person Address	""	""
+Study Person Affiliation	"Department of Chemical and Biological Engineering, University of Wisconsin-Madison"	"Department of Chemical and Biological Engineering, University of Wisconsin-Madison"
+Study Person Roles	"investigator"	"Graduate Student"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"EFO"	"MS"	"NCBITAXON"	"NCIT"	"CHMO"	"EFO"	"NCIT"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"132"	"86"	"4"	"44"	"16"	"146"	"40"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS212"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS212"
+Study Title	"Untangling the wine metabolome by combining untargeted SMPE-GCxGC-TOF-MS and sensory analysis to profile Sauvignon blanc co-fermented with seven different yeasts"
+Study Description	"Saccharomyces cerevisiae (SC) is the main driver of alcoholic fermentation however for aroma and flavour formation in wine non-Saccharomyces species can have a powerful effect. This study aimed to compare untargeted volatile compound profiles from SPME-GCxGC-TOF-MS and sensory analysis data of Sauvignon blanc wine inoculated with six different non-Saccharomyces yeasts followed by SC. Torulaspora delbrueckii (TD), Lachancea thermotolerans (LT), Pichia kluyveri (PK) and Metschnikowia pulcherrima (MP) where commercial starter strains, while Candida zemplinina (CZ) and Kazachstania aerobia (KA), were isolated from wine grape environments. Each fermentation produced a distinct profile both sensorially and chemically. SC and CZ were the most distinct in both of these cases. SC had guava, grapefruit, banana, and pineapple aromas while CZ was driven by fermented apple, dried peach/apricot, and stewed fruit as well as sour flavor. Chemically over 300 unique features were identified as significantly different across the fermentations. SC had the highest number of esters in the highest relative concentration but all the yeasts had distinct ester profiles. CZ displayed the highest number of terpenes in high concentration but also produced a large amount of acetic acid. KA was high in ethyl acetate. TD had fewer esters but three distinctly higher thiol compounds. LT showed a relatively high number of increased acetate esters and certain terpenes. PK had some off odor compounds while the MP had high levels of different methyl butyl-, methyl propyl-, and phenethyl esters. Overall, this study gives a more detailed profile of these yeasts than anything previously reported."
+Study Submission Date	"2015-07-22"
+Study Public Release Date	"2015-08-19"
+Study File Name	"s_Sauvignon blanc.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Wine"	"two-dimensional gas chromatography"	"time-of-flight mass spectrometry"	"Sauvignon blanc"	"fermentation"	"untargeted metabolite profiling"	"sensory analysis"	"solid-phase micro-extraction"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66822"	"http://purl.obolibrary.org/obo/CHMO_0002886"	"http://purl.obolibrary.org/obo/CHMO_0000580"	""	"http://purl.obolibrary.org/obo/CHMO_0001624"	""	""	"http://purl.obolibrary.org/obo/CHMO_0001586"
+Study Design Type Term Source REF	"NCIT"	"CHMO"	"CHMO"	""	"CHMO"	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-0962-4"
+Study Publication Author List	"Margaret E. Beckner Whitener, Jan Stanstrup, Valeria Panzeri, Silvia Carlin, Benoit Divol, Maret Du Toit, Urska Vrhovsek"
+Study Publication Title	"Untangling the wine metabolome by combining untargeted SPME–GCxGC-TOF-MS and sensory analysis to profile Sauvignon blanc co-fermented with seven different yeasts"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Time"
+Study Factor Type	"Group"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_sauvignon_blanc_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LECO Pegasus 4D GCxGC-TOF-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Sauvignon blanc grapes (vintage 2014) were obtained from the vineyards at Welgevallen Experimental Farm, Stellenbosch University, Stellenbosch, South Africa. S. cerevisiae (Enoferm M2®, Lallemand Inc., Quebec, Canada), T. delbrueckii (Biodiva®, Lallemand Inc., Quebec, Canada), M. pulcherrima (Flavia®, Lallemand Inc., Quebec, Canada), P. kluyveri (Viniflora® FROOTZEN™, Chr. Hansen, Horsholm, Denmark), L. thermotolerans (Viniflora® CONCERTO™, Chr. Hansen, Horsholm, Denmark), C. zemplinina (Institute of Wine Biotechnology (IWBT)-Y1082) and K. aerobia (IWBT-Y845) were used to ferment the grape must. 11 l stainless steel fermentation vessels containing 10 l of must were inoculated with 10^6 cfu/ml of yeast. Fermentations were carried out in triplicate at 15 °C. The non-Saccharomyces yeasts were allowed to ferment until approximately 2% ethanol concentration was reached. At this point, S. cerevisiae was added at 10^6 cfu/mL concentration to finish the fermentations. The final wines were bottled after clarification via cold rest for one week at -4 °C in 750 ml glass bottles with screw caps. Wines were then transported to the laboratory of the Department of Food Quality and Nutrition, Research and Innovation Center, Fondazione Edmund Mach (FEM) for chemical analysis."	"A divinylbenzene/carboxen/polydimethylsiloxane (DVB/CAR/PDMS) coating 50/30 μm, 2 cm length Solid-Phase-Micro-Extraction (SPME) fibre was used for wine volatile extraction. Vials were prepared as follows. 5 ml of wine and 50 μl of 0.5 mg/l 2-octanol were added to 20 ml screw cap vials containing 1.5 g NaCl. A Gerstel MPS autosampler (GERSTEL GmbH & Co. KG) equipped with the standard sample agitator and a SPME fibre conditioning station was used to extract the volatiles from the sample vial headspace. The samples were incubated for 5 min at 35 °C under 500 rpm rotation at 10 s intervals. Extraction took place at 10 s, 5 min, and 30 min, prior to desorption in the inlet for 180 s at 250 °C. Quality control (QC) vials consisting of an equal mix of all samples were spaced at the beginning and every third sample thereafter."	"GC×GC-TOF-MS analysis of the extracts was performed using a LECO Pegasus-4D system consisting of an Agilent 6890N (Agilent Technologies) coupled to a LECO Pegasus 4D detector. The system employed a consumables free modulation system. Helium carrier gas was used with a flow set at 1.2 mL/min and a splitless time of 180sec. The oven was equipped with a 30 m x 0.25 mm x 0.25 μm VF-WAX MS primary column (Agilent Technologies) and a 1.5 m x 0.15 mm x 0.15 μm RXI 17Sil MS secondary column (Restek Corporation, Bellefonte, PA, USA). The GC oven parameters were as follows: initial temperature was 40 °C held for 2 min, followed by an increase to 250 °C at a rate of 6 °C/min, the oven was then held at 250 °C for 5 min before returning to the initial temperature (40 °C). The total cycle time, was 42 min. The modulation period was set to 7 s with a hot pulse time of 1.4 s. The modulator was offset by 15 °C. "	"The MS protocol consisted of electron ionization at 70 eV with ion source temperature at 230 °C, a detector voltage of 1543 V with a voltage offset of 200 V, mass range of m/z 35-350, and acquisition rate of 200 spectra per second. There was an acquisition delay of 120 s."	"ChromaTOF software version 4.32 was used to perform baseline correction, deconvolution and peak picking of the raw data. The baseline offset was set to 1, just above the noise level. The first dimension peak width was set to 43 s while the second dimension peak width was set to 0.1 s. A factor of 500 was set as the match required to combine peaks in the second dimension. A signal to noise (S/N) of 10 was used for the 10 s and 5 min extraction times data with a minimum S/N of 6 for sub peak retention. A S/N of 100 was used for the 30 min extraction time data with a minimum S/N of 60 for sub peak retention. Traditional integration was used. Forward library searching was used with the following parameters: Hits to return were set to 10, minimum molecular weight was set to 40, maximum molecular weight was set to 350, the mass threshold was set to 50 and the minimum similarity match was set to 700. The NIST and Wiley libraries were used. For alignment the following parameters were used: a mass threshold of 10, a minimum similarity match of 600, the maximum number of modulation periods matching peaks could be apart was set to 1, a maximum retention time difference was set to 7 s, for peaks not found by initial peak finding the signal to noise ratio was set to 5 for the 10 s and 5 min extractions and to 50 for the 30 min extractions, for analytes to be kept they had to be found in all biological replicates within a class. Each yeast species was given its own class."	"Metabolite identification was preformed using spectral matching to the NIST and Wiley libraries. In the retention time column we report both the first and second dimention time separated by a comma (eg. 1D, 2D)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type 1;Column model 1;Column type 2;Column model 2"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Beckner Whitener"	"Stanstrup"	"Panzeri"	"Carlin"	"Divol"	"Du Toit"	"Vrhovsek"
+Study Person First Name	"Margaret"	"Jan"	"Valeria"	"Silvia"	"Benoit"	"Maret"	"Urska"
+Study Person Mid Initials	"E"	""	""	""	""	""	""
+Study Person Email	"becknerm@gmail.com"	"jan.stanstrup@fmach.it"	"panzeri@sun.ac.za"	"silvia.carlin@fmach.it"	"divol@sun.ac.za"	"mdt@sun.ac.za "	"urska.vrhovsek@fmach.it"
+Study Person Phone	"+39 0461 615 140"	""	"+27 21 808 2671"	"+39 0461 615 567"	"+27 021 808 3141"	"+27 021 808 3772"	"+39 0461 615 140"
+Study Person Fax	""	""	""	"+ 39 0461 615 200"	""	"+27 021 808 3771"	"+39 0461 615 200"
+Study Person Address	"Fondazione Edmund Mach 
+Research and Innovation Centre 
+Food Quality and Nutrition Department 
+Via E.Mach 1, 38010 S.Michele all'Adige, Italy"	"Fondazione Edmund Mach 
+Research and Innovation Centre 
+Food Quality and Nutrition Department 
+Via E.Mach 1, 38010 S.Michele all'Adige, Italy"	"Institute for Grape and Wine Sciences Stellenbosch University, Private Bag X1, Matieland 7602, South Africa"	"Fondazione Edmund Mach 
+Research and Innovation Centre 
+Food Quality and Nutrition Department 
+Via E.Mach 1, 38010 S.Michele all'Adige, Italy"	"Institute for Wine Biotechnology, Department of Viticulture and Oenology Stellenbosch University, Private Bag X1, Matieland 7602, South Africa"	"Institute for Wine Biotechnology, Department of Viticulture and Oenology Stellenbosch University, Private Bag X1, Matieland 7602, South Africa"	"Fondazione Edmund Mach 
+Research and Innovation Centre 
+Food Quality and Nutrition Department 
+Via E.Mach 1, 38010 S.Michele all'Adige, Italy"
+Study Person Affiliation	"Fondazione Edmund Mach, University of Stellenbosch"	"Fondazione Edmund Mach"	"Institute for Grape and Wine Sciences, Sensory Laboratory, Department of Viticulture and Oenology University of Stellenbosch"	"Fondazione Edmund Mach"	"Institute for Wine Biotechnology, Department of Viticulture and Oenology Stellenbosch University, South Africa"	"Institute for Wine Biotechnology, Department of Viticulture and Oenology Stellenbosch University, South Africa"	"Fondazione Edmund Mach"
+Study Person Roles	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""

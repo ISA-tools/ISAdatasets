@@ -1,0 +1,7 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Factor Value[Sample type]"	"Term Source REF"	"Term Accession Number"	"Factor Value[Sampling date]"	"Term Source REF"	"Term Accession Number"
+"MilliQ_Jan2014"	"blank"	""	""	"water"	"CHEBI"	"http://purl.obolibrary.org/obo/CHEBI_15377"	"Sample collection"	"MilliQ_Jan2014"	"MillliQ water (blank)"	""	""	"January 2014"	""	""
+"Seawater_Jan2014"	"sea water"	"ENVO"	"http://purl.obolibrary.org/obo/ENVO_00002149"	"exometabolome"	""	""	"Sample collection"	"Seawater_Jan2014"	"seawater"	""	""	"January 2014"	""	""
+"CrabSpa_Jan2014"	"sea water"	"ENVO"	"http://purl.obolibrary.org/obo/ENVO_00002149"	"exometabolome"	""	""	"Sample collection"	"CrabSpa_Jan2014"	"low temperarature hydrothermal fluid"	""	""	"January 2014"	""	""
+"CrabSpa_Nov2014"	"sea water"	"ENVO"	"http://purl.obolibrary.org/obo/ENVO_00002149"	"exometabolome"	""	""	"Sample collection"	"CrabSpa_Nov2014"	"low temperarature hydrothermal fluid"	""	""	"November 2014"	""	""
+"Bio9_Jan2014"	"sea water"	"ENVO"	"http://purl.obolibrary.org/obo/ENVO_00002149"	"exometabolome"	""	""	"Sample collection"	"Bio9_Jan2014"	"high temperature hydrothermal fluid"	""	""	"January 2014"	""	""
+"Bio9_Nov2014"	"sea water"	"ENVO"	"http://purl.obolibrary.org/obo/ENVO_00002149"	"exometabolome"	""	""	"Sample collection"	"Bio9_Nov2014"	"high temperature hydrothermal fluid"	""	""	"November 2014"	""	""

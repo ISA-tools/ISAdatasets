@@ -1,0 +1,145 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"VIVO"	"XCO"	"MS"	"ROLEO"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/VIVO"	"http://data.bioontology.org/ontologies/XCO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"2"	"58"	"129"	"1"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"VIVO Ontology for Researcher Discovery"	"Experimental Conditions Ontology"	"Mass Spectrometry Ontology"	"Role Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS311"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS311"
+Study Title	"Metabolomic Responses of Arabidopsis Suspension Cells to Bicarbonate under Light and Dark Conditions"
+Study Description	"Global CO2 level presently recorded at 400 ppm is expected to reach 550 ppm in 2050, an increment likely to impact plant growth and productivity. Using targeted LC-MS and GC-MS platforms we quantified 229 and 29 metabolites, respectively in a time-course study to reveal short-term responses to different concentrations (1, 3, and 10 mM) of bicarbonate (HCO3-) under light and dark conditions. Results indicate that HCO3- treatment responsive metabolomic changes depend on the HCO3- concentration, time of treatment, and light/dark. Interestingly, 3 mM HCO3- concentration treatment induced more significantly changed metabolites than either lower or higher concentrations used. Flavonoid biosynthesis and glutathione metabolism were common to both light and dark-mediated responses in addition to showing concentration-dependent changes. Our metabolomics results provide insights into short-term plant cellular responses to elevated HCO3- concentrations as a result of ambient increases in CO2 under light and dark."
+Study Submission Date	"2016-01-29"
+Study Public Release Date	"2017-04-20"
+Study File Name	"s_Bicarbonate.txt"
+Comment[Study Grant Number]	"MCB-1158000"
+Comment[Study Funding Agency]	"National Science Foundation, USA"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"high-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"gas chromatography-mass spectrometry"	"hydrogencarbonate"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHEBI_17544"
+Study Design Type Term Source REF	""	"CHMO"	"CHMO"	"CHMO"	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	"27762345"
+Study Publication DOI	"10.1038/srep35778"
+Study Publication Author List	"Misra BB, Yin Z, Geng S, de Armas E, Chen S."
+Study Publication Title	"Metabolomic Responses of Arabidopsis Suspension Cells to Bicarbonate under Light and Dark Conditions."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Bicarbonate treatment"	"Light condition"	"Bicarbonate concentration"	"Incubation"	"Replicate"
+Study Factor Type	"Group"	"controlled visible light condition"	"concentration"	"timepoint"	"biological replicate"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://purl.obolibrary.org/obo/XCO_0000181"	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"NCIT"	"XCO"	"CHMO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls311_LC_MS_MS_mass_spectrometry.txt"	"a_mtbls311_GC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"API 4000 QTRAP (AB Sciex)"	"TSQ Quantum XLS (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A. thaliana var. Landsberg erecta (LER) suspension cell cultures were obtained from Dr. Joshua Heazlewood (University of Western Australia, Australia) and maintained in 250 ml flasks under illumination of 130 µmol/m^2/s on an orbital shaker with constant shaking at 120 rpm, 22 °C. They were sub-cultured weekly by tenfold dilution into fresh Murashige and Skoog (MS) medium40 supplemented with 3% sucrose, kinetin (0.05 mg/l) and a-naphthalene acetic acid (NAA) (0.5 mg/l).
+</p>
+The suspension cells were treated with NaHCO3 at a final concentration of 1, 3, or 10 mM. For controls, NaNO3 (NO3- is a macronutrient in MS media) was added in same concentration to nullify the effect of Na+ during the treatment. Furthermore, as HCO3- induced significant pH changes of the MS media (pH 5.8), we added 50 mM (for 1 mM and 3 mM HCO3-) and 100 mM (for 10 mM HCO3-) MES buffer (pH 5.8) to the MS media, and the pH-stabilized MS media were used for both control and HCO3- treatments. In addition, the buffered MS media were sonicated to remove atmospheric gases prior to addition of HCO3-. Cells were incubated at 25 °C for 0, 5, 15, 30, 60, and 120 min on a shaker, and four replicates (n = 4) were generated for each data point after treatment with HCO3- (treatment) and control. After treatment, 100 ml cells at a concentration of 3 x 10^6/ml were filtered using filter paper mounted on funnels, quickly blotted dry using Kim wipes and immediately snap-frozen in liquid nitrogen and stored in a -80 °C freezer until metabolite extraction.
+</p>
+Authentic standard metabolites, listed in (see Supplementary Table S1 in the paper associated with this study) were obtained from Sigma-Aldrich (St. Louis, MO, USA) and their stocks were stored in -80 °C. Serial dilutions of the standards were tested over a range of 10 pmol/µl to 1 nmol/µl for the linearity of detection in the mass spectrometer.
+</p>
+Ref:</br>
+[1] Murashige T. and Skoog F. A revised medium for rapid growth and bio assays with tobacco tissue cultures. Physiol. Plant. 15, 473–497 (1962).<br>
+"	"HPLC-MRM-MS/MS:</br>
+Metabolite extractions from 20 mg of freeze dried suspension cells were performed as described previously[1]. During extraction internal standards were added, i.e., 33 pmol lidocaine (positive mode), 210 pmol camphor-10-sulfonic acid and 100 pmol ribitol (negative mode) to aid in retention time correction and peak abundance quantification. Extracts were dissolved in 100 µl ddH2O and aliquoted for HPLC (MRM)-MS and GC-MS analysis.
+</p>
+GC-MS:</br>
+Gas chromatography-mass spectrometry was performed as previously described[2]. 20 µl of aliquoted extracts were dried and were sequentially derivatised with 100 µl of 20 mg/ml methoxyamine hydrochloride (MeOX) in pyridine, followed by shaking at 55 °C for 90 min, then overnight incubation, which was followed by trimethylsilylation by adding 100 µl of N-methyl-N-trimethylsilyl-trifluoroacetamide (MSTFA) to the mixture and incubation for 30 min at 37 °C, 30 min at 60 °C, and finally for 120 min at 100 °C to obtain optimized derivatization.
+</p>
+Ref:</br>
+[1] Fiehn O, Wohlgemuth G, Scholz M, Kind T, Lee DY, Lu Y, Moon S, Nikolau B. Quality control for plant metabolomics: reporting MSI-compliant studies. Plant J. 2008 Feb;53(4):691-704. doi:10.1111/j.1365-313X.2007.03387.x. PMID:18269577</br>
+[2] Lisec J, Schauer N, Kopka J, Willmitzer L, Fernie AR. Gas chromatography mass spectrometry-based metabolite profiling in plants. Nat Protoc. 2006;1(1):387-96. doi:10.1038/nprot.2006.59. PMID:17406261.</br>"	"HPLC-MRM-MS/MS:</br>
+The targeted metabolite profiling of the samples were performed using HPLC-MRM-MS/MS as described[1][2]. An Agilent 1100 HPLC system (Agilent Technologies, Santa Clara, CA, USA) was used with an autosampler (Agilent, Santa Clara, CA, USA) to inject the samples. A C18-reverse phase analytical column (Gemini 5 µ; 150 x 2.0 mm, Phenomenex, Torrance, CA, USA) with the following gradient program helped separation of the compounds using two solvents i.e., 0.1% formic acid in H2O (solvent A) and 0.1% formic acid in acetonitrile (solvent B) for 1:99, v/v, at 0 min; 1:99, v/v, at 0.2 min; 99.5:0.5, v/v at 31 min; 99.5:0.5, v/v at 34 min; 1:99, v/v, at 34.2 min; 1:99 at 60 min at room temperature at a flow rate of 500 µl/min.
+</p>
+GC-MS:</br>
+Samples were injected at a split ratio of 1:25 (250 °C) with a He carrier gas flow of 2 ml/min in a GC-MS system consisting of an autosampler, a TRACETM 1310 gas chromatograph (Thermo Scientific, San Jose, CA, USA) in-line with a TSQ8000 Triple Quadrupole mass spectrometer (Thermo Scientific, San Jose, CA, USA) equipped with an electron ionization (EI) source. A TR-5MS capillary column (30 m x 0.25 mm x 0.25 µm, Thermo Scientific, Waltham, MA) was used and the temperature program was essentially as described[1][2].
+</p>
+Ref:</br>
+[1] Misra BB, de Armas E, Tong Z, Chen S Metabolomic Responses of Guard Cells and Mesophyll Cells to Bicarbonate. PLoS One. 2015 Dec 7;10(12):e0144206. doi: 10.1371/journal.pone.0144206. PMID:26641455</br>
+[2] MTBLS309 http://www.ebi.ac.uk/metabolights/MTBLS309</br>
+"	"HPLC-MRM-MS/MS:</br>
+The HPLC was coupled to a hybrid triple quadrupole-ion trap 4000 Q-TRAP system equipped with a TurboIonSpray (TIS) interface (AB Sciex Inc., Foster City, CA, USA). The electrospray ionization (ESI) parameters were as previously described[1][2]. QQQ scans were acquired as MRM experiments, where we monitored 59 (5.8 min), 40 (9.9 min), 45 (7.9 min), 31 (12.5 min), and 18 (23.8 min) MRM transitions over five periods (segments) in positive ionization, and 66 and 11 MRM transitions for two periods in negative ionization[3]. Each MRM transition was obtained with a dwell times specific for compounds, and a total cycle time was 1–1.5 s to ensure at least 10 data points across the peak. Only water served as blank solutions, while ddH2O was injected during washes. Pooled samples from the entire study served as quality control for monitoring the chromatography and MS conditions.
+</p>
+GC-MS:</br>
+Mass spectra were collected on the TSQ8000 Triple Quadrupole (Thermo Scientific Inc., San Jose, CA, USA) and 5977A Series GC/MSD (Agilent Technologies, Santa Clara, CA, USA). A standard n-alkane mixture (C8-C40) was injected at the beginning and end of the analysis for tentative identification and to monitor any shifts in retention indices (RI).
+</p>
+Ref:</br>
+[1] Misra BB, de Armas E, Tong Z, Chen S Metabolomic Responses of Guard Cells and Mesophyll Cells to Bicarbonate. PLoS One. 2015 Dec 7;10(12):e0144206. doi: 10.1371/journal.pone.0144206. PMID:26641455</br>
+[2] MTBLS309 http://www.ebi.ac.uk/metabolights/MTBLS309</br>
+[3] Chen W, Gong L, Guo Z, Wang W, Zhang H, Liu X, Yu S, Xiong L, Luo J. A novel integrated method for large-scale detection, identification, and quantification of widely targeted metabolites: application in the study of rice metabolomics. Mol Plant. 2013 Nov;6(6):1769-80. doi:10.1093/mp/sst080. PMID:23702596</br>"	"HPLC-MRM-MS/MS:</br>
+Data imported using AnalystTM software version 1.5.1 (AB Sciex, Foster City, CA, USA) while peak areas were integrated and quantified using the IntelliQuan algorithm of the MultiQuantTM software version 2.1 (AB Sciex, Foster City, CA, USA).
+</p>
+GC-MS:</br>
+The GC-MS data obtained from Xcalibur™ software version 2.0 (Thermo Finnigan, Austin, TX, USA) in raw format were aligned and processed as described[1]. Filtered raw GC-MS data sets comprised of data from four biological replicates (n = 4) and 29 curated analytes with less than 10% missing values, which were imputed using 1/3rd of minimum values in each sample.
+</p>
+Ref:</br>
+[1] Stein S. E. An integrated method for spectrum extraction and compound identification from gas chromatography/mass spectrometry data. J. Am. Soc. Mass Spectrom. 10, 770–781 (1999).</br>"	"HPLC-MRM-MS/MS:</br>
+The optimized parameters used for MRM experiments for each standard metabolite included in HPLC-MRM-MS/MS library are provided in Table S1 in the paper associated with this study. 
+</p>
+GC-MS:</br>
+Metabolite identification and quantification were performed as described[1][2] using MSRI spectral libraries of Golm Metabolome Database available from Max-Planck-Institute for Plant Physiology, Golm, Germany (http://csbdb.mpimp-golm.mpg.de/csbdb/gmd/gmd.html)[3], Automated Mass Spectral Deconvolution and Identification System (AMDIS, National Institute of Standards and Technology, USA) and NIST Mass Spectral Reference Library (NIST11/2011; National Institute of Standards and Technology, USA) library.
+</p>
+Ref:</br>
+[1] Misra BB, de Armas E, Tong Z, Chen S Metabolomic Responses of Guard Cells and Mesophyll Cells to Bicarbonate. PLoS One. 2015 Dec 7;10(12):e0144206. doi: 10.1371/journal.pone.0144206. PMID:26641455</br>
+[2] MTBLS309 http://www.ebi.ac.uk/metabolights/MTBLS309</br>
+[3] Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmüller E, Dörmann P, Weckwerth W, Gibon Y, Stitt M, Willmitzer L, Fernie AR, Steinhauser D. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics. 2005 Apr 15;21(8):1635-8. PMID:15613389</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Chen"	"Misra"	"deArmas"	"Yin"	"Geng"
+Study Person First Name	"Sixue"	"Biswapriya"	"Evaldo"	"Zepeng"	"Sisi"
+Study Person Mid Initials	""	"B."	""	""	""
+Study Person Email	"schen@ufl.edu"	"biswapriyamisra@ufl.edu"	"evaldo.dearmas@thermofisher.com"	"yinzepeng@hotmail.com"	""
+Study Person Phone	"+1 (352) 273-8330"	"+1-(352)-215-6040"	"NA"	"1 (352) 273-8330"	"1 (352) 273-8330"
+Study Person Fax	"+1 (352) 273-8284"	"NA"	"NA"	"NA"	"NA"
+Study Person Address	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, FL, 32610, United States of America, Interdisciplinary Center for Biotechnology Research, University of Florida, Gainesville, FL 32610, United States of America "	"Department of Biology, Genetics Institute, University of Florida, Gainesville, FL 32610, United States of America "	"Training Institute, Thermo Fisher Scientific, 1400 North point Parkway, Ste 10., West Palm Beach, FL, 33407, United States of America "	"Department of Biology, Genetics Institute, University of Florida, Gainesville, FL, 32610, United States of America,"	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, FL, 32610, United States of America,"
+Study Person Affiliation	"Department of Biology"	"Department of Agricultural and Biological Engineering"	"Thermo Fisher Scientific"	"Department of Biology"	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program"
+Study Person Roles	"associate professor"	"Postdoc"	"scientist"	"student"	"student"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/RoleO_0000679"	"http://vivoweb.org/ontology/core#Postdoc"	"http://purl.obolibrary.org/obo/RoleO_0000477"	"http://purl.obolibrary.org/obo/RoleO_0000532"	"http://purl.obolibrary.org/obo/RoleO_0000532"
+Study Person Roles Term Source REF	"ROLEO"	"VIVO"	"ROLEO"	"ROLEO"	"ROLEO"

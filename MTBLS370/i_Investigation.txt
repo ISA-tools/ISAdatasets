@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"RH-MESH"	"BTO"	"NCBITAXON"	"EFO"	"OBI"	"MS"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/RH-MESH"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"2"	"22"	"6"	"113"	"22"	"86"	"6"	
+Term Source Description	"Robert Hoehndorf Version of MeSH"	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS370"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS370"
+Study Title	"A novel targeted/untargeted GC-Orbitrap metabolomics methodology applied to Candida albicans and Staphylococcus aureus biofilms"
+Study Description	"Introduction: Combined infections from Candida albicans and Staphylococcus aureus are a leading cause of death in the developed world. Evidence suggests that Candida enhances the virulence of Staphylococcus - hyphae penetrate through tissue barriers, while S. aureus tightly associates with the hyphae to obtain entry to the host organism. Indeed, in a biofilm state, C. albicans enhances the antimicrobial resistance characteristics of S. aureus. The association of these microorganisms is also associated with significantly increased morbidity and mortality. Due to this tight association we hypothesised that metabolic effects were also in evidence.</br> Objectives: To explore the interaction, we used a novel GC-Orbitrap – based mass spectrometer, the QExactive GC, which combines the high peak capacity and chromatographic resolution of gas chromatography with the sub-ppm mass accuracy of an Orbitrap system. This allows the capability to leverage the widely available electron ionisation libraries for untargeted applications, along with expanding accurate mass libraries and targeted matches based around authentic standards.</br> Methods: Optimised C. albicans and S. aureus mono- and co-cultured biofilms were analysed in addition to the fresh and spent bacterial growth media.</br> Results: The targeted analysis experiment was based around 36 sugars and sugar phosphates, 22 amino acids and five organic acids. We detected an additional 22 highly scoring compounds from untargeted analysis.</br> Conclusion: Many of the results were as expected – rapid consumption of glucose and fructose from the medium regardless of the cell type. We also detected trehalose from the untargeted data, only in medium that contained C. albicans, commensurate with it being a predominantly fungal sugar. Notable from the results is that the pentose phosphate pathway appears to be enhanced in the cells from co-cultured biofilms."
+Study Submission Date	"2016-08-11"
+Study Public Release Date	"2017-02-20"
+Study File Name	"s_Biofilms.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolomics"	"biofilm"	"gas chromatography-mass spectrometry"	"targeted metabolites"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D055432"	"http://purl.obolibrary.org/obo/BTO_0002690"	""	""	""
+Study Design Type Term Source REF	"MESH"	"BTO"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"doi:10.1007/s11306-016-1134-2"
+Study Publication Author List	"Weidt, Stefan, Haggarty, Jennifer, Kean, Ryan, Cojocariu, Cristian I., Silcock, Paul J., Rajendran, Ranjith, Ramage, Gordon & Burgess Karl E.V."
+Study Publication Title	"A novel targeted/untargeted GC-Orbitrap metabolomics methodology applied to Candida albicans and Staphylococcus aureus biofilms "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Species"	"Extract"
+Study Factor Type	"organism"	"Extraction"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0100026"	""
+Study Factor Type Term Source REF	"EFO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_biofilms_metabolite_profiling_mass_spectrometry.txt"	"a_biofilms_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"QExactive GC (Thermo Scientific)"	"ITQ 900 (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Candida and Staphylococcus stains and culture conditions: Candida albicans laboratory strain SC5314 (ATCC MYA-2876) was used in this study. C. albicans was sub-cultured on Sabouraud’s dextrose (SAB) agar (Fluka Analytical, India) and grown at 37 °C for 48 h and maintained at 4 °C. Broths were prepared by inoculating yeast peptone dextrose (YPD) medium (Sigma Life Sciences, USA), followed by incubation at 37 °C, at 188 rpm, for 16-18 h. Staphylococcus aureus Newman strain (NCTC 8178/ATCC) was cultured on Luria Bertani (LB) agar (Sigma Life Sciences, USA) and incubated for 48 h at 37 °C before being maintained at 4 °C. Overnight cultures were incubated aerobically in LB broth (Sigma Life Sciences, USA) in a shaking incubator set to 37 °C, at a speed of 188 rpm, for 16-18 h.</br>
+</p>
+Biofilm culture conditions: Overnight cultures of C. albicans and S. aureus were centrifuged at 3000 rpm for 5 min (Heraeus Megafuge 16R, Thermo Fisher Scientific, Germany) and washed twice using sterile phosphate buffered saline (PBS) (Fisher Chemicals, Leicestershire, UK). C. albicans and S. aureus were standardised to 106 cells/ml in 50% foetal bovine serum (FBS). 50% FBS with no inoculum was used as a control. 1 ml of each of the individual cultures, mixed-cultures and controls were added to individual wells on a 24-well plate (Costar 3524 well plate, Corning Incorporated, NY, USA) containing a sterile cell culture Thermanox cover slip (13 mm Ø, Thermo Fisher Scientific, NY, USA). The cultures were incubated aerobically at 37 °C for 24 h. This experiment utilized six technical replicates for each condition."	"Extracellular-metabolite extraction:</br>
+Medium controls (50% FBS with MilliQ water) and biofilm supernatants were transferred into reaction tubes (1.5 ml, Greiner bio-one GmbH, Germany) containing ice cold chloroform:methanol:water (1:3:1 v:v:v) at a ratio of 1:40 (sample:extraction solvent). The reaction tubes were vortexed at maximum speed for 15 s (Vortex Genie 2, Scientific Industries, NY, USA) and stored at -80 °C prior to derivatization and analysis.</br>
+</p>
+Intracellular-metabolite extraction:</br>
+Cell culture cover slips were removed from the wells and placed in bijouxs containing ice cold 10 mM ammonium bicarbonate. The bijouxs were sonicated at maximum speed for 10 min at 4 °C (XUB5, 4.5 L, Grant Instruments, Cambridgeshire, UK). The supernatants, including the debris, were removed and placed in clean reaction tubes. The biofilm suspensions were centrifuged at 3000 rpm for 5 min at 4 °C, the supernatants were removed, and 1 ml of a 1 ml:1 g extraction solvent (ChCl3:MeOH:H2O 1:3:1 v:v:v) : 0.1 mm acid washed glass beads (Sigma Aldrich, USA) were added to each pellet. Bead beating was carried out at 3000 rpm for 10 min at 4 °C (Disrupter Genie, Scientific Industries, NY, USA). The samples were centrifuged at 13000 rpm for 5 min at 4 °C, the supernatants were removed and stored at -80 °C prior to derivatization and analysis.</br>
+</p>
+Derivitization:</br>
+Retention index mix was prepared from pure alkanes dissolved in hexane to a final concentration of 6 mg/ml. Stock solutions were prepared for each from neat reference standard in water or HCl acidified water for amino acids insoluble in water alone. A custom standard mixture of sugars, sugar phosphates, pentose phosphates and amino acids were then prepared by mixing the stock solutions together and diluting with water.</br>
+A volume of 30 µl extracted sample, as well as each standards mix of sugars, sugar phosphates, pentose phosphate pathway, and amino acids, were transferred into a 300 µl KIMSHIELD™ deactivated glass polyspring insert (National Scientific). Internal standards 13C6-Glucose (2 nmol), D27-Myristic Acid (2 nmol) and Scyllo-Inositol (1 nmol) were added to each sample.  Samples were then dried in a Savant SPD1010 SpeedVac concentrator (Thermo Scientific) for 90 min. Inserts were then placed into a 9 mm screw cap amber borosilicate glass 1.5 ml vial (Thermo Scientific). Fifty µl of 20 mg / ml (w/v) methoxyamine HCl in pyridine was added to each dried sample and sealed. The vial and insert were vortexed for 10 s and incubated at 60 °C for 120 min. Following the methoximation step, 50 µl of MSTFA + 1% TMCS (N-Methyl-N-(trimethylsilyl) trifluoroacetamide + 1% trimethylchlorosilane) was added, followed by a further 10 s of vortexing. Silylation was performed by incubation at 80 °C for a further 120 min. Samples were cooled to room temperature. 1 µl of retention index alkane mixture was added to each sample. Samples were then ready for injection."	"The acquisition sequence started with six injections of matrix conditioning samples prior to running the biofilm and standards mix samples. Derivatized samples, reference standards mixes and QC samples were injected in randomised order across the batch, for a total of 57 injection runs. A robotic arm (Thermo Scientific™ TriPlus™ RSH autosampler ) injected 1 µl of derivatized sample into a split/splitless (SSL) injector at 250 °C using a 1:100 split flow on a Thermo Scientific™ TRACE™ 1310 GC.  Helium carrier gas at a flow rate of 1.0 ml/min was used for separation on a TraceGOLD TG-5SILMS 30 m length × 0.25 mm inner diameter × 0.25 µm film thickness column (Thermo Scientific). The initial oven temperature was held at 70 °C for 4 min, followed by an initial gradient of 20 °C/min ramp rate. The final temperature was 320 °C and held for 8 min. "	"Eluting peaks were transferred through an auxiliary transfer temperature of 250 °C into the Q Exactive-GC mass spectrometer (Thermo Scientific). Electron ionisation (EI) at 70 eV energy, emission current of 50 µA with an ion source temperature of 230 °C was used in all experiments.  A filament delay of 5.3 min was selected to prevent excess reagents from being ionised. High resolution EI fragment spectra were acquired using 60,000 resolution (FWHM at m/z 200) with a mass range of 50-650 m/z. The best internal lock mass from m/z 207.0324, 281.0511 or 355.0699 was used to maintain mass accuracy within 1 ppm throughout the chromatogram."	"Acquired data were processed using a targeted compound list based on the measured EI fragment from authentic standards. The exact mass of the most abundant fragment along with the measured retention time for each compound was entered into a compound database in TraceFinder 4.0 (Thermo Scientific, Runcorn, UK). Compound databases were verified using the standards mix chromatograms acquired during the batch. The data from the samples were then screened against the compound databases and the integrated area for each detected compound recorded. Peak areas were then normalised using total detected signal to compensate for differences in sample loading. The normalised areas were then log2 transformed and compared.</br>
+PCAs were performed by importing the data into the Sieve 2.1 software
+"	"Untargeted screening was performed using TraceFinder 4.0 for unknown compound discovery. This involved a peak deconvolution step using a peak threshold of 2,000.000 with m/z signal-to-noise threshold of 20. NIST 2014 ‘mainlib’ and ‘replib’ low resolution libraries were used to annotate the peaks with a search index threshold of 500. Chemical formulae were then assigned to the accurate mass of each deconvoluted fragment ion measured from the Q Exactive GC making use of the molecular formula of the match to the NIST low resolution library hits. Deconvoluted samples are then retention time aligned and peaks grouped for comparison.  
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Weidt"	"Haggarty"	"Cojocariu"	"Silcock"	"Burgess"
+Study Person First Name	"Stefan"	"Jennifer"	"Cristian"	"Paul"	"Karl"
+Study Person Mid Initials	"K"	""	""	""	""
+Study Person Email	"stefan.weidt@glasgow.ac.uk"	"j.haggarty.1@research.gla.ac.uk"	"cristian.cojocariu@thermofisher.com"	"paul.silcock@thermofisher.com"	"karl.burgess@glasgow.ac.uk"
+Study Person Phone	""	""	""	""	""
+Study Person Fax	""	""	""	""	""
+Study Person Address	""	""	""	""	""
+Study Person Affiliation	"Polyomics"	"University of Glasgow"	"ThermoFisher Scientific"	"ThermoFisher Scientific"	"Polyomics"
+Study Person Roles	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

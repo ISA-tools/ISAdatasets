@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"2"	"86"	"5"	"146"	"43"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS292"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS292"
+Study Title	"Clock regulation of metabolites reveals coupling between transcription and metabolism"
+Study Description	"The circadian clock is intricately connected with metabolism, however the precise details of these connections are incomplete. Here we used high temporal resolution metabolite profiling to determine circadian regulation of mouse liver and cell autonomous metabolism. In mouse liver, we found ~50% of metabolites were circadian, with strong enrichment of the nucleotide, amino acid, and methylation pathways. In U2OS cells, 27% of metabolites were circadian, including amino acids and NAD biosynthesis, also clock controlled in liver. To assess whether cell autonomous metabolite rhythms were clock-dependent, we used RNAi to perturb Bmal1, Cry1, and Cry2. Bmal1 knockdown eliminated most metabolite rhythms, while Cry1 generally shortened and Cry2 lengthened rhythms. Surprisingly, we found Cry1 knockdown induced 8 hr rhythms in amino acid, methylation, and vitamin metabolites, decoupling metabolite and transcriptional rhythms. These results provide the first comprehensive views of circadian liver and cell autonomous metabolism."
+Study Submission Date	"2015-12-11"
+Study Public Release Date	"2017-04-05"
+Study File Name	"s_U2OS Liver.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"circadian rhythm"	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"	"metabolomic profiling"	"replicate"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0004354"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Design Type Term Source REF	"EFO"	"CHMO"	""	"EFO"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28380384"
+Study Publication DOI	"10.1016/j.cmet.2017.03.019"
+Study Publication Author List	"Krishnaiah SY, Wu G, Altman BJ, Growe J, Rhoades SD, Coldren F, Venkataraman A, Olarerin-George AO, Francey LJ, Mukherjee S, Girish S, Selby CP, Cal S, Er U, Sianati B, Sengupta A, Anafi RC, Kavakli IH, Sancar A, Baur JA, Dang CV, Hogenesch JB, Weljie AM."
+Study Publication Title	"Clock Regulation of Metabolites Reveals Coupling between Transcription and Metabolism."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"harvesting time"	"siRNA"	"replicate"
+Study Factor Type	"timepoint"	"RNA"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://purl.obolibrary.org/obo/CHEBI_33697"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_u2os_metabolite_profiling_mass_spectrometry.txt"	"a_liver_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo TQ MS (Waters)"	"Xevo TQ MS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Animal preparation and liver collection:
+Mice were prepared as previously described [1][2]. Briefly, C57BL/6 mice of 6-wk-old male were acquired from Jackson Labs, entrained to a 12 hr:12 hr light:dark schedule for 1 wk. After 18 h of constant darkness, 3 mice were killed in the dark for every hr, for 48 hr. Liver samples were quickly excised and snap-frozen in liquid nitrogen. Food and water were supplied ad libitum at all stages. All procedures were approved by the University of Pennsylvania Institutional Animal Care and Use Committee.</br>
+</p>
+Cell autonomus U2OS cell collection: 
+Cells were prepared as previously described [3]. Briefly, U2OS cells were seeded at 150,000 cells per 35-mm dishes in DMEM medium containing 10% fetal bovine serum (FBS) and antibiotics. Cells were transfected with 12 pmol of siRNA using Lipofectamine RNAiMax transfection reagent (Invitrogen) following the manufacturer’s instructions. A negative control siRNA (AllStars Negative control siRNA; Qiagen) was used to ensure equal molar amounts of Bmal1, Cry1 and Cry2 siRNA were added in each condition. Cells were plated 4 days prior to synchronization and allowed to grow to confluence. Cells were synchronized with 0.1 µM dexamethasone. The collection began 48 hr post-synchronization. During the collection, cell pellets were collected and snap frozen every 2 hr for a total of 48 hr [4].<br/>
+</p>
+Ref:<br/>
+[1] Hughes ME, DiTacchio L, Hayes KR, Vollmers C, Pulivarthy S, Baggs JE, Panda S, Hogenesch JB. Harmonics of circadian gene transcription in mammals. PLoS Genet. 2009 Apr;5(4):e1000442. doi: 10.1371/journal.pgen.1000442.</br>
+[2] Zhang R, Lahens NF, Ballance HI, Hughes ME, Hogenesch JB. A circadian gene expression atlas in mammals: implications for biology and medicine.
+Proc Natl Acad Sci U S A. 2014 Nov 11;111(45):16219-24. doi: 10.1073/pnas.1408886111.</br> 
+[3] Baggs JE, Price TS, DiTacchio L, Panda S, Fitzgerald GA, Hogenesch JB. Network features of the mammalian circadian clock. PLoS Biol. 2009 Mar 10;7(3):e52. doi: 10.1371/journal.pbio.1000052.</br>
+[4] Altman BJ, Hsieh AL, Sengupta A, Krishnanaiah SY, Stine ZE, Walton ZE, Gouw AM, Venkataraman A, Li B, Goraksha-Hicks P, Diskin SJ, Bellovin DI, Simon MC, Rathmell JC, Lazar MA, Maris JM, Felsher DW, Hogenesch JB, Weljie AM, Dang CV. (2015) MYC Disrupts the Circadian Clock and Metabolism in Cancer Cells. Cell Metab., 22(6):1009-19. doi: 10.1016/j.cmet.2015.09.003."	"U2OS cell pellets were thawed on ice and metabolites were extracted using a modified Bligh-Dyer method [1][2]. Briefly, a methanol:chloroform (2:1) mixture (300 μl) was added to cell pellets, then vortexed and sonicated for 15 min. Chloroform and water  (100 μl each) was then added and samples were vortexed. Organic and aqueous layers were separated by centrifugation at 13,300 rpm, for 7 min at 4 °C. Internal standard mix (C13 labeled citrate, fumarate, glutamate, arginine, lactate, glucose) were added to the aqueous layer and samples dried in a speed vac for 4 h until dry and immediately redissolved in mixture of 50:50 ACN:H2O. The samples were centrifuged at 13300 rpm for 5 min to remove fine particulates. The supernatant was transferred to a LC-MS certified sample vial for Ultraperformance liquid chromatography with 95:5 water:acetonitrile 20 mM ammonium acetate, pH 9 (solvent A) and  100% acetonitrile (Solvent B), on a Waters Acquity UPLC coupled to a Waters TQD mass spectrometer (Waters Corporation, Milford, MA, USA).</br>
+</p>
+Ref:</br>
+[1] Bligh EG, Dyer WJ. A rapid method of total lipid extraction and purification. Can J Biochem Physiol. 1959 Aug;37(8):911-7. doi: 10.1139/o59-099</br> 
+[2] Tambellini NP, Zaremberg V, Turner RJ, Weljie AM. Evaluation of extraction protocols for simultaneous polar and non-polar yeast metabolite analysis using multivariate projection methods. Metabolites. 2013 Jul 23;3(3):592-605. doi: 10.3390/metabo3030592.
+"	"Liquid chromatography conditions and mass spectrometer parameters were replicated based on the methods from [1]. Briefly, each sample of 5 μl was injected on a XBridge BEH 2.5 µm 100 mm x 2.1 mm Amide column using an Aquity H-class UPLC system (Waters Corporation, USA). Each sample was resolved for 22 min and the UPLC gradient starts with 15% A and 85% B at 0.15 ml/min, ramped to 70% A and 30% B in 5 min, followed by an isocratic hold for 10 min. The column was washed in 98% A and 2% B and re-equilibrated in the starting conditions before the next injection. The column eluent was introduced directly into the mass spectrometry.</br>
+</p>
+Ref:</br>
+[1] Yuan M, Breitkopf SB, Yang X, Asara JM. A positive/negative ion-switching, targeted mass spectrometry-based metabolomics platform for bodily fluids, cells, and fresh and fixed tissue. Nat Protoc. 2012 Apr 12;7(5):872-81. doi: 10.1038/nprot.2012.024.
+"	"Mass spectrometry was performed on a QQQ quadrupole (TQD) instrument (Xevo G2, Waters Corporation, USA) operating in positive and negative ion mode with Capillary voltage of 3000V and 2000V respectively, Sampling Cone voltage of 40 °C. The desolvation gas flow was set to 900 l/h and the temperature was set to 450 °C. The source temperature was set at 150 °C."	"Ion counts were exported from TargetLynx and subsequently processed in R (version 3.2). Quality control (QC) samples, which consisted of a pooled sample of all samples, were injected at the beginning of the batch for LC column equilibration and every 6 injections during the analysis to account for instrumental drift. For every metabolic feature, a locally-weighted scatterplot smoothing function (LOESS) was fitted to the QC data, which was then used as a normalization factor for the samples as a function of run order. Additionally, metabolic features which appeared in less than 50% of the QC samples and displayed a relative standard deviation (RSD) greater than 30% were dropped from the final dataset."	"Data was acquired as Multiple reaction monitoring’s (MRM) to target specific metabolites and Multiple reaction monitoring’s (MRMs) were established for metabolites based on the Yuanet al. method, along with validation either through standards or mass spectrometry databases. The entire set of duplicate sample injections were bracketed with a test mix of standard metabolites at the beginning and at the end of the run to evaluate instrument performance with respect to sensitivity and mass accuracy. The sample queue was randomized to remove bias. Data processing was done by using Waters TargetLynx software (version 4.1)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Krishnaiah"	"Hogenesch"	"Weljie"
+Study Person First Name	"Saikumari"	"John"	"Aalim"
+Study Person Mid Initials	"Y"	"B"	"M"
+Study Person Email	"krisai@mail.med.upenn.edu"	"john.hogenesch@uc.edu"	"aalim@mail.med.upenn.edu"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"3400 Civic Center Blvd, Bldg 421
+Philadelphia PA 19104"	""	"3400 Civic Center Blvd, Bldg 421
+Philadelphia PA 19104"
+Study Person Affiliation	"University of Pennsylvania"	"University of Cincinnati"	"University of Pennsylvania"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

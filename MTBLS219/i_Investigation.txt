@@ -1,0 +1,116 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BAO"	"NCBITAXON"	"BTO"	"MS"	"EFO"	"SEP"	"CHMO"	"CHEBI"	"EFO"	"NCIT"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/SEP"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	
+Term Source Version	"22"	"19"	"2"	"22"	"86"	"132"	"2"	"16"	"93"	"146"	"40"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BioAssay Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Sample Processing and Separation Techniques Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	
+INVESTIGATION
+Investigation Identifier	"MTBLS219"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS219"
+Study Title	"Deletion of glycerol channel aquaporin-9 (Aqp9) impairs long-term blood glucose control in C57BL/6 leptin receptor-deficient (db/db) obese mice."
+Study Description	"Deletion of the glycerol channel aquaporin-9 (Aqp9) reduces postprandial blood glucose levels in leptin receptor deficient (db/db) obese mice on a C57BL/6×C57BLKS mixed genetic background. Furthermore, shRNA mediated reduction of Aqp9 expression reduces liver triacylglycerol (TAG) accumulation in a diet induced rat model of obesity. The aim of this study was to investigate metabolic effects of Aqp9 deletion in coisogenic db/db mice of the C57BL/6 background. Aqp9wt db/db and Aqp9-/- db/db mice did not differ in body weight and liver TAG contents. On the C57BL/6 genetic background we observed elevated plasma glucose in Aqp9-/- db/db mice (+ 1.1 mM, life-time average) while plasma insulin concentration was reduced at time of death. Glucose levels changed similarly in pentobarbital anesthetized, glucagon challenged Aqp9wt db/db and Aqp9-/- db/db mice. Liver transcriptional profiling did not detect differential gene expression between genotypes. Metabolite profiling revealed a sex independent increase in plasma glycerol (+55%), glucose (+24%) and reduction in threonate (all at q<0.1) in Aqp9-/- db/db mice compared to controls. Metabolite profiling thus confirms a role of AQP9 in glycerol metabolism of obese C57BL/6 db/db mice. In this animal model of obesity Aqp9 gene deletion elevates plasma glucose and does not alleviate hepatosteatosis."
+Study Submission Date	"2015-08-12"
+Study Public Release Date	"2015-09-28"
+Study File Name	"s_AQP9 KO.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"Gene Knockout"	"obesity"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143"	"http://www.ebi.ac.uk/efo/EFO_0001073"	""
+Study Design Type Term Source REF	"CHMO"	"NCIT"	"EFO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26416971"
+Study Publication DOI	"10.14814/phy2.12538"
+Study Publication Author List	"Spegel P, Chawade A, Nielsen S, Kjellbom P, Rützler M."
+Study Publication Title	"Deletion of glycerol channel aquaporin-9 (Aqp9) impairs long-term blood glucose control in C57BL/6 leptin receptor-deficient (db/db) obese mice."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"AQP9"	"Sex"
+Study Factor Type	"gene knock out"	"Gender"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000506"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_liver_aqp9_ko.txt"	"a_plasma_aqp9_ko.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LECO Pegasus III"	"LECO Pegasus III"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Liver Samples:</br>
+db/db mice were starved from 9:00-13:00 h and lean mice were starved from 16:45-09:00 h. Mice were anesthetized (Hypnorm/Dormicum or Fentanyl/Medetomidine/Midazolam (0.05/5/1 mg/kg IP) – as indicated in sample sheets) exsanguinated by cardiac puncture or decapitation. Blood was collected in Heparinized tubes (Sarstedt Microvette 500) and ~50 mg pieces of tissue were collected in 2 ml Axygen tubes + 1 ml MetOH:H2O 1:1 (exactly 22.824 g H2O + 19.186 g MetOH). Tissue was weighed and adjusted to 50 mg/ml concentration with extra Methanol:H2O. The samples were homogenized with Omni THQ hard tissue plastic tips at 11.000 rpm; freezed in Liquid N2 and stored at -80 °C until further use.
+</p>
+Plasma Samples:</br>
+Plasma was prepared from blood by spinning for 2 min at 4300 x g, transferring plasma to a 1.5 ml Sarstedt tube and snap-freezing in liquid nitrogen and stored at -80 °C until further use.</br>"	"Liver Samples:</br>
+Samples were thawed on an ice water slurry. Standard 1 ml colorless Sarstedt tips and 1 ml pipette were used for all pipetting. They were re-suspended and 1 ml to 500 µl pre-chilled (on dry-ice) 1:1 MethOH:H2O was added. They were put back to the ice-water bath and mixed. The mixture was centrifuged at 10,000 x g for 10 min at 4 °C. One blank sample was also put through the whole procedure on 12/18/2013.
+</p>
+The supernatant was collected and transfered to a 2 ml Axygen Eppendorf tube. The pellet in the tube was retained on ice for organic extraction. Two 250 µl aliquots were taken for LC-MS analyses into 1.5 ml Eppendorf Safe-lock tubes (plus 50 µl for GC-MS analysis). For QC analysis, 150 µl of each sample was taken. Samples 248, 250, 266, 267, 268, 269, 275, 276, 277, 279, 294 were used with colorless standard 200 µl tips. Then two 250 µl samples of the combined pool was transferred into Eppendorf safelock tubes and dried along with the other tubes. The aqueous extracts were dried in a Speedvac concentrator at 45 °C for 3 hours (only 2 hrs from 06172014, and only 1 hr for 50 µl samples). The prepared sample was stored at -80 °C (GC-MS samples were initially stored at -20 °C and later at -80 °C before analysis).  The dried samples were extracted into liquid (water/methanol 20/80 v/v), shaken for 3 min at 30 Hz, and centrifuged for 10 min at 17350 x g and 4 °C.
+</p>
+Plasma Samples:</br>
+Metabolites were extracted from 15 µl plasma using a one-phase liquid extraction protocol, as previously described in detail [1]. Extracts were dried using vacuum centrifugation (MiVac…), and derivatized by methoximation and trimethylsilylation. 
+</p>
+Ref:</br>
+[1] Peter Spégel, Anders P. H. Danielsson, Karl Bacos, Cecilia L. F. Nagorny, Thomas Moritz, Hindrik Mulder, Karin Filipsson. Metabolomic analysis of a human oral glucose tolerance test reveals fatty acids as reliable indicators of regulated metabolism. Metabolomics (2010) 6:56–66. DOI 10.1007/s11306-009-0177-z</br>"	"Metabolites were analyzed on an Agilent 6890N gas chromatography instrument (Agilent, Atlanta, GA), equipped with a 30 m DB-5ms Ultra Inert column (ID 250 µm, phase thickness 0.25 µm; Agilent)."	"Mass spectrometry data were recorded on a Leco Pegasus III TOFMS electron impact time of flight mass spectrometer (Leco Corp., St. Joseph, MI) operating in positive ion mode over a mass range of 50-800. Data were acquired using Leco ChromaTof (Leco Corp.) and processed in MATLAB 7.0 (Mathworks, Natick, MA) as previously described in detail [1]. Metabolites were identified by retention indexes, calculated from injection of a homologous alkane series, and mass spectra, using in house developed libraries and the NIST library.
+</p>
+Ref:</br>
+[1] Peter Spégel, Anders P. H. Danielsson, Karl Bacos, Cecilia L. F. Nagorny, Thomas Moritz, Hindrik Mulder, Karin Filipsson. Metabolomic analysis of a human oral glucose tolerance test reveals fatty acids as reliable indicators of regulated metabolism. Metabolomics (2010) 6:56–66. DOI 10.1007/s11306-009-0177-z</br>"	"No transformation."	"In house developed databases, databases developed at Max Planck and at Umeå Plant Science Centre. Identification based on RI and mass spectra."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Rutzler"	"Spegel"
+Study Person First Name	"Michael"	"Peter"
+Study Person Mid Initials	""	""
+Study Person Email	"michael.rutzler@biochemistry.lu.se"	"peter.spegel@med.lu.se"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Getingevägen 60
+22241 Lund
+Sweden"	"CRC, Hus 91 plan 11, Jan Waldenströms gata 35
+Malmö
+Postcode
+205 02"
+Study Person Affiliation	"Dept. Biochemistry and Structural Biology, Lund University"	"Molekylär metabolism"
+Study Person Roles	"principle investigator"	"principle investigator"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/sep_00035"	"http://purl.obolibrary.org/obo/sep_00035"
+Study Person Roles Term Source REF	"SEP"	"SEP"

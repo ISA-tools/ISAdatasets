@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"MS"	"UNITSONT"	"SBO"	"CHMO"	"NCBITAXON"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UNITSONT"	"http://data.bioontology.org/ontologies/SBO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"25"	"103"	"1"	"334"	"16"	"4"	"132"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Units Ontology"	"Systems Biology Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS8"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/rms72/Configurations/isaconfig-201229_live"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS8"
+Study Title	"Growth control of the eukaryote cell: a systems biology study in yeast"
+Study Description	"Metabolic control analysis is being exploited in a systems biology study of the eukaryotic cell. Using chemostat culture, we have measured the impact of changes in flux (growth rate) on the transcriptome, proteome, endometabolome and exometabolome of the yeast Saccharomyces cerevisiae. Each functional genomic level shows clear growth-rate-associated trends and discriminates between carbon-sufficient and carbon-limited conditions. Genes consistently and significantly upregulated with increasing growth rate are frequently essential and encode evolutionarily conserved proteins of known function that participate in many protein-protein interactions. In contrast, more unknown, and fewer essential, genes are downregulated with increasing growth rate; their protein products rarely interact with one another. A large proportion of yeast genes under positive growth-rate control share orthologs with other eukaryotes, including humans. Significantly, transcription of genes encoding components of the TOR complex (a major controller of eukaryotic cell growth) is not subject to growth-rate regulation. Moreover, integrative studies reveal the extent and importance of post-transcriptional control, patterns of control of metabolic fluxes at the level of enzyme synthesis, and the relevance of specific enzymatic reactions in the control of metabolic fluxes during cell growth."
+Study Submission Date	"2012-04-19"
+Study Public Release Date	"2012-04-19"
+Study File Name	"s_live_mtbl8.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"systems biology representation"	"endometabolome"	"exometabolome"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/SBO_0000000"	""	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	""	"SBO"	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"17439666"
+Study Publication DOI	"http://dx.doi.org/10.1186/jbiol54"
+Study Publication Author List	"Castrillo JI,Zeef LA,Hoyle DC,Zhang N,Hayes A,Gardner DC,Cornell MJ,Petty J,Hakes L,Wardleworth L,Rash B,Brown M,Dunn WB,Broadhurst D,O'Donoghue K,Hester SS,Dunkley TP,Hart SR,Swainston N,Li P,Gaskell SJ,Paton NW,Lilley KS,Kell DB,Oliver SG"
+Study Publication Title	"Growth control of the eukaryote cell: a systems biology study in yeast."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"nutrient"	"growth rate"
+Study Factor Type	"nutrient"	"Events per hour"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_33284"	"http://mimi.case.edu/ontologies/2009/1/UnitsOntology#events_per_hour"
+Study Factor Type Term Source REF	"EFO"	"UNITSONT"
+STUDY ASSAYS
+Study Assay File Name	"a_live_mtbl8_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent 6890 GC - LECO Pegasus III TOF MS (LECO)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The diploid Saccharomyces cerevisiae strain FY1679 were grown in fermenters, essentially as described before [1]. A set of chemostat cultures under C-, N-, P- and S-limiting conditions were established at a series of dilution rates (0.07, 0.10, 0.20 /h). Cultures were fed with a defined mineral medium limiting growth by carbon, nitrogen, phosphorus, or sulphur, all other nutritional requirements were in excess at a constant residual concentration. Glucose and vitamins were added to the medium after separate sterilization. Glucose was heat-sterilized at 120 °C. Vitamins were prepared and sterilized by filtration through 0.2 µm filters (Sartopore®2, Sartorius, UK). Chemostat cultivation was performed in 2-litre fermenters (FT Applikon Ltd., UK) with a working volume of 1.0 l, a temperature of 30 °C and a stirrer speed of 750 rpm. The culture pH was maintained at 5.0 by automatic addition of 2 M NaOH or HCl as required, via an Applikon ADI-1030 biocontroller. Aerobic cultivation was performed by maintaining an air flow of 1.0 l/min. The dissolved oxygen concentration in all chemostat cultures, as measured with an Ingold polarographic oxygen electrode, was above 50% of saturation. To avoid loss of volatile metabolites, the off-gas condenser was cooled to 4 °C, connected to a cryostat. Off-gas oxygen and carbon dioxide levels were monitored with a Tandem gas analyser (Magellan Instruments, UK). Steady state conditions were deemed established once biomass levels (absorbance and dry weight measurements), dissolved oxygen, and off-gas fractions remained constant over three residence times (three volume changes). For the rapamycin study, a batch culture growing at mid-exponential phase in minimal medium was established under the same cultivation conditions as for chemostat experiments. This was divided into two flasks. Rapamycin (200 ng/ml) was added to one half, and the vehicle added to the other, as the control. Samples were taken at 0, 1, 2 and 4 hrs after the treatment.
+</p>
+Ref:</br>
+[1] Baganz F1, Hayes A, Marren D, Gardner DC, Oliver SG. Suitability of replacement markers for functional analysis studies in Saccharomyces cerevisiae. Yeast. 1997 Dec;13(16):1563-73. PMID:9509575</br>"	"Sampling, quenching, and efficient extraction for endo- and exometabolome analyses of hundreds of intra- and extracellular metabolites, including the main glycolytic intermediates, nucleotides, pyridine nucleotides, and organic acids (for example, pyruvate, citrate, and succinate) were carried out as described previously [1]. Direct quenching of the culture was performed by fast sampling of a volume of culture equivalent to 30 mg dry weight; extracts and culture supernatants were stored at -80 °C. Samples were prepared for MS immediately before the analysis was carried out.
+</p>
+Ref:</br>
+[1] Castrillo JI, Hayes A, Mohammed S, Gaskell SJ, Oliver SG. An optimized protocol for metabolome analysis in yeast using direct infusion electrospray mass spectrometry. Phytochemistry. 2003 Mar;62(6):929-37.</br>"	"Two different sample types were analyzed, endometabolome and exometabolome. Endometabolome samples (typically 1000 µl) were spiked with 4 µl internal standard solution (2.22 mg/ml [²H2]malonic acid, 1.92 mg/ml [²H5]glycine and 0.61 mg/ml [¹³C6]glucose dissolved in water) and lyophilized using a Speedvac concentrator vacuum system SPD111V connected to a Micromodulyo Freeze Dryer (ThermoLife Sciences, Basingstoke, UK). Exometabolome samples (200 µl) were spiked with 20 µl internal standard solution and lyophilized as previously described. Dried samples were derivatized as follows; 100 µl of 20 mg/ml O-methylhydroxylamine solution was added and heated at 40 °C for 90 minutes followed by addition of 100 µl N-acetyl-N-(trimethylsilyl)-trifluoroacetamide and heating at 40 °C for 120 mins. The final solution was spiked with 20 µl retention index solution (0.6 mg/ml n-decane, n-dodecane, n-pentadecane, n-nonadecane, n-docosane dissolved in hexane).
+</p>
+Chromatography was carried out on Agilent 6890 gas chromatograph using the manufacturer's software (ChromaTOF version 2.12) and a DB-50 GC column (Supelco, Gillingham, UK; 30 m x 0.25 mm x 0.25 µm film thickness)."	"The sample was injected (1 µl) split ratio of 1 in 3 into a Agilent 6890 GC equipped with DB-50 GC column (injector temperature = 270 °C, helium carrier gas flow rate = 1 ml/min). The initial column temperature was 70 °C; this was held for 2 mins and then increased by 24 °C/min to 280 °C and hold for 5 mins. The column effluent was introduced into a LECO Pegasus III time-of-flight mass spectrometer (LECO, St Joseph, MI) with transfer line temperature = 250 °C, ion source temperature = 230 °C). The TOF mass spectrometer can collect spectra at up to 500 Hz and mass range of 30–500 m/z. In the ChromaTOF software the S/N threshold was set at 10, baseline offset at 1.0, data points for averaging at 7, and peak width at 2.5."	"In the ChromaTOF software the S/N threshold was set at 10, baseline offset at 1.0, data points for averaging at 7, and peak width at 2.5. Initial processing of raw data was undertaken using LECO ChromaTOF v2.12 software to construct a data matrix (metabolite peak versus sample number) using response ratios (peak area metabolite/peak area [²H2]malonic acid) to calculate the relative amount of each metabolite in each sample. For each metabolite peak for each set of three biological replicates, the CV was calculated as follows: %CV = (standard deviation/mean) × 100. The mean CV for replicate analytical analyses (n = 3) was 24.6% for all analyses undertaken, with 62% of these analyses having a CV less than 20% and 38.04% having one less than 10%. Although this shows precision to be less robust than for targeted analyses, this is appropriate in metabolic profiling, where many hundreds of metabolites are detected in short analysis times."	"Metabolite peaks were initially identified by searches on a commercially available mass spectral library [NIST/EPA/NIH (02)] (US National Institute of Standards and Technology, the Environmental Protection Agency and the National Institutes of Health; 2002) and libraries prepared by one of us (W.B.D.). For a peak to be identified required a similarity and reverse match score of greater than 700. Metabolite identification was confirmed by the analysis of pure chemical standards in identical conditions to the sample analysis. Identification was confirmed if the retention time (±5 secs) and mass spectra (similarity and reverse matches greater than 750) of metabolite peak in sample and standard were equivalent."
+Study Protocol URI	""	""	"ChromaTOF"	""	""	"http://www.mcisb.org/]"
+Study Protocol Version	""	""	"2.12"	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Castrillo"	"Oliver"	"Dunn"	"Swainston"
+Study Person First Name	"Juan"	"Stephen"	"Warwick"	"Neil"
+Study Person Mid Initials	"I"	"G"	"B"	""
+Study Person Email	"jic28@cam.ac.uk"	"steve.oliver@bioc.cam.ac.uk"	"Warwick.Dunn@manchester.ac.uk"	"neil.swainston@manchester.ac.uk"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"University of Cambridge"	"University of Cambridge"	"University of Manchester"	"University of Manchester"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

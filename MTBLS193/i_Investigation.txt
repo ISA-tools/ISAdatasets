@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"NCIT"	"CHMO"	"EFO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"2"	"86"	"44"	"5"	"146"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS193"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS193"
+Study Title	"Metabolomics approach to understand the resource partitioning in Chlorella during growth"
+Study Description	"We use untargeted high-resolution mass spectrometry to understand the metabolic differences at exponential and stationary growth stages using 22 Chlorella strains collected from South East Asia. Using this data, we demonstrate the use of a filtering procedure based on the SVD on the untargeted metabolite profile data, compared over two growth stages and run in four batches, and to remove structure in data related to day of sample assay. This approach preserves signal of demonstrable biological origin (strain-related variation in mass feature intensity) after minimizing the influence of batch effects. Our approach will be broadly applicable in metabolomics analysis to identify and remove batch effects. See MTBLS129 for associated study."
+Study Submission Date	"2015-04-21"
+Study Public Release Date	"2016-10-03"
+Study File Name	"s_Algal Metabolomics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Batch effects"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27432888"
+Study Publication DOI	"10.1104/pp.16.00421"
+Study Publication Author List	"Rai A, Umashankar S, Rai M, Kiat LB, Bing JA, Swarup S."
+Study Publication Title	"Coordinate Regulation of Metabolite Glycosylation and Stress Hormone Biosynthesis by TT8 in Arabidopsis."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time"	"Origin"	"Batch"
+Study Factor Type	"Phase"	"Location"	"block"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_algal_metabolomics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"6540 Q-TOF LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A total of 22 Malaysian microalgal strains were obtained from University of Malaya Algae Culture Collection. For detailed sample collection methods please refer to Vello et al., 2014 [1].
+</p>
+Ref:</br>
+[1] Vello V, Phang SM, Chu WL, Majid NA, Lim PE, Loh SK. Lipid productivity and fatty acid composition-guided selection of Chlorella strains isolated from Malaysia for biodiesel production. J Appl Phycol. 2014;26(3)1399-1413. doi: 10.1007/s10811-013-0160-y.</br>"	"Cell disruption was achieved using bead beating of the cell pellets, specifically a Tomy micro smash MS 100 bead beater (Tomy Seiko Co., Tokyo, Japan) along with lysing matrix Y from MP Biomedical lysing kit (MP Biomedicals, Solon, OH). The screw-top micro centrifuge tubes containing Lysing matrix constituted 0.5 mm diameter Yttria-Stabilized Zirconium oxide beads. Lyophilized algae cells weighing 50 mg were added to lysing matrix along with 1 ml pre cooled 80% methanol. The sample was subjected to bead beating at 4,000 rpm for 20 s and then thawed in ice for a minute. This procedure was repeated five times, the extract was then centrifuged twice at 11,000 x g for 10 min at 4 °C. The supernatant was pipetted out and filtered through 0.2 µm syringe filters (Sartorius Stedim Biotech). The final extract was kept in -80 °C refrigerator till the analysis."	"Chromatography separations were carried out using a Zorbax Eclipse Plus C18 (2.1 x 50 mm, 1.8 µm) reverse phase column on an Agilent Infinity 1290 UPLC system. The temperatures for column and auto sampler were 50 °C and 7 °C, respectively. The mobile phase consisted of de-ionized water with 0.1% formic acid (solvent A) and LC-MS grade acetonitrile (ACN) with 0.1% formic acid (solvent B). A gradient elution was conducted for separations using the following method: isocratic elution with 5% B for 0.5 min, followed by a 10 min gradient to 98% B, which was kept for 2 min, then re-equilibrated at 5% B for 2.5 min. The flow rate was 0.3 ml/min and injection volume was 3 µl."	"The samples were subjected to an Agilent Q-TOF 6540 mass spectrometer after separation through liquid chromatography. The analysis was carried out in positive mode with ESI as source for ions with a mass range between 50 to 1200 m/z. The nebulizer pressure (psi), source gas temperature (°C), dry and sheet gas flow (l/hour), capillary voltage (V) and sheet gas temperatures (°C) were 40, 250, 12, 12, 4000 and 350, respectively."	"Raw data files from Q-TOF (.d files) were converted into mzXML format using msconvert of the ProteoWizard suite [1][2]. The parameters defined in XCMS for data generated using Q-TOF were used (method = ‘centWave’, ppm = 30, peakwidth = c(5,60), prefilter = c(0,0), snthresh=6, peak grouping: bw = 5, minsamp = 1, mzwid = 0.015; retention time correction algorithm: ‘obiwarp’) (Patti et al., 2012), and a total of 67,467 features were extracted using the XCMS package (version 1.38) [3] in R statistical computing environment (version 3.1) (R Core Team, 2014). Log transformation followed by centering and scaling was performed on the dataset during the data preprocessing stages, to remove any primary inter-sample variation. SVD-based batch effect removal procedure was used to correct for assay-related (batch) effects.
+</p>
+Ref:</br>
+[1] Kessner D, Chambers M, Burke R, Agus D, Mallick P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics. 2008 Nov 1;24(21):2534-6. doi: 10.1093/bioinformatics/btn323.</br>
+[2] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. doi: 10.1038/nbt.2377.</br> 
+[3] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87.</br>"	"N/A"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Swarup"	"Umashankar"	"Williams"	"Phang"
+Study Person First Name	"Sanjay"	"Shivshankar "	"Rohan "	"Siew-Moi"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"sanjay@nus.edu.sg"	"shivshankar@nus.edu.sg"	"lsirbhw@nus.edu.sg"	"phang@um.edu.my"
+Study Person Phone	"(+65)65167933"	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Singapore Centre for Environmental Life Sciences Engineering (SCELSE), National University of Singapore"	"Singapore Centre for Environmental Life Sciences Engineering (SCELSE), National University of Singapore"	"Singapore Centre for Environmental Life Sciences Engineering (SCELSE), National University of Singapore"	"Institute of Ocean and Earth Sciences (IOES), University of Malaya"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

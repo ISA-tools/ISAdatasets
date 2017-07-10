@@ -1,0 +1,114 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"EFO"	"CHMO"	"BTO"	"CHEBI"	"MESH"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"21"	"4"	"132"	"16"	"26"	"93"	"9"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Medical Subject Headings"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS172"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS172"
+Study Title	"Metabolomics profiling of pre-and post-anesthesia plasma samples obtained via Ficoll separation"
+Study Description	"1H Nuclear Magnetic Resonance (NMR) spectroscopy was used to investigate the metabolic consequences of general anesthesia in the plasma of two groups of patients with diagnosis for non-metastatic colorectal cancer and metastatic colorectal cancer with liver-metastasis, respectively. Patients were treated with Etomidate or Propofol, two frequently used sedation agents. Plasma samples were obtained via Ficoll separation. Here, we demonstrated that this procedure introduces a number of limitations for NMR-based metabolomics studies, due to the appearance of spurious signals. Nevertheless, the comparison of the 1H NMR metabolomic profiles of patients treated with Etomidate or Propofol at equipotent dose ranges was still feasible and proved that both agents significantly decrease the plasma levels of several NMR-detectable metabolites. Consequently, samples collected during anesthesia are not suitable for metabolic profiling studies aimed at patient stratification, because interpersonal variability are reduced by the overall depression of metabolites levels. On the other hand, this study showed that plasma metabolomics could represent a valuable tool to monitor the effect of different sedation agents and/or the individual metabolic response to anesthesia, providing hints for an appropriate tuning of personalized sedation procedures. In our reference groups, the metabolomic signatures were slightly different in patients anesthetized with Etomidate versus Propofol. The importance of standardized collection procedures and availability of exhaustive metadata of the experimental design for the accurate evaluation of the significance of the observed changes in metabolites levels are critically discussed."
+Study Submission Date	"2015-02-24"
+Study Public Release Date	"2015-11-17"
+Study File Name	"s_Ind_Colorectal_Cancer.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"	"colorectal cancer"	"Anesthesia"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://www.ebi.ac.uk/efo/EFO_0005842"	"http://purl.bioontology.org/ontology/MESH/D000758"
+Study Design Type Term Source REF	""	"CHMO"	"EFO"	"MESH"
+STUDY PUBLICATIONS
+Study PubMed ID	"26491424"
+Study Publication DOI	"http://dx.doi.org/10.1007/s11306-015-0832-5"
+Study Publication Author List	"Ghini V, Unger FT, Tenori L, Turano P, Juhl H, David KA."
+Study Publication Title	"Metabolomics profiling of pre-and post-anesthesia plasma samples of colorectal patients obtained via Ficoll separation."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_ind_colorectal_cancer_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Seventy tumour patients, 32 female and 38 male, over 18 years of age, 40 with confirmed colorectal cancer and 30 with confirmed liver metastasis from colorectal cancer, were recruited for this study.
+</p>
+For each subject, blood was collected twice, the first time prior to the administration of the anesthesia and the second time when the patient was fully anesthetized, but before the surgery. All blood samples were drawn from the central infusion line and the blood was collected into commercially available EDTA-treated vials. All vials were bandaged with an absorbent cloth, stored in a polythene bag and then immediately transferred at 4 °C."	"Plasma samples were obtained according to Indivumed standard operating procedures: EDTA-plasma was separated from the entire blood by a density gradient centrifugation using the Ficoll-Paque and a Leucosep Tube allowing also the separation of the mononuclear cells lymphocytes used for other aims. Plasma samples were stored at -80 °C until analysis."	"Frozen plasma samples were thawed at room temperature and shaken before use. According to standard procedures [1], a total of 300 µl of a phosphate sodium buffer (70 mM Na2HPO4; 20 % (v/v) 2H2O; 0.025 % (v/v) NaN3; 0.8 % (w/v) sodium trimethylsilyl [2,2,3,3-2H4]propionate (TSP) pH 7.4) was added to 300 µl of each plasma sample, and the mixture was homogenized by vortexing for 30 s. A total of 450 µl of this mixture was transferred into a 4.25 mm NMR tube (Bruker BioSpin srl) for analysis.
+</p>
+Ref:</br>
+[1] Bernini P, Bertini I, Luchinat C, Nincheri P, Staderini S, Turano P. Standard operating procedures for pre-analytical handling of blood and urine for metabolomic studies and biobanks. Journal of Biomolecular NMR. 2011;49:231–243. doi: 10.1007/s10858-011-9489-1. PMID:21380509</br>"	"Monodimensional 1H NMR spectra for all samples were acquired using a Bruker 600 MHz metabolic profiler (Bruker BioSpin) operating at 600.13 MHz proton Larmor frequency and equipped with a 5 mm CPTCI 1H-13C-31P and 2H-decoupling cryoprobe including a z axis gradient coil, an automatic tuning-matching and an automatic sample changer. A BTO 2000 thermocouple served for temperature stabilization at the level of approximately 0.1 K at the sample. Before measurement, samples were kept for at least 3 min inside the NMR probe head, for temperature equilibration (300 K)."	"For each sample, monodimensional 1H NMR spectra were acquired using a standard Carr-Purcell-Meiboom-Gill (CPMG) [1] (cpmgpr1d.comp; Bruker BioSpin) pulse sequence, using 64 scans, 73,728 data points, a spectral width of 12,019 Hz and a relaxation delay of 4 s. This pulse sequence is designed for the selective observation of small molecule components in solutions containing macromolecules.
+</p>
+Ref:</br>
+[1] Carr HY, Purcell EM. Effects of diffusion on free precession in nuclear magnetic resonance experiments. Physical Review. 1954;94:630–638. doi: 10.1103/PhysRev.94.630.</br>"	"Free induction decays were multiplied by an exponential function equivalent to a 1.0 Hz line-broadening factor before applying Fourier transform. Transformed spectra were automatically corrected for phase and baseline distortions and calibrated (glucose doublet at 5.24 ppm) using TopSpin 2.1 (Bruker Biospin srl). Each spectrum in the range between 0.20 and 10.00 ppm was segmented into 0.02-ppm chemical shift bins, and the corresponding spectral areas were integrated using the AMIX software (Bruker BioSpin). Regions between 6.00 and 3.30 ppm containing residual water signal and the broad and intense absorption attributable to the Ficoll contamination were excluded in subsequent statistical analyses. The total spectral area was calculated on the remaining bins and total area normalization was carried out on the data prior to pattern recognition."	"Various kinds of multivariate and univariate statistical techniques were applied on the obtained buckets using R 3.0.2 in house scripts. Principal component analysis (PCA) was used to obtain a preliminary outlook of the data (visualization in a reduced space, clusters detection, screening for outliers), partial least squares (PLS) and multilevel PLS (MPLS) were employed to perform supervised data reduction and classification. Canonical analysis (CA) was used in combination with PLS to increase the supervised separation of the analyzed groups. Accuracy, specificity and sensitivity were estimated according to standard definitions. The global accuracy for classification was assessed by means of a Monte carlo cross-validation scheme.
+</p>
+Twenty metabolites (plus the antibiotic Cefuroxime), whose peaks in the spectra were well defined and resolved, were assigned. Signal identification was performed using a library of NMR spectra of pure organic compounds, public databases (such as HMBD, human metabolic database, and SDBS, spectra database for organic compounds) storing reference NMR spectra of metabolites, spiking NMR experiments and literature data [1]. The relative concentrations of the various metabolites in the different spectra were calculated by integrating the signal area [2]. The Wilcoxon test was used for the determination of the meaningful metabolites. False discovery rate correction was applied using the Benjamini & Hochberg method (FDR) [3]: an adjusted p value of 0.05 was considered statistically significant.
+</p>
+The changes in metabolites levels between two groups of spectra are calculated as the log2 fold change (FC) ratio of the normalized median intensities of the corresponding signals in the spectra of the two groups (Fold change). When two groups were constituted by individuals that could be compared in pairs (e.g. the same individual before and after anesthesia) a pairwise analysis was performed. Pairwise Wilcoxon test (univariate statistics) and multilevel PLS [4][5] were used to this purpose.
+</p>
+Ref:</br>
+[1] Psychogios N, Hau DD, Peng J, et al. The human serum metabolome. Plos One. 2011;6:e16957. doi: 10.1371/journal.pone.0016957. PMID:21359215.</br>
+[2] Wishart DS. Quantitative metabolomics using NMR. Trends in Analytical Chemistry. 2008;27:228–237. doi: 10.1016/j.trac.2007.12.001.</br>
+[3] Benjamini Y, Hochberg Y. On the adaptive control of the false discovery rate in multiple testing with independent statistics. Journal of Educational and Behavioral Statistics. 2000;25(1):60–83. doi: 10.3102/10769986025001060.</br>
+[4] van Velzen EJ, Westerhuis JA, van Duynhoven JP, et al. Multilevel data analysis of a crossover designed human nutritional intervention study. Journal of Proteome Research. 2008;7:4483–4491. doi: 10.1021/pr800145j. PMID:18754629.</br>
+[5] Westerhuis JA, van Velzen EJ, Hoefsloot HC, Smilde AK. Multivariate paired data analysis: multilevel PLSDA versus OPLSDA. Metabolomics. 2010;6:119–128. doi: 10.1007/s11306-009-0185-z. PMID:20339442</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ghini"	"Unger"	"Tenori"	"Turano"	"Juhl"	"David"
+Study Person First Name	"Veronica"	"Florian"	"Leonardo"	"Paola"	"Hartmut"	"Kerstin"
+Study Person Mid Initials	""	"T"	""	""	""	"A"
+Study Person Email	"ghini@cerm.unifi.it"	"unger@indivumed.com"	"tenori@cerm.unifi.it"	"turano@cerm.unifi.it"	"juhl@indivumed.com"	"david@indivumed.com"
+Study Person Phone	"+390554574266"	""	"+390554574266"	"+390554574266"	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Via Luigi Sacconi, 6, 50019 Sesto Fiorentino, Florence, Italy"	"Indivumed GmbH, Falkenried 88, 20251 Hamburg, Germany"	"ia Luigi Sacconi, 6, 50019 Sesto Fiorentino, Florence, Italy"	"ia Luigi Sacconi, 6, 50019 Sesto Fiorentino, Florence, Italy"	"Indivumed GmbH, Falkenried 88, 20251 Hamburg, Germany"	"Indivumed GmbH, Falkenried 88, 20251 Hamburg, Germany"
+Study Person Affiliation	"CERM and Department of Chemistry, University of Florence, Italy"	"Indivumed GmbH"	"FiorGen Foundation"	"FiorGen Foundation"	"Indivumed GmbH"	"Indivumed GmbH"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

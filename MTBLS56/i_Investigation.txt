@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"PO"	"OBI"	"BTO"	"CHEBI"	"EFO"	"CHMO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"28"	"2"	"10"	"25"	"22"	"80"	"113"	"5"	"42"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS56"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS56"
+Study Title	"Quantitative metabolic profiles of tomato flesh and seeds during fruit development: complementary analysis with ANN and PCA (NMR data)."
+Study Description	"Global approach to characterize changes in metabolic profiles in two interdependent tissues Seed and Flesh from the same tomato fruits during tomato fruit development. Tomato, an essential crop in terms of economic importance and nutritional quality, is also used as a model species for all fleshy fruits and for genomics of Solanaceae. Tomato fruit quality at harvest is a direct function of its metabolite content, which in turn is a result of many physiological changes during fruit development. The aim of the work reported here was to develop a global approach to characterize changes in metabolic profiles in two interdependent tissues from the same tomato fruits. Absolute quantification data of compounds in flesh and seeds from 8 days to 45 days post anthesis (DPA) were obtained through untargeted (proton nuclear magnetic resonance, 1H-NMR)."
+Study Submission Date	"2013-09-24"
+Study Public Release Date	"2013-09-24"
+Study File Name	"s_Tomato_2006.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"whole plant development stage"	"portion of plant tissue"	"nuclear magnetic resonance spectroscopy"	"metabolomic profiling"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/PO_0007033"	"http://purl.obolibrary.org/obo/PO_0009007"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://www.ebi.ac.uk/efo/EFO_0000752"
+Study Design Type Term Source REF	""	"PO"	"EFO"	"CHMO"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-007-0059-1"
+Study Publication Author List	"Fabien Mounet, Martine Lemaire-Chamley, Mickaël Maucourt, Cécile Cabasson, Jean-Luc Giraudel, Catherine Deborde, René Lessire, Philippe Gallusci, Anne Bertrand, Monique Gaudillère, Christophe Rothan, Dominique Rolin and Annick Moing"
+Study Publication Title	"Quantitative metabolic profiles of tomato flesh and seeds during fruit development: complementary analysis with ANN and PCA"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Tissue"	"Development stage"
+Study Factor Type	"Tissue"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_tomato_2006_metabolite profiling_NMR spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Tomato (Solanum lycopersicum L., cv Ailsa Craig) plants were grown in a growth chamber with a 15-h-day (25 °C)/9-h-night (20 °C) cycle with an irradiance of 400 µmol/m2/s and 75–80% humidity. Individual flowers were tagged at anthesis (flower opening). The fruit number per truss was limited to six. Changes in fruit diameter were measured every 5 days on 12–36 fruits. The fruits were further selected according to size, color, and position on the truss (elimination of the first and last fruit of the truss), and collected at six times expressed in days post anthesis (DPA):</br>
+- division phase (8 DPA), [Plant ontology FF.01]</br>
+- transition between division and expansion phases (12 DPA), [Plant ontology FF.02]</br>
+- expansion phase (20 DPA), [Plant ontology FF.03]</br>
+- mature green stage (35 DPA) [Plant ontology FF.04]</br>
+- and red ripe fruit (45 DPA). [Plant ontology FR.04]</br>
+</br>
+For each stage, three pools of fruit were harvested from 15 plants:</br>
+- 12 fruit pools for 8 and 12 DPA</br>
+- and 6 fruit pools for 20–45 DPA</br>
+</br>
+Each fruit pool was collected from at least six plants. For each pool, the locular content was rapidly separated into seeds and locular tissue. Flesh samples were constituted of all the fruit tissues, including the locular tissue, without the seeds. All samples were rapidly frozen and ground in liquid nitrogen and stored at 80 °C until use for metabolite profiling."	"Polar metabolites were extracted according to Moing et al.[1]. Briefly, for each sample, two subsamples (50 mg DW each) were extracted successively with 80% ethanol–water, 50% ethanol–water (v/v) and water at 80 °C for 15 min. The supernatants were combined, dried under vacuum and lyophilized.
+</p>
+Ref:</br>
+[1] Moing A., Maucourt M., Renaud C., Gaudillère M., Brouquisse R., Lebouteiller B., Gousset-Dupont A., Vidal J., Granot D., Denoyes-Rothan B., Lerceteau-Kohler E., Rolin D. (2004).  Quantitative metabolic profiling by 1-dimensional 1H-NMR analyses: application to plant genetics and functional genomics. Funct. Plant Biol. 31, 889–902. doi:10.1071/FP04066</br>"	"The dried extracts were titrated with KOD to pH 6 in 400 mM potassium phosphate buffer in D2O, and lyophilized again. The dried titrated extracts were stored in darkness under vacuum at room temperature before 1H-NMR analysis within one week. Each dried titrated extract was solubilised in 0.5 ml D2O containing the sodium salt of (trimethylsilyl)propionic-2,2,3,3-d4 acid (TSP) at a final concentration of 0.01% for chemical shift calibration. Ethylene diamine tetraacetic acid disodium salt was added at a final concentration of 20 mM to chelate paramagnetic cations and improve spectrum resolution, especially in the citrate region."	"1H-NMR spectra were recorded at 500.162 MHz on a Bruker Avance spectrometer using a 5 mm inverse probe and the ERETIC method [1] for quantification as described previously [2]. Ethylene diamine tetraacetic acid disodium salt was added at a final concentration of 20 mM to chelate paramagnetic cations and improve spectrum resolution, especially in the citrate region.
+</p>
+Ref:</br>
+[1] Akoka S, Barantin L, Trierweiler M. Concentration Measurement by Proton NMR Using the ERETIC Method. Anal Chem. 1999 Jul 1;71(13):2554-7. doi:10.1021/ac981422i. PMID:21662801</br>
+[2] Moing A., Maucourt M., Renaud C., Gaudillère M., Brouquisse R., Lebouteiller B., Gousset-Dupont A., Vidal J., Granot D., Denoyes-Rothan B., Lerceteau-Kohler E., Rolin D. (2004).  Quantitative metabolic profiling by 1-dimensional 1H-NMR analyses: application to plant genetics and functional genomics. Funct. Plant Biol. 31, 889–902. doi:10.1071/FP04066</br>"	"64 scans of 32K data points were acquired with a spectral width of 6000 Hz, acquisition time of 2.73 s, 90° pulse angle and recycle delays of 25 s. An automation procedure (automatic shimming and automatic sample loading) requiring about 40 min per sample was used for data acquisition."	"Preliminary data processing was carried out with XWINNMR software (Bruker Biospin, Karlsruhe, Germany). FIDs were Fourier transformed (0.3 Hz line broadening), manually phased and baseline corrected. The resulting spectra were aligned by shifting TSP signal to zero."	"Metabolite concentrations in the NMR tube were calculated using the metabolite mode of AMIX software (version 3.5.6, Bruker) for calculation of resonance areas, followed by data export to Excel software. Quantification was carried out using a glucose calibration curve and the proton amount corresponding to each resonance for all compounds except fructose, glutamine and glutamate. These metabolites were quantified using specific calibration curves of the corresponding compound. Metabolite concentrations in each sample were then calculated based on concentrations in the NMR tube and sample dry weight. The concentration of each organic or amino acid was expressed as g of the acid form per weight unit.
+</p>
+1H-1H COSY (2D-Homonuclear Correlation Spectroscopy) experiments were carried out to verify the identity of known compounds and to determine if signals from unknown compounds truly corresponded to signals from different compounds. Each COSY spectrum was obtained using the cosyqf45 pulse program (COSY using a 45° read pulse), relaxation delay of 1 s, 90° pulse of 9.75 μs, spectral width 6000 and 5000 Hz for f1 and f2 dimensions respectively, 4 K datapoints in f2, 256 in f1. The concentration of NMR unknown compounds was calculated on the assumption that the measured resonance corresponded to one proton and using an arbitrary molecular weight of 100 Da."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Moing"	"Jacob"
+Study Person First Name	"Annick"	"Daniel"
+Study Person Mid Initials	""	""
+Study Person Email	"moing@bordeaux.inra.fr"	"djacob65@gmail.com"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"UMR Biologie du Fruit, Centre INRA de BordeauxINRA – Université Bordeaux 1 – Université Victor Ségalen Bordeaux 2, IFR BVI"	""
+Study Person Affiliation	"INRA Bordeaux"	"INRA Bordeaux"
+Study Person Roles	"Principal Investigator"	"Researcher"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

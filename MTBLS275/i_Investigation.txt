@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"21"	"18"	"6"	"44"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS275"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS275"
+Study Title	"Hepatotoxicity and nephrotoxicity induced by the chlorpyrifos and chlorpyrifos-methyl metabolite, 3,5,6-trichloro-2-pyridinol, in orally exposed mice"
+Study Description	"3,5,6-Trichloro-2-pyridinol (TCP) is a primary degradation product of chlorpyrifos and chlorpyrifos-methyl. TCP has longer half-life in soil and greater solubility in water than its parent compound, and cause wide contamination in environments. However, studies about the toxic effects of TCP are limited and outdate. In this study, 5 mg/kg/day, 50 mg/kg/day, and 150 mg/kg/day TCP were given to male mice through gavage for four weeks. As a result, the final body weights of TCP treated groups were significantly lower than control, and the relative organ weights of the liver and kidney were significantly higher than that of control. In addition, NMR-based metabolomics was used to investigate the toxic effects of TCP. It was found that a total of 39 serum metabolites were significantly changed in the TCP-treated groups, and these metabolites are related to hepatotoxicity and nephrotoxicity. These results were also confirmed by histopathology, serum biochemical, and oxidative stress analysis. In addition, metabolic disturbances due to TCP exposure were also observed based on altered metabolites. As far as we know, these results are the first to show the metabolomic toxicity of TCP, which warrants further research."
+Study Submission Date	"2015-11-12"
+Study Public Release Date	"2016-11-12"
+Study File Name	"s_mtbls275.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"	"3,5,6-trichloropyridine-2-one"	"organophosphorus insecticide"	"Subchronic effects"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/CHEBI_83490"	"http://purl.obolibrary.org/obo/CHEBI_25711"	""
+Study Design Type Term Source REF	""	"CHMO"	"CHEBI"	"CHEBI"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26674679"
+Study Publication DOI	"10.1016/j.scitotenv.2015.11.162"
+Study Publication Author List	"Deng Y, Zhang Y, Lu Y, Zhao Y, Ren H."
+Study Publication Title	"Hepatotoxicity and nephrotoxicity induced by the chlorpyrifos and chlorpyrifos-methyl metabolite, 3,5,6-trichloro-2-pyridinol, in orally exposed mice."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Chemical exposure"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls275_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Male mice (Mus musculus, ICR) were purchased from Qinglongshan Animal Breeding Center (Nanjing, China) and housed in polycarbonate cages with sawdust bedding in temperature (20–25 °C) and relative humidity (50–55%) rooms with a 12 h light/dark cycle. The age of mice is five-week-old. Animals were provided standard chow and water ad libitum. After acclimatization for two weeks, animals were randomly assigned to control group and three TCP-treated groups (5 mice for each group and placed into a separate cage). For control group, corn oil (200 µl) was given to mice by gavage daily. For three TCP-treated groups, mice received a daily dose of TCP in corn oil (200 µl) at 5 mg/kg bw (low dose group, L), 50 mg/kg bw (mid dose group, M) and 150 mg/kg bw (high dose group, H) for a period of 28 days to evaluate the chronic toxicity of TCP on mice. TCP (analytical grade) was purchased from Sigma-Aldrich. The TCP exposure doses employed were chosen based on previously studies[1] and published toxicity data in ECOTOX database of EPA. After 28 days exposure, all mice were anesthetized with diethyl ether. The livers and kidneys were removed and frozen immediately. Blood samples were collected from ocular artery by removing the eyeball quickly. Serum was harvested by centrifuging at 3000 rpm for 15 min at 4 °C and stored at -80 °C. All animals were treated humanely and experimental processes were in accordance with NIH Guide for the Care and Use of Laboratory animals.
+</p>
+Ref:</br>
+[1] Hanley TR Jr, Carney EW, Johnson EM. Developmental toxicity studies in rats and rabbits with 3,5,6-trichloro-2-pyridinol, the major metabolite of chlorpyrifos. Toxicol Sci. 2000 Jan;53(1):100-8. doi:10.1093/toxsci/53.1.100. PMID:10653527</br>"	"Not applicable."	"300 µl phosphate buffer (70 mM Na2HPO4; 0.025 (w/v) NaN3; 20% (v/v) D2O; 3 mM sodium trimethylsilyl [2,2,3,3-2H4] propionate (TSP); pH 7.4) was added to 300 µl serum. This mixture was homogenized and centrifuged at 10,000 rpm for 10 min and then 550 µl of the supernatants was transferred into 5 mm NMR tubes."	"1H NMR spectra were acquired using a Bruker AV III 600 spectrometer equipped with a cryoprobe (5 mm TCI cryo 1H, 15N, 13C Z-GRD), with 32 free induction decays (FIDs) collected into 65,536 data points."	"Water resonance was achieved with an irradiation on the water peak during the recycle delay (2 s) and mixing time (tm) of 150 ms. t1 was set to 3 µs. The 90° pulse length was adjusted to 10 µs. The water-suppressed Carr–Purcell–Meiboom–Gill (CPMG) spin-echo pulse sequence (RD-90°-(t-180°-t)-ACQ) with a total spin-echo delay (2nt) of 40 ms was used to attenuate broad signals from proteins and lipoproteins."	"Exponential line-broadenings of 0.3 Hz were applied before Fourier transformation and spectra were phase and baseline corrected by using MestRec 4.9 software. Each spectrum (0.20–10.0 ppm) was segmented into 0.005-ppm bins. Water resonance (4.5–5.0 ppm) was removed prior to normalization. The total area of each binned spectrum (0.20–4.5 ppm and 5.0–10.0 ppm) was normalized to unity to facilitate comparison among the samples."	"The obtained data sets were scaled to unit variance and mean centered, and then were introduced into SIMCA-P software (Umetric, Umeå, Sweden) for partial least-squares discriminant analysis (PLS-DA). Cross-validation of the model was conducted by the default leave-one-out procedure. The metabolite resonances were identified according to Human Metabolome Database (HMDB) (www.hmdb.ca). The significantly changed metabolites between the control and treatment groups were identified based on the criteria that the FDR < 0.01 and the variable influence on projection (VIP) score > 1 (which contributed relative large to the PLS-DA). The z-scores of the altered metabolites were calculated with the following formula: z-score = (treatment metabolite abundance - control mean) / standard deviation of control[1]. In order to visualize the variation of metabolites between TCP-treated groups and control group, hierarchical clustering and heat map generation were performed based on the z-scores by using the R package pheatmap. Function of the altered metabolites was classified based on KEGG and HMDB database.
+</p>
+Statistical differences of biological parameters between TCP-treated groups and control group were evaluated using ANOVA followed by Bonferroni post hoc test. p < 0.05 was considered statistically significant. All analyses were performed by SPSS 15 software (SPSS Inc., USA).
+</p>
+Ref:</br>
+[1] Jordan J, Zare A, Jackson LJ, Habibi HR, Weljie AM. Environmental contaminant mixtures at ambient concentrations invoke a metabolic stress response in goldfish not predicted from exposure to individual compounds alone. J Proteome Res. 2012 Feb 3;11(2):1133-43. doi:10.1021/pr200840b. PMID:22141365</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhang"
+Study Person First Name	"Yan"
+Study Person Mid Initials	""
+Study Person Email	"yanzhang@nju.edu.cn"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu 210023, China."
+Study Person Affiliation	"Nanjing University"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

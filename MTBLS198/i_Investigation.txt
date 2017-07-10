@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"NCIT"	"MS"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"4"	"44"	"129"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS198"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS198"
+Study Title	"Urinary metabolomic profiling to identify biomarkers of a flavonoid-rich and flavonoid-poor fruits and vegetables diet in adults: the FLAVURS trial."
+Study Description	"The present study aims to investigate the dose dependent effects of consuming diets enriched in flavonoid-rich and flavonoid-poor fruits and vegetables on the urine metabolome of adults who had a ≥1.5 fold increased risk of cardiovascular diseases. A single-blind, dose-dependent, parallel randomized controlled dietary intervention was conducted where volunteers (n = 126) were randomly assigned to one of three diets: high flavonoid diet, low flavonoid diet or habitual diet as a control for 18 weeks. High resolution LC–MS untargeted metabolomics with minimal sample cleanup was performed using an Orbitrap mass spectrometer. Putative biomarkers which characterize diets with high and low flavonoid content were selected by state-of-the-art data analysis strategies and identified by HR-MS and HR-MS/MS assays. Discrimination between diets was observed by application of two linear mixed models: one including a diet-time interaction effect and the second containing only a time effect. Valerolactones, phenolic acids and their derivatives were among sixteen biomarkers related to the high flavonoid dietary exposure. Four biomarkers related to the low flavonoid diet belonged to the family of phenolic acids. For the first time abscisic acid glucuronide was reported as a biomarker after a dietary intake, however its origins have to be examined by future hypothesis driven experiments using a more targeted approach. This metabolomic analysis has identified a number of dose dependent urinary biomarkers (i.e. proline betaine or iberin-N-acetyl cysteine), which can be used in future observation and intervention studies to assess flavonoids and non-flavonoid phenolic intakes and compliance to fruit and vegetable intervention."
+Study Submission Date	"2015-05-11"
+Study Public Release Date	"2016-05-11"
+Study File Name	"s_mtbls198.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Cardiovascular health"	"flavonoids"	"Dietary Intervention"	"Fruit and vegetables"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHEBI_72544"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15447"	""
+Study Design Type Term Source REF	""	""	"CHEBI"	"NCIT"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0935-z"
+Study Publication Author List	"Maria M. Ulaszewska, Kajetan Trost, Jan Stanstrup, Kieran M. Tuohy, Pietro Franceschi, Mary Foong-Fong Chong, Trevor George, Anne Marie Minihane, Julie A. Lovegrove, and Fulvio Mattivi."
+Study Publication Title	"Urinary metabolomic profiling to identify biomarkers of a flavonoid-rich and flavonoid-poor fruits and vegetables diet in adults: the FLAVURS trial."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diet"	"Time"	"Batch"
+Study Factor Type	"diet"	"timepoint"	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls198_NEG_mass spectrometry.txt"	"a_mtbls198_POS_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap XL (Thermo Scientific)"	"LTQ Orbitrap XL (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Two cohorts of men and women, aged 26–70 yrs, were recruited to the FLAVURS trial from the population in and around Reading, UK. After a 2-week run-in, the HF and LF participants’ intake of F&V was increased over and above habitual intake by 2, then 4, then 6 portions (80 g)/day of F&Vs over three consecutive 6 week periods. Participants attended 4 clinical visits at the Hugh Sinclair Unit of Human Nutrition (week 0, 6, 12 and 18), where measurements of vascular function were performed and fasting blood and 24-h urine samples were collected. A total of 174 participants (68 men, 106 women) commenced the study, with 154 (60 men, 94 women) completing all 4 visits. Samples from 126 volunteers (42 persons per diet) resulting in a total of 504 24-h urine samples on which untargeted metabolomics analysis was performed.
+Details regarding the diets were as follows: participants in the HF group received F&V which contained >=15 mg/100 g flavonoids. Participants assigned to the LF dietary group received F&V <5 mg/100 g flavonoids. The control group (CT) maintained their habitual diet."	"Urine samples were thawed on ice before analysis and centrifuged for 3 min at 12,000 x g. 200 µl of internal standard in methanol (25 ppm 13C1 labeled creatinine and 5 ppm trans cinnamic acid-d5) was added to 200 µl of urine and centrifuged at 15,000 rpm for 5 min at 4 °C. Labelled standards were used for additional control of MS signal stability and extraction efficiency. The supernatant was filtered with a 0.45 µm PVDF syringe filter, and diluted with 600 µl of MiliQ water. A quality control sample consisting of a pool of all urine samples analyzed in the course of this study, together with a technical solution of rosmarinic acid (1 ppm) and solvent (MeOH/Water 1:1) were injected every 16 samples for evaluation of the performance of the analytical system in terms of retention times, mass accuracy, signal intensities, and carry over phenomena. Samples were divided into three batches, (168 samples/batch) with equal amount of samples from each diet. Samples were randomized within each batch. All samples belonging to one volunteer were run within a single batch (42 people/batch)."	"A hybrid linear ion trap Fourier Transform (LTQ FT) Orbitrap mass spectrometer (Thermo Fisher, Bremen, Germany) was interfaced to a Dionex HPLC system, consisting of an autosampler and quaternary gradient HPLC-pump. Chromatographic separation of the compounds was performed using a Kinetex C18 column (150 mm x 2.1 mm I.D., particle size 3.5 µm) (Phenomenex Torrance, CA, USA). The pre-column used was a 4.0 mm x 2.0 mm I.D. Phenomenex Security Guard column. The analytical and the guard columns were maintained at a temperature of 30 °C in a column thermostat. An optimized gradient was used at a constant flow rate of 0.3 ml/min using Milli-Q water (Solvent A) and acetonitrile (Solvent B) both with 0.1% formic acid. The composition of mobile phases was: 95% of solvent A and 5% of solvent B were maintained for 1 min, followed by an increase of solvent B to 45% in 12 min and to 80% in 2 min and maintained for 2 min. The initial composition was restored in 3 min."	"The Orbitrap LTQ was equipped with an Electrospray Ionization (ESI) probe and operated in the positive and negative ionization modes. The conditions in ESI positive (and negative) mode were: source voltage 5.0 kV (3.5 kV), heated capillary temperature 320 °C, capillary voltage 30 V (-30 V) and tube lens 110 V (-110 V). In the LTQ component of the instrument, nitrogen was used as both the sheath gas (70 U) and auxiliary gas (30 U), and helium was used as the damping gas. All measurements were done using the automatic gain control of the LTQ to adjust the number of ions entering the trap. Product ions were generated in the LTQ trap at collision energy 30 eV using an isolation width of 2 Da. Full-scan accurate mass spectra (mass range from 50 to 700 Da) were obtained at a mass resolution of 30,000 FWHM (m/z 400) in profile mode. The mass spectrometer operated under data-dependent-acquisition (DDA) mode during the complete chromatographic run, in which both MS and MSn spectra were acquired simultaneously. The resolving power for MS2 scans was 7500. Mass calibration was performed with every sequence run just prior to starting the batch by using flow injection of the manufacturer’s calibration standards mixture allowing for mass accuracies <5 ppm in external calibration mode. 10 µl of sample were injected to the system. Additional MS3 and MS4 experiments were performed for selected ions showing statistically significant differences between treatments. Three samples were reinjected for each ion of interest and, samples were chosen based on maximal intensity."	"All raw data were manually inspected using the Qual browser module of Xcalibur version 2.0.7 (Thermo Fisher Scientific, Les Ulis, France). Raw files were transformed into centroid mode and converted to mzXML with the msconvert utility included in ProteoWizard [1]. To eliminate
+possible instrumental artifacts which can affect Fourier transform mass spectrometers, the raw data was filtered prior to processing with the Spectra Filter Window Mower function available in The OpenMS Proteomics Pipeline (TOPP) [2], using a window size of 0.3 Da. Downstream, profiling data was processed with XCMS [3] using the ‘‘matchedFilter’’ peak picking method. The unfiltered data was used in the ‘‘fillpeaks’’
+step of XCMS to re-integrate zero intensity peaks. The resulting feature matrix was annotated using CAMERA [4] to group features corresponding to the same parent ion species.
+</p>
+Ref:</br>
+[1] Chambers, M. C., Maclean, B., Burke, R., et al. (2012). A cross-platform toolkit for mass spectrometry and proteomics. Nature Biotechnology, 30(10), 918–920. doi:10.1038/nbt.2377. PMID:23051804</br>
+[2] Sturm, M., Bertsch, A., Gropl, C., Hildebrandt, A., Hussong, R., Lange, E., et al. (2008). OpenMS - an open-source software framework for mass spectrometry. BMC Bioinformatics, 9(163), 1–11. doi:10.1186/1471-2105-9-163. PMID:18366760</br>
+[3] Smith, C. A., Want, E. J., O’Maille, G., Abagyan, R., & Siuzdak, G. (2006). XCMS: Processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Analytical Chemistry, 78(3), 779–787. doi:10.1021/ac051437y. PMID:16448051</br>
+[4] Kuhl, C., Tautenhahn, R., Bottcher, C., Larson, T. R., & Neumann, S.(2012). CAMERA: An integrated strategy for compound spectra
+extraction and annotation of liquid chromatography/mass spectrometry data sets. Analytical Chemistry, 84(1), 283. doi:10.1021/ac202450g. PMID:22111785</br>"	"Markers contributing to the discrimination between diets were identified through a multiple-step procedure. CAMERA was used for identification of clusters of ions originating from the same metabolite. Discriminative markers were then compared with the monoisotopic molecular weight, chemical structures and LC-MS/MS spectra of metabolites proposed by freely available databases: m/z Cloud (www.mzcloud.org); the Human Metabolome DB, the METLIN, the MassBank and the LIPID MAPS databases."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ulaszewska"
+Study Person First Name	"Maria"
+Study Person Mid Initials	""
+Study Person Email	"m.ulaszewska@gmail.com"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"FMACH"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

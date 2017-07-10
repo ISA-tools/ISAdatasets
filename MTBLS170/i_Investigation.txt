@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"129"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS170"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS170"
+Study Title	"Computational Ranking of Yerba Mate Small Molecules Based on Their Predicted Contribution to Antibacterial Activity against Methicillin-Resistant Staphylococcus aureus"
+Study Description	"The aqueous extract of yerba mate, a South American tea beverage made from Ilex paraguariensis leaves, has demonstrated bactericidal and inhibitory activity against bacterial pathogens, including methicillin-resistant Staphylococcus aureus (MRSA). The gas chromatography-mass spectrometry (GC-MS) analysis of two unique fractions of yerba mate aqueous extract revealed 8 identifiable small molecules in those fractions with antimicrobial activity. For a more comprehensive analysis, a data analysis pipeline was assembled to prioritize compounds for antimicrobial testing against both MRSA and methicillin-sensitive S. aureus using forty-two unique fractions of the tea extract that were generated in duplicate, assayed for activity, and analyzed with GC-MS. As validation of our automated analysis, we checked our predicted active compounds for activity in literature references and with used authentic standards to test for antimicrobial activity. 3,4-dihydroxybenzaldehyde showed the most antibacterial activity against MRSA at low concentrations in our bioassays. In addition, quinic acid and quercetin were identified using random forests analysis and 5-hydroxy pipecolic acid was identified using linear discriminant analysis. We additionally also generated a ranked list of unidentified compounds that may contribute to the antimicrobial activity of yerba mate against MRSA. Here we utilized GC-MS data to implement an automated analysis that resulted in a ranked list of compounds that likely contribute to the antimicrobial activity of aqueous yerba mate extract against MRSA."
+Study Submission Date	"2015-02-24"
+Study Public Release Date	"2015-03-19"
+Study File Name	"s_Solvent_fractions_of_an_aqueous_extract_of_yerba_mate_Ilex_paraguariensis.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Methicillin Resistant Staphylococcus aureus"	"gas chromatography-mass spectrometry"	"metabolite profiling"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123515"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/OBI_0000366"	""
+Study Design Type Term Source REF	"NCIT"	"CHMO"	"OBI"	""
+Comment[MRSA_inhibition]	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25955847"
+Study Publication DOI	"10.1371/journal.pone.0123925"
+Study Publication Author List	"Caroline S. Rempe, Kellie P. Burris, Hannah L. Woo, Benjamin Goodrich, Denise Koessler Gosnell,  Timothy J. Tschaplinski, C. Neal Stewart, Jr"
+Study Publication Title	"Computational ranking of yerba mate small molecules based on their predicted contribution to antibacterial activity against methicillin-resistant Staphylococcus aureus"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"MRSA_inhibition"	"SA_inhibition"
+Study Factor Type	"Boolean"	"Boolean"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_solvent_fractions_of_an_aqueous_extract_of_yerba_mate_ilex_paraguariensis_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Dried leaves of a single commercial brand of yerba mate tea (Taragui; Argentina; 100% leaves; I. paraguariensis) were purchased from a local international supermarket and finely ground to a particle size < 300 µm using a commercial food blender (Oster, Boca Raton, Fla., USA). Sterile deionized water was added to ground leaves at a ratio of 3.6 ml to 1 g ground tissue, was allowed to stand for 2 h at 4 °C with occasional mixing to maximize extraction and was subsequently centrifuged at 5000 x g for 30 min. Aqueous extracts were then subjected to dialysis at 4 °C against deionized water for 36 h using a 3500 MWCO SnakeSkin® pleated dialysis tubing (ThermoFisher Scientific, Rockford, Ill., USA). Dialyzed extracts were then centrifuged at 5000 x g for 30 min to remove large insoluble particles and frozen at -80 °C.  Frozen extracts were lyophilized using Labconco FreeZone 12 L Freeze Dry System (Labconco, Kansas City, Missouri, USA) to concentrate them.  Lyophilized extracts were stored at room temperature in a sealed container until testing."	"Lyophilized aqueous yerba mate extract was further extracted with 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, and 90% solvent (methanol or acetonitrile) and centrifuged at 13,000 x g for 30 min to separate them into two fractions: the pellet (not soluble in solvent concentration) and the supernatant (soluble in solvent concentration).  Fractions were subsequently dried using a SpeedVac Concentrator (Savant Industries, Inc., Farmingdale, N.Y., USA).  Lyophilized solvent-extracts were weighed, resuspended in sterile water to a concentration of 40 mg/ml and stored at -20 °C until bio-assays or derivitization for GC-MS.
+</p>
+Samples were filtered using 0.2 µm nylon membrane filters (13 mm Acrodisc; Pall Corporation, Ann Arbor, Mich., USA). 50 µl of each sample (or the whole sample if < 50 µl) and 15 µl of 1 mg/ml liquid sorbitol solution were then dried under a stream of sterile flowing nitrogen. Dried samples were derivitized by adding 500 µl HPLC grade acetonitrile followed by 500 µl N-methyl-N-trimethylsilyltrifluoroacetamide (MSTFA) with 1% trimethylchlorosilane (TMCS) (Thermo Fisher Scientific) and incubating at 70 °C for 60 min."	"After 2 d, 1 µl of each sample was injected by an autosampler into a 5975C inert XL gas chromatograph-mass spectrometer (Agilent Technologies Inc., Santa Clara, Calif., USA), fitted with an Rtx-5MS with Integra-guard (5% diphenyl/95% dimethyl polysiloxane) capillary column 30 m by 250 µm by 0.25 µm of film thickness."	"This standard quadrupole GC-MS was operated with electron impact (EI) ionization at 70 eV, 50 Da to 650 Da scans per second, and helium gas flow rate of 1.33 ml/min with the injection port in splitless mode. Temperatures were held at 250 °C for the injection port, 230 °C for the mass spectrometer source, and 150 °C for the mass spectrometer quad. The oven was programmed to start at 50 °C for 2 min, ramp up to 325 °C at 20 °C per min, hold for 11 min, and then cycle back down to 50 °C."	"Data files were exported to AIA format in MSD ChemStation (Agilent Technologies, Inc., Santa Clara, Calif, USA) for subsequent analysis.
+</p>
+Correction factors for the 2 samples with concentrations less than 50 µl were multiplied by intensity values to approximate 50 µl samples. Samples were also normalized with respect to the sorbitol (internal standard) 319 m/z spectral peak.
+</p>
+Peak selection and retention time correction were accomplished using the XCMS functions group(), retcor(), and group() with parameters based on the default GC-MS parameters of XCMS Online (see publication supplementary files for detailed parameters). 
+</p>
+Data was autoscaled for principal component analysis and supervised classification methods."	"Identification was only attempted for metabolites highly ranked by their differences between 'active' and 'inactive'. Identification was accomplished using spectra from the Wiley library and in-house libraries."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Rempe"
+Study Person First Name	"Caroline"
+Study Person Mid Initials	"S"
+Study Person Email	"crempe@vols.utk.edu
+"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"University of Tennessee"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

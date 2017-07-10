@@ -1,0 +1,158 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"146"	"44"	"22"	"86"	"43"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS123"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS123"
+Study Title	"Identification of Biomarkers using Metabolomics in Porcine Hemorrhagic Shock"
+Study Description	"Hemorrhagic shock with injury results in alterations of the metabolic state of an organism, which contribute to organ dysfunction and death. Previous investigations have explored the effects of carbohydrate prefeed in murine models but few in clinically relevant large animal models. We performed carbohydrate prefeed in pigs undergoing simulated polytrauma and hemorrhagic shock with resuscitation to determine if carbohydrate prefeeding if the metabolic response to shock is dependent on fed state. Sixty-four Yorkshire pigs were divided into two experimental groups: fasted and prefed in additon to two Control groups. Experimental animals were subjected to a standardized hemorrhagic shock protocol, including pulmonary contusion and liver crush injury. To determine molecular alterations in response to trauma as a result of prefeeding, liver and muscle biopsies in addition to serum and urine samples were obtained at set timepoints throughout the procedure. The samples were prepared and analyzed by NMR spectroscopy."
+Study Submission Date	"2014-10-14"
+Study Public Release Date	"2015-01-31"
+Study File Name	"s_MONR.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Hemorrhagic Shock"	"nuclear magnetic resonance spectroscopy"	"cell culture"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35017"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/BTO_0000214"	""
+Study Design Type Term Source REF	"NCIT"	"CHMO"	"EFO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""	""	""	""
+Study Publication DOI	"http://dx.doi.org/10.1007/s11306-014-0621-6"	"http://dx.doi.org/10.1007/s11306-012-0441-5"	"http://dx.doi.org/10.4172/1948-593X.1000041"	"http://dx.doi.org/10.1097/TA.0b013e3182609821"
+Study Publication Author List	"Charles E. Determan Jr, Elizabeth R. Lusczek, Nancy E. Witowski, Dan Lexcen, Kristine E. Mulier, Greg J. Beilman "	"Elizabeth R. Lusczek, Daniel R. Lexcen, Nancy E. Witowski, Kristine E. Mulier, Greg Beilman"	"Elizabeth R. Lusczek, Teresa Nelson, Daniel Lexcen, Nancy E. Witowski, Kristine E. Mulier, Greg Beilman"	"Lexcen, Daniel R.; Lusczek, Elizabeth R.; Witowski, Nancy E.; Mulier, Kristine E.; Beilman, Greg J."
+Study Publication Title	"Carbohydrate fed state alters the metabolomic response to hemorrhagic shock and resuscitation in liver"	"Urinary metabolic network analysis in trauma, hemorrhagic shock, and resuscitation"	"Urine Metabolomics in Hemorrhagic Shock: Normalization of Urine in the Face of Changing Intravascular Fluid Volume and Perturbations in Metabolism."	"Metabolomics classifies phase of care and identifies risk for mortality in a porcine model of multiple injuries and hemorrhagic shock."
+Study Publication Status	"Published"	"Published"	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""	""	""
+Study Publication Status Term Source REF	""	""	""	""
+STUDY FACTORS
+Study Factor Name	"Survival"	"Treatment"	"Timepoint"
+Study Factor Type	"Group"	"Group"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_monr_liver_NMRspectroscopy.txt"	"a_monr_muscle_NMRspectroscopy.txt"	"a_monr_serum_NMRspectroscopy.txt"	"a_monr_urine_NMR spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Varian"	"Bruker"	"Bruker"	"Varian"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Liver and skeletal muscle: </br>
+Sixty four (64) juvenile, male Yorkshire pigs were used in this study. Other results from this group of animals have been previously published [1][2][3]. Two experimental groups were utilized: Carbohydrate Prefed (CPF, n = 32) and Fasted (FS, n = 32). CPF animals were given 7 cc/kg bolus of Karo Syrup® (mixture of sugars including ~15% glucose, maltose, fructose and sucrose) diluted with water 1 hr prior to induction of anesthesia. The full experimental polytrauma and shock protocols have been described in detail previously [2][4]. Briefly, animals were instrumented and splenectomized. Polytrauma was induced by a captive bolt device to create a blunt percussive injury to the chest and a liver crush injury using a Holcomb clamp technique [5]. Hemorrhagic shock was then induced by withdrawal of blood from the inferior vena cava until a systolic pressure of 45–55 mmHg was reached for 45 min (S45) to simulate delay prior to medical attention. Typically, this resulted in withdrawal of ~40% of the pig’s blood volume. Blood was placed in an acid-citrate-dextrose bag for later use. Following the shock period, animals received lactated Ringer’s fluid given as 20 cc/kg intravenous(IV) boluses to maintain a systolic blood pressure greater than 80 mmHg for 1 h of limited resuscitation to simulate transportation to a medical center; then underwent full resuscitation protocol for the following 24 h. This resuscitation included fluid, shed blood, and ventilator support in a protocolized fashion. After the resuscitation period, animals were extubated and sent to recovery and subsequently euthanized.
+</p>
+At several time points throughout the experiment, peripheral liver and skeletal muscle biopsies were taken ranging in weight from 0.2 to 0.6 g. Biopsies were flash frozen in liquid nitrogen and stored at -80 °C until preparation for NMR analysis. Biopsies were taken at the following timepoints: baseline after the animal stabilized from instrumentation (B), 45 min after hemorrhage (S45), 2, 8, and 20 h after full resuscitation (FR2, FR8, FR20). Changes induced by hemorrhagic shock polytrauma and 'early' resuscitation were denoted as the difference between S45 and B (S45-B) and between FR2 and S45 (FR2-S45) respectively.
+</p>
+Serum:</br>
+Twenty-three (23) juvenile male Yorkshire-crossbred pigs were used in this study. Upon stabilization, and after the measurement of baseline variables,
+the animals underwent a simulated pulmonary contusion by using a captive bolt device (Ramset, Glendale Heights, IL) to create a blunt percussive injury with a 0.22 caliber load by placing the device under the front, right limb on the sixth or seventh rib from the bottom. Hemorrhagic shock was induced by the removal of blood via inferior vena cava catheter into acid-citrate-dextrose blood bags to obtain a systolic blood pressure of less than 50 mm Hg (typically 35-50% of total blood volume). A liver crush injury was induced using a modified Holcomb clamp technique with two crush injuries made in the liver parenchyma that result in a grade 2 liver injury[5]. The abdomen was closed after shock and hypotensive resuscitation. After 45 minutes of shock, animals received 1 hour of limited resuscitation (to simulate transport to definitive care), followed by 20 hours of a standard resuscitation protocol. Throughout the shock and resuscitation periods, animals were maintained on the ventilator and received an adjusted dose of propofol and nitrous oxide to maintain an appropriate level of sedation and comfort as evaluated by a clinical examination and a bispectral index monitor. At 20 hours following the initiation of full resuscitation, surviving animals had all lines removed, venous lines were tunneled for access, and the animals were closed in three layers. The animals were then awakened, extubated and sent to recovery and subsequently euthanized.
+</p>
+Blood samples were collected from the animals at baseline (before hemorrhage), at shock (after 45 minutes of shock), and at 8 hours of full resuscitation. After clotting, blood was immediately centrifuged for 15 min at 3000 g to extract serum, transferred to a clean tube, and stored at 4 °C overnight. All samples were then stored at -80 °C until prepared for NMR analysis.
+</p>
+Urine:</br>
+Forty male Yorkshire pigs (Manthei Hog Farm, LLC, Elk River, MN) weighing between 15 and 20 kg were randomized to experimental group,  Negative control, (Positive) control, Fasted, and Pre-fed.  One control group underwent surgical preparation without shock or trauma (non-hemorrhaged). A second control group underwent all experimental interventions but did not receive resuscitation (non-resuscitated). Animals in the two experimental groups underwent all experimental manipulations as described below and differed in that one group received a bolus of 140 ml of Karo® Syrup with 140 ml water 30 min prior to experimental manipulation (pre-fed) while the other group received only water for 12 h prior to intervention (fasted). Urine samples from all forty animals were taken at set timepoints throughout the experiment. A total of 165 samples were obtained.
+</p>
+Ref:</br>
+[1] Lusczek ER, Lexcen DR, Witowski NE, Mulier KE, Beilman G. Urinary metabolic network analysis in trauma, hemorrhagic shock, and resuscitation. Metabolomics, Feb 2013, 9(1), 223-235.</br>
+[2] Scribner DM, Witowski NE, Mulier KE, Lusczek ER, Wasiluk KR, Beilman GJ. Liver metabolomic changes identify biochemical pathways in hemorrhagic shock. J Surg Res. 2010 Nov;164(1):e131-9. PMID: 20855081</br>
+[3] Iyegha UP, Witowski N, Lexcen D, Mulier KE, Asghar JI, Lusczek B, Beilman GJ. Does the fed state impact outcome in polytrauma and hemorrhagic shock? JACS, Sep 2012, 215(3), S52.</br>
+[4] Lexcen DR, Lusczek ER, Witowski NE, Mulier KE, Beilman GJ. Metabolomics classifies phase of care and identifies risk for mortality in a porcine model of multiple injuries and hemorrhagic shock. J Trauma Acute Care Surg. 2012 Aug;73(2 Suppl 1):S147-55. PMID: 22847086</br>
+[5] Holcomb JB, Pusateri AE, Harris RA, Charles NC, Gomez RR, Cole JP, Beall LD, Bayer V, MacPhee MJ, Hess JR. Effect of dry fibrin sealant dressings versus gauze packing on blood loss in grade V liver injuries in resuscitated swine. J Trauma. 1999 Jan;46(1):49-57. PMID: 9932683</br>"	"Liver and skeletal muscle: </br>
+Stored liver and skeletal muscle samples were prepared for NMR analysis using a variation of the perchloric acid (PCA) extraction technique [1]. Frozen samples were weighed and pulverized into a fine powder using a mortar and pestle in liquid nitrogen, weighed, and kept on ice in eppendorf tubes. Perchloric acid (6%) was added at 5 ml/g of tissue and vortexed for 30 s. Samples were incubated for 10 min and subsequently centrifuged at 12,000×g for 10 min at 4 °C. The supernatant was collected, pH neutralized with 2 M K2CO3 to 7.4, incubated on ice for 30 min and centrifuged once more at 12,000×g for 10 min at 4 °C. The supernatant was collected, frozen and lyophilized in a LABCONCO Freezone 6 Plus freeze–drier (Kansas City, MO).
+</p>
+Serum:</br>
+N/A
+</p>
+Urine: </br>
+Urine samples were taken at the time intervals: S45 (45 mins of hemorrhagic shock), FR2 (2 h of full resuscitation), FR8 (8 h of full resuscitation), FR20 (20 h of full resuscitation), and PR48 (48 h of full resuscitation).  Samples were taken from the bladder catheter and then frozen and stored at -80 °C. Samples were thawed at the time of preparation for nuclear magnetic resonance (NMR) analysis.
+</p>
+Ref: </br>
+[1] Tyagi RK, Azrad A, Degani H, Salomon Y. Simultaneous extraction of cellular lipids and water-soluble metabolites: evaluation by NMR spectroscopy. Magn Reson Med. 1996 Feb;35(2):194-200. PMID: 8622583</br>"	"Liver and skeletal muscle: </br>
+Lyophilized samples were rehydrated with 500 µl D2O and 50 µl of internal standard 3 mM DSS (Dimethyl-Silapentane-Sulfonate, Sigma-Aldrich, St. Louis, MO). Solution pH was adjusted with DCl and NaOD to 7.4. The final volume was brought to 600 µl using D2O and the sample was transferred into a 5 mm tube (Wilmad, Vineland, NJ).
+</p>
+Serum:</br>
+Stored serum was thawed, internal standard (1 mM trimethylsilylpropionic acid in D2O) was added, and samples were transferred into NMR tubes (Wilmad-LabGlass, Vineland, NJ).
+</p>
+Urine: </br>
+One mL of thawed urine was mixed with 0.5 mL of 0.2 M sodium phosphate buffer prepared with D2O to control pH. The mixture was placed on ice for 10 min and then centrifuged at 7000×g for 10 min. 500 µL of the supernatant was withdrawn and combined with 50 µL of the internal standard 3-(trimethylsilyl)propionic acid (TSP, Sigma-Aldrich, USA) to a concentration of 1 mM (Mortishire-Smith et al. 2004). The internal standard and the buffer were prepared with D2O to provide a lock for the NMR signal. The pH of the final solution was recorded and the mixture was transferred to separate 5 mm NMR tubes (Wilmad, LabGlass, USA).
+</p>"	"Liver and skeletal muscle: </br>
+1H NMR spectra were obtained using a Varian 600 MHz spectrometer with a 5 mm HCN triple resonance probe. 
+</p>
+Serum:</br>
+One-dimensional 1H-NMR spectra were acquired on a 700-MHz Bruker Avance NMR spectrometer with a 5 mm TXI proton-enhanced cryoprobe.
+</p>
+Urine: </br>
+Proton NMR spectra were taken with a Bruker Avance spectrometer with autosampler and 5 mm triple resonance 1H/13C/15 N TXI CryoProbe with Z-gradient, running TopSpin v. 2.16 (Bruker BioSpin, Fremont, CA USA) at 700.13 MHz.
+</p>"	"Liver and skeletal muscle: </br>
+Spectra were generated from 128 scans with a basic 1H acquisition protocol with presaturation consisting of a 45° tip angle, a relaxation delay of 1 s and an acquisition time of 1.9 s.
+</p>
+Serum:</br>
+A Carr-Purcell-Meiboom-Gill presaturation pulse sequence with a spectral width of 10 kHz was used to acquire all spectra with 128 scans, which were subsequently phase and baseline corrected[1].
+</p>
+Urine: </br>
+A 1D NOESY (Nuclear Overhauser Effect Spectroscopy) pulse sequence was used to collect spectra of each sample. The 90° pulse width was calibrated for each sample, and was generally 12–13 µs. The relaxation time was defined by each sample’s 90° pulse width. The relaxation delay was 2 s, the acquisition time was 3 s, the spectral width was 10 kHz, the total number of data points collected was 63,000, and the number of transients collected was 128, for a total experiment time of 11 min and 17 s. During the relaxation period, the water resonance was presaturated. All spectra were collected at a temperature of 298 K. Line broadening at 0.5 Hz was applied before FFT; autophasing and auto-baseline correction were applied by TopSpin.
+</p>
+Ref: </br>
+[1]Beckonert O, Keun HC, Ebbels TMD, Bundy J, Holmes E, Lindon JC, Nicholson JK. Metabolic profiling, metabolomic and metabonomic procedures for NMR spectroscopy of urine, plasma, serum and tissue extracts. Nat Protoc. 2007;2(11):2692-703. PMID: 18007604<br>"	"All NMR spectra were phase- and baseline-corrected and chemical shifts were referenced to the DSS internal standard."	"Liver and skeletal muscle: </br>
+Chenomx software [1] was used to identify and quantify metabolites present in each sample. Fine manual phasing and baseline corrections were applied to each spectrum before targeted profiling was performed. Fifty-one (51) metabolites were fit in each sample in this study, resulting in a profile containing the concentration of each identified metabolite in millimoles per liter (mM), as determined by comparison to the internal standard.
+</p>
+Serum:</br>
+All spectra were fit using Chenomx NMR Suite version 7.0 (Edmonton, Alberta, Canada)[1]. Concentrations of each metabolite were derived from that of the internal standard and are expressed in millimolar. The internal standard also served as chemical shift reference (0 ppm). The identification and assignment of all serum metabolites was based on chemical shift and comparison with the spectral library available in the Chenomx and the Human Metabolome Database (www.hmdb.ca).
+</p>
+Urine: </br>
+Chenomx software [1] was used to identify and quantify a portion of the metabolites present in each urine sample. Fine manual phasing and baseline corrections and the software’s Reference Deconvolution algorithm were applied to each spectrum before targeted profiling of the metabolites was performed. Sixty-two metabolites were quantified in each urine sample, resulting in a profile containing the concentration of each identified metabolite in millimole per liter (mM).
+</p>
+Ref: </br>
+[1] Weljie AM, Newton J, Mercier P, Carlson E, Slupsky CM. Targeted profiling: quantitative analysis of 1H NMR metabolomics data. Anal Chem. 2006 Jul 1;78(13):4430-42. PMID: 16808451</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Beilman"	"Lusczek"	"Mulier"
+Study Person First Name	"Greg"	"Elizabeth"	"Kristine"
+Study Person Mid Initials	"J."	"R."	"E."
+Study Person Email	"beilm001@umn.edu"	"lusc006@umn.edu"	"groeh001@umn.edu"
+Study Person Phone	"612-625-7911"	""	"612-625-0654"
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"University of Minnesota"	"University of Minnesota"	"University of Minnesota"
+Study Person Roles	"PI"	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

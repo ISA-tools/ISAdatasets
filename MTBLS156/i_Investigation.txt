@@ -1,0 +1,110 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"EFO"	"CLO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CLO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"146"	"46"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Cell Line Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS156"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS156"
+Study Title	"1H HR-MAS NMR Based Metabolic Profiling of Cells in Response to Treatment with a Hexacationic Ruthenium Metallaprism as Potential Anticancer Drug"
+Study Description	"1H high resolution magic angle spinning (HR-MAS) NMR spectroscopy was applied in combination with multivariate statistical analyses to study the metabolic response of whole cells to the treatment with a hexacationic ruthenium metallaprism [1]6+ as potential anticancer drug. Human ovarian cancer cells (A2780), the corresponding cisplatin resistant cells (A2780cisR), and human embryonic kidney cells (HEK-293) were each incubated for 24 h and 72 h with [1]6+ and compared to untreated cells. Different responses were obtained depending on the cell type and incubation time. Most pronounced changes were found for lipids, choline containing compounds, glutamate and glutathione, nucleotide sugars, lactate, and some amino acids. Possible contributions of these metabolites to physiologic processes are discussed. The time-dependent metabolic response patterns suggest that A2780 cells on one hand and HEK-293 cells and A2780cisR cells on the other hand may follow different cell death pathways and exist in different temporal stages thereof."
+Study Submission Date	"2015-01-16"
+Study Public Release Date	"2015-01-16"
+Study File Name	"s_HRMAS-Ru.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"high-resolution magic angle spinning"	"hexacationic ruthenium metallaprism"	"cancer cells"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000618"	""	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"CHMO"	""	""	"CHMO"
+Comment[Metabolomics]	""	""	""	""	""
+Comment[HR-MAS NMR]	""	""	""	""	""
+Comment[Ruthenium Complex]	""	""	""	""	""
+Comment[Cancer Cells]	""	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26024484"
+Study Publication DOI	"10.1371/journal.pone.0128478"
+Study Publication Author List	"Martina Vermathen1*, Lydia E.H. Paul1, Gaëlle Diserens2, Peter Vermathen2¶, Julien Furrer1"
+Study Publication Title	"1H HR-MAS NMR based Metabolic Profiling of Cells in Response to Treatment with a Hexacationic Ruthenium Metallaprism as Potential Anticancer Drug"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"drug treatment"	"cell type"	"incubation time"
+Study Factor Type	"Group"	"cell type"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000324"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_hrmas-ru_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Synthesis of the ruthenium metallaprism:</br>
+The hexanuclear ruthenium metallaprism [(p-cymene)6Ru6(tpt)2(dhnq)3](CF3SO3)6 (= [1](CF3SO3)6) with tpt = 2,4,6-tri(pyridin-4-yl)-1,3,5-triazine and dhnq = 5,8-dihydroxy-1,4-naphthoquinonato was prepared as previously described [1].
+</p>
+Cell material and cytotoxicity test:</br>
+Human ovarian carcinoma cells A2780 and A2780cisR were obtained from the European Centre of Cell Cultures (ECACC, Salisbury, UK, catalogue No. 93112519 and 93112517, respectively); the human embryonic kidney cells HEK-293 were kindly provided by the group of Prof. Mühlemann, University of Bern. All cells were maintained in culture as described by the provider. The human ovarian cells were routinely grown in RPMI-1640 medium, which contained 10% fetal calf serum (FCS), 2 mM glutamine (Gln) and 1% antibiotics (penicillin/streptomycin), at 37°C and 5% CO2. HEK-293 cells were routinely grown in Dulbecco’s Modified Eagle Medium (DMEM), containing the same supplements as the RPMI-1640 medium and additionally 1% HEPES pH buffer.
+</p>
+Cytotoxicity was determined using the Cell Counting Kit-8 (Dojindo Inc., EU GmbH). For this, the cells were seeded in 96-well plates as monolayers with 100 µl of cell solution (approximately 10,000 cells) per well. The Ru-complex was dissolved in DMSO serving as a vehicle to solubilize the complex, then taken up in the culture medium and further serially diluted to the appropriate concentration, to give a final DMSO concentration of 1%. 100 µl of drug solution was added to each well and the plates were incubated for 96 h. After incubation the culture medium was removed completely and subsequently, 10 µl kit solution and 100 µl fresh medium were added to the cells. The plates were incubated for another 90 min. The optical density, directly proportional to the number of surviving cells, was quantified at 450 nm using a multiwell plate reader and the fraction of surviving cells was calculated relative to the absorbance of untreated control cells. Evaluation was based on means from four independent experiments, each comprising four microcultures per concentration level.
+</p>
+Ref:</br>
+[1] Barry NPE, Therrien B. Host-Guest Chemistry in the Hexanuclear (Arene)ruthenium Metalla-Prismatic Cage [Ru6(p-cymene)6(tpt)2(dhnq)3]6+. Eur J Inorg Chem. 2009;2009: 4695–4700. doi:10.1002/ejic.200900649</br>"	"Cell growth and exposure to the Ru-complex:</br>
+All cells were seeded in 25 cm^2 culture flasks with a density of approximately 8 x 10^4 cells/cm^2 and kept at 37 °C in a humidified incubator in the presence of 5% CO2 for 24 h. After cell adhering, the experiment was initiated. The cell culture medium was removed completely. Subsequently, 5 ml fresh culture medium were added as well as the appropriate amount of a stock solution of [1](CF3SO3)6 in DMSO (c = 1 mM) to reach a final drug concentration of 0.9 µM for A2780 cells, 0.84 µM for A2780cisR cells, and 0.44 µM for HEK-293 cells corresponding to c = 2*IC50 for each cell line. Cells cultured in medium containing the same amount of DMSO only were used as controls. As IC50 values were collected at 96 h drug incubation, exposure times to [1]6+ were chosen well below this value (24 h) and at a longer period of 72 h. At these two time points (t = 24 h and 72 h) the cells were harvested by trypsination and centrifuged at 2000 rcf for 5 min. The supernatant was discarded and the cells suspended in 1 ml freezing medium (50% FCS, 40% culture medium and 10% DMSO). The freezing medium acts as cryoprotectant allowing for maintenance of cell integrity. After transfer into cryo vials, the samples were frozen and stored at -80 °C. For each cell line and each time point (24 h and 72 h), 8 control samples and 10 drug incubated samples were prepared yielding a total of 108 cell samples, each containing approximately 1–5*10^6 cells for NMR analysis.
+</p>
+Trypan blue exclusion assay</br>
+At each time point, the amount of living cells was assessed with the Trypan blue exclusion assay to yield the number of living versus dead cells. This assay can be used as a measure of cell membrane integrity. For the assay, the cells were briefly incubated with a solution of 0.4% (w/v) Trypan blue dye in PBS and counted in an automated cell counter (Countess automated cell counter, Life Technologies Europe B.V.). Cell viability was expressed as the percentage of living cells (dye-excluding) relative to the total number of cells. The cell viabilities of the thawed cell samples right before NMR measurement were found to be between 84% and 99% for all three cell lines and were not significantly different from freshly harvested cells."	"Before NMR analysis, each frozen cell sample was thawed at 37 °C, transferred into 2.5 ml preheated culture medium and centrifuged at 2000 rcf for 5 min. The supernatant was discarded and the cells were washed three times with 1 ml PBS. After the last washing step, the cells were taken up in 20 µl 10 mM D2O-based PBS (pH 7.4). The cell suspension was transferred into a standard 4 mm MAS rotor using a 12 µl insert. All cell samples were measured in a random order. For each cell line, the NMR spectral profile was unaffected by the freezing and thawing procedure as compared to freshly harvested cells."	"The 1H HR-MAS NMR experiments were performed on a Bruker Avance II spectrometer (Bruker BioSpin) operating at a resonance frequency of 500.13 MHz for 1H. The instrument is equipped with a 4 mm HR-MAS dual inverse 1H/13C probe (Bruker BioSpin) with a Magic Angle gradient. All experiments were carried out at a magic angle (54.7°) spinning rate of 3 kHz and a stabilized temperature of 310 K. The Bruker Topspin software (version 2.1, patch level 5) was used to acquire the NMR data."	"For each sample, two 1D 1H HR-MAS NMR spectra were recorded both with presaturation of the water resonance applying a 1D NOESY and a 1D cpmg sequence for suppressing resonances with short T2 relaxation times (“noesypr1d” and “cpmgpr1d” respectively from the Bruker pulse-program library). Each 1D 1H NMR spectrum was acquired applying 512 (for noesy1d) or 1024 (for cpmg1d) transients, a spectral width of 6002.4 Hz, a data size of 32 K points, an acquisition time of 2.73 s, and a relaxation delay of 4 s (for noesy1d) or 2s (for cpmg1d). The 90° pulse length was 8.7 µs, the noesy mixing time 10 ms and the echo time applied for the cpmg-spectra was 9.6 ms (16 loops, rotor-synchronized interpulse delay of 0.3 ms). The total experiment time for acquiring both 1D spectra was about 2.5 h. During this time period, MAS spinning at 3kHz had little effect on the NMR spectroscopic profile of the cell samples as could be established from preceding time-dependent measurements. In addition, all samples were measured following a strict timely constant protocol. For selected samples (from both, the control and drug-treated groups at each time point) phase-sensitive 2D 1H1H-TOCSY spectra using the DIPSI2 sequence for mixing and 2D J-resolved spectra (“dipsi2phpr” and “jresgpprqf”, respectively, from the Bruker pulse program library) both with presaturation during relaxation delay were recorded to help spectral assignment."	"Spectral processing was performed using the Bruker Topspin software (version 3.2, patch level 3). The co-added free induction decays (FIDs) were exponentially weighted with a line broadening factor of 1.0 Hz, Fourier-transformed, and manually phase corrected to obtain the 1H NMR spectra. Each spectrum was manually baseline corrected using a cubic spline interpolation method according to selected baseline points. Chemical shifts were referenced to the phosphocholine (PC) signal at d = 3.23 ppm for A2780 and HEK-293 cell samples and to the creatine (Cre) signal at d = 3.05 ppm for the A2780cisR cell samples."	"Multi- and univariate statistical analyses were performed using MATLAB R2012a (Mathworks), PLS-Toolbox 7.5.2 (Eigenvector Research, Inc.), and Excel 2010 (Microsoft). Prior to data analysis, four 1H HR-MAS NMR cell spectra were excluded out of the total of 108 spectra, because their signal to noise ratio was too low leaving a total of 104 spectra. The 1D NOESY spectra were used for multivariate analysis of the spectral regions between 0 and 6.5 ppm, while single resonances in the spectral region between 5 and 9 ppm were evaluated based on the 1D cpmg spectra."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type; Solvent; Sample pH; Temperature"	"Solvent; Temperature; Instrument; NMR Probe; Number of transients; Magnetic field strength; Pulse sequence name"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Vermathen"
+Study Person First Name	"Martina"
+Study Person Mid Initials	""
+Study Person Email	"martina.vermathen@dcb.unibe.ch"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"University of Bern"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

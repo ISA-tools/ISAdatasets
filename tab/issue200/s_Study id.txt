@@ -1,8 +1,0 @@
-"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
-"source1"	""	""	""	"sample collection"	"sample1"
-"source2"	""	""	""	"sample collection"	"sample2"
-"source3"	""	""	""	"sample collection"	"sample3"
-"source4"	""	""	""	"sample collection"	"sample4"
-"source5"	""	""	""	"sample collection"	"sample5"
-"source6"	""	""	""	"sample collection"	"sample6"
-"source7"	""	""	""	"sample collection"	"sample7"

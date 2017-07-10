@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHEBI"	"OBI"	"BTO"	"NCBITAXON"	"CHMO"	"NCIT"	"ADO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/ADO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"86"	"22"	"22"	"4"	"16"	"40"	"3"	"43"	
+Term Source Description	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Alzheimer's disease ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS161"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS161"
+Study Title	"Metabolic profiling reveals anomalous energy metabolism and oxidative stress pathways in chronic fatigue syndrome patients"
+Study Description	"Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating long-term multisystem disorder with a central and inexplicably persistent fatigue symptom that is unable to be relieved by rest. Energy metabolism and oxidative stress have been recent focal points of ME/CFS research and in this study we were able to elucidate metabolic pathways that were indicative of their dysfunction. Blood and urine samples were collected from 34 females with ME/CFS (34.9 ± 1.8 SE years old) and 25 non-ME/CFS female participants (33.0 ± 1.6 SE years old). All samples underwent metabolic profiling via 1D 1H Nuclear magnetic resonance spectroscopy and quantitated metabolites were assessed for significance. Blood glucose was elevated while blood lactate, urine pyruvate, and urine alanine were reduced indicating an inhibition of glycolysis that may potentially reduce the provision of adequate acetyl-CoA for the citric acid cycle. We propose that amino acids are being increasingly used to provide an adequate carbohydrate source for the citric acid cycle. We suggest that this is via glutamate forming 2-oxoglutarate through an enzyme that deaminates it and subsequently elevates blood aspartate. Dysfunctional energy metabolism appears to have impacted creatinine and its elevation in urine suggests that it may be used as an alternative for anaerobic ATP production within muscle. A decrease in blood hypoxanthine and an increase in urine allantoin further suggest the elevation of reactive oxygen species in ME/CFS patients. These findings bring new information to the research of energy metabolism, chronic immune activation and oxidative stress issues within ME/CFS."
+Study Submission Date	"2015-01-23"
+Study Public Release Date	"2015-06-08"
+Study File Name	"s_MECFS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Chronic Fatigue Syndrome"	"Glycolysis Pathway"	"Oxidative Stress"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"	"Energy metabolism"	"amino acid"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3037"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39095"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17741"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://scai.fraunhofer.de/AlzheimerOntology#Energy_metabolism"	"http://purl.obolibrary.org/obo/CHEBI_33709"
+Study Design Type Term Source REF	"NCIT"	"NCIT"	"NCIT"	"CHMO"	""	"ADO"	"CHEBI"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0816-5"
+Study Publication Author List	"Christopher W. Armstrong, Neil R. McGregor, Donald P. Lewis, Henry L. Butt, Paul R. Gooley"
+Study Publication Title	"Metabolic profiling reveals anomalous energy metabolism and oxidative stress pathways in Chronic Fatigue Syndrome patients"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Chronic Fatigue Syndrome"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mecfs_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Forty-six patients with Myalgic encephalomye litis/chronic fatigue syndrome (ME/CFS) and twenty-six non-ME/CFS control subjects were recruited in total. Prior to statistical analysis we removed all males and any females that were above 60 years of age, which reduced the cohort to 34 females with ME/CFS (34.9 ± 1.8 SE years old) and 25 non-ME/CFS female participants (33.0 ± 1.6 SE years old). This was done to account for age and sex related variables across the cohort.
+</p>
+The ME/CFS group comprised patients that are currently symptomatic and diagnosed as having ME/CFS in accordance to the Canadian guidelines [1] and cared by one clinician. Diagnosis of ME/CFS was made on the nature of the clinical history, in association with the Canadian criteria, having excluded other illnesses. The same clinician also verified that subjects within the non-ME/CFS cohort were not suffering from ME/CFS or any other illness. All subjects were asked to list their current medications and oral supplements. None of the subjects were related to one another nor were they ever living together and none of the subjects were obese or nicotine dependent.
+</p>
+Ref:</br>
+[1] Carruthers, B. M. (2007). Definitions and aetiology of myalgic encephalomyelitis: how the Canadian consensus clinical definition of myalgic encephalomyelitis works. Journal of Clinical Pathology, 60(2), 117–119. doi:10.1136/jcp.2006.042754. PMID:16935963</br>"	"Urine was collected upon rising by each subject and stored at 4 ºC and within 6 hours a blood sample was then taken by venipuncture into BD Vacutainer® blood collection tubes.  All blood samples were rested in a refrigerator for 30 min to allow blood to coagulate before the serum was separated from the clotted whole blood sample by centrifugation at 4000 rpm for 10 min. Five 0.6 ml aliquots of serum from each subject were collected and stored at -80 ºC. All urine samples were syringe filtered (0.2 µm, 25 mm diameter) and each was dispensed into five 1 ml aliquots and stored at -80 ºC."	"All blood and urine samples were prepared for Nuclear Magnetic Resonance (NMR) spectroscopy using a liquid-liquid extraction technique [1].  All 72 blood samples were prepared simultaneously and all 72 urine samples were prepared simultaneously.  A 250 µl sample of each serum/urine sample was added to 250 µl ice-cold deuterated chloroform and 250 µl ice-cold deuterated methanol and mixed by vortexing before being left to sit on ice for 15 minutes.  Samples were then centrifuged (16,100 x g) at 4 ºC for 10 minutes to produce a biphasic mixture with a hydrophilic phase of water/deuterated methanol and lipophilic phase of deuterated chloroform. A 297 µl sample of the top hydrophilic layer was added to an equal volume of 200 mM sodium phosphate in deuterium oxide (pH 7) and 66 µl of deuterium oxide containing 5 mM DSS and 0.2% (w/v) sodium azide to make a total volume of 660 µl.  The sample was then mixed by vortex, centrifuged for 1 min at 13,000 rpm and 550 µl of supernatant was transferred to a 7-inch 5-mm 507-grade NMR tube for NMR analysis. 
+</p>
+Ref:</br>
+[1] Sheedy, J. R., Ebeling, P. R., Gooley, P. R., & McConville, M. J. (2010). A sample preparation protocol for 1H nuclear magnetic resonance studies of water-soluble metabolites in blood and urine. Analytical Biochemistry, 398(2), 263–265. doi:10.1016/j.ab.2009.11.027. PMID:19941831</br>"	"All NMR spectra of blood sera and urine were collected at 25 ºC on an 800 MHz (18.8 T) Bruker Avance II US 2 spectrometer equipped with a 5 mm triple resonance cryoprobe. The 90º pulse width was calibrated and the receiver gain optimized."	"Standard 1D 1H spectra were acquired using a 1D NOESY pulse sequence (RD-90º-t1-90º-tm-90º-acquire) with a Relaxation Delay (RD) of 1.2 seconds and a mixing time (tm) of 0.1 seconds.  Water suppression was achieved by presaturation of the water signal during relaxation delay and mixing time. Each spectrum was collected over 32K of data points and 128 scans with a spectral width of 10.014 ppm.  Before Fourier transformation, the free induction decay was zero-filled and multiplied by a 0.3 Hz exponential line broadening."	"Using the Chenomx 6.0 NMR Suite Professional software package; spectra were manually phased, baseline corrected and referenced to DSS with a chemical shift of 0 ppm."	"The compound libraries in the Chenomx software were used to identify and quantitate metabolites in the NMR 1D 1H spectra based on their characteristic chemical shifts using 0.5 mM DSS as an internal chemical shift reference.  Metabolite identities were confirmed using 2D TOCSY experiments with TOPSPIN 1.3 software. Twenty-nine metabolites per blood serum sample and thirty metabolites per urine sample were identified."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Armstrong"	"Gooley"
+Study Person First Name	"Christopher"	"Paul"
+Study Person Mid Initials	"W"	"R"
+Study Person Email	"acw@pgrad.unimelb.edu.au"	"prg@unimelb.edu.au"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

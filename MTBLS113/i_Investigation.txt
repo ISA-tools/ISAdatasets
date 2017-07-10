@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"CHEBI"	"EFO"	"CHMO"	"UO"	"BAO"	"OBI"	"MS"	"SNOMEDCT"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/SNOMEDCT"	
+Term Source Version	"28"	"2"	"80"	"113"	"5"	"42"	"19"	"22"	"86"	"9"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"BioAssay Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Systematized Nomenclature of Medicine - Clinical Terms"	
+INVESTIGATION
+Investigation Identifier	"MTBLS113"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS113"
+Study Title	"Wax ester and lipophilic compound profiling of Euglena gracilis by gas chromatography-mass spectrometry: toward understanding of wax ester fermentation under hypoxia"
+Study Description	"Lipids are being increasingly used as biodiesel feedstock, and several saturated wax esters from Euglena gracilis are candidates for outdoor bulk production. Wax ester fermentation in Euglena is strongly increased by hypoxia, but key events underlying the metabolic shift toward wax ester biosynthesis are poorly understood. Profiling of wax esters and other lipophilic compounds is the first step for research toward the clarification of wax ester fermentation molecular mechanisms, and thus, a simple and comprehensive platform for their profiling is required. In this study, we established a profiling method for wax esters and lipophilic compounds in Euglena using gas chromatography-mass spectrometry (GC–MS). Using this method, we compared accumulation profiles of wax esters and lipophilic compounds between a wild-type Euglena Z strain and a bleached SM-ZK strain. Both the wild-type and the bleached strains contained C14:0 fatty acid-C14:0 fatty alcohol as a dominant wax ester. Wax ester fermentation initiated 4 h after the cessation of oxygen supply by halting the culture agitation resulting in linear increase and proportional changes of wax ester amounts during 24 h. However, complete anoxia by nitrogen gas aeration inhibited wax ester production and the addition of bicarbonates reversed the inhibition, suggesting that there is a need for an additional carbon source for wax ester fermentation under anoxia. Our simple method enables the investigation of metabolic responses leading to wax ester fermentation in Euglena."
+Study Submission Date	"2014-09-03"
+Study Public Release Date	"2014-09-04"
+Study File Name	"s_Euglena wax ester research April 2014.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomic profiling"	"wax ester"	"untargeted metabolites"	"Hypoxia"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHEBI_10036"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3890"	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	"EFO"	"CHEBI"	""	"NCIT"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-014-0687-1."
+Study Publication Author List	"Takeshi Furuhashi1 , Takumi Ogawa2, Rai Nakai2, Masami Nakazawa2,3, Atsushi Okazawa2, Adchara Padermschoke2, Kazuki Nishio2, Masami Yokota Hirai1, Masanori Arita1,4, Daisaku Ohta2"
+Study Publication Title	"Wax ester and lipophilic compound profiling of Euglena gracilis by gas chromatography-mass spectrometry: toward understanding of wax ester fermentation under hypoxia"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Euglena strain"	"Anoxia incubation time"	"Carbonate addition"	"Culture days before anoxia incubation"	"Colour"	"Temperature"
+Study Factor Type	"Group"	"timepoint"	"Boolean"	"timepoint"	"Color"	"temperature"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37927"	"http://www.ebi.ac.uk/efo/EFO_0001702"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_euglena_wax_ester_research_april_2014_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GCT Premier (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Lyophilized sample (around 5mg)"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"In this study, Euglena gracilis wild-type Z strain and a streptomycin-bleached mutant SM-ZK with less chloroplasts ([1][2] were used. They were maintained in 150 ml of Koren-Hutner medium (pH 5.0) in Sakaguchi flasks at 27 °C under continuous light on a shaker (120 rpm) for 2 days (early-log phase) or 4 days (late-log phase) [3]. Wax ester fermentation was induced either by halting the culture agitation, which stops aeration and induces hypoxia, or by aerating N2 gas into culture medium for 10 min to remove oxygen and other gases, including carbon dioxide, completely. For anoxic conditions induced by N2 gas aeration, different NaHCO3 concentration (1 mM and 10 mM) were added to investigate the effect of a carbon source on wax fermentation. Cells were collected 0, 4, and 24 h after the initiation of anaerobiosis and were immediately immersed in liquid nitrogen followed by lyophilization.
+</p>
+Ref:</br>
+[1] Mccalla DR. Accumulation of extracellular amino acids by Euglena gracilis. J Protozool. 1963 Nov;10:491-5. PMID:14074449</br>
+[2] Oda, Y., Nakano, Y., & Kitaoka, S. (1982). Utilization and toxicity of exogenous amino acids in Euglena gracilis. Journal of General Microbiology, 128, 853–858. doi:10.1099/00221287-128-4-853</br>
+[3] Koren, L. E., & Hutner, S. H. (1967). High-yield media for photosynthesizing Euglena gracilis z. Journal of Protozoology, 14(Supplement), 17.</br>"	"For wax esters and other free form lipophilic compound profiling, the dried apolar (with inter-phase) pellet was incubated with 20 µl methoxamine-HCl (Sigma-Aldrich, St. Louis, MO, USA) solution (40 mg/ml pyridine) for 90 min at 30 °C. N-methyl-N-(trimethylsilyl)trifuoroacetamide (80 µl; MSTFA: Sigma-Aldrich) for silylation was added and incubated for 30 min at 37 °C, and 1 µL of the sample was injected into the GC-MS.
+</p>
+Alkaline methyl esterification converted only the bounded form of fatty acids (e.g., glycerides and wax esters) into FAMEs. The resulting glycerol and fatty alcohols (FALs) with free fatty acids (FFAs) and steroids contained in the original sample were silylated during the subsequent MSTFA treatment [1].
+</p>
+Ref:</br>
+[1] Furuhashi, T. and Weckwerth, W. (2013). Introduction to lipid (FAME) analysis in algae using gas chromatography-mass spectrometry. In W. Weckwerth & G. Kahl (Eds.), The handbook of plant metabolomics (pp. 215–225). New York: Wiley-Blackwell.</br>"	"GC-MS measurements were carried out on a gas chromatography-time of flight-mass spectrometer (GC-TOF-MS) (Auto sampler, JASCO PAL GC-xt; GC, Agilent 6890N; MS, Waters GTC premier) instrument (JASCO, Tokyo, Japan; Agilent Technologies, Santa Clara, CA; Waters, Milford, MA, USA). The injector temperature was 230 °C using a cold trap splitless mode. The flow rate of carrier He gas was 1 ml/min. GC separation was performed on an HP-5MS capillary column (30 m x 0.25 mm x 0.25 µm) (Agilent Technologies, Santa Clara, CA). After a 1-min isothermal period at 70 °C, the temperature was programmed to 76 °C at a heating rate of 1 °C/min, then to 350 °C at a heating rate of 6 °C/min and maintained for 1 min. The temperatures of the GC-MS transfer line and the source of the mass spectrometer were 340 °C and 250 °C, respectively."	"GC-MS measurements were carried out on a gas chromatography-time of flight-mass spectrometer (GC-TOF-MS) (Auto sampler, JASCO PAL GC-xt; GC, Agilent 6890N; MS, Waters GTC premier) instrument (JASCO, Tokyo, Japan; Agilent Technologies, Santa Clara, CA; Waters, Milford, MA, USA). The mass spectrometer was operated in an electron-impact mode (EI) at 70 eV in a scan range of m/z 40-600."	"[No information supplied]"	"Metabolites were identified based on their mass spectral characteristics and retention times by comparison with retention times of reference compounds in an in-house reference library. All metabolites were quantified using QuanLynx (Waters, Milford, MA, USA), a software for the analysis of mass spectrometric data."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Furuhashi"
+Study Person First Name	"Takeshi"
+Study Person Mid Initials	""
+Study Person Email	"Takeshi_FR@hotmail.com"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa, Japan "
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

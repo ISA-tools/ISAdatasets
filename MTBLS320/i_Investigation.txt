@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"GO"	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"UO"	"PR"	
+Term Source File	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/PR"	
+Term Source Version	"1557"	"6"	"18"	"113"	"44"	"22"	"99"	"86"	"43"	"64"	
+Term Source Description	"Gene Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"Protein Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS320"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS320"
+Study Title	"Metabolomics analysis reveals the participation of efflux pumps and ornithine in the response of Pseudomonas putida DOT-T1E cells to challenge with propranolol"
+Study Description	"Efflux pumps are critically important membrane components that play a crucial role in strain tolerance in Pseudomonas putida to antibiotics and aromatic hydrocarbons that result in these toxicants being expelled from the bacteria. Here, the effect of propranolol on P. putida was examined by sudden addition of 0.2, 0.4 and 0.6 mg/ml of this β-blocker to several strains of P. putida, including the wild type DOT-T1E and the efflux pump knockout mutants DOT-T1E-PS28 and DOT-T1E-18. Bacterial viability measurements reveal that the efflux pump TtgABC plays a more important role than the TtgGHI pump in strain tolerance to propranolol. Mid-infrared (MIR) spectroscopy was then used as a rapid, high-throughput screening tool to investigate any phenotypic changes resulting from exposure to varying levels of propranolol. Multivariate statistical analysis of these MIR data revealed gradient trends in resultant ordination scores plots, which were related to the concentration of propranolol. MIR illustrated phenotypic changes associated with the presence of this drug within the cell that could be assigned to significant changes that occurred within the bacterial protein components. To complement this phenotypic fingerprinting approach metabolic profiling was performed using gas chromatography mass spectrometry (GC-MS) to identify metabolites of interest during the growth of bacteria following toxic perturbation with the same concentration levels of propranolol. Metabolic profiling revealed that ornithine, which was only produced by P. putida cells in the presence of propranolol, presents itself as a major metabolic feature that has important functions in propranolol stress tolerance mechanisms within this highly significant and environmentally relevant species of bacteria."
+Study Submission Date	"2016-02-19"
+Study Public Release Date	"2016-07-30"
+Study File Name	"s_Toluene_Exp.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Bacteria"	"propranolol"	"ornithine"	"efflux pump complex"	"gas chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/NCBITAXON/2"	"http://purl.obolibrary.org/obo/CHEBI_8499"	"http://purl.obolibrary.org/obo/CHEBI_18257"	"http://purl.obolibrary.org/obo/GO_1990281"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	"NCBITAXON"	"CHEBI"	"CHEBI"	"GO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27331395"
+Study Publication DOI	"10.1371/journal.pone.0156509"
+Study Publication Author List	"Sayqal A, Xu Y, Trivedi DK, AlMasoud N, Ellis DI, Rattray NJ, Goodacre R."
+Study Publication Title	"Metabolomics Analysis Reveals the Participation of Efflux Pumps and Ornithine in the Response of Pseudomonas putida DOT-T1E Cells to Challenge with Propranolol."
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001796"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"geneknockout"	"stress"	"time"
+Study Factor Type	"gene knock out"	"Drug Exposure"	"sampling time"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000506"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41362"	"http://www.ebi.ac.uk/efo/EFO_0000689"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_toluene_exp_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"1. Bacterial strains and cultivation of bacteria:</br>
+Three bacterial strains of P. putida DOT-T1E were used in this study. All strains were sub-cultured in triplicate to obtain axenic cultures. Individual colonies were then picked and transferred from plates into 250 ml flasks containing 50 ml of autoclaved Lysogeny broth (LB) medium and incubated at 24 h at 30 °C in an orbital incubator (Infors HT Ltd, UK) shaking at 200 rpm.</br> 
+</p>
+2. Growth in response to propranolol shock, sample collection and analysis:</br>
+Cells were grown in 50 ml of LB medium for 5 h at 30 °C and 200 rpm. Once cell cultures reached the mid-exponential phase, samples were divided into two groups. One group was kept as a control, and to the second group propranolol was added at three different concentrations (0.2, 0.4 and 0.6 mg/ml). These cultures were then incubated for an additional 8 h.</br>
+</p>
+3. Sample collection and quenching:</br>
+15 ml samples were quenched at three time points 0, 10 and 60 min before and after the addition of propranolol (0 min refers to the point immediately before the addition of propranolol). This procedure was performed with four biological replicates.</br>
+"	"Generally, a rapid inactivation of metabolism is achieved by alteration in pH or temperature . Thus, in order to halt metabolism culture samples (15 ml) were plunged into a double volume of 60% cold methanol (-50 °C) in a 50 ml tube. The quenched culture mixture was centrifuged (3000 × g, 10 min, 1 °C), and then the supernatant was discarded, while the cell pellets were stored at -80 °C until required for metabolite extraction.</br>
+The methanol metabolite extraction method was undertaken by suspending the biomass in 750 µl of 80% cold methanol (-20 °C) which was transferred to a new 2 ml Eppendorf tube. This was followed by a freeze-thaw cycle in order to extract the intracellular polar metabolites from the cells. Samples were centrifuged at (13500 × g, 3 min, 4 °C) and supernatant transferred to new tubes and stored on dry ice. The extraction was performed again on the remaining pellet and both supernatants were combined and again stored on dry ice.  A final aliquot (1400 µl) of metabolite extracts were normalised using 80% methanol according to OD at 660 nm.</br>
+A quality control (QC) sample was prepared by transferring 100 µl from each of the samples to a new (15 ml) centrifuge tube. This was followed by the addition of (100 µl) of internal standard solution (0.2 mg/ml glycine-d5, 0.2 mg/ml benzoic-d5 acid, 0.2 mg/ml lysine-d4, and 0.2 mg/ml succinic-d4 acid) to all samples. The samples were lyophilized for 16 h by speed vacuum concentrator (concentrator 5301; Eppendorf, Cambridge, UK), and then the pellet was stored at -80 °C for further analysis.
+"	"Metabolite samples were removed from -80 °C storage and re-dried for 3 h in a concentrator prior to derivatisation, in order to remove any moisture absorbed by the sample during thawing, which could interfere with derivatisation process. Samples were derivatised for GC-MS following a two stage process as described previously [1]. Briefly, 50 µl O-methylhdroxylamine hydrochloride solution (20 mg/ml in pyridine) was added to all samples. The samples were then heated using a heating block at 65 °C for 40 min followed by addition of 50 µl of MSTFA (N-methyl-trimethylsilyltrifluoroacetamide) and then heated for 40 min. An aliquot (20 µl) of retention index solution (C10/CH12/C15/C19/C22 n-alkanes) was added for chromatographic alignment.</br>
+The gas chromatography time-of-flight mass spectrometry (GC-TOF-MS) method was used to analyse the derivatised samples in a random order. The instrument was operated using an Agilent 6890 GC instrument linked to a LECO Pegasus III TOF mass spectrometer (Leco, St. Joseph, MI, USA), as described previously [2][3] which follows metabolomic standards initiative (MSI) guidelines [4]. QC samples were employed prior to statistical analysis as described from previous report [1], in order to provide quality assurance of the data by the evaluation and removal of mass features that exhibit high deviation within the QC samples.</br>
+</p>
+Ref:</br>
+[1] Wedge DC, Allwood JW, Dunn W, Vaughan AA, Simpson K, Brown M, Priest L, Blackhall FH, Whetton AD, Dive C, Goodacre R. Is serum or plasma more appropriate for intersubject comparisons in metabolomic studies&#63; An assessment in patients with small-cell lung cancer. Anal Chem. 2011 Sep ;83(17):6689-97. doi: 10.1021/ac2012224.</br>
+[2] Begley P, Francis-McIntyre S, Dunn WB, Broadhurst DI, Halsall A, Tseng A, Knowles J; HUSERMET Consortium, Goodacre R, Kell DB. Development and performance of a gas chromatography-time-of-flight mass spectrometry analysis for large-scale nontargeted metabolomic studies of human serum. Anal Chem. 2009 Aug 15;81(16):7038-46. doi: 10.1021/ac9011599.</br>
+[3] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun ;6(7):1060-83. doi: 10.1038/nprot.2011.335.</br>
+[4] Sumner LW, Urbanczyk-Wochniak E, Broeckling CD. Metabolomics data analysis, visualization, and integration. Methods Mol Biol. 2007;406:409-36. PMID:18287705</br>
+"	"The Agilent 6890 GC instrument linked to a LECO Pegasus III TOF mass spectrometer (Leco, St. Joseph, MI, USA) was used as previously described [1][2]. The mass spectrometer source was operated at a temperature of 250 °C in electron ionization (EI) mode, with an electron energy of 70 eV and the detector  operated in the range 1400–1800 V.</br>
+</p>
+Ref:</br>
+[1] Begley P, Francis-McIntyre S, Dunn WB, Broadhurst DI, Halsall A, Tseng A, Knowles J; HUSERMET Consortium, Goodacre R, Kell DB. Development and performance of a gas chromatography-time-of-flight mass spectrometry analysis for large-scale nontargeted metabolomic studies of human serum. Anal Chem. 2009 Aug 15;81(16):7038-46. doi: 10.1021/ac9011599.</br>
+[2] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, Brown M, Knowles JD, Halsall A, Haselden JN, Nicholls AW, Wilson ID, Kell DB, Goodacre R; Human Serum Metabolome (HUSERMET) Consortium. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun ;6(7):1060-83. doi:10.1038/nprot.2011.335.</br>"	"Raw data processing was undertaken using LECO ChromaTOF v3.26 in order to construct a data matrix of metabolite peak vs. sample and infilled with peak areas for metabolites that were detected. A reference database was prepared that contained retention times, quant mass, peak area, retention index value and peak number related to each peak by analysing QC samples. All data collected in this study were analysed on Matlab version 2014a (Mathworks, Natick, MA). "	"The identification of analytes was based on both spectral similarity and matched with retention indices. In-house library as well as NIST library was used for identification, and we followed MSI guidelines for metabolite identification [1].</br>
+</p>
+Ref:</br>
+[1] Sumner LW, Urbanczyk-Wochniak E, Broeckling CD. Metabolomics data analysis, visualization, and integration. Methods Mol Biol. 2007;406:409-36. PMID:18287705"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sayqal"	"Xu"	"Trivedi"	"AlMasoud"	"Ellis"	"Rattray"	"Goodacre"
+Study Person First Name	"Ali"	"Yun "	"Drupad "	"Najla "	"David "	"Nicholas "	"Royston "
+Study Person Mid Initials	"A"	""	"K "	""	"I"	"J. W"	""
+Study Person Email	"a.saigal@hotmail.com"	"yun.xu-2@manchester.ac.uk"	"drupad.trivedi@manchester.ac.uk"	"nagla.almasoud-2@postgrad.manchester.ac.uk"	"d.ellis@manchester.ac.uk"	"nicholas.rattray@manchester.ac.uk"	"roy.goodacre@manchester.ac.uk"
+Study Person Phone	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""
+Study Person Address	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"	"school of chemeistry"
+Study Person Affiliation	"university of manchester"	"university of manchester"	"university of manchester"	"university of manchester"	"university of manchester"	"university of manchester"	"university of manchester"
+Study Person Roles	"principal investigator"	""	""	""	""	""	"principal investigator"
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""

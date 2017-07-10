@@ -1,0 +1,116 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"EDAM"	"OBI"	"BTO"	"EFO"	"NCBITAXON"	"CHMO"	"UO"	"TEO"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/TEO"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"28"	"19"	"25"	"22"	"113"	"4"	"5"	"42"	"4"	"86"	
+Term Source Description	"National Cancer Institute Thesaurus"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Time Event Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS21"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS21"
+Study Title	"Combining peak- and chromatogram-based retention time alignment algorithms for multiple chromatography-mass spectrometry datasets"
+Study Description	"Spring wheat (Triticum aestivum L.) was grown in a free-air carbon dioxide (CO2) enrichment (FACE) field experiment. Grain and biomass yield and its components were determined at maturity and the grain metabolome was analysed by gas chromatography-mass spectrometry (GC-MS) for elevated and ambient CO2 (537 versus 409 μl/l) concentration for samples grown in two successive years (2005, 2006)."
+Study Submission Date	"2012-09-21"
+Study Public Release Date	"2012-09-21"
+Study File Name	"s_mtbls21.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"metabolomic profiling"	"Peak detection"	"multiple peak alignment"	"multiple alignment performance reference generation"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://edamontology.org/operation_3215"	""	""
+Study Design Type Term Source REF	"CHMO"	"EFO"	"EDAM"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"22920415"
+Study Publication DOI	"http://dx.doi.org/10.1186/1471-2105-13-214"
+Study Publication Author List	"Hoffmann N,Keck M,Neuweger H,Wilhelm M,Hogy P,Niehaus K,Stoye J"
+Study Publication Title	"Combining peak- and chromatogram-based retention time alignment algorithms for multiple chromatography-mass spectrometry datasets."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Cultivation Year"	"CO2 Concentration"
+Study Factor Type	"Date"	"concentration"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://purl.obolibrary.org/obo/CHMO_0002820"
+Study Factor Type Term Source REF	"NCIT"	"CHMO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls21.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Thermo Trace GC PolarisQ"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"In a 3-year study from 2004 to 2006, spring wheat (Triticum aestivum L. cv. Triso) and 13 associated weed species were exposed in a chamberless mini-FACE system. The field site contains 15 circular field plots (2 m diameter) and is located at Heidfeldhof, a farm managed by the Plant Breeding Station of the University of Hohenheim (9 Degrees 11 minutes E, 48 Degrees 42 Minutes N, 395 m asl), south of Stuttgart (Germany).
+</p>
+In each of the 3 years, the plots with local soil (slightly stagnic luvisol) were manually dug to a depth of 30 cm at the end of March. Wheat as the main crop was sown in lines at a spacing of 15 cm, seed distance of 1.5 cm and depth of 2 cm to a density of 200 plants/sqm. Based on agronomic practice recommended for spring wheat, the plots were fertilised with 140 kg nitrogen (N)/ha, 30 kg phosphorus (P)/ha and 60 kg potassium (K)/ha at 50 / 25 / 25% at different development stages of the plants (EC 13–29, EC 30–39 and EC 40–59; [1]). In addition, on EC 30–39, a trace element fertiliser was applied containing 0.03 kg boron (B) /ha, 0.45 kg magnesium (Mg)/ha, 0.36 kg sulphur (S)/ha and 0.03 kg manganese (Mn)/ha. Soil moisture was measured using time-domain reflectometry (TDR) sensors (IMKO, Ettlingen, Germany). Plots were manually irrigated, if necessary, with the same amount of water applied to all treatments. Irrigation volumes were noted and taken into account for calculation of total water supply, including precipitation amounts.
+</p>
+The CO2 exposure involved three treatments with five replicates each: (i) CONTROL plots with ambient air CO2 concentration without technical equipment, (ii) AMBIENT plots with ambient air CO2 concentration and the frame system (AMB), and (iii) FACE plots with elevated CO2 concentration and the frame system (ELE). The exposure started before seed emergence and continued until final harvest. To achieve a target gas concentration of 150 µl/l above AMBIENT (24 hr average), pure CO2 was released directly into the plant canopy through an injection system and regulated according to wind direction and velocity to maintain the set concentration. The CO2 concentrations achieved at canopy height were monitored in the centre of each field plot. Additional information on the performance of the system is given elsewhere ([2][3][4]).
+</p>
+Wheat plants from the central square metre of each plot were harvested at crop maturity and separated into leaves, stems and ears. Dry weights (DW) of the different biomass fractions were determined after drying until constant weight (leaf and stem at 60 ºC, ear at room temperature). Ear numbers were counted and grains were extracted from the ears. Total grain weights were measured and thousand grain weights (TGW) were determined using a seed counter (Condator "E", Pfeuffer, Winnenden, Germany). Grains were further separated into size classes (>2.8; 2.8e2.5; 2.5e2.2; <2.2 mm) using a Sortimat (Type K, Pfeuffer, Winnenden, Germany).
+</p>
+Ref:</br>
+[1] Tottman D.R. (1987), The decimal code for the growth stages of cereals, with illustrations. Annals of Applied Biology, 110: 441–454. doi: 10.1111/j.1744-7348.1987.tb03275.x</br>
+[2] Erbs M., Fangmeier A. (2006) Atmospheric CO2 enrichment effects on ecosystems – experiments and real world. Progress in Botany, 67, 441–459.</br>
+[3] Erbs M., Franzaring J., Hogy P., Fangmeier A. (2009) Free-air CO2 enrichment in a wheat-weed assembly – effects on water relations. Basic and Applied Ecology, 10, 358–367.</br>
+[4] Högy P1, Wieser H, Köhler P, Schwadorf K, Breuer J, Franzaring J, Muntifering R, Fangmeier A. Effects of elevated CO2 on grain yield and quality of wheat: results from a 3-year free-air CO2 enrichment experiment. Plant Biol (Stuttg). 2009 Nov;11 Suppl 1:60-9. doi: 10.1111/j.1438-8677.2009.00230.x. PMID:19778369</br>"	"A proportion of wheat grains were ground into a fine powder using a laboratory mill (MM 301, Retsch, Haan, Germany) directly before analysis. Duplicate aliquots of the wheat flour (10-20 mg) were homogenised in 1 ml of 80% methanol, containing 10 µM ribitol as internal standard (IS). The metabolite extracts were agitated three times at 6.5 m/s for 45 s in a Precellys Homogenizer (Peqlab, Erlangen, Germany) using 1 mm zirconia beads (Roth, Karlsruhe, Germany). After centrifugation (15 000 x g, room temperature, 20 min), 750 µl supernatant was transferred to a 1 ml glass vial (Supelco, Bellfonte, USA) and dried under N. Metabolite derivatisation was performed with 100 µl of methoxylamine hydrochloride in pyridine (20 mg/ml; w/v) at 37 °C for 90 min followed by a 30 min treatment with 100 µl of silylation reagent (Nmethyl- N-(trimethylsilyl)trifluoroacetamide) at 37 °C."	"Metabolomic analysis was carried out using a TraceGC gas chromatograph (GC) coupled to a PolarisQ ion trap mass spectrometer (MS) with an AS2000 auto sampler (Thermo Electron, Dreieich, Germany). Sample volumes (1 µl) of derivatised metabolites were evaporated at 250 °C in the splitless mode. For chromatographic separation, a RTx-5ms capillary column (30 m x 0.25 mm, with 0.25 mm coating; Restek, Bellefonte, USA) was used. Helium was applied as the carrier gas at a constant flow rate of 1 ml/min. The transferline was set to 250 °C and the ion source temperature was 200 °C. After being held at 80 °C for 2 min, the oven temperaturewas increased to 325 °C in steps of 5 °C/min and held at this temperature for 2 min. The system was equilibrated at 80 °C for 2 min prior to injection of the next sample."	"Mass spectra were acquired on a PolarisQ ion trap mass spectrometer (MS) (Thermo Electron, Dreieich, Germany). Ionization was performed by electron impact (EI) at 70 eV and the mass spectrometer was set into a negative ion mode. Mass spectra were recorded at 3 scans/sec with a scanning range of 50-550 mass to charge ratio (m/z)."	"Raw data files were converted to netCDF/ANDI-MS format usign the Xcalibur software (Thermo Fisher Scientific Inc.) export function. Converted files were then uploaded to MeltDB (https://meltdb.cebitec.uni-bielefeld.de) into an experiment consisting of four chromatogram groups for harvest years 2005 and 2006 with ambient (AMB) and elevated (ELE) CO2. In order to assess the grouping performance, we performed a peak detection with XCMS [1], using the matched filter method with a signal-to-noise ratio of 5 and full-width at half height of 5 in order to find well represented peaks. The peak finding step reported between 410 and 465 peaks per chromatogram. The apex scan indices for each chromatogram's peaks were stored in one tab separated value file for each chromatogram. We chose signals as reported from the Data Transformation/Peak Finding step within a retention time window of +/- 30 s. To be counted as a complete group, the scans corresponding to the tags were required to have a pairwise cosine similarity between their binned mass spectra of >0.99 throughout all chromatograms and a maximum mass deviation of 0.01 Dalton. The selection process lead to 184 peak groups containing peaks appearing in all chromatograms, which defined our ground truth for the evaluation of the multiple alignments produced by our methods. This reference selection and grouping was performed by a profiling method, which was recently added to MeltDB [2].
+</p>
+Parameters used in the assay:</br>
+XCMS Peak Detection: snr=5;fwhm=5</br>
+MetDB Metabolite Profiling: massDeviation=0.01 Da;sim=Cosine;simThreshold=0.99;deltaRt=+/-30 seconds</br>
+The Multiple Alignment Reference File is present in the study folder as xcms-meltdb.csv.
+</p>
+Ref:</br>
+[1] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID:16448051</br>
+[2] Neuweger H, Albaum SP, Dondrup M, et al. MeltDB: a software platform for the analysis and integration of metabolomics experiment data. Bioinformatics 2008;24:2726-32.</br>"	"Not applicable."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hoffmann"	"Högy"	"Mathias"
+Study Person First Name	"Nils"	"Petra"	"Keck"
+Study Person Mid Initials	""	""	""
+Study Person Email	"nils.hoffmann@cebitec.uni-bielefeld.de"	"Petra.Hoegy@uni-hohenheim.de"	"matthias.keck@helmholtz-hzi.de"
+Study Person Phone	"+49 521 106 4342"	"+49 711 45923819"	"+49 531 6181 4257"
+Study Person Fax	""	""	""
+Study Person Address	"Universität Bielefeld, Technische Fakultät, AG Genominformatik, Postfach 10 01 31, 33501 Bielefeld, Germany"	"Universität Hohenheim, Plant Ecology and Ecotoxicology, August-von-Hartmann Str. 3, 70599 Stuttgart, Germany"	"Helmholz Centre for Infection Research, Microbial Drugs, Inhoffenstraße 7, 38124 Braunschweig, Germany"
+Study Person Affiliation	"Genome Informatics"	"Plant Ecology and Ecotoxicology"	"Microbial Drugs"
+Study Person Roles	"Bioinformatics"	"Operational research officer"	"Operational research officer"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

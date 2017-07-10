@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"DOID"	"JERM"	"CHMO"	"NCIT"	"BAO"	"CCONT"	"UO"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/DOID"	"http://data.bioontology.org/ontologies/JERM"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CCONT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"28"	"2"	"568"	"14"	"18"	"40"	"19"	"2"	"42"	"22"	"86"	"29"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Human Disease Ontology"	"SysMO JERM Ontology of Systems Biology for Micro-Organisms"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"BioAssay Ontology"	"Cell Culture Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS289"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS289"
+Study Title	"Analysis of colorectal adenocarcinoma tissue samples by DESI mass spectrometry imaging"
+Study Description	"Ex vivo colorectal adenocarcinoma samples were analysed by desorption electrospray ionisation using an Orbitrap mass spectrometer. The samples were analysed in negative mode over the m/z range 600-1000. Some of the samples presented in this dataset were analysed as part of [1]. The study makes available imzML files of profile and centroid mode data, as well as low- and high- resolution optical image files of H&E-stained sections. These files can be found in the zip file named after each tissue section. </p> Ref:</br> [1] Gerbig S, Golf O, Balog J, Denes J, Baranyai Z, Zarand A, Raso E, Timar J, Takats Z. Analysis of colorectal adenocarcinoma tissue by desorption electrospray ionization mass spectrometric imaging. Anal Bioanal Chem. 2012 Jun;403(8):2315-25. doi:10.1007/s00216-012-5841-x. PMID:22447214</br>"
+Study Submission Date	"2015-12-03"
+Study Public Release Date	"2016-04-28"
+Study File Name	"s_ML-ICL-COLO-NEW.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"colorectal adenocarcinoma"	"untargeted metabolites"	"desorption electrospray ionisation mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/DOID_0050861"	""	"http://purl.obolibrary.org/obo/CHMO_0000484"
+Study Design Type Term Source REF	"DOID"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"22447214"
+Study Publication DOI	"10.1007/s00216-012-5841-x"
+Study Publication Author List	"Gerbig S, Golf O, Balog J, Denes J, Baranyai Z, Zarand A, Raso E, Timar J, Takats Z."
+Study Publication Title	"Analysis of colorectal adenocarcinoma tissue by desorption electrospray ionization mass spectrometric imaging."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Patient ID"	"Tissue type"	"Tissue location"	"Specimen"	"Year analysed"
+Study Factor Type	"Patient"	"Tissue"	"Location"	"Biospecimen"	"Date"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70699"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_ml-icl-colo-new_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16681"	""
+Study Protocol Type Term Source REF	""	""	""	""	"NCIT"	""
+Study Protocol Description	"Tissue specimens were removed during surgical interventions and were fresh-frozen immediately at -196 °C. Specimens were transported to 2nd Institute of Pathology, Semmelweis University on dry ice and were stored at -80 °C prior to further processing."	"Series of 12-µm-thick sections were prepared using a Thermo Shandon Cryotome. Samples were transferred to the mass spectrometry facility on dry ice and were immediately stored in a -85 °C freezer to avoid deterioration of the tissue. Prior to measurements, samples were thawed and immediately analyzed. The research protocol was approved by IRB of the National Health Science Council (TUKEB83/2009)."	"For imaging measurements, a home-built motorized DESI ion source was used and the software has also been developed. More technical detail and a photograph of the home-built DESI ion source are provided in the Electronic Supplementary Material of the associated publication. In addition, an Omni Spray 2D motorized Prosolia ion source (Model OS-3201) and Osprey software for controlling the stage were used.
+</p>
+The analysis was performed using a LTQ XL Orbitrap Discovery mass spectrometer (Thermo Fisher Scientific Inc., Bremen, Germany). This spectrometer consists of a linear ion trap in the front part and an Orbitrap analyzer in the rear part. The Orbitrap analyzer was used for the acquisition of reported data. The mass resolution used for all measurements was set to 30,000 with a mass accuracy of better than 4 ppm.
+</p>
+Spatial resolution of the imaging experiments was set to 100 µm unless otherwise stated. Scanning speed of the DESI sprayer over the tissue sample was 100 µm/s.
+The height distance between the DESI sprayer and the sample surface was set to 4 mm; the distance between the sprayer and the inlet capillary was 7 mm. All presented spectra were recorded in negative ion mode. All mass spectra were recorded in the mass range of m/z = 600–1,000.
+</p>
+Additional instrument parameters of imaging experiments of colorectal adenocarcinoma samples:</br>
+Spray angle: 80°; High voltage: 5 kV; Solvent flow rate: 1 µl/min; Inlet capillary temperature: 250 °C; Nitrogen pressure: 7 bar; Tube lens: 120 V."	"Neighbouring tissue sections to those analysed by DESI were stained with H&E and subjected to histopathological assessment. High and low resolution optical images are made available."	"All Thermo raw mass spectrometric data were converted to imzML format via imzML Converter (version 1.0.5) [1]. Both profile and centroid mode data files are made available in this study.
+</p>
+Ref:</br>
+[1] MALDI MSI Interest Group: Msimaging. http://www.maldi-msi.org (2011).</br>"	"No metabolite identification has been included in this submission."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Sample mounting;Sample preservation;Sectioning instrument;Section thickness"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range;Spatial resolution;Solvent"	"Stain;High-res image;Low-res image"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;;"	";;;;;;"	";;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;;"	";;;;;;"	";;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"McKenzie"	"Takats"
+Study Person First Name	"James"	"Zoltan"
+Study Person Mid Initials	"S"	""
+Study Person Email	"j.mckenzie@imperial.ac.uk"	"z.takats@imperial.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Imperial College, London"	"Imperial College, London"
+Study Person Roles	"Data curator"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

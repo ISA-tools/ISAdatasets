@@ -1,0 +1,164 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"MS"	"CHMO"	"NCBITAXON"	"GO"	"VIVO"	"ROLEO"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/VIVO"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"86"	"18"	"6"	"1557"	"2"	"1"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"VIVO Ontology for Researcher Discovery"	"Role Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS312"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS312"
+Study Title	"Jasmonate-mediated stomatal closure under elevated CO2 revealed by time-resolved metabolomics"
+Study Description	"Foliar stomatal movements are critical for regulating plant water loss and gas exchange. Elevated carbon dioxide (CO2) levels are known to induce stomatal closure. However, the current knowledge on CO2 signal transduction in stomatal guard cells is limited. Here we report metabolomic responses of Brassica napus guard cells to elevated CO2 using three hyphenated metabolomics platforms: gas chromatography-mass spectrometry (MS); liquid chromatography (LC)-multiple reaction monitoring-MS; and ultra-high-performance LC-quadrupole time-of-flight-MS. A total of 358 metabolites from guard cells were quantified in a time-course response to elevated CO2 level. Most metabolites increased under elevated CO2, showing the most significant differences at 10 min. In addition, reactive oxygen species production increased and stomatal aperture decreased with time. Major alterations in flavonoid, organic acid, sugar, fatty acid, phenylpropanoid and amino acid metabolic pathways indicated changes in both primary and specialized metabolic pathways in guard cells. Most interestingly, the jasmonic acid (JA) biosynthesis pathway was significantly altered in the course of elevated CO2 treatment. Together with results obtained from JA biosynthesis and signaling mutants as well as CO2 signaling mutants, we discovered that CO2-induced stomatal closure is mediated by JA signaling."
+Study Submission Date	"2016-01-29"
+Study Public Release Date	"2017-04-20"
+Study File Name	"s_mtbls312.txt"
+Comment[Study Grant Number]	"MCB-1158000"
+Comment[Study Funding Agency]	"National Science Foundation, USA"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"high-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"gas chromatography-mass spectrometry"	"guard cell"	"carbon dioxide"	"reactive oxygen species"	"jasmonate signalling"	"stomatal movement"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CL_0000292"	"http://purl.obolibrary.org/obo/CHEBI_16526"	"http://purl.obolibrary.org/obo/CHEBI_26523"	""	"http://purl.obolibrary.org/obo/GO_0010118"
+Study Design Type Term Source REF	""	""	"CHMO"	"CHMO"	"CHMO"	"CHMO"	"EFO"	"CHEBI"	"CHEBI"	""	"GO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27500669"
+Study Publication DOI	"10.1111/tpj.13296"
+Study Publication Author List	"Geng S, Misra BB, de Armas E, Huhman DV, Alborn HT, Sumner LW, Chen S."
+Study Publication Title	"Jasmonate-mediated stomatal closure under elevated CO2 revealed by time-resolved metabolomics."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Carbon dioxide treatment"	"Incubation"	"Replicate"
+Study Factor Type	"concentration"	"timepoint"	"biological replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002820"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"CHMO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls312_HPLC_MS_MS.txt"	"a_mtbls312_GC_MS.txt"	"a_mtbls312_UPLC_MS.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"API 4000 QTRAP (AB Sciex)"	"Agilent 5975E GC/MSD (Agilent)"	"Quattro micro API (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Brassica napus var. Global seeds obtained from Svalöv Weibull AB (Svalöv, Sweden) were grown as previously described[1]. Seeds were germinated on a half-strength Murashige and Skoog[2] media prior to transferring to soil in growth chambers.
+</p>
+Small squares (0.5 x 0.5 cm^2) of leaf pieces from 8-weeks-old B. napus plants were fixed abaxial side down onto coverslips coated with medical adhesive (Hollister, Libertyville, IL, USA). Abaxial epidermis and mesophyll layers were removed with a scalpel. After washing three times with distilled water to remove cellular debris, the coverslips were incubated with a cell-wall-digesting enzyme mixture containing 0.1% (w/v) PVP-40 (Calbiochem, Billerica, Massachusetts, USA), 0.25% (w/v) BSA (Research Products International, Mt Prospect, Illinois, USA), 0.7% Cellulase R-10 (Yakult Honsha, Tokyo, Japan) and 0.025% Macerozyme R-10 (Yakult Honsha, Tokyo, Japan) in 55% basic solution (0.55 m sorbitol, 0.5 mm CaCl2, 0.5 mm MgCl2, 0.5 mm ascorbic acid, 10 µm KH2PO4, 5 mm MES-Tris, pH 5.5 adjusted with 1 m KOH) at 26 °C, 140 excursions per min for 13 min. The coverslips were then incubated with a stomatal opening buffer (10 mm KCl, 50 µm CaCl2, 10 mm MES-KOH, adjusted to pH 6.15 with 1 m KOH) under light (110 µmol/m^2/s) for 1 h. For elevated CO2 treatment, the open stomata were exposed continuously to 800 ppm CO2 for a period of 60 min as previously described[1].
+</p>
+For ROS measurement, 30 µm 2',7'-dichlorodihydrofluorescein diacetate (H2DCFDA) was added to the opening buffer and incubated with epidermal peels for 40 min. After washing with opening buffer to remove excess dye, the stomata were transferred to an infusion chamber, which contained the stomatal opening buffer pre-equilibrated with 400 ppm (control) or 800 ppm CO2 (elevated CO2 treatment).
+</p>
+All sample preparation, data acquisition, reporting of chemical analysis and metadata related to data pre-processing, pre-treatment, processing, post-processing, statistical analysis and interpretation have been performed in compliance with the MSI. Stomata from B. napus leaves were prepared as recently described[4].
+</p>
+All the samples were stabilized in 400 ppm CO2 (control) for 15 min before continuing in control or switching to 800 ppm CO2 (treatment) conditions[3]. The samples were collected at 0, 5, 10, 30 and 60 min on 100 µm nylon mesh. The samples were quickly frozen (~30 sec) in liquid nitrogen and then lyophilized before metabolite extraction.
+</p>
+Ref:</br>
+[1] Zhu M, Simons B, Zhu N, Oppenheimer DG, Chen S. Analysis of abscisic acid responsive proteins in Brassica napus guard cells by multiplexed isobaric tagging. J Proteomics. 2010 Feb 10;73(4):790-805. doi:10.1016/j.jprot.2009.11.002. PMID:19913118</br>
+[2] Murashige, T. and Skoog, F. (1962) A revised medium for rapid growth and bio assays with tobacco tissue cultures. Physiol. Plantar. 15, 473–497.</br>
+[3] Hu H, Boisson-Dernier A, Israelsson-Nordström M, Böhmer M, Xue S, Ries A, Godoski J, Kuhn JM, Schroeder JI. Carbonic anhydrases are upstream regulators of CO2-controlled stomatal movements in guard cells. Nat Cell Biol. 2010 Jan;12(1):87-93; sup pp 1-18. doi:10.1038/ncb2009. PMID:20010812</br>
+[4] Zhu M, Dai S, Zhu N, Booy A, Simons B, Yi S, Chen S. Methyl jasmonate responsive proteins in Brassica napus guard cells revealed by iTRAQ-based quantitative proteomics. J Proteome Res. 2012 Jul 6;11(7):3728-42. doi:10.1021/pr300213k. PMID:22639841</br>"	"Lyophilized B. napus samples (10 mg dry weight each) were homogenized with a metal ball in a screw-capped tube for 20 s at 1900 strokes/min on a GenoGrinder (Geno/Grinder 2000, SPEX SamplePrep., Metuchen, NJ, USA). Prior to extraction, internal standard mixture (10 µl; 100 µm each of lidocaine, 10-camphorsulfonic acid and adonitol) was added to each sample. Metabolites were extracted following an established method[1]. Briefly, samples were extracted once in 1 ml of extraction solvent I (acetonitrile:isopropanol:water, 3:3:2), and twice with 0.5 ml of extraction solvent II (acetonitrile:water, 1:1) on a thermomixer (Thermomixer R, Eppendorf, Hamburg, Germany) at 4 °C and 1100 rpm for 5 min each time, followed by sonication for 15 min on ice and centrifugation at 13,000 x g for 15 min at 4 °C. The supernatants were combined and lyophilized.
+</p>
+For HPLC-MS/MS and UHPLC-MS, the extracts were reconstituted in 100 µl distilled water. For GC-MS, the dried extracts were subjected to derivatization procedures using 100 µl each of 25 mg/ml methoxyamine hydrochloride and N,O-bis(trimethylsilyl) trifluoroacetamide (BSTFA) with 1% trimethylchlorosilane (TMCS; Supelco, PA, USA) as described[2].
+</p>
+Ref:</br>
+[1] Fiehn O, Wohlgemuth G, Scholz M, Kind T, Lee DY, Lu Y, Moon S, Nikolau B. Quality control for plant metabolomics: reporting MSI-compliant studies. Plant J. 2008 Feb;53(4):691-704. doi:10.1111/j.1365-313X.2007.03387.x. PMID:18269577</br>
+[2] Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmüller E, Dörmann P, Weckwerth W, Gibon Y, Stitt M, Willmitzer L, Fernie AR, Steinhauser D. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics. 2005 Apr 15;21(8):1635-8. PMID:15613389</br>"	"HPLC-MS/MS:</br>
+HPLC-MRM-MS was conducted using an Agilent 1100 HPLC (Agilent, Santa Clara, CA, USA) coupled with an AB Sciex 4000 QTRAPTM (AB Sciex, Framingham, MA, USA). Optimized detection conditions including precursor ion, product ion, declustering potential, collision energy and cell exit potential were established for 277 authentic compounds including phytohormones (see Table S1 in the paper associated with this study). A reverse-phase C18 column (Agilent, Eclipse XDB-C18, 4.6 x 250 mm, 5 µm) was used for metabolite separation with 0.1% formic acid in water as solvent A and 0.1% formic acid in acetonitrile as solvent B. The LC gradient was initially held at 1% solvent B for 5 min, then a linear gradient was imposed from 1% B to 99.5% B over 41.5 min, followed by holding at 99.5% B for 4.5 min, and then return to 1% B. The flow rate was 0.5 ml/min, and the total analysis time was 1 h.
+</p>
+GC-MS:</br>
+Gas chromatography-MS was performed using a Thermo Scientific ISQ™ single-quadrupole system (Thermo Fisher Scientific, Framingham, MA, USA). Extracted samples were derivatized as described[1]. Derivatized samples (1 µl) were injected onto a Rtx-5Sil MS, 30 m x 0.25 mm column with 10 m integrated guard column, 0.25 µm film thickness (Restek GmbH, Bad Homburg, Germany) in splitless mode. Helium was used as a carrier gas. The oven temperature was held constant at 70 °C for 1 min, and then ramped to 76 °C in 6 min followed by a 45 min ramp to 350 °C, and held constant at 350 °C for 1 min, then held constant at 330 °C for 10 min.
+</p>
+UPLC-MS</br>
+For UHPLC-QToF MS, lyophilized extracts were reconstituted in 100 µl 80% methanol with 18 µg/ml umbelliferone as an internal standard. The mixture was vortexed for 15 min, then sonicated for 5 min, vortexed again for 10 min, and finally centrifuged at 12 000 rpm for 15 min. Data were collected on a Waters Acquity UHPLC system (Waters, Milford, MA, USA) connected to Waters Premium hybrid QToF MS using an ESI interface. An ACQUITY UHPLC BEH C18 column (1.7 µm, 2.1 x 150 mm; Waters, Milford, MA, USA) was used with 0.05% formic acid in water (solvent A) and 0.05% formic acid in acetonitrile (solvent B). The UHPLC gradient conditions for solvent B were as follows: 5–70% B step gradient over 30 min, then 70–95% for 3 min, then holding at 95% for 3 min, and finally back to 5% B over 3 min. The mobile phase flow rate was 560 µl/min, and the column temperature was kept constant at 60 °C.
+</p>
+Ref:</br>
+[1] Lisec J, Schauer N, Kopka J, Willmitzer L, Fernie AR Gas chromatography mass spectrometry-based metabolite profiling in plants. Nat Protoc. 2006;1(1):387-96. doi:10.1038/nprot.2006.59. PMID:17406261</br>"	"HPLC-MS/MS:</br>
+HPLC-MRM-MS was conducted using an Agilent 1100 HPLC (Agilent, Santa Clara, CA, USA) coupled with an AB Sciex 4000 QTRAPTM (AB Sciex, Framingham, MA, USA). The MS conditions were: 30 psi for curtain gas, 50 psi GS1, 55 psi GS2, ion source voltage at ± 4500 V, with the turbo electro spray ionization (ESI) interface temperature at 350 °C.
+</p>
+A multiple-period (segment) method was followed as previously described[1]. In brief, QQQ scans were acquired as MRM experiments with collision gas (nitrogen) set to 5 psi. Selection of Q3 masses, DP, and CE for individual MRM transitions was done as the basis of targeted EPI experiments with further DP and CE optimization. A specific set of MRM transitions were monitored for each period according to the metabolites eluted within this period. 110 and 96 MRM transitions were monitored in positive mode for the first and the third periods, respectively. For the second period, 66 MRM transitions in positive mode and 11 transitions in negative mode (for the detection of phytohormones) were detected. Each MRM transition was obtained with a 5-ms Dwell time and a 5-ms pause time, and the scan mode change was set for 700 ms. The total cycle time was 1.2, 1.6, and 1.1 s from the first period to the third period, respectively, which ensured at least 10 points were obtained for each peak. Details about the period (segment) design are provided in Table S1 of the paper associated with this study.
+</p>
+GC-MS:</br>
+Gas chromatography-MS was performed using a Thermo Scientific ISQ™ single-quadrupole system (Thermo Fisher Scientific, Framingham, MA, USA).
+</p>
+UPLC-MS</br>
+UHPLC-QToF MS data were collected on a Waters Acquity UHPLC system (Waters, Milford, MA, USA) connected to Waters Premium hybrid QToF MS using an ESI interface.
+</p>
+Ref:</br>
+[1] Chen W, Gong L, Guo Z, Wang W, Zhang H, Liu X, Yu S, Xiong L, Luo J. A novel integrated method for large-scale detection, identification, and quantification of widely targeted metabolites: application in the study of rice metabolomics. Mol Plant. 2013 Nov;6(6):1769-80. doi:10.1093/mp/sst080. PMID:23702596</br>"	"HPLC-MS/MS:</br>
+Data were processed using Analyst 1.5 software; peak areas were integrated using the IntelliQuan algorithm.
+</p>
+GC-MS:</br>
+The obtained data were deconvoluted and quantified using AMDIS software (Automated Mass Spectral Deconvolution and Identification System, National Institute of Standards and Technology, Gaithersburg, MD, USA;[1]).
+</p>
+UPLC-MS</br>
+The UHPLC-MS data were converted to netCDF format and were pre-processed using mzMINE software version 2.1[2].
+</p>
+Ref:</br>
+[1] Stein, S.E. (1999) An integrated method for spectrum extraction and compound identification from gas chromatography/mass spectrometry data. J. Am. Soc. Mass Spec. 10, 770–781. doi:10.1016/S1044-0305(99)00047-1</br>
+[2] Pluskal T, Castillo S, Villar-Briones A, Oresic M. MZmine 2: modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC Bioinformatics. 2010 Jul 23;11:395. doi:10.1186/1471-2105-11-395. PMID:20650010</br>"	"HPLC-MS/MS:</br>
+Data were processed using Analyst 1.5 software; peak areas were integrated using the IntelliQuan algorithm.
+</p>
+GC-MS:</br>
+Metabolites were identified by matching against the Golm spectral database[1].
+</p>
+UPLC-MS</br>
+The aligned peak lists were gap-filled and filtered to remove duplicated peaks, and final peak lists were searched against PlantCyc, KEGG, LipidMaps, ChemSpider, METLIN, and PubChem databases with a mass tolerance of 5 ppm[2].
+</p>
+The data from all the three platforms were concatenated and were exported to MicroSoft™ Excel (.csv) files. The final peak list from each platform was subjected to missing value imputation, batch effect correction and statistical analysis using R version 3.3.2[3].
+</p>
+Ref:</br>
+[1] Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmüller E, Dörmann P, Weckwerth W, Gibon Y, Stitt M, Willmitzer L, Fernie AR, Steinhauser D. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics. 2005 Apr 15;21(8):1635-8. PMID:15613389</br>
+[2] Watson BS, Bedair MF, Urbanczyk-Wochniak E, Huhman DV, Yang DS, Allen SN, Li W, Tang Y, Sumner LW. Integrated metabolomics and transcriptomics reveal enhanced specialized metabolism in Medicago truncatula root border cells. Plant Physiol. 2015 Apr;167(4):1699-716. doi:10.1104/pp.114.253054. PMID:25667316</br>
+[3] R Development Core Team (2015) R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Chen"	"Misra"	"deArmas"	"David"	"Lloyd"	"Geng"
+Study Person First Name	"Sixue"	"Biswapriya"	"Evaldo"	"Huhman"	"Sumner"	"Sisi"
+Study Person Mid Initials	""	"B."	""	""	""	""
+Study Person Email	"schen@ufl.edu"	"biswapriyamisra@ufl.edu"	"evaldo.dearmas@thermofisher.com"	"dvhuhman@noble.org"	"sumnerlw@missouri.edu"	"sisigeng@gmail.com"
+Study Person Phone	"+1 (352) 273-8330"	"+1-(352)-215-6040"	"NA"	"NA"	"+1-573-882-5486"	"+1 (352) 273-8330"
+Study Person Fax	"+1 (352) 273-8284"	"NA"	"NA"	"NA"	"NA"	"NA"
+Study Person Address	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, FL, 32610, United States of America, Interdisciplinary Center for Biotechnology Research, University of Florida, Gainesville, FL 32610, United States of America "	"Department of Biology, Genetics Institute, University of Florida, Gainesville, FL 32610, United States of America "	"Training Institute, Thermo Fisher Scientific, 1400 North point Parkway, Ste 10., West Palm Beach, FL, 33407, United States of America "	"Samuel Roberts Noble Foundation, Ardmore, OK 73401, USA"	"Director, MU Metabolomics Center
+240d Christopher S. Bond Life Sciences Center
+1201 Rollins Street, Columbia, MO  65211"	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, FL, 32610, United States of America,"
+Study Person Affiliation	"Department of Biology"	"Department of Agricultural and Biological Engineering"	"Thermo Fisher Scientific"	"Department of Biology"	"MU Metabolomics Center"	"Department of Biology, Genetics Institute, Plant Molecular and Cellular Biology Program"
+Study Person Roles	"associate professor"	"Postdoc"	"scientist"	"scientist"	"professor"	"student"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/RoleO_0000679"	"http://vivoweb.org/ontology/core#Postdoc"	"http://purl.obolibrary.org/obo/RoleO_0000477"	"http://purl.obolibrary.org/obo/RoleO_0000477"	"http://purl.obolibrary.org/obo/RoleO_0000434"	"http://purl.obolibrary.org/obo/RoleO_0000532"
+Study Person Roles Term Source REF	"ROLEO"	"VIVO"	"ROLEO"	"ROLEO"	"ROLEO"	"ROLEO"

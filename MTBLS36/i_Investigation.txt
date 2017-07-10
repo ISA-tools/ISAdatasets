@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"GO"	"BAO"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"29"	"1557"	"26"	"18"	"6"	"146"	"129"	"29"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Gene Ontology"	"BioAssay Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS36"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS36"
+Study Title	"Metabolic differences in ripening of Solanum lycopersicum 'Ailsa Craig' and three monogenic mutants"
+Study Description	"Application of mass spectrometry enables the detection of metabolic differences between groups of related organisms. Differences in the metabolic fingerprints of wild-type Solanum lycopersicum and three monogenic mutants, ripening inhibitor (rin), non-ripening (nor) and Colourless non-ripening (Cnr), of tomato are captured with regard to ripening behaviour. A high-resolution tandem mass spectrometry system coupled to liquid chromatography produced a time series of the ripening behaviour at discrete intervals with a focus on changes post-anthesis. Internal standards and quality controls were used to ensure system stability. The raw data of the samples and reference compounds including study protocols have been deposited in the open metabolomics database MetaboLights via the metadata annotation tool Isatab to enable efficient re-use of the datasets, such as in metabolomics cross-study comparisons or data fusion exercises."
+Study Submission Date	"2014-02-07"
+Study Public Release Date	"2014-02-07"
+Study File Name	"s_ESB Tomato.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"leaf development"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_0048366"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""
+Study Design Type Term Source REF	"GO"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25977786"
+Study Publication DOI	"10.1038/sdata.2014.29"
+Study Publication Author List	"Beisken S, Earll M, Baxter C, Portwood D, Ament Z, Kende A, Hodgman C, Seymour G, Smith R, Fraser P, Seymour M, Salek RM, Steinbeck C"
+Study Publication Title	"Metabolic differences in ripening of Solanum lycopersicum 'Ailsa Craig' and three monogenic mutants"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Cultivars"	"Sample Time"	"Batch"
+Study Factor Type	"cultivar"	"timepoint"	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005136"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_esb tomato_metabolite profiling_mass spectrometry-1.txt"	"a_esb tomato_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Velos (Thermo Scientific)"	"LTQ Orbitrap Velos (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Wild-type Solanum lycopersicum (Ailsa Craig, AC++) and three ripening inhibited AC++ mutants were used in this study: non-ripening (NOR), ripening-inhibited (RIN), and colourless non-ripe (CNR) tomatoes. The plants were grown in 24 cm-diameter pots in M3 compost (Levington Horticulture, Ipswich, and Suffolk, UK) and watered daily under standard greenhouse conditions. Flowers were sampled in five to ten day intervals up to anthesis (10, 15, 20, 30, 40) and daily post-anthesis (47, 48, 49, 50, 51, 52, 53, 54). Breaker fruit were defined as those showing the first signs of ripening-associated colour change from green to orange. Non-ripe mutants were taken at day 49 as post-anthesis equivalents to breaker WT fruits. All plant samples were taken at the same time each day, frozen in liquid nitrogen, and stored at -70 °C until required.
+</p>
+Internal standards for reference tomato aliquots comprised the following (final concentration): Citric acid-d4 (1000 µg/ml), L-Alanine-d4 (200 µg/ml), Glutamic acid-d5 (200 µg/ml), and L-Phenyl-alanine-d5 (100 µg/ml). Pooled in-house standard tomato reference was prepared from the shop bought Angelle variety: mashed up in bulk and aliquoted out."	"Tomato samples were subjected to an untargeted metabolite analysis by LC-MS/MS of polar extracts.  Approximately 30 mg of dried tomato tissue was extracted with HPLC analytical grade ethanol/water 20:80. The polar extracts were diluted 10:1 with water and injected underivatised. Samples were acquired in three batches on 17, 20, and 21 September 2010 in positive ion mode and on 23, 24, and 27 September 2010 in negative ion mode."	"All samples were run on a Waters Acquity® UPLC system (Waters Corporation, USA), HSS T3 150 x 2 mm, 1.7 µm particles, UPLC column at 30 °C oven temperature. The solvents used for the assay consisted of 0.2% Formic Acid (Solvent A) and 98/2/0.2 acetonitrile/water/formic acid (Solvent B). Gradient [time (min) / %B] starting at flow rate 0.25 ml/min: 2.5/0, 7.5/10 (flow rate to 0.4 ml/min), 10.0/100, 12.0/100, 18.0/0, 25.0/0. Aliquots of 2 µl were injected."	"The compounds were detected using a Thermo LTQ Velos Orbitrap mass spectrometer operating in positive and negative Electrospray ionization (ESI) mode at a resolution of 30,000 with a scan range from 85-900 m/z and 95-900 m/z respectively. MS/MS spectra were obtained in a data dependent manner through higher-energy collisional dissociation (HCD, normalized collision energy: 50.0) at a resolution of 7,500. The two most intense mass spectral peaks detected in each scan were fragmented to give MS2 spectra (100-900 m/z). Full scan data was acquired in FT (accurate mass) mode, MS/MS spectra were acquired in centroid mode. The LTQ Velos Orbitrap used the Xcalibur control software version 2.1.0 for data acquisition."	"Non-targeted LC-MS/MS vendor raw data files were converted to the open source format mzML using the program ProteoWizard[1]. Vendor-based peak picking was enabled for MS[2]. The resulting mzML files were further processed with MassCascade[3] submitted within KNIME[4], the open source Konstanz Information Miner environment. Features were extracted with ±5 p.p.m. mass accuracy and subsequently deconvoluted using a modified Bieman algorithm[5] after noise reduction[6][7]. The workflow including all settings is available at MyExperiment[8] under this article’s title. Obiwarp[9] was used for cross-sample alignment. The maximum percentage of missing values per group and feature was set to 10%. Gaps in the resulting sample by feature matrix were either backfilled or – if missing – imputed using a PCA-based approach[10]. Statistical analysis was carried out in the statistical programming environment R, version 3.0.2. Total signal intensity normalization and Pareto scaling were used for data pre-treatment.
+</p>
+Ref:</br>
+[1] Kessner D, Chambers M, Burke R, Agus D, Mallick P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics. 2008 Nov 1;24(21):2534-6. doi:10.1093/bioinformatics/btn323. PMID:18606607</br>
+[2] Forcisi S, Moritz F, Kanawati B, Tziotis D, Lehmann R, Schmitt-Kopplin P. Liquid chromatography-mass spectrometry in metabolomics research: mass analyzers in ultra high pressure liquid chromatography coupling. J Chromatogr A. 2013 May 31;1292:51-65. doi:10.1016/j.chroma.2013.04.017. PMID:23631876</br>
+[3] Beisken, S., Earll, M., Portwood, D., Seymour, M. & Steinbeck, C. MassCascade: Visual Programming for LC-MS Data Processing in Metabolomics. Mol. Inform. 2014 33, 307–310. doi:10.1002/minf.201400016.</br>
+[4] Berthold, M. R. et al. in Studies in Classification, Data Analysis, and Knowledge Organization (GfKL 2007) (Springer, 2007).</br>
+[5] S. E. Stein An integrated method for spectrum extraction and compound identification from gas chromatography/mass spectrometry data. Journal of the American Society for Mass Spectrometry. August 1999, Volume 10, Issue 8, pp 770-781. doi:10.1016/S1044-0305(99)00047-1.</br>
+[6] Zhu P, Ding W, Tong W, Ghosal A, Alton K, Chowdhury S. A retention-time-shift-tolerant background subtraction and noise reduction algorithm (BgS-NoRA) for extraction of drug metabolites in liquid chromatography/mass spectrometry data from biological matrices. Rapid Commun Mass Spectrom. 2009 Jun;23(11):1563-72. doi: 10.1002/rcm.4041. PMID:19408276</br>
+[7] Windig, W., Phalp, J. M. & Payne, A. W. A Noise and Background Reduction Method for Component Detection in Liquid Chromatography/Mass Spectrometry. Anal. Chem. 1996 68, 3602–3606. doi:10.1021/ac960435y.</br>
+[8] Goble CA, Bhagat J, Aleksejevs S, Cruickshank D, Michaelides D, Newman D, Borkum M, Bechhofer S, Roos M, Li P, De Roure D. myExperiment: a repository and social network for the sharing of bioinformatics workflows. Nucleic Acids Res. 2010 Jul;38(Web Server issue):W677-82. doi:10.1093/nar/gkq429. PMID:20501605</br>
+[9] Prince JT, Marcotte EM. Chromatographic alignment of ESI-LC-MS proteomics data sets by ordered bijective interpolated warping. Anal Chem. 2006 Sep 1;78(17):6140-52. PMID:16944896</br>
+[10] Stacklies W, Redestig H, Scholz M, Walther D, Selbig J. pcaMethods--a bioconductor package providing PCA methods for incomplete data. Bioinformatics. 2007 May 1;23(9):1164-7. PMID:17344241</br>"	"Annotation of LC-MS/MS metabolite peaks was performed by searching two mass spectral libraries; Thermo MassFrontier ver 5 mass spectral MS-MS library and an in-house prepared mass spectral library (reference compounds available at MTBLS38)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fraser"	"Seymour"	"Hodgman"	"Seymour"	"Kende"	"Portwood"	"Baxter"	"Beisken"	"Earll"
+Study Person First Name	"Paul"	"Graham"	"Charlie"	"Mark"	"Aniko"	"Dave"	"Charles"	"Stephan"	"Mark"
+Study Person Mid Initials	""	""	""	""	""	""	""	""	""
+Study Person Email	""	""	""	""	""	""	""	"beisken@ebi.ac.uk"	"mark.earll@syngenta.com"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	"Royal Holloway"	"Notthingham University"	"Notthingham University"	"Syngenta"	"Syngenta"	"Syngenta"	"Syngenta"	"European Bioinformatics Institute"	"Syngenta"
+Study Person Roles	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""

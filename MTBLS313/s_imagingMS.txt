@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Variant]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"mouse"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"brain"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000142"	"Sample Collection"	"MBa1"
+"mouse"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"brain"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000142"	"Sample Collection"	"MBa2"
+"rat"	"Rattus rattus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10117"	""	""	""	"brain"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000142"	"Sample Collection"	"RBa1"
+"rat"	"Rattus rattus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10117"	""	""	""	"brain"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000142"	"Sample Collection"	"RBa2"

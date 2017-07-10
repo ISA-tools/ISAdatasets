@@ -1,0 +1,153 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"BTO"	"NCIT"	"EFO"	"MESH"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"3"	"86"	"18"	"24"	"44"	"146"	"6"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS185"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS185"
+Study Title	"Metabolic fingerprinting reveals a novel candidate biomarker for prednisolone treatment in cattle"
+Study Description	"The use of glucocorticoids as growth promoters for meat-producing animals is strictly regulated within the European Union. However, in the past few years, a higher frequency of non-compliant bovine urine samples for prednisolone has been noticed, which could not be directly related to fraudulent use of prednisolone. As such, questions have risen about the origin of this compound. Unfortunately, at present, no decisive strategy has been established to discriminate between endogenous and exogenous prednisolone. In this study, an untargeted metabolomics strategy, based on Orbitrap and QqTOF mass spectrometry, was deployed to reveal urinary biomarkers, which are indicative for the exogenous administration of the synthetic glucocorticoid prednisolone. For this purpose, prednisolone was administered intramuscularly and per os to 12 bovines and a total of 2700 urine samples were collected before, during and after treatment. Multivariate statistical data analysis (i.e. OPLS-DA) revealed four differentiating metabolites that allowed discrimination between urine samples collected before and during prednisolone administration. None of these compounds were present in urine containing endogenous prednisolone, of which the formation was induced by the administration of a synthetic analogue of adrenocorticotropic hormone. Only one metabolite was retained as a highly suitable biomarker during growth-promoting and therapeutic prednisolone treatment, with 93.4 % sensitivity and 96.3 % specificity. Besides, this compound could be detected up to 4 days after a single therapeutic per os prednisolone administration. Based on accurate mass, isotope pattern, and MS/MS spectra, this compound was putatively annotated and is suggested as an actionable biomarker for exogenous prednisolone administration."
+Study Submission Date	"2015-03-18"
+Study Public Release Date	"2016-03-18"
+Study File Name	"s_Study P_C.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"prednisolone"	"biomarker"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_8378"	"http://purl.obolibrary.org/obo/CHEBI_59163"
+Study Design Type Term Source REF	""	"CHMO"	"CHEBI"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-015-0887-3"
+Study Publication Author List	"Nathalie De Clercq, Julie Vanden Bussche, Lieven Van Meulebroek,  Siska Croubels, Philippe Delahaut, Dieter Buyst, Jos� Martins, Jianru Stahl-Zeng, Lynn Vanhaecke
+"
+Study Publication Title	"Metabolic fingerprint reveals a novel biomarker for prednisolone treatment in cattle.
+"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Glucocorticoids"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_study_p_c_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Animals:</br>
+In this study, a diverse group of cattle was compiled in order to include the potential influence of biological variation on the specific biomarker identification. More specifically, twelve healthy cows of a mixed breed, varying age (2–6 yrs) and with a body weight between 360 and 570 kg were housed for 8 months under controlled experimental conditions in the animal facilities of the Centre d’Economie Rurale (CER) (Marloie, Belgium). The animals were fed a commercially available diet, commonly applied in zootechnical practice, with ad libitum access to water and hay. During the entire study, animals were kept in 3 separate groups (4 animals per group) and all housed in a half covered pen. Prior to the in vivo study, an initial acclimatization period of 14 days was considered. In order to consider animal growth during the in vivo study, the animals were weighted at the start and at the end of the experiment, but no significant differences were observed. The in vivo study was approved by CER’s Ethical Committee (CE/Sante/ET/004).
+</p>
+Experimental protocol:</br>
+After the acclimatization period, which served as control, all animals underwent the same sequential prednisolone treatments: a growth-promoting treatment (long-term, 40 mg/cow/day) followed by a therapeutic treatment (short-term, 0.5 mg/kg b.w./day). The specific dosages were based on literature findings [1][2][3] to ensure relevant levels of prednisolone and potential metabolites in urine.
+</p>
+The growth-promoting treatment started with 30 consecutive days of oral administration of 40 mg/day of prednisolone (Sigma-Aldrich St. Louis, USA) (Day + 1 till Day + 30) (PO1), followed by a washout period of 10 days (WO1). Next, intramuscular injections of 40 mg/day of Solu-Delta-Cortef (prednisolone sodium succinate, Zoetis, Zaventem, Belgie) were given for 30 consecutive days (Day + 41 till Day + 70) (IM1). Before the start of the therapeutic prednisolone treatment, a washout period of 35 days was considered (WO2).
+</p>
+During the therapeutic prednisolone treatment, a similar experimental set-up was implemented. First, the animals received 0.5 mg/kg b.w. of prednisolone per os for 5 days (Day + 106 till Day + 110) (PO2), which was followed by a washout period of 25 days (WO3). Next, intramuscular injections of 0.5 mg/kg b.w. of Solu-Delta-Cortef were administered during 5 consecutive days (Day + 136 till Day + 140) (IM2). A final washout period of 32 days (Day + 141 till Day + 172) was respected (WO4).
+</p>
+During the periods of oral administration, one capsule containing the appropriate amount of prednisolone, using lactose as excipient, was given in the morning just after feeding, using a capsule launcher. The intramuscular injections were placed in the neck and were alternated
+every day from the left to the right side in order to minimize irritation.
+</p>
+Collection:</br>
+Urine samples were collected in the morning, 5 min before prednisolone administration, by a veterinarian using a probe (to prevent faecal contamination), immediately portioned into 15 ml tubes, and stored in the dark at -80 °C until analysis [4]. As for the sampling
+rate, during the acclimatization period, urine samples were collected daily. During the therapeutic and growth-promoting prednisolone treatments and washout periods, samples were collected every 5 days.
+</p>
+Ref:</br>
+[1] Cannizzo, F. T., Capra, P., Divari, S., Ciccotelli, V., Biolatti, B., & Vincenti, M. (2011). Effects of low-dose dexamethasone and prednisolone long term administration in beef calf: Chemical and morphological investigation. Analytica Chimica Acta, 700, 95–104. doi:10.1016/j.aca.2010.12.004. PMID:21742122</br>
+[2] Ferranti, C., delli Quadri, F., Palleschi, L., et al. (2011). Studies on the presence of natural and synthetic corticosteroids in bovine urine. Steroids, 76(6), 616–625. doi:10.1016/j.steroids.2011.02.044. PMID:21382393</br>
+[3] Vincenti, M., Girolami, F., Capra, P., et al. (2009). Study of dexamethasone urinary excretion profile in cattle by LC-MS/MS: Comparison between therapeutic and growth-promoting administration. Journal of Agricultural and Food Chemistry, 57(4), 1299–1306.  doi:10.1021/jf803465d. PMID:19182943</br>
+[4] De Clercq, N., Vanden Bussche, J., Croubels, S., Delahaut, P., & Vanhaecke, L. (2013). A validated analytical method to study the
+long-term stability of natural and synthetic glucocorticoids in livestock urine using ultra-high performance liquid chromatography coupled to Orbitra-high resolution mass spectrometry. Journal of Chromatography A, 1301, 111–121. doi:10.1016/j.chroma.2013.05.066. PMID:23791145</br>"	"A detailed description of the analytical procedure for extraction and purification of urine samples has been described by [1]. In brief, a 5 ml aliquot of urine was spiked with internal standards (cortisol-d4 and prednisolone-d8) to obtain final concentration levels of 10 µg/l. Next, a twofold liquid–liquid extraction with pure tert-butyl methylether was performed. The organic phases were collected, pooled and dried under a gentle stream of nitrogen at a temperature of 50 °C. The residue was dissolved in 100 µl solvent, reflecting the initial mobile phase conditions, and transferred to a vial for UHPLC-HRMS analysis.
+</p>
+Ref:</br>
+[1] De Clercq, N., Vanden Bussche, J., Croubels, S., Delahaut, P., & Vanhaecke, L. (2013). A validated analytical method to study the
+long-term stability of natural and synthetic glucocorticoids in livestock urine using ultra-high performance liquid chromatography coupled to Orbitra-high resolution mass spectrometry. Journal of Chromatography A, 1301, 111–121. doi:10.1016/j.chroma.2013.05.066. PMID:23791145</br>"	"Untargeted analysis of urine samples was performed by UHPLC-Orbitrap mass spectrometry, according to the validated method of [1]. Chromatographic separation was thereby achieved on an Accela UHPLC system (Thermo Fisher Scientific, San Jose, USA), equipped with a Nucleodur Isis C18 column (1.8 µm, 100 mm x 2 mm, Macherey–Nagel, Duren, Germany). The binary solvent system consisted of 0.1% aqueous formic acid (A) and 0.1% formic acid in acetonitrile (B). The applied gradient program and other chromatographic parameters are presented in the supplementary table. High-resolution mass spectrometric analysis was performed on an ExactiveTM single-stage Orbitrap mass spectrometer
+(Thermo Fisher Scientific, San Jose´, USA), equipped with a heated electrospray ionization probe (HESI-II), operating in the polarity switching mode. Instrument control was carried out by Xcalibur 2.1 software (Thermo Fisher Scientific, San Jose, USA).
+</p>
+Ref:</br>
+[1] De Clercq, N., Vanden Bussche, J., Croubels, S., Delahaut, P., & Vanhaecke, L. (2013). A validated analytical method to study the
+long-term stability of natural and synthetic glucocorticoids in livestock urine using ultra-high performance liquid chromatography coupled to Orbitra-high resolution mass spectrometry. Journal of Chromatography A, 1301, 111–121. doi:10.1016/j.chroma.2013.05.066. PMID:23791145</br>"	"Untargeted analysis of urine samples was performed by UHPLC-Orbitrap mass spectrometry, according to the validated method of [1].
+</p>
+Experimental Parameters:</br>
+Column oven temperature 30 °C; Flow 0.30 µl/min;</br>
+Gradient:</br>
+Time (min)  B% (v/v)</br>
+ 0.0        20</br>
+ 1.0        25</br>
+ 6.0        25</br>
+ 7.0        95</br>
+ 8.0       100</br>
+10.0       100</br>
+10.1	    20</br>
+12.0	    20</br>	
+Ionization	HESI (II); Spray voltage 4 kV; Sheath gas flow rate 75 aua; Auxiliary gas flow rate 7 au</br>
+Sweep gas flow rate 2 au; Capillary temperature 280 °C; Heater temperature 300 °C</br>
+Capillary voltage 45 (-32) V; Tube lens voltage 95 (-100) V; Skimmer voltage 16 (-20) V</br>
+Mass resolution	50,000 FWHM at m/z 200; m/z range (Da) 150 to 650; Maximum injection time 500 ms</br>
+</p>
+Ref:</br>
+[1] De Clercq, N., Vanden Bussche, J., Croubels, S., Delahaut, P., & Vanhaecke, L. (2013). A validated analytical method to study the
+long-term stability of natural and synthetic glucocorticoids in livestock urine using ultra-high performance liquid chromatography coupled to Orbitra-high resolution mass spectrometry. Journal of Chromatography A, 1301, 111–121. doi:10.1016/j.chroma.2013.05.066. PMID:23791145</br>"	"Data processing was carried out by Xcalibur 2.1 software (Thermo Fisher Scientific, San Jose, USA)."	"In this study, the general workflow of data acquisition and analysis can be organized into multiple steps. A first step relates to the extraction of urine samples. Due to the large number of collected urine samples, sample preparation and analysis were performed in subsequent batches of four animals. The first batch considered of the urine samples of animals 1, 5, 7 and 12. The second batch contained the
+urine samples of animals 2, 4, 6 and 11, and the last batch included urine of animals 3, 8, 9 and 10. Instrumental stability (quality control measure) during mass spectrometric analyses was verified by considering standard injections. These injections were run at the beginning and repeated every 25 samples. This mixture consisted of cortisol, cortisone, dihydrocortisone, prednisolone, prednisone, methylprednisolone, 20alpha-dihydroprednisolone and 20beta-dihydroprednisolone. The following average coefficients of variance (n = 162) were obtained for the various glucocorticoids: 6.39% for cortisol, 5.51% for cortisone, 6.79% for dihydrocortisone, 3.09% for prednisolone, 4.35% for prednisone, 8.93% for methylprednisolone, 7.61% for 20alpha-dihydroprednisolone and 6.94% for 20beta-dihydroprednisolone.
+</p>
+The second step involved data pre-processing (peak list generation), thereby using either Sieve 2.1 (Thermo Fisher Scientific, San Jose, USA) or MarkerViewTM 1.2.1.1 (SCIEX, California, USA) software, to respectively process Exactive (raw.files). Applied parameter values included an m/z-range of 150–650 Da, a m/z width of 5 ppm, a retention time window ranging from 1 to 9.5 min, a peak intensity threshold of 100,000 arbitrary units, a maximum peak width of 0.5 min and a maximum number of 10,000 frames. Furthermore, corrections for inherent chromatographic variability along samples were made during the peak alignment process. This strategy rendered a list of features (detected ions) that were characterized by their m/z-value, retention time and signal abundance. The signal intensities of these ions were for each sample normalized by the average signal intensity of the two deuterium labeled internal standards i.e. cortisol-d4 and prednisolone-d8, which were supplemented prior to extraction. Moreover, since urine is a matrix subjected to potential dilution effects, a secondary normalization was implemented. normalization by means of specific gravity (Pocket Refractometer, Atago, Tokyo) based on the Levine–Fahy
+equation (correction factor ranged from 1.003 to 1.0044) was implemented.
+</p>
+In the final step, multivariate statistical analysis was performed by means of SIMCATM 13 software (Umetrics, Malmo, Sweden)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"De Clercq"	"Vanden Bussche"	"Van Meulebroek"	"Croube"	"Vanhaecke"	"Delahaut"
+Study Person First Name	"Nathalie"	"Julie"	"Lieven"	"Siska"	"Lynn"	"Philippe"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	""	""	""	""	"Lynn.Vanhaecke@ugent.be"	""
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""
+Study Person Affiliation	"Ghent University"	"Ghent University"	"Ghent University"	"Ghent University"	"Ghent University"	"CER"
+Study Person Roles	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

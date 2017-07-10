@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"CHMO"	"UO"	"OBI"	"SWEET"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/SWEET"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"27"	"5"	"42"	"22"	"1"	"86"	
+Term Source Description	"Environment Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Semantic Web for Earth and Environment Technology Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS366"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS366"
+Study Title	"Using network analysis to discern compositional patterns in ultrahigh resolution mass spectrometry data of dissolved organic matter"
+Study Description	"Rationale:</br> Marine dissolved organic matter (DOM) has long been recognized as a large and dynamic component of the global carbon cycle. Yet, DOM is chemically varied and complex and these attributes present challenges to researchers interested in addressing questions about the role of DOM in global biogeochemical cycles. </p> Methods:</br> Organic matter extracts from seawater were analyzed by direct infusion with electrospray ionization into a Fourier transform ion cyclotron resonance mass spectrometer. Network analysis was used to quantify the number of chemical transformations between mass-to-charge values in each sample. The network of chemical transformations was calculated using the MetaNetter plug-in within Cytoscape. The chemical transformations serve as markers for the shared structural characteristics of compounds within complex DOM. </p> Results:</br> Network analysis revealed that transformations involving selected sulfur-containing moieties and isomers of amino acids were more prevalent in the deep sea than in the surface ocean. Common chemical transformations were not significantly different between the deep sea and surface ocean. Network analysis complements existing computational tools used to analyze ultrahigh-resolution mass spectrometry data. </p> Conclusions:</br> This combination of ultrahigh-resolution mass spectrometry with novel computational tools has identified new potential building blocks of organic compounds in the deep sea, including the unexpected importance of dissolved organic sulfur components. The method described here can be readily applied by researchers to analyze heterogeneous and complex DOM."
+Study Submission Date	"2016-07-22"
+Study Public Release Date	"2016-11-03"
+Study File Name	"s_EN480.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"sea water"	"Fourier transform ion cyclotron resonance mass spectrometry"	"Direct Infusion Mass Spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/ENVO_00002149"	"http://purl.obolibrary.org/obo/CHMO_0000502"	""	""
+Study Design Type Term Source REF	"ENVO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1002/rcm.7719"
+Study Publication Author List	"Krista Longnecker, Elizabeth B. Kujawinski"
+Study Publication Title	"Using network analysis to discern compositional patterns in ultrahigh resolution mass spectrometry data of dissolved organic matter"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"station"	"depth"
+Study Factor Type	"Station"	"Depth"
+Study Factor Type Term Accession Number	"http://sweet.jpl.nasa.gov/2.3/matrFacility.owl#Station"	"http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Depth"
+Study Factor Type Term Source REF	"SWEET"	"SWEET"
+STUDY ASSAYS
+Study Assay File Name	"a_en480_POS_mass_spectrometry.txt"	"a_en480_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ FT Ultra (Thermo Scientific)"	"LTQ FT Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seawater samples were collected in July 2010 from two stations off the northeastern coast of South America. Samples were divided into surface water samples and water samples from the deeper, North Atlantic Deep Water (NADW). Seawater was filtered with 0.2 μm Omnipore Filters (Millipore, Massachusetts, USA) mounted in Teflon filter holders and acidified to pH 3."	"The dissolved organic matter was extracted from the acidified seawater with 1 g/6 ml Bond Elut PPL cartridges (Varian, California, USA) [1] as previously described [2]. 
+</p>
+Ref:</br>
+[1] Dittmar, T., B. Koch, N. Hertkorn and G. Kattner (2008). A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography Methods 6: 230-235. doi:10.4319/lom.2008.6.230.</br>
+[2] Longnecker, K. (2015). Dissolved organic matter in newly formed sea ice and surface seawater. Geochimica et Cosmochimica Acta 171: 39-49. doi:10.1016/j.gca.2015.08.014.</br>"	"No chromatography was done. The data are from direct infusion."	"All samples were analyzed on a 7T ESI FT-ICR mass spectrometer (LTQ-FT-MS, Thermo Fisher Scientific, Waltham MA, USA). Samples were injected directly into the mass spectrometer. For positive ion mode analyses, sample aliquots were reconstituted in 50% methanol/water with 0.1% formic acid. For negative ion mode analyses, sample aliquots were reconstituted in 50% methanol/water. MilliQ water, processed and analyzed in the same manner as the samples, indicated low overlap between the blanks and the samples. For both positive and negative ion modes, samples were infused into the ESI interface at 4 μl/min, and instrument and spray parameters were optimized for each sample. The capillary temperature was set at 250 °C, and the spray voltage was between 3.7 and 4 kV. At least 200 scans were collected for each sample which is a sufficient number of scans for good peak reproducibility [1]. The mass ranges for the full-scan collection was 150 < m/z < 1000 in both positive and negative ion modes. Weekly mass calibrations were performed with an external standard (Thermo Calibration Mix) which results in mass accuracy errors < 1.5 ppm. The processed spectra are internally calibrated following the guidelines described in Bhatia et al. (2010) which resulted in a mass accuracy < 1 ppm. The target average resolving power was 400,000 at m/z 400 (where resolving power is defined as m/Δm50% where Δm50% is the width at half-height of peak m).
+</p>
+Ref:</br>
+[1] Kido Soule, M. C., Longnecker, K., Giovannoni, S. J., and Kujawinski, E. B. (2010). Impact of instrument and experimental parameters on the repeatability and reproducibility of peaks in ultrahigh resolution ESI FT-ICR mass spectra of natural organic matter. Org. Geochem. 41, 725–733. doi:10.1016/j.orggeochem.2010.05.017</br>
+[2] Bhatia, M. P., Das, S. B., Charette, M. A., Longnecker, K., and Kujawinski, E. B. (2010). Molecular characterization of dissolved organic matter associated with the Greenland ice sheet. Geochim. Cosmochim. Acta 74, 3768–3784. doi: 10.1016/j.gca.2010.03.035</br>"	"We collected individual transients as well as a combined raw file using xCalibur 2.0 (Thermo Fisher Scientific, Waltham MA, USA). Transients were co-added and processed with custom-written MATLAB code [1].  Within each sample, only those transients whose total ion current (TIC) was greater than 20% of the maximal TIC were co-added, processed with Hanning apodisation, and zero-filled once prior to fast Fourier transformation. We retained all mass-to-charge (m/z) values with a signal-to-noise ratio above 5. Spectra were internally re-calibrated using a short list of m/z values present in a majority of the samples. The individual sample peak lists were then aligned in MATLAB [2]. Positive and negative ion mode data were aligned separately in MATLAB with an error tolerance of 1 ppm.
+</p>
+Ref:</br>
+[1] Southam, A. D., T. G. Payne, H. J. Cooper, T. N. Arvanitis and M. R. Viant (2007). Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray Fourier Transform Ion Cyclotron Resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Analytical Chemistry 79(12): 4595-4602. doi:10.1021/ac062446p.</br>
+[2] Mantini, D., Petrucci, F., Pieragostino, D., Del Boccio, P., Di Nicola, M., Di Ilio, C., et al. (2007). LIMPIC: a computational method for the separation of protein MALDI-TOF-MS signals from noise. BMC Bioinformatics 8:101. doi: 10.1186/1471-2105-8-101</br>"	"No metabolite identification was conducted for this project."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Longnecker"	"Kujawinski"
+Study Person First Name	"Krista"	"Elizaebeth"
+Study Person Mid Initials	""	"B"
+Study Person Email	"klongnecker@whoi.edu"	"ekujawinski@whoi.edu"
+Study Person Phone	"508 289 2824"	"508 289 3493"
+Study Person Fax	""	""
+Study Person Address	"360 Woods Hole Road
+Woods Hole, MA 02543 USA"	"360 Woods Hole Road"
+Study Person Affiliation	"Woods Hole Oceanographic Institution"	"Woods Hole, MA 02543 USA"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

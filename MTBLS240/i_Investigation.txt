@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"CHMO"	"EFO"	"UO"	"CHEBI"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"2"	"22"	"16"	"146"	"43"	"99"	"25"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS240"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS240"
+Study Title	"Maslinic acid-enriched diet decreases intestinal tumorigenesis in Apc(Min/+) mice through transcriptomic and metabolomic reprogramming."
+Study Description	"Chemoprevention is a pragmatic approach to reduce the risk of colorectal cancer, one of the leading causes of cancer-related death in western countries. In this regard, maslinic acid (MA), a pentacyclic triterpene extracted from wax-like coatings of olives, is known to inhibit proliferation and induce apoptosis in colon cancer cell lines without affecting normal intestinal cells. The present study evaluated the chemopreventive efficacy and associated mechanisms of maslinic acid treatment on spontaneous intestinal tumorigenesis in Apc(Min/+) mice. Twenty-two mice were randomized into 2 groups: control group and MA group, fed with a maslinic acid-supplemented diet for six weeks. MA treatment reduced total intestinal polyp formation by 45% (P<0.01). Putative molecular mechanisms associated with suppressing intestinal polyposis in Apc(Min/+) mice were investigated by comparing microarray expression profiles of MA-treated and control mice and by analyzing the serum metabolic profile using NMR techniques. The different expression phenotype induced by MA suggested that it exerts its chemopreventive action mainly by inhibiting cell-survival signaling and inflammation. These changes eventually induce G1-phase cell cycle arrest and apoptosis. Moreover, the metabolic changes induced by MA treatment were associated with a protective profile against intestinal tumorigenesis. These results show the efficacy and underlying mechanisms of MA against intestinal tumor development in the Apc(Min/+) mice model, suggesting its chemopreventive potential against colorectal cancer."
+Study Submission Date	"2015-10-01"
+Study Public Release Date	"2016-05-11"
+Study File Name	"s_Maslinic_acid_cancer.txt"
+Comment[Study Grant Number]	"SAF2011-25726; ETHERPATHS EC-22263; Bio-NMR EU project (Contract # 261863"
+Comment[Study Funding Agency]	"Spanish Ministry of Science and Innovation; European Commission"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"colorectal cancer"	"Familial adenomatous polyposis"	"Apc_Min/+"	"maslinic acid"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005842"	"http://www.orpha.net/ORDO/Orphanet_733"	""	"http://purl.obolibrary.org/obo/CHEBI_66682"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""
+Study Design Type Term Source REF	"EFO"	"EFO"	""	"CHEBI"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"23527181"
+Study Publication DOI	"10.1371/journal.pone.0059392"
+Study Publication Author List	"Sanchez-Tena S, Reyes-Zurita FJ, Diaz-Moralli S, Vinardell MP, Reed M, Garcia-Garcia F, Dopazo J, Lupianez JA, Guenther U, Cascante M."
+Study Publication Title	"Maslinic acid-enriched diet decreases intestinal tumorigenesis in Apc(Min/+) mice through transcriptomic and metabolomic reprogramming."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diet"
+Study Factor Type	"diet"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_maslinic_acid_cancer_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"A total of 22 male 4-week-old ApcMin/+ mice were purchased and maintained in the animal facility at the University of Barcelona. Animal care was strictly in accordance with the European Union Regulations, and the experimental protocols were approved by the Experimental Animal Ethical Research Committee of the University of Barcelona in accordance with current regulations for animal care and use for experimental purposes. After a 7-day acclimatization period receiving the standard diet (Teklad Global 18% Protein rodent diet), animals were randomly divided into two groups of 12 and 10 mice per group (Control and maslinic acid (MA), respectively). Control mice were fed with the standard diet, and the MA-treated group was fed with the same diet supplemented with 100 mg of MA/kg feed in order to mimic the effective concentration inhibiting colon cancer cell growth[1]. Animals were maintained for 12 h light/dark cycles, with free access to water and food. Throughout the 6-week treatment period, animals were observed for any signs of toxicity. At the end of the 6 weeks, the animals were starved overnight and anesthetized with volatile isoflurane (ESTEVE, Barcelona, Spain) before blood samples were obtained by cardiac puncture. Immediately, blood was centrifuged at 600 x g at 4 °C for 10 min to obtain serum samples, which were frozen at -80 ºC until processing. After blood extraction, mice were killed by an overdose of anesthesia. Maslinic acid (MA) extract used was a white powder comprising 98% maslinic acid and 2% oleanolic acid.
+</p>
+Ref:</b>
+[1] Reyes FJ, Centelles JJ, Lupianez JA, Cascante M (2Alpha,3beta)-2,3-dihydroxyolean-12-en-28-oic acid, a new natural triterpene from Olea europea, induces caspase dependent apoptosis selectively in colon adenocarcinoma cells. FEBS Lett. 2006 Nov 27;580(27):6302-10. Epub 2006 Oct 27. DOI:10.1016/j.febslet.2006.10.038. PMID:17083937</br>"	"Macromolecules from serum samples were removed by using the ultrafiltration method described previously[1]. First, NanoSep 3 K Omega centrifugal devices were prepared by washing them 10 times with 0.5 ml water + 0.75 g/l sodium azide at 1100 x g and 30 °C for 1 h. Next, serum samples were thawed and then filtered using the previously prepared centrifugal devices and spun at 9000 x g at 4 °C for 45 min. Then, 150 µl of the filtrate was diluted to obtain a 600 µl NMR sample in buffer (60 mmol/l sodium phosphate, 10 mmol/l sodium azide, 0.5 mmol/l TMSP, 10% D2O, pH 7.0).
+</p>
+Ref:</br>
+[1] Gunther RW, Neuerburg J, Mossdorf A, Pfeffer J, Høj AR, Mølgaard-Nielsen A, Bücker A, Schmitz-Rode T. New optional IVC filter for percutaneous retrieval–in vitro evaluation of embolus capturing efficiency. Rofo. 2005 May;177(5):632-6. DOI:10.1055/s-2005-858109. PMID: 15871077</br>"	"When needed, samples were thawed, filtered, and then spun at 9000 x g at 4 °C for 45 min. Then, 150 µl of the filtrate was diluted to obtain a 600 µl NMR sample in buffer (60 mmol/l sodium phosphate, 10 mmol/l sodium azide, 0.5 mmol/l TMSP, 10% D2O, pH 7.0)."	"The samples were analyzed using a Bruker 500 spectrometer operating at 500.18 MHz with a 5 mm triple resonance probe at 25 ºC."	"One-dimensional 1H NMR spectra were obtained by using 128 transients, 16 steady-state scans, a spectral width of 6009 Hz, 8192 pairs data points, and a 4.3 s recycling time. Excitation sculpting was used for water suppression."	"The data were processed in NMRLab[1]. An exponential line-broadening function of 0.3 Hz was applied, and the dataset was zero-filled to 16384 data points prior to Fourier transformation. Spectra were phase-corrected manually and referenced to TMSP (at 0 ppm). To compare peak volumes, the total area of each spectrum, excluding the regions containing the residual water signal and the TMSP signal, was normalized to 1.
+</p>
+Ref:</br>
+[1] Gunther UL, Ludwig C, Ruterjans H. NMRLAB-Advanced NMR data processing in matlab. J Magn Reson. 2000 Aug;145(2):201-8. DOI:10.1006/jmre.2000.2071. PMID:10910688</br>"	"Metabolites were identified from peaks identified and quantified using the Chenomx NMR Suite with associated libraries (version 4.5; Chenomx Inc., Edmonton, Canada)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sanchez-Tena"	"Cascante"	"Gunther"	"Thompson"
+Study Person First Name	"Susana"	"Marta"	"Ulrich"	"Michelle"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"ssanchezt@ub.edu"	"martacascante@ub.edu"	"u.l.gunther@bham.ac.uk"	"M.Thompson@bham.ac.uk"
+Study Person Phone	"+34-93 402 1217"	"+34-93 402 1593"	"0121 414 8361"	""
+Study Person Fax	"+34-93 402 1559"	"+34-93 402 1559"	"College of Medical and Dental Sciences University of Birmingham Edgbaston Birmingham B15 2TT UK "	""
+Study Person Address	"Faculty of Biology, Dept. Biochemistry and Molecular Biology. Avda. Diagonal 643, 08028 Barcelona (Spain)"	"Faculty of Biology, Dept. Biochemistry and Molecular Biology. Avda. Diagonal 643, 08028 Barcelona (Spain)"	""	"College of Medical and Dental Sciences University of Birmingham Edgbaston Birmingham B15 2TT UK"
+Study Person Affiliation	"Universitat de Barcelona"	"Universitat de Barcelona"	"School of Cancer Sciences"	"School of Cancer Sciences"
+Study Person Roles	"researcher"	"principal_investigator"	"Professor"	"Researcher"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

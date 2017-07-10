@@ -1,0 +1,126 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"CHMO"	"UO"	"NCIT"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"103"	"22"	"4"	"16"	"42"	"40"	"29"	"113"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS283"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS283"
+Study Title	"Metabolomics profiling (GC-MS and LC-MS) for time-course differentiation of pre-B cells-like (B3 cell line) under the controlled induction of the transcription factor Ikaros (STATegra Project)"
+Study Description	"The main goal of the project is to develop a new generation of bioinformatics resources for the integrative analysis of multiple types of 'omics data. These resources include both novel statistical methodologies as well as user-friendly software implementations. STATegra methods address many aspects of the 'omics data integration problem such as the design of multi-omics experiments, integrative transcriptional and regulatory networks, integrative variable selection, data fusion, integration of public domain data, and integrative pathway analysis. To support method development STATegra uses a model biological system, namely the differentiation process of mouse pre-B-cells. The STATegra consortium generated data focused on a critical step in the differentiation of B lymphocytes, which are key components of the adaptive immune system. Transcription factors of the Ikaros family are central to the normal differentiation of B cell progenitors and their expression increases in response to developmental stage-specific signals to terminate the proliferation of B cell progenitors and to initiate their differentiation. In particular, a novel biological system that models the transition from the pre-BI stage to the pre-BII subsequent stage, where B cell progenitors undergo growth arrest and differentiation, was used. The approach involves a pre-B cell line, B3, and an inducible version of the Ikaros transcription factor, Ikaros-ERt2. Ikaros factors act to down-regulate genes that drive proliferation and to simultaneously up-regulate the expression of genes that promote the differentiation of B cell progenitors. Hence, in the B3 system, before induction of Ikaros, cells proliferate and their gene expression pattern is similar to proliferating B cell progenitors in vivo. Following Ikaros induction, B3 cells undergo gene expression changes that resemble those that occur in vivo during the transition from cycling to resting pre-B cells, followed by a marked reduction in cellular proliferation and by G1 arrest. On this system the consortium has created a high-quality data collection consisting of a replicated time course using seven different 'omics platforms: RNA-seq, miRNA-seq, ChIP-seq, DNase-seq, Methyl-seq, proteomics and metabolomics, which is used to assess and to validate STATegra methods. The STATegra experimental design consists of a 6 point time course that captures the differentiation of B3 cells containing Ikaros-ERt2 upon Ikaros induction within a 24 hr period. The process was sampled at 0, 2, 6, 12, 18, and 24 hrs respectively after Ikaros induction by Tamoxifen. As control, B3 cells transfected with an empty vector were treated and sampled in the same way as the inducible line. Eight different 'omic technologies were measured on this system: RNA-seq, miRNA-seq, DNase-seq, RRBS-seq, ChIP-seq, scRNA-seq, Proteomics and Metabolomics. Generally, three biological replicates were obtained per platform and were processed as independent batches. Metabolomics analysis was performed using 4 biological batches (7, 8, 9 and 10) and at times 0, 2, 6, 12, 18 and 24 hrs respectively. Each sample was analyzed using gas chromatography mass spectrometry (GC-MS) and liquid chromatography mass spectrometry (LC-MS)."
+Study Submission Date	"2015-11-24"
+Study Public Release Date	"2016-12-15"
+Study File Name	"s_STATegra Metabolomics.txt"
+Comment[Overall Design]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"STATegra"	"DNA-Binding Protein Ikaros"	"time-course differentiation"	"pre-B cell line B3"	"gas chromatography-mass spectrometry"	"tandem mass spectrometry"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68732"	""	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	""	"NCIT"	""	""	"CHMO"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	""
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Control/Ikaros"	"Timepoint"	"Batch"
+Study Factor Type	"control"	"time"	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001461"	"http://www.ebi.ac.uk/efo/EFO_0000721"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_GCMS_metabolite_profiling_mass_spectrometry.txt"	"a_LCMS_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"Xevo TQ MS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Cells containing inducible Ikaros were generated by transducing mouse pre-B cell line B3 with mouse stem cell virus (MSCV) retroviral vectors encoding a fusion protein of  haemagglutinin-tagged wild type Ikaros (HA-Ikaros) and the estrogen receptor hormone-binding domain (ERt2), followed by an internal ribosomal entry site (IRES) and GFP. B3 cells containing inducible Ikaros (HA-Ikaros-ERt2-IRES-GFP)  were plated at a density of 0.5 million cells/ml in IMDM  medium containing 10% FCS and 1% penicillin-streptomycin. 0.5 µM 4 hydroxy-tamoxifen was added to the cells 2 hrs before collection."	"B3 cells containing inducible Ikaros were plated at a density of 0.5 million cells/ml in IMDM medium supplemented with 10% FCS and 1% penicillin/streptomycin. Time point samples were collected after 5 mins centrifugation at 1200 rpm. Cell pellets were washed 2 times in PBS, frozen in liquid nitrogen and stored at -80 °C.
+</p>
+Control vector-ERt2 B3 cells were plated at a density of 0.5 million cells/ml in IMDM medium supplemented with 10% FCS and 1% penicillin/streptomycin. Samples were collected after 5 mins centrifugation at 1200 rpm. Cell pellets were washed 2 times in PBS, frozen in liquid nitrogen and storaged at -80 °C. Four biological batches (9, 10, 11 and 12) were acquired.
+</p>
+Tubes with cell pellets were taken out of the freezer and put on dry ice prior to the solid/liquid extraction. Samples were extracted based on [1] with a small modification. Briefly, three consecutive extractions were performed with the same cell pellet and the liquid extracts were combined as the final extract. Only the first extraction solution contains the added internal standard which is labeled yeast extract obtained from Rheza Sharifi (Technical University Delft). The first and second extractions were performed using methanol (500 µl) and the third extraction with milliQ water (250 µl). The cell pellets were sonicated for 10 secs at 20% amplitude of the SONIX Ultrasonicator (750 kW) on ice. After this step, 40 µl of the first cell extract was aliquoted for the BCA based protein weight measurement into 1.5 ml tubes. 10% of the pooled liquid extract (125 µl) was aliquoted for the amine profiling platform. 70% of the pooled liquid extract was aliquoted (875 µl) for the GC-MS metabolite profiling platform. The rest was kept for CE-MS metabolite profiling platform (which is not added to this report).
+</p>
+To generate the QC samples, B3 cells with control vector were grown and harvested as the samples. The extracts from thirteen cell pellets (each 1 x 10^7 live cells) were pooled to generate the QC samples for two platforms. QC samples do not fully represent the whole study as they were not treated with 5-OHT.
+</p>
+Briefly, 500 µl of methanol and labeled yeast extract mixture was added onto the cell pellet at -80 °C. The cell pellet was sonicated for 10 secs at 20% amplitude of the SONIX Ultrasonicator (750 kW) on ice. The suspension was centrifugated for 10 mins at 15000 x g and 4 °C. Then the supernatant was collected in a 2ml tube. Another 500 µl of methanol solution was added onto the same cell pellet. The cell pellet was vortexed and they are centrifugated for 10 min at 15000 x g and 4 °C. The supernatant was combined with the first one in 2 ml tube. The last extraction was performed with 250 µl of milliQ water and the supernatant was combined with the previous two supernatants. Aliquots were taken as mentioned above for each platform. These aliquots were dried using a SpeedVac (Labconco). Dried metabolite pellets were stored at -80 °C until further analysis.
+</p>
+Ref:</br>
+[1] Sellick CA, Hansen R, Stephens GM, Goodacre R, Dickson AJ. Metabolite extraction from suspension-cultured mammalian cells for global metabolite profiling. Nat Protoc. 2011 Jul 28;6(8):1241-9. doi: 10.1038/nprot.2011.366. PMID: 21799492</br>"	"GC-MS:</br>
+GC-MS metabolite profiling platform focuses on the polar metabolites of the primary metabolism such as glycolysis, citric acid cycle and amino acid metabolism. Cell pellets were extracted with 13C-labeled yeast extract solution provided by Dr. Reza M. Seifar (TU Delft; see [1] for more details). The compounds detected in these extracts were used as internal standards for this platform. For this analysis 875 µl aliquot of liquid extract was collected and dried. The metabolite pellet went through a two-step derivatization procedure with oximation using methoxyamine hydrochloride (MeOX) as first reaction and trimethylsilylation using N-Methyl-N-(trimethylsilyl)trifluoroacetamide (MSTFA) + 1% trimethylchlorosilane (TMCS) as the second reaction. Finally, samples were centrifugated and the supernatant was transferred to autosampler vials and 1 µl of the sample was measured by GC-MS. Due to the limited stability of the silyl derivates, samples were injected a single time. An Agilent GC (7890A) coupled to Agilent Quadrupole-MS with EI source (Agilent MSD 5975C) was used. Separation was performed using a HP-5MS column (30 m x 0.25 m x 0.25 µm; Agilent).
+</p>
+LC-MS:</br>
+The amine platform covers amino acids and biogenic amines employing an Accq-tag derivatization strategy adapted from the protocol supplied by Waters and described elsewhere [2]. Cell extracts were spiked with 13C-labeled yeast extract solution provided by Dr. Reza M. Seifar (TU Delft; see [1] for more details). The compounds detected in these extracts were used as internal standards for this platform. For this analysis a 125 µl aliquot of the extract was collected and dried. The residue was reconstituted in borate buffer (pH 8.5) with AQC reagent. After reaction, the vials were transferred to an  autosampler tray and cooled to 10 °C until the injection. 1.0 µl of the reaction mixture was injected into the UPLC-MS/MS system. An ACQUITY UPLC system with autosampler (Waters, Etten-Leur, The Netherlands) was coupled online with a Xevo Tandem quadrupole mass spectrometer (Waters) operated using QuanLynx data acquisition software (version 4.1; Waters). The samples were analyzed by UPLC-MS/MS using an Accq-Tag Ultra column (Waters).
+</p>
+Ref:</br>
+[1] Seifar R. M. et al., Simultaneous quantification of free nucleotides in complex biological samples using ion pair reversed phase liquid chromatography isotope dilution tandem mass spectrometry. Analytical Biochemistry, 2009; 388, 213-219. </br>
+[2] Noga, M.J., et al., Metabolomics of cerebrospinal fluid reveals changes in the central nervous system metabolism in a rat model of multiple sclerosis. Metabolomics, 2012; 8: 253-263</br>
+"	"GC-MS:</br>
+An Agilent MSD 5975C with EI source was used.
+</p>
+LC-MS:</br>
+A Xevo Tandem quadrupole mass spectrometer (Waters) operated using QuanLynx data acquisition software (version 4.1; Waters) was used. The Xevo TQ was used in the positive-ion electrospray mode and all analytes were monitored in Multiple Reaction Monitoring (MRM) using nominal mass resolution."	"GC-MS:</br>
+The raw data were pre-processed using Agilent MassHunter Quantitative Analysis software for GC-MS (Agilent, Version B.04.00), and quantitation of metabolite response was calculated as the peak area the target analyte to the respective internal standard.
+</p>
+LC-MS:</br>
+Acquired data were evaluated using TargetLynx software (Waters), by integration of assigned MRM peaks and normalization using proper internal standards. For analysis of amines their 13C-labeled analogs were used. If these analogs were not available, the closest-eluting internal standard was employed. An in-house developed algorithm was applied using the pooled QC samples to compensate for shifts in the sensitivity of the mass spectrometer over the batch."	"GC-MS:</br>
+After quality control correction 14 organic acids plus glucose comply with the acceptance criteria of RSDqc < 20%. RSDrep criteria does not apply to this data because no replicates were measured. Three (3) individual samples are not reported because their internal standards or metabolite level were outside our normal range.
+</p>
+LC-MS:</br>
+44 amines comply with the acceptance criteria of RSDqc < 15% and RSDrep < 20%."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Merkenschlager "	"Ferreiros "	"Liang"	"Cooper "	"Hankemeier"	"Reijmers"	"Westerhuis"	"Harms"	"Conesa"
+Study Person First Name	"Matthias"	"Isabel"	"Ziwei"	"Lee"	"Thomas"	"Theo"	"Johan"	"Amy"	"Ana"
+Study Person Mid Initials	""	""	""	""	""	""	""	""	""
+Study Person Email	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"	"info@stategra.eu"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	"Imperial College London"	"Imperial College London"	"Imperial College London"	"Imperial College London"	"Universiteit Leiden"	"University of Amsterdam"	"University of Amsterdam"	"Universiteit Leiden"	"Principe Felipe Research Center"
+Study Person Roles	""	""	""	""	""	""	""	""	"Project Coordinator"
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""

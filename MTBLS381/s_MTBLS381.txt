@@ -1,0 +1,2 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Factor Value[spike-in concentration]"	"Unit"	"Term Source REF"	"Term Accession Number"
+"MM48_20uM"	"reference compound"	"BAO"	"http://purl.obolibrary.org/obo/BAO_0002092"	"mixture"	"CHEBI"	"http://purl.obolibrary.org/obo/CHEBI_60004"	"Sample collection"	"MM48_20uM"	"20"	"micromolar"	"UO"	"http://purl.obolibrary.org/obo/UO_0000064"

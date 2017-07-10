@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"PO"	"MS"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"22"	"10"	"86"	"18"	"113"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Plant Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS297"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS297"
+Study Title	"Multiomics of tomato glandular trichomes reveals distinct features of central carbon metabolism supporting high productivity of specialized metabolites"
+Study Description	"Glandular trichomes are metabolic cell factories with the capacity to produce large quantities of secondary metabolites. Little is known about the connection between central carbon metabolism and metabolic productivity for secondary metabolites in glandular trichomes. To address this gap in our knowledge, we performed comparative metabolomics, transcriptomics, proteomics and 13C-labeling of type VI glandular trichomes and leaves from a cultivated (Solanum lycopersicum LA4024) and a wild (Solanum habrochaites LA1777) tomato accession. Specific features of glandular trichomes that drive the formation of secondary metabolites could be identified. Tomato type VI trichomes are photosynthetic but acquire their carbon essentially from leaf sucrose. The energy and reducing power from photosynthesis are used to support the biosynthesis of secondary metabolites, while the comparatively reduced Calvin-Benson-Bassham cycle activity may be involved in recycling metabolic CO2. Glandular trichomes cope with oxidative stress by producing high levels of polyunsaturated fatty acids, oxylipins, and glutathione. Finally, distinct mechanisms are present in glandular trichomes to increase the supply of precursors for the isoprenoid pathways. Particularly, the citrate-malate shuttle supplies cytosolic acetyl CoA and plastidic glycolysis and malic enzyme support the formation of plastidic pyruvate. A model is proposed on how glandular trichomes achieve high metabolic productivity."
+Study Submission Date	"2016-01-08"
+Study Public Release Date	"2017-04-25"
+Study File Name	"s_TomatoTrichome.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Plant Metabolomics"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"targeted metabolites"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""
+Study Design Type Term Source REF	""	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28408661"
+Study Publication DOI	"10.105/tpc.17.00060"
+Study Publication Author List	"Balcke G, Bennewitz S, Bergau N, Athmer B, Henning A, Majovsky P, Jiménez-Gómez JM, Hoehenwarter W, Tissier AF."
+Study Publication Title	"Multiomics of tomato glandular trichomes reveals distinct features of central carbon metabolism supporting high productivity of specialized metabolites."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Organ"
+Study Factor Type	"genotype"	"plant organ"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://purl.obolibrary.org/obo/PO_0009008"
+Study Factor Type Term Source REF	"EFO"	"PO"
+STUDY ASSAYS
+Study Assay File Name	"a_tomatotrichome_hydrophilic.txt"	"a_tomatotrichome_semi-polar.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"TripleTOF 5600 (AB Sciex)"	"TripleTOF 5600 (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Plant leaves were immediately quenched in liquid nitrogen, producing three individual leaf pools of 6 plants, each. For trichome harvest, tomato leaves were put on the hand palm (using gloves) and trichomes were quickly brushed off the leaves by a 2 cm broad paint brush which was dipped in liquid nitrogen. Trichomes of 15 plant leaves (LA1777) and 50 plant leaves (LA4024), respectively, were pooled in a mortar filled likewise with liquid nitrogen. The quenched trichomes were further purified under liquid nitrogen conditions by sieving through steel sieves of 150 µm mesh width (Retsch, Haan, Germany). Trichome-free leaves were gently ground in a mortar likewise filled with liquid nitrogen. After removal of all liquid nitrogen during storage at -80 °C, leaves and trichomes were lyophilized over night and stored in a deep freezer until use."	"Using wall-reinforced cryo-tubes of 1.6 ml volume (Precellys Steel Kit 2.8mm, Peqlab Biotechnologie GmbH, Erlangen, Germany) filled with 5 steel beads (3 mm), 25 mg aliquots of dry leaf or trichome powder were suspended in 900 µl dichloromethane/ethanol (-80 °C). Then, 200 µl of 50 mM aqueous ammonium acetate buffer (0 °C, pH 6.7) was added to each vial and cell rupture/metabolite extraction was achieved by FastPrep bead beating (2 x 60 s, speed 5.5 m/s, 1st round -80 °C, 2nd round room temperature; FastPrep24 instrument with cryo adapter, MP Biomedicals LLC, Santa Ana, CA, USA). After phase separation by centrifugation at 20,000 x g (2 min, 0 °C), 150 µl of the aqueous phase was collected and the Fastprep was repeated after adding another 150 µl of ammonium acetate. After the second centrifugation, another 200 µl aqueous phase was combined with the first extract and 600 µl of the organic phase was collected. Following, two times 500 µl tetrahydrofuran (THF) were added and the Fastprep was repeated. Each time, 450 µl THF exctract was combined with the first organic phase extract. The aqueous phase was then lyophilized and the organic phase was dried in a stream of nitrogen gas. 
+</p>
+For analysis of hydrophilic intermediates by ion pairing LC-(-)ESI-MS, lyophilized samples of the aqueous phase were dissolved in 150 µl of deionized water and filtrated over 0.2 µm PVDF (96 well, Corning, 450 x g, 5 min, 0 °C). 
+</p>
+For analysis of semi-polar intermediates in the organic phase, dried samples were dissolved in 180 µl buffer of 75% methanol and 25% water, filtrated over 0.2 µm PVDF (96 well, Corning, 450 x g, 5 min, 0 °C), and processed by RP-(+)ESI-MS and LC-(-)ESI-MS."	"The chromatographic  separation of the metabolites was done with an Aquity UPLC System (Waters). For the separation of the hydrophilic intermediates, 5 µl of the extracts were injected on a UPLC column Nucleoshell-RP18 (Macherey and Nagel, Dueren, Germany;  150 mm x 2mm x 2.7 µm) and separated by an gradient of 10 mM aqueous tributylamine  (acidified with glacial acetic acid to pH 6.2; solvent A) and acetonitrile (solvent B) as following: 0-2 min isocratic 98% A, 2-18 min linear from 98% to 64% A, 18-21 min linear from 64% to 5% A, 21-22.5 min isocratic 5% A, 22.5-22.52 min linear 5% A to 98% A, 22.52-24 min isocratic 98% A. The flow rate was set to 400 µl/min and the column oven temperature was 40 °C.
+</p>
+The separation of the semi-polar metabolites was done by an injection of 0.5 µl of the extracts on a Nucleoshell-RP18 UPLC column (Macherey and Nagel, Dueren, Germany;  150 mm x 2mm x 2.7 µm) running a gradient of 0.3 mM ammoniumformate (acidified with formic acid to pH 3.0, solvent A) and acetonitrile (solvent B) with the following profile: 0-2 min isocratic 95% A, 2-19 min linear from 95% to 5% A, 19-22 min isocratic 5% A, 22-22.01 min linear from 5% A to 95% A, 22.01-24 min isocratic 95% A. The flow rate was set to 400 µl/min and the column oven temperature was 40 °C."	"Non-targeted ion detection in LC-MS was achieved on a TripleTOF 5600 mass spectrometer using the software Analyst 1.6 TF (Sciex, Toronto, Canada). TOF-MS1-mass features were assayed between 65-1250 Da simultaneously with an array of non-targeted QToF-MS2 scan experiments in SWATH mode. During the latter, the transmission range for precursor ions in the Q1-quadrupol is set for 20 ms to mass windows of 33 Dalton and is incremented from m/z = 65-1250.  Simultaneously, CID-fragmentation is acquired in relation to each SWATH transmission window. Thus, compromising between Q1 dwell times and MS2 spectra purity, LC-SWATH-MS/MS measurements allow for rapid assessment of MS1 and MS2 spectra with cycle times below 1/s. 
+</p>
+Targeted ion detection for hydrophilic metabolites by scheduled multiple reaction monitoring was applied using a Sciex 6500 QTRAP  and the software Analyst 1.7 (Sciex, Toronto, Canada). "	"Untargeted peak extraction from MS1 was performed the by the software MarkerView 1.2. (Sciex) using a retention time resriction between 1.5-19.0 min and a maximum peak number of 5000 features per alignment. 
+</p>
+Targeted feature extraction from MS1 was performed in 40 mDa isolation windows for [M-H] of selected metabolites using the software Multiquant 1.1 TF (Sciex)."	"The metabolite structure was identified using authentic standards.
+</p>
+If authentic standards were not available we predicted the metabolite’s identity or affiliation to a class of secondary metabolites by exact mass, isotopic distribution of carbon in MS1 spectra, by CID fragmentation patterns, and the plausibility of the metabolite’s appearance and retention time in the chromatogram of aqueous or organic extracts."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Balcke"	"Bennewitz"	"Bergau"	"Athmer"	"Henning"	"Majovsky"	"Jiménez-Gómez"	"Hoehenwarter"	"Tissier"
+Study Person First Name	"Gerd"	"Stefan"	"Nick"	"Benedikt"	"Anja"	"Petra"	"José"	"Wolfgang"	"Alain"
+Study Person Mid Initials	"U"	""	""	""	""	""	"M"	""	""
+Study Person Email	"Gerd Balcke <Gerd.Balcke@ipb-halle.de>"	"Stefan Bennewitz <Stefan.Bennewitz@ipb-halle.de>"	"Nick Bergau <Nick.Bergau@ipb-halle.de>"	"Benedikt Athmer <bathmer@ipb-halle.de>"	"Anja.Henning@ipb-halle.de"	""Majovsky, Petra" <Petra.Majovsky@ipb-halle.de>"	"jose.jimenez-gomez@versailles.inra.fr"	"Wolfgang Hoehenwarter <Wolfgang.Hoehenwarter@ipb-halle.de>"	"Alain Tissier <Alain.Tissier@ipb-halle.de>"
+Study Person Phone	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""
+Study Person Address	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"	"Route de Saint Cyr
+78000 Versailles, France"	"Weinberg 3, D-06120 Halle/S., Germany"	"Weinberg 3, D-06120 Halle/S., Germany"
+Study Person Affiliation	"Leibniz Institute of Plant Biochemistry, Dept. of Cell and Metabolic Biology"	"Leibniz Institute of Plant Biochemistry, Dept. of Cell and Metabolic Biology"	"Leibniz Institute of Plant Biochemistry, Dept. of Cell and Metabolic Biology"	"Leibniz Institute of Plant Biochemistry, Proteome Analytics"	"Leibniz Institute of Plant Biochemistry, Proteome Analytics"	"Leibniz Institute of Plant Biochemistry, Proteome Analytics"	"Max Planck Institute for Plant Breeding Research"	"Leibniz Institute of Plant Biochemistry, Proteome Analytics"	"Leibniz Institute of Plant Biochemistry, Dept. of Cell and Metabolic Biology"
+Study Person Roles	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""

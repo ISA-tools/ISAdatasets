@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"NCIT"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"29"	"18"	"6"	"146"	"129"	"44"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS47"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS47"
+Study Title	"Metabolomic Characterization of Knock-Out Mutants in Arabidopsis - Development of a Metabolite Profiling Database for Knock-Out Mutants in Arabidopsis (MeKO)."
+Study Description	"Despite recent intensive research efforts in functional genomics, the functions of only a limited number of Arabidopsis (Arabidopsis thaliana) genes have been determined experimentally. Thus, improving gene annotation remains a major challenge in plant science. Because metabolite profiling can characterize the metabolomic phenotype of a genetic perturbation of plant metabolism, it provides clues to the function of genes of interest. In this regard, we chose 50 Arabidopsis mutants including a set of characterized and uncharacterized mutants, which resemble wild-type plants. We performed metabolite profiling of the plants using gas chromatography-mass spectrometry (GC-MS). To make the dataset available as an efficient public functional genomics tool for hypothesis generation, we developed the MeKO database, which allows evaluation of whether a mutation affects metabolism during normal growth. This database contains images of mutants, statistical data analyses, and data on differential metabolite accumulation. Non-processed data, including chromatograms, mass spectra, and experimental meta-data, follow the guidelines of the Metabolomics Standards Initiative (MSI) and are freely downloadable. Proof-of-concept analysis suggests that the MeKO database is highly useful for gene annotation and for generation of hypotheses for genes of interest. MeKO is publicly available at http://prime.psc.riken.jp/meko/."
+Study Submission Date	"2013-07-01"
+Study Public Release Date	"2014-03-01"
+Study File Name	"s_GC0003.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"metabolomic profiling"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	""	"EFO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"24828308"
+Study Publication DOI	"http://dx.doi.org/10.1104/pp.114.240986"
+Study Publication Author List	"Atsushi Fukushima, Miyako Kusano, Mami Iwasa, Makoto Kobayashi, Naomi Hayashi, Akiko Watanabe-Takahashi, Tomoko Narisawa, Takayuki Tohge, Kazuki Saito"
+Study Publication Title	"Metabolomic Characterization of Knock-Out Mutants in Arabidopsis - Development of a Metabolite Profiling Database for Knock-Out Mutants in Arabidopsis (MeKO)."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Batch"
+Study Factor Type	"genotype"	"block"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_gc0003_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Leco Pegasus III"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"As described in [1], sterilized seeds were stratified at 5 °C for 2 d, and were successively sown on Murashige and Skoog (MS) medium containing 1% sucrose. Plants were cultivated in controlled growth chambers at 22 °C in 16-h light and 8-h dark conditions for 18 d. The aerial regions were harvested with 20 different biological replicates, 6 h after the onset of the bright phase. All plant materials were frozen immediately in liquid nitrogen to quench enzymatic activity. Harvested samples with a fresh weight (FW) over 7 mg were used for GC-MS-based metabolite profiling. An equivalent of 55.6 µg of derivatized samples was injected.
+</p>
+Ref:</br>
+[1] Kusano M, Fukushima A, Arita M, Jonsson P, Moritz T, Kobayashi M, Hayashi N, Tohge T, Saito K. Unbiased characterization of genotype-dependent metabolic regulations by metabolomic approach in Arabidopsis thaliana. BMC Syst Biol. 2007 Nov 21;1:53."	"As described in [1], each sample was extracted with a concentration of 5 mg fresh weight of tissues per ml extraction medium (methanol/chloroform/water [3:1:1 v/v/v]) containing 10 stable isotope reference compounds using a Retsch mixer mill MM310 at a frequency of 30 Hz for 3 min at 4 °C. Each isotope was adjusted to a final concentration of 15 ng per µl injection. After centrifugation for 5 min at 15,100 x g, 100 µl of the supernatant was used for further analysis. The extracts were evaporated to dryness in a Savant SPD2010 SpeedVac Concentrator (Thermo Electron Corporation, Waltham, MA, USA).
+</p>
+Derivatization:</br>
+For methoximation, 30 µl of methoxyamine hydrochloride (20 mg/ml in pyridine) was added to the sample. After 24 h of derivatization at room temperature, the sample was trimethylsilylated for 1 h using 30 µl of MSTFA with 1% TMCS at 37 °C with shaking. After silylation, 20 µl of n-heptane was added. All the derivatization steps were performed in the vacuum glove box VSC-100 (Sanplatec, Japan) filled with 99.9995% (G3 grade) of dry nitrogen.
+</p>
+Ref:</br>
+[1] Kusano M, Fukushima A, Arita M, Jonsson P, Moritz T, Kobayashi M, Hayashi N, Tohge T, Saito K. Unbiased characterization of genotype-dependent metabolic regulations by metabolomic approach in Arabidopsis thaliana. BMC Syst Biol. 2007 Nov 21;1:53."	"As described in [1], 1µl of each sample was injected in the splitless mode by an CTC CombiPAL autosampler (CTC analytics, Zwingen, Switzerland) into an Agilent 6890N gas chromatograph (Agilent Technologies, Wilmingston, USA) equipped with a 30 m x 0.25 mm inner diameter fused-silica capillary column with a chemically bound 0.25-µl film Rtx-5 Sil MS stationary phase (RESTEK, Bellefonte, USA) for metabolome analysis. Helium was used as the carrier gas at a constant flow rate of 1 ml/min. The temperature program for metabolome analysis started with a 2-min isothermal step at 80 °C and this was followed by temperature ramping at 30 °C to a final temperature of 320 °C, which was maintained for 3.5 min.
+</p>
+Ref:</br>
+[1] Kusano M, Fukushima A, Arita M, Jonsson P, Moritz T, Kobayashi M, Hayashi N, Tohge T, Saito K. Unbiased characterization of genotype-dependent metabolic regulations by metabolomic approach in Arabidopsis thaliana. BMC Syst Biol. 2007 Nov 21;1:53."	"The transfer line and the ion source temperatures were 250 and 200°C, respectively. Ions were generated with a 70-eV electron beam at an ionization current of 2.0 mA. Data acquisition was on a Pegasus IV TOF MS instrument (LECO, St. Joseph, MI, USA) at an acquisition rate of 30 spectra/s in the mass range of a mass-to-charge ratio of m/z = 60-800. The solvent delay was 237 s.
+</p>
+Alkane standard mixtures (C8-C20 and C21-C40) were purchased from Sigma-Aldrich (Tokyo, Japan) and used for calculating the retention index (RI). The normalized response for calculating the signal intensity of each metabolite from the mass-detector response was obtained with each selected ion current unique in each metabolite MS spectrum to normalize the peak response. For quality control, we injected methylstearate in every 6 samples. Quality control (QC) samples were prepared by mixing 100 µl of extracts of each wild-type sample. 6 QC samples per batch were run(30 samples in total)."	"Non-processed MS data from GC-TOF/MS analysis were exported in NetCDF format generated by chromatography processing and mass spectral deconvolution software, Leco ChromaTOF version 3.22 (LECO, St. Joseph, MI, USA) to MATLAB 6.5 (Mathworks, Natick, MA, USA), where all data-pretreatment procedures, such as smoothing, alignment, time-window setting, and peak deconvolution, were carried out by using hyphenated data analysis (HDA) [1][2].
+</p>
+Ref:</br>
+[1] Jonsson P, Gullberg J, Nordstrom A, Kusano M, Kowalczyk M, Sjostrom M, Moritz T (2004) A strategy for identifying differences in large series of metabolomic samples analyzed by GC/MS. Anal Chem 76: 1738-1745. PMID:15018577</br>
+[2] Jonsson P, Johansson ES, Wuolikainen A, Lindberg J, Schuppe-Koistinen I, Kusano M, Sjostrom M, Trygg J, Moritz T, Antti H (2006) Predictive metabolite profiling applying hierarchical multivariate curve resolution to GC-MS data--a potential tool for multi-parametric diagnosis. J Proteome Res 5: 1407-1414. PMID:16739992</br>"	"The resolved MS spectra were matched against reference mass spectra using the NIST mass spectral search program for the NIST/EPA/NIH mass spectral library (version 2.0) and our custom software for peak annotation written in JAVA. Peaks were identified or annotated based on their RIs and a reference mass spectra comparison to the Golm Metabolome Database (GMD) and our in-house spectral library. The metabolites were identified by comparison with the RIs from library databases (GMD and our own library) and with the mass spectra of authentic standards, and the metabolites were defined as annotated metabolites upon comparison with the mass spectra and RIs from these two libraries. The 5 batches of metabolite profiles were combined using the HDA method [1][2]. To correct the “batch effect” we applied COMBAT normalization [3] to our quality samples consisting of Col-0 wild-type plants for each batch. Data were normalized using the CCMN algorithm [4].
+</p>
+Ref: </br>
+[1] Jonsson P, Gullberg J, Nordstrom A, Kusano M, Kowalczyk M, Sjostrom M, Moritz T (2004) A strategy for identifying differences in large series of metabolomic samples analyzed by GC/MS. Anal Chem 76: 1738-1745. PMID:15018577</br>
+[2] Jonsson P, Johansson ES, Wuolikainen A, Lindberg J, Schuppe-Koistinen I, Kusano M, Sjostrom M, Trygg J, Moritz T, Antti H (2006) Predictive metabolite profiling applying hierarchical multivariate curve resolution to GC-MS data--a potential tool for multi-parametric diagnosis. J Proteome Res 5: 1407-1414. PMID:16739992</br>
+[3] Johnson WE, Li C, Rabinovic A (2007) Adjusting batch effects in microarray expression data using empirical Bayes methods. Biostatistics 8: 118-127. PMID:16632515</br>
+[4] Redestig H, Fukushima A, Stenlund H, Moritz T, Arita M, Saito K, Kusano M (2009) Compensation for systematic cross-contribution improves normalization of mass spectrometry based metabolomics data. Anal Chem 81: 7974-7980. doi:10.1021/ac901143w. PMID:19743813</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	"MATLAB 6.5"
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fukushima"
+Study Person First Name	"Atsushi"
+Study Person Mid Initials	""
+Study Person Email	"a-fukush@psc.riken.jp"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"1-7-22, Yokohama, Kanagawa 230-0045, Japan"
+Study Person Affiliation	"RIKEN Plant Science Center"
+Study Person Roles	"author"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

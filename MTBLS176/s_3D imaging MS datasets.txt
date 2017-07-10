@@ -1,0 +1,7 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"Colorectal_Adenocarcinoma"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"Colorectal adenocarcinoma"	"MEDDRA"	"http://purl.bioontology.org/ontology/MEDDRA/10052360"	"Sample collection"	"Colorectal_Adenocarcinoma"
+"ColAd_individual"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"Colorectal adenocarcinoma"	"MEDDRA"	"http://purl.bioontology.org/ontology/MEDDRA/10052360"	"Sample collection"	"ColAd_individual"
+"3DMouse_Kidney"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Mouse Kidney"	"NCIT"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22730"	"Sample collection"	"3DMouse_Kidney"
+"3D_Mouse_Pancreas"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Mouse Pancreas"	"NCIT"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C24044"	"Sample collection"	"3D_Mouse_Pancreas"
+"3D_OSCC"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"oral squamous cell carcinoma"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0000199"	"Sample collection"	"3D_OSCC"
+"Microbe_Interaction_3D_Timecourse_LP"	"Bacillus subtilis and Streptomyces coelicolor"	""	""	"Bacillus subtilis and Streptomyces coelicolor"	""	""	"Sample collection"	"Microbe_Interaction_3D_Timecourse_LP"

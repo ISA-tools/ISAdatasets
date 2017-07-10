@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"PO"	"EFO"	"CHMO"	"BTO"	"XEO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/XEO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"10"	"132"	"16"	"26"	"4"	"43"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"XEML Environment Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS7"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS7"
+Study Title	"Metabolomic profiles in long day, after bolting, single leaf analysis, Arabidopsis thaliana"
+Study Description	"Metabolomic profiles in short or long day, before and after bolting, single leaf analysis, Arabidopsis thaliana"
+Study Submission Date	"2015-09-11"
+Study Public Release Date	"2015-09-14"
+Study File Name	"s_Metabolomic profiles in long day, after bolting, single leaf analysis, Arabidopsis thaliana.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"intervention design"	"stimulus or stress design"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"bolting stage"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/OBI/OBI_0000115"	"http://purl.bioontology.org/ontology/OBI/OBI_0001396"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/BTO_0004531"
+Study Design Type Term Source REF	"OBI"	"OBI"	""	"CHMO"	"BTO"
+STUDY PUBLICATIONS
+Study PubMed ID	"none"
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	""
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Container_after_initiation"	"Container_after_14d"	"Plants/Container_Quantity_after_14d"	"Total Light_100pc_after_initiation"	"Total Light_0pc_after_initiation"	"Total Light_100pc_after_07d"	"Total Light_0pc_after_07d"	"Total Light_100pc_after_28d"	"Total Light_0pc_after_28d"	"Medium_after_initiation"	"Medium_after_14d"
+Study Factor Type	"Container"	"Container"	"Quantity"	"duration"	"duration"	"duration"	"duration"	"duration"	"duration"	"media"	"media"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/XEO_00040"	"http://purl.obolibrary.org/obo/XEO_00040"	""	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000579"	"http://www.ebi.ac.uk/efo/EFO_0000579"
+Study Factor Type Term Source REF	"XEO"	"XEO"	""	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_Metabolomic profiles in long day, after bolting, single leaf analysis, Arabidopsis thaliana.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	""	"The chemical derivatization, namely methoxyamination and subsequent trimethylsilylation, was performed manually [1].
+</p>
+Ref: </br>
+[1]  Fiehn O, Kopka J, Dörmann P, Altmann T, Trethewey RN, Willmitzer L (2000) Metabolite profiling for plant functional genomics. Nat Biotechnol 18: 1157–1161. PMID:11062433</br>"	"Samples were processed using a Factor Four VF-5ms capillary column of dimensions, 30 m length, 0.25 mm i.d., and 0.25 µm film thickness with a 10 m EZ-guard pre-column (Varian Inc., Lake Forest, CA)) mounted to a Agilent 6890N gas chromatograph (Agilent, Böblingen, Germany), which was operated in splitless injection mode.
+</p>
+Injection of a 1 µl sample is performed at 230 °C in splitless mode with helium carrier gas flow set to 0.6 ml/min. Purge time is 1 min at 20 ml/min flow. The flow rate is kept constant with electronic pressure control enabled. Optionally and especially recommended in cases of high metabolite concentrations, injection is performed in split mode with the split ratio adjusted 1:25. As a rule of thumb, split injection may be prone to discrimination of high-boiling metabolic components, whereas splitless injection may, in rare cases, result in peak shape artifacts for low-boiling components. These artifacts occur in few chromatograms and result in different degrees of peak splitting and shoulder formation. For suppression of this peak shape artifact either inject at decreased flow or apply a 2 min pressure pulse at 110 psi during injection. However, a robust suppression of this artifact for all biological samples can currently not be recommended.
+</p>
+The temperature program starts in isothermal mode set to 1 min at 70 °C. The isothermal step is followed by a 9 °C/min ramp to 350 °C. The final temperature is kept constant for 5 min. Cooling is performed as fast as instrument specifications allow. The transfer line temperature is set to 250 °C and matches ion source conditions.
+</p>
+The n-alkanes used to calculate are retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. For additional information on the retention time index calculations see [1].
+</p>
+Ref: </br>
+[1] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Mass spectrometric data were acquired through a Pegasus III TOF mass spectrometer (LECO Instrumente GmbH, Mönchengladbach, Germany).  The ion source is set to maximum instrument specifications, 250 °C. High-boiling metabolic components exhibit increased peak tailing at lower temperature settings. The recorded mass range is m/z = 70–600 at 20 scans/s. Mass spectrometric solvent delay with filaments turned off is 6.6–7.5 min, the remaining chromatography is fully monitored with omission of cool down periods. Manual mass defect is set to 0, filament bias current is –70 V, and detector voltage is approx 1700–1850 V depending on detector age. The instrument tune is automated and performed without EPA tune compliance."	"GC-TOF-MS chromatograms were processed by TagFinder-Software [1] after export from the ChromaTOF software (version 1.00, Pegasus driver 1.61, LECO) to NetCDF file format.
+</p>
+Ref: </br>
+[1] Luedemann A, Strassburg K, Erban A, Kopka J (2008) TagFinder for the quantitative analysis of gas chromatography - mass spectrometry (GC-MS) based metabolite profiling experiments. Bioinformatics 24: 732–737.PMID:18204057</br>"	"A complete matrix of peak heights representing arbitrary mass spectral ion currents of all available mass features was used for initial numerical analysis. Peak heights were corrected by the amount of cells using OD750 and to the recovered amount of the internal standard, ribitol, to yield normalized responses. These normalized responses were used to calculate response ratios, subsequently also called relative content, compared to the respective choice of control condition. Identification of metabolite-specific mass fragments from this data matrix was manually supervised. Compounds were identified using the TargetFinder plug-in of TagFinder-Software and a reference library of mass spectra and retention indices from the collection of the Golm Metabolome Database (http://csbdb.mpimp-golm.mpg.de/csbdb/gmd/home/gmd_sm.html; [1]). Thresholds for automated mass spectral prematching were match factor >650 and retention indices deviation <1.0%. Identifications were confirmed manually by co-chromatography of defined reference mixtures [2].
+</p>
+Data management, data transformation, and basic calculations were performed using Microsoft Office Excel 2003 options. The TM4 multi-experiment viewer [3] and the MetaGeneAlyse Web service [4] were employed for visual and statistical data assessment, e.g. ICA, one- and two-way ANOVA, Kruskal-Wallis, or Mack-Skillings tests.
+Ref: </br>
+[1] Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmueller E, Doermann P, Weckwerth W, Gibon Y, Stitt M, et al (2005) GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics 21: 1635–1638. PMID:15613389</br>
+[2] Strehmel N, Hummel J, Erban A, Strassburg K, Kopka J (2008) Retention index thresholds for compound matching in GC-MS metabolite profiling. J Chromatogr B 871: 182–190. PMID:18501684</br>
+[3] Saeed AI, Sharov V, White J, Li J, Liang W, Bhagabati N, Braisted J, Klapa M, Currier T, Thiagarajan M, et al (2003) TM4: A free, open-source system for microarray data management and analysis. Biotechniques 34: 374–378. PMID:12613259</br>
+[4] Daub CO, Kloska S, Selbig J (2003) MetaGeneAlyse: analysis of integrated transcriptional and metabolite data. Bioinformatics 19: 2332–2333. PMID:14630670</br>"
+Study Protocol URI	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=862e2c71-40f3-4bc0-9713-4432c5062cb8"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization 1;Derivatization 2"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kopka"
+Study Person First Name	"Joachim"
+Study Person Mid Initials	""
+Study Person Email	"kopka@mpimp-golm.mpg.de"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Max Planck Institute of Molekular Plant Physiology"
+Study Person Roles	"Principal investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

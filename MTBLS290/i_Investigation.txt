@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BTO"	"MS"	"CHMO"	"NCBITAXON"	"NCIT"	"EFO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"22"	"86"	"18"	"6"	"44"	"146"	"80"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS290"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS290"
+Study Title	"Normalization techniques for PARAFAC modeling of urine metabolomics data"
+Study Description	"One of the body fluids often used in metabolomics studies is urine. The peak intensities of metabolites in urine are affected by the urine history of an individual resulting in dilution differences. This requires therefore normalization of the data to correct for such differences. Two normalization techniques are commonly applied to urine samples prior to their further statistical analysis. First, AUC normalization aims to normalize a group of signals with peaks by standardizing the area under the curve (AUC) within a sample to the median, mean or any other proper representation of the amount of dilution. The second approach uses specific end-product metabolites such as creatinine and all intensities within a sample are expressed relative to the creatinine intensity. Another way of looking at urine metabolomics data is by realizing that the ratios between peak intensities are the information-carrying features. This opens up possibilities to use another class of data analysis techniques designed to deal with such ratios: compositional data analysis. In this approach special transformations are defined to deal with the ratio problem. In essence, it comes down to using another distance measure than the Euclidian Distance that is used in the conventional analysis of metabolomics data. We will illustrate using this type of approach in combination with three-way methods (i.e. PARAFAC) to be used in cases where samples of some biological material are measured at multiple time points. Aim of the paper is to develop PARAFAC modeling of three-way metabolomics data in the context of compositional data and compare this with standard normalization techniques for the specific case of urine metabolomics data."
+Study Submission Date	"2015-12-11"
+Study Public Release Date	"2016-02-29"
+Study File Name	"s_PARAFAC modeling.txt"
+Comment[Study Grant Number]	"15-34613L; CZ.1.07/2.3.00/20.0170; LF 2015 015; NT12218"
+Comment[Study Funding Agency]	"Grant Agency of the Czech Republic; Ministry of Education, Youth and Sports of the Czech Republic; IGA MZCR; IGUP Olomouc"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Parallel factor analysis"	"Compositional data"	"targeted metabolites"	"creatinine"	"Area Under Curve"	"high-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	""	""	"http://purl.obolibrary.org/obo/CHEBI_16737"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64774"	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	""	""	"CHEBI"	"NCIT"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1059-9"
+Study Publication Author List	"Gardlo A, Smilde AK, Hron K, Hrdá M, Karlíková R, Adam T"
+Study Publication Title	"Normalization techniques for PARAFAC modeling of urine metabolomics data"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample collection time"	"Sample type"
+Study Factor Type	"timepoint"	"Group"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_parafac_modeling_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"API 5500 QTRAP (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine samples were collected from newborns with perinatal asphyxia in five time points (7, 28, 52, 76 and 100 hr after the birth) and stored at -80 °C. At the time of analysis, the samples were thawed on ice, centrifuged at 10000 x g for 10 min at 4 °C and diluted with LC-MS grade water to contain the same concentration of creatinine. A small volume of each sample was pooled and used as quality control samples (QC)."	"N/A"	"The liquid chromatography was carried out on Dionex UltiMate 3000 RS system (Sunnyvale, CA, USA). The separation was performed on aminopropyl LUNA column (100 x 2 mm, 3 µm particle size) protected by guard column (4 x 2 mm ID) of the same material (Phenomenex, Torrance, USA). The mobile phase A consisted of 20 mM ammonium acetate at pH 9.75 and mobile phase B consisted of acetonitrile. The gradient was: 0 – 7 min: 95% - 10% B; 7 – 13 min: 10% B; 13 – 13.5 min: 10% - 95% B; 13.5–17 min: 95% B. The column was maintained at 35 °C and the flow rate was 0.3 ml/min. The injection volume was 1-10 µl."	"The liquid chromatography was coupled to triple quadrupole QTRAP 5500 tandem mass spectrometer (AB Sciex, Foster City, CA, USA).The setting of mass spectrometer was as follows: curtain gas: 30 psi; ion spray voltage: ± 4500 V; both ion source gases: 40 psi and source temperature: 400 °C. Multiple reaction monitoring mode in both positive and negative ionisation mode was used for detection of 354 metabolites, which are typical for biological matrices. Compound parameters as collision energy, declustering potential, entrance potential and collision cell exit potential were previously optimized on standards. The equipment was controlled by the Analyst 1.6.2 software."	"Data were processed in the R software[1]; in addition to standard packages also those on PARAFAC modelling[2][3] and analysis of compositional data[4] were employed. At first, quality control-based robust LOESS (LOcal regrESSion) signal correction method was applied[5], and consequently also zero replacement according to[6] in order to enable further processing based on logarithmic calculations. Finally, both the standard log-transformation and the centred logratio (clr) transformation were applied on the data structure.
+</p>
+Ref:</br>
+[1] R Core Team (2014). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. (http://www.R-project.org/).</br>
+[2] Leibovici, D. and Sabatier, R. (1998). A singular value decomposition of k-way array for a principal component analysis of multiway data, pta-k. Linear Algebra Appl, 269:307-329. doi:10.1016/S0024-3795(97)81516-9</br>
+[3] Giordani, P., Kiers, H., and Del Ferraro, M. (2014). Three-way component analysis using the R package ThreeWay. doi: 10.18637/jss.v057.i07 J Stat Softw, 57(7):1-23.</br>
+[4] Templ, M., Hron, K., and Filzmoser, P. (2011). robCompositions: an R-package for robust statistical analysis of compositional data. doi:10.1002/9781119976462.ch25</br>
+[5] Dunn, W. B., Broadhurst, D., Begley, P., Zelena, E., Francis-McIntyre, S., Anderson, N., Brown, M., Knowles, J., Halsall, A., Haselden, J., Nicholls, A. W., Wilson, I., Kell, D., and Goodacre, R. (2011). Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011 Jun 30;6(7):1060-83. doi:10.1038/nprot.2011.335. PMID:21720319</br>
+[6] Martín-Fernández, J. A., Palarea-Albaladejo, J., and Olea, R. A. (2011). Dealing with zeros. In Pawlowsky-Glahn, V. and Buccianti, A., editors, Compositional Data Analysis: Theory and Applications, pages 43-58. Wiley, Chichester.</br>"	"Multiple reaction monitoring mode in both positive and negative ionisation mode was used for detection of 354 metabolites, which are typical for biological matrices. Compound parameters as collision energy, declustering potential, entrance potential and collision cell exit potential were previously optimized on standards. The equipment was controlled by the Analyst 1.6.2 software (AB Sciex, USA). Data were quantified using MultiQuant 3.0 software (AB Sciex, USA)and statistically evaluated in R programme language with statistics packages."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Gardlo"	"Smilde"	"Hron"	"Hrdá"	"Karlíková"	"Adam"
+Study Person First Name	"Alžběta"	"Age"	"Karel"	"Marcela"	"Radana"	"Tomáš"
+Study Person Mid Initials	"-"	"K"	"-"	"-"	"-"	"-"
+Study Person Email	"alzbetagardlo@gmail.com"	"A.K.Smilde@uva.nl"	"hronk@seznam.cz"	"marcela.zupkova@gmail.com"	"radana.karlikova@gmail.com"	"tomasadam@gmail.com"
+Study Person Phone	"+420 585634605"	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Department of Mathematical Analysis and Applications of Mathematics, Faculty of Science, Palacky University,  17. listopadu 12, 771 46 Olomouc, Czech Republic"	"Biosystems Data Analysis, Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, The Netherlands"	"Department of Mathematical Analysis and Applications of Mathematics, Faculty of Science, Palacky University,  17. listopadu 12, 771 46 Olomouc, Czech Republic"	"Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc, Hněvotínská 5, 779 00 Olomouc, Czech Republic"	"Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc, Hněvotínská 5, 779 00 Olomouc, Czech Republic"	"Department of Clinical Biochemistry, University Hospital Olomouc, Olomouc, Czech Republic; Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc,  Hněvotínská 5, 779 00 Olomouc, Czech Republic"
+Study Person Affiliation	"Department of Mathematical Analysis and Applications of Mathematics,Faculty of Science, Palacky University, Olomouc, Czech Republic "	"Biosystems Data Analysis, Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, The Netherlands "	"Department of Mathematical Analysis and Applications of Mathematics,Faculty of Science, Palacky University, Olomouc, Czech Republic "	"Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc, Olomouc, Czech Republic"	"Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc, Olomouc, Czech Republic "	"Department of Clinical Biochemistry, University Hospital Olomouc, Olomouc, Czech Republic; Laboratory of Metabolomics, Institute of Molecular and Translational Medicine, University Hospital Olomouc, Palacky University Olomouc, Olomouc, Czech Republic"
+Study Person Roles	"principal investigator role"	"investigator"	"investigator"	"researcher"	"researcher"	"investigator"
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

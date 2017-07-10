@@ -1,0 +1,159 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"BTO"	"CHMO"	"NCBITAXON"	"EFO"	"OBI"	"NCIT"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"26"	"12"	"4"	"132"	"23"	"34"	"96"	"43"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS143"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS143"
+Study Title	"Comprehensive systems biology analysis of a seven-month cigarette smoke inhalation study in C57BL/6 mice."
+Study Description	"Smoking of combustible cigarettes has a major impact on human health. Using a systems toxicology approach in a model of chronic obstructive pulmonary disease (C57BL/6 mice), we assessed the health consequences in mice of smoke derived from a prototype modified risk tobacco product (pMRTP) as compared to conventional cigarettes. We investigated physiological and histological endpoints in parallel with transcriptomics, lipidomics, and proteomics profiles in mice exposed to a reference cigarette (3R4F) smoke or a pMRTP aerosol for up to 7 months. We also included a cessation group and a switching-to-pMRTP group (after 2 months of 3R4F exposure) in addition to the control (fresh air-exposed) group, to understand the potential risk reduction of switching to pMRTP compared with continuous 3R4F exposure and cessation. </p> The dataset shared here describes the lipidomics analyses performed on lung, liver, and plasma of these mice at multiple time points. Lipids were characterized using, in addition to (untargeted) shotgun lipidomics, a set of targeted methods to specifically characterize sphingolipids, ceramides, triglycerides, eicosanoids, and gangliosides."
+Study Submission Date	"2014-11-20"
+Study Public Release Date	"2015-11-19"
+Study File Name	"s_MTBLS143.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"ultra-performance liquid chromatography-mass spectrometry"	"Tobacco Smoke"	"Cigarette Smoking"	"Modified Risk Tobacco Product"	"Mouse Model"	"Chronic Obstructive Pulmonary Disease"	"Shotgun lipidomics"	"targeted metabolites"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C829"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18270"	"http://scai.fraunhofer.de/CSEO#Modified_Risk_Tobacco_Product"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94604"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3199"	""	""	""
+Study Design Type Term Source REF	"CSEO"	"CHMO"	"NCIT"	"NCIT"	"CSEO"	"NCIT"	"NCIT"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26731301"
+Study Publication DOI	"10.1038/sdata.2015.77"
+Study Publication Author List	"Sam Ansari;Stephanie Boue;Sophie Dijon;Ashraf Elamin;Clement Foong;Emmanuel Guedj;Julia Hoeng;Nikolai Ivanov;Subash Krishnan;Patrice Leroy;Florian Martin;Celine Merg;Michael J. Peck;Manuel C. Peitsch;Blaine Phillips;Carine Poussin;Walter K. Schlage;Thomas Schneider;Marja Talikka;Bjoern Titz;Patrick Vanscheeuwijck;Emilija Veljkovic;Gregory Vuillaume;Ching Qing Woon"
+Study Publication Title	"Comprehensive systems biology analysis of a seven-month cigarette smoke inhalation study in C57BL/6 mice."
+Study Publication Status	"Accepted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"TreatPhase1"	"TreatPhase2"	"ExposureDurationPhase1"	"ExposureDurationPhase2"	"TestItemPhase1"	"TestItemPhase2"
+Study Factor Type	"treatment"	"treatment"	"duration"	"duration"	"treatment"	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000433"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls143_EICO_mass_spectrometry.txt"	"a_mtbls143_SHOT_mass_spectrometry.txt"	"a_mtbls143_GANG_mass_spectrometry.txt"	"a_mtbls143_CER_mass_spectrometry.txt"	"a_mtbls143_TAG_mass_spectrometry.txt"	"a_mtbls143_SPH_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"QTRAP 5500 (Applied Biosystems)"	"QTRAP 5500 (Applied Biosystems)"	"QTRAP 6500 (Applied Biosystems)"	"QTRAP 5500 (Applied Biosystems)"	"QTRAP 5500 (Applied Biosystems)"	"QTRAP 5500 (Applied Biosystems)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Plasma samples were stored at -80 °C prior to analysis. Lungs from 'omics2' mice were perfused through the right ventricle using a 27-G needle with ice-cold 0.9% physiological saline to remove contaminating blood cells. After dissecting the heart, the superior, middle, and post-caval lobes from the right lung were collected and snap-frozen immediately in liquid nitrogen before storing at -80 °C. Similarly, a piece of liver was frozen and stored in the same way. Tissue samples were pulverized with a CP02 CryoPrep Dry Pulverization System (Covaris). Plasma samples were thawed slowly on ice. All samples were homogenized in ice-cold methanol containing 0.1% butyl-hydroxy-toluene (BHT) at a concentration of 100 mg/ml. Homogenized samples were stored at -80 °C prior to lipid extraction and analysis. All lipidomics analyses were performed by Zora Biosciences Oy (Espoo, Finland)."	"Lipid Extraction:</br>
+Robotic assisted 96-well sample preparation and extraction was performed using a Hamilton Microlab Star system (Hamilton Robotics, Bonaduz, Switzerland). A modified Folch protocol, using chloroform, methanol and acetic acid for liquid-liquid extraction [1], was applied to extract a broad lipid type spectrum [2,3]. This extraction procedure is efficient and robust over a wide lipid concentration range [4]. This method was used to extract glycerolipids, glycerophospholipids, sterol esters and sphingolipids, except for sphingosines and spingosine-1-phosphates which were extracted with 1.1 ml of ice-cold methanol containing 0.1% BHT. The Hamilton robot system was used to extract gangliosides using the methodology described by Fong and colleagues [5] with minor modifications. Eicosanoids were extracted according to the procedure by Deems [6]. Prior to extraction, the samples were spiked with known amounts of internal standards (IS). This set of ISs were used to quantify the endogenous lipids in samples and controls as described below. Following lipid extraction, samples were dried under a gentle stream of nitrogen. Samples for shotgun lipidomics, sphingolipidomics and gangliosides were reconstituted in chloroform:methanol (1:2, v/v), whereas samples for sphingosine/sphingosine-1-phosphate and eicosanoids were reconstituted in methanol. The final extracts were stored at −20 °C upon mass spectrometry analysis.
+</p>
+Ref: </br>
+[1] Heiskanen LA, Suoniemi M, Ta HX, Tarasov K, Ekroos K.Long-term performance and stability of molecular shotgun lipidomic analysis of human plasma samples. Anal Chem. 2013 Sep 17; 85(18): 8757-63. PMID: 23919256 </br>
+[2] Ståhlman M, Ejsing CS, Tarasov K, Perman J, Borén J, Ekroos K. High-throughput shotgun lipidomics by quadrupole time-of-flight mass spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci. 2009 Sep 15; 877(26): 2664-72. PMID: 19286428 </br>
+[3] Folch J, Lees M, Sloane Stanley GH. A simple method for the isolation and purification of total lipides from animal tissues. J Biol Chem. 1957 May; 226(1): 497-509. PMID: 13428781</br>
+[4] Iverson SJ, Lang SL, Cooper MH. Comparison of the Bligh and Dyer and Folch methods for total lipid determination in a broad range of marine tissue. Lipids. 2001 Nov; 36(11): 1283-7. PMID: 11795862</br>
+[5] Fong B, Norris C, Lowe E, McJarrow P. Liquid chromatography-high-resolution mass spectrometry for quantitative analysis of gangliosides. Lipids. 2009 Sep;44(9):867-74. PMID: 19633991 </br>
+[6] Deems R, Buczynski MW, Bowers-Gentry R, Harkewicz R, Dennis EA. Detection and quantitation of eicosanoids via high performance liquid chromatography-electrospray ionization-mass spectrometry. Methods Enzymol. 2007; 432: 59-82. PMID: 17954213 </br>"	"Sphingolipidomics:</br>
+Molecular ceramides, glucosylceramides, lactosylceramides and globotriaosylceramides were analyzed as previously described [1]. Briefly, the individual species were separated using an Acquity BEH C18, 2.1 × 50 mm column with a particle size of 1.7 μm (Waters, Milford, MA, USA) assessed on a UHPLC system comprising of a CTC HTC PAL autosampler (CTC Analytics AG, Zwingen, Switzerland) and a Rheos Allegro pump (Flux Instruments, Reinach, Switzerland). A 25 min gradient using 10 mM ammonium acetate in water with 0.1% formic acid (mobile phase A) and 10 mM ammonium acetate in acetonitrile:2-propanol (4:3, v/v) containing 0.1% formic acid (mobile phase B) was used. The column oven temperature was set to 60 °C and a flow rate of 500 µl/min was used.
+</p>
+Sphingosines and sphingosine-1-phosphates were analyzed on a similar system as above. The individual species were separated using an AQUASIL C18, 2.1 x 50 mm column with a particle size of 5 μm (Thermo Fisher Scientific, San Jose, USA). A 19 min gradient using 5 mM ammonium acetate in ultra-pure water (UPW):methanol (1:1) with 0.1% formic acid (mobile phase A), 5 mM ammonium acetate in methanol with 0.1% formic acid (mobile phase B) and 10 mM ammonium acetate in isopropanol with 0.1% formic acid (mobile phase C) was used. The column oven temperature was set to 60 °C and a flow rate of 750 µl/min was used.
+</p>
+Ganglioside lipidomics:</br>
+Gangliosides were analyzed as described previously [2], except that 10 mM ammonium acetate and 0.1% formic acid were used in all solvents instead of ammonium formate. The analysis was assessed on a 6500 QTRAP (Sciex, Concord, Canada) equipped with a similar UHPLC system as described above. The individual species were separated using an Acquity BEH C18, 2.1 × 50 mm column with a particle size of 1.7 μm (Waters, Milford, MA, USA). A 32 min gradient using 10 mM ammonium acetate in methanol with 0.1% formic acid (mobile phase A), 10 mM ammonium acetate in isopropanol with 0.1% formic acid (mobile phase B) and 10 mM ammonium acetate in HPLC grade water with 0.1% formic acid (mobile phase C) was used. The column oven temperature was set to 45 °C and a flow rate of 500 µl/min was used.
+</p>
+Eicosanoid lipidomics:</br>
+Eicosanoids were analyzed as described previously [3]. A similar instrument setup as for sphingolipidomics was used. The individual species were separated using a Phenomenex Jupiter, 250 × 2.0 mm column with a particle size of 5 μm (Phenomenex, Torrance, CA, USA). A 18 min gradient using water:acetonitrile:formic acid (63:37:0.02) (mobile phase A) and acetonitrile:isopropanol (50:50) (mobile phase B) was used. The column oven temperature was set to 60 °C and a flow rate of 300 µl/min was used. 
+</p>
+Ref: </br>
+[1] Merrill AH Jr, Sullards MC, Allegood JC, Kelly S, Wang E. Sphingolipidomics: high-throughput, structure-specific, and quantitative analysis of sphingolipids by liquid chromatography tandem mass spectrometry. Methods. 2005 Jun; 36(2): 207-24. PMID: 15894491</br>
+[2] Ikeda K1, Shimizu T, Taguchi R. Targeted analysis of ganglioside and sulfatide molecular species by LC/ESI-MS/MS with theoretically expanded multiple reaction monitoring. J Lipid Res. 2008 Dec; 49(12): 2678-89. PMID: 18703820</br>
+[3] Deems R, Buczynski MW, Bowers-Gentry R, Harkewicz R, Dennis EA.Detection and quantitation of eicosanoids via high performance liquid chromatography-electrospray ionization-mass spectrometry. Methods Enzymol. 2007; 432: 59-82. PMID: 17954213</br>"	"Shotgun Lipidomics:</br>
+Shotgun lipidomics was carried on a QTRAP 5500 (Sciex). Quantification of molecular glycerolipids, glycerophosopholipids and sterol esters was assessed by shotgun lipidomics as previously described [1]. Samples were loaded into 96-well plates (twin.tec PCR Plate 96, Eppendorf AG, Hamburg, Germany) and sealed with an aluminium foil (Heatsealing Foil, Eppendorf AG). Aliquots of 10 µl were aspirated and infused. Precursor ion and neutral loss scans were carried out in positive and negative ion modes, as described previously [2-4]. On the TriVersa NanoMate electrospray ionization (ESI) voltages applied were typically 1.3 kV and -1.3 kV in positive and negative ion modes respectively. The gas pressure was set typically to 0.75 psi in both polarity modes. In the positive ion mode the following MS settings were used: curtain gas; 20, collision gas; 6, interface heater; 60, declustering potential; 30, entrance potential 10 and collision cell exit potential; 20. In negative ion mode the following settings were used: curtain gas; 20, collision gas; 6, interface heater; 60, declustering potential; -100, entrance potential -10 and collision cell exit potential; -20. Q1 and Q3 quadrupoles were operated in unit resolution mode.
+</p>
+Sphingolipidomics:</br>
+A QTRAP 5500 mass spectrometer (Sciex, Concord, Canada) equipped with an electrospray ion source, was used for mass spectrometric determination. The instrument was operated in multiple reaction monitoring (MRM) mode in positive ion mode as previously described [5]. 78 MRM transitions were monitored using a dwell time of 20 ms. Q1 and Q3 quadrupoles were operated in unit resolution mode. The collision energy was set at 40 eV for ceramides, 45 eV for glucosyl- and lactosylceramides and 66 eV for globotriaosylceramides. Nitrogen was used as collision gas. The ESI voltage was set at 5000 V and the ion source temperature at 400 °C.
+</p>
+For sphingosines and sphingosine-1-phosphates, the individual species were monitored in multiple reaction monitoring (MRM) mode in positive ion mode. 22 MRM transitions were monitored using a dwell time of 25 ms. Q1 and Q3 quadrupoles were operated in unit resolution mode. The collision energy was set at 22 eV for sphingosines and 21 eV for sphingosine-1-phosphates. Nitrogen was used as collision gas. The ESI voltage was set at 4500 V and the ion source temperature at 550 °C.
+</p>
+Ganglioside lipidomics:</br>
+The analysis was assessed on a QTRAP 6500 (Sciex, Concord, Canada) equipped with a similar UHPLC system. The individual species were monitored in multiple reaction monitoring (MRM) mode in negative ion mode. 103 MRM transitions were monitored using a dwell time of 30 ms. Q1 and Q3 quadrupoles were operated in unit resolution mode. The collision energy was set at 80 eV for GM1s, 70 eV for GM2s, 60 eV for GM3s, 50 eV for GDs, and 40 eV for GQs and GTs. Nitrogen was used as collision gas. The ESI voltage was set at -4500 V and the ion source temperature at 400 °C.
+</p>
+Eicosanoid lipidomics:</br>
+The analysis was assessed on a QTRAP 5500 (Sciex, Concord, Canada). The individual species were monitored in multiple reaction monitoring (MRM) mode in negative ion mode. 103 MRM transitions, split in two runs, were monitored using a dwell time of 15 ms. Q1 and Q3 quadrupoles were operated in unit resolution mode. The collision energy was set according to Deems et. al. [6]. Nitrogen was used as collision gas. The ESI voltage was set at -4500 V and the ion source temperature at 525 °C.
+</p>
+Ref: </br>
+[1] Heiskanen LA, Suoniemi M, Ta HX, Tarasov K, Ekroos K. Long-term performance and stability of molecular shotgun lipidomic analysis of human plasma samples. Anal Chem. 2013 Sep 17; 85(18): 8757-63. PMID: 23919256 </br>
+[2] Ekroos K, Chernushevich IV, Simons K, Shevchenko A. Quantitative profiling of phospholipids by multiple precursor ion scanning on a hybrid quadrupole time-of-flight mass spectrometer. Anal Chem. 2002 Mar 1; 74(5): 941-9. PMID: 11924996 </br>
+[3] Ekroos K, Ejsing CS, Bahr U, Karas M, Simons K, Shevchenko A. Charting molecular composition of phosphatidylcholines by fatty acid scanning and ion trap MS3 fragmentation. J Lipid Res. 2003 Nov; 44(11): 2181-92. PMID:12923235 </br>
+[4] Liebisch G, Binder M, Schifferer R, Langmann T, Schulz B, Schmitz G. High throughput quantification of cholesterol and cholesteryl ester by electrospray ionization tandem mass spectrometry (ESI-MS/MS). Biochim Biophys Acta. 2006 Jan; 1761(1): 121-8. PMID: 16458590 </br>
+[5] Merrill AH Jr, Sullards MC, Allegood JC, Kelly S, Wang E. Sphingolipidomics: high-throughput, structure-specific, and quantitative analysis of sphingolipids by liquid chromatography tandem mass spectrometry. Methods. 2005 Jun; 36(2): 207-24. PMID: 15894491</br>
+[6] Deems R, Buczynski MW, Bowers-Gentry R, Harkewicz R, Dennis EA. Detection and quantitation of eicosanoids via high performance liquid chromatography-electrospray ionization-mass spectrometry. Methods Enzymol. 2007; 432: 59-82. PMID: 17954213</br>"	"Samples from 2 month and 3 month time points were analyzed separately from 7 month time point. Variation in instrument control samples between the batches were observed in ceramide (Cer, LacCer, Glc/GalCer and Gb3 lipid classes) and eicosanoid lipidomics platforms, and therefore correction factors were applied to endogenous lipid concentrations of these platforms.
+</p>
+Due to the use of correction factors, the ceramide and eicosanoid concentrations at 7 month time point are relative instead of absolute. Group comparisons within a particular time point are not affected by the use of correction factors.
+</p>
+The variation of endogenous lipid concentrations was due to internal standard (IS) issues (eicosanoids) and variation in total lipid extraction (ceramide species). The eicosanoid IS concentrations were varying between the two batches, which was observed from control samples. Variation was most likely due to evaporation of solvent from the IS vials, even though the vials were unopened and stored as recommended by the manufacturer.
+</p>
+The correction factors were calculated based on instrument control samples (ICs), which are included in all extractions to monitor quality of the lipidomics analysis. Pooled human plasma is extracted in ICs instead of a sample, concentrations of ISs are the same as in samples, and the extraction is done in the same fashion for ICs and samples. Ten replicate ICs were run per one sample set.
+</p>
+Endogenous lipid concentrations of eicosanoids and ceramide lipid species on 7 months' time point samples were corrected by correction factors (k) obtained from the following equation. Peak area ratios (Endogenous area / IS area) from ten replicate IC runs were first calculated, and then averages of these ten ratios were used for determine the correction factors according to the equation. Obviously, the correction factors were determined only to those lipids, which were detected in IC. For ceramide species the calculation was done per lipid extraction of the tissue type, for example ICs in lung sample batches were compared with each other.
+</p>
+To calculate corrected concentration IS amount (pmol) in a sample was multiplied by k."	"The mass spectrometry data files were processed using LipidView™ V1.0.99 and MultiQuant™ 2.0 softwares to generate a list of lipid names and peak areas. Shotgun lipidomics data was processed in LipidView™ as described previously [1]. Briefly, the endogenous species were identified based on their characteristic fragment ions, neutral losses and parent ions. For instance, m/z 184.1 which is the characteristic headgroup ion of phosphatidylcholines (PC) and sphingomyelins (SM) [2] was used to identify together with the parent mass the peaks observed in the mass spectrum of PIS 184.1 in positive ion mode. In a similar way the monitored acyl ions were utilized to identify the molecular species in negative ion mode [3]. For instance, identification of PC 16:0-18:1 requires corresponding signals from both the 16:0 (PIS of m/z 255.2) and the 18:1 (PIS of m/z 281.2) scans.
+ </p>
+MRM data was processed in MultiQuant™. The selected lipid characteristic ions and their parent masses in conjunction with retention time were used for the identification of the endogenous species. Information dependent acquisition (IDA) experiments were used for confirming identifications. MRM was used as survey scan to trigger the IDA, followed by enhanced product ion (EPI) scans of two most intense ions.
+</p>
+The identified lipids were quantified by normalizing against their respective internal standard and matrix type, e.g. volume for plasma, and presented accordingly (e.g. µM for plasma). Total lipid class concentrations were calculated by summing-up the concentrations of species belonging to the same class. Molar distribution percentages were generated by dividing all the observed lipid concentrations to the class total concentration within the sample.
+</p>
+Data filtering of the final data set was based on the frequency of individual lipid molecules observed throughout the collected data. Molecules observed from less than 75% of the samples, and molecules lacking lipid class specific internal standards were excluded. Molecules having four fold lower or higher concentration than the median of the group was considered as an outlier and excluded. Filtering procedures were performed separately for both polarity modes and lipidomic assessment, prior to merging of the final lipidomic data set. All the calculations and data processing were performed using SAS 9.3 (SAS Institute).
+</p>
+Ref: </br>
+[1] Ejsing CS, Duchoslav E, Sampaio J, Simons K, Bonner R, Thiele C, Ekroos K, Shevchenko A. Automated identification and quantification of glycerophospholipid molecular species by multiple precursor ion scanning. Anal Chem. 2006 Sep 1; 78(17):6202-14.</br>
+[2] Brügger B, Erben G, Sandhoff R, Wieland FT, Lehmann WD. Quantitative analysis of biological membrane lipids at the low picomole level by nano-electrospray ionization tandem mass spectrometry. Proc Natl Acad Sci U S A. 1997 Mar 18; 94(6): 2339-44. PMID: 9122196 </br>
+[3] Ekroos K, Ejsing CS, Bahr U, Karas M, Simons K, Shevchenko A. Charting molecular composition of phosphatidylcholines by fatty acid scanning and ion trap MS3 fragmentation. J Lipid Res. 2003 Nov;44(11):2181-92. PMID: 12923235.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ansari "	"Boue"	"Ekroos"
+Study Person First Name	"Sam"	"Stephanie"	"Kim"
+Study Person Mid Initials	"SA"	"SB"	""
+Study Person Email	"sam.ansari@pmi.com"	"stephanie.boue@pmi.com"	"kim.ekroos@zora.fi"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"Quai Jeanrenaud 5, 2000 Neuchatel, Switzerland"	"Quai Jeanrenaud 5, 2000 Neuchatel, Switzerland"	"Espoo, Finland"
+Study Person Affiliation	"Philip Morris International R&D"	"Philip Morris International R&D"	"Zora Biosciences Oy"
+Study Person Roles	"submitter"	"investigator"	"investigator "
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

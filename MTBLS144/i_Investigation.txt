@@ -1,0 +1,122 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"MS"	"EFO"	"ADW"	"EFO"	"MESH"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/ADW"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"12"	"4"	"86"	"132"	"2"	"119"	"8"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Animal Natural History and Life History Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS144"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS144"
+Study Title	"Dissolved organic matter produced by Thalassiosira pseudonana"
+Study Description	"Phytoplankton are significant producers of dissolved organic matter (DOM) in marine ecosystems but the identity and dynamics of this DOM remain poorly constrained. Knowledge on the identity and dynamics of DOM are crucial for understanding the molecular-level reactions at the base of the global carbon cycle. Here we apply emerging analytical and computational tools from metabolomics to investigate the composition of DOM produced by the centric diatom Thalassiosira pseudonana. We assessed both intracellular metabolites within T. pseudonana (the endo-metabolome) and extracellular metabolites released by T. pseudonana (the exo-metabolome). The intracellular metabolites had a more variable composition than the extracellular metabolites. We putatively identified novel compounds not previously associated with T. pseudonana as well as compounds that have previously been identified within T. pseudonana’s metabolic capacity (e.g. dimethylsulfoniopropionate and degradation products of chitin). The resulting information will provide the basis for future experiments to assess the impact of T. pseudonana on the composition of dissolved organic matter in marine environments."
+Study Submission Date	"2014-11-25"
+Study Public Release Date	"2014-12-12"
+Study File Name	"s_Tps4.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Phytoplankton"	"Carbon Cycle"	"Fourier transform ion cyclotron resonance mass spectrometry"	"liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.owl-ontologies.com/unnamed.owl#Phytoplankton"	"http://purl.bioontology.org/ontology/MESH/D057486"	"http://purl.obolibrary.org/obo/CHMO_0000502"	"http://purl.obolibrary.org/obo/CHMO_0000524"	""
+Study Design Type Term Source REF	"ADW"	"MESH"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"http://dx.doi.org/10.1016/j.marchem.2014.11.003"
+Study Publication Author List	"Krista Longnecker
+Melissa C. Kido Soule
+Elizabeth B. Kujawinski"
+Study Publication Title	"Dissolved organic matter produced by Thalassiosira pseudonana"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"control"	"time"
+Study Factor Type	"control"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001461"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls144_NEG_metabolite_profiling_mass_spectrometry.txt"	"a_mtbls144_NEG2_metabolite_profiling_mass_spectrometry.txt"	"a_mtbls144_POS_metabolite_profiling_mass_spectrometry.txt"	"a_mtbls144_POS2_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Thermo Scientific LTQ FT Ultra"	"Thermo Scientific LTQ FT Ultra"	"Thermo Scientific LTQ FT Ultra"	"Thermo Scientific LTQ FT Ultra"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The diatom Thalassiosira pseudonana (CCMP 1335) was cultured axenically in a modified version of L1 media with Turks Island Salts. The cultures were incubated under a 12 h:12 h light:dark cycle. Cells were collected 6 h into the light cycle on days 0, 1, 3, 7, 8, and 10."	"The intracellular metabolites were extracted using a previously described method [1]. Briefly, 1.5 ml samples were centrifuged at 16,000 x g at 4 ºC for 30 minutes and the supernatant discarded. The resulting cell pellet was extracted three times with ice-cold extraction solvent (acetonitrile:methanol:water with 0.1 M formic acid, 40:40:20). The combined extracts were neutralized with 0.1 M ammonium hydroxide, dried in a vacufuge, and then re-dissolved in 1 ml of 90:10 (v/v) water:acetonitrile for analysis on the mass spectrometer.
+</p>
+Prior to sampling the extracellular metabolites, the cells were removed by gentle vacuum filtration through 0.2 µm Omnipore filters (hydrophilic PTFE membranes, Millipore). [2] have observed filtration may release intracellular metabolites into the exometabolome, and this potential bias must be considered in the discussion of our results. The acidified filtrate was extracted using solid phase extraction with PPL cartridges (Varian Bond Elut PPL cartridges) as previously described [3]. After eluting with methanol, the extracts were dried in a vacufuge, and then re-dissolved in 1 ml 90:10 water:acetonitrile prior to analysis.
+</p>
+Ref:</br>
+[1] Rabinowitz JD, Kimball E. Acidic acetonitrile for cellular metabolome extraction from Escherichia coli. Anal Chem. 2007 Aug 15;79(16):6167-73. PMID: 17630720.</br>
+[2] Barofsky A, Vidoudez C, Pohnert G. Metabolic profiling reveals growth stage variability in diatom exudates. Limnology and Oceanography: Methods. June 2009, 7(6), 382–390.</br>
+[3] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235.</br>"	"All metabolomics analyses were conducted using liquid chromatography (LC) coupled by electrospray ionization to a hybrid linear ion trap - Fourier-transform ion cyclotron resonance (FT-ICR) mass spectrometer (7T LTQ FT Ultra, Thermo Scientific). Samples were stored at  20 ºC until mass spectrometric analysis. Analysis of the extracts was conducted within 48 hours of sample processing, except for the extracts from day three which were analyzed six days after sample processing. LC separation was performed on a Synergi Fusion reversed-phase column using a binary gradient with solvent A being water with 0.1% formic acid and solvent B being acetonitrile with 0.1% formic acid. Samples were eluted at 250 µl/min with the following gradient: hold at 5% B for 0-2 min, ramp from 5 to 65% B between 2 and 20 min, ramp from 65 to 100% B between 20 and 25 min, hold at 100% B from 25-32 min, and then ramp back to 5% B between 32 and 32.5 min for re-equilibration (32.5-40 min)."	"Both full MS and MS/MS data were collected. The MS scan was performed in the FT-ICR cell from m/z 100-1000 at 100,000 resolving power (defined at 400 m/z). In parallel to the FT acquisition, MS/MS scans were collected at nominal mass resolution in the ion trap from the two features with the highest peak intensities in each scan. Separate autosampler injections were made for analysis in positive and negative ion modes."	"Data were collected as XCalibur RAW files which were converted to mzXML files using the msConvert tool within ProteoWizard [1]. Features were extracted from the LC-MS data using XCMS [2], where a feature is defined as a unique combination of a mass-to-charge (m/z) ratio and a retention time. Peak finding was performed with the centWave algorithm [3], and only peaks that fit a Gaussian shape were retained. Features were aligned across samples based on retention time and m/z value using the group.nearest function in XCMS; fillPeaks was used to reconsider features missed in the initial peak finding steps. CAMERA was used 1) to find compounds differing by adduct ion and stable isotope composition [4] and 2) to extract the intensities and m/z values for the associated MS/MS spectra. 
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. PMID: 23051804</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. PMID: 16448051</br>
+[3] Tautenhahn R, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. PMID: 19040729</br>
+[4] Kuhl C, Tautenhahn R, Böttcher C, Larson TR, Neumann S. CAMERA: an integrated strategy for compound spectra extraction and annotation of liquid chromatography/mass spectrometry data sets. Anal Chem. 2012 Jan 3;84(1):283-9. PMID: 22111785</br>"	"Several databases and in silico tools were consulted in order to make putative identifications of select features from the untargeted metabolomics data. The databases included the Madison Metabolomics Consortium Database (MMCD) [1], METLIN [2], and to a lesser extent MassBank [3], PubChem, and KEGG. The database searches described in the present project allowed a 2 ppm window between the measured and the database (calculated) m/z values.
+</p>
+Ref:</br>
+[1] Cui Q, Lewis IA, Hegeman AD, Anderson ME, Li J, Schulte CF, Westler WM, Eghbalnia HR, Sussman MR, Markley JL. Metabolite identification via the Madison Metabolomics Consortium Database. Nat Biotechnol. 2008 Feb;26(2):162-4. PMID: 18259166</br>
+[2] Smith CA, O'Maille G, Want EJ, Qin C, Trauger SA, Brandon TR, Custodio DE, Abagyan R, Siuzdak G. METLIN: a metabolite mass spectral database. Ther Drug Monit. 2005 Dec;27(6):747-51. PMID: 16404815</br>
+[3] Horai H, Arita M, Kanaya S, Nihei Y, Ikeda T, Suwa K, Ojima Y, Tanaka K, Tanaka S, Aoshima K, Oda Y, Kakazu Y, Kusano M, Tohge T, Matsuda F, Sawada Y, Hirai MY, Nakanishi H, Ikeda K, Akimoto N, Maoka T, Takahashi H, Ara T, Sakurai N, Suzuki H, Shibata D, Neumann S, Iida T, Tanaka K, Funatsu K, Matsuura F, Soga T, Taguchi R, Saito K, Nishioka T. MassBank: a public repository for sharing mass spectral data for life sciences. J Mass Spectrom. 2010 Jul;45(7):703-14. PMID: 20623627</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Longnecker"	"Kido Soule"	"Kujawinski"
+Study Person First Name	"Krista "	"Melissa"	"Elizabeth"
+Study Person Mid Initials	""	"C"	"B"
+Study Person Email	"klongnecker@whoi.edu"	"msoule@whoi.edu"	"ekujawinski@whoi.edu"
+Study Person Phone	"508 289 2824"	"508 289 2879"	"508 289 3493"
+Study Person Fax	"508 457 2164"	"508 457 2164"	"508 457 2164"
+Study Person Address	"WHOI, MS #4
+360 Woods Hole Road
+Woods Hole, MA 02543
+USA"	"WHOI, MS #4
+360 Woods Hole Road
+Woods Hole, MA 02543
+USA"	"WHOI, MS #4
+360 Woods Hole Road
+Woods Hole, MA 02543
+USA"
+Study Person Affiliation	"Woods Hole Oceanographic Institution"	"Woods Hole Oceanographic Institution"	"Woods Hole Oceanographic Institution"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CHMO"	"BTO"	"EFO"	"NCIT"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"23"	"4"	"16"	"26"	"119"	"40"	"8"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS119"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS119"
+Study Title	"Effect of NAC154 transcription factor overexpression on the field grown poplar stem wood metabolome"
+Study Description	"Several xylem-associated regulatory genes have been identified that control processes associated with wood formation in poplar. Prominent among these are the NAC domain transcription factors (NACs). We evaluated the putative involvement of Populus NAC154, a co-ortholog of the Arabidopsis gene SND2, as a regulator of secondary biosynthetic processes in stem internode tissues by interrogating methanol:water extracts from control and transgenic trees. Comprehensive untargeted metabolite profiling was accomplished with a liquid chromatography-mass spectrometry platform that utilized two different chromatographic supports (HILIC and reversed phase) and both positive and negative ionization modes. Evaluation of current and previous year tissues provided datasets for assessing the effects of NAC154 overexpression in wood maturation processes. Phenolic glycoside levels as well as those of oligolignols, sucrose and arginine were modulated with phenotypic and chemotypic traits exhibiting similar trends. Specifically, increased levels of arginine in the NAC154 overexpressing tissues supports a role for the transcription factor in senescence/dormancy-associated processes."
+Study Submission Date	"2014-10-08"
+Study Public Release Date	"2015-01-31"
+Study File Name	"s_NAC154OE.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"Transcription Factors"	"hydrophilic interaction chromatography"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.bioontology.org/ontology/MESH/D014157"	"http://purl.obolibrary.org/obo/CHMO_0002262"	""
+Study Design Type Term Source REF	"CHMO"	"MESH"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25771508"
+Study Publication DOI	"http://dx.doi.org/10.1016/j.phytochem.2015.02.013. "
+Study Publication Author List	"Judith Jervis, Sherry B. Hildreth, Xiaoyan Sheng, Eric P. Beers, Amy M. Brunner and Richard F. Helm"
+Study Publication Title	"A metabolomic assessment of NAC154 transcription factor overexpression in field grown poplar stem wood"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Growth Year"	"Genotype"
+Study Factor Type	"Date"	"genotype"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"	"http://www.ebi.ac.uk/efo/EFO_0000513"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_nac154oe_metabolite_profiling_mass_spectrometry.txt"	"a_nac154oe_metabolite_profiling_mass_spectrometry-2.txt"	"a_nac154oe_metabolite_profiling_mass_spectrometry-1.txt"	"a_nac154oe_metabolite_profiling_mass_spectrometry-3.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Synapt G2-S pos"	"Synapt G2-S pos"	"Synapt G2-S neg"	"Synapt G2-S neg"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Samples were collected from the field according to the leaf plastochron index (LPI), tagged and frozen in dry ice.  For current year shoot segments, we defined LPI 1 as the first leaf below the shoot tip that was at least 1 cm in length (internode 1 would be directly above this), and counted down to collect internode 12.  For the previous year growth, internode 1 was assigned as below the terminal bud scar, counting down the stem to internode 7.   Since trees showed different amounts of growth (number of internodes) in a given year, a continuous internode counting down from the shoot tip to the previous year's growth was not applicable.  Samples in the laboratory were stored at -80 °C prior to processing, which was initiated by freeze-drying to a constant weight.  Twigs were flash frozen in liquid nitrogen and subsequently ground in a P14 mill (Pulveristette 14; Fritsch) with a 0.5 mm sieve at maximum speed (20,000 rpm) to generate a fine powder.  The samples were collected in labeled, pre-weighed 1.5 ml centrifuge tubes, flash frozen in liquid nitrogen and dried, after which the mass was recorded."	"Sample extraction was performed on 10 mg fractions using (50:50 LCMS grade MeOH:H2O, 1 ml).  The tube contents were mixed by vortexing, placed in a shaker (Boekel Sci; Feasterville, PA) and incubated 200 minutes at 30 °C.  The tubes were then removed, vortexed briefly and allowed to sit overnight at room temperature.  The samples were then vortexed and centrifuged (13,000 x g, 5 min, RT) with the extracts (450 µl) transferred to prelabeled, ethanol-washed tubes.  The samples were then concentrated via centrifugal concentration until approximately 200 µl remained and were then flash frozen in liquid nitrogen and dried overnight on high vacuum line with liquid nitrogen trap.   The resulting dried extract was then weighed to determined yield."	"Reversed-phase Separations.</br>
+The extract was reconstituted with 50 nM acetaminophen (internal standard) in 0.1% aq. formic acid:acetonitrile (9:1, v/v) with the volume based upon the weight of the dried extract (100 µl/mg dry extract). Dissolution was aided by vortexing followed by sonication (10 min).  The samples were then centrifuged (13,000 x g; 10 min; RT) and an aliquot was removed (100 µl) making sure not to disturb any precipitate.  The sample was further diluted (10x) with 50 nM  acetaminophen in 0.1% formic acid:acetonitrile (9:1, v/v) and transferred to a LC-MS grade autosampler vial.  A "MasterMix" was constructed from a single representative sample from each class. This sample is used to equilibrate the LC-MS system and is also used for statistical validation.
+</p>
+Metabolite separations were performed with an UPLC (Waters I-Class) equipped with a BEH C18 column (1.7 µm; 2.1 mm × 50 mm; Waters).  The mobile phases were water with 0.1% formic acid (Solvent A) and acetonitrile (Solvent B) at 200 ul/min.  The separation initially started with 95% A (0-1 min) with a linear ramp to 85% A (1.0-1.5 min), followed by a second ramp to 40% A (1.5-6.9 min).  The gradient was rapidly ramped to 10% A (6.9-7.0 min) where it was held for 0.5 min (7.0-7.5 min).  Re-equilibration involved ramping back to 95% A (7.5-8.0 min) and holding at 95% A for 2 min (8.0-10.0 min).  Injection volumes were 1 ul, the column temperature was 40 °C, with the autosampler maintained at 8 °C. Under these conditions acetaminophen elutes at 2.07 min (m/z = 152.0708 in positive mode and m/z = 150.0556 in negative mode).   Leucine-enkephalin was used as lock mass, scanning for 0.1 sec every 20 sec.
+</p>
+HILIC Separations.</br>
+The extract was reconstituted with 50:50 (acetonitrile:0.1% formic acid, v/v) with the volume based upon the weight of the dried extract (100 µl/mg dry extract). Dissolution was aided by vortexing followed by sonication (10 min).  The samples were then centrifuged (13,000 x g; 10 min; RT) and an aliquot (100 µl) was removed making sure not to disturb any precipitate.  The sample was further diluted (10x) with 50:50 (acetonitrile:water with 0.1% formic acid)  and transferred to a LC-MS grade autosampler vial with an insert.  A "MasterMix" was constructed from a single representative sample from each class. This sample is used to equilibrate the LC-MS system and is also used for statistical validation.
+</p>
+Metabolite separations were performed with an UPLC (Waters I-Class) equipped with a BEH Amide (1.7 µm, 2.1 mm × 50 mm; Waters).  The mobile phases were water with 0.1% formic acid  (Solvent A)  and acetonitrile with 0.1% formic acid (Solvent B) at 400 ul/min.  The separation initially started with 99% B (0-0.5 min) with a linear ramp to 50% B (0.5-7.0 min).  The gradient was rapidly ramped to 99% B (7.0-7.1 min) where it was held for 3.9 min (7.1-10 min). Injection volumes were 1 ul, the column temperature was 45 °C, and the autosampler maintained at 8 °C.  Leucine-enkephalin was used as lock mass, scanning for 0.1 sec every 20 sec."	"A Waters SynaptG2-S HDMS instrument was used in high-resolution mode employing the extended dynamic range feature. Capillary voltages were of 2.4 kV and 3.0 kV for negative- and positive-ion modes, respectively, with a cone voltage of 40 V. Cone and desolvation gas flows were 50 and 500 l/hr, respectively with source and desolvation gas temperatures at 125 °C and 350 °C, respectively). The instrument was calibrated with sodium formate from 50 to 1800 m/z.  Infusion flow rate for lock mass was 5 µl/min. Leucine enkephalin (2 ng/ml) is used as lock mass for positive (m/z 556.2771) and negative (m/z 554.2615) mode experiments with parameters set to 0.2 sec/20 sec intervals. MS spectra are acquired in centroid mode from 50 to 1800 m/z using a scan time of 0.2 sec."	"The commercial MarkerLynx, MetaboLynx and QuanLynx software (Waters) were used to analyze the datasets obtained.  If an authentic standard was available it was analyzed under the same conditions as described above.  Ions that were identified as significantly different by the processing software were first confirmed manually and subsequently submitted to fragmentation analyses."	"Standards were used when available for exact mass-retention time confirmation.  These included salicin, tremulacin, p-coumaryl β-D-glucopyranoside and feruloyl β-D-glucopyranoside; the latter two courtesy of J. Ralph (Wisconsin).  Master mix samples were also submitted the fragmentation studies using either targeted MS2 or data independent fragmentation (MSE) studies."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Helm"
+Study Person First Name	"Richard"
+Study Person Mid Initials	"F"
+Study Person Email	"helmrf@vt.edu"
+Study Person Phone	"540-231-4088"
+Study Person Fax	"540-231-4043"
+Study Person Address	"Life Sciences 1, 970 Washington Street SW, Blacksburg, VA  24061-0910"
+Study Person Affiliation	"Department of Biochemistry, Virginia Tech"
+Study Person Roles	"Principal Investigator"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

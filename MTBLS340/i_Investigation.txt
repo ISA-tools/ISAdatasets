@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CHMO"	"NCIT"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"2"	"18"	"44"	"146"	"42"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS340"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS340"
+Study Title	"NMR-based metabonomics and correlative analysis reveals potential bomarkers associated with chronic atrophic gastritis"
+Study Description	"Chronic atrophic gastritis (CAG) is one of the most important pre-cancerous states with a high prevalence. Exploring of the underlying mechanism and potential biomarkers is of significant importance for CAG. In the present work, 1H NMR-based metabonomics with correlative analysis was performed to analyze the metabolic features of CAG. 19 plasma metabolites and 18 urine metabolites were enrolled to construct the circulatory and excretory metabolome of CAG, which was in response to alterations of energy metabolism, inflammation, immune dysfunction, as well as oxidative stress. 7 plasma biomarkers and 7 urine biomarkers were screened to elucidate the pathogenesis of CAG based on the further correlation analysis with biochemical indexes. Finally, 3 plasma biomarkers (arginine, succinate and 3-hydroxybutyrate) and 2 urine biomarkers (a-ketoglutarate and valine) highlighted the potential to indicate risks of CAG in virtue of correlation with pepsin activity and ROC analysis. Here, our results paved a way for elucidating the underlying mechanisms in the development of CAG, and provided new avenues for the diagnosis of CAG and presented potential drug targets for treatment of CAG."
+Study Submission Date	"2016-04-27"
+Study Public Release Date	"2016-08-31"
+Study File Name	"s_mtbls340.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"atrophic gastritis"	"nuclear magnetic resonance spectroscopy"	"Correlative Study"	"biomarker"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_1000826"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16100"	"http://purl.obolibrary.org/obo/CHEBI_59163"	""
+Study Design Type Term Source REF	"EFO"	"CHMO"	"NCIT"	"EFO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27697573"
+Study Publication DOI	"10.1016/j.jpba.2016.09.044"
+Study Publication Author List	"Cui J, Liu Y, Hu Y, Tong J, Li A, Qu T, Qin X, Du G."
+Study Publication Title	"NMR-based metabonomics and correlation analysis reveal potential biomarkers associated with chronic atrophic gastritis."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample type"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls340_NOESY_NMR_spectroscopy.txt"	"a_mtbls340_CPMG_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformtion"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"At the end of the experiment, rats were housed individually in metabolic cages for 24 h urinary collection (containing 0.05% sodium azide) after a 12 h fast."	"Whole urine samples were centrifuged for 10 min at 4000 rpm. The supernatant was carefully collected in fresh polypropylene tubes and stored at -80 °C for further analysis. After the last body weight determination, rats were anesthetized with 10% urethane.
+</p>
+Blood samples were collected, and centrifuged at 3000 rpm for 15 min at 4 °C. The resultant plasma samples were stored at -80 °C until analysis. The gastric tissues were immediately removed and washed with physiological saline. One part of gastric tissues was cut and put into a tube containing 10% buffered formalin solution for the histopathology analysis."	"For plasma preparation, 300 μl of plasma and 300 μl of 0.9% NaCl (saline) in D2O (20%) were pipetted individually and mixed together. Following centrifugation (13,000 rpm, 10 min, 4 °C), 550 μl of supernatant was removed in a 5 mm NMR tube for NMR analysis.
+</p>
+For urine preparation, 500 μL of urine was mixed with 200 μl D2O and 200 μl phosphate buffer (0.2 M Na2HPO4/NaH2PO4, pH 7.4) containing D2O for the purpose of field lock and TSP as a chemical shift reference. The whole mixture was vortexed (30 s), and centrifuged at 4 °C and 13,000 rpm for 15 min. Finally, 550 μl of sample supernatant was placed in a 5 mm NMR tube for NMR analysis."	"The one dimensional NMR spectra were recorded at 300 K on a Bruker 600-MHz AVANCE III NMR spectrometer (Bruker, Germany) equipped with a Bruker 5 mm PA BBO probe operated at 600.13 MHz 1H frequency."	"Samples were analyzed using one-dimensional Carr-Purcell-Meibom-Gill (CPMG) NMR spectra (for plasma) and Nuclear Overhauser Effect Spectroscopy (NOESY, RD-90°-t1-90°-tm-90°-acquire) NMR spectra (for urine) with water suppression. These spectra were measured using a spin–echo loop time (2nt) of 35 ms to attenuate broad signals from lipids and proteins and only to assist observation of small metabolites. Each 1H NMR spectrum consisted of 64 scans requiring 5 min of acquisition time with the following parameters: spectral width: 12,335.5 Hz; spectral size: 65,536 points; pulse width: 30° (12.6 s); and relaxation delay (RD): 5.0 s. FIDs were Fourier-transformed with LB = 0.3 Hz."	"All NMR spectra were then corrected for phase and baseline distortions using MestReNova (version 8.0.1, Mestrelab Research, Santiago de Com-postella, Spain). The integral values of each spectrum were normalized to a total sum of the spectrum, decreasing any significant differences between samples.
+</p>
+The peaks of plasma spectra were referenced internally to the chemical shift of creatinine at δ 3.04 ppm. The plasma spectra were divided and the signal integral computed in 0.01 ppm intervals across the region δ 0.50-9.00 ppm. The region of δ 4.68-5.19 ppm was excluded from the analysis to eliminate the effects of imperfect water saturation. The data was then normalized to the total sum of the spectra prior to analysis.
+</p>
+For NMR spectra recorded in urine extracts, they were referenced to the chemical shift of TSP at δ 0.00 ppm. Using MestReNova, the regions 0.50-9.00 ppm of the urine spectra were reduced into integral bins of equal width (0.01 ppm). The spectral region between 4.68 to 5.05 ppm, corresponding to residual water, was removed to eliminate artifacts related to the residual water resonance."	"Multivariate statistical analysis was performed to process the acquired NMR data using SIMCA-P 13.0 (Umetric, Sweden). Import data was mean-centered and pare to-scaled prior to multivariate analyses. Partial least squares discriminate analysis (PLS-DA) was utilized to reveal the differences between different groups, which were necessary to eliminate outliers. Potential biomarkers were extracted from S-plots constructed with the followed OPLS-DA analysis, and the biomarkers were chosen based on their contribution to the variation. Metabolite peaks were interpreted with available biochemical databases, such as HMDB (http://www.hmdb.ca/)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type; Solvent; Sample PH; Temperature"	"Instrument;Instrument;Instrument;Instrument;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jiajia"	"Yuetao"	"Xuemei"
+Study Person First Name	"Cui"	"Liu"	"Qin"
+Study Person Mid Initials	""	""	""
+Study Person Email	"tudousi1990@outlook.com
+"	"yuetaoliu@sxu.edu.cn"	"qinxm@sxu.edu.cn"
+Study Person Phone	"86-351-7019379"	"86-351-7019379"	"86-351-7019379"
+Study Person Fax	"86-351-7019379"	"86-351-7019379"	"86-351-7019379"
+Study Person Address	"Modern Research Center for Traditional Chinese Medicine
+Shanxi University
+No. 92, Wucheng Road, Taiyuan 030006, Shanxi, P. R. China.
+"	"Modern Research Center for Traditional Chinese Medicine
+Shanxi University
+No. 92, Wucheng Road, Taiyuan 030006, Shanxi, P. R. China.
+"	"Modern Research Center for Traditional Chinese Medicine
+Shanxi University
+No. 92, Wucheng Road, Taiyuan 030006, Shanxi, P. R. China.
+"
+Study Person Affiliation	"Monder Research Cebtre for Traditional Chinese Medicine"	"Modern Reseach Centre for Traditional Chinese Medicine"	"Mordern Research Centre for Traditional Chinese Medicine"
+Study Person Roles	"postgraduate"	"Ph.D."	"Prof."
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

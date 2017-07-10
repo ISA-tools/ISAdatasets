@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"PO"	"CHMO"	"GO"	"UO"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"10"	"16"	"1484"	"43"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Chemical Methods Ontology"	"Gene Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS43"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS43"
+Study Title	"Mining for metabolic responses to long-term salt stress: a case study on the model legume Lotus japonicus (A)"
+Study Description	"Translational genomics, the use of model species to generate knowledge about biological processes and the functions of genes, offers great promise to biotechnologists. Few studies have sought robust responses of model plants to environmental stresses, such as salinity, by altering the stress dosage or by repeating experiments in consecutive years and/or different seasons.We mined our published and unpublished data on legume salt acclimation for robust system features at the ionomic, transcriptomic and metabolomic levels. We analysed data from the model legume Lotus japonicus, obtained through six independent, longterm, non-lethal salt stress experiments which were carried out over two consecutive years. Best possible controlled greenhouse conditions were applied and two main questions asked: how reproducible are results obtained from physiologically meaningful salinity experiments, and what degree of bias may be expected if conclusions are drawn from less well-repeated sampling. A surprisingly large fraction of the transcriptional and metabolic responses to salt stress were not reproducible between experiments. A core set of robust changes was found that was shared between experiments. Many of these robust responses were qualitatively and quantitatively conserved between different accessions of the same species, indicating that the robust responses may be a sound starting point for translational genomics."
+Study Submission Date	"2015-09-11"
+Study Public Release Date	"2015-09-14"
+Study File Name	"s_Mining for metabolic responses to long-term salt stress a case study on the model legume Lotus japonicus (A).txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"intervention design"	"stimulus or stress design"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"response to salt stress"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/OBI/OBI_0000115"	"http://purl.bioontology.org/ontology/OBI/OBI_0001396"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/GO_0009651"
+Study Design Type Term Source REF	"OBI"	"OBI"	""	"CHMO"	"GO"
+STUDY PUBLICATIONS
+Study PubMed ID	"19781009"	"18047558"
+Study Publication DOI	"10.1111/j.1365-3040.2009.02047.x"	"10.1111/j.1365-313x.2007.03381.x"
+Study Publication Author List	"Sanchez DH, Szymanski J, Erban A, Udvardi MK, Kopka J."	"Sanchez DH, Lippold F, Redestig H, Hannah MA, Erban A, Krämer U, Kopka J, Udvardi MK."
+Study Publication Title	"Mining for robust transcriptional and metabolic responses to long-term salt stress: a case study on the model legume Lotus japonicus."	"Integrative functional genomics of salt acclimatization in the model legume Lotus japonicus."
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Salt_Quantity_after_initiation"	"Salt_Quantity_after_08d"	"Salt_Quantity_after_12d"	"Salt_Quantity_after_16d"
+Study Factor Type	"Quantity"	"Quantity"	"Quantity"	"Quantity"
+Study Factor Type Term Accession Number	""	""	""	""
+Study Factor Type Term Source REF	""	""	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_Mining for metabolic responses to long-term salt stress a case study on the model legume Lotus japonicus (A).txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds of Lotus japonicus var. Gifu were germinated on agar plates containing agarified half-strength BD solution [1] plus 2 mm KNO3 and 2 mm NH4NO3. Four days after imbibition, seedlings were transplanted to soil (Einheit, type null) in 10 cm pots, and irrigated with the above solution. Two salt-stress treatments were implemented: (i) gradual step acclimation to various final NaCl concentrations, or (ii) initial acclimation growth at various NaCl concentrations. The gradual acclimation started 8 days post-imbibition, and the salt concentration was increased in three steps of 4 days from 0 to 50, 100 and 150 mm NaCl. A subset of plants was kept at each salt level. Initial acclimation growth exposed plants from germination onwards to nutrient solution supplemented with 25, 50 and 75 mm NaCl. In both cases, fresh nutrient solution was prepared every 4 days. The total duration of greenhouse culture was 28 days under a 16/8 h day/night regime, 23 ± 2°C, 55–65% relative humidity. Whole shoots, excluding cotyledons, were sampled in situ into liquid nitrogen in the middle of the light period. Three successive independent experiments (experiments 1, 2 and 3) were performed during the spring season. Each experiment consisted of seven sample sets: control (no salts), 50, 100, 150 (gradual step acclimatization), ia25, ia50 and ia75 (initial acclimatization). Each set had seven independent biological replicate pools of four plants, with the exception of ia75 treatment in experiments 2 and 3 where fewer replicates were available (five and four, respectively). The stress doses used in the experimental designs were not lethal within the cultivation period, and at harvest all plants were in the vegetative stage, and roots did not show nodules. Growth was estimated by determination of mean fresh weight of the pooled shoots, and soil electrical conductivity was determined on 1:2 dried soil:water extraction.
+</p>
+Ref:</br>
+[1] Broughton, W.J. and Dilworth, M.J. (1971) Control of leghaemoglobin synthesis in snake beans. Biochem. J. 125, 1075–1080. PMID:5144223</br>"	"Frozen plant tissue (60 mg) was extracted using methanol/chloroform, and the polar fraction was prepared by liquid partitioning into water and derivatized [1].
+</p>
+Ref:</br>
+[1] G. G. Desbrosses, J. Kopka and M. K. Udvardi (2005) Lotus japonicus metabolic profiling. Development of gas chromatography-mass spectrometry resources for the study of plant-microbe interactions, Plant Physiology 137: 1302-1318. PMID: 15749991</br>"	"Details of GC-EI-TOF-MS based profiling were reported previously [1][2].
+</p>
+Samples were processed using a Factor Four VF-5ms capillary column of dimensions, 30 m length, 0.25 mm i.d., and 0.25 µm film thickness with a 10 m EZ-guard pre-column (Varian Inc., Lake Forest, CA)) mounted to a Agilent 6890N gas chromatograph (Agilent, Böblingen, Germany), with split or splitless injection and electronic pressure control.
+</p>
+The n-alkanes used to calculate are retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. For additional information on the retention time index calculations see [2].
+</p>
+Ref: </br>
+[1] C. Wagner, M. Sefkow and J. Kopka (2003) Construction and application of a mass spectral and retention time index database generated from plant GC/EI-TOF-MS metabolite profiles, Phytochemistry 62: 887-900. PMID:12590116</br>
+[2] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Mass spectrometric data were acquired through a Pegasus III TOF mass spectrometer (LECO Instrumente GmbH, Mönchengladbach, Germany). Details of GC-EI-TOF-MS based profiling were reported previously [1][2].
+</p>
+Ref: </br>
+[1] C. Wagner, M. Sefkow and J. Kopka (2003) Construction and application of a mass spectral and retention time index database generated from plant GC/EI-TOF-MS metabolite profiles, Phytochemistry 62: 887-900. PMID:12590116</br>
+[2] Erban A, Schauer N, Fernie AR, Kopka J (2007) Non-supervised construction and application of mass spectral and retention time index libraries from time-of-flight GC-MS metabolite profiles. In W Weckwerth, ed, Metabolomics: Methods and Protocols. Humana Press, Totowa, NJ, pp 19–38 http://dx.doi.org/10.1007/978-1-59745-244-1_2</br>"	"Metabolites were quantified after mass spectral deconvolution (ChromaTOF software version 1.00, Pegasus driver 1.61, LECO) of at least three mass fragments. The peak height representing arbitrary mass spectral ion currents was normalized using the sample fresh weight and ribitol content for internal standardization."	"Metabolites were identified using NIST05 software (http://www.nist.gov/srd/mslist.htm) and the mass spectral and retention time index (RI) collection of the Golm metabolome database [1][2]. Mass spectral matching was manually checked, and accepted with thresholds of match >650 (maximum 1000) and RI < 1.0 %. RIs represent Kovàts indices [3] calculated from additions of C12, C15, C19, C22, C32, C36n-alkanes. Table S4 lists not only metabolites identified by standard addition but also mass spectral tags that are as yet unidentified [4].
+</p>
+Ref:</br>
+[1] J. Kopka, N. Schauer, S. Krueger, C. Birkemeyer, B. Usadel, E. Bergmueller, P. Doermann, W. Weckwerth, Y. Gibon, M. Stitt, L. Willmitzer, A. R. Fernie and D. Steinhauser (2005) GMD@CSB.DB: the Golm Metabolome Database, Bioinformatics 21: 1635-1638. PMID:15613389</br>
+[2] N. Schauer, D. Steinhauser, S. Strelkov, D. Schomburg, G. Allison, T. Moritz, K. Lundgren, U. Roessner-Tunali, M. G. Forbes, L. Willmitzer, A. R. Fernie and J. Kopka (2005) GC-MS libraries for the rapid identification of metabolites in complex biological samples, FEBS Letters 579: 1332-1337. PMID:15733837</br>
+[3] Kovats, E.S. (1958) Gas-chromatographische Charakterisierung organischer Verbindungen: Teil 1. Retentionsindices aliphatischer Halogenide, Alkohole, Aldehyde und Ketone. Helv. Chim. Acta, 41, 1915–1932.</br>
+[4] G. G. Desbrosses, J. Kopka and M. K. Udvardi (2005) Lotus japonicus metabolic profiling. Development of gas chromatography-mass spectrometry resources for the study of plant-microbe interactions, Plant Physiology 137: 1302-1318. PMID: 15749991</br>"
+Study Protocol URI	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"	"http://gmd.mpimp-golm.mpg.de/profile/default.aspx?XemlId=ba487064-8b46-4408-812c-b4e5083ad7c2"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization 1;Derivatization 2"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sanchez"	"Kopka"
+Study Person First Name	"Diego"	"Joachim"
+Study Person Mid Initials	""	""
+Study Person Email	""	"kopka@mpimp-golm.mpg.de"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Max Planck Institute of Molecular Plant Physiology, Potsdam, Germany"	"Max Planck Institute of Molekular Plant Physiology"
+Study Person Roles	"Experimenter"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

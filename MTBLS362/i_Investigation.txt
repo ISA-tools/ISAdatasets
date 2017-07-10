@@ -1,0 +1,155 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"CHMO"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"22"	"18"	"129"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS362"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS362"
+Study Title	"Molecular characterization of firefly nuptial gifts: a multi-omics approach sheds light on postcopulatory sexual selection"
+Study Description	"Postcopulatory sexual selection is recognized as a key driver of reproductive trait evolution, including the machinery required to produce endogenous nuptial gifts. Despite the importance of such gifts, the molecular composition of the non-gametic components of male ejaculates and their interactions with female reproductive tracts remain poorly understood. During mating, male Photinus fireflies transfer to females a spermatophore gift manufactured by multiple reproductive glands. Here we combined transcriptomics of both male and female reproductive glands with proteomics and metabolomics to better understand the synthesis, composition and fate of the spermatophore in the common Eastern firefly, Photinus pyralis. Our transcriptome of male glands revealed up-regulation of proteases that may enhance male fertilization success and activate female immune response. Using bottom-up proteomics we identified 208 functionally annotated proteins that males transfer to the female in their spermatophore. Targeted metabolomic analysis also provided the first evidence that Photinus nuptial gifts contain lucibufagin, a firefly defensive toxin. The reproductive tracts of female fireflies showed increased gene expression for several proteases that may be involved in egg production. This study offers new insights into the molecular composition of male spermatophores, and extends our understanding of how nuptial gifts may mediate postcopulatory interactions between the sexes."
+Study Submission Date	"2016-07-13"
+Study Public Release Date	"2016-12-22"
+Study File Name	"s_Photinus pyralis spermatophore comparative LC-ESI-HRAM-MS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000524"
+Study Design Type Term Source REF	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1038/srep38556"
+Study Publication Author List	"Nooria Al-Wathiqui, Timothy R. Fallon, Adam South, Jing-Ke Weng, Sara M. Lewis"
+Study Publication Title	"Molecular characterization of firefly nuptial gifts: a multi-omics approach sheds light on postcopulatory sexual selection"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_photinus_pyralis_spermatophore_comparative_lc-esi-hram-ms_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Photinus pyralis fireflies used in this study were collected at Mercer Meadows Pole Farm, Lawrenceville, NJ (40°18’23.4” N, 74°44’53.9”W) on 27 June and 11-12 July 2015, and identified based on male genitalia [1] and flash patterns. Both sexes were kept individually in plastic containers with sliced apple and damp paper towel. Mating status of field-collected individuals was unknown. Fireflies were kept in the lab for less than one week prior to experimentation.
+</p>
+Ref:</br>
+[1] Green, J. W. Revision of the Nearctic species of Photinus (Lampyridae: Coleoptera). Proc Calif Acad Sci 28, 561–613 (1956).</br>"	"A single spermatophore dissected from a male Photinus pyralis was placed in 100 µl of 50% methanol.  A single adult male Photinus pyralis was flash frozen in liquid nitrogen, and the posterior 2 abdominal segments (containing lantern & genetalia) were removed with a razor blade at 4 °C. The remaining anterior portion of the firefly “body” was placed in 150 µl 50% MeOH. Both tissues were macerated in the solvent, and intermittently sonicated in a water bath sonicator for 30 min, not letting the temperature rise above 40 °C. Post sonication, the extract was centrifuged in a benchtop centrifuge at 14,000 g @ 4°C for 10 min to pellet tissue debris and other particulates. The clarified extract was filtered through a 0.2 µm PFTE filter (Filter Vial, P/No. 15530-100, Thomson Instrument Company)."	"20 µl of the filtered extracts were separated on a UltiMate 3000 (Dionex) liquid chromatography system by reversed-phase chromatography on a 150 mm C18 Column (Kinetex 2.6 µm silica core shell C18 100 Å pore, P/No. 00F-4462-Y0, Phenomenex) by a gradient of Solvent A (0.1% formic acid in H2O) and Solvent B (0.1% formic acid in acetonitrile); 5% B for 2 min, 5-80% B over 40 min, 95% B for 4 min, and 5% B for 5 min; flow rate 0.8 ml/min.  The flow from this chromatography was coupled to a Q-Exactive (Thermo-Scientific) mass spectrometer."	"The Q-Exactive mass spectrometer was configured to perform 1 MS1 scan from m/z 120-1250 followed by 1-3 data-dependent MS2 scans using HCD fragmentation with a stepped collision energy of 10, 15, 25 normalized collision energy (NCE).  Data was collected as profile data. The instrument was always used within 7 days of the last mass accuracy calibration. The ion source parameters were as follows: spray voltage (+) at 3000 V, spray voltage (-) at 2000 V, capillary temperature at 275 °C, sheath gas at 40 arb units, aux gas at 15 arb units, spare gas at 1 arb unit, max spray current at 100 (µA), probe heater temp at 350 °C, ion source: HESI-II."	"The raw profile data in Thermo format was converted to mzML format using ProteoWizard MSConvert [1] with 64-bit binary encoding precision, index writing, gzip compression of the whole file, zlib compression of peaklist data , and numpress linear compression of peaklist data. Data analysis was performed with MZmine2 2.19 [2] and Xcalibur 2.2 SP1.48 (Thermo Scientific).
+</p>
+Ref:</br>
+[1] Chambers, M.C., Maclean, B., Burke, R., Amodei, D., Ruderman, D.L., Neumann, S., Gatto, L., Fischer, B., Pratt, B., Egertson, J., et al. (2012). A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotech 30, 918–920. doi: 10.1038/nbt.2377. PMID:23051804</br>
+[2] Pluskal, T., Castillo, S., Villar-Briones, A., and Oresic, M. (2010). MZmine 2: modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC Bioinformatics 11, 395. doi:10.1186/1471-2105-11-395. PMID:20650010</br>"	"1. Thermo .raw data was converted to .mzML by ProteoWizard MSConvert with the parameters specified above.</br>
+2. Raw data was imported from .mzML format files.</br>
+3. MS1 and MS2 profile mass spectra were detected/centroided with the “Mass Detector” module.  The following parameters were used:</br>
+- Mass Detector: Exact mass</br>
+- Noise level: 1E4</br>
+4. Continuous MS1 ions were assembled into mass traces with the “Chromatogram builder” module.  The following parameters were used:</br>
+- Minimum time span (min): 0.1 the</br>
+- Minimum height: 1.0E4, and the</br>
+- m/z tolerance: 0.002 or 5ppm (whichever is greater)</br>
+5. Chromatograms were then deconvolved into individual peaks, using the “Chromatogram deconvolution” module, with the algorithm set to “Local minimum search” and following parameters:</br>
+- Chromatographic threshold: 1.0%</br>
+- Search minimum in RT range (min): 0.1</br>
+- Minimum relative height: 0.5%</br>
+- Minimum absolute height: 1.0E3</br>
+- Min ratio peak top/edge: 4</br>
+- Peak duration range (min): 0.0 – 5.0</br>
+6. The MS1 mass spectra were then deisotoped with the “Isotopic peak grouper” module.  The following parameters were used:</br>
+- m/z tolerance: 0.01025 Da or 20ppm (whichever is greater)</br>
+- Retention time tolerance: 0.2 (absolute (min))</br>
+- Monotonic shape: unchecked</br>
+- Maximum charge: 2</br>
+- Representative isotope: Most intense</br>
+7. Mass features were aligned with a correction for retention time deviation between the Photinus pyralis body and spermatophore extract, using the “RANSAC aligner” module with the following parameters:</br>
+- m/z tolerance: 8.0E-4 or 4ppm (whichever is greater)</br>
+- RT tolerance: 2.0%</br>
+- RT tolerance after correction: 0.25 ( absolute (min) )</br>
+- RANSAC iterations: 1000000</br>
+- Minimum number of points: 30.0%</br>
+- Threshold value: 0.08 ( absolute (min) )</br>
+- Linear model: unchecked</br>
+- Require same charge state: unchecked</br>
+8. Putative in-source fragments were identified by the “Fragment search” module with the following parameters:</br>
+- Retention time tolerance: 0.3 (absolute (min) )</br>
+- m/z tolerance of MS2 data: 0.001 or 5ppm (whichever is greater)</br>
+- Max fragment peak height: 50%</br>
+- Min MS2 peak height: 1.0E5
+9. Putative adduct ions were identified by the “Adduct search” module with the following parameters:</br>
+-	Retention time tolerance: 0.3 (absolute (min) )</br>
+-	m/z tolerance of MS2 data: 0.0005 or 2ppm</br>
+-	Max relative adduct peak height: 20%</br>
+-	The following default MZmine2 adducts were selected:</br>
+o	[M+Na-H]</br>
+o	[M+K-H]</br>
+o	[M+NH3]</br>
+10. Putative complexed ions were detected by the “Complex search” module with the following parameters:</br>
+- Retention time tolerance: 0.3 (absolute (min) )</br>
+- m/z tolerance of MS2 data: 0.001 or 5ppm (whichever is greater)</br>
+- Max complex peak height: 80.0%</br>
+11. The resulting peaklist was exported as “spermatophore_vs_body_final_unfiltered.mzTab”</br>
+12. The peaklist was filtered to remove putative complexes, adducts, and fragments, using the “peaklist rows filter” module, with the custom parameters:</br>
+- Text in identity: “Adduct” or “Complex” or “Fragment”</br>
+- Keep or remove rows: “Remove rows that match all criteria”</br>
+This step used a custom fork of MZmine2 2.1.9 (https://github.com/photocyte/mzmine2/commit/609bb3b1811b3df4ff632100591a2e449564eaf2).  The change has been contributed to the main MZmine2 sourcecode repository.</br>
+13. The resulting peaklist without annotated adducts, complexes, and in-source fragment ions was exported as “spermatophore_vs_body_final_filtered.mzTab”</br>
+14. Resulting compounds were manually annotated using a combination of the “Online database search” module & “Formula prediction” module.  When possible, MS2 spectra were compared with the Metlin metabolite database (metlin.scripps.edu)</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fallon"
+Study Person First Name	"Timothy"
+Study Person Mid Initials	"R"
+Study Person Email	"tfallon@mit.edu
+"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

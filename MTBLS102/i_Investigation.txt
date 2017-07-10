@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BTO"	"CHEBI"	"EFO"	"NCIT"	"CHMO"	"CHMO"	"NCBITAXON"	"UO"	"OBI"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"22"	"80"	"113"	"40"	"16"	"5"	"4"	"42"	"22"	"6"	
+Term Source Description	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS102"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS102"
+Study Title	"Comparative analysis of the adaptation of Staphylococcus aureus to internalization by different types of human non-professional phagocytic host cells (NMR assay)"
+Study Description	"Staphylococcus aureus is a human pathogen that can cause a wide range of diseases. Although formerly regarded as extracellular pathogen, it has been shown that S. aureus can also be internalized by host cells and persist within these cells. In the present study, we comparatively analyzed survival and physiological adaptation of S. aureus HG001 after internalization by two human lung epithelial cell lines (S9 and A549), and human embryonic kidney cells (HEK 293). Combining enrichment of bacteria from host-pathogen assays by cell sorting and quantitation of the pathogen's proteome by mass spectrometry we characterized S. aureus adaptation during the initial phase between 2.5 h and 6.5 h post-infection. Starting with about 2 × 10^6 bacteria, roughly 1450 S. aureus proteins, including virulence factors and metabolic enzymes were identified by spectral comparison and classical database searches. Most of the bacterial adaptation reactions, such as decreased levels of ribosomal proteins and metabolic enzymes or increased amounts of proteins involved in arginine and lysine biosynthesis, enzymes coding for terminal oxidases and stress responsive proteins or activation of the sigma factor SigB were observed after internalization into any of the three cell lines studied. However, differences were noted in central carbon metabolism including regulation of fermentation and threonine degradation. Since these differences coincided with different intracellular growth behavior, complementary profiling of the metabolome of the different non-infected host cell types was performed. This revealed similar levels of intracellular glucose but host cell specific differences in the amounts of amino acids such as glycine, threonine or glutamate. With this comparative study we provide an impression of the common and specific features of the adaptation of S. aureus HG001 to specific host cell environments as a starting point for follow-up studies with different strain isolates and regulatory mutants. Metabolome analysis, by nuclear magnetic resonance spectroscopy, was performed for the infection medium (extracellular medium, mock infection of 1 h)."
+Study Submission Date	"2014-07-21"
+Study Public Release Date	"2015-07-01"
+Study File Name	"s_aureus adaptation to different human cell lines.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"cell line"	"infection"	"Host-Pathogen Interactions"	"Proteomics"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000322"	"http://www.ebi.ac.uk/efo/EFO_0000544"	"http://purl.bioontology.org/ontology/MESH/D054884"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20085"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""
+Study Design Type Term Source REF	"EFO"	"EFO"	"MESH"	"NCIT"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25136337"
+Study Publication DOI	"http://dx.doi.org/10.3389/fmicb.2014.00392"
+Study Publication Author List	"Surmann K, Michalik S, Hildebrandt P, Gierok P, Depke M, Brinkmann L, Bernhardt J, Salazar MG, Sun Z, Shteynberg D, Kusebauch U, Moritz RL, Wollscheid B, Lalk M, Völker U, Schmidt F."
+Study Publication Title	"Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"host cell line"
+Study Factor Type	"cell line"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000322"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_s_aureus_adaptation_to_different_human_cell_lines_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Bacterial strain and cultivation conditions:</br>
+S. aureus strain HG001 [1] carrying plasmid pMV158GFP [2] was used throughout the study. Bacteria were cultivated in prokaryotic minimal essential medium (pMEM) until the exponential growth phase (OD600 0.4) as described previously [3]. The number of bacterial cells present in the culture at OD600 was determined by flow cytometry with a Guava easyCyte™ flow cytometer (Millipore, Billerica, MA, USA) using GFP constitutively expressed from pMV158GFP.
+</p>
+Cell lines and cultivation conditions:</br>
+S9 cells [adeno 12 SV40 hybrid virus-transformed human bronchial epithelial cells, ATCC® number CRL-2778 and A549 cells [human lung cancer-derived alveolar epithelial cells, ATCC® number CCL-185, were cultivated in eukaryotic minimal essential medium (eMEM) as described previously (Pförtner et al., 2013). HEK 293 cells [adenovirus type 5-transformed human embryonic kidney cells were cultivated in modified eMEM for HEK 293 cells (HEK-eMEM; 1×MEM [Biochrom AG), supplemented with additional 10% (v/v) dialyzed fetal bovine serum (FBS, Invitrogen), 2% (v/v) L-glutamine (PAA), 1% (v/v) sodium pyruvate (PAA), and 1% (v/v) non-essential amino acids (PAA)]. Cells were cultured in 10-cm-diameter tissue culture plates at 37 °C, 5% CO2 in a humid atmosphere. Prior to infection experiments, host cells were seeded in 24-well tissue culture plates 3 days in advance and cultivated until confluence.
+</p>
+Internalization settings:</br>
+S. aureus HG001 pMV158GFP was cultivated in pMEM until OD600 0.4. Based on a calibration curve, an infection mix of bacterial culture was prepared in host cell medium buffered with 2.2 g/l sodium hydrogen carbonate. Bacterial cultures were diluted in this mix to infect host cells with a multiplicity of infection (MOI) of 25. Afterwards, the cell culture medium of confluent host cells was replaced by this infection mix, and bacteria could sediment, attach to and be internalized by host cells in an incubator at 37 °C and 5% CO2 for 1 h. Subsequently, one ml of host cell supernatant containing non-internalized bacteria was collected to represent the non-adherent control. The remaining infection mix was replaced by host cell medium containing 10 μg/ml lysostaphin (AMBI PRODUCTS LLC, Lawrence, NY, USA). Non-internalized S. aureus cells were killed efficiently in this step within 30 min [4]. After 2.5 h and 6.5 h supernatant was removed and cell layers were washed twice with PBS. Host cells were lysed with 0.1% Triton X-100 in water for 5 min at 37 °C and rinsed afterwards with PBS. Bacterial cell counts were again determined with a Guava easyCyte™ flow cytometer (Millipore).
+</p>
+Ref: </br>
+[1] Herbert S., Ziebandt A. K., Ohlsen K., Schafer T., Hecker M., Albrecht D., et al. (2010). Repair of global regulators in Staphylococcus aureus 8325 and comparative analysis with other clinical isolates. Infect. Immun. 78, 2877–2889. doi:10.1128/IAI.00088-10. PMID:20212089</br>
+[2] Nieto C., Espinosa M. (2003). Construction of the mobilizable plasmid pMV158GFP, a derivative of pMV158 that carries the gene encoding the green fluorescent protein. Plasmid 49, 281–285. doi:10.1016/S0147-619X(03)00020-9. PMID:12749839</br>
+[3] Depke M., Surmann K., Hildebrandt P., Jehmlich N., Michalik S., Stanca S. E., et al. (2014). Labeling of the pathogenic bacterium Staphylococcus aureus with gold or ferric oxide-core nanoparticles highlights new capabilities for investigation of host-pathogen interactions. Cytometry A 85, 140–150. doi:10.1002/cyto.a.22425. PMID:24347542</br>
+[4] Pförtner H., Wagner J., Surmann K., Hildebrandt P., Ernst S., Bernhardt J., et al. (2013). A proteomics workflow for quantitative and time-resolved analysis of adaptation reactions of internalized bacteria. Methods 61, 244–250. doi:10.1016/j.ymeth.2013.04.009. PMID:23643866</br>"	"Two ml of cell culture supernatant were filtered through a 0.22 µm syringe sterile filter (Sarstedt AG&Co) and directly frozen."	"Each 400 µl sample volume were buffered to a pH of 7.0 by adding 200 µl of a 0.2 mol/l sodium hydrogen phosphate buffer solution, made up with 50% D2O (Euriso-Top, St-Aubin Cedex, France), which provides a NMR-lock signal. Additionally, the buffer solution contained 1 mmol/l TSP (3-trimethylsilyl-[2,2,3,3-D4]-1-propionic acid) (Sigma-Aldrich, St. Louis, USA) as an internal standard for subsequent quantification."	"Qualitative and quantitative data analysis was carried out in a Bruker AVANCE-II 600 NMR spectrometer operated by TOPSPIN 3.1 software and by using AMIX®-Viewer v3.9.11 (Bruker Biospin)."	"All NMR spectra were obtained at 600.27 MHz at a temperature of 310 K using a Bruker AVANCE-II 600 NMR spectrometer, operated by TOPSPIN 2.1 software (both from Bruker Biospin GmbH, Rheinstetten, Germany). A 1D-NOESY pulse sequence was used with presaturation on the residual HDO signal during both the relaxation delay and the mixing time. A total of 64 free induction decays (FID scans) were collected, using a spectral width of 30 ppm for a one-dimensional spectrum."	"Data analysis (identification and quantification) was done by using AMIX-Viewer v3.9.11 software (Bruker Biospin GmbH, Rheinstetten, Germany)."	"Identification was based on spectra alignment of pure standard compounds (Sigma-Aldrich, St. Louis, USA). For quantification designated peaks were integrated and compared to the TSP signal, considering the number of protons for each signal [1].
+</p>
+Ref:</br>
+[1] Dörries K, Lalk M (2013) Metabolic Footprint Analysis Uncovers Strain Specific Overflow Metabolism and D-Isoleucine Production of Staphylococcus Aureus COL and HG001. PLoS ONE 8(12): e81500. doi:10.1371/journal.pone.0081500. PMID:24312553</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Schmidt"
+Study Person First Name	"Frank"
+Study Person Mid Initials	""
+Study Person Email	"frank.schmidt@uni-greifswald.de"
+Study Person Phone	"+49-3834-865887"
+Study Person Fax	"+49-3834-86795871"
+Study Person Address	"ZIK-FunGene Junior Research Group Applied Proteomics, University Medicine Greifswald"
+Study Person Affiliation	"ZIK-FunGene Junior Research Group Applied Proteomics, University Medicine Greifswald"
+Study Person Roles	"corresponding author"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

@@ -1,0 +1,133 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"OBI"	"DRON"	"MS"	"NCBITAXON"	"CHMO"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/DRON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"27"	"22"	"3"	"86"	"6"	"16"	"99"	"113"	
+Term Source Description	"Environment Ontology"	"Ontology for Biomedical Investigations"	"The Drug Ontology"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS187"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS187"
+Study Title	"Diel metabolomics analysis of a hot spring chlorophototrophic microbial mat leads to new hypotheses of community member metabolisms"
+Study Description	"Dynamic environmental factors such as light, nutrients, salt, and temperature continuously affect chlorophototrophic microbial mats, requiring adaptive and acclimative responses to stabilize composition and function. Quantitative metabolomics analysis can provide insights into metabolite dynamics for understanding community response to such changing environmental conditions. In this study, we quantified volatile organic acids, polar metabolites (amino acids, glycolytic and citric acid cycle intermediates, nucleobases, nucleosides, and sugars), wax esters, and polyhydroxyalkanoates, resulting in the identification of 104 metabolites and related molecules in thermal chlorophototrophic microbial mat cores collected over a diel cycle in Mushroom Spring, Yellowstone National Park. A limited number of predominant taxa inhabit this community and their functional potentials have been previously identified through metagenomics and metatranscriptomic analyses and in situ metabolisms, and metabolic interactions among these taxa have been hypothesized. Our metabolomics results confirmed the diel cycling of photorespiration (e.g., glycolate) and fermentation (e.g., acetate, propionate, and lactate) products, the carbon storage polymers polyhydroxyalkanoates, and dissolved gasses (e.g., H2 and CO2) in the waters overlying the mat, which were hypothesized to occur in major mat chlorophototrophic community members. In addition, we have formulated the following new hypotheses: (1) the morning hours are a time of biosynthesis of amino acids, DNA, and RNA; (2) photo-inhibited cells may also produce lactate via fermentation as an alternate metabolism; (3) glycolate and lactate are exchanged among Synechococcus and Roseiflexus spp.; and (4) fluctuations in many metabolite pools (e.g., waxesters) at different times of day result from species found at different depths within the mat responding to temporal differences in their niches."
+Study Submission Date	"2015-03-20"
+Study Public Release Date	"2015-07-09"
+Study File Name	"s_MTBLS187.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"microbial mat"	"poly(hydroxyalkanoate)"	"CETYL ESTERS WAX"	"untargeted metabolites"	"targeted metabolites"	"Chloroflexus"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/ENVO_01000008"	"http://purl.obolibrary.org/obo/CHEBI_53387"	"http://purl.obolibrary.org/obo/DRON_00723553"	""	""	"http://purl.bioontology.org/ontology/NCBITAXON/1107"
+Study Design Type Term Source REF	"CHMO"	"ENVO"	"CHEBI"	"DRON"	""	""	"NCBITAXON"
+STUDY PUBLICATIONS
+Study PubMed ID	"25941514"
+Study Publication DOI	"10.3389/fmicb.2015.00209"
+Study Publication Author List	"Kim YM, Nowack S, Olsen MT, Becraft ED, Wood JM, Thiel V, Klapper I, Kühl M, Fredrickson JK, Bryant DA, Ward DM, Metz TO."
+Study Publication Title	"Diel metabolomics analysis of a hot spring chlorophototrophic microbial mat leads to new hypotheses of community member metabolisms."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time collected"	"Sample Replicate"	"Technical Replicate Number"
+Study Factor Type	"time"	"biological replicate"	"technical replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000721"	"http://www.ebi.ac.uk/efo/EFO_0002091"	"http://www.ebi.ac.uk/efo/EFO_0002090"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_aAcePro_mtbls187.txt"	"a_bPolar_mtbls187.txt"	"a_cWaxPHA_mtbls187.txt"	"a_dWaxPHA_mtbls187.txt"	"a_ePolar_mtbls187.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample Collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample Collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"For whole-mat (i.e., intracellular and extracellular metabolites combined) analyses of volatile organic acids, polar metabolites, wax esters, and PHAs, core samples were collected from a microbial mat in the effluent channel of Mushroom Spring in the Lower Geyser Basin (YNP, WY) where the temperature of the water in the sampling area varied from 58 to 62 °C during the diel cycle. A cork-borer with an 8 mm inner diameter was used to collect the same volume of mat sample, and a razor blade was used to separate the top 5 mm of each mat core such that the analyses were focused on the top green phototrophic layer and the red-orange under mat layers in the zone that contain most of the biological activity [1]. The samples were transferred to microcentrifuge tubes and immediately frozen in a Dewar containing liquid nitrogen. Mat samples were collected in triplicate at 14 time points between 13:30 h on September 21, 2012 and 11:00 h the following day.
+</p>
+For analyses of extracellular metabolites, mat core samples were collected at 03:00, 09:00, 13:00, and 19:00 h (n = 6, each) during the same diel cycle. Once collected, three core samples from each time point were immediately frozen as described above for use as unrinsed controls, while the remaining three samples were transferred to 15 ml Falcon tubes containing 1 ml of spring water that had been filtered through a 0.2 µm filter. Since the 68 °C source pool of Mushroom Spring is lined with mat, in order to avoid metabolites that might have diffused from the mat to overflowing water, we used water from the source pool (92 °C) of chemically similar Octopus Spring [2], which is well upstream of photosynthetic mats (maximum range of 72–74 °C). This water did not contain significant levels of any of the organic compounds detected in this study. The re-suspended mat cores were then quickly disrupted on site by vigorous shaking, and the biomass and rinse water were then immediately separated using a centrifuge (16,025 x g for 5 min). The supernatant was transferred to a clean microcentrifuge tube and the rinsed biomass and the rinse water samples were immediately frozen with liquid nitrogen. All samples were stored at -80 °C until further processing. This process did not result in release of metabolites identified in analyses of biomass, suggesting that it did not cause leakage of constituents from intact cells.
+</p>
+Ref:</br>
+[1] Ward D., Tayne T., Anderson K., Bateson M. (1987). Community Structure and Interactions Among Community Members in Hot Spring Cyanobacterial Mats, in Symposia of the Society for General Microbiology (Cambridge).<br>
+[2] Papke R. T., Ramsing N. B., Bateson M. M., Ward D. M. (2003). Geographical isolation in hot spring cyanobacteria. Environ. Microbiol. 5, 650–659. doi:10.1046/j.1462-2920.2003.00460.x. PMID:12871232</br>"	"A single metabolite extraction protocol was used for the analysis of the various classes of metabolites described herein. Frozen mats were thawed at room temperature and 100 µl each of Nanopure™ water and zirconia-silica beads (0.1 mm size; Biospec Products; Bartlesville, OK) were added, respectively, to the samples and vigorously vortexed for 2 min. This bead-beating process was repeated after the samples were maintained at room temperature for 5 min. A mixture of chloroform/methanol (400 µl; 2:1, v/v) spiked with 20 µg of 13C-labeled acetate (Sigma-Aldrich catalog number 282022-250) was added to each disrupted mat sample, and the mixtures were repeatedly vortexed to ensure thorough mixing. The samples were centrifuged at 15,000 x g for 5 min at 4 °C to separate aqueous and organic layers from precipitated proteins.
+</p>
+For analysis of acetate and propionate, aliquots (50 µl) of the aqueous layer from each extract were transferred to glass vials equipped with glass inserts for direct GC-MS analysis without chemical derivatization. Because acetate and propionate are volatile molecules, all samples were immediately analyzed after extraction.
+</p>
+For untargeted analysis of polar metabolites, aliquots (150 µl) of the remaining aqueous layer from each sample extract were transferred to glass vials and completely dried in vacuo. The dried extracts were stored at -20 °C until chemical derivatization. 
+</p>
+For analysis of wax esters, aliquots (200 µl) of the organic layer from each extract were analyzed directly using GC-MS without chemical derivatization.  
+</p>
+For analysis of PHAs, the remaining organic layer from each extract was combined with the corresponding protein pellet, and the combined extract and pellet were completely dried in vacuo. The samples were hydrolyzed using a modification of an earlier method [1]. Briefly, the dried pellets were dissolved in methanol containing 15% H2SO4 (v/v) and incubated at 100 °C for 15h. The resulting PHA monomers were extracted with chloroform and analyzed by GC-MS.
+</p>
+Ref:</br>
+[1] Lageveen R. G., Huisman G. W., Preusting H., Ketelaar P., Eggink G., Witholt B. (1988). Formation of polyesters by Pseudomonas oleovorans: effect of substrates on formation and composition of poly-(R)-3-hydroxyalkanoates and poly-(R)-3-hydroxyalkenoates. Appl. Environ. Microbiol. 54, 2924–2932. PMID:16347790</br>"	"An Agilent 7890A gas chromatograph coupled with a single quadrupole 5975C mass spectrometer (Agilent Technologies, Inc.) was used for all analyses. Samples were analyzed in duplicate by optimized GC-MS methods, which varied according to the classes of molecular targets as described below.
+</p>
+Acetate and propionate were quantified in a targeted fashion using 13C-labeled acetate as an internal standard. Briefly, mixtures of unlabeled acetate and proprionate at different concentrations were combined with constant amounts of 13C-labeled acetate in order to construct calibration curves. 13C-labeled acetate was then spiked into microbial mat lysates prior to extraction of metabolites, and the measured ratios of unlabeled acetate and propionate to labeled internal standard were used to accurately quantify the target molecules. A polar column (HP-FFAP; 30 m x 0.250 mm x 0.250 µm; Agilent Technologies, Santa Clara) was used. The temperature of the GC inlet was maintained at 200 °C, and samples (1 µl) were injected in splitless mode with a helium gas flow rate of 1.0 ml/min. A temperature gradient from 40 to 200 °C over 20 min was used, and data were collected over the mass range 20–300 m/z. To reduce any carry over arising from the direct injection of the aqueous layers (a mixture of methanol and water) from the metabolite extraction procedure, pure methanol blanks were analyzed between each sample. 
+</p>
+For untargeted analysis of polar metabolites, extracted metabolites in the dried aqueous layers were chemically derivatized to trimethylsilyl esters as previously described [1]. Metabolite extracts were dried in vacuo again to remove any residual moisture. To protect carbonyl groups and reduce the number of tautomeric isomers, methoxyamine (20 µl of a 30 mg/ml stock in pyridine) was added to each sample, followed by incubation at 37 °C with shaking for 90 min. To derivatize hydroxyl and amine groups to trimethylsilyated (TMS) forms, N-methyl-N-(trimethylsilyl) trifluoroacetamide (MSTFA) with 1% trimethylchlorosilane (TMCS) (80 µl) was added to each vial, followed by incubation at 37 °C with shaking for 30 min. The samples were allowed to cool to room temperature and were analyzed on the same day. An HP-5MS column (30 m x 0.25 mm x 0.25 µm; Agilent Technologies) was used for untargeted analyses. Samples (1 µl) were injected in splitless mode, and the helium gas flow rate was determined by the Agilent Retention Time Locking function based on analysis of deuterated myristic acid (Agilent Technologies, Santa Clara, CA). The injection port temperature was held at 250 °C throughout the analysis. The GC oven was held at 60 °C for 1 min after injection, and the temperature was then increased to 325 °C by 10 °C/min, followed by a 5 min hold at 325 °C. Data were collected over the mass range 50–550m/z. A mixture of FAMEs (C8–C28) was analyzed together with the samples for retention index alignment purposes during subsequent data analysis.
+</p>
+For analysis of wax esters, aliquots of the organic layer from the metabolite extracts were directly injected into the GC-MS. For analysis of PHA monomers, the acid-hydrolyzed samples were analyzed. Wax esters and PHA monomers were chromatographically separated using the same HP-5MS column as described above. Samples (1 µl) were injected in splitless mode. The GC oven was held at 60 °C for 5 (wax esters) or 10 (PHA monomers) min after injection, and the temperature was then increased to 325 °C by 10 °C/min, followed by a 1 (PHA monomers) or 5 (wax esters) min hold at 325 °C. The helium gas flow rate was 1.0 ml/min and the injection port temperature was held at 250 °C throughout the analysis. Data were collected over the mass range 50–600 (PHA monomers) or 50–700 (wax esters) m/z.
+</p>
+Ref:</br>
+[1] Kim Y.-M., Schmidt B. J., Kidwai A. S., Jones M. B., Kaiser B. L. D., Brewer H. M., et al. (2013) Salmonella modulates metabolism during growth under conditions that induce expression of virulence genes. Mol. Biosyst. 9, 1522–1534. doi:10.1039/c3mb25598k. PMID:23559334</br>"	"An Agilent 7890A gas chromatograph coupled with a single quadrupole 5975C mass spectrometer (Agilent Technologies, Inc.) was used for all analyses."	"GC-MS raw data files from untargeted analyses of polar metabolites were processed using Metabolite Detector [1].
+</p>
+Ref:</br>
+[1] Hiller K., Hangebrauk J., JäGer C., Spura J., Schreiber K., Schomburg D. (2009) MetaboliteDetector: comprehensive analysis tool for targeted and nontargeted GC/MS based metabolome analysis. Anal. Chem. 81, 3429–3439. doi:10.1021/ac802689c. PMID:19358599</br>"	"The relative amounts of acetate and propionate in the mat samples were quantified by isotope dilution mass spectrometry. Standard curves for acetate and propionate were constructed as described above, and the integrated peak areas of acetate, propionate, and 13C-acetate in mat samples were determined using the corresponding extracted ion chromatograms (EICs; acetate, m/z 60; propionate, m/z 74; and 13C-acetate, m/z 62). The peak areas of endogenous acetate and propionate were divided by that of 13C-acetate to obtain ratios of unlabeled/labeled target molecules.
+</p>
+Retention indices (RI) of detected metabolites were calculated based on the analysis of the FAME standard mixture, followed by their chromatographic alignment across all analyses after deconvolution. Metabolites were then identified by matching GC-MS features (characterized by measured retention indices and mass spectra) to an augmented version of the Agilent Fiehn Metabolomics Retention Time Locked (RTL) Library [1], which contains spectra and validated retention indices for over 700 metabolites. All metabolite identifications were manually validated to reduce deconvolution errors during automated data processing and to eliminate false identifications. The NIST 08GC-MS library was also used to cross-validate the spectral matching scores obtained using the Agilent library. A heat-map analysis was also carried out after z-score transformation of the obtained signal intensities and with K-means clustering (K = 5, Distance metric: Euclidean) using DanteR [2].
+</p>
+For wax ester analysis, the 10 most abundant species from > 30 detected and quantified in the microbial mat samples were selected based on a previous report [3] and their abundances were determined by the EIC method described above. For PHA analysis, the monomers were also quantified using the EIC method described above. A common representative fragment ion (m/z 103) was used for quantifying both 3-hydroxybutyrate and 3-hydroxyvalerate.
+</p>
+Ref:</br>
+[1] Kind T., Wohlgemuth G., Lee D. Y., Lu Y., Palazoglu M., Shahbaz S., et al. (2009) FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Anal. Chem. 81, 10038–10048. doi:10.1021/ac9019522. PMID:19928838<br>
+[2] Taverner T., Karpievitch Y. V., Polpitiya A. D., Brown J. N., Dabney A. R., Anderson G. A., et al. (2012) DanteR: an extensible R-based tool for quantitative analysis of -omics data. Bioinformatics 28, 2404–2406. doi:10.1093/bioinformatics/bts449. PMID:22815360<br>
+[3] Dobson G., Ward D. M., Robinson N., Eglinton G. (1988). Biogeochemistry of hot spring environments: extractable lipids of a cyanobacterial mat. Chem. Geol. 68, 155–179. doi:10.1016/0009-2541(88)90093-9</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Metz"
+Study Person First Name	"Thomas"
+Study Person Mid Initials	"O"
+Study Person Email	"thomas.metz@pnnl.gov"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"Pacific Northwest National Laboratory,
+902 Battelle Bvld, PO Box 999,
+MSIN K8-98, Richland, WA 99352, USA"
+Study Person Affiliation	"Pacific Northwest National Laboratory"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

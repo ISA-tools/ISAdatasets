@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"EFO"	"CHMO"	"CHEBI"	"NCIT"	"BAO"	"UO"	"MESH"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"103"	"4"	"132"	"16"	"93"	"40"	"25"	"43"	"9"	"25"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"National Cancer Institute Thesaurus"	"BioAssay Ontology"	"Units of Measurement Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS29"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS29"
+Study Title	"Single-cell and bulk level metabolomic study of the glycolysis inhibition by 2-deoxy-D-glucose in Saccharomyces cerevisiae"
+Study Description	"Single-cell level measurements are necessary to characterize the intrinsic biological variability in a population of cells. In a study of the metabolic response of a clonal Saccharomyces cerevisiae population challenged by the glycolytic inhibitor 2-deoxy-D-glucose (2-DG), this variability is shown here, by comparing measurements at the population and the single-cell level. A novel microarray platform and MALDI mass spectrometric read-out allow us to follow 24 parameters simultaneously, in up to 100 single-cell measurements. Correlation plots for metabolites from the glycolytic pathway, the pentose phosphate pathway, and the observed ATP/ADP ratio as a measure of cellular energy charge give new insight into biochemical and metabolic pathways, which would not be accessible from population-level metabolomics data. Single-cell level measurements are necessary to characterize the intrinsic biological variability in a population of cells. In this study we demonstrate that with the Microarrays for Mass Spectrometry (MAMS) platform we are able to observe this variability. We monitor environmentally-(2-deoxy-D-glucose) and genetically-(∆PFK2) perturbed Saccharomyces cerevisiae cells both at the population and near single-cell levels. Correlation plots between metabolites from the glycolytic pathway, as well as with the observed ATP/ADP ratio as a measure of cellular energy charge give new biological insight that is not accessible from population-level metabolomic data."
+Study Submission Date	"2013-05-10"
+Study Public Release Date	"2013-05-22"
+Study File Name	"s_Single-cell.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Single-Cell Analysis"	"matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry"	"untargeted metabolites"	"Microarrays for Mass Spectrometry (MAMS)"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D059010"	"http://purl.obolibrary.org/obo/CHMO_0000520"	""	""
+Study Design Type Term Source REF	"MESH"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"23671112"
+Study Publication DOI	"http://dx.doi.org/10.1073/pnas.1209302110"
+Study Publication Author List	"Alfredo J. Ibáñez, Stephan R. Fagerer, Anna Mareike Schmidt, Pawel L. Urban, Konstantins Jefimovs, Philipp Geiger, Reinhard C. Dechant, Matthias Heinemann, and Renato Zenobi"
+Study Publication Title	"Mass spectrometry-based metabolomics of single yeast cells"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"	"Level measurement type"	"Cell number"	"Glucose source"	"Cell line"	"Timepoint"
+Study Factor Type	"treatment"	"Level measurement type"	"Cell Count"	"Isotope"	"Cell Lineage"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48938"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47933"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17895"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	""	"NCIT"	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_single-cell.txt"	"a_mtbls29_MSMS.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"ABI 4800 Plus MALDI-TOF/TOF MS/MS"	"ABI 4800 Plus MALDI-TOF/TOF"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Cell culture Cells of the YSBN.6 strain were grown in minimal medium with 10g/l glucose (either 12C- or 13C-labelled glucose). The minimal medium was prepared according to a previous method [1] with 10 mM phthalate buffer to maintain a pH value of 5.0. Cells were always grown at 30 °C while shaking with 300 rpm. Pre-cultures were inoculated from YPD plates and grown in 5 ml medium for approximately 9 hr to a maximum OD600 of 1.5. The pre-culture was used to inoculate the main culture with a start OD600 of 0.005 in 25 ml of Verduyn minimal medium. Cells of the main culture were harvested between an OD600 of 1.0 and 1.2.
+</p>
+Ref:</br>
+[1] Verduyn C1, Postma E, Scheffers WA, Van Dijken JP. Effect of benzoic acid on metabolic fluxes in yeasts: a continuous-culture study on the regulation of respiration and alcoholic fermentation. Yeast. 1992 Jul;8(7):501-17. PMID:1523884</br>"	"Cell counting:</br>
+Prior to spotting the cells on the MAMS target for the MALDI-MS measurement, the cells were reconstituted in 500 µl of a MeOH/ddH2O mixture (60:40) + 0.85% (w/V) ammonium bicarbonate buffer, pre-cooled at -40 °C, and carefully shaken to avoid cell aggregation. The samples were transferred to pre-cooled Eppendorf vials (2 ml). The Eppendorf vials were centrifuged at -10 °C for 1 min at 1000 x g (fixed rotor). The supernatant was removed to avoid any remaining growth medium to be trapped in the cell pellet. The cell pellet was reconstituted in 50 µl of 60% MeOH in ddH2O (-40 °C) and slightly shaken. Then, 2 µl of the cell suspension (2,500,000 cells/ml) was spread over a cooled MAMS plate (-4 °C). The distribution of the number of cells per well is stochastic (i.e. Poisson distribution). After the cells were distributed on the MAMS chip, the rest of the reconstituted yeast sample was once more centrifuged and shock frozen for population-level (bulk sample) control measurements at a later time point. To avoid any changes to the metabolism during the cell counting step, the MAMS plate was cooled using liquid nitrogen in a nitrogen-rich atmosphere (with a constant flow of N2 gas) to avoid condensation of moisture from air on the surfaces of the MAMS chip and the microscope optics. To avoid any cross-contamination between empty- and cell-containing-wells in the MAMS, the chip was placed in a dry-freezing cham ber for 15 min, after counting the cells. This step allowed us to remove residual moisture that remains on the surface of the MAMS chip prior the matrix deposi tion step. Most of the metabolites that were detected in this publication, using the MAMS platform, are the most abundant metabolites found within S. cerevisiae cells.
+</p>
+Cell handling:</br>
+The cell handling protocol was adapted from [1]. In brief the workflow consisted on the following: 1 ml from the main culture of yeast cells (YSBN.6) was quenched in 4 ml of a MeOH/ddH2O mixture (60:40) + 0.85% (w/V) ammonium bicarbonate buffer, and pre-cooled at -40 °C. Three types of aliquots were prepared from the main culture of yeast cells: Reference samples were untreated aliquots; Control samples were aliquots treated with 500 µl of HPLC-MS grade water (ddH2O) at 4 °C; and Treated samples were aliquots treated with 500 µl of a 2% (mg/ml) solution of 2-deoxy-d-glucose (HPLC-MS grade water). The falcon tubes containing the different aliquots were immediately submerged in a -40 °C glycerol bath for 1 min to ensure quenching of the metabolism. The samples were then centrifuged for 1 min at -10 °C at 1000 x g in a non-fixed rotor centrifuge. The supernatant (growth medium) was removed, and the falcon tube containing the cell pellet was then shock-frozen in liquid nitrogen and stored at -80 °C until the measurement.
+</p>
+Ref:</br>
+[1] Ewald JC, Heux S, Zamboni N (2009) High-throughput quantitative metabolomics: Workflow for cultivation, quenching, and analysis of yeast in a multiwell format. Anal Chem 81(9):3623–3629. doi: 10.1021/ac900002u. PMID:19320491</br>"	"None."	"MS measurement:</br>
+The MALDI MS measurements were carried out on a commercial MALDI-TOF/TOF mass spectrometer (ABI4800 Plus, AB Sciex, Concord/ON, Canada). This instrument is equipped with a 355-nm solid-state laser. Measurements were conducted in the negative-ion reflectron mode, analyzing a mass range between 70 and 1100 m/z, and using 100 shots (10 subspectra x 10 shots) with center biased rastering. In our measurements, we heavily rely on the accuracy of the mass measurements for confidence on the metabolite identity. In order to exclude any possible mass shifts that may be caused by slightly tilted surfaces or in homogeneity of the conductivity of the MAMS coating and therefore irregular electric fields, we introduced evenly spaced calibration spots surrounding the 100 µm array. Prior to each MS measurement, the MS instrument was calibrated using 13 metabolite standards evenly distributed in the mass range of interest.
+</p>
+MS/MS analyses were conducted using the collision-induced dissociation (CID) cell in the ABI4800 instrument and air as the collision gas. Unfortunately, tandem mass spectrometry on the same cell sample is not possible in our case, due to limited amount of material present within one microwell. Therefore, we normally carried out tandem MS measurements on different wells to the one in which the parent ions were originally measured. Some times, it was necessary to combine the MS/MS measurements of a whole MAMS chip to obtain a suitable tandem MS spectrum. Therefore, it was critically also for our purposes to align the MAMS plate (i.e. the microwells) with the laser ionization spots using optical marks. By using the alignment marks, it was possible to run automated measurements, using the ABI mass spectrometer software, in a reproducible manner.
+</p>
+MS/MS measurement:</br>
+MS/MS analyses were conducted using the collision-induced dissociation (CID) cell in the ABI4800 instrument (1 KV) and air as the collision gas on MAMS and stainless steel MALDI plates. Unfortunately, for MAMS, tandem mass spectrometry on the same cell sample is not possible in our case, due to limited amount of material present within one microwell. Therefore, we normally carried out tandem MS measurements on different wells to the one in which the parent ions were originally measured. Sometimes, it was necessary to combine the MS/MS measurements of a whole MAMS chip to obtain a suitable tandem MS spectrum or use bigger microwell reservoirs. Therefore, it was critically also for our purposes to align the MAMS plate (i.e., the microwells) with the laser ionization spots using optical marks. By using the alignment marks, it was possible to run automated measurements, using the ABI mass spectrometer software, in a reproducible manner."	"Data treatment and data analysis software Spectral data (i.e. accurate mass, signal intensity, peak resolution) were calculated from the raw spectra using the ABI4800 software package (4000 Series Explorer V3.5.3, and Data Explorer Software Version 4.9)."	"Chemical assignments (identities) of 26 metabolites were made on the basis of accurate mass measurements (accuracy of 20 ppm or better), the isotope ratios of the corresponding signals, and metabolic databases (ChemBioFinder [http://chembiofinder.cambridgesoft.com/]; Chemspider [http://www.chemspider.com/]; Kegg [http://www.genome.jp/kegg/]; Metlin [http://metlin.scripps.edu/]; and Yeastnet [http://www.comp-sys-bio.org/yeastnet/]).
+</p>
+The chemical assignments were verified by comparing the respective tandem MS/MS spectra to the ones obtained from commercially available standards, and by using 13C-labeled cells, which were obtained by growing the yeast cells in 13C-labeled glucose. In order to exclude data with faulty assignments, the masses of at least 24 metabolites must be present in the spectrum with a mass deviation lower than 20 ppm (ideally lower than 15 ppm). Phosphoglyceric acid and Acetyl-Coenzyme A were not considered for further data analysis due to their constant mass deviation of 20 ppm or higher. Any spectra that did not contain all 24 metabolites signals within this mass error were discarded.
+</p>
+If the ABI4800 software package was unable to recognize a precise peak (even if the S/N ratio was higher than 3), the peak resolution was calculated manually, and the mass intensity as well as its mass-to-charge ratio were calculated from ASCII files using a MATLAB peak recognition software (version 7.6.0.324 (R2010a), MathWorks, Natick, MA, USA). The ASCII files were generated using macros written within the ABI Data Explorer Software. All data from the ABI software packages were then exported to Microsoft Excel(TM). In Excel, the signal intensities for each metabolite in one MAMS microwell, were divided by a known 9-amino acridine unsaturated background signal ([C4H2O4 - H]-, m/z 112.98933) and the number of cells counted within that well, providing us with the relative signal intensity for each metabolite at the single-cell level. This simple procedure allowed us to compensate for any inconsistencies in the matrix deposition, shot-to-shot and spot-to-spot variation, as well as in differences in the number of trapped cells (biomass) between MAMS microwells. However, to avoid other unexpected sources of variation (e.g. signal suppression, inefficient metabolite extraction, etc) between MAMS substrates, we used the signal of one of the measured metabolite as internal standard. In our case, we selected glutamate (C5H9NO4 - H]-, m/z 146.04588) as an internal standard, since its relative signal intensity for a whole MAMS plate remains constant, within the time frame of our study and for the different measured sample treatment if the cells originated from the same colony innoculation. Therefore, all metabolite signals obtained from one MAMS chip were adjusted by one single factor, if the average glutamate signal in the whole MAMS plate had a deviation of 10% or more from the expected value. Such complex data processing is necessary to reduce the technical variability between measurements, which if not removed or minimize could later been misinterpretate as cell-to-cell variability."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ibáñez"	"Fagerer"
+Study Person First Name	"Alfredo"	"Stephan"
+Study Person Mid Initials	"J."	"R."
+Study Person Email	"ibanez@org.chem.ethz.ch"	"fagerer@org.chem.ethz.ch"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Department of Chemistry and Applied Biosciences, ETH Zurich, CH-8093 Zurich, Switzerland"	"Department of Chemistry and Applied Biosciences, ETH Zurich, CH-8093 Zurich, Switzerland"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

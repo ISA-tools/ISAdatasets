@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"CHMO"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"22"	"86"	"18"	"99"	"113"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS260"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS260"
+Study Title	"Investigating the Mechanisms of Silver Nanoparticle Toxicity in Daphnia magna: A Multi-Omics Approach"
+Study Description	"Silver nanoparticles (AgNPs), one of the most common nanomaterials in use today, have been shown to enter the aquatic environment from use of commercially obtained products. Although acute toxicity has been shown in vitro and in vivo, there is still a great deal of uncertainty surrounding the molecular mechanism of AgNP-induced toxicity. Much of the current literature centres on the question of whether toxicity is induced by the AgNPs themselves or by ionic silver released from the nanoparticle surface. Here, I present research investigating AgNP toxicity to Daphnia magna, a keystone species of freshwater ecosystems the world over, using a multi-omics platform of transcriptomics and metabolomics techniques. Initially, the AgNPs were fully characterised and the exposure conditions optimised to accurately assess the impact of AgNP exposure to D. magna. This allowed for the design of sub-lethal AgNP exposures that had been fully controlled for the fraction of dissolved silver ions. Secondly, using this multi-omics platform, the role of Ag+ ions in AgNP toxicity to D. magna was determined. Finally a metabolic pathway perturbed by AgNP exposure was identified, as well as two constituent metabolites of key importance. Overall, this research advances the mechanistic understanding of AgNP toxicity to aquatic organisms, and further highlights the need for greater consideration of the nanoscale in regulative legislature."
+Study Submission Date	"2015-10-20"
+Study Public Release Date	"2017-04-04"
+Study File Name	"s_mtbls260.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"silver nanoparticle"	"silver(0)"	"Direct Infusion Mass Spectrometry"	"fourier transform ion cyclotron resonance mass spectrometer"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_50826"	"http://purl.obolibrary.org/obo/CHEBI_9141"	""	"http://purl.obolibrary.org/obo/MS_1000079"	""
+Study Design Type Term Source REF	"CHEBI"	"CHEBI"	""	"MS"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Alex Gavin"
+Study Publication Title	"<a href="http://etheses.bham.ac.uk/6840/1/Gavin16PhD.pdf">Investigating the Mechanisms of Silver Nanoparticle Toxicity in Daphnia magna: A Multi-Omics Approachi</a>"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment group"	"Concentration"
+Study Factor Type	"treatment"	"concentration of"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/PATO_0000033"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls260_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LTQ FT-Ultra (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Nominal exposure concentrations of 4.70, 2.35, 1.18 and 0.59 μg/l AgNPs (AgNP High, Mid, Low and V. Low respectively) were alongside nominal concentrations of 0.44, 0.22, 0.11 and 0.06 µg/l AgNO3 (Ag+ High, Mid, Low and V. Low respectively). These exposure concentrations of AgNO3 equate to 0.28, 0.14, 0.07 and 0.04 μg/l of total Ag+ ions (Ag+ High, Mid, Low and V. Low respectively) corresponding to 6 % of the respective AgNP exposures. Untreated (deionised water; no-added silver), capping agent (0.03 % v/v. PVP) and bulk silver (4.7 μg/l, 3μm average diameter, Sigma Aldrich) controls were used to account for background mortality, any potential impact of the capping agent, and to control for potential aggregation effects respectively. The dissolved Ag filtered from the AgNP stock prior to use was included as an additional filtrate control. Each biological replicate consisted of 30 D. magna neonates (<24 h) with 6 biological replicates per treatment group with the exception of AgNP High which had 8 replicates to account for potential mortalities induced by the higher concentration. Groups of 30 D. magna neonates (<24 h) were added to individual exposure vessels (250 ml glass beaker, Fisher Scientific) containing 200 ml of medium (adjusted to pH 7.0). The appropriate exposure stock (1 ml) was then used to spike the study medium followed immediately by 49 ml of additional medium to mix. Exposure vessels were kept at 19 ± 1 °C and on a 16 h:8 h light:dark cycle with no additional food or supplements administered. Tests were only considered valid if no more than 10% of control animals were immobilised during the exposure.  Following exposure, animals were filtered from their medium into a precellys tube, flash frozen in liquid nitrogen and stored at -80 °C prior to extraction."	"Frozen animals (30 neonates per sample) were homogenised using a Precellys-24 ceramic bead-based homogeniser (Stretton Scientific Ltd., UK) in 448 μl of a 5:2 mix of methanol (HPLC grade): water (nuclease free, QIAGEN) for two 15 s bursts at 10,000 rpm with a 10  s intermission. A 112 μl aliquot of homogenate was then removed into a nuclease-free microfuge tube (1.7 ml, Axygen) for RNA extraction and replaced with the same volume of 5:2 methanol:water. Polar metabolites were extracted from the remaining homogenate using a two-step, biphasic method as detailed previously [1]. Following extraction, the upper, polar layer of each sample was removed into a single 1.5 ml microfuge tube (Starstedt, Leicester, UK) via Hamilton syringe. Polar extracts were dried under vacuum (Savant Refrigerated Vapour Trap, Thermo Scientific) using a centrifugal concentrator (Savant SpeedVac concentrator, Thermo Scientific) without application of heat and stored at -80 °C prior to FT-ICR analysis. Two extract blanks were created using the above homogenisation and extraction protocols in the absence of biological material.</br>
+</p>
+Ref:</br>
+[1] Wu H, Southam AD, Hines A, Viant MR. High-throughput tissue extraction protocol for NMR- and MS-based metabolomics. Anal Biochem. 2008 Jan 15;372(2):204-12."	"Not applicable."	"All frozen, dried, polar extracts were re-suspended by addition of a 4:1 mixture of methanol:water with 20 mM ammonium acetate followed by vortex-mixing for 30 s for negative ion mode analysis. All re-suspended samples were centrifuged at 22,000 rcf, 4 °C for 10 minutes to remove particulate matter.  The supernatant of each sample was then loaded alongside quality control (QC) samples in a randomly generated order on 384 well plates (Agilent technologies).  QC samples were created from a pool of D. magna polar extract from a separately collected group of neonates.  Once an entire plate was loaded, it was permanently sealed using a single, heat-sealed, foil sheet (ALPS 50V, Thermo Fisher Scientific, US).  All extracts were analysed in quadruplicate using an LTQ-FT Ultra (Thermo Fisher Scientific, Bremen, Germany) hybrid LTQ FT-ICR mass spectrometer with a direct infusion, chip-based nano-electrospray ionisation source (Triversa, Advion Biosciences, Ithaca, NY). Nanoelectrospray conditions consisted of a 200 nl/min flow rate, 0.3 psi backing pressure and an electrospray voltage of either +1.7 kV or -1.7 kV in positive or negative ion mode respectively controlled by Chipsoft software (Advion, Ithaca, NY, USA).  An automatic gain control setting of 1x106 was used in combination with a mass resolution of 100,000 (FWHM at 400 m/z).  Each technical replicate was analysed using Xcalibur software (Version, Thermo Scientific). Data were acquired as transients from m/z 70-590 using the selected ion monitoring (SIM) stitching methodology [1][2][3] in 7 SIM windows of 100 m/z width and 30 m/z overlap. Samples were analysed in a randomly generated order with QC samples spaced evenly throughout to disentangle MS technical drift from biological differences.</br>
+</p>
+Ref:</br>
+[1] Southam AD, Payne TG, Cooper HJ, Arvanitis TN, Viant MR. Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray fourier transform ion cyclotron resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Anal Chem. 2007 Jun;79(12):4595-602.</br>
+[2] Payne TG, Southam AD, Arvanitis TN, Viant MR. A signal filtering method for improved quantification and noise discrimination in fourier transform ion cyclotron resonance mass spectrometry-based metabolomics data. J Am Soc Mass Spectrom. 2009 Jun;20(6):1087-95. doi: 10.1016/j.jasms.2009.02.001.</br>
+[3] Weber RJ, Southam AD, Sommer U, Viant MR. Characterization of isotopic abundance measurements in high resolution FT-ICR and Orbitrap mass spectra for improved confidence of metabolite identification. Anal Chem. 2011 May 15;83(10):3737-43. doi: 10.1021/ac2001803."	"Transient data from the FT-ICR were processed, and the SIM stitch algorithm was applied as described previously [1][2]. Briefly, transients were averaged and then transformed into spectra with Fast Fourier Transform [3] and calibrated using a list of defined peaks for each SIM window (Section 9.3). SIM window spectra were then ‘stitched’ together through the alignment of peaks in overlapping regions (30 Da) using the SIM-stitching algorithm [1]. All peaks with intensities with a signal to noise ratio of less than 3.5 were removed, as were areas of ‘mechanical noise’ or ‘high noise regions’ in the m/z ranges of (m/z = (74.05-74.2); (90.50-90.58), (101.32-101.42); (101.6-102.1); (105.1-105.5); and (116.37 116.5)). This process resulted in four stitched spectra per biological sample; the three best quality replicates were then selected for further filtering. Replicate quality was primarily based on the variation of relative intensity within SIM windows. The spectra of the three selected technical replicates were then aligned and merged, with peaks being retained only if present in at least two of the remaining three replicates, thus resulting in one spectrum per biological sample. When aligning replicate spectra, peaks were considered to be the same if they occurred within a 1.5 ppm error of one another along the m/z axis. The spectra of all samples were then aligned and filtered with m/z peaks only being retained if they were present in at least 80% of all experimental samples. Due to the differing origin of the QC samples, they were excluded from this process to avoid skewing the filter. When aligning sample spectra, peaks were considered to be the same if they occurred within a 2.5 ppm error of one another along the m/z axis. Any of the remaining sample peaks which were also detected within the extract blanks were removed from all spectra. All spectral processing steps were completed in MATLAB (student version 7, The Math-Works, Natick, MA). These processing steps yield a matrix of raw peak intensity values, with columns corresponding to m/z values and rows corresponding to samples, which require further processing before statistical analysis.</br>
+Glog transformation</br>
+Peaks of naturally higher intensities are intrinsically prone to greater technical variation, in terms of absolute values, than those which are naturally lower in intensity.  This can skew the results of multivariate statistical analysis. To counteract this, the normalised matrix was transformed using the generalised logarithm transformation [4]. This process uses a scaling factor (λ) derived from the QC samples i.e. samples between which, theoretically, the only variation is technical and not biological.  This process stabilises technical variation and reduces dominance of large intensity peaks, allows for better observation of biological differences in subsequent multivariate statistical analyses such as PCA ([4].
+PQN normalisation</br>
+To account for variation arising from differences in sample concentration, the resulting filtered matrix was normalised via Probable Quotient Normalisation (PQN) [5] using an in-house MATLAB script. We calculate qQuotients of dilution were calculated, by dividing the intensity of each peak in a spectrum by the mean intensity for that peak across all samples.  The median quotient of the entire spectrum is then selected as the scaling factor (most probable quotient) for that spectrum.  Quotients were only calculated for peaks that occurred in 100 % of all samples except QCs.</br>
+To prevent miscalculation of fold changes, missing values were imputed using the k-nearest neighbour (KNN) algorithm using an in-house MATLAB script [6]. Briefly, the top k (in this study k=5) peaks with the most similar intensity profiles across all samples were used to calculate a weighted average (the most similar peaks  being favoured) for that sample.  This value was then imputed in the place of the missing value. This normalised matrix with imputed missing values was used for the assessment of fold changes in peak intensities across groups and for univariate analysis to determine significantly changing peaks.</br>
+Ref:</br>
+[1] Southam AD, Payne TG, Cooper HJ, Arvanitis TN, Viant MR. Dynamic range and mass accuracy of wide-scan direct infusion nanoelectrospray fourier transform ion cyclotron resonance mass spectrometry-based metabolomics increased by the spectral stitching method. Anal Chem. 2007 Jun;79(12):4595-602.</br>
+[2] Payne TG, Southam AD, Arvanitis TN, Viant MR. A signal filtering method for improved quantification and noise discrimination in fourier transform ion cyclotron resonance mass spectrometry-based metabolomics data. J Am Soc Mass Spectrom. 2009 Jun;20(6):1087-95. doi: 10.1016/j.jasms.2009.02.001.</br>
+[3] Comisarow MB and Melka JD. Error estimates for finite zero-filling in Fourier transform spectrometry. Anal. chem. 1979; 51(13):2198-2203.</br>
+[4] Parsons, H. M., Ludwig, C., Günther, U. L., & Viant, M. R. BMC Bioinformatics. 2007 Jul;8:234. Improved classification accuracy in 1- and 2- dimensional NMR metabolomics data using the variance stabilizing generalised logarithm transformation.</br>
+[5] Dieterle F, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul;78(13):4281-90.</br>
+[6] Hrydziuszko O, Viant M R. Missing values in mass spectrometry based metabolomics: an undervalued step in the data processing pipeline. Metabolomics. 2012 Jun;8(1):161-174.</br>"	"For FT-ICR mass spectrometry data, all filtered m/z values with corresponding average raw intensities (non-normalised) were imputed into MI-Pack [1] to generate  possible  empirical  formulae  and  putative  metabolite  names  for  each m/z peak using KEGG. The transformation  mapping  algorithm was used to increase confidence in assigned putative metabolite names.</br>
+</p>
+Ref:</br>
+[1] Weber R and  Viant M. MI - Pack:  Increased  confidence  of  metabolite identification  in  mass  spectra  by  integrating accurate  masses  and  metabolic  pathways. Chemometrics and Intelligent Laboratory Systems. 2010; 104 (1): 75
+–82."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Gavin"	"Viant"
+Study Person First Name	"Alex"	"Mark"
+Study Person Mid Initials	"J"	"R"
+Study Person Email	"ajsgavin@gmail.com"	"m.viant@bham.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT"	"School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT"
+Study Person Affiliation	"University of Birmingham"	"University of Birmingham"
+Study Person Roles	"Principal Investigator"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,127 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"BTO"	"EFO"	"UO"	"CHMO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHMO"	
+Term Source Version	"22"	"3"	"86"	"24"	"119"	"42"	"5"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Methods Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS173"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS173"
+Study Title	"Comprehensive Metabolic Profiling of Age-Related Mitochondrial Dysfunction in the High-Fat-Fed ob/ob Mouse Heart"
+Study Description	"The ectopic deposition of fat is thought to lead to lipotoxicity and has been associated with mitochondrial dysfunction and diabetic cardiomyopathy. We have measured mitochondrial respiratory capacities in the hearts of ob/ob and wild-type mice on either a regular chow (RCD) or high-fat (HFD) diet across four age groups to investigate the impact of diet and age on mitochondrial function alongside a comprehensive strategy for metabolic profiling of the tissue. Myocardial mitochondrial dysfunction was only evident in ob/ob mice on RCD at 14 months, but it was detectable at 3 months on the HFD. Liquid chromatography–mass spectrometry (LC–MS) was used to study the profiles of acylcarnitines and the accumulation of triglycerides, but neither class of lipid was associated with mitochondrial dysfunction. However, a targeted LC–MS/MS analysis of markers of oxidative stress demonstrated increases in GSSG/GSH and 8-oxoguanine, in addition to the accumulation of diacylglycerols, which are lipid species linked to lipotoxicity. Our results demonstrate that myocardial mitochondria in ob/ob mice on RCD maintained a similar respiratory capacity to that of wild type until a late stage in aging. However, on a HFD, unlike wild-type mice, ob/ob mice failed to increase mitochondrial respiration, which may be associated with a complex I defect following increased oxidative damage."
+Study Submission Date	"2015-02-26"
+Study Public Release Date	"2015-11-17"
+Study File Name	"s_obob mito paper.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Respiratory capacity"	"high fat diet"	"aging"	"obesity"	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0002757"	"http://purl.obolibrary.org/obo/GO_0007568"	"http://www.ebi.ac.uk/efo/EFO_0001073"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	""	"EFO"	"EFO"	"EFO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"25985803"
+Study Publication DOI	"http://dx.doi.org/10.1021/acs.jproteome.5b00128"
+Study Publication Author List	"Wang X, West JA, Murray AJ, Griffin JL"
+Study Publication Title	"Comprehensive Metabolic Profiling of Age-Related Mitochondrial Dysfunction in the High-Fat-Fed ob/ob Mouse Heart"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Age"	"Diet"
+Study Factor Type	"genotype"	"age"	"diet"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://www.ebi.ac.uk/efo/EFO_0002755"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_obob_mito_paper_metabolite_profiling_mass_spectrometry-2.txt"	"a_obob_mito_paper_metabolite_profiling_mass_spectrometry.txt"	"a_obob_mito_paper_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"API 5500 QTRAP (AB Sciex)"	"Quattro Premier XE (Waters)"	"Xevo G2 QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Acylcarnitine Chromatography"	"Acylcarnitine Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All groups of mice were killed by carbon dioxide asphyxiation at 10 am after a 2-hr fasting period. Hearts were rapidly dissected and a portion of the cardiac tissues was snap frozen with liquid nitrogen and stored in -80 °C until further analysis."	"Tissue Metabolites:</br>
+Metabolites were extracted using a methanol-chloroform-water extraction method described previously. Briefly, frozen tissues were added to 600 µl methanol-chloroform (2:1;v/v), the samples were homogenized with a Tissuelyser (Qiagen, UK) for 5 min at a frequency of 20/s and sonicated for 15 min. Water and chloroform (each of 200 µl) were added to the samples before being centrifuged at 13,300 rpm for 7 min. The resulting aqueous and organic phases were separated from the protein pellets. The extraction procedure was repeated on the remaining protein pellets. Both organic and aqueous phases were collected and evaporated to dryness. The dried samples were stored at -20 °C until further analysis.
+</p>
+Acylcarnitines:</br>
+Frozen tissues were added to 200 µl of acetonitrile containing a mixture of isotopically labeled carnitines: l-carnitine (N-trimethyl-d9), l-acetylcarnitine (N-methyl-d3), l-propionylcarnitine (N-methyl-d3), l-butyrylcarnitine (N-methyl-d9), l-isovalerylcarnitine (N-trimethyl-d9), l-octanoylcarnitine (N-methyl-d3), l-myristoylcarnitine (N-trimethyl-d9), and l-palmitoylcarnitine (N-methyl-d3) (Cambridge Isotope Laboratories, Inc., MA, USA). The samples were homogenized using a Tissuelyser (Qiagen, UK), before being centrifuged at 13,300 rpm for 5 min. The supernatants were dried and butylated prior to analysis with 100 µl 3M HCl in 1-butanol and kept at 60 °C for 15 min. The samples were evaporated to dryness before being reconstituted in 100 µl acetonitrile with 0.1% formic acid, of which 10 µl was injected for analysis.
+</p>
+Oxidative Stress Biomarkers:</br>
+The dried aqueous fraction was reconstituted in 200 µl of acetonitrile/water (7:3; v/v) containing 20 µM U-13C,15N labeled glutamate. The samples were then vortexed and sonicated for 15 min, before being centrifuged at 15,000 rpm to pellet any remaining undissolved material.
+</p>
+Intact Lipid Analysis:</br>
+The dried organic phase fraction was reconstituted and diluted to the desired concentration with 2-proponol/acetonitrile/water (2:1:1; v/v/v)."	"Acylcarnitines:</br>
+Chromatographic separations were performed using a Synergi Polar-RP column (4 µm, 4.6 x 100 mm; Phenomenex, Cheshire, UK) on an ACQUITY UPLC system (Waters Corporation, Elstree, Hertfordshire). The mobile phase consisted of solvent A: 0.1% formic acid in H2O and solvent B: 0.1% formic acid in acetonitrile. When eluting the column, the mobile phase was increased from 30% solvent B to 100% solvent B in 3 minutes, held at 100% for 5 min, and decreased back to 30% solvent B in 10 s and held for 1 min and 50 s for re-equilibrium, with a total run time of 10 min.
+</p>
+Oxidative stress biomarkers:</br>
+Chromatographic separations were performed using a ZIC-HILIC column (3.5 µm, 100 mm × 2.1 mm; Merck Sequant) kept at room temperature on an ACQUITY UPLC system (Waters Corporation, Elstree, Hertfordshire), coupled with a 5500 QTRAP mass spectrometer (AB Sciex, Warrington, UK). The mobile phase consisted of solvent A: 100 mM ammonium acetate in water and solvent B: acetonitrile. When eluting the column, the mobile phase was 20% solvent A for 2 min followed by an increase to 50% solvent A over 10 min, and held for a further 3 min for re-equilibrium, with a total run time of 15 min.
+</p>
+Intact Lipid Analysis:</br>
+Chromatographic separations were performed on an Acquity UPLC bridged ethyl hybrid (BEH) C8 column (1.7 µm, 2.1 x 100 mm; Waters Corporation, Hertfordshire). The mobile phase consisted of solvent A: HPLC grade acetonitrile (Sigma-Aldrich)/water (Sigma-Aldrich) (5:2; v/v), 10 mM ammonium formate and solvent B: HPLC grade 2-propanol (Merck Millipore): water (Sigma-Aldrich) (9:1; v/v), 10 mM ammonium formate. When eluting the column, the mobile phase was increased from 40% solvent B to 99% solvent B in 18 min, and decreased back to 40% solvent B in 10 s and held for 2 min for re-equilibrium, with a total run time of 20 min."	"Acylcarnitines:</br>
+Liquid Chromatography mass spectrometry (LC-MS) data was collected using a Waters Quattro Premier XE Triple Quadrupolar MS coupled with an electrospray source.  The source temperature was set to 110 °C with a cone gas flow of 46 l/hr, a desolvation temperature of 345 °C and a desolvation gas flow of 700 l/hr. A capillary voltage of 3500V was applied.  Mass spectra were generated by only allowing the parent ions of m/z +85 to pass through and be detected as part of a multiple reaction monitoring (MRM) approach.
+</p>
+Oxidative stress biomarkers:</br>
+The instrument is 5500 QTRAP mass spectrometer . The source temperature was 700 °C, cone gas pressure was 25 psi and the capillary voltage was 4.5 kV. The declustering potential was compound-dependent. Mass spectrometric data was collected in both positive and negative modes with unscheduled MRM approach with a dwell time of 50 ms.
+</p>
+Intact Lipid Analysis:</br>
+Mass spectrometry data was collected using a Xevo G2 QToF (Waters Corporation, Hertfordshire, UK) with an electrospray source operating in positive ion mode. The full scan mode was 200-2000 m/z with a scan duration of 0.2 s."	"Acylcarnitines:</br>
+Acquired data was processed with Quanlynx Research Application Manager (Waters Corporation).
+</p>
+Oxidative stress biomarkers:</br>
+For quantitative analysis, acquired data was processed with Analyst 1.6 software (AB Sciex, Warrington, UK). Peaks of both analytes and internal standards were detected and integrated. Peak integrations were then confirmed manually within the software.
+</p>
+Intact Lipid Analysis:</br>
+Acquired data was processed with Micromass Markerlynx Application Manager (Waters Corporation, UK)."	"TAGs were identified using the LIPID MAPS database (LIPID Metabolites And Pathway Strategy; http://www.lipidmaps.org) according to their m/z ratios and retention time, and confirmed by subsequent MS/MS. Measurement of acylcarnitines and oxidative stress biomarkers were performed as part of a multiple reaction monitoring (MRM) approach. Each metabolite in these assays was run separately in method development stage. The identification is confirmed by matching retention time and m/z ratios with standards."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Wang"	"West"	"Murray"	"Griffin"
+Study Person First Name	"Xinzhu"	"James"	"Andrew"	"Julian"
+Study Person Mid Initials	""	"A"	"J"	"L"
+Study Person Email	"ye2chong@gmail.com"	"James.West@mrc-hnr.cam.ac.uk"	"ajm267@cam.ac.uk     "	"jules.griffin@mrc-hnr.cam.ac.uk
+"
+Study Person Phone	"01223333600"	"01223426356"	"01223333750"	"01223426356"
+Study Person Fax	""	""	""	""
+Study Person Address	"
+Department of Biochemistry & Cambridge Systems Biology Centre, University of Cambridge, Tennis Court Road, Cambridge, UK
+"	"MRC, Human Nutrition Research"	"Department of Physiology, Development and Neuroscience, University of Cambridge"	"MRC, Human Nutrition Research"
+Study Person Affiliation	"Department of Biochemistry, University of Cambridge"	"Elsie Widdowson Laboratory, 120 Fulbourn Road, Cambridge UK"	"Downing street, Cambridge"	"Elsie Widdowson Laboratory, 120 Fulbourn Road, Cambridge UK"
+Study Person Roles	"PhD student"	"Research associate"	"Principal investigator"	"Principal investigator "
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"ICF"	"BAO"	"NCBITAXON"	"CHMO"	"EFO"	"UO"	"MESH"	"OBI"	"MS"	"BCO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/ICF"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BCO"	
+Term Source Version	"2"	"3"	"26"	"6"	"18"	"113"	"42"	"8"	"22"	"86"	"6"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"International Classification of Functioning, Disability and Health"	"BioAssay Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Biological Collections Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS91"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS91"
+Study Title	"The metabolic response of marine copepods to environmental warming and ocean acidification in the absence of food"
+Study Description	"Marine copepods are central to the productivity and biogeochemistry of marine ecosystems. Nevertheless, the direct and indirect effects of climate change on their metabolic functioning remain poorly understood. Here, we use metabolomics, the unbiased study of multiple low molecular weight organic metabolites, to examine how the physiology of Calanus spp. is affected by end-of-century global warming and ocean acidification scenarios. We report that the physiological stresses associated with incubation without food over a 5-day period greatly exceed those caused directly by seawater temperature or pH perturbations. This highlights the need to contextualise the results of climate change experiments by comparison to other, naturally occurring stressors such as food deprivation, which is being exacerbated by global warming. Protein and lipid metabolism were up-regulated in the food-deprived animals, with a novel class of taurine-containing lipids and the essential polyunsaturated fatty acids (PUFAs), eicosapentaenoic acid and docosahexaenoic acid, changing significantly over the duration of our experiment. Copepods derive these PUFAs by ingesting diatoms and flagellated microplankton respectively. Climate-driven changes in the productivity, phenology and composition of microplankton communities, and hence the availability of these fatty acids, therefore have the potential to influence the ability of copepods to survive starvation and other environmental stressors."
+Study Submission Date	"2014-06-08"
+Study Public Release Date	"2015-10-13"
+Study File Name	"s_MTBLS91.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomic profiling"	"Lipidomics"	"Direct Infusion Mass Spectrometry"	"Multivariate Analysis"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://scai.fraunhofer.de/CSEO#lipidomics"	""	"http://purl.bioontology.org/ontology/MESH/D015999"	""
+Study Design Type Term Source REF	"EFO"	"CSEO"	""	"MESH"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"26364855"
+Study Publication DOI	"10.1038/srep13690"
+Study Publication Author List	"More Daniel J. Mayor, Ulf Sommer, Kathryn B. Cook & Mark R. Viant"
+Study Publication Title	"The metabolic response of marine copepods to environmental warming and ocean acidification in the absence of food"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"treatment days"	"temperature"	"CO2 concentration"
+Study Factor Type	"timepoint"	"temperature"	"concentration"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0001702"	"http://purl.obolibrary.org/obo/CHMO_0002820"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"CHMO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls91_POLAR_mass_spectrometry.txt"	"a_mtbls91_NON-POLAR_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0001478"	"http://purl.obolibrary.org/obo/OBI_0001478"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ FT ULTRA (Thermo Scientific)"	"LTQ FT ULTRA (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Our fully factorial experiment compared the metabolic profiles of 10 replicate groups of 5 wild-caught Calanus spp. stage 5 copepodites (so-called ‘CVs’) acclimated to 8 °C and 10 °C in 0.2 µm filtered seawater (FSW) to those of replicate groups of CVs incubated in FSW at 8 °C or 10 °C that had been equilibrated to ambient air, containing ~380 µatm pCO2 (ambient hereafter), or air enriched to 1000 µatm pCO2, for a period of 5 days in the absence of food (6 treatment regimes, n=10 each, total n=60). CO2-enriched air was commercially produced to order (BOC Special Gases, UK). Experimental animals were collected off Stonehaven, NE Scotland (56°57.80N, 02°06.20W) on 23 May 2011 using a 1 m ring net fitted with a 250 µm mesh net and non-filtering cod-end. The percentage abundance of C. helgolandicus:C. finmarchicus was 55:45 at the time of sampling. Zooplankton were gently concentrated onto a 45 µm mesh and 60 replicate groups of 5 Calanus spp. CVs were carefully picked into FSW; 30 of these replicates were acclimated to each of the two temperature regimes in ambient FSW for 72 hrs prior to experimentation. We chose to work with CVs to ensure that eggs were not available as a potential food source during our experiment. No attempts were made to distinguish between live C. helgolandicus and C. finmarchicus (Calanus spp. hereafter) because it is not possible to reliably achieve this without inflicting severe stress and/or killing the animals. At the outset of the experiment (t0), 10 replicate groups of 5 animals from the two temperatures were individually concentrated onto a 45 µm mesh, rapidly transferred into Precellys homogenisation tubes (Stretton Scientific, UK) and flash frozen in liquid nitrogen.
+</p>
+The experimental setup was conceptually similar to that described previously[1]. Experimental animals were transferred into 500 ml egg production chambers containing FSW at the prescribed temperature and CO2 level, topped up with the appropriate FSW (ambient or 1000 µatm pCO2) and sealed with an air-tight lid to avoid CO2 out-gassing. These were incubated for 24 hrs and subsequently transferred into fresh FSW at the same temperature and CO2 level after each 24 hr incubation period for a total of 5 days. The experiment was conducted in the absence of food to simultaneously examine the effects of food deprivation. This also avoided any confounding effects of feeding differences between the treatments. At the end of the experiment (t5) animals were collected and flash frozen in liquid nitrogen as described above. All samples were stored frozen at -80 °C until analysis. The pH of the incubation water was measured at the start and end of each 24-hr period using a Hanna bench top meter (H1859) following calibration using reference standards at pH 4, 7 and 10 (Sigma, UK). Average pH values of the ambient and CO2-acidified experimental seawater were 8.09 ± 0.03 (sd) and 7.76 ± 0.08, respectively; values did not differ between the temperature treatments (F=0.616, df=1, p=0.4337) or between the start and end of each 24 hr incubation period (F=0.100, df=1, p=0.7522).
+</p>
+Ref:</br>
+[1] Mayor DJ, Matthews C, Cook K, Zuur AF, Hay S (2007) CO2-induced acidification affects hatching success in Calanus finmarchicus. Mar Ecol Prog Ser 350:91-97. doi:10.3354/meps07142.</br>"	"Metabolites were extracted from each sample, using a two-step methanol/water/chloroform protocol. In brief, 100 µl methanol (HPLC grade) and 40 µl water per copepod were added to each sample prior to homogenization using a Precellys-24 ceramic bead-based homogenizer (Stretton Scientific, UK). Thereafter, 50 µl water and 100 µl chloroform per copepod were added to each sample, which was vortexed and centrifuged (1800 rcf, 10 min, 4 ºC), yielding an upper (polar) and lower (non-polar) fraction for each sample. Each polar fraction was collected into a 1.5 ml Eppendorf tube, and the non-polar fraction into a 1.8 ml glass vial. Extraction blanks were also prepared using identical methods except that no biological material was added to the solvents. Two quality control samples were pooled from polar and nonpolar extracts, respectively. All polar samples were dried in a centrifugal concentrator (Thermo Savant, Holbrook, NY), the nonpolar samples under a stream of nitrogen gas. All samples were stored at -80 ºC prior to analysis."	"Not applicable."	"Direct infusion mass spectrometry data acquisition in the positive ion mode was performed on a LTQ-FT Ultra mass spectrometer (Thermo Fisher Scientific, Bremen, Germany) with a chip-based Advion Triversa direct infusion nanoelectrospray source (Triversa, Advion Biosciences, Ithaca, NY).  The polar extracts designated for this ion mode were each taken up in 100 µl of 0.25% formic acid in methanol/water 4:1. Samples were centrifuged (10 min, 22000 rcf, 4 ºC) to remove any particular matter. They were run in a controlled-randomized sequence different from the extraction sequence, in three technical replicates which followed each other immediately. QC samples were run in the beginning, the end, and equidistantly throughout the sequence. Data was acquired at nominal 1E5 resolution from m/z 70-590, in 7 wide SIM (selected ion monitoring) windows. Nonpolar (lipid) samples were taken up in the original volume of methanol/chloroform 3:1, containing 5 % ammonium acetate. Data were acquired in increasing SIM windows of 100 Da to 200 Da width, from m/z 120 to 1200."	"Raw mass spectral data were processed using the SIM-stitching algorithm (scripts available on request), using an in-house Matlab script."	"The data matrices were normalized using the PQN algorithm. Missing values were imputed into the resulting data matrix using the KNN algorithm via an in-house R script. This matrix would be used for univariate statistics. The matrix was transformed using the generalised logarithm to stabilise the variance across the measured peaks prior to analysis with multivariate statistics.
+</p>
+Principal components analysis (PCA) was used initially to assess the overall metabolic differences between the sample groups in an unbiased manner, using the PLS Toolbox (version 5.5.1, Eigenvector Research, Manson, WA, USA) within Matlab (version 7.8; The MathsWorks, Natick, MA, USA). The significance of any group separation along individual principal components was tested using ANOVA and Tukey posthoc tests. Partial least squares discriminant analysis (PLS-DA), a form of supervised multivariate analysis, was performed using the PLS Toolbox, with internal cross-validation (Venetian blinds). The optimal number of latent variables was determined by minimising the classification error and the significance of the predictive models using in-house MatLab scripts. Student t-tests, corrected for a 5% false discovery rate (FDR, Benjamini-Hochberg) using in-house R scripts, were used to confirm the significance of changes in individual mass spectral signals. Corrected p values are reported here as q values.
+</p>
+Signals were putatively annotated with empirical formulae calculated by the MIPack software[1], searching the KEGG[2][3] and LipidMaps[4][5] databases, and confirmed by performing calculations based on the original spectra in Xcalibur 2.0.7 (Thermo Fisher Scientific). Many signals that contributed significantly to distinguishing the metabolic profiles of individual treatment groups could not be identified by the combination of database and empirical formula searches. Consequently, further identification of selected metabolites was performed using mass spectrometry (same instrument as above). This utilised wide SIM windows and the m/z values of identified signals for additional high mass accuracy measurement of unknown signals, narrow SIM (nSIM) windows at up to 4E5 nominal resolution for the determination of isotope patterns, and MSn fragmentation using collision-induced dissociation (CID) and infrared multiphoton dissociation (IRMPD).
+</p>
+Ref:</br>
+[1] Weber, R. J. M. & Viant, M. R. MI-Pack: increased confidence of metabolite identification in mass spectra by integrating accurate masses and metabolic pathways. Chemometr. Intell. Lab. 104, 75–82 (2010).</br>
+[2] KEGG: Kyoto Encyclopedia of Genes and Genomics. Available at: www.genome.jp/kegg/download/.</br>
+[3] Kanehisa, M., Goto, S., Sato, Y., Furumichi, M. & Tanabe, M. KEGG for integration and interpretation of large-scale molecular data sets. Nucleic Acids Res. 40, D109–D114 (2012). doi: 10.1093/nar/gkr988. PMID:22080510</br>
+[4] LIPID MAPS Structural Database (LMSD). Available at: www.lipidmaps.org/resources/downloads/.</br>
+[5] Fahy, E., Sud, M., Cotter, D. & Subramaniam, S. LIPID MAPS online tools for lipid research. Nucleic Acids Res. 35, W606–W612 (2007) doi:10.1093/nar/gkm324. PMID:17584797.</br>"
+Study Protocol URI	""	"http://www.sciencedirect.com/science/article/pii/S0003269707006471"	""	"http://pubs.acs.org/doi/abs/10.1021/ac2001803"	"http://link.springer.com/article/10.1016%2Fj.jasms.2009.02.001"	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sommer"	"Mayor"	"Cook"	"Viant"
+Study Person First Name	"Ulf"	"Daniel"	"Kathryn"	"Mark"
+Study Person Mid Initials	""	"J"	""	"R"
+Study Person Email	"u.sommer@bham.ac.uk"	"dan.mayor@abdn.ac.uk"	"kathryn.cook@scotland.gsi.gov.uk"	"m.viant@bham.ac.uk"
+Study Person Phone	"01214148699"	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	"NERC Biomolecular Analysis Facility - Metabolomics Node (NBAF-B)
+School of Biosciences
+University of Birmingham
+B15 2TT
+UK"	"Institute of Biological and Environmental Sciences, Oceanlab, University of Aberdeen, Main Street, Newburgh, Aberdeenshire AB41 6AA, UK"	"Marine Scotland, Science Scottish Government, Marine Laboratory, PO Box 101, 375 Victoria Road, Aberdeen AB11 9DB, UK"	"NERC Biomolecular Analysis Facility - Metabolomics Node (NBAF-B)
+School of Biosciences
+University of Birmingham
+B15 2TT
+UK"
+Study Person Affiliation	"University of Birmingham"	"University of Aberdeen"	"Marine Scotland"	"University of Birmingham"
+Study Person Roles	"metabolomic profiling"	"treatment"	"specimen collection"	"b1641. Organization and planning"
+Study Person Roles Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/OBI_0000659"	"http://who.int/icf#b1641"
+Study Person Roles Term Source REF	"EFO"	"EFO"	"BCO"	"ICF"

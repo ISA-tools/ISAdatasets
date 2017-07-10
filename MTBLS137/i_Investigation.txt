@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"OBI"	"CHMO"	"BTO"	"NCIT"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"96"	"3"	"23"	"18"	"24"	"44"	"146"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS137"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS137"
+Study Title	"MetaDB a Data Processing Workflow in Untargeted MS-Based Metabolomics Experiments"
+Study Description	"This dataset reports the UPLC-QTof MS untargeted analysis of Vitis vinifera L. leaves, collected from Italy (Trentino) and Germany (Mecklenburg West-Pomerania), from two fungus-resistant grape varieties (PIWI), Regent and Phoenix. For each variety, 40 leaves were sampled from 10 plants (4 leaves/plant) in Italy, and other 40 with the same process in Germany. The leaves from each plant were homogenized and extracted separately, in the same day, under a randomized order. A quality control (QC) sample was prepared by pooling a small aliquot from each sample. </p> The aim of the project, was to use this sample/data set as an illustrative example for the use the pipeline MetaDB (https://github.com/rmylonas/MetaDB). MetaDB has been developed in order to combine, with a user-friendly web based, different bioinformatic tools used in metabolomics, which takes care a) metadata organization, b) creation of randomized sequences including QC sample, c) data quality evaluation, d) data storage organization, e) data analysis and f) submission to public repositories."
+Study Submission Date	"2014-11-05"
+Study Public Release Date	"2014-11-09"
+Study File Name	"s_Grape_leaves.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Training Dataset"	"software pipeline"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/OBI_0001943"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	""	"OBI"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"25566535"
+Study Publication DOI	"10.3389/fbioe.2014.00072"
+Study Publication Author List	"Pietro Franceschi, Roman Mylonas, Nir Shahaf, Matthias Scholz, Panagiotis Arapitsas, Domenico Masuero, Georg Weingart, Silvia Carlin, Urska Vrhovsek, Fulvio Mattivi, Ron Wehrens"
+Study Publication Title	"The data processing workflow in untargeted MS-based metabolomics experiments"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Variety"	"Country"
+Study Factor Type	"cultivar"	"Country"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005136"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25464"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_grape_leaves_metabolite profiling_mass spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Grape leaves were obtained from Regent and Phoenix varieties cultivated at experimental vineyards in Rattey (Mecklenburg West-Pomerania, North Germany) and San Michele all´Adige (Trentino, North Italy). Adult, undamaged, and healthy leaves from above the grape main zone were sampled at the development stage of the berries when the grape had ~70% of their size. For each variety/country condition, 4 leaves (not growing any more) per plant were collected, from 10 plants, from the same insertion level. The leaves from each plant were pooled together, frozen immediately in liquid nitrogen and stored at -80 °C, until analysis. The sampling was made for both countries in July 2012, and German samples were packed in dry ice and shipped to Italy within 24 hr."	"All four leaves of each biological replicate were grounded together under nitrogen into a fine homogeneous powder by using mortar and pestle, and then the powder was transferred into falcon tubes and stored at -80 °C until further treatment. 0.5 g of each sample was then weighed into 15 ml amber vials and 50 µl of the internal standard (IS) o-coumaric acid (2 mg/ml MeOH), 1.2 ml of H2O:CH3OH (1:2) and 0.8 ml of CHCl3 were then added. The extraction mixture was vortexed for 1 min, sonicated for 10 min, shaken for 15 min at room temperature using an orbital shaker (Grant-Bio Rotator PTR-60) and centrifuged at 4 °C and 1000 x g for 10 min. 1.5 ml of the upper aqueous methanolic phase was filtered into LC-MS certificated vials through a 0.2 µm filter and analyzed. To avoid bias, the extractions were performed according to a randomized sequence using the sequence calculation platform “www.randomization.org” [1]. QC samples were obtained by mixing an aliquot of the powder obtained from the different samples.
+</p>
+Ref:</br>
+[1] Ehrhardt C, Arapitsas P, Stefanini M, Flick G, Mattivi F. Analysis of the phenolic composition of fungus-resistant grape varieties cultivated in Italy and Germany using UHPLC-MS/MS. J Mass Spectrom. 2014 Sep;49(9):860-9. PMID:25230183</br>"	"A Waters Acquity UPLC (Waters, Manchester, UK) controlled by MassLynx 4.1 was used. All samples were analysed on a reverse phase (RP) ACQUITY UPLC 1.8 µm, 2.1 x 150 mm HSS T3 column (Waters) protected with an Acquity UPLC® BEH HSS T3 1.8 µm, 2.1 x 5 mm precolumn (Waters), at 40 °C and under a mobile phase flow rate of 0.28 ml/min. Water was used as weak eluting solvent (A) and methanol as strong eluting solvent (B); formic acid 0.1% v/v was used as additive in both eluents. The multistep linear gradient used was as follows: 0-1 min, 100% A isocratic; 1-3 min, 100-90% A; 3-18 min, 90-60% A; 18-21 min, 60-0% A; 21-25.5 min, 0% A isocratic; 25.5-25.6 min, 0-100% A; 25.6-28 min 100% isocratic. Injection volume was 10 µl, and the samples were kept at 4 °C throughout the analysis [1].
+</p>
+Ref:</br>
+[1] Arapitsas P, Speri G, Angeli A, Perenzoni D, Mattivi F. The influence of storage on the “chemical age” of red wines. Metabolomics. Oct 2014, 10(5), 816-832.</br>"	"The Waters Acquity UPLC was coupled via an electrospray ionization (ESI) interface to a Synapt HDMS QTOF MS (Waters, Manchester, UK) operating in W-mode and controlled by MassLynx 4.1 was used. Mass spectrometric data were collected in positive ESI mode over a mass range of 50 to 2000 amu with scan duration of 0.3 s in centroid mode. The transfer collision energy and trap collision energy were set at 6 V and 4 V respectively. The source parameters were set as follows: capillary 3 kV, sampling cone 25 V, extraction cone 3 V, source temperature 150 ºC, desolvation temperature 500 ºC, desolvation gas flow 1000 l/h and nebulizer gas 50 l/h. External calibration of the instrument was performed at the beginning of each batch of analysis by direct infusion of a sodium formate solution (10% formic acid/0.1 M NaOH/Acetonitrile at a ratio of 1/1/8), controlling the mass accuracy from 40 to 2000 m/z (less than 5 ppm) and mass resolution (over 14000 FWHM). LockMass calibration was applied using a solution of leucine enkephaline (0.5 mg/l, m/z 556.2771) at 0.1 ml/min [1].
+</p>
+Ref:</br>
+[1] Arapitsas P, Speri G, Angeli A, Perenzoni D, Mattivi F. The influence of storage on the “chemical age” of red wines. Metabolomics. Oct 2014, 10(5), 816-832.</br>"	"MS Data Acquisition, Conversion, and Storage:</br>
+The ISA-Tab file was uploaded to the metaDB web-interface to prepare the randomized sample list. The analytical sequence has the following pattern: at the beginning, there is 1 Blank, 1 chemical standard mix, followed by repetition of 4 samples, 1 StdMix until there are no samples left. The acquisition sequence was then exported as a comma separated version (CSV) file and directly imported into MassLynx (Waters Corporation) to set up the acquisition run. After the analytical run, the raw data were converted to CDF by using the Databridge conversion software included in Masslynx (Waters Corporation). The raw data and their converted version were uploaded to the final storage space through MetaDB.
+</p>
+Data Processing:</br>
+Once extracted files were added (indicated by a blue “processed”), they were selected in the web-interface and analyzed using metaMS. All runs apart from the blank injections and the standard mixtures were selected. The data with retention times lower than 1 min and higher than 21 min were disregarded, annotation was not performed. The data were preprocessed with a set of parameters optimized for the specific chromatographic and instrumental conditions. The specific settings are included in the test virtual machine."	"No metabolites were searched for or extracted from the data."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Arapitsas"	"Mylonas"	"Franceschi"	"Wehrens"
+Study Person First Name	"Panagiotis"	"Roman"	"Pietro"	"Ron"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"panagiotis.arapitsas@fmach.it"	"roman.mylonas@fmach.it"	"pietro.franceschi@fmach.it"	"ron.wehrens@wur.nl"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"Fondazione E. Mach"	"Fondazione E. Mach"	"Fondazione E. Mach"	"Fondazione E. Mach"
+Study Person Roles	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

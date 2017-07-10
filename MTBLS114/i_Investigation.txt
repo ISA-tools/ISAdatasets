@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"BTO"	"CHEBI"	"EFO"	"CHMO"	"UO"	"OBI"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"28"	"2"	"22"	"80"	"113"	"5"	"42"	"22"	"6"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS114"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS114"
+Study Title	"Nuclear Magnetic Resonance-Based Blood Metabolic Profiles of Rats Exposed to Short-Term Caloric Restriction"
+Study Description	"Caloric restriction increases life-span of a number of organisms. The relationship between the increase in life-span and the extent of caloric restriction, however, varies among species. The underlying mechanisms are yet unknown, but appear to be related to changes in metabolism. In order to investigate the metabolic response of caloric restriction of rats, here is presented the first nuclear magnetic resonance (NMR) spectroscopy-based study of how blood metabolite profiles are influenced by graded levels of caloric restriction. The study involved three groups of obese rats exposed to 0, 20, and 40% caloric restriction for five days. Blood serum from each individual was analyzed by 1H NMR and the resulting spectra were subjected to multivariate analysis by unsupervised principal component analysis and supervised orthogonal-partial least square discriminant analysis. The analyzes revealed that a response to caloric restriction was present at 20% caloric restriction. The metabolites that distinguished the profiles at 20% restriction deviated from those at 40% restriction. The changes induced by caloric restriction were most clearly observed as an increased level of 3-hydroxybutyrate, and decreased levels of lipids and pyruvate. The metabolic responses of rats exposed to caloric restriction are in good agreement with a switch in metabolism from anabolic pathways towards fatty acid catabolism and gluconeogenesis, which is consistent with previous observations for mice."
+Study Submission Date	"2014-09-05"
+Study Public Release Date	"2014-09-05"
+Study File Name	"s_CR rat.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Caloric Restriction"	"nuclear magnetic resonance spectroscopy"	"Exogenous Obesity"
+Study Design Type Term Accession Number	""	"http://purl.bioontology.org/ontology/MESH/D031204"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120380"
+Study Design Type Term Source REF	""	"MESH"	"CHMO"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1080/00032719.2015.1041028"
+Study Publication Author List	"Nestor G, Eriksson J, Sandstr�m C, Malml�f K"
+Study Publication Title	"NMR-based Blood Metabolic Profiles of Rats Exposed to Different Levels of Short Term Caloric Restriction"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Caloric restriction"
+Study Factor Type	"Percentage"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25613"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_cr_rat_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Diet-induced obesity was established in 13 month old female Wistar rats (Scanbur AB, Sollentuna, Sweden) by providing free access to a high energy diet for three months as previously described [1]. Water was freely available at all times. The rats were subjected to a 12/12 hr light/dark regime, and the room temperature was held between 20 and 23 °C. The rats were later randomly allocated to one of two groups (n = 5), receiving 20 or 40% caloric restriction. Food rations were calculated from the baseline food consumption prior to the restriction period. A third group (n = 5) continued to receive food in unrestricted amounts (0% caloric restriction) and served as controls. Caloric restriction was sustained for five days after which the rats were decapitated. Blood serum was prepared by allowing blood to clot before being centrifuged at 5000 rpm for 20 min. Serum was stored at -80 °C until analysis.
+</p>
+Ref:</br>
+[1] Malmlof, K., N. Din, T. Johansen, and S. B. Pedersen. 2002. Growth hormone affects both adiposity and voluntary food intake in old and obese female rats. European Journal of Endocrinology 146: 121–28. doi:10.1530/eje.0.1460121</br>"	"Not applicable to this study."	"Blood serum was centrifuged and the supernatant (200 µl) was mixed with D2O (400 µl)."	"The samples were analyzed on a Bruker 400 MHz spectrometer using a 5-mm 1H/13C/15N/31P QNP probe at 25 °C."	"The water suppressed spin-echo Carr-Purcell-Meiboom-Gill (CPMG) pulse sequence (relaxation delay-90-(t-180-t)n-acquire) was used to allow attenuation of broad signals from macromolecules, with a total CPMG time of 105 ms (n = 128). Spectra were recorded using 512 transients with 32k data points and a spectral width of 6410 Hz. Water suppression was achieved by irradiation during the relaxation delay of 3 s."	"All spectra were processed with Topspin 2.0 (Bruker). A zero-filling factor of 2 and a line-broadening of 0.5 Hz were applied to the spectra. Phasing was done automatically, followed by manual phasing if necessary, and baseline correction was automatically performed by subtraction of a polynomial of 5th degree. The signal of the anomeric proton of alpha-glucose was used as a reference (delta 5.233 ppm)."	"Spectral signals were assigned by comparison of chemical shifts with values from the literature ([1][2][3][4] and from the Chenomx library (Chenomx NMR Suite 7.5, Chenomx Inc., Alberta, US). In order to support the assignment of metabolite signals, 1H,1H-TOCSY (total correlation spectroscopy) and 1H,13C- HSQC (heteronuclear single-quantum coherence) were run on selected samples, which were then fortified with expected metabolites. DOSY (diffusion ordered spectroscopy) experiments were performed to differentiate signals from lipoproteins of different sizes [4][5].
+</p>
+Ref:</br>
+[1] Bell, J. D., J. C. C. Brown, J. K. Nicholson, and P. J. Sadler. 1987. Assignment of resonances for ‘acute-phase’ glycoproteins in high resolution proton NMR spectra of human blood plasma. FEBS Letters 215: 311–15. doi:10.1016/0014-5793(87)80168-0</br>
+[2] Grootveld, M., A. W. D. Claxson, C. L. Chander, P. Haycock, D. R. Blake, and G. E. Hawkes. 1993. High resolution proton NMR investigations of rat blood plasma – Assignment of resonances for the molecularly mobile carbohydrate side-chains of ‘acute-phase’ glycoproteins. FEBS Letters 322: 266–76. doi:10.1016/0014-5793(93)81584-M</br>
+[3] Nicholson, J. K., P. J. D. Foxall, M. Spraul, R. D. Farrant, and J. C. Lindon. 1995. 750 MHz 1H and 1H-13C NMR spectroscopy of human blood plasma. Analytical Chemistry 67: 793–811. doi:10.1021/ac00101a004</br>
+[4] Liu, M. L., H. R. Tang, J. K. Nicholson, and J. C. Lindon. 2002. Use of 1H NMR-determined diffusion coefficients to characterize lipoprotein fractions in human blood plasma. Magnetic Resonance in Chemistry 40: S83–88. doi:10.1002/mrc.1121</br>
+[5] Smith, L. M., A. D. Maher, O. Cloarec, M. Rantalainen, H. Tang, P. Elliott, J. Stamler, J. C. Lindon, E. Holmes, and J. K. Nicholson. 2007. Statistical correlation and projection methods for improved information recovery from diffusion-edited NMR spectra of biological samples. Analytical Chemistry 79: 5682–89. doi:10.1021/ac0703754</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Nestor"
+Study Person First Name	"Gustav"
+Study Person Mid Initials	""
+Study Person Email	"gustav.nestor@slu.se"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""
