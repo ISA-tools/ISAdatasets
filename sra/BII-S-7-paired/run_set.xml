@@ -1,0 +1,250 @@
+<?xml version="1.0" ?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://ftp.sra.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+	<RUN alias="BII-S-7:assay:EXP14" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP14"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="17BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP10" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP10"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="12BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP15" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP15"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="1EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="1EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP22" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP22"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="11EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="11EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP8" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP8"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="10BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP26" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP26"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="18EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="18EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP3" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="4BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP23" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP23"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="12EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="12EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP16" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP16"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="2EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="2EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP13" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP13"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="16BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP25" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP25"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="17EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="17EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP6" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP6"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="8BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP7" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP7"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="9BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP11" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP11"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="13BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP24" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP24"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="13EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="13EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP27" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP27"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="19EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="19EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP19" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP19"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="6EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="6EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP17" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP17"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="3EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="3EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP28" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP28"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="20EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="20EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP4" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="6BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP9" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP9"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="11BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP18" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP18"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="5EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="5EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP5" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="7BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP21" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP21"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="10EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="10EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP2" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="3BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP29" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP29"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="21EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="21EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP12" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP12"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="15BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP20" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP20"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="8EU-1.sff" filetype="sff"/>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="8EU-2.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="BII-S-7:assay:EXP1" broker_name="" center_name="OXFORD">
+		<EXPERIMENT_REF refname="BII-S-7:generic_assay:a_matteo-assay-Gx:EXP1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE checksum="00000000000000000000000000000000" checksum_method="MD5" filename="2BF.sff" filetype="sff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+</RUN_SET>
