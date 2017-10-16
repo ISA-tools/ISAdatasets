@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT request="SRA108974&amp;display=xml">
+<SUBMISSION alias="Homo sapiens Genome sequencing" lab_name="Quake lab" center_name="Stanford University" accession="SRA108974" broker_name="NCBI">
+     <IDENTIFIERS>
+          <PRIMARY_ID>SRA108974</PRIMARY_ID>
+          <SUBMITTER_ID namespace="Stanford University">Homo sapiens Genome sequencing</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <TITLE>Submitted by Stanford University on 26-NOV-2013</TITLE>
+     <SUBMISSION_LINKS>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-STUDY</DB>
+                    <ID>SRP032345</ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-SAMPLE</DB>
+                    <ID>SRS494979-SRS495064,SRS495066-SRS495320,SRS495322-SRS495494,SRS495496-SRS495499,SRS495501,SRS495504-SRS495640</ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-EXPERIMENT</DB>
+                    <ID>SRX369453-SRX369538,SRX369540-SRX369589,SRX369591-SRX369593,SRX369595,SRX369597-SRX369794,SRX369798-SRX369975,SRX369981-SRX369999,SRX370001-SRX370117,SRX377934-SRX377937</ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-RUN</DB>
+                    <ID>SRR1024346-SRR1024411,SRR1024414-SRR1024472,SRR1024475-SRR1025001,SRR1030286-SRR1030289</ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-FASTQ-FILES</DB>
+                    <ID><![CDATA[http://www.ebi.ac.uk/ena/data/warehouse/filereport?accession=SRA108974&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+          <SUBMISSION_LINK>
+               <XREF_LINK>
+                    <DB>ENA-SUBMITTED-FILES</DB>
+                    <ID><![CDATA[http://www.ebi.ac.uk/ena/data/warehouse/filereport?accession=SRA108974&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+               </XREF_LINK>
+          </SUBMISSION_LINK>
+     </SUBMISSION_LINKS>
+     <SUBMISSION_ATTRIBUTES>
+          <SUBMISSION_ATTRIBUTE>
+               <TAG>ENA-SPOT-COUNT</TAG>
+               <VALUE>16561630458</VALUE>
+          </SUBMISSION_ATTRIBUTE>
+          <SUBMISSION_ATTRIBUTE>
+               <TAG>ENA-BASE-COUNT</TAG>
+               <VALUE>1425087755143</VALUE>
+          </SUBMISSION_ATTRIBUTE>
+     </SUBMISSION_ATTRIBUTES>
+</SUBMISSION>
+</ROOT>
