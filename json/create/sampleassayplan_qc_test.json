@@ -1,0 +1,22 @@
+{
+    "group_size": 20,
+    "assay_plan": [],
+    "sample_plan": [
+        {
+            "sample_type": "liver",
+            "sampling_size": 3
+        },
+        {
+            "sample_type": "tissue",
+            "sampling_size": 5
+        }
+    ],
+    "sample_qc_plan": [
+        {
+            "sample_type": "water",
+            "injection_interval": 8
+        }
+    ],
+    "assay_types": [],
+    "sample_types": ["liver", "tissue", "water"]
+}

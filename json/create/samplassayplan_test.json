@@ -1,0 +1,71 @@
+{
+    "sample_types": ["liver", "tissue", "water"],
+    "group_size": 20,
+    "sample_plan": [
+        {
+            "sampling_size": 3,
+            "sample_type": "liver"
+        },
+        {
+            "sampling_size": 5,
+            "sample_type": "tissue"
+        }
+    ],
+    "sample_qc_plan": [
+        {
+            "injection_interval": 8,
+            "sample_type": "water"
+        }
+    ],
+    "assay_types": [
+        {
+            "topology_modifiers": {
+                "distinct_libraries": 0,
+                "technical_replicates": 2,
+                "acquisition_modes": ["negative", "positive"],
+                "instruments": ["Agilent QTOF"],
+                "injection_modes": ["GC", "LC"],
+                "array_designs": ["A-AFFY-27", "A-AFFY-28"],
+                "pulse_sequences": [],
+                "chromatography_instruments": ["Agilent Q12324A"]
+            },
+            "technology_type": "DNA microarray",
+            "measurement_type": "genome sequencing"
+        }],
+    "assay_plan": [
+        {
+            "sample_type": "liver",
+            "assay_type": {
+                "topology_modifiers": {
+                    "distinct_libraries": 0,
+                    "technical_replicates": 2,
+                    "acquisition_modes": ["negative", "positive"],
+                    "instruments": ["Agilent QTOF"],
+                    "injection_modes": ["GC", "LC"],
+                    "array_designs": ["A-AFFY-27", "A-AFFY-28"],
+                    "pulse_sequences": [],
+                    "chromatography_instruments": ["Agilent Q12324A"]
+                },
+                "technology_type": "DNA microarray",
+                "measurement_type": "genome sequencing"
+            }
+        },
+        {
+            "sample_type": "tissue",
+            "assay_type": {
+                "topology_modifiers": {
+                    "distinct_libraries": 0,
+                    "technical_replicates": 2,
+                    "acquisition_modes": ["negative", "positive"],
+                    "instruments": ["Agilent QTOF"],
+                    "injection_modes": ["GC", "LC"],
+                    "array_designs": ["A-AFFY-27", "A-AFFY-28"],
+                    "pulse_sequences": [],
+                    "chromatography_instruments": ["Agilent Q12324A"]
+                },
+                "technology_type": "DNA microarray",
+                "measurement_type": "genome sequencing"
+            }
+        }
+    ]
+}
