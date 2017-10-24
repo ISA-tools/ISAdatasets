@@ -5,7 +5,14 @@
             "treatment": {
                 "factorValues": [
                     {
-                        "factor": "AGENT",
+                        "factor": {
+                            "factorName": "AGENT",
+                            "factorType": {
+                                "annotationValue": "perturbation agent",
+                                "termSource": null,
+                                "termAccession": ""
+                            }
+                        },
                         "value": "calpol"
                     }
                 ],
@@ -17,7 +24,14 @@
             "treatment": {
                 "factorValues": [
                     {
-                        "factor": "AGENT",
+                        "factor": {
+                            "factorName": "AGENT",
+                            "factorType": {
+                                "annotationValue": "perturbation agent",
+                                "termSource": null,
+                                "termAccession": ""
+                            }
+                        },
                         "value": "no agent"
                     }
                 ],
