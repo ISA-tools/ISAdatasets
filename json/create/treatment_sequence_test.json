@@ -1,27 +1,27 @@
 {
-    "ranked_treatments": [
+    "rankedTreatments": [
         {
             "rank": 1,
             "treatment": {
-                "factor_values": [
+                "factorValues": [
                     {
                         "factor": "AGENT",
                         "value": "calpol"
                     }
                 ],
-                "treatment_type": "chemical intervention"
+                "treatmentType": "chemical intervention"
             }
         },
         {
             "rank": 1,
             "treatment": {
-                "factor_values": [
+                "factorValues": [
                     {
                         "factor": "AGENT",
                         "value": "no agent"
                     }
                 ],
-                "treatment_type": "chemical intervention"
+                "treatmentType": "chemical intervention"
             }
         }
     ]
