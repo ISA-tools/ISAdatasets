@@ -5,7 +5,7 @@
             "treatment": {
                 "factorValues": [
                     {
-                        "factor": {
+                        "category": {
                             "factorName": "AGENT",
                             "factorType": {
                                 "annotationValue": "perturbation agent",
@@ -24,7 +24,7 @@
             "treatment": {
                 "factorValues": [
                     {
-                        "factor": {
+                        "category": {
                             "factorName": "AGENT",
                             "factorType": {
                                 "annotationValue": "perturbation agent",
