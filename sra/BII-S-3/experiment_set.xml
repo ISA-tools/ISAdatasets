@@ -16,22 +16,7 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
+
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -55,22 +40,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -94,22 +63,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -133,22 +86,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -172,22 +109,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -211,22 +132,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -250,22 +155,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -289,22 +178,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -328,22 +201,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -367,22 +224,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -406,22 +247,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -445,22 +270,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -484,22 +293,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -523,22 +316,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -562,22 +339,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -601,22 +362,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -640,22 +385,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -679,22 +408,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -718,22 +431,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -757,22 +454,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -796,22 +477,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -835,22 +500,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -874,22 +523,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -913,22 +546,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -952,22 +569,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -991,22 +592,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -1030,22 +615,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -1069,22 +638,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -1108,22 +661,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
@@ -1147,22 +684,6 @@
         </LIBRARY_LAYOUT>
         <LIBRARY_CONSTRUCTION_PROTOCOL/>
       </LIBRARY_DESCRIPTOR>
-      <SPOT_DESCRIPTOR>
-        <SPOT_DECODE_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>0</READ_INDEX>
-            <READ_CLASS>Technical Read</READ_CLASS>
-            <READ_TYPE>Adapter</READ_TYPE>
-            <BASE_COORD>1</BASE_COORD>
-          </READ_SPEC>
-          <READ_SPEC>
-            <READ_INDEX>1</READ_INDEX>
-            <READ_CLASS>Application Read</READ_CLASS>
-            <READ_TYPE>Forward</READ_TYPE>
-            <BASE_COORD>5</BASE_COORD>
-          </READ_SPEC>
-        </SPOT_DECODE_SPEC>
-      </SPOT_DESCRIPTOR>
     </DESIGN>
     <PLATFORM>
       <LS454>
