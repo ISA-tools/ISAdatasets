@@ -1,0 +1,122 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"OBI"	"NCBITAXON"	"EFO"	"CHMO"	"BTO"	"NCIT"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	
+Term Source Version	"103"	"23"	"4"	"132"	"16"	"26"	"40"	
+Term Source Description	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	
+INVESTIGATION
+Investigation Identifier	"MTBLS30"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS30"
+Study Title	"Tissue- and Pathway-Specific Metabolomic Profiles of the Steroid Receptor Coactivator (SRC) family"
+Study Description	"The rapidly growing family of coregulators of nuclear receptors includes coactivators that promote transcription and corepressors that harbor the opposing function. In recent years, coregulators have begun to emerge as important regulators of metabolic homeostasis, including the p160 Steroid Receptor Coactivator (SRC) family. Members of the SRC family have been ascribed important roles in control of gluconeogenesis in liver and fatty acid oxidation in skeletal muscle. To provide a deeper and more granular understanding of the metabolic impact of SRC family members, we have performed targeted metabolomics analysis of key metabolic byproducts of glucose, fatty acid, and amino acid metabolism in mice with global knockout of SRC-1, SRC-2, or SRC-3. We measured amino acids, acyl carnitines, and organic acids in five tissues with key metabolic functions (liver, heart, skeletal muscle, brain, plasma) isolated from SRC-1, -2, or -3 knockout mice and their wild-type littermates in the fed and fasted conditions, thereby unveiling unique metabolic functions of each SRC coactivator. Overall, we observed entire groups or subgroups of metabolites belonging to discrete metabolic pathways that were influenced in different tissues and/or feeding states due to ablation of individual SRC isoforms. Surprisingly, we identified very few metabolites that changed universally across the three SRC knockout models. These findings demonstrate that coactivator function has very limited redundancy even within the homologous SRC coactivator family. Furthermore, this work also demonstrates the use of metabolomics as a means for identifying novel metabolic regulatory functions of transcriptional coregulators."
+Study Submission Date	"2013-02-08"
+Study Public Release Date	"2013-04-10"
+Study File Name	"s_York_SRC_metabolomics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"p160 Steroid Receptor Coactivator (SRC) family"	"SRC knockout models"	"Transcriptional coregulators"	"gas chromatography-mass spectrometry"	"flow-injection analysis"	"tandem mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	""	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHMO_0002891"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""
+Study Design Type Term Source REF	""	""	""	"CHMO"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"23315938"
+Study Publication DOI	"10.1210/me.2012-1324"
+Study Publication Author List	"York B, Sagen JV, Tsimelzon A, Louet JF, Chopra AR, Reineke EL, Zhou S, Stevens RD, Wenner BR, Ilkayeva O, Bain JR, Xu J, Hilsenbeck SG, Newgard CB, O'Malley BW."
+Study Publication Title	"Research resource: tissue- and pathway-specific metabolomic profiles of the steroid receptor coactivator (SRC) family."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"tissue source"	"feeding"	"replicate"
+Study Factor Type	"genotype"	"Tissue"	"Feeding"	"technical replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88198"	"http://www.ebi.ac.uk/efo/EFO_0002090"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_york_src_GC_mass_spectrometry.txt"	"a_york_src_FIA_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"TSQ Quantum GC (Thermo Scientific)"	"Quattro micro API (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All animal experiments were performed according to protocols approved by the Animal Care Research Committee at Baylor College of Medicine. Generation of the SRC-1, SRC-2, and SRC-3 KO mice. SRC-1 KO was maintained in a pure C57BL/6J genetic background, whereas SRC-2 and SRC-3 KO mice were maintained in a hybrid C57BL/6J/129 SV genetic background due to breeding issues of these two lines on a pure C57BL/6J background. Only male, age-matched littermates (10-16 weeks old) mice were used in these studies. Animals were maintained in a temperature controlled (23 °C) facility with a 12-hr light/dark cycle. Mice were fed 2920X Teklad Global rodent chow, and then studied either in the ad libitum fed state or following removal of food for 24 hr with free access to water. After fasting or ad libitum feeding, mice were weighed, and body temperature was measured using a digital rectal thermometer. Blood glucose was measured with using a hand-held glucometer (One Touch Ultra, Lifescan)."	"Plasma Isolation:</br>
+Whole blood was collected and transferred into a pre-chilled microcentrifuge tube containing 10 ml of 0.5 M EDTA (pH 8.0) for isolation of EDTA-plasma, which was transferred to a clean microcentrifuge tube and stored at -80 ºC.
+</p>
+Tissue Preparation:</br>
+Frozen pieces of mouse liver, heart, skeletal muscle and whole brain tissue was pulverized with a liquid nitrogen-chilled 3 lb sledgehammer. The resulting pulverized tissue (~130 mg) was placed into a pre-chilled 14 ml tube, followed by the addition of 1.17 ml of pre-chilled HPLC-grade water. For cardiac tissue, frozen pieces of heart were pulverized as described above followed by the addition of pre-chilled 50% aqueous acetonitrile containing 0.3% formic acid. All samples were then homogenized on ice using a Polytron homogenizer. An aliquot of each homogenized tissue was used to perform a BCA protein concentration assay to normalize the resulting metabolites to total protein. The remainder of the homogenate was used to perform metabolomic profiling."	"Gas chromatography:</br>
+Organic acids were measured using stable isotope dilution techniques. They were quantified using a previously described method[1][2] using Trace GC Ultra operating under the manufacturer's software, Excalibur 1.4(Thermo Fisher Scientific, Austin, TX). For each tissue, 7 organic acids (TCA cycle intermediates and related analytes) were measured in liver, heart, skeletal muscle, and brain.
+</p>
+Flow Injection Analysis:</br>
+Amino acids and acyl carnitines were measured using stable isotope dilution techniques. A model 2777 auto-sampler injected these entities into a model 1525 µ HPLC solvent delivery system under a data system controlled MassLynx 4.0 operating system (Waters, Milford, MA). For each tissue, 16 amino acids (TCA cycle intermediates and related analytes) were measured in liver, heart, skeletal muscle, brain, and EDTA-plasma. The numbers of acyl carnitine species analyzed for each tissue varied from tissue to tissue as some species of acyl carnitines are not detectable in all tissues. More specifically, 45 common acyl carnitine species were measured in liver, brain and plasma, respectively. A total of 52 acyl carnitines were measured in heart, while 55 were analyzed in skeletal muscle.
+</p>
+Ref: </br>
+[1] Ferrara CT, Wang P, Neto EC, Stevens RD, Bain JR, Wenner BR, Ilkayeva OR, Keller MP, Blasiole DA, Kendziorski C, Yandell BS, Newgard CB, Attie AD. Genetic networks of liver metabolism revealed by integration of metabolic and transcriptional profiling. PLoS Genet. 2008 Mar 14;4(3):e1000034. PMID:18369453</br>
+[2] Jensen MV, Joseph JW, Ilkayeva O, Burgess S, Lu D, Ronnebaum SM, Odegaard M, Becker TC, Sherry AD, Newgard CB. Compensatory responses to pyruvate carboxylase suppression in islet beta-cells. Preservation of glucose-stimulated insulin secretion. J Biol Chem. 2006 Aug 4;281(31):22342-51. PMID:16740637</br>"	"GC/MS:</br>
+Organic acids were analysed using a Trace DSQ MS operating under the manufacturer's software, Excalibur 1.4 (Thermo Fisher Scientific, Austin, TX). All MS analyses employed stable-isotope dilution.
+</p>
+FIA-MS/MS:</br>
+Amino acids and acyl carnitine species were measured using flow injection tandem mass spectrometry and sample preparation methods described previously[1]. Data was acquired using a Micromass Quattro micro TM system under a data system controlled by MassLynx 4.0 operating system (Waters, Milford, MA).
+</p>
+Ref: </br>
+[1] An J, Muoio DM, Shiota M, Fujimoto Y, Cline GW, Shulman GI, Koves TR, Stevens R, Millington D, Newgard CB. Hepatic expression of malonyl-CoA decarboxylase reverses muscle, liver and whole-animal insulin resistance. Nat Med. 2004 Mar;10(3):268-74. PMID:14770177</br>"	"Addition of clusters of internal standards specific to the amino acid, organic acid, and acyl carnitine analyte “modules” facilitates identification of each analyte peak, and provides the reference for quantifying their levels. The stable-isotope internal standards used were obtained from Isotec (St. Louis, MO), Cambridge Isotope Laboratories (Andover, MA), and CDN Isotopes (Pointe-Claire, Quebec, CN), and a complete list of standards has been published previously[1]. In addition to mass, analytes are identified on the basis of the particular MS/MS transitions monitored for each class of metabolites.
+</p>
+Ref: </br>
+[1] An J, Muoio DM, Shiota M, Fujimoto Y, Cline GW, Shulman GI, Koves TR, Stevens R, Millington D, Newgard CB. Hepatic expression of malonyl-CoA decarboxylase reverses muscle, liver and whole-animal insulin resistance. Nat Med. 2004 Mar;10(3):268-74. PMID:14770177</br>"	"Tissue-specific mass spectrometry-based metabolomic analyses of brain, liver, skeletal muscle, heart and plasma amino acids, organic acids and acyl carnitines (AC) from SRC-1, SRC-2 and SRC-3 wild-type (WT) and knockout (KO) male mice (N = 5 each genotype) were analyzed using BRB ArrayTools (http://linus.nci.nih.gov/BRB-ArrayTools.html) and S+ Array Analyzer (http://www.solutionmetrics.com.au/support/ArrayAnalyzer/default.html).
+</p>
+A two-way ANOVA was performed to compare the effects of feeding (fed vs. fasted), genotype (KO vs. WT), and the interaction between feeding and genotype across each set of metabolites. To compare only the effects of genotype for fasted and for fed mice separately, an ANOVA analysis with contrasts of each set of metabolites was performed. We used the Benjamini and Hochberg method for estimation of FDR (False Discovery Rate)[1]. The cut-offs for differentially expressed metabolites was FDR = 0.1. Zero values observed in the raw data were considered as missing. Metabolites with more than 10% missing data have been excluded from the analysis. Raw data values were log-transformed prior to analysis to establish distributions closer to the Gaussian. The total number of metabolites analyzed for each tissue was the following: plasma = 60; liver = 67; muscle = 77; brain = 67; heart = 74. The results are presented as heat maps and Venn diagrams. Heat maps were generated using dChip (www.dchip.org).
+</p>
+Standardized z-scores of the log2-transformed values were used for heat maps of raw data with blue representing low z-score values and red representing high z-score values, respectively. The results of two-way ANOVA analyses were represented as heat maps, where blue indicates that the Fed group is significantly lower than Fast, or KO is significantly lower than WT; red represents the significant increase of Fed vs. Fast, or KO vs. WT. Pink indicates significant statistical interactions. ANOVA with contrasts results are represented as heat maps, where red indicates that KO is significantly higher than WT, and blue indicates that KO is significantly lower than WT. Graphical representations of raw data are also presented as the average of the sum (S) of all a particular class of metabolite for each group of mice of a given genotype ± standard error mean (s.e.m.) as indicated. Standard statistical comparison of different groups with Gaussian distribution was carried out using two-tailed unpaired Student’s t test. Differences of P = 0.05 were considered statistically significant. For all mice studies, the experimental number used is indicated in each figure legend.
+</p>
+Ref:</br>
+[1] Benjamini Y, and Hochberg Y. Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing. Journal of the Royal Statistical Society. Series B (Methodological) Vol. 57, No. 1 (1995), pp. 289-300.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Newgard"	"O'Malley"	"York"
+Study Person First Name	"Christopher"	"Bert"	"Brian"
+Study Person Mid Initials	"B"	"W"	""
+Study Person Email	"newga002@mc.duke.edu"	"berto@bcm.edu"	"york@bcm.edu"
+Study Person Phone	""	""	"719-798-1478"
+Study Person Fax	""	""	"713-790-1275"
+Study Person Address	""	"One Baylor Plaza Houston, TX 77030"	"One Baylor Plaza Houston, TX 77030"
+Study Person Affiliation	"Sarah W. Stedman Nutrition and Metabolism Center; Duke University School of Medicine"	"Molecular and Cellular Biology; Baylor College of Medicine"	"Molecular and Cellular Biology; Baylor College of Medicine"
+Study Person Roles	"principal investigator"	"principal investigator"	"first author"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""
