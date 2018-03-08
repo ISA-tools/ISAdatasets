@@ -208,12 +208,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EXHS9OF02.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay4.1",
@@ -303,12 +298,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EWOEPZA01.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay1",
@@ -398,12 +388,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EX398L101.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay4.2",
@@ -430,12 +415,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EXHS9OF01.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay3.1",
@@ -465,12 +445,7 @@
               "executesProtocol": {
                 "@id": "#protocol/library_construction"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EWOEPZA02.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "outputs": [],
@@ -530,12 +505,7 @@
               "executesProtocol": {
                 "@id": "#protocol/library_construction"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EX398L102.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "outputs": [],
@@ -573,12 +543,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EWOEPZA02.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay2",
@@ -608,12 +573,7 @@
               "executesProtocol": {
                 "@id": "#protocol/library_construction"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EWOEPZA01.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "outputs": [],
@@ -670,12 +630,7 @@
               "executesProtocol": {
                 "@id": "#protocol/pyrosequencing_-_standard_procedure_6"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EX398L102.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "name": "assay3.2",
@@ -705,12 +660,7 @@
               "executesProtocol": {
                 "@id": "#protocol/library_construction"
               },
-              "comments": [
-                {
-                  "name": "TraceDB",
-                  "value": "ftp://ftp.ncbi.nih.gov/pub/TraceDB/ShortRead/SRA000266/EX398L101.sff"
-                }
-              ],
+              "comments": [],
               "date": "",
               "performer": "",
               "outputs": [],
