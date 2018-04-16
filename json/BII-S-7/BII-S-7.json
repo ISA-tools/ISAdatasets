@@ -68,320 +68,175 @@
                     "dataFiles": [
                         {
                             "@id": "#data/rawdatafile-10EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "10EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-16BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "16BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-11EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "11EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-9BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "9BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-3BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "3BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-19EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "19EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-5EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "5EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-17EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "17EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-13BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "13BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-7BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "7BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-20EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "20EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-11BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "11BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-1EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "1EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-4BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "4BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-12BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "12BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-8BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "8BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-21EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "21EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-10BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "10BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-2EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "2EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-6EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "6EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-6BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "6BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-15BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "15BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-13EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "13EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-17BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "17BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-12EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "12EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-2BF.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "2BF.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-3EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "3EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-8EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "8EU.sff",
                             "type": "Raw Data File"
                         },
                         {
                             "@id": "#data/rawdatafile-18EU.sff",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "name": "18EU.sff",
                             "type": "Raw Data File"
                         }
@@ -662,12 +517,7 @@
                     "processSequence": [
                         {
                             "@id": "#process/library_construction18",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -838,12 +688,7 @@
                         },
                         {
                             "@id": "#process/library_construction15",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -954,12 +799,7 @@
                         },
                         {
                             "@id": "#process/library_construction10",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -1176,12 +1016,7 @@
                         },
                         {
                             "@id": "#process/library_construction7",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -1338,12 +1173,7 @@
                         },
                         {
                             "@id": "#process/library_construction5",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -1522,12 +1352,7 @@
                         },
                         {
                             "@id": "#process/library_construction4",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -1661,12 +1486,7 @@
                         },
                         {
                             "@id": "#process/library_construction24",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -1800,12 +1620,7 @@
                         },
                         {
                             "@id": "#process/library_construction28",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -2172,12 +1987,7 @@
                         },
                         {
                             "@id": "#process/library_construction9",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -2387,12 +2197,7 @@
                         },
                         {
                             "@id": "#process/library_construction2",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -2547,12 +2352,7 @@
                         },
                         {
                             "@id": "#process/library_construction27",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -2685,12 +2485,7 @@
                         },
                         {
                             "@id": "#process/library_construction11",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -2823,12 +2618,7 @@
                         },
                         {
                             "@id": "#process/library_construction6",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3000,12 +2790,7 @@
                         },
                         {
                             "@id": "#process/library_construction26",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3116,12 +2901,7 @@
                         },
                         {
                             "@id": "#process/library_construction16",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3255,12 +3035,7 @@
                         },
                         {
                             "@id": "#process/library_construction14",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3618,12 +3393,7 @@
                         },
                         {
                             "@id": "#process/library_construction17",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3816,12 +3586,7 @@
                         },
                         {
                             "@id": "#process/library_construction21",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -3970,12 +3735,7 @@
                         },
                         {
                             "@id": "#process/library_construction13",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -4345,12 +4105,7 @@
                         },
                         {
                             "@id": "#process/library_construction20",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -4522,12 +4277,7 @@
                         },
                         {
                             "@id": "#process/library_construction22",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -4660,12 +4410,7 @@
                         },
                         {
                             "@id": "#process/library_construction3",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -4798,12 +4543,7 @@
                         },
                         {
                             "@id": "#process/library_construction8",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -4975,12 +4715,7 @@
                         },
                         {
                             "@id": "#process/library_construction12",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -5234,12 +4969,7 @@
                         },
                         {
                             "@id": "#process/library_construction23",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -5388,12 +5118,7 @@
                         },
                         {
                             "@id": "#process/library_construction29",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -5693,12 +5418,7 @@
                         },
                         {
                             "@id": "#process/library_construction19",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -6117,12 +5837,7 @@
                         },
                         {
                             "@id": "#process/library_construction25",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
@@ -6271,12 +5986,7 @@
                         },
                         {
                             "@id": "#process/library_construction1",
-                            "comments": [
-                                {
-                                    "name": "Export",
-                                    "value": "yes"
-                                }
-                            ],
+                            "comments": [],
                             "date": "",
                             "executesProtocol": {
                                 "@id": "#protocol/library_construction"
