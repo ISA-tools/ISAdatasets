@@ -1,0 +1,4 @@
+"Source Name"	"Characteristics[organism]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"test1"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"sample collection"	"test1"
+"test2"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"sample collection"	"test2"
+"test3"	"Homo sapiens"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/9606"	"sample collection"	"test3"
