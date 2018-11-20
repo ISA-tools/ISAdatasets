@@ -1,5 +1,5 @@
 {
-  "name": "SINGLE TREATMENT",
+  "name": "MULTI ELEMENTS PADDED",
   "elements": [
     {
       "__treatment": true,
@@ -33,7 +33,7 @@
               "term": "time"
             }
           },
-          "value": 100,
+          "value": 100.0,
           "unit": {
             "term": "s"
           }
@@ -92,7 +92,7 @@
                   "term": "time"
                 }
               },
-              "value": 100,
+              "value": 100.0,
               "unit": {
                 "term": "s"
               }
@@ -131,7 +131,7 @@
                   "term": "time"
                 }
               },
-              "value": 100,
+              "value": 100.0,
               "unit": {
                 "term": "s"
               }
@@ -190,7 +190,7 @@
               "term": "time"
             }
           },
-          "value": 50,
+          "value": 50.0,
           "unit": {
             "term": "s"
           }
