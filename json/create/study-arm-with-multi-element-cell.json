@@ -1,5 +1,6 @@
 {
-  "group_size": 10,
+  "name": "another arm",
+  "groupSize": 35,
   "cells": [
     {
       "name": "SCREEN CELL",
@@ -267,7 +268,7 @@
       ]
     }
   ],
-  "sample_assay_plans": [
+  "sampleAssayPlans": [
     {
       "name": "SAMPLE ASSAY PLAN FOR SCREENING",
       "sample_types": [],
@@ -293,7 +294,7 @@
       "assay_plan": []
     }
   ],
-  "map": [
+  "mappings": [
     [
       "SCREEN CELL",
       "SAMPLE ASSAY PLAN FOR SCREENING"
