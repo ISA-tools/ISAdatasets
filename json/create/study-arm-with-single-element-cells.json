@@ -1,0 +1,219 @@
+{
+  "group_size": 10,
+  "cells": [
+    {
+      "name": "SCREEN CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "screen",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 100,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RUN-IN CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "run in",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 30,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SINGLE-TREATMENT CELL",
+      "elements": [
+        {
+          "__treatment": true,
+          "type": "chemical intervention",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "AGENT",
+                "type": {
+                  "term": "perturbation agent"
+                }
+              },
+              "value": "nitroglycerin"
+            },
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 100,
+              "unit": {
+                "term": "s"
+              }
+            },
+            {
+              "factor": {
+                "name": "INTENSITY",
+                "type": {
+                  "term": "intensity"
+                }
+              },
+              "value": 5,
+              "unit": {
+                "term": "kg/m^3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WASHOUT CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "washout",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 30,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ANOTHER SINGLE-TREATMENT CELL",
+      "elements": [
+        {
+          "__treatment": true,
+          "type": "chemical intervention",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "INTENSITY",
+                "type": {
+                  "term": "intensity"
+                }
+              },
+              "value": 5,
+              "unit": {
+                "term": "kg/m^3"
+              }
+            },
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 100,
+              "unit": {
+                "term": "s"
+              }
+            },
+            {
+              "factor": {
+                "name": "AGENT",
+                "type": {
+                  "term": "perturbation agent"
+                }
+              },
+              "value": "alchohol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FOLLOW-UP CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "follow-up",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 1830,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sample_assay_plans": [
+    {
+      "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    },
+    {
+      "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    },
+    {
+      "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    }
+  ],
+  "map": [
+    ["SCREEN CELL", null],
+    ["RUN-IN CELL", null],
+    ["SINGLE-TREATMENT CELL", "SAMPLE ASSAY PLAN FOR TREATMENTS"],
+    ["WASHOUT CELL", "WASHOUT SAMPLE ASSAY PLAN"],
+    ["ANOTHER SINGLE-TREATMENT CELL", "SAMPLE ASSAY PLAN FOR TREATMENTS"],
+    ["FOLLOW-UP CELL", "FOLLOW-UP SAMPLE ASSAY PLAN"]
+  ]
+}

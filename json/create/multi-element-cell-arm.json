@@ -1,0 +1,310 @@
+{
+  "group_size": 10,
+  "cells": [
+    {
+      "name": "SCREEN CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "screen",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 100,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PADDED MULTI-ELEMENT CELL",
+      "elements": [
+        {
+          "__treatment": true,
+          "type": "chemical intervention",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 100,
+              "unit": {
+                "term": "s"
+              }
+            },
+            {
+              "factor": {
+                "name": "INTENSITY",
+                "type": {
+                  "term": "intensity"
+                }
+              },
+              "value": 5,
+              "unit": {
+                "term": "kg/m^3"
+              }
+            },
+            {
+              "factor": {
+                "name": "AGENT",
+                "type": {
+                  "term": "perturbation agent"
+                }
+              },
+              "value": "nitroglycerin"
+            }
+          ]
+        },
+        {
+          "__treatment": false,
+          "type": "washout",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 30,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        },
+        {
+          "concomitantTreatments": [
+            {
+              "__treatment": true,
+              "type": "chemical intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "s"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "kg/m^3"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "alchohol"
+                }
+              ]
+            },
+            {
+              "__treatment": true,
+              "type": "chemical intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "s"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "kg/m^3"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "water"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "__treatment": false,
+          "type": "washout",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 30,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        },
+        {
+          "__treatment": true,
+          "type": "chemical intervention",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 50,
+              "unit": {
+                "term": "s"
+              }
+            },
+            {
+              "factor": {
+                "name": "INTENSITY",
+                "type": {
+                  "term": "intensity"
+                }
+              },
+              "value": 5,
+              "unit": {
+                "term": "kg/m^3"
+              }
+            },
+            {
+              "factor": {
+                "name": "AGENT",
+                "type": {
+                  "term": "perturbation agent"
+                }
+              },
+              "value": "alchohol"
+            }
+          ]
+        },
+        {
+          "__treatment": false,
+          "type": "washout",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 30,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FOLLOW-UP CELL",
+      "elements": [
+        {
+          "__treatment": false,
+          "type": "follow-up",
+          "factorValues": [
+            {
+              "factor": {
+                "name": "DURATION",
+                "type": {
+                  "term": "time"
+                }
+              },
+              "value": 1830,
+              "unit": {
+                "term": "day"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sample_assay_plans": [
+    {
+      "name": "SAMPLE ASSAY PLAN FOR SCREENING",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    },
+    {
+      "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    },
+    {
+      "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
+      "sample_types": [],
+      "assay_types": [],
+      "sample_plan": [],
+      "sample_qc_plan": [],
+      "assay_plan": []
+    }
+  ],
+  "map": [
+    [
+      "SCREEN CELL",
+      "SAMPLE ASSAY PLAN FOR SCREENING"
+    ],
+    [
+      "PADDED MULTI-ELEMENT CELL",
+      "SAMPLE ASSAY PLAN FOR TREATMENTS"
+    ],
+    [
+      "FOLLOW-UP CELL",
+      "FOLLOW-UP SAMPLE ASSAY PLAN"
+    ]
+  ]
+}
