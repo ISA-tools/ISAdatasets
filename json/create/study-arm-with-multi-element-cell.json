@@ -39,7 +39,7 @@
                   "term": "time"
                 }
               },
-              "value": 100,
+              "value": 100.0,
               "unit": {
                 "term": "s"
               }
@@ -98,7 +98,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -137,7 +137,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -196,7 +196,7 @@
                   "term": "time"
                 }
               },
-              "value": 50,
+              "value": 50.0,
               "unit": {
                 "term": "s"
               }
@@ -278,7 +278,7 @@
       "assay_plan": []
     },
     {
-      "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+      "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
       "sample_types": [],
       "assay_types": [],
       "sample_plan": [],

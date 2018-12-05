@@ -1,0 +1,716 @@
+{
+  "name": "TEST STUDY DESIGN WITH THREE ARMS",
+  "studyArms": {
+    "first arm": {
+      "groupSize": 10,
+      "cells": [
+        {
+          "name": "SCREEN CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "screen",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RUN-IN CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "run in",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SINGLE-TREATMENT CELL",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "chemical intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "nitroglycerin"
+                },
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "s"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "kg/m^3"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WASHOUT CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "washout",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ANOTHER SINGLE-TREATMENT CELL",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "chemical intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "kg/m^3"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "s"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "alchohol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FOLLOW-UP CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "follow-up",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 1830,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sampleAssayPlans": [
+        {
+          "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        }
+      ],
+      "mappings": [
+        [
+          "SCREEN CELL",
+          null
+        ],
+        [
+          "RUN-IN CELL",
+          null
+        ],
+        [
+          "SINGLE-TREATMENT CELL",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "WASHOUT CELL",
+          "SAMPLE ASSAY PLAN FOR WASHOUT"
+        ],
+        [
+          "ANOTHER SINGLE-TREATMENT CELL",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "FOLLOW-UP CELL",
+          "FOLLOW-UP SAMPLE ASSAY PLAN"
+        ]
+      ]
+    },
+    "second arm": {
+      "cells": [
+        {
+          "name": "screen",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "screen",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "run in",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "run in",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SINGLE TREATMENT",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "chemical intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "nitroglycerin"
+                },
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "s"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "kg/m^3"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WASHOUT CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "washout",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BIOLOGICAL CELL",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "biological intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 7,
+                  "unit": {
+                    "term": "day"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 0.012,
+                  "unit": {
+                    "term": "mg"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "Anthrax"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "follow-up",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "follow-up",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 1830,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sampleAssayPlans": [
+        {
+          "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "WASHOUT SAMPLE ASSAY PLAN",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        }
+      ],
+      "mappings": [
+        [
+          "screen",
+          null
+        ],
+        [
+          "run in",
+          null
+        ],
+        [
+          "SINGLE TREATMENT",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "WASHOUT CELL",
+          "WASHOUT SAMPLE ASSAY PLAN"
+        ],
+        [
+          "BIOLOGICAL CELL",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "follow-up",
+          "FOLLOW-UP SAMPLE ASSAY PLAN"
+        ]
+      ],
+      "groupSize": 30
+    },
+    "third arm": {
+      "cells": [
+        {
+          "name": "screen",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "screen",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 100,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "run in",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "run in",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DIET CELL",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "dietary intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 50,
+                  "unit": {
+                    "term": "day"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "Vitamin A"
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "mg"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WASHOUT CELL",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "washout",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 30,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RADIOLOGICAL CELL",
+          "elements": [
+            {
+              "__treatment": true,
+              "type": "radiological intervention",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "AGENT",
+                    "type": {
+                      "term": "perturbation agent"
+                    }
+                  },
+                  "value": "Gamma ray"
+                },
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 5,
+                  "unit": {
+                    "term": "hour"
+                  }
+                },
+                {
+                  "factor": {
+                    "name": "INTENSITY",
+                    "type": {
+                      "term": "intensity"
+                    }
+                  },
+                  "value": 0.012,
+                  "unit": {
+                    "term": "Gy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "follow-up",
+          "elements": [
+            {
+              "__treatment": false,
+              "type": "follow-up",
+              "factorValues": [
+                {
+                  "factor": {
+                    "name": "DURATION",
+                    "type": {
+                      "term": "time"
+                    }
+                  },
+                  "value": 1830,
+                  "unit": {
+                    "term": "day"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sampleAssayPlans": [
+        {
+          "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "WASHOUT SAMPLE ASSAY PLAN",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        },
+        {
+          "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
+          "sample_types": [],
+          "assay_types": [],
+          "sample_plan": [],
+          "sample_qc_plan": [],
+          "assay_plan": []
+        }
+      ],
+      "mappings": [
+        [
+          "screen",
+          null
+        ],
+        [
+          "run in",
+          null
+        ],
+        [
+          "DIET CELL",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "WASHOUT CELL",
+          "WASHOUT SAMPLE ASSAY PLAN"
+        ],
+        [
+          "RADIOLOGICAL CELL",
+          "SAMPLE ASSAY PLAN FOR TREATMENTS"
+        ],
+        [
+          "follow-up",
+          "FOLLOW-UP SAMPLE ASSAY PLAN"
+        ]
+      ],
+      "groupSize": 24
+    }
+  }
+}

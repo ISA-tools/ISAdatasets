@@ -71,7 +71,7 @@
                   "term": "time"
                 }
               },
-              "value": 100,
+              "value": 100.0,
               "unit": {
                 "term": "s"
               }
@@ -141,7 +141,7 @@
                   "term": "time"
                 }
               },
-              "value": 100,
+              "value": 100.0,
               "unit": {
                 "term": "s"
               }
@@ -213,7 +213,7 @@
     ["SCREEN CELL", null],
     ["RUN-IN CELL", null],
     ["SINGLE-TREATMENT CELL", "SAMPLE ASSAY PLAN FOR TREATMENTS"],
-    ["WASHOUT CELL", "WASHOUT SAMPLE ASSAY PLAN"],
+    ["WASHOUT CELL", "SAMPLE ASSAY PLAN FOR WASHOUT"],
     ["ANOTHER SINGLE-TREATMENT CELL", "SAMPLE ASSAY PLAN FOR TREATMENTS"],
     ["FOLLOW-UP CELL", "FOLLOW-UP SAMPLE ASSAY PLAN"]
   ]
