@@ -3,7 +3,7 @@
     {
       "@id": "product-node/0000",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
+      "productType": "sample",
       "size": 3,
       "characteristics": [
         {
@@ -16,7 +16,7 @@
       "@id": "protocol-node/0000",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "DNA extraction",
-      "type": {
+      "protocolType": {
         "term": ""
       },
       "description": "",
@@ -29,7 +29,7 @@
       "@id": "protocol-node/0001",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "RNA extraction",
-      "type": {
+      "protocolType": {
         "term": ""
       },
       "description": "",
@@ -41,7 +41,7 @@
     {
       "@id": "product-node/0001",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
+      "productType": "sample",
       "size": 3,
       "characteristics": [
         {
@@ -53,7 +53,7 @@
     {
       "@id": "product-node/0002",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
+      "productType": "sample",
       "size": 3,
       "characteristics": [
         {
@@ -65,7 +65,7 @@
     {
       "@id": "product-node/0003",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
+      "productType": "sample",
       "size": 5,
       "characteristics": [
         {
