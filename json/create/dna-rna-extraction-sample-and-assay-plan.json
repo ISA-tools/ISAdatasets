@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "@id": "product-node/0000",
+      "@type": "isatools.create.models.ProductNode",
+      "type": "sample",
+      "size": 3,
+      "characteristics": [
+        {
+          "category": "organism part",
+          "value": "tissue"
+        }
+      ]
+    },
+    {
+      "@id": "protocol-node/0000",
+      "@type": "isatools.create.models.ProtocolNode",
+      "name": "DNA extraction",
+      "type": {
+        "term": ""
+      },
+      "description": "",
+      "uri": "",
+      "version": "1.0.0",
+      "parameters": [],
+      "components": []
+    },
+    {
+      "@id": "protocol-node/0001",
+      "@type": "isatools.create.models.ProtocolNode",
+      "name": "RNA extraction",
+      "type": {
+        "term": ""
+      },
+      "description": "",
+      "uri": "",
+      "version": "0.1",
+      "parameters": [],
+      "components": []
+    },
+    {
+      "@id": "product-node/0001",
+      "@type": "isatools.create.models.ProductNode",
+      "type": "sample",
+      "size": 3,
+      "characteristics": [
+        {
+          "category": "nucleic acid",
+          "value": "DNA"
+        }
+      ]
+    },
+    {
+      "@id": "product-node/0002",
+      "@type": "isatools.create.models.ProductNode",
+      "type": "sample",
+      "size": 3,
+      "characteristics": [
+        {
+          "category": "nucleic acid",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "@id": "product-node/0003",
+      "@type": "isatools.create.models.ProductNode",
+      "type": "sample",
+      "size": 5,
+      "characteristics": [
+        {
+          "category": "nucleic acid",
+          "value": "miRNA"
+        }
+      ]
+    }
+  ],
+  "links": [
+    ["product-node/0000", "protocol-node/0000"],
+    ["product-node/0000", "protocol-node/0001"],
+    ["protocol-node/0000", "product-node/0001"],
+    ["protocol-node/0001", "product-node/0002"],
+    ["protocol-node/0001", "product-node/0003"]
+  ]
+}
