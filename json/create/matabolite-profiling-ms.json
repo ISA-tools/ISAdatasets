@@ -1,22 +1,14 @@
 {
   "nodes": [
     {
-      "@id": "product-node/0000",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
-      "size": null,
-      "characteristics": [
-        {
-          "category": "organism part",
-          "value": null
-        }
-      ]
+      "productType": "material",
+      "name": "sample"
     },
     {
-      "@id": "protocol-node/0000",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "extraction",
-      "type": {
+      "protocolType": {
         "term": "extraction"
       },
       "description": "",
@@ -25,22 +17,14 @@
       "components": []
     },
     {
-      "@id": "product-node/0001",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
-      "size": null,
-      "characteristics": [
-        {
-          "category": "extract",
-          "value": null
-        }
-      ]
+      "productType": "material",
+      "name": "extract"
     },
     {
-      "@id": "protocol-node/0001",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "labelling",
-      "type": {
+      "protocolType": {
         "term": "labelling"
       },
       "description": "",
@@ -49,22 +33,14 @@
       "components": []
     },
     {
-      "@id": "product-node/0002",
       "@type": "isatools.create.models.ProductNode",
-      "type": "sample",
-      "size": null,
-      "characteristics": [
-        {
-          "category": "labelled extract",
-          "value": null
-        }
-      ]
+      "productType": "material",
+      "name": "labelled extract"
     },
     {
-      "@id": "protocol-node/0002",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "mass spectrometry",
-      "type": {
+      "protocolType": {
         "term": "mass spectrometry"
       },
       "description": "",
@@ -86,24 +62,17 @@
       "components": []
     },
     {
-      "@id": "product-node/0003",
       "@type": "isatools.create.models.ProductNode",
-      "type": "data",
-      "size": null,
-      "characteristics": [
-        {
-          "category": "raw spectral data file",
-          "value": null
-        }
-      ]
+      "name": "Raw Spectral Data File",
+      "productType": "data"
     }
   ],
   "links": [
-    ["product-node/0000", "protocol-node/0000"],
-    ["protocol-node/0000", "product-node/0001"],
-    ["product-node/0001", "protocol-node/0001"],
-    ["protocol-node/0001", "product-node/0002"],
-    ["product-node/0002", "protocol-node/0002"],
-    ["protocol-node/0001", "product-node/0003"]
+    ["sample", "extraction"],
+    ["extraction", "extract"],
+    ["extract", "labelling"],
+    ["labelling", "labelled extract"],
+    ["labelled extract", "mass spectrometry"],
+    ["mass spectrometry", "raw spectral data file"]
   ]
 }
