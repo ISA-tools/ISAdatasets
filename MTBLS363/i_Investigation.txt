@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"MS"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"129"	"146"	"43"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS363"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS363"
+Study Title	"Transcript, protein and metabolite temporal dynamics in the CAM plant Agave."
+Study Description	"Already a proven mechanism for drought sustainability, crassulacean acid metabolism (CAM) is a specialized type of photosynthesis that maximizes water-use efficiency (WUE) via an inverse (compared to C3 and C4 photosynthesis-performing species) day/night pattern of stomatal closure/opening to shift CO2 uptake to the nighttime, when evapotranspiration rates are low. A systems-level understanding spanning temporal molecular and metabolic controls is needed to define the cellular behavior that confers advantages in water-limited conditions. Here, we report high-resolution temporal behaviors of transcript, protein, and metabolite abundances across a CAM diel cycle and, where applicable, compare those observations to the well-established C3 model plant, Arabidopsis thaliana. A mechanistic finding that emerged is that CAM operates with a shifted altered redox poise relative to Arabidopsis thaliana. Moreover, we identify widespread rescheduled expression for genes associated with signal transduction mechanisms that are presented in guard cells to regulate stomatal opening/closing. Controlled production and degradation of transcript and proteins is a timing mechanism by which to regulate cellular function, yet knowledge of how this molecular timekeeping regulates CAM physiology is unknown. Here, we provide new insight into complex, post-transcriptional and -translational hierarchies that govern CAM in Agave. These data sets together provide a resource that could inform efforts to engineer traits of the more efficient CAM plant into economically valuable C3 crops."
+Study Submission Date	"2016-07-16"
+Study Public Release Date	"2016-08-19"
+Study File Name	"s_mtbls363.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"crassulacean acid metabolism"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"27869799"
+Study Publication DOI	"10.1038/nplants.2016.178"
+Study Publication Author List	"Abraham PE, Yin H, Borland AM, Weighill D, Lim SD, De Paoli HC, Engle N, Jones PC, Agh R, Weston DJ, Wullschleger SD, Tschaplinski T, Jacobson D, Cushman JC, Hettich RL, Tuskan GA, Yang X."
+Study Publication Title	"Transcript, protein and metabolite temporal dynamics in the CAM plant Agave."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Elapsed time"	"Replicate"
+Study Factor Type	"timepoint"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls363_agave_mass_spectrometry.txt"	"a_mtbls363_arabidopsis_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Arabidopsis thaliana (Col-0) plants used for gas chromatography mass spectrometry (GC-MS) measurements were obtained from TAIR (http://www.arabidopsis.org/). Seeds were incubated with desiccant for 48 hr, sterilized in 75% ethanol and 100% ethanol for 8 min each, respectively, and air dried on sterile paper filter inside the hood. Seeds were plated on 0.5 MS media (M5524, Sigma, USA), stratified for 2-5 days at 4 ºC in the dark, and placed in growing room at 23 ºC. Photosynthetic photon flux (PPF, 400 to 700 nm), as determined with a quantum meter (Model MQ-100, APOGEE, USA), was 70 µmol/m^2/s for day period (14-hr) and zero for night period (10-hr). After 8 days, seedlings were transplanted into plastic trays of 10" x 20" (6 plants per pot, 12 pots per tray) in soil 3B MIX (Conrad Fafard INC. MA, USA) and maintained under similar conditions (except for PPF = 100-120 µmol/m^2/s) in the growing chamber Conviron CMP6050 Control system (Pembina, ND, USA) at 50% humidity. Plants were watered twice a week (~1000 ml) and fertilized twice a month (Miracle-Gro All Purpose Dry Plant Food). Adult plants (3 weeks on soil) had 3 leaves from the rosette harvested from different plants at 3, 6, 9, 12, 15, 18, 21, and 24 hr after the starting of the light period. Each plant was harvested only once. Biological replicates were sampled from same batch of plants grown under similar conditions.
+</p>
+Agave americana “marginata” plants were obtained from Notestein's Nursery, Gainesville, FL (http://southerngardening.org). 2-year-old plants with an average of 8 leaves per plant were placed in 3.8-gallon (14.4 l) plastic pots filled with Metro-Mix PX3 soil (Sun Gro Horticulture, Agawam, MA, USA). The plants were maintained in Conviron CMP6050 Control system (Pembina, ND, USA) with day/night temperatures of 25/15 ºC and day/night relative humidity of 45/75%. The photoperiod was 12-hr with a photosynthetic photon flux (PPF, 400 to 700 nm) of 540 µmol/m^2/s on the upper surface of the leaves examined, as determined with a quantum meter (Model MQ-100, APOGEE, USA). The plants were watered once weekly until drainage from the pots occurred. fully-expanded leaf samples collected every at 3, 6, 9, 12, 15, 18, 21, and 24 hr after the starting of the light period."	"Fast-frozen tissues were ground with liquid nitrogen in a chilled mortar and pestle with ~50 (19-60) mg FW Agave leaf subsequently twice extracted with 2.5 ml 80% ethanol overnight and then combined prior to drying a 1.0 ml aliquot in a nitrogen stream. A 50 µl aliquot was also dried for analysis of high concentration metabolites. For Arabidopsis, ~120 (52-161) mg FW of fast-frozen plant tissue was twice extracted with 2.0 ml 80% ethanol overnight and then combined prior to drying a 0.5 ml aliquot in a nitrogen stream. Sorbitol (75 µl of a 1 mg/ml aqueous solution) was added to the first 80% ethanol extraction volume into which the frozen tissue was directly weighed before for extraction as an internal standard to correct for differences in extraction efficiency, subsequent differences in derivatization efficiency and changes in sample volume during heating.
+</p>
+Dried extracts were dissolved in 500 µl of silylation–grade acetonitrile followed by the addition of 500 µl N-methyl-N-trimethylsilyltrifluoroacetamide (MSTFA) with 1% trimethylchlorosilane (TMCS) (Thermo Scientific, Bellefonte, PA), and samples were then heated for 1-hr at 70 °C to generate trimethylsilyl (TMS) derivatives[1][2].
+</p>
+Ref:</br>
+[1] Li, Y., Tschaplinski, T.J., Engle, N.L., Hamilton, C.Y., Rodriguez, M., Jr., Liao, J.C., Graham, D.E. (2012) Combined inactivation of the Clostridium cellulolyticum lactate and malate dehydrogenase genes substantially increases ethanol yield from cellulose and switchgrass fermentations. Biotechnol Biofuels 5, 2. doi:10.1186/1754-6834-5-2. PMID:22214220</br>
+[2] Tschaplinski, T.J., Standaert, R.F., Engle, N.L., Martin, M.Z., Sangha, A.K., Parks, J.M., Mielenz, J.R. (2012) Down-regulation of the caffeic acid O-methyltransferase gene in switchgrass reveals a novel monolignol analog. Biotechnol Biofuels 5, 71. doi:10.1186/1754-6834-5-71. PMID:22998926</br>"	"Chromatography was carried out using a Rtx-5MS with Integra-guard (5% diphenyl/95% dimethyl polysiloxane) 30 m x 250 µm x 0.25 µm film thickness capillary column. "	"The standard quadrupole GC-MS was operated in the electron impact (70 eV) ionization mode, targeting 2.5 full-spectrum (50-650 Da) scans/s (transfer line temperature= 300 °C, ion source temperature = 230 °C, quadrupole temperature = 150 °C). The detector was turned on after a solvent delay of 5 min and data was collected in full scan mode using 2.5 scan/s across a mass range of 50-650 m/z as described previously[1].
+</p>
+Ref:</br>
+[1] Tschaplinski, T.J., Standaert, R.F., Engle, N.L., Martin, M.Z., Sangha, A.K., Parks, J.M., Mielenz, J.R. (2012) Down-regulation of the caffeic acid O-methyltransferase gene in switchgrass reveals a novel monolignol analog. Biotechnol Biofuels 5, 71. doi:10.1186/1754-6834-5-71. PMID:22998926</br>"	"Spectral data files were exported in .CDF format."	"TCA cycle organic acids, sugars, and abundant secondary metabolites known or thought to be under diurnal regulation were the focus of this study. Metabolite peaks were extracted using a key selected ion, characteristic m/z fragment, rather than the total ion chromatogram, to minimize integrating co-eluting metabolites. The extracted peaks of known metabolites were scaled back up to the total ion current using predetermined scaling factors. Peaks were quantified by area integration and concentrations normalized to the quantity of the internal standard (sorbitol) recovered, amount of sample extracted, derivatized, and injected. A large user created database (>2300 spectra) of mass spectral electron impact ionization (EI) fragmentation patterns of TMS-derivatized compounds, as well as the Wiley Registry 10th Edition combined with NIST 14 mass spectral database, were used to identify the metabolites of interest to be quantified. Unidentified metabolites were denoted by their retention time as well as mass-to-charge (m/z) ratios. The Agave data (see Supplemental Table 2 of the paper associated with this study) and Arabidopsis data (see Supplemental Table 3) have been provided. Because we highlight the relative abundances of metabolites for both succulent leaves (i.e., Agave) and standard leaves (i.e., Arabidopsis), we compared the relative abundances of metabolites using both fresh weight and dry weight as normalizing measures. For both plants, we did not observe a substantial difference between the two methods (Supplemental Figure 1). Research has shown that changes in water content between day and night periods of well-watered plants is small[1].
+</p>
+Ref:</br>
+[1] Castro-Camus, E., Palomar, M., and Covarrubias, A.A. (2013) Leaf water dynamics of Arabidopsis thaliana monitored in-vivo using terahertz time-domain spectroscopy. Sci Rep 3, 2910. doi:10.1038/srep02910. PMID:24105302</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Tschaplinski"	"Abraham"	"Yin"	"Borland"	"Weighill"	"Cestari De Paoli"	"Engle"	"Jones"	"Agh"	"Weston"	"Wullschleger"	"Jacobson"	"Cushman"	"Hettich"	"Tuskan"	"Yang"	"Lim"
+Study Person First Name	"Timothy"	"Paul"	"Hengfu"	"Anne"	"Deborah"	"Henrique"	"Nancy"	"Piet"	"Ryan"	"David"	"Stan"	"Daniel"	"John"	"Robert"	"Gerald"	"Xiaohan"	"Sung Don"
+Study Person Mid Initials	""	"E"	""	"M"	""	""	""	"C"	""	"J"	"D"	""	"C"	"L"	"A"	""	""
+Study Person Email	"tschaplinstj@ornl.gov"	"abrahampe@ornl.gov"	"hfyin@sibs.ac.cn"	"anne.borland@newcastle.ac.uk"	"weighillda@ornl.gov"	"cestaridepah@ornl.gov"	"englenl@ornl.gov"	"jonespc@ornl.gov"	"ryan.e.agh@gmail.com"	"westondj@ornl.gov"	"wullschlegsd@ornl.gov"	"jacobsonda@ornl.gov"	"jcushman@unr.edu"	"hettichrl@ornl.gov"	"tuskanga@ornl.gov"	"yangx@ornl.gov"	"sunglim@unr.edu"
+Study Person Phone	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""

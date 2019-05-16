@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"CCONT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CCONT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"113"	"2"	"22"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Cell Culture Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS555"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersAlleDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS555"
+Study Title	"Exometabolomic profiling of bacterial strains cultivated using Arabidopsis root extract as the sole carbon source"
+Study Description	"The ability of microorganisms to use root-derived metabolites as growth substrates is a key trait for success in the rhizospheric niche. However, few studies describe which specific metabolites are consumed, or to what degree microbial strains differ in their substrate consumption patterns. Here we present an LC-MS exometabolomic study of three bacterial strains cultivated using either glucose or Arabidopsis thaliana root extract as the sole carbon source in the growth medium. Two of the strains were previously isolated from field-grown Arabidopsis roots, the other is Escherichia coli included as a comparison. When cultivated on root-extract, a set of 62 MS-features were commonly taken up by all three strains, with m/z values matching to components of central metabolism (including amino acids and purine/pyrimidine derivatives). Escherichia coli took up very few MS-features outside of this commonly consumed set, whereas the root-inhabiting strains took up a much larger number of MS-features, many with m/z values matching to plant-specific metabolites. This approach provides new mechanistic insights into microbial community composition in the rhizosphere, by defining the metabolic niche of a given strain. Furthermore, we document a large number of MS-features released by these strains, which could play roles in cross-feeding, antibiosis or signalling."
+Study Submission Date	"2017-10-13"
+Study Public Release Date	"2018-01-13"
+Study File Name	"s_Test_131017.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"rhizospheric"	"Exometabolomic profiling"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	""	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29457542"
+Study Publication DOI	"10.1094/mpmi-10-17-0253-r"
+Study Publication Author List	"Jacoby RP, Martyn A, Kopriva S."
+Study Publication Title	"Exometabolomic Profiling of Bacterial Strains as Cultivated Using Arabidopsis Root Extract as the Sole Carbon Source."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Plant genotype"	"Bacterial strain"	"Replicate"
+Study Factor Type	"genotype"	"genotype"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_test_131017_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"maXis G4 (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Arabidopsis plants were cultivated using anchored shaking liquid culture, according to the method of [1]. First, seeds were surfaced sterilised with 2 min in 70% ethanol, followed by 5 min in 50% bleach, followed by 5× rinses in sterile Milli-Q water.  Then, 15-20 seeds were pipetted onto steel mesh discs lying on agar plates (0.7% Agar, 1% sucrose, 0.5× MS, pH 5.8), and incubated at 4 °C in darkness for 2 days. Next, plates were transferred to a growth cabinet, operating at 22 °C, 16 hrs photoperiod, 120 μE m-2 light intensity for 7 days. Then, steel disks containing the anchored seedlings plants were transferred to 250 ml Erlenmeyer flasks, containing 15 ml of growth medium (3% sucrose, 0.5× MS, pH 5.8) and placed in a shaking incubator at 100 rpm in the growth chamber. After 10 days on the sucrose-containing medium, the medium was swapped to a medium without sucrose (0.5× MS, pH 5.8), and plants were left shaking for 7 days. During shaking cultivation, them medium was exchanged every 3-4 days. Plants were harvested by rinsing the plants twice in 10 mM MgCl2, separating roots from shoots, and immediately snap-freezing the root tissue in liquid N2. Root tissue was ground in liquid N2 using a mortar and pestle, and metabolites were extracted by adding 1 ml of 90% MeOH to 200 mg of ground tissue, followed by 30 min incubation at 60 °C with 1500 rpm shaking. Extracts were then centrifuged at 20,000× g for 10 min, and 850 μl of supernatant was dried using a vacuum centrifuge. Next, metabolite extracts were dissolved in Milli-Q water and filter sterilised (Millipore, 0.22 μm pore size). Total organic carbon was measured using a Dimatoc 2000 (Dimatec).</br></br>
+
+Bacterial growth media was based on M9 formulation (CSHL, 2010). Nutrient concentrations were: 24 mM Na2HPO4, 20 mM NH4Cl, 11 mM KH2PO4, 4 mM NaCl, 350 μM MgSO4, 100 μM CaCl2, 50 μM Fe-EDTA, 50 μM H3BO3, 10 μM MnCl2, 1.75 μM ZnCl2, 1 uM KI, 800 nM Na2MoO4, 500 nM CuCl2, 100 nM CoCl2. To this, one carbon source was added, either glucose (10 mM; equivalent to 0.72 mg C/ml), or Arabidopsis root extract (0.72 mg/ml as measured by TOC).</br></br>
+
+Bacterial strains were pre-cultivated by streaking glycerol stocks onto TSB-Agar plates (0.5× TSB, 1.2% Agar), and incubating at 28 °C for between 1-4 days. After visible growth, single colonies were picked from plates and inoculated into TSB medium (0.5× TSB), and incubated for 24 h at 28 °C with 200 rpm shaking. Next, cells were harvested by centrifuging 800 μl of culture at 5,000× g for 2 min at RT. These cells were then rinsed 3× in sterile 10 mM MgCl2, and resuspended at a final OD600 of 1.0 in sterile MgCl2. For growth assays, 20 μl of this bacterial suspension was inoculated into 380 μl of growth medium, in individual wells of a sterile 48-well plate (Corning). These plates were then transferred to a plate reader (Tecan Infinite Pro 100) and incubated at 28 °C for 24 h with shaking (3 min continuous shaking followed by 7 min stationary, shaking amplitude 3 mm). Culture density at OD600 was measured once per 10 min cycle, without correcting for path length, and derived growth curves were analysed using the Growthcurver program (Sprouffske and Wagner, 2016). Three independent biological replicates were conducted, whereby each replicate derived from a separate plant cultivation and also a separate bacterial cultivation. As a negative control (without bacteria), we also included samples where growth media were incubated with sterile MgCl2 instead of being inoculated with bacteria.
+</br></br>
+Ref:</br>
+[1] Hétu, M.F., Tremblay, L.J., and Lefebvre, D.D. High root biomass production in anchored Arabidopsis plants grown in axenic sucrose supplemented liquid culture. Biotechniques. 2005 Sep;39(3):345-9."	"For spent media collection, bacterial cultures were centrifuged at 10,000× g for 10 min at RT, and 250 μl of supernatant was filtered using a spin filter (Corning, 0.22 μm pore size), and the flow-through stored at -80 °C. "	"Two microlitres of sample was loaded onto a C18 column (XSelect HSS T3, 2.5 µm particle size, 100Å pore size, 150 mm length × 3.0 mm width, Waters), using an HPLC (Dionex HPG 3200, Thermo Scientific). Buffer A was 0.1% FA in HPLC-grade water, buffer B was 0.1% FA in HPLC-grade methanol, and flow rate was 500 μl/min. Samples were eluted using the following gradient: hold at 1% B between 0 to 1 min, linear increase to 40% B until 11 min, linear increase to 99% B until 15 min, hold at 99% B until 16 min, linear decrease to 1% B until 17 min, and finally hold at 1% B until 20 min. "	"MS was conducted using a Q-TOF MS (maXis 4G, Bruker Daltonics), following ionisation via an ESI source. The MS was operated in positive-ion mode, using N2 as drying gas at 8 l/min flow rate, dry heater set to 220 °C, nebulizer pressure of 1.8 bar, capillary voltage of 4500 V, and collision RF voltage of 370 V (corresponding to a mass range 50-1300 m/z). Scan rate was 1 Hz."	"Raw .D files were converted to .MZMXL using the MSConvert program [1], with centroiding of peaks.</br></br>
+Ref:</br>
+[1] Kessner D, Chambers M, Burke R, Agus D, Mallick P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics. 2008 Nov 1;24(21):2534-6. doi: 10.1093/bioinformatics/btn323."	"Files were then uploaded to XCMS online [1], and aligned using the following parameters: m/z tolerance of 15 ppm, min peak width of 10 s, max peak width of 60 s, signal/noise threshold of 10, overlapping peaks split when m/z difference was greater than 0.01 m/z, features only considered if they occurred in at least 5 consecutive scans with an intensity greater than 5000. Also, features were only considered if they occurred in at least two out of three replicates from any sample group. The CAMERA algorithm was implemented to detect isotopes and adducts. Following export of files from XCMS online, data was filtered to remove isotopic peaks, and to only include MS-features with RT between 1-16 mins.</br></br>
+Ref:</br>
+[1] Tautenhahn R, Patti GJ, Rinehart D, Siuzdak G. XCMS Online: a web-based platform to process untargeted metabolomic data. Anal Chem. 2012 Jun 5;84(11):5035-9. doi: 10.1021/ac300698c.
+
+
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jacoby"
+Study Person First Name	"Richard"
+Study Person Mid Initials	"P."
+Study Person Email	"rjacoby@uni-koeln.de"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"University of Cologne"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

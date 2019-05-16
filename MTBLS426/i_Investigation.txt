@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CSEO"	"MS"	"CHMO"	"NCBITAXON"	"NCIT"	"EFO"	"MP"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MP"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"2"	"86"	"18"	"6"	"44"	"146"	"307"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Cigarette Smoke Exposure Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Mammalian Phenotype Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS426"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS426"
+Study Title	"Sexual dimorphism in the fetal cardiac response to maternal nutrient restriction."
+Study Description	"Poor maternal nutrition causes intrauterine growth restriction (IUGR); however, its effects on fetal cardiac development are unclear. We have developed a baboon model of moderate maternal undernutrition, leading to IUGR. We hypothesized that the IUGR affects fetal cardiac structure and metabolism. Six control pregnant baboons ate ad-libitum (CTRL)) or 70% CTRL from 0.16 of gestation (G). Fetuses were euthanized at C-section at 0.9G under general anesthesia. Male but not female IUGR fetuses showed left ventricular fibrosis inversely correlated with birth weight. Expression of extracellular matrix protein TSP-1 was increased (p<0.05) in male IUGR. Expression of cardiac fibrotic markers TGFß, SMAD3 and ALK-1 were downregulated in male IUGRs with no difference in females. Autophagy was present in male IUGR evidenced by upregulation of ATG7 expression and lipidation LC3B. Global miRNA expression profiling revealed 56 annotated and novel cardiac miRNAs exclusively dysregulated in female IUGR, and 38 cardiac miRNAs were exclusively dysregulated in males (p<0.05). Fifteen (CTRL) and 23 (IUGR) miRNAs, were differentially expressed between males and females (p<0.05) suggesting sexual dimorphism, which can be at least partially explained by differential expression of upstream transcription factors (e.g. HNF4a, and NF?B p50). Lipidomics analysis of fetal cardiac tissue exhibited a net increase in diacylglycerol and plasmalogens and a decrease in triglycerides and phosphatidylcholines. In summary, IUGR resulting from decreased maternal nutrition is associated with sex-dependent dysregulations in cardiac structure, miRNA expression, and lipid metabolism. If these changes persist postnatally, they may program offspring for higher later life cardiac risk."
+Study Submission Date	"2017-01-25"
+Study Public Release Date	"2017-12-14"
+Study File Name	"s_maloyan.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"maternal undernutrition"	"cardiac fibrosis"	"sexual dimorphism"	"Autophagy"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"MicroRNA"
+Study Design Type Term Accession Number	"http://scai.fraunhofer.de/CSEO#lipidomics"	""	"http://purl.obolibrary.org/obo/MP_0003141"	"http://www.ebi.ac.uk/efo/EFO_0005951"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71427"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25966"
+Study Design Type Term Source REF	"CSEO"	""	"MP"	"EFO"	"NCIT"	""	"CHMO"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"28641979"
+Study Publication DOI	"10.1016/j.yjmcc.2017.06.006"
+Study Publication Author List	"Muralimanoharan S, Li C, Nakayasu ES, Casey CP, Metz TO, Nathanielsz PW, Maloyan A."
+Study Publication Title	"Sexual dimorphism in the fetal cardiac response to maternal nutrient restriction."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sex"	"Diet"
+Study Factor Type	"Gender"	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_NEG_maloyan_mass_spectrometry.txt"	"a_POS_maloyan_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Velos (Thermo Scientific)"	"LTQ Orbitrap Velos (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"38 female baboons (Papio hamadryas anubis) from the Southwest National Primate Research Center at San Antonio, Texas, USA were recruited for this study and maintained in group housing.
+</p>
+Surgical procedures were performed by a fully certified MD or DVM, and postsurgical care was prescribed and monitored by a primate center veterinarian. Cesarean sections were performed at 165d G (0.9G) using standard techniques that have been previously described in detail[1]. All baboons were premedicated with ketamine hydrochloride (10 mg/kg, i.m.).  After intubation, isoflurane (2%) was used to maintain a surgical plane of anesthesia throughout surgery. Following hysterotomy, the umbilical cord was identified and used for fetal exsanguination while under general anesthesia as approved by the AVMA Panel on Euthanasia. The placenta and fetus were removed from the uterus and immediately submitted for morphometric analyses and tissue sampling. Fetal morphometrics was obtained at necropsy. Post-operative maternal analgesia was by buprenorphine hydrochloride (Buprenorphine HCl Injection, Hospira, Inc., Lake Forest, IL) 0.015 mg/kg/d split as 2 doses for 3 days. After recovery in individual cages, mothers were returned to their group housing.
+</p>
+Ref:</br>
+[1] Schlabritz-Loutsevitch NE, Dudley CJ, Gomez JJ, Nevill CH, Smith BK, Jenkins SL, McDonald TJ, Bartlett TQ, Nathanielsz PW, Nijland MJ. Metabolic adjustments to moderate maternal nutrient restriction. Br J Nutr. 2007 Aug;98(2):276-84. doi:10.1017/S0007114507700727. PMID:17391566</br>"	"Tissues were homogenized in cold methanol using a tissue homogenizer (Bullet Blender), and then water and chloroform were added to get a final proportion of chloroform/methanol/water of 2/1/0.6 (v/v/v). The sample was then vigorously vortexed, incubated on ice for 5 min and centrifuged for 10 min at 10,000 rpm and 4 °C. The bottom organic phase was collected into autosampler vials, dried in a vacuum centrifuge and dissolved in methanol for the liquid chromatography tandem-mass spectrometry (LC-MS/MS) analysis."	"Total lipid extracts were injected onto a Waters column (HSS T3 1.0 mm x 150 mm x 1.8 µm particle size). Lipids were separated using a 92 min gradient at a flow rate of 30 µl/min. Mobile phase A was a 40:60 mixture of ACN/H2O containing 10 mM ammonium acetate and mobile phase B was a 10:90 mixture of ACN/IPA containing 10 mM ammonium acetate."	"Samples were analyzed with an Orbitrap mass spectrometer (LTQ Orbitrap Velos, Thermo Fisher Scientific) employing both HCD (high-energy collision dissociation) and CID (collision-induced dissociation) fragmentation."	"Raw data files were converted to mzXML format after identification prior to being uploaded into MZmine2 using the ProteoWizard MSConvert tool."	"The LC-MS/MS data were analyzed with LIQUID[1] and each of the identified lipid species were manually validated. Identified lipids were quantified using MZmine2 to extract peak intensities.
+</p>
+Ref:</br>
+[1] Kyle JE, Crowell KL, Casey CP, Fujimoto GM, Kim S, Dautel SE, Smith RD, Payne SH, Metz TO. LIQUID: an-open source software for identifying lipids in LC-MS/MS-based lipidomics data. Bioinformatics. 2017 Jan 31. doi:10.1093/bioinformatics/btx046. PMID:28158427</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Maloyan"	"Metz"
+Study Person First Name	"Alina"	"Tom"
+Study Person Mid Initials	""	""
+Study Person Email	"maloyan@ohsu.edu"	"thomas.metz@pnnl.gov"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"Knight Cardiovascular Institute, Oregon Health and Science University"	"Pacific Northwest National Laboratory"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"2"	"18"	"113"	"44"	"22"	"99"	"86"	"29"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS693"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\karol\Desktop\Paper resubmision\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS693"
+Study Title	"Quantitative trait loci analysis identifies a prominent gene involved in the production of fatty-acid-derived flavor volatiles in tomato"
+Study Description	"To gain insight into the genetic regulation of lipid metabolism in tomato, we conducted metabolic trait loci (mQTL) analysis following the lipidomic profiling of fruit pericarp and leaf tissue of the Solanum pennellii introgression lines. To enhance mapping resolution for selected fruit-specific mQTL, we profiled the lipids in a subset of independently derived S. pennellii backcross inbred lines, as well as in a near-isogenic (sub-IL) population. We identified a putative lecithin:cholesterol acyltransferase that controls the levels of several lipids, and two members of the class III lipase family, LIP1 and LIP2, that were associated with decreased levels of diacylglycerols (DAGs) and triacylglycerols (TAGs). Lipases of this class cleave fatty acids from the glycerol backbone of acylglycerols. The released fatty acids serve as precursors of flavor volatiles. We show that LIP1 expression correlates with fatty-acid-derived volatile levels. We further confirm the function of LIP1 in TAG and DAG breakdown and volatile synthesis using transgenic plants. In summary, this study provides an extensive characterization of the genetic architecture of lipophilic compounds in tomato in addition to zooming down to the molecular level to demonstrate that release of free fatty acids from the glycerol backbone can have a major impact on downstream volatile synthesis."
+Study Submission Date	"2018-06-08"
+Study Public Release Date	"2018-07-08"
+Study File Name	"s_mtbls693.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"volatile organic compound"	"ultra-performance liquid chromatography-mass spectrometry"	"Lipase"	"4-Decenal"	"RNA Interference"
+Study Design Type Term Accession Number	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHEBI_134179"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37988"	"http://purl.obolibrary.org/obo/CHEBI_90056"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20153"
+Study Design Type Term Source REF	"CSEO"	"CHEBI"	"CHMO"	"NCIT"	"CHEBI"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"29960108"
+Study Publication DOI	"10.1016/j.molp.2018.06.003"
+Study Publication Author List	"Garbowicz K, Liu Z, Alseekh S, Tieman D, Taylor M, Kuhalskaya A, Ofner I, Zamir D, Klee HJ, Fernie AR, Brotman Y."
+Study Publication Title	"Quantitative trait loci analysis identifies a prominent gene involved in the production of fatty-acid-derived flavor volatiles in tomato."
+Study Publication Status	"Accepted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"replicate"	"tissue"	"season"
+Study Factor Type	"genotype"	"replicate"	"Tissue"	"Date"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls693_POS_mass_spectrometry.txt"	"a_mtbls693_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The fruit lipid data set presented is based on field-grown introgression lines over 2 harvests, 2001 and 2003[1]. Plants were grown in the Western Galilee Experimental Station in Akko, Israel, in a completely randomized design with 1 plant/m^2. Seedlings were grown in greenhouses for 35 to 40 days and then transferred to the field. The field was irrigated with 320 m^3 of water/1000 m^3 of field area throughout the season. The harvest of fruit was done when 80 to 100% of tomatoes were red[2].
+</p>
+The leaf lipid data set was obtained from plants grown in the greenhouse in Golm, Germany. In the early March seeds of all 76 Solanum pennellii-derived ILs population[2]. Seeds were grown for 50 days in a randomized design in a control greenhouse. Plant were top watered.  Each IL was planted in at least 4 replicates with at least 1 replicate of parental line M82. Mature leaves were harvested in 50th day of growth and placed into 5 ml tubes and immediately frozen in liquid nitrogen. 
+</p>
+Ref:</br>
+[1] Schauer N, Semel Y, Roessner U, Gur A, Balbo I, Carrari F, Pleban T, Perez-Melis A, Bruedigam C, Kopka J, Willmitzer L, Zamir D, Fernie AR. Comprehensive metabolic profiling and phenotyping of interspecific introgression lines for tomato improvement. Nat Biotechnol. 2006 Apr;24(4):447-54. doi:10.1038/nbt1192. PMID:16531992</br>
+[2] Eshed Y, Zamir D. An introgression line population of Lycopersicon pennellii in the cultivated tomato enables the identification and fine mapping of yield-associated QTL. Genetics. 1995 Nov;141(3):1147-62. PMID:8582620</br>"	"Metabolites were extracted from ripe fruits and leaves tissues using a protocol described previously[1]. Briefly, 120 mg of frozen peeled fruit pericarp (50 mg of leaves) was homogenized using Frosty for 2 x 90 s at maximum speed. Metabolites from each aliquot were extracted with 1 ml of pre-cooled (-20 °C) extraction buffer (homogenous methanol:methyl-tert-butyl-eter (1:3) mixture). After 10 min incubation in 4 °C and sonication for 10 min in sonic bath, 500 µl of water/methanol mixture was added. Samples were then centrifuged (5 min, 14000 x g), which led to the formation of 2 phases: a lipophilic phase and a polar phase. 500 µl of the lipophilic phase was collected, dried under vacuum and re-suspended in 200 µl of ASN:Isopropanol and was used for lipid anaylsis. 
+</p>
+Ref:</br>
+[1] Hummel J, Segu S, Li Y, Irgang S, Jueppner J, Giavalisco P. Ultra performance liquid chromatography and high resolution mass spectrometry for the analysis of plant lipids. Front Plant Sci. 2011 Oct 12;2:54. doi:10.3389/fpls.2011.00054. PMID:22629264</br>"	"Samples were processed using ultra-performance liquid chromatography coupled with Fourier transform mass spectrometry (UPLC-FT-MS)[1] on a C8 reverse phase column (100 x 2.1 mm x 1.7 µm particle size, Waters) at 60 °C. The mobile phases consisted of 1% 1 M NH4OAc and 0.1% acetic acid in water (Buffer A) and acetonitrile/isopropanol (7:3, UPLC grade BioSolve) supplemented with 1 M NH4ac, 0.1 % acetic acid (Buffer B). The dried lipid extracts were re-suspended in 500 µl buffer B. The following gradient profile was applied: 1 min 45% A, 3 min linear gradient from 45% A to 35% A, 8 min linear gradient from 25 to 11% A, 3 min linear gradient from 11 to 1% A. Finally, after washing the column for 3 min with 1% A the buffer is set back to 45% A, and the column is re-equilibrating for 4 min, leading to a total run time of 22 min. The flow rate of the mobile phase was 400 µl/min.
+</p>
+Ref:</br>
+[1] Hummel J, Segu S, Li Y, Irgang S, Jueppner J, Giavalisco P. Ultra performance liquid chromatography and high resolution mass spectrometry for the analysis of plant lipids. Front Plant Sci. 2011 Oct 12;2:54. doi:10.3389/fpls.2011.00054. PMID:22629264</br>"	"The mass spectra were acquired using an Exactive mass spectrometer (Thermo-Fisher, http://www.thermofisher.com) equipped with an ESI interface. All the spectra were recorded using altering full scan and all-ion fragmentation scan mode, covering a mass range from 100–1500m/z at a capillary voltage of 3.0 kV with a sheath gas flow value of 60 and an auxiliary gas flow of 35. The resolution was set to 10,000 with 10 scans/s, restricting the Orbitrap loading time to a maximum of 100 ms with a target value of 1E^6 ions. The capillary temperature was set to 150 °C, while the drying gas in the heated electro spray source was set to 350 °C. The skimmer voltage was held at 25 V while the tube lens was set to a value of 130 V. The spectra were recorded from 1 min to 20 min of the UPLC gradients."	"Processing of chromatograms, peak detection and integration were performed using REFINER MS® 10.0 (GeneData, http://www.genedata.com) or Xcalibur (Version 3.1, Thermo-Fisher, Bremen, Germany). In the first approach the molecular masses, retention time, and associated peak intensities for the three replicates of each sample were extracted from the raw files, which contained the full scan MS and the all-ion fragmentation MS data."	"Processing of mass spectrometry data included the removal of the fragmentation information, isotopic peaks, as well as chemical noise. Further peak filtering on the manually extracted spectra or the aligned data matrices was performed. Obtained features (m/z at a certain retention time) were queried against an in-house lipid database for further annotation. Database used in this project includes nearly 200 lipid species of the following classes: diacylglycerols (DAGs), digalactosyldiacylglycerols (DGDGs), monogalactosyldiacylglycerols (MGDGs), phosphatitylcholines (PCs), phosphatidylethanolamines (PEs), phosphatidylglycerols (PGs), phosphatidylserine (PSs), phosphatitylinositols (PIs), sulfoquinovosyldiacylglycerols (SQDGs), and triacylglycerides (TAGs)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Brotman"	"Garbowicz"
+Study Person First Name	"Yariv"	"Karolina"
+Study Person Mid Initials	""	""
+Study Person Email	"Brotman@mpimp-golm.mpg.de"	"karolagarbowicz@gmail.com"
+Study Person Phone	"+49 174657 6035 "	"+48693673257"
+Study Person Fax	""	""
+Study Person Address	"Department of Life Sciences, Ben-Gurion University of the Negev, Beersheba, Israel"	"Max Planck Institute of Molecular Plant Physiology, Potsdam, Germany"
+Study Person Affiliation	"Department of Life Sciences, Ben-Gurion University of the Negev, Beersheba, Israel"	"Max Planck Institute of Molecular Plant Physiology, Potsdam, Germany"
+Study Person Roles	"group leader"	"master student"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

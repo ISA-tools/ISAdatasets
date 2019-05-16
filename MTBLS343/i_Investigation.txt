@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"MS"	"CHMO"	"EDAM"	"NCBITAXON"	"NCIT"	"PO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"86"	"18"	"19"	"6"	"44"	"12"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Plant Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS343"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS343"
+Study Title	"Untargeted metabolomics approach using UPLC-ESI-QTOF-MS to explore the metabolome of fresh-cut iceberg lettuce"
+Study Description	"An untargeted metabolomics approach using UPLC-ESI-QTOF-MS was performed to explore the metabolome of iceberg lettuce and the changes related to storage time and genetics. Two cultivars with different browning susceptibility, fast- browning (FB) and slow-browning (SB) were studied juts after cutting (d0) and after 5 days of storage (d5). Extraction, metabolic profiling, and data-pretreatment procedures were optimized to obtain a robust and reliable data set. Preliminary principal component analysis (PCA) and hierarchical cluster analysis (HCA) of the full dataset (around 8551 extracted, aligned and filtered metabolites) showed a clear separation between the different samples (FB-d0, FB-d5, SB-d0, and SB-d5), highlighting a clear storage time-dependent effect. After statistical analysis applying Student´s t-test, 536 metabolites were detected as significantly different between d0 and d5 of storage in FB and 633 in SB. Some metabolites (221) were common to both cultivars. Out of these significant compounds, 22 were tentatively identified by matching their molecular formulae with those previously reported in the literature. Five families of metabolites were identified, some of them closely related to quality loss: amino acids, phenolic compounds, sesquiterpene lactones, fatty acids, and lysophospholipids. All compounds showed a clear trend to decrease at d5 except phenolic compounds that increased after storage. Overall, cutting and storage were shown to have a significant impact on the changes of lettuce metabolomics, with different trends depending on the browning susceptibility."
+Study Submission Date	"2016-05-06"
+Study Public Release Date	"2016-06-01"
+Study File Name	"s_lettuce-omics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lettuce"	"Storage"	"Lipids"	"monoacylglycerol phosphate"	"phenols"	"ultra-performance liquid chromatography-mass spectrometry"	"sesquiterpene lactone"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72028"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60824"	"http://edamontology.org/topic_0153"	"http://purl.obolibrary.org/obo/CHEBI_16961"	"http://purl.obolibrary.org/obo/CHEBI_33853"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_37667"	""
+Study Design Type Term Source REF	"NCIT"	"NCIT"	"EDAM"	"CHEBI"	"CHEBI"	"CHMO"	"CHEBI"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1082-x"
+Study Publication Author List	"Carlos J. Garcia, Rocío García-Villalba, Yolanda Garrido-Hernández, Maria I. Gil, Francisco A. Tomás-Barberán"
+Study Publication Title	"Untargeted metabolomics approach using UPLC-ESI-QTOF-MS to explore the metabolome of fresh-cut iceberg lettuce"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"cultivar"	"Storage Time"
+Study Factor Type	"Group"	"Boolean"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_lettuce-omics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"6540 Q-TOF LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"2 cultivars of iceberg lettuce (Lactuca sativa) with different browning susceptibility after cutting, fast browning (FB) and slow browning (SB), were studied. This divergent evolution of browning during storage was demonstrated in previous studies[1][2]. For the purpose of this study, the names of the cultivars are not mentioned. Iceberg cultivars were grown on autumn in Torre Pacheco (Murcia, Spain). These plantation fields have a loamy clay texture, consisting of 34.4% sand, 32.2% silt and 33.4% clay. Iceberg heads were harvested (10/12/2014) 68 days after
+plantation, using standard production practices and when the heads reached commercial maturity based on minimum head weight and optimal compactness[3].
+</p>
+Lettuce heads were harvested the day before processing and stored for 24 h at 4 ºC and 80% relative humidity. 10 heads per cultivar were processed as independent replicates (5 for d0 and 5 for d5). 4 leaves from the middle part of the head were selected and the midribs were cut into pieces of 1.5 cm. Therefore, each biological replicate consisted of the midribs obtained from 4 leaves of 1 lettuce head. Samples of fresh-cut lettuce were evaluated just after cutting (d0) and after 5 days of storage (d5) at 7 ºC. At each time, midribs (30 g FW) of each independent replicate were frozen in liquid nitrogen and stored at -80 ºC for less than 1 month. Midribs were freeze-dried and milled to a fine powder using a blender (Oster Professional BPST02-B) with independent jars (Butlers 324Y91, Bormioli).
+</p>
+Ref:</br>
+[1] Martinez-Sanchez, A., Tudela, J. A., Luna, C., Allende, A., & Gil, M. I. (2011). Low oxygen levels and light exposure affect quality of fresh-cut Romaine lettuce. Postharvest Biology and Technology, 59(1), 34–42. doi:10.1016/j.postharvbio.2010.07.005</br>
+[2] Luna, M. C., Tudela, J. A., Martinez-Sanchez, A., Allende, A., Marin, A., & Gil, M. I. (2012). Long-term deficit and excess of irrigation influences quality and browning related enzymes and phenolic metabolism of fresh-cut iceberg lettuce (Lactuca sativa L.). Postharvest Biology and Technology, 73, 37–45. doi:10.1016/j.postharvbio.2012.05.011</br>
+[3] Gil, M. I., Tudela, J. A., Marti´nez-Sa´nchez, A., & Luna, M. C. (2012). Harvest maturity indicators of leafy vegetables. Stewart Postharvest Review, 8(1), 1–9. doi:10.2212/spr.2012.1.1</br>"	"In an attempt to extract as many compounds as possible for the subsequent metabolic analysis, a hydroalcoholic mixture was used following the method previously described[1], with minor modifications. Freeze dried plant material (0.3 g) was extracted with 10 ml of a mixture of MeOH/water (80:20). The extraction mixture was sonicated at 30 °C for 30 min and centrifuged at 10,000 x g for 15 min. The supernatant was reduced to dryness using a speed vacuum concentrator (Savant SPD121P, ThermoScientific, Alcobendas, Spain). The residue was dissolved in 1 ml of the same solution (80% MeOH), centrifuged and filtered through 0.22 µm PVDF filter (Millipore Millex-GV) before UPLC-ESI-QTOF analysis.  
+</p>
+Ref:</br>
+[1] Llorach, R., Martinez-Sanchez, A., Tomas-Barberan, F. A., Gil, M. I., & Ferreres, F. (2008). Characterisation of polyphenols and antioxidant properties of five lettuce varieties and escarole. Food Chemistry, 108(3), 1028–1038. doi:10.1016/j.foodchem.2007.11.032. PMID:26065768</br>"	"The analyses were carried out using an Agilent 1290 Infinity LC system coupled to the 6550 Accurate-Mass QTOF (Agilent Technologies, Waldbronn, Germany) with an electrospray interface (Jet Stream Technology). Samples (3 µl) were injected on a reverse phase Poroshell 120 EC-C18 column (3 x 100 mm, 2.7 µm) (Agilent Technologies, Waldbronn, Germany) operating at 30 ºC and a flow rate of 0.4 ml/min. The mobile phases used were acidified water (0.1% formic acid) (Phase A) and acidified ACN (0.1% formic acid) (Phase B). Compounds were separated using the following gradient conditions: 0-10 min, 1-18% phase-B; 10-16 min, 18-38% phase-B; 16-22 min, 38-95% phase-B. Finally, the phase B content was returned to the initial conditions (1%) for 1 min and the column re-equilibrated for 5 more min."	"The 6550 Accurate-Mass QTOF MS system was operated in negative ion mode with the mass range set at m/z 100-1100 in full scan resolution mode. Fragmentor voltage was established at 100 V and acquisition rate at 1.5 spectra/s. The optimal conditions for the electrospray interface were: gas temperature 280 ºC, drying gas 9 l/min, nebulizer pressure 35 psi, sheath gas temperature 400 ºC, sheath gas flow 12 l/min. As there was no specific group of target analytes (untargeted analysis), generic settings were applied to obtain as many compounds as possible.
+</p>
+All samples (20) were injected in the same batch and the order of sample injection was randomized to avoid sample bias. A mixture with 1 replicate of each group of samples was used as 'quality control' (QC) and was injected at the beginning, in the middle, and at the end of the batch. Besides, methanol injections were included every 5 samples as a blank run to avoid the carry-over effect. To assure mass accuracy during the MS analysis external calibration of the instrument was performed at the beginning of each batch, introducing a mixture of reference compounds (Tuning Mix). Besides, continuous internal calibration was performed during analyses with the use of signals m/z 112.9855 and m/z 1033.9881 in negative polarity."	"Total chromatogram raw data obtained from UPLC-QTOF were firstly processed using Mass Hunter Qualitative Analysis software (version B.06.00 Agilent Technologies). Using the Molecular Feature Extraction (MFE) algorithm a group of ions characterized by retention time, the area of the chromatographic peak, and accurate mass was extracted in each sample as molecular features (MFs). For the extraction procedure minimum absolute abundance was set at 5000 counts, m/z range was between 100 and 1100 m/z, charge state 1 and minimum number of ions in the isotopic distribution was considered 2 with a peak spacing tolerance of 0.0025 m/z plus 7 ppm following the isotope model of 'common organic molecules'. In negative mode adducts [M-H]- and [M-COOH]- were considered in the compounds extraction. Data files for each sample with all the compounds extracted were transformed to exchange format (.cef files) and exported into the Mass Profiler Professional (MPP) software package (version B.12.01, Agilent Technologies, Santa Clara, CA, USA)."	"Compounds with significant changes (p (corr) = 0.5) contributing to the discrimination between conditions were identified by using 'ID Browser'. The software lists possible molecular formulae of the compounds on the basis of their exact mass (max error = 5 ppm) and isotopic pattern (total score = 90 considering isotopic distribution, isotopic space, and isotopic abundance). Molecular formulae were generated using an algorithm that combines C (0-60), H (0-120), O, (0-30) N (0-3) and P (0-3). These molecular formulae were compared to those registered in different databases using 'ID Browser': (i) Metlin, (ii) Metlin metabolites, (iii) Metlin lipids and (iv) an internal lettuce database."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Garcia"	"Garcia"	"Tomas"	"Gil"
+Study Person First Name	"Carlos"	"Rocio"	"Francisco"	"Maria Isabel"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"cjgarcia@cebas.csic.es"	"rgvillalba@cebas.csic.es"	"fatomas@cebas.csic.es"	"migil@cebas.csic.es"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	"Research Group on Quality, Safety, and Bioactivity of Plant Foods, CEBAS-CSIC, P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain."	"Research Group on Quality, Safety, and Bioactivity of Plant Foods, CEBAS-CSIC, P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain."	"Research Group on Quality, Safety, and Bioactivity of Plant Foods, CEBAS-CSIC, P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain."	"Research Group on Quality, Safety, and Bioactivity of Plant Foods, CEBAS-CSIC, P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain."
+Study Person Affiliation	""	""	""	""
+Study Person Roles	"PHD"	"Post-doctoral researcher"	"Principal investigator"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

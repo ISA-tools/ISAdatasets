@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BAO"	"CHMO"	"EFO"	"UO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"26"	"18"	"113"	"42"	"44"	"22"	"99"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BioAssay Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS699"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\igi\Desktop\MetaboLights\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS699"
+Study Title	"A systems analysis with “simplified source-sink model” reveals metabolic reprogramming in a pair of source-to-sink organs during early fruit development in tomato by LED light treatments"
+Study Description	"Tomato (Solanum lycopersicum) is a model crop for studying development regulation and ripening in flesh fruits and vegetables. Supplementary light to maintain the optimal light environment can lead to the stable growth of tomatoes in greenhouses and areas without sufficient daily light integral. Technological advances in genome-wide molecular phenotyping have dramatically enhanced our understanding of metabolic shifts in the plant metabolism across tomato fruit development. However, comprehensive metabolic and transcriptional behaviors along the developmental process under supplementary light provided by light-emitting diodes (LED) remain to be fully elucidated. We present integrative omic approaches to identify the impact on the metabolism of a single tomato plant leaf exposed to red LEDs of different intensities during the fruit development stage. Our special light delivery system, the “simplified source-sink model”, involves the exposure of a single leaf below the second truss to red LED light of different intensities. We evaluated fruit-size- and fruit-shape variations elicited by different light intensities. Our findings suggest that more than high-light treatment (500 mmol/m^2/s) with the red LED light is required to accelerate fruit growth for 2 weeks after anthesis. To investigate transcriptomic and metabolomic changes in leaf- and fruit samples we used microarray-, RNA sequencing-, and gas chromatography-mass spectrometry techniques. We found that metabolic shifts in the carbohydrate metabolism and in several key pathways contributed to fruit development, including ripening and cell-wall modification. Our findings suggest that the proposed workflow aids in the identification of key metabolites in the central metabolism that respond to monochromatic red-LED treatment and contribute to increase the fruit size of tomato plants. This study expands our understanding of systems-level responses mediated by low-, appropriate-, and high levels of red light irradiation in the fruit growth of tomato plants."
+Study Submission Date	"2018-07-04"
+Study Public Release Date	"2019-07-01"
+Study File Name	"s_mtbls699.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted mwtabolites"	"light stress"	"gas chromatography time-of-flight mass spectrometry"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000735"
+Study Design Type Term Source REF	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.3389/fpls.2018.01439"
+Study Publication Author List	"Atsushi Fukushima, Shoko Hikosaka, Makoto Kobayashi, Tomoko Nishizawa, Kazuki Saito, Eiji Goto, Miyako Kusano"
+Study Publication Title	"A systems analysis with “simplified source-sink model” reveals metabolic reprogramming in a pair of source-to-sink organs during early fruit development in tomato by LED light treatments"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"flowering period"	"LED PPF"
+Study Factor Type	"timepoint"	"photosynthetic photon flux density"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	""
+Study Factor Type Term Source REF	"EFO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls699_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Details on plant growth and harvest can be found in our earlier reports[1][2]. The experiments were performed at Chiba University, Japan. Briefly, we exposed single leaves to red LED light and investigated changes in the metabolite- and transcript level of leaves and fruits grown under different light intensities. For LED irradiation, we exposed single leaves for 3 weeks to a red LED panel (23 cm x 12 cm, 18 W, Shibasaki Inc., Saitama, Japan); the peak wavelength was 660 nm (Showa Denko K. K., Tokyo, Japan).
+</p>
+Seeds from tomato (Solanum lycopersicum ‘Reiyo’) were sown in 72-cell trays (Takii Seed, Kyoto, Japan) and grown in a soil mix (Napura Soil Mixes) for 2 weeks in a growth chamber (MKV DREAM, Tokyo, Japan) at 25 °C/20 °C (light/dark) and 900 μl/l CO2 concentration. The light/dark cycle was 16 h/8 h for 2 weeks. Then the seedlings were transferred to 2.4 l pots and grown in a growth chamber (Asahi Kogyosha); the photosynthetic photon flux (PPF) level was adjusted to 450 - 500 μmol/m^2/s when measurements were at the meristem of each tomato plant (light source: ceramic metal halide lamps). After plant flowering in the summer of 2010, excluding the second, a leaf below the second truss, and the meristem[2], all leaves and trusses were removed from each plant. LED irradiation at PPF 0, 200, 500, and 1,000 μmol/m^2/s was directly applied to the leaf using our plant irradiation system (humidity 70%, CO2 concentration 900 μl/l). Plant material was harvested on days 0 and 1, and 2 weeks after light irradiation. All samples were frozen within 30 s after sampling in liquid nitrogen. The frozen samples were lyophilized. 
+</p>
+Ref:</br>
+[1] Fukushima A, Nishizawa T, Hayakumo M, Hikosaka S, Saito K, Goto E, Kusano M. Exploring tomato gene functions based on coexpression modules using graph clustering and differential coexpression approaches. Plant Physiol. 2012 Apr;158(4):1487-502. doi:10.1104/pp.111.188367. PMID:22307966</br>
+[2] Hikosaka S, Iyoki S, Hayakumo M, Goto E. Effects of light intensity and amount of supplemental LED lighting on photosynthesis and fruit growth of tomato plants under artificial conditions. 2013 Journal of Agricultural Meteorology 69(2):93-100. doi:10.2480/agrmet.69.2.5</br>"	"Tomato leaf and stem samples were extracted with 2.5 mg/ml (dried weight) and (CHCl3:MeOH:H2O 2:6:2 v/v/v) as extraction medium including 10 stable isotope reference compounds. Tomato fruit samples were extracted with 2.0 mg/ml (dried weight) and (CHCl3:MeOH:H2O 2:6:2 v/v/v) as extraction medium including 10 stable isotope reference compounds.
+</p>
+The 10 stable isotope reference compounds: [2H4]-succinic acid, [13C5,15N]-glutamic acid, [2H7]-cholesterol, [13C3]-myristic acid, [13C5]-proline, [13C12]-sucrose, [13C4]-hexadecanoic acid, [2H4]-1,4-butanediamine, [2H6]-2-hydoxybenzoic acid and [13C6]-glucose were combined using a Retsch mixer mill MM301 at a frequency of 15 Hz for 10 min at 4 °C. Each isotope compound was adjusted to a final concentration of 15 ng/μl for each 1-μl injection. After centrifugation for 5 min at 15,100 x g, a 200-μl aliquot of the supernatant was drawn and transferred into a glass insert vial. The extracts were evaporated to dryness in an SPD2010 SpeedVacR concentrator from ThermoSavant (Thermo electron corporation, Waltham, MA, USA).
+</p>
+For methoximation, 30 μl of methoxyamine hydrochloride (20 mg/ml in pyridine) was added to the sample. After 24 h of derivatization at room temperature, the sample was trimethylsilylated for 1 h using 30 μl of MSTFA with 1% TMCS at 37 °C with shaking. 30 μl of n-heptane was added following silylation. All the derivatization steps were performed in the vacuum glove box VSC-1000 (Sanplatec, Japan) filled with 99.9995% (G3 grade) of dry nitrogen."	"1-μl of each sample was injected in the splitless mode by an CTC CombiPAL autosampler (CTC analytics, Zwin-gen, Switzerland) into an Agilent 6890N gas chromatograph (Agilent Technologies, Wilmingston, USA) equipped with a 30 m x 0.25 mm inner diameter fused-silica capillary column with a chemically bound 0.25-μl film Rtx-5 Sil MS stationary phase (RESTEK, Bellefonte, USA) for metabolome analysis. Helium was used as the carrier gas at a constant flow rate of 1 ml/min. The temperature program for metabolome analysis started with a 2-min isothermal step at 80 °C and this was followed by temperature ramping at 30 °C to a final temperature of 320 °C, which was maintained for 3.5 min. The transfer line and the ion source temperatures were 250 and 200 °C, respectively."	"Ions were generated by a 70 eV electron beam at an ionization current of 2.0 mA. The acceleration voltage was turned on after a solvent delay of 273 s. Data acquisition was performed on a Pegasus IV TOF mass spectrometer (LECO, St. Joseph, MI, USA) with an acquisition rate of 30 spectra/s in the mass range of a mass-to-charge ratio of m/z = 60-800."	"All raw data in netCDF format were pre processed by hyphenated data analysis (HDA) and the obtained data matrix was normalized and summarized using the cross-contribution compensating multiple standard normalization (CCMN) method."	"For metabolite identification, we cross-referenced the obtained mass spectra with gas chromatography with electron impact mass spectrometry (GC-EI-MS) and retention index libraries in the Golm Metabolome database and our own in-house libraries."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fukushima"	"Kusano"
+Study Person First Name	"Atsushi"	"Miyako"
+Study Person Mid Initials	""	""
+Study Person Email	"atsushi.fukushima@riken.jp"	"kusano.miyako.fp@u.tsukuba.ac.jp"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Yokohama 230-0045, Japan"	"Tsukuba, Ibaraki 305-8572, Japan"
+Study Person Affiliation	"RIKEN Center for Sustainable Resource Science"	"Graduate School of Life and Environmental Sciences, University of Tsukuba,"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

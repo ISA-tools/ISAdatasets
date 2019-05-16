@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"PATO"	"EDAM"	"BAO"	"CHMO"	"EFO"	"CRISP"	"OBI"	"CHEBI"	"ONTODT"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PATO"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/ONTODT"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"161"	"19"	"26"	"18"	"146"	"3"	"22"	"99"	"2"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Phenotypic Quality Ontology"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"BioAssay Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Ontology of General Purpose Datatypes"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS434"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS434"
+Study Title	"Functional Metabolomics Describes the Yeast Biosynthetic Regulome."
+Study Description	"Genome-metabolism interactions enable cell growth. To probe the extent of these interactions and delineate their functional contributions, we quantified the Saccharomyces amino acid metabolome and its response to systematic gene deletion. Over one-third of coding genes, in particular those important for chromatin dynamics, translation, and transport, contribute to biosynthetic metabolism. Specific amino acid signatures characterize genes of similar function. This enabled us to exploit functional metabolomics to connect metabolic regulators to their effectors, as exemplified by TORC1, whose inhibition in exponentially growing cells is shown to match an interruption in endomembrane transport. Providing orthogonal information compared to physical and genetic interaction networks, metabolomic signatures cluster more than half of the so far uncharacterized yeast genes and provide functional annotation for them. A major part of coding genes is therefore participating in gene-metabolism interactions that expose the metabolism regulatory network and enable access to an underexplored space in gene function."
+Study Submission Date	"2017-02-23"
+Study Public Release Date	"2017-03-02"
+Study File Name	"s_Genome-scale_AA.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"amino acid"	"hydrophilic interaction chromatography"	"ultra-performance liquid chromatography-mass spectrometry"	"haploid deletion library"	"Functional genomics"	"prototrophic"	"metabolomic profiling"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHEBI_33709"	"http://purl.obolibrary.org/obo/CHMO_0002262"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://www.ebi.ac.uk/efo/EFO_0007561"	"http://edamontology.org/topic_0085"	"http://purl.obolibrary.org/obo/PATO_0000423"	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"EFO"	"CHMO"	"CHMO"	"EFO"	"EDAM"	"PATO"	"EFO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27693354"	"28864565"
+Study Publication DOI	"10.1016/j.cell.2016.09.007"	"10.1101/pdb.prot089094"
+Study Publication Author List	"Michael Mülleder, Enrica Calvani, Mohammad Tauqeer Alam, Richard Kangda Wang, Florian Eckerstorfer, Aleksej Zelezniak and Markus Ralser"	"Michael Mülleder, Katharina Bluemlein and Markus Ralser"
+Study Publication Title	"Functional metabolomics describes the yeast biosynthetic regulome"	"A high-throughput method for the quantitative determination of free amino acids in Saccharomyces cerevisiae by hydrophilic interaction chromatography tandem mass spectrometry"
+Study Publication Status	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"identifier"	"genotype_commonName"	"genotype_systematicName"	"batch"	"analysis_time"	"sample_type"
+Study Factor Type	"identifier"	"gene"	"open reading frame"	"block"	"time"	"sample"
+Study Factor Type Term Accession Number	"http://ontodm.com/OntoDT#OntoDT_184436"	"http://purl.obolibrary.org/obo/SO_0000704"	"http://purl.bioontology.org/ontology/CSP/1257-3600"	"http://www.ebi.ac.uk/efo/EFO_0005067"	"http://www.ebi.ac.uk/efo/EFO_0000721"	"http://purl.obolibrary.org/obo/MS_1000457"
+Study Factor Type Term Source REF	"ONTODT"	"EFO"	"CRISP"	"EFO"	"EFO"	"MS"
+STUDY ASSAYS
+Study Assay File Name	"a_genome-scale_aa_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"6460 Triple Quadrupole LC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The strains were transferred to synthetic minimal (SM) agar medium (6.7 g/l yeast nitrogen base without amino acids (Y0626, SIGMA), 2% glucose, 2% agar) using a robot (Rotor, Singer instruments) and incubated for 48 hr at 30 °C. These spots were used for the inoculation of cultures in liquid SM (96-well plate, 150 µl/well) and were grown for 24 hr, diluted 1:20 and finally cultured in 96-deep well plates with 1.685 ml SM medium and 1 2-mm borosilicate bead/well for enhanced stirring. These plates were incubated for 8 hr in a Heidolph Titramax 1000 (900 rpm, 30 °C).
+</p>
+Strains from the same batch were cultivated and their metabolites extracted on the same day and analyzed together by LC-MS/MS. Before analysis by LC-MS/MS the order of samples within the same batch was randomized. During analysis a quality control sample (QC) was assessed every 24 samples and in total 237 times. The QC was prepared by joining the extracts of the first batch including metabolites of 351 deletion strains. Eventually, it was used to monitor analytical performance and to calculate the technical variation.
+</p>
+Standards preparation:</br>
+Standards were prepared in 80% ethanol at different concentrations spanning a range of 100-fold above/below the expected concentration. The blank was 80% ethanol. Concentrations are indicated in the metabolite assignment file."	"Cells were collected by centrifugation, the medium discarded and the samples extracted with 200 µl 80 °C hot ethanol containing isotope labeled amino acid standards (50 µg/ml algae hydrolysate amino acid mixture (U-13C, 97%–99%; U-15N, 97%–99%; Cambridge Isotope Laboratories CNLM-452-0.5) that were used for quality control and to detect outliers. Residual medium resulted in a final ethanol concentration of approximately 80%. The extract was heated for 2 min at 80°C, vigorously mixed on a vortex mixer and incubated for further 2 min at 80°C. The extract was cleared from debris by centrifugation and stored at -80°C. Before analysis, extracts were thawed and sonicated for 5 min. For chemical perturbation experiments, the supernatant was removed completely and the cells extracted with 200 µl 80% ethanol."	"Amino acids were separated by hydrophilic interaction liquid chromatography (HILIC) using an ACQUITY UPLC BEH amide column (130Å, 1.7 µm, 2.1 mm x 100 mm) on a liquid chromatography (Agilent 1290 Infinity) and tandem mass spectrometry (Agilent 6460) system. Buffer A was composed of 50:50 acetonitrile/water (Greyhound Bio-012041, Greyhound 23214125), 10 mM ammonium formate (Fluka 14266), 0.176% formic acid (Fluka O6454) and buffer B of 95:5:5 acetonitrile/methanol/water (Greyhound BIO-13684102), 10 mM ammonium formate, 0.176% formic acid. The gradient elution was performed at a constant flow rate of 0.9 ml/min. Starting conditions were 85% buffer B, after 0.7 min the concentration of buffer B was decreased gradually to 5% until 2.55 min and kept for further 0.05 min before returning to initial conditions. The column was then equilibrated resulting in a total runtime of 3.25 min."	"Mass spectrometry analysis was caried out on a Agilent 6460 tandem mass spectrometry system. Signals for free amino acids were then acquired in dynamic SRM mode in Masshunter software and quantified by external calibration. The SRM transition are as follows: alanine (90 > 44.1), arginine (175.1 > 70 ), asparagine (133.1 > 74), aspartate (134.1 > 74), glutamate (148.1 > 84.1), glutamine (147.1 > 84), glycine (76 > 30.1), histidine (156.1 > 110.2), isoleucine (132.1 > 86), leucine (132.1 > 86), lysine (147.1 > 84), methionine (150.1 > 104), phenylalanine (166.1 > 120), proline (116.1 > 70.1), serine (106 > 60), threonine (120.1 > 74), tryptophane (205.1 > 188), tyrosine (182 > 165), valine (118.1 > 71.9)."	"Peak integration was performed with Agilent Masshunter Software.
+</p>
+Batch Normalization and Correction for Sample Dilution:</br>
+For batch normalization we adapted the approach from the MIPHENO normalization workflow[1], where a scaling factor is calculated to bring the batch means to a global mean. First we calculated the overall mean considering all samples. Next, and in contrast to the previously described workflow, we compensated for dilution effects within batches by probabilistic quotient normalisation (PQN) before determining the mean for each batch. By dividing each sample by its respective batch mean and multiplying by the overall mean, we bring each batch to the same level. Finally, we corrected for sample dilution using PQN normalization.
+</p>
+Robust Estimation of Summary Statistics and Identification of Altered Metabolic Profiles:</br>
+The unperturbed value for each metabolite is determined with robust statistical methods by excluding the contribution of few, significantly changing metabolites. We used the Minimum Covariance Determinant (MCD) estimator to obtain robust values for mean, standard deviation, correlation and covariance for each amino acid. With the robust mean and covariance matrix we calculated Mahalanobis distances as robust multivariate metric for dissimilarity from the unaffected amino acid profile. p-values for the amino acid concentrations were calculated using the Z-test statistic. A p-value for the change in the overall amino acid profile was calculated from the Mahalanobis distance using the chi^2 statistic. All p-values were adjusted for multiple testing with the Benjamini & Hochberg method (BH) to identify significantly altered metabolic profiles.
+</p>
+Ref:</br>
+[1] Bell, S.M., Burgoon, L.D., and Last, R.L. (2012). MIPHENO: data normalization for high throughput metabolite analysis. BMC Bioinformatics 13, 10. doi:10.1186/1471-2105-13-10. PMID:22244038</br>"	"Compounds were identified by matching retention time and fragmentation (MS2) with commercially obtained standards (LAA21, Sigma-Aldrich)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+Comment[Quantification]	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ralser"
+Study Person First Name	"Markus"
+Study Person Mid Initials	""
+Study Person Email	"markus.ralser@crick.ac.uk"
+Study Person Phone	"00442037962385"
+Study Person Fax	""
+Study Person Address	"1 Midland Rd, Kings Cross, London NW1 1AT"
+Study Person Affiliation	"The Francis Crick Institute"
+Study Person Roles	"principal investigator role"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000103"
+Study Person Roles Term Source REF	"OBI"

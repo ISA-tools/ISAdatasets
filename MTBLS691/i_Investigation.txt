@@ -1,0 +1,127 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BIRNLEX"	"BAO"	"CHMO"	"NCBITAXON"	"NCIT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"1"	"26"	"18"	"6"	"44"	"22"	"4.1.5"	"29"	
+Term Source Description	"Biomedical Informatics Research Network Project Lexicon"	"BioAssay Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS691"
+Investigation Title	"Malaria Host-Pathogen Interaction Center"
+Investigation Description	"The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary malaria systems biology research program initially supported by an NIH/NIAID contract (# HHSN272201200031C, 2012-2017; see http://www.systemsbiology.emory.edu). The MaHPIC continues with ongoing support from the Defense Advanced Research Project Agency (DARPA) and others. The MaHPIC generates many data types (e.g., clinical, hematological, parasitological, metabolomics, functional genomics, lipidomics, proteomics, immune response, telemetry) and mathematical models, to iteratively test and develop hypotheses related to the complex host-parasite dynamics in the course of malaria in non-human primates (NHPs), and metabolomics data via collaborations with investigators conducting clinical studies in malaria endemic countries, with the overarching goal of better understanding human disease, pathogenesis, and immunity. Curation and maintenance of all data and metadata are the responsibility of the MaHPIC."
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"Galinski"
+Investigation Person First Name	"Mary"
+Investigation Person Mid Initials	"R"
+Investigation Person Email	"mahpic@emory.edu"
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	"Emory University"
+Investigation Person Roles	"PI"
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS691"
+Study Title	"MaHPIC Experiment E03 - Quantitative Metabolomics of Macaca mulatta infected with Plasmodium coatneyi Hackeri strain to produce and integrate clinical, hematological, parasitological, and omics measures of acute, recrudescent, and chronic infections."
+Study Description	"<b>MaHPIC Experimental Description:</b><br/> Malaria-naive male rhesus macaques (<i>Macaca mulatta</i>), approximately four years of age, were inoculated intravenously with salivary gland sporozoites produced and isolated at the Centers for Disease Control and Prevention from multiple <i>Anopheles</i> species (<i>An. dirus, An. gambiae</i>, and <i>An. stephensi</i>) and then profiled for clinical, hematological, parasitological, immunological, functional genomic, lipidomic, proteomic, and metabolomic measurements. The experiment was designed for 100 days, and pre- and post-100 day periods to prepare subjects and administer curative treatments respectively. The anti-malarial drug artemether was subcuratively administered to all subjects at the initial peak of infection, one out of the five macaques received four additional subcurative treatments for subsequent recrudescence peaks. The experimental infection in one subject was ineffective but the macaque was followed-up for the same period of 100 days. The different clinical phases of the infection were clinically determined for each subject. Blood-stage curative doses of artemether were administered to all subjects at the end of the study. Capillary blood samples were collected daily for the measurement of CBCs, reticulocytes, and parasitemias. Capillary blood samples were collected every other day to obtain plasma for metabolomic analysis. Venous blood and bone marrow samples were collected at seven time points for functional genomic, proteomic, lipidomic, and immunological analyses.<br/><br/>Within the MaHPIC, this project is known as ‘Experiment 03’. This dataset was produced by Dr. Regina Cordy and Manoj Khadka at Emory University. To access other publicly available results from 'E03' and other MaHPIC Experiments, including clinical results (specifics on drugs administered, diet, and veterinary interventions), and other omics, visit http://plasmodb.org/plasmo/mahpic.jsp . This page will be updated as datasets are released to the public. The experimental design and protocols for this study were approved by the Emory University Institutional Animal Care and Use Committee (IACUC). <br/><br/><b>Complete list of dataset contributors:</b><br/>The MaHPIC Consortium, Jeremy D. DeBarry, Monica Cabrera-Mora, Mary R. Galinski, Manoj Khadka, Jessica C. Kissinger, Regina Joice Cordy, Esmeralda V.S. Meyer, Mustafa Nural, Eric A. Ortland, Rabindra M. Tirouvanziaml<br/>Please contact the Informatics Core with any questions / concerns / suggestions - mahpic-infocore@uga.edu<br/><br/>Linked Studies: <a href='/metabolights/search?freeTextQuery=MaHPIC' target='_blank'><span class='label label-success'>Malaria Host-Pathogen Interaction Center (MaHPIC)</span></a>"
+Study Submission Date	"2018-06-05"
+Study Public Release Date	"2018-09-05"
+Study File Name	"s_qm_samples.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Malaria"	"Biocrates Absolute IDQp180 kit"	"ultra-performance liquid chromatography-mass spectrometry"	"flow injection analysis"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/MS_1000058"	""
+Study Design Type Term Source REF	"NCIT"	""	"CHMO"	"MS"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	""
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Timepoint"	"Well Position"	"Arthemeter Treatment"
+Study Factor Type	"timepoint"	"position"	"treatment"
+Study Factor Type Term Accession Number	""	""	""
+Study Factor Type Term Source REF	""	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_e03_biocrates_lcms.txt"	"a_e03_biocrates_fia_neg.txt"	"a_e03_biocrates_fia_pos.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Flow Injection Analysis MS - Alternating (FIA-MS (Alternating))"	"Flow Injection Analysis MS - Alternating (FIA-MS (Alternating))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Plasma samples were collected and aliquoted at the Yerkes Malaria Core and shipped to the Metabolomics Core at Emory campus after the end of the experimental phase. The sample collection occured during the experimental daily follow up and assigned time points.<br/>
+<br/>
+A. Materials:<br/>
+EDTA tube; Capillary Blood collection tube (RAM scientific Cat no.#077052)<br/>
+EDTA tube; Whole blood  collection tube (BD- Vacutainer Cat no.#366643)<br/>
+Mircrotainer tube; Gel separator tube (BD- Vacutainer Cat no.#365956)<br/>
+<br/>
+B. Sample Collection Procedure - Capillary:<br/>
+1. The NHP will be restrain following the Standard operating procedures from the Yerkes National primate Research Center 5.7 V4<br/>
+2. Prepare the ear area by cleaning with sterile alcohol pads (provide by the Research Tech Services at Yerkes).<br/>
+3. Grasp the ear lobule then by using the proper lancet (provide by the Research Tech Services at Yerkes) make a puncture.<br/>
+4. Collect the blood drops using the capillary extension of the EDTA tube. Avoid excessive pressure.<br/>
+5. Mixed gently during the collection process to avoid clot formation.<br/>
+6. When the desire volume of blood is collected, cap the tube.<br/>
+7. Un-restrain the NHP following the Standard operating procedures from the Yerkes National primate Research Center 5.7 V4<br/>
+8. Provide the treat to the NHP after procedure is finish.<br/>
+9. The sample is transfer to the malaria core lab in a biosafety label container following the Standard operating procedures Yerkes National primate Research Center 2.11 V5.<br/>
+<br/>
+C. Sample Collection Procedure - Venous:<br/>
+1. The NHP will be anesthetized following the Standard operating procedures from the Yerkes National primate Research Center 5.1 V7.<br/>
+2. The sample is collected on EDTA tube by a Research Tech Service team member following the Standard operating procedures from the Yerkes National primate Research Center 5.1 V7.<br/>
+3. The sample is transfer to the malaria core lab in a biosafety label container following the Standard operating procedures from the Yerkes National primate Research Center 2.11 V5.<br/>
+<br/>
+D. Capillary and venous sample aliquot method<br/>
+1. After capillary or venous EDTA samples had been process for CBC and smears, transfer remaining volume to a mircrotainer tube.<br/>
+2. Centrifuge sample at 2000 rpm, 10 mins, RT<br/>
+3. Aliquot the plasma into an eppendorf tube with LIMS barcoded label.<br/>
+4. Transfer aliquot to a -80 °C freezer<br/>
+5. Sample will be store until the end of the experimental for transferring on dry ice to the metabolomics core."	"For targeted analysis the abundance of 188 selected metabolites was measured using the Biocrates Absolute IDQp180 kit with samples derived from whole blood plasma.</p>
+<p>Briefly, 10 µl of plasma were loaded onto a 96-well kit plate following randomization, and a derivitization reagent and organic solvent added. Supernatants were transferred to a new 96-well plate, mixed with methanol, incubated, and then analyzed using an autosampler maintained at 4 °C.</p>
+<p>Kit components were prepared according to Biocrates Absolute IDQp180 kit manufacturer's instructions. <br />Plasma samples were vortexed after thawing and centrifuged at 4 °C for 5 mins at 2750 X g (as the QCs) before loading on the kit plate.</p>
+<p>Sample extraction was performed according to manufacturer instructions.<br />1. Remove the plastic lid of the AbsoluteIDQ kit plate. Add 10 µl of the ISTD to all wells of the plate with exception of the blank well position A1. <br />2. Use a single channel pipette to accurately pipette 10 µl of the sample (PBS for zero samples, Biocrates calibration standards, QCs, and your samples) onto the center of the spot. Gently touch the filter inserts with the pipette tip while pipetting the samples. <br />3. Dry samples for 30 min at room temperature under nitrogen using a nitrogen evaporator. (Note: Make sure the evaporator needles are at least 5 mm above the filter inserts. Adjust the pressure at the nitrogen pressure to about 3-4 bars and check that there is a nitrogen flow at the end of the evaporator needles.)<br />4. Prepare the pre-mix and derivatization solution.<br />5. Use the derivatization solution immediately and pipette 50 µl to each well.<br />6. Cover the plate with the plastic lid. Let the reaction take place for 20 mins at room temperature. (Note: Ineffective removal of excess of PITC and pyridine may result in poor mass spectrometry results.)<br />7. Remove the plastic lid. Dry the plate in the nitrogen evaporator for 60 mins.<br />8. Add 300 µl of extraction solvent to each well. <br />9. Cover the plate with the plastic lid again. Shake the plate at maximum of 450 rpm at room temperature for 30 mins.<br />10. Centrifuge the kit plate for 2 mins at 500 X g (make sure the centrifuge is balanced). Visually check that the fill level is the same in all wells of the capture plate. If not, repeat and apply higher g or higher pressure, respectively.<br />11. Carefully remove the tape from the sides of the kit plate. Separate the lower capture plate (containing the samples extracts, labeled 'Use for FIA') from the upper filter plate. Make sure nothing spills or splashes over during this process.<br />12. Remove 50 µl from each well of the capture plate (labeled 'Use of FIA') and transfer it to the empty 96 deep well plate labeled 'Use for LC'. Remove 10 µl from each well of the capture plate (labeled 'Use for FIA') and transfer it to the empty deep well plate labeled 'Use for FIA dilution- if required'.<br />13. Use the plate labeled 'Use for LC' to dilute extracts for LC. Add 450 µl of 40% methanol (in HPLC grade water) to each well and seal the plate with a silicone mat. Make sure that the silicone mat is seated correctly on the plate. Firmly press the mat&rsquo;s naps into the wells. Shake for 2 mins at 600 rpm. Shake for 2 mins at 600 rpm.<br />14. Use capture plate labeled 'Use for FIA dilution-If required'. Add 490 µl of FIA mobile phase to each well and seal the plate with a silicone mat. Make sure that the silicone mat is seated correctly on the plate. Firmly press the mat&rsquo;s naps into the wells. Shake for 2 mins at 600 rpm.<br />15. Both plates, labeled 'Use for LC' and 'Use for FIA dilution-If required', are ready for LC-MS/MS and FIA-MS/MS analytics, respectively. Place the sealed plates into the autosampler at 10 °C or store 4 °C.</p>"	"Samples were analyzed using a SCIEX Exion LC and QTRAP 5500 mass spectrometer.</p>
+<p>Each sample was analyzed in two ways:<br />1) Metabolites were measured via LC-MS (positive ionization mode, sample injected using a separation column)<br />2) Lipids were measured FIA (positive and negative ionization mode, sample injected without a separation column) generating two sets of results for each sample.<br />LC-MS results were produced using only positive mode and produced one raw wiff file per samples. FIA results were prodduced using both positive and negative modes and produced two raw wiff files per sample.</br></br>
+<p><strong>LC-MS method and parameters</strong><br />Mobile phase: water with 0.2% formic acid (Solvent A), acetonitrile with 0.2% formic acid (Solvent B)<br />Gradient Flow System: <br />Step - Total time (Minues) - Flow rate (mL/min) - A% - B%<br />0 0 0.5 100 0<br />1 0.5 0.5 100 0<br />2 5.5 0.5 5 95<br />3 6.5 0.5 5 95<br />4 7.0 0.5 100 0<br />5 9.5 0.5 200 0</br></br>
+<p><strong>Flow injection analysis (FIA) method and parameters</strong><br />Mobile phase: Biocrates Solvent I diluted with 290 ml of methanol<br />Settings: Equilibration and start with 0.030 ml/min<br />Gradient flow system:<br />Step - Total time (minutes) - Flow rate (ml/min) - A(%) - B(%)<br />0 0.0 0.030 0 100<br />1 1.6 0.030 0 100 <br />2 2.4 0.200 0 100<br />3 2.8 0.200 0 100<br />4 3.0 0.030 0 100</p>"	"ABSCIEX QTRAP5500 Mass Spectomter<br />Mass spectrometry settings<br />Instrument - Parameter - Method (LC or FIA)<br />Autosampler - Injection volume - 10 µl (LC) - 20 µl (FIA)<br />Column oven - Temp - 50 (LC) - Off (FIA)<br />Mass Spectrometer - CAD - Medium/6 (LC) - Medium/6 (FIA)<br />Mass Spectrometer - CUR - 20 (LC) - 20 (FIA)<br />Mass Spectrometer - Gas 1 - 40 (LC) - 40 (FIA)<br />Mass Spectrometer - Gas 2 - 50 (LC) - 50 (FIA)<br />Mass Spectrometer - ISTD - 5500 (LC) - Pos 5500/Neg -4000 (FIA)<br />Mass Spectrometer - TEM - 500 (LC) - 200 (FIA)<br />Mass Spectrometer - x-axis - 5 (LC) - 5 (FIA)<br />Mass Spectrometer - y-axis - 5 (LC) - 5 (FIA)</p>"	"Before the samples are extracted and run in the LC-MS, the kit plate was registered and Biocrates 10-digit barcode generated for each sample and kit plate using the Biocrates METIDQ software. During kit registration and barcode generation, sample metadata was also entered into METIDQ including the MaHPIC barcode, MaHPIC experiment #, TP, sample volume, etc. The samples were then randomized and batch file was generated. The acquisition method files (KIT2_LC_5504.dam, KIT3_FIA_neg.dam, KIT3_FIA_pos.dam) and the result method file were made available by Biocrates during first installation of the kit. Those files were used for subsequent data acquisition and analysis. The raw data (.wiff) files are used for calculation of analyte concentration and manual check of peak integration in Analyst 1.6.3. The result is obtained was further validated for calibration standards and quality control samples in METIDQ and the final result was exported as .csv file.</p>"	"Data were extracted using the Biocrates MetIDQ software based on co-elution with reference standards, and a set of calibration standards for quantification.</p>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Consortium"	"Galinski"	"Kissinger"	"DeBarry"	"Cabrera-Mora"	"Khadka"	"Joice Cordy"	"Meyer"	"Nural"	"Ortland"	"Tirouvanziam"
+Study Person First Name	"The MaHPIC"	"Mary"	"Jessica"	"Jeremy"	"Monica"	"Manoj"	"Regina"	"Esmeralda"	"Mustafa"	"Eric"	"Rabindra"
+Study Person Mid Initials	""	"R."	""	"D."	""	""	""	"VS"	"V."	"A."	"M."
+Study Person Email	""	"mahpic@emory.edu"	"mahpic-infodepo@uga.edu"	""	""	""	""	""	""	""	""
+Study Person Phone	""	""	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	""	"Emory University"	"Institute of Bioinformatics University of Georgia"	""	""	""	""	""	""	""	""
+Study Person Roles	""	"Principal investigator"	"Co-investigator"	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2199"	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	"BIRNLEX"	"BIRNLEX"	""	""	""	""	""	""	""	""

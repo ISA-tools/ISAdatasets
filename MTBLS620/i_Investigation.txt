@@ -1,0 +1,120 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"NCBITAXON"	"BTO"	"CHMO"	"EFO"	"BAO"	"OBI"	"CHEBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"2"	"22"	"18"	"146"	"19"	"22"	"99"	"86"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"BioAssay Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS620"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UserssanlamDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS620"
+Study Title	"Dynamics of Plasma Lipidome in Progression to Islet Autoimmunity and Type 1 Diabetes: Type 1 Diabetes Prediction and Prevention Study (DIPP)"
+Study Description	"Type 1 diabetes (T1D) is one of the most prevalent autoimmune diseases among children in Western countries. Earlier metabolomics studies suggest that T1D is preceded by dysregulation of lipid metabolism. Here we used a lipidomics approach to analyze molecular lipids in a prospective series of 428 plasma samples from 40 children who progressed to T1D (PT1D), 40 children who developed at least a single islet autoantibody but did not progress to T1D during the follow-up (P1Ab) and 40 matched controls (CTR). Sphingomyelins were found to be persistently downregulated in PT1D when compared to the P1Ab and CTR groups. Triacylglycerols and phosphatidylcholines were mainly downregulated in PT1D as compared to P1Ab at the age of 3 months. Our study suggests that children who progressed to islet autoimmunity or overt T1D are characterized by distinct lipidomic signatures, which may be helpful in the identification of at-risk children before the initiation of autoimmunity."
+Study Submission Date	"2018-02-02"
+Study Public Release Date	"2018-12-01"
+Study File Name	"s_DIPP Tempere.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"diabetes mellitus"	"targeted metabolites"	"Lipidomics"	"lipid"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000400"	""	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHEBI_18059"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	"EFO"	""	"CSEO"	"CHEBI"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30006587"
+Study Publication DOI	"10.1038/s41598-018-28907-8"
+Study Publication Author List	"Santosh Lamichhane, Linda Ahonen, Thomas Sparholt Dyrlund, Esko Kemppainen, Heli Siljander, Heikki Hyoty, Jorma Ilonen, Jorma Toppari, Riitta Veijola, Tuulia Hyotylainen, Mikael Knip, Matej Oresic"
+Study Publication Title	"Dynamics of Plasma Lipidome in Progression to Islet Autoimmunity and Type 1 Diabetes: Type 1 Diabetes Prediction and Prevention Study (DIPP)"
+Study Publication Status	"Accepted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Disease status"	"Antibody status"	"Time point"
+Study Factor Type	"age"	"disease"	"antibody"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://www.ebi.ac.uk/efo/EFO_0000408"	"http://www.bioassayontology.org/bao#BAO_0000502"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"BAO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_dipp_tempere_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"API 5000 (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The plasma samples for lipidome anlaysis have been obtained from the Finnish Type 1 Diabetes Prevention and Prediction Study (DIPP).  The DIPP study has screened more than 220,000 newborn infants for HLA-conferred susceptibility to T1DM in 3 university hospitals Turku, Tampere, and Oulu in Finland. The subjects involved in the current study were chosen from the subset of DIPP children from the city of Tampere, Finland. The study protocol was approved by the Ethics and Research Committee of the participating university and hospital. The study was conducted according to the guidelines in the Declaration of Helsinki. All families provided written informed consent for participation in the study.
+</p>
+In this study, 5 longitudinal samples per child were collected between 1998 and 2012. For each child, longitudinal samples were obtained corresponding to either of the ages of 3, 6, 12, 18, 24, and 36 months. This cohort comprises the samples from 120 children: 40 progressors to T1D (PT1D), 40 who tested positive for at least one Ab in a minimum of 2 consecutive samples but did not progress to clinical T1D during the follow-up (P1Ab), and 40 controls (CTRL) subjects who remained islet autoantibody negative during the follow-up until the age of 15. The 3 study groups were matched by HLA-associated diabetes risk, gender and period of birth. In total 428 non-fasting blood samples were collected for this study. Plasma was separated within 30 minutes after the blood collection by centrifugation at 1600 x g for 20 min at room temperature. The plasma samples were stored at -80 °C until analyzed."	"A total of 428 serum samples were randomized and extracted using a modified version of the previously published Folch procedure[1]. 10 µl of 0.9% NaCl, 40 µl of CHCl3:MeOH (2:1, v/v) and 80 µl of the 3.5 µg/ml working standards solution (for quality control and normalisation purposes) were added to 10 µl of each plasma sample. The samples were vortex mixed and incubated on ice for 30 min after which they were centrifuged (9400 x g, 3 min, 4 °C). 60 µl from the lower layer of each sample was then transferred to a glass vial with an insert and 60 µl of CHCl3:MeOH (2:1, v/v) was added to each sample. The samples were re-randomized and stored at -80 °C until analysis on the UHPLC-Q-TOF-MS equipment.
+</p>
+Ref:</br>
+[1] Folch J, Lees M, Sloane Stanley GH. A simple method for the isolation and purification of total lipides from animal tissues. J. Biol. Chem. 226, 497-509 (1957). PMID:13428781</br>"	"The samples were analysed using an ultra-high-performance liquid chromatography quadrupole time-of-flight mass spectrometry method (UHPLC-Q-TOF-MS), which has been presented in detail previously[1]. Briefly, the UHPLC system used in this work was a 1290 Infinity system from Agilent Technologies (Santa Clara, CA, USA). The system was equipped with a multi-sampler (maintained at 10 °C) using 10% DCM in MeOH and ACN:MeOH:IPA:H2O (1:1:1:1, v/v/v/v) + 0.1% HCOOH as needle wash solutions after each injection for 7.5 s each, a quaternary solvent manager and a column thermostat (maintained at 50 °C). Separations were performed on an ACQUITY UPLC® BEH C18 column (2.1 mm x 100 mm, particle size 1.7 µm) by Waters (Milford, USA).  The flow rate was 0.4 ml/min and the injection volume was 1 µl. H2O + 1% NH4Ac (1M) + 0.1% HCOOH (A) and ACN:IPA (1:1, v/v) + 1% NH4Ac + 0.1% HCOOH (B) were used as the mobile phases for the gradient elution. The gradient was as follows: from 0 to 2 min 35-80% B, from 2 to 7 min 80-100% B and from 7 to 14 min 100% B. Each run was followed by a 7 min re-equilibration period under initial conditions (35% B).
+</p>
+Ref:</br>
+[1] O'Gorman A, Suvitaival T, Ahonen L, Cannon M1, Zammit, Lewis G, Roche HM, Mattila I, Hyotylainen T, Oresic M, Brennan L, Cotter DR. Identification of a plasma signature of psychotic disorder in children and adolescents from the Avon Longitudinal Study of Parents and Children (ALSPAC) cohort. Transl. Psychiatry 7, e1240 (2017). doi:10.1038/tp.2017.211. PMID:28949339</br>"	"The mass spectrometer coupled to the UHPLC was a 6550 iFunnel quadrupole time of flight (Q-TOF) from Agilent Technologies interfaced with a dual jet stream electrospray (dual ESI) ion source. Nitrogen generated by a nitrogen generator (PEAK Scientific, Scotland, UK) was used as the nebulizing gas at a pressure of 21 psi, as the drying gas at a flow rate of 14 l/min (at 193 °C) and as the sheath gas at a flow rate of 11 l/min (at 379 °C). Pure nitrogen (6.0) from Praxair (Fredericia, Denmark) was used as the collision gas. The capillary voltage and the nozzle voltage were kept at 3643 V and 1500 V, respectively. The reference mass solution including ions at m/z 121.0509 and 922.0098 was prepared according to instructions by Agilent and was introduced to the mass spectrometer through the other nebulizer in the dual ESI ion source using a separate Agilent series 1290 isocratic pump at a constant flow rate of 4 ml/min (split to 1:100 before the nebulizer). The acquisition mass range was m/z 100-1700 and the instrument was run in extended dynamic range mode with an approximate resolution of 30,000 FWHM measured at m/z 1521.9715 (which is an ion included in the tune mixture) during calibration of the instrument. MassHunters B.06.01 (Agilent) was used for all data acquisition. Quality control was performed throughout the dataset by including blanks, pure standard samples, extracted standard samples and control plasma samples."	"MS data processing was performed using MZmine 2.18. The following steps were applied in the processing:</br>
+01) Crop filtering with a m/z range of 350 – 1700 m/z and a RT range of 2.5 to 21.0 min;</br>
+02) Mass detection with a noise level of 750;</br>
+03) Chromatogram builder with a min time span of 0.08 min, min height of 2250 and a m/z tolerance of 0.006 m/z or 10.0 ppm;</br>
+04) Chromatogram deconvolution using the local minimum search algorithm with a 70% chromatographic threshold, 0.05 min minimum RT range, 5% minimum relative height, 2250 minimum absolute height, a minimum ration of peak top/edge of 1 and a peak duration range of 0.08 - 5.0;</br>
+05) Isotopic peak grouper with a m/z tolerance of 5.0 ppm, RT tolerance of 0.05 min, maximum charge of 2 and with the most intense isotope set as the representative isotope;</br>
+06) Peak filter with minimum 12 data points, a FWHM between 0.0 and 0.2, tailing factor between 0.45 and 2.22 and asymmetry factor between 0.40 and 2.50;</br>
+07) Peak list row filter keeping only peak with a minimum of 1 peak in a row;</br>
+08) Join aligner with a m/z tolerance of 0.006 or 10.0 ppm and a weight for of 2, a RT tolerance of 0.1 min and a weight of 1 and with no requirement of charge state or ID and no comparison of isotope pattern;</br>
+09) Peak list row filter with a minimum of 53 peak in a row (= 10% of the samples);</br>
+10) Duplicate peak filter with a m/z tolerance of 0.006 m/z or 10.0 ppm and a RT tolerance of 0.1 min;</br>
+11) Gap filling using the same RT and m/z range gap filler algorithm with an m/z tolerance of 0.006 m/z or 10.0 ppm;</br>
+12) Peak filter using the same parameters as under step 6;</br>
+13) Peak list row filter with a minimum of 265 peak in a row (= 50% of the samples);</br>
+14) Identification of lipids using a custom database search with an m/z tolerance of 0.006 m/z or 10.0 ppm and a RT tolerance of 0.1 min;</br>
+15) Normalization using internal standards (PE (17:0/17:0), SM (d18:1/17:0), Cer(d18:1/17:0), LPC(17:0), TG(16:0/16:0/16:0)-13C3 and PC(16:0/d30/18:1)) using in-house developed R-script;</br>
+16) Data imputation of missing values were done with half of the rows minimum."	"Lipids were identified by custom database search using an internal spectral library in MzMine. "
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Oresic"	"Lamichhane"	"Knip"
+Study Person First Name	"Matej"	"Santosh"	"Mikael "
+Study Person Mid Initials	""	""	""
+Study Person Email	"matej.oresic@utu.fi"	"santosh.lamichhane@utu.fi"	"mikael.knip@helsinki.fi"
+Study Person Phone	"+358 44 972 6094"	"+358 45 2299070"	"+358 59 4487722"
+Study Person Fax	""	""	""
+Study Person Address	"Tykistökatu 6 B
+FIN-20521 Turku, Finland
+Phone: +358 44 972 6094"	"Tykistökatu 6 B
+FIN-20521 Turku, Finland"	"FI-00014 Helsinki, Finland."
+Study Person Affiliation	"University of Turku"	"University of Turku"	"Children's Hospital, University of Helsinki"
+Study Person Roles	"Principle Investigator"	"Post doc"	"Principle Investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

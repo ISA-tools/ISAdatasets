@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"146"	"5"	"22"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS634"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"D:\ISAcreatorMetaboLights\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS634"
+Study Title	"Flow cytometry has a significant impact on the cellular metabolome (GC-MS assay)"
+Study Description	"The characterization of specialized cell subpopulations in a heterogeneous tissue is essential for understanding organ function in health and disease. A popular method of cell isolation is fluorescence-activated cell sorting (FACS) based on probes that bind surface or intracellular markers. In this study, we analyse the impact of FACS on the cell metabolome of mouse peritoneal macrophages. Compared with directly pelleted macrophages, FACS-treated cells had an altered content of metabolites related to the plasma membrane, activating a mechanosensory signalling cascade causing inflammation-like stress. The procedure also triggered alterations related to energy consumption and cell damage. The observed changes mostly derive from the physical impact on cells during their passage through the instrument. These findings provide evidence of FACS-induced biochemical changes, which should be taken into account in the design of robust metabolic assays of cells separated by flow cytometry. </br></br> The GC-MS assay is reported in the current study MTBLS634. </br> The General LC-MS assay is reported in MTBLS629. </br> The Lipidomic LC-MS assay is reported in MTBLS631. </br></br> The CE-MS assay is reported in MTBLS633. </br></br> Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS629' target='_blank'><span class='label label-success'>MTBLS629</span></a> <a href='https://www.ebi.ac.uk/metabolights/MTBLS631' target='_blank'><span class='label label-success'>MTBLS631</span></a> <a href='https://www.ebi.ac.uk/metabolights/MTBLS633' target='_blank'><span class='label label-success'>MTBLS633</span></a>"
+Study Submission Date	"2018-02-19"
+Study Public Release Date	"2019-02-19"
+Study File Name	"s_mtbls634_GC.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"fluorescence-activated cell sorting"	"untargeted metabolites"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0001085"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	"CHMO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30362351"
+Study Publication DOI	"10.1021/acs.jproteome.8b00472"
+Study Publication Author List	"Binek A, Rojo D, Godzien J, Rupérez FJ, Nuñez V, Jorge I, Ricote M, Vázquez J, Barbas C."
+Study Publication Title	"Flow Cytometry Has a Significant Impact on the Cellular Metabolome."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Experimental group"
+Study Factor Type	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls634_GC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent Technologies 5975 GC/MSD"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Thioglycollate solution (3%) was injected into the peritoneal cavity of 12-week-old C57BL/6 mice to elicit the accumulation of macrophages. Animals were sacrificed 72 h after the injection, and the accumulated macrophages were collected by peritoneal lavage with 10 m sterile PBS. After centrifugation (1400 rpm, 5 min, 4 °C) and washing in 5 ml PBS (1400 rpm, 5 min, 4 °C), cells were counted under the microscope, divided into 4 equal volumes, and centrifuged (1400 rpm, 5 min, 4 °C). After counting and washing the cell pellet in the Ctrl sample was immediately snap-frozen in liq. N2. For the Ab sample, the cell pellet was resuspended in blocking buffer containing anti-CD16/CD32 (Mouse Fc Block, #553141, BD Bioscience - Pharmingen), incubated on ice for 20 min, and subsequently washed in PBS. The cells were then incubated on ice for 20 min with PerCP-Cy5.5-labeled anti-CD45 (#550994, BD Bioscience - Pharmingen) and washed in PBS. After the final washing step, the cell pellet was immediately frozen in liq. N2. The sorted unlabelled cell sample (Sort) and the sorted immunostained cell sample (Ab+Sort) were prepared following the protocols for the Ctrl and Ab groups, respectively, but instead of snap freezing, the cell pellets were resuspended in PBS for FACS. The complete cell populations were sorted in a BD FACSAria II flow cytometer and the data analysed with FlowJo software (FlowJo LLC) (see Figure S6 in the paper associated with this study). No sub-populations were isolated in order to ensure that sample composition remained comparable to the Ctrl and Ab groups and to identify biochemical changes induced solely by the sorting process. After collection, cells from the Sort and Ab+Sort group were pelleted, frozen in liq. N2, and stored at -80 °C until fingerprinting analysis."	"Since biological replicates differed slightly in cell number, the extraction solvent volume was calculated according to the cell pellet mass, thus ensuring between-sample normalization of metabolite concentrations (see Table S1 in the paper associated with this study). On the day of analysis, cell pellets were thawed and doubly extracted by sequential additions of i) MeOH:MTBE (4:1, v/v) and ii) MeOH:H2O (4:1, v/v). Each solvent addition was followed by 3 cycles of freeze/thawing (liq. N2 /cold-water bath, 10 s), sonication (15 W, 6 min), vortexing (1 min), and centrifugation (16,000 x g, 10 min, 4 °C). Equal volumes of the supernatants from i and ii were then mixed and aliquoted for subsequent analysis.
+</p>
+For GC-MS, 100 µl of the the supernatant mix were evaporated to dryness in a Speedvac Concentrator and the sample was reconstituted in 10 µl O-methoxyamine hydrochloride (15 mg/ml) in pyridine for methoximation. After gentle vortexing, the vials were incubated in darkness at room temperature for 16 h. Next, 10 µl BSTFA containing 1% TMCS (v/v) were added, and samples were vortexed for 5 min; silylation was carried out for 1 h at 70 °C, and finally 100 µl of C18:0 methyl ester (10 mg/l in heptane) were added as an internal standard and samples were remixed by gentle vortexing. 6 blank samples were prepared by the same extraction and derivatization procedure.
+</p>
+QC samples are required at the beginning of the sequence to stabilize the system and throughout the analytical runs at periodic intervals to monitor variations in signals over time. Individual QC samples were therefore prepared independently for each analytical platform by pooling and mixing equal volumes of each sample. After gentle vortexing, the mixes were transferred to analytical vials."	"For GC-MS, the GC system (Agilent Technologies 7890A) consisted of an autosampler (Agilent Technologies 7693) and an inert MSD quadrupole detector (Agilent Technologies 5975). The derivatized sample (2 µl) was injected through a DB5-MS GC-Column (length, 30 m; internal diameter, 0.25 mm; film, 0.25 μm 95% dimethylpolysiloxane/5% diphenylpolysiloxane) with a pre-column (10 m J&W integrated with an Agilent 122-5532G column). The flow rate of the helium carrier gas was set at 1 ml/min and the injector temperature was 250 °C. The split ratio was 1:10 flow into a Restek 20782 deactivated glass-wool split liner. The temperature gradient was programmed at 60 °C (held for 1 min), with a ramping rate of 10 °C/min up to 325 °C. The column was cooled for 10 min between injections. The total analysis time was 37.5 min. The detector transfer line, filament source, and quadrupole temperature were respectively set at 290 °C, 230 °C, and 150 °C."	"For GC-MS, data were collected on a mass spectrometer detector Agilent Technologies 5975). The electron ionization (EI) source was set at 70 eV. The mass spectrometer was operated in scan mode over a mass range of m/z 50-600 at a rate of 2 spectra/s. The method was retention-time locked at 19.663 minutes (elution time of the internal standard). The analytical run was set up to start with the injection of C18:0 methyl ester (10 mg/l in heptane) and FAME mix (0.1 mg/ml in CH2Cl2) followed by 3 blanks and 5 QCs and then samples in a randomized order, with other QCs were injected between blocks of 4 unblinded samples until the end of the run, which terminated with the re-injection of the 3 blanks."	"In GC-MS, deconvolution and identification were performed using MassHunter Quantitative Unknowns Analysis (B.07.00, Agilent), data were aligned with MassProfiler Professional (version 13.0, Agilent) and peaks were integrated using MassHunter Quantitative Analysis software (version B.07.00, Agilent). In order to perform the differential analysis on the metabolomics data, in all the platforms the raw variables were then filtered according to a modification of the filtering criteria previously proposed[1]: variables present in at least 50% of the samples of each experimental group and either i) present in at least 80% of the QCs that yielded a variation coefficient <30% or ii) present in <20% of the QCs. Principal component analysis (PCA) models (see Figure 2 in the paper associated with this study) were subsequently built using the SIMCA-P+ software (12.0.1.0, Umetrics). Next, after replacement of missing values by k-means nearest neighbour analysis according to the ccriteria previously published[2], the Mann-Whitney U test was used for all comparisons (i.e., Ctrl vs Ab; Ctrl vs Sort; and Ctrl vs Ab+Sort) followed by the Benjamini-Hochberg post hoc correction (p < 0.05). Missing values were imputed and statistical comparisons made using in-house built scripts for MATLAB (7.10.0.499, MathWorks, Natick, MA, USA).
+</p>
+Ref:</br>
+[1] Godzien J, Alonso-Herranz V, Barbas C, Armitage EG. Controlling the quality of metabolomics data: new strategies to get the best out of the QC sample. Metabolomics 2014, 11, (3), 518-528. doi:10.1007/s11306-014-0712-4.</br>
+[2] Armitage EG, Godzien J, Alonso-Herranz V, López-Gonzálvez Á, Barbas C. Missing value imputation strategies for metabolomics data. Electrophoresis. 2015 Dec;36(24):3050-60. doi:10.1002/elps.201500352. PMID:26376450</br>"	"In GC-MS, metabolite identification was based on the FiehnLib[1] and NIST 14 libraries. The biological role of identified compounds was evaluated and irrelevant identifications such as pesticides, drugs, or impossible chemical structures were excluded. In the final list (see Table S1 in the paper associated with this study), metabolites are reported according to the criteria of the Metabolomics Standards Initiative[2][3], with a confidence level in grade 1 (identified metabolites). Variation between experimental conditions is reported as log2 FC, always relative to control. The number of hits per analytical platform that passed each step is listed in Table 1 in the paper associated with this study.
+</p>
+Ref:</br>
+[1] Kind T, Wohlgemuth G, Lee DY, Lu Y, Palazoglu M, Shahbaz S, Fiehn O. FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Anal Chem. 2009 Dec 15;81(24):10038-48. doi:10.1021/ac9019522. PMID:19928838</br>
+[2] Fiehn, O.; Robertson, D.; Griffin, J.; van der Werf, M.; Nikolau, B.; Morrison, N.; Sumner, L. W.; Goodacre, R.; Hardy, N. W.; Taylor, C., The metabolomics standards initiative (MSI). Metabolomics 2007, 3, (3), 175-178. doi:10.1007/s11306-007-0070-6</br>
+[3] Salek RM, Steinbeck C, Viant MR, Goodacre R, Dunn WB. The role of reporting standards for metabolite annotation and identification in metabolomic studies. Gigascience. 2013 Oct 16;2(1):13. doi:10.1186/2047-217X-2-13. PMID:24131531>/br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Binek"	"Rojo"	"Barbas"
+Study Person First Name	"Aleksandra"	"David"	"Coral"
+Study Person Mid Initials	""	""	""
+Study Person Email	"arbinek@cnic.es"	"david.rojoblanco@ceu.es"	"cbarbas@ceu.es"
+Study Person Phone	"+34914 53 12 00"	"+34913 72 47 11"	"+34913 72 47 11"
+Study Person Fax	""	""	""
+Study Person Address	"Calle de Melchor Fernández Almagro, 3, 28029 Madrid"	"Universidad CEU-San Pablo, Urbanización Montepríncipe. M-501 km 0, 28660 Boadilla del Monte"	"Universidad CEU-San Pablo, Urbanización Montepríncipe. M-501 km 0, 28660 Boadilla del Monte"
+Study Person Affiliation	"Centro Nacional de Investigaciones Cardiovasculares (CNIC)"	"Centro de Metabolómica y Bioanálisis de la Universidad San Pablo CEU"	"Centro de Metabolómica y Bioanálisis de la Universidad San Pablo CEU"
+Study Person Roles	"Postdoc"	"Postdoc"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

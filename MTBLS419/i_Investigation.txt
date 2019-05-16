@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"CSEO"	"ROLEO"	"BAO"	"AURA"	"CHEBI"	"BTO"	"NCBITAXON"	"CHMO"	"EFO"	"BCTEO"	"OBI"	"NCIT"	"UO"	
-Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/AURA"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BCTEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	
-Term Source Version	"2"	"1"	"19"	"1"	"80"	"22"	"6"	"18"	"146"	"3"	"23"	"44"	"43"	
-Term Source Description	"Cigarette Smoke Exposure Ontology"	"Role Ontology"	"BioAssay Ontology"	"KB_Bio_101"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Bone and Cartilage Tissue Engineering Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	
+Term Source Name	"BAO"	"CSEO"	"OBI"	"BTO"	"CHMO"	"BCTEO"	"NCBITAXON"	"NCIT"	"ROLEO"	"EFO"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BCTEO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"19"	"2"	"23"	"22"	"18"	"3"	"6"	"44"	"1"	"146"	"80"	"43"	
+Term Source Description	"BioAssay Ontology"	"Cigarette Smoke Exposure Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Bone and Cartilage Tissue Engineering Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Role Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
 INVESTIGATION
 Investigation Identifier	"MTBLS419"
 Investigation Title	"Investigation"
@@ -45,18 +45,18 @@ Study Design Type	"docosahexaenoic acid"	"3,4-dihydroxybenzoic acid"	"propionic 
 Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_36005"	"http://purl.obolibrary.org/obo/CHEBI_36062"	"http://purl.obolibrary.org/obo/CHEBI_30768"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49019"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/CHMO_0001807"	""
 Study Design Type Term Source REF	"CHEBI"	"CHEBI"	"CHEBI"	"NCIT"	"CSEO"	"CHMO"	""
 STUDY PUBLICATIONS
-Study PubMed ID	""
+Study PubMed ID	"28208746"
 Study Publication DOI	"doi:10.3390/ijms18020359"
 Study Publication Author List	"Veronica Ghini, Mattia Di Nunzio, Leonardo Tenori, Veronica Valli, Francesca Danesi, Francesco Capozzi, Claudio Luchinat and Alessandra Bordoni "
 Study Publication Title	"Evidence of a DHA signature in the lipidome and metabolome of human hepatocytes"
-Study Publication Status	"in preparation"
-Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001795"
-Study Publication Status Term Source REF	"EFO"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
 STUDY FACTORS
-Study Factor Name	"compound"	"time post exposure"	"dose"
-Study Factor Type	"treatment"	"hour"	"dose"
-Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/UO_0000032"	"http://www.ebi.ac.uk/efo/EFO_0000428"
-Study Factor Type Term Source REF	"EFO"	"UO"	"EFO"
+Study Factor Name	"compound"	"time post exposure"
+Study Factor Type	"treatment"	"hour"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/UO_0000032"
+Study Factor Type Term Source REF	"EFO"	"UO"
 STUDY ASSAYS
 Study Assay File Name	"a_pathway_metabolite_profiling_NMR_spectroscopy.txt"
 Study Assay Measurement Type	"metabolite profiling"
@@ -67,26 +67,24 @@ Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/ob
 Study Assay Technology Type Term Source REF	"OBI"
 Study Assay Technology Platform	"Bruker"
 STUDY PROTOCOLS
-Study Protocol Name	"sample collection"	"extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"data transformation"	"Metabolite identification"
-Study Protocol Type	"sample collection"	"extraction"	"HepG2 cell water/lipid-soluble extracts"	"NMR spectroscopy"	"NMR assay"	"data transformation"	"Metabolite identification"
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
 Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
 Study Protocol Type Term Source REF	""	""	""	""	""	""	""
-Study Protocol Description	"HepG2 human hepatoma cells were kept at 37 °C, 95% air, 5% CO2 in DMEM supplemented with 10% (v/v) fetal bovine serum (FBS), 100 U/ml penicillin and 100 mg/ml streptomycin. Once a week, cells were split 1:20 into a new 75 cm2 flask, and medium was refreshed. Cells were seeded at a density of 0.6 × 10^6 cells (for fatty acid and lipid quantification) or at 1.0 × 10^6 cells (for NMR experiments). After 24 h, at 75%–80% confluence, cells were divided randomly into six groups: (i) not supplemented (NS); (ii) supplemented with 70 µM PRO; (iii) supplemented with 20 µM PCA; (iv) supplemented with 50 µM DHA; (v) supplemented with 50 µM DHA + 70 µM PRO; (vi) supplemented with 50 µM DHA + 20 µM PCA.</br>
+Study Protocol Description	"HepG2 human hepatoma cells were kept at 37 °C, 95% air, 5% CO2 in DMEM supplemented with 10% (v/v) fetal bovine serum (FBS), 100 U/ml penicillin and 100 mg/ml streptomycin. Once a week, cells were split 1:20 into a new 75 cm^2 flask, and medium was refreshed. Cells were seeded at a density of 0.6 × 10^6 cells (for fatty acid and lipid quantification) or at 1.0 × 10^6 cells (for NMR experiments). After 24 h, at 75%–80% confluence, cells were divided randomly into 6 groups: (i) not supplemented (NS); (ii) supplemented with 70 µM PRO; (iii) supplemented with 20 µM PCA; (iv) supplemented with 50 µM DHA; (v) supplemented with 50 µM DHA + 70 µM PRO; (vi) supplemented with 50 µM DHA + 20 µM PCA.
 </p>
-DHA was dissolved in 100% ethanol, and complexed to bovine serum albumin (BSA); fatty acid–BSA complexes were prepared fresh each time at a final BSA concentration of 0.5% in serum-free DMEM. PCA was dissolved in dimethyl sulfoxide (DMSO) acidified with HCl (at pH 2), while PRO was dissolved in water. The final concentration of ethanol and DMSO was kept below 0.1% in serum-free DMEM. Control cells received corresponding amounts of BSA, ethanol and DMSO. DHA, PRO and PCA concentrations used in the study were evidenced to be non-cytotoxic in preliminary experiments.
-"	"Cells were scraped off; the cell pellet was washed with ice-cold M9 buffer to remove traces of growth medium, and dissolved with 400 µl ice-cold DPBS buffer. Cells were lysed by sonication for 150 s by repeating the pulse 2 s on and 3 s off, then extracted using 800 µl of methanol-chloroform 1:1 (v/v) pre-cold at −80 °C. After mixing, vortex cells were incubated on ice for 30 min, and centrifuged at 14,000× g for 20 min at 4 °C. The resulting two phases were divided carefully, and the extraction procedure was repeated twice for each sample.</br>
-"	"To prepare the water-soluble extracts, for each sample, the whole volume was evaporated, and the dried water-soluble cell extract was dissolved in 750 µl of phosphate sodium buffer (70 mM Na2HPO4; 20% (v/v) 2H2O; 0.025% (v/v) NaN3; 0.8% (w/v) sodium trimethylsilyl [2,2,3,3-2H4]propionate (TMSP) pH 7.4). A total of 600 µl of the extract were then transferred into 5 mm NMR tubes (Bruker BioSpin srl; Rheinstetten, Germany) for the analysis.</br>
+DHA was dissolved in 100% ethanol, and complexed to bovine serum albumin (BSA); fatty acid–BSA complexes were prepared fresh each time at a final BSA concentration of 0.5% in serum-free DMEM. PCA was dissolved in dimethyl sulfoxide (DMSO) acidified with HCl (at pH 2), while PRO was dissolved in water. The final concentration of ethanol and DMSO was kept below 0.1% in serum-free DMEM. Control cells received corresponding amounts of BSA, ethanol and DMSO. DHA, PRO and PCA concentrations used in the study were evidenced to be non-cytotoxic in preliminary experiments."	"Cells were scraped off; the cell pellet was washed with ice-cold M9 buffer to remove traces of growth medium, and dissolved with 400 µl ice-cold DPBS buffer. Cells were lysed by sonication for 150 s by repeating the pulse 2 s on and 3 s off, then extracted using 800 µl of methanol-chloroform 1:1 (v/v) pre-cold at -80 °C. After mixing, vortex cells were incubated on ice for 30 min, and centrifuged at 14,000 x g for 20 min at 4 °C. The resulting two phases were divided carefully, and the extraction procedure was repeated twice for each sample."	"To prepare the water-soluble extracts, for each sample, the whole volume was evaporated, and the dried water-soluble cell extract was dissolved in 750 µl of phosphate sodium buffer (70 mM Na2HPO4; 20% (v/v) 2H2O; 0.025% (v/v) NaN3; 0.8% (w/v) sodium trimethylsilyl [2,2,3,3-2H4]propionate (TMSP) pH 7.4). A total of 600 µl of the extract were then transferred into 5 mm NMR tubes (Bruker BioSpin srl; Rheinstetten, Germany) for the analysis.
+</p>
 To prepare the lipid extract, for each sample, the whole volume was evaporated and the dried lipid cell extract was dissolved in 750 µl of CDCl3, and 600 µl were transferred into 5 mm NMR tubes (Bruker BioSpin srl; Rheinstetten, Germany) for the analysis."	"1H-NMR spectra for all samples were acquired using a Bruker 600 MHz spectrometer (Bruker BioSpin srl; Rheinstetten, Germany) operating at 600.13 MHz proton Larmor frequency and equipped with a 5 mm PATXI 1H-13C-15N and 2H-decoupling probe including a z axis gradient coil, an automatic tuning-matching (ATM) and an automatic and refrigerated sample changer (SampleJet, Bruker BioSpin srl; Rheinstetten, Germany). A BTO 2000 thermocouple served for temperature stabilization at the level of approximately 0.1 K at the sample. Before measurement, samples were kept for 5 min inside the NMR probe head, for temperature equilibration at 300 K."	"For each sample, a monodimensional 1H NMR spectra was acquired with water peak suppression and a standard NOESY (Nuclear Overhauser Effect Spectroscopy) pulse sequence using 32 scans; 98,304 data points; a spectral width of 18,028 Hz; an acquisition time of 2.7 s; a relaxation delay of 4 s; and a mixing time of 0.1 s."	"Free induction decays were multiplied by an exponential function equivalent to a 1.0 Hz line-broadening factor before applying Fourier transform. Transformed spectra were automatically corrected for phase and baseline distortions and calibrated (anomeric glucose peak at 5.24 ppm) using TopSpin (Version 3.8.4, Bruker). Each 1-D spectrum in the range between 0.02 and 10.00 ppm was segmented into 0.02 ppm chemical shift bins, and the corresponding spectral areas were integrated using AMIX software(Bruker BioSpin). Regions between 6.0 and 4.5 ppm containing residual water were removed."	"Signal identification was performed using a library of NMR spectra of pure organic compounds, public databases (such as HMBD, Human Metabolic Database, and SDBS, Spectra Database for Organic Compounds) storing reference NMR spectra of metabolites, spiking NMR experiments and literature data [1][2].</br>
 </p>
 Ref:</br>
 [1] Wishart DS, Jewison T, Guo AC, Wilson M, Knox C, Liu Y, Djoumbou Y, Mandal R, Aziat F, Dong E, et al. (2013) HMDB 3.0—The Human Metabolome Database in 2013. Nucleic Acids Res. 41, D801–D807.</br>
-[2] Vinaixa M, Rodriguez MA, Rull A, Beltran R, Blade C, Brezmes J, Canellas N, Joven J, Correig X. (2010) Metabolomic assessment of the effect of dietary cholesterol in the progressive development of fatty liver disease. J. Proteome Res. 9, 2527–2538.
-"
+[2] Vinaixa M, Rodriguez MA, Rull A, Beltran R, Blade C, Brezmes J, Canellas N, Joven J, Correig X. (2010) Metabolomic assessment of the effect of dietary cholesterol in the progressive development of fatty liver disease. J. Proteome Res. 9, 2527–2538."
 Study Protocol URI	""	""	""	""	""	""	""
 Study Protocol Version	""	""	""	""	""	""	""
-Study Protocol Parameters Name	"cell culture temperature;cell culture antibiotics;seeding density;cell culture CO2 partial pressure;harvesting;cell culture configuration;cell culture vessel;harvesting condition;cell culture medium;metabolism quenching;cell culture serum"	"Extraction protocol"	"NMR tube type;Temperature;Sample pH; Solvent"	"transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
-Study Protocol Parameters Name Term Accession Number	";;;;;;;;;;"	"http://purl.obolibrary.org/obo/ID_0000232"	";;;"	";;;"	""	""	""
-Study Protocol Parameters Name Term Source REF	";;;;;;;;;;"	"BCTEO"	";;;"	";;;"	""	""	""
+Study Protocol Parameters Name	"cell culture temperature;cell culture antibiotics;seeding density;cell culture CO2 partial pressure;harvesting;cell culture configuration;cell culture vessel;harvesting condition;cell culture medium;metabolism quenching;cell culture serum"	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	";;;;;;;;;;"	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	";;;;;;;;;;"	""	";;;"	";;;;"	""	""	""
 Study Protocol Components Name	""	""	""	""	""	""	""
 Study Protocol Components Type	""	""	""	""	""	""	""
 Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""

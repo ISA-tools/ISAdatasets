@@ -1,0 +1,110 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"ENVO"	"EFO"	"MESH"	"CHMO"	"TEO"	"OBI"	"RCD"	"MS"	"BTO"	"CHEMINF"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/TEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/RCD"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEMINF"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"6"	"27"	"146"	"10"	"5"	"4"	"22"	"3"	"86"	"29"	"41"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Environment Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Chemical Methods Ontology"	"Time Event Ontology"	"Ontology for Biomedical Investigations"	"Read Codes, Clinical Terms Version 3 (CTV3)"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Information Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS445"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersFEDERICODesktopISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS445"
+Study Title	"Biogeography shaped the metabolome of the genus Espeletia: a phytochemical perspective on an Andean adaptive radiation"
+Study Description	"The páramo ecosystem has the highest rate of diversification across plant lineages on earth, of which the genus Espeletia (Asteraceae) is a prime example. The current distribution and molecular phylogeny of Espeletia suggest the influence of Andean geography and past climatic fluctuations on the diversification of this genus. However, molecular markers have failed to reveal subtle biogeographical trends in Espeletia diversification, and metabolomic evidence for allopatric segregation in plants has never been reported. Here, we present for the first time a metabolomics approach based on liquid chromatography-mass spectrometry for revealing subtle biogeographical trends in Espeletia diversification. We demonstrate that Espeletia lineages can be distinguished by means of different metabolic fingerprints correlated to the country of origin on a global scale and to the páramo massif on a regional scale. Distinctive patterns in the accumulation of secondary metabolites according to the main diversification centers of Espeletia are also identified and a comprehensive phytochemical characterization is reported. These findings demonstrate that a variation in the metabolic fingerprints of Espeletia lineages followed the biogeography of this genus, suggesting that our untargeted metabolomics approach can be potentially used as a model to understand the biogeographic history of additional plant groups in the páramo ecosystem."
+Study Submission Date	"2017-04-10"
+Study Public Release Date	"2017-09-01"
+Study File Name	"s_mtbls445.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Phylogeography"	"ultra-performance liquid chromatography-mass spectrometry"	"páramo ecosystem"
+Study Design Type Term Accession Number	""	"http://purl.bioontology.org/ontology/MESH/D058974"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	""	"MESH"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28821838"
+Study Publication DOI	"10.1038/s41598-017-09431-7"
+Study Publication Author List	"Guillermo F. Padilla-González, Mauricio Diazgranados, Fernando B. Da Costa*."
+Study Publication Title	"Biogeography shaped the metabolome of the genus Espeletia: a phytochemical perspective on an Andean adaptive radiation"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Location"	"Elevation"	"Season"	"Month of collection"	"Year of collection"
+Study Factor Type	"geographic location"	"elevation"	"season"	"Month"	"Year"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/GAZ_00000448"	"http://purl.obolibrary.org/obo/ENVO_00000176"	"http://purl.obolibrary.org/obo/ENVO_03000096"	"http://informatics.mayo.edu/TEO.owl#TEO_0000050"	"http://informatics.mayo.edu/TEO.owl#TEO_0000051"
+Study Factor Type Term Source REF	"CHEMINF"	"ENVO"	"ENVO"	"TEO"	"TEO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls445_POS_mass_spectrometry.txt"	"a_mtbls445_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Young leaves of 52 known species, 9 hybrids, 11 new species in the process of taxonomic description and 48 biological replicates (samples obtained from different individuals from the same species) of Espeletia (for a total of 120 plant samples, see Table S2 in the paper associated with this study) were collected from the páramos of Colombia and Venezuela between December 2007 and August 2011. All collected plants were identified by Dr. Mauricio Diazgranados (Royal Botanic Gardens Kew, Ardingly, West Sussex, UK). Information about the exact location and elevation of the collection sites, the number of biological replicates and the season of collection for each species are reported in Table S2 in the paper associated with this study. All collected plant samples were immediately deposited inside resealable zipper storage bags containing silica gel beads with a humidity indicator. The same samples used in this study were also used in molecular studies to reconstruct the phylogeny of the group[1]. Contaminated samples were excluded from all the analyses. The collected species represent 73% of the recognized species in Espeletia and covered the entire range of geographic distribution of this genus. Vouchers of the Colombian species were deposited at the COL and ANDES herbaria, and the Venezuelan species were deposited at the MER herbarium according to the collection numbers reported in Table S2 in the paper associated with this study.
+</p>
+Considering that samples could not be collected at the same time and day due to the large geographical distance and difficulty in accessing the páramos of interest, we used an alternative approach to minimize the environmental effects on the metabolome of the analyzed samples and to accurately assess the significance of the locality of collection in the species’ metabolic fingerprints. Plants were collected in different months over 4 years (between 2007 and 2011, Table S2 in the paper associated with this study), and for each geographical locality, different individuals were collected on different dates. Subsequently, through NMDS and OPLS-DA (see below), the metabolome of all samples was used along with the collection date and elevation to find possible correlations, the results of which were negative (Figs 4 and S3 in the paper associated with this study).
+</p>
+To investigate any potential relationship between the seasonality and the metabolic fingerprint of species, we linked the collection sites with the climatological information of the closest páramos with available climate data. We then assigned the most likely season to the collection date based on a previously published scheme[2]. Seasons were coded as “Dry season”, “Rainy season”, “Rainy season to Dry season” and “Dry season to Rainy season”[2]. We ran an NMDS with the resulting table but no correlation was found (Fig. 4 in the paper associated with this study). An OPLS-DA considering the season of collection as the Y variable was also performed (Fig. S4 in the paper associated with this study) and confirmed the NMDS results. There was no association between the season and metabolic fingerprint.
+</p>
+Ref:</br>
+[1] Diazgranados M and Barber JC. Geography shapes the phylogeny of frailejones (Espeletiinae Cuatrec., Asteraceae): a remarkable example of recent rapid radiation in sky islands. PeerJ. 2017 Feb 2;5:e2968. doi:10.7717/peerj.2968. PMID:28168124</br>
+[2] Rangel-Ch, O. La región de vida paramuna (Instituto de Ciencias Naturales - Instituto Alexander von Humboldt, 2000).</br>"	"The extraction procedure used in this study was based on the detailed protocol for large-scale untargeted metabolomics of plant tissues reported previously with some modifications[1]. Briefly, 15 mg of leaves were ground to a fine powder in liquid nitrogen using a mortar and pestle and was then extracted with 1.5 ml of a EtOH-H2O (7:3, v/v) (HPLC-grade) solution in an ultrasonic bath for 15 min at 25 ºC, using a frequency of 40 KHz. After extraction, samples were centrifuged at 19,975 x g for 10 min. The supernatant was partitioned with 0.5 ml of n-hexane, and the aqueous layer was filtered through a 0.2 µm PTFE membrane filter. All solvents were HPLC grade, and a new membrane filter was used for each extract.
+</p>
+Ref:</br>
+[1] De Vos RC, Moco S, Lommen A, Keurentjes JJ, Bino RJ, Hall RD. Untargeted large-scale plant metabolomics using liquid chromatography coupled to mass spectrometry. Nat Protoc. 2007;2(4):778-91. doi:10.1038/nprot.2007.95. PMID:17446877</br>"	"The UHPLC-UV-HRMS analyses were performed on an Accela UHPLC (Thermo Scientific, USA) apparatus with an 80 Hz photodiode array detector (PDA) coupled to a heated electrospray ionization source (HESI) and an Exactive Plus mass spectrometer with an Orbitrap analyzer (Thermo Scientific).
+</p>
+Each plant extract (10 µl) was injected and chromatographed on a C18 column (Hypersil Gold, 50 x 2.1 mm, Thermo Scientific) with a C18 Security GuardTM Ultra cartridge (Phenomenex, USA). Solvent blanks were analyzed for comparison. The mobile phase consisted of purified water with 0.1% of formic acid (line A) and acetonitrile (line C). Separation was performed at a flow rate of 300 µl/min. The gradient started at 5% C and 95% A for the first 3 min and increased linearly to 100% C over 30 min. Use of 100% C continued for 5 min before the mobile phase composition returned to 5% C and 95% A over the following 5 min. The column temperature was maintained at 30 °C, and the tray temperature was kept at 10 °C. The PDA detector was set to record between 200 and 600 nm."	"High-resolution mass spectrometry was carried out simultaneously in positive and negative ionization modes at a resolution of 70,000 full width at half maximum (FWHM). A capillary temperature of 300 ºC was employed along with a spray voltage of +3.6 kV and –3.2 kV for each ionization mode. The mass range from 150 to 2,000 m/z was acquired. All plant samples were randomly analyzed, and 1 extract was injected 4 times, 1 at the beginning, 2 in the middle and 1 at the end of the chromatographic sequence, to check for reproducibility."	"Each set of chromatographic raw data were split into 2 sets according to the ionization mode (positive and negative) using the RecalOffline and Xcalibur (Thermo Scientific) software and subsequently exported to the software MZmine 2.10 (MZmine VTT, Finland), in which data preprocessing was performed.
+</p>
+To separate compound signals from instrumental or chemical noise signals, a 1.0E6 noise threshold was considered using the exact mass algorithm. Noise peaks resulting from the Fourier transform function were removed using the function of Lorentzian extended as HRMS shoulder peaks filter. For peak detection, the chromatogram builder function was used with a minimum time span set to 0.3 min, a minimum height of 1.5E6 and a 0.002 m/z tolerance. Chromatogram deconvolution was performed using the local minimum search algorithm (minimum relative height = 15%, minimum absolute height = 1.5E6, minimum ratio of peak top/edge = 5), which finds local minima in the chromatogram as border points between individual peaks. Isotopes originating from the same compound were grouped using the isotopic peaks grouper function to avoid considering isotopes as different compounds. All peak lists were aligned by the joint aligner method using the following parameters: m/z tolerance = 0.002 m/z, weight for m/z = 15, retention time tolerance = 0.2 absolute (min), weight for RT = 10 and a minimum score of 65%. Peaks not detected after alignment due to low intensity, poor quality or a mistake in peak detection were detected using the peak finder function, considering an intensity tolerance of 1%, a mass tolerance of 0.002 m/z and a retention time tolerance of 0.2 min. Adduct search was performed according to each ionization mode."	"To perform metabolite identification, a secondary metabolite library comprising all chemical compounds reported in the subtribe Espeletiinae was created. The data were inserted in MZmine and employed as a custom database, along with an in house database (AsterDB, www.asterbiochem.org/asterdb) containing ca. 2,500 chemical structures reported in the Asteraceae family.
+</p>
+To confirm the peak assignments we performed MS2 experiments in a UHPLC-UV-HRMS HCD (higher-energy collisional dissociation) cell with a normalized collision energy of 35 units and a resolution of 35,000 FWHM. Additionally, the following 15 reference compounds were used to confirm identifications by comparing the retention times, accurate mass values, UV spectra and fragmentation patterns: quinic acid, 3-O-(E)-caffeoylquinic acid, protocatechuic acid, p-coumaric acid, rutin, quercetin-3-O-galactoside, 3,4-di-O-(E)-caffeoylquinic acid, 3,5-di-O-(E)-caffeoylquinic acid, 4,5-di-O-(E)-caffeoylquinic acid, quercitrin, quercetin, 3-methoxy quercetin, kaempferol, longipilin acetate and ent-kaurenoic acid. The presence of all dereplicated compounds in each species was reported considering a normalized intensity threshold value of 1.0E5, as experimental data suggest that lower intensity values may correspond to experimental noise and a deviation < 3 ppm between the experimental and theoretical monoisotopic mass of each compound."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Da Costa"
+Study Person First Name	"Fernando"
+Study Person Mid Initials	"B"
+Study Person Email	"febcosta@fcfrp.usp.br"
+Study Person Phone	"+55 (16) 3602 0661"
+Study Person Fax	""
+Study Person Address	"School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Av do cafe s/n, Ribeirão Preto, SP, Brazil"
+Study Person Affiliation	"University of São Paulo"
+Study Person Roles	"Associate Professor"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

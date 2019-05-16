@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"EFO"	"UO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"146"	"43"	"99"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS367"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS367"
+Study Title	"13C glucose labelling studies using 2D NMR is a useful tool for determining ex vivo whole organ metabolism during hypothermic machine perfusion of kidneys."
+Study Description	"Background: The aim of this study is to determine the feasibility of using Nuclear Magnetic Resonance (NMR) tracer studies (13C-enriched glucose) to detect ex vivo de novo metabolism in the perfusion fluid and cortical tissue of porcine kidneys during hypothermic machine perfusion (HMP). Methods: Porcine kidneys (n=6) were subjected to 24hrs of HMP using the Organ Recovery Systems LifePort Kidney perfusion device. Glucose, uniformly enriched with the stable isotope 13C ([U-13C] glucose) was incorporated into KPS-1-like perfusion fluid at a concentration of 10 mM. Analysis of perfusate was performed using both 1D 1H and 2D 1H,13C Heteronuclear single quantum coherence NMR spectroscopy (HSQC). The metabolic activity was then studied by quantifying the proportion of key metabolites containing 13C in both perfusate and tissue samples. Results: There was significant enrichment of 13C in a number of central metabolites present in both the perfusate and tissue extracts and was most pronounced for lactate and alanine. The total amount of enriched lactate (per sample) in perfusion fluid increased during HMP (31.1 ± 12.2 nmol at 6 hrs vs 93.4 ± 25.6 nmol at 24 hrs p<0.01). The total amount of enriched alanine increased in a similar fashion (1.73 ± 0.89 nmol at 6hrs vs 6.80 ± 2.56 nmol at 24hrs (p<0.05). In addition, small amounts of enriched acetate and glutamic acid was evident in some samples. Conclusions: This study conclusively demonstrates that de novo metabolism occurs during HMP and highlights active metabolic pathways in this hypothermic, hypoxic environment. While the majority of the 13C-enriched glucose is metabolised into glycolytic endpoint metabolites such as lactate, the presence of non-glycolytic pathway derivatives suggests that metabolism during HMP is more complex than previously thought. Isotopic labelled ex vivo organ perfusion studies using 2D-NMR are feasible and informative."
+Study Submission Date	"2016-07-22"
+Study Public Release Date	"2017-10-16"
+Study File Name	"s_mtbls367.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"Tracer"	"13C-labelled glucose"	"Hypothermic machine perfusion"	"Transplantation"	"nuclear magnetic resonance spectroscopy"	"two-dimensional nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2480"	""	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15342"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/CHMO_0000598"
+Study Design Type Term Source REF	""	"NCIT"	""	""	"NCIT"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27499851"
+Study Publication DOI	"10.1186/s13737-016-0037-0"
+Study Publication Author List	"Nath J, Smith T, Hollis A, Ebbs S, Canbilen SW, Tennant DA, Ready AR, Ludwig C."
+Study Publication Title	"(13)C glucose labelling studies using 2D NMR are a useful tool for determining ex vivo whole organ metabolism during hypothermic machine perfusion of kidneys."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Material sample"	"Time elapsed"
+Study Factor Type	"material sample"	"timepoint"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000747"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls367_1D_NMR_spectroscopy.txt"	"a_mtbls367_2D_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Experiments were performed on 22–26-week-old ‘bacon weight’ pigs, weighing 80–85 kg (n = 6) as described elsewhere[1]. All experiments were performed following the principles of laboratory animal care according to NIH standards. To replicate human conditions, kidneys were initially cold flushed (4 °C) with 1 l Soltran solution under aseptic conditions at a pressure of 150 mmHg, followed by 2 h of cold storage. Organs were then perfused with 1 l of a modified version of KPS-1 solution containing 10 mM of [U-13C]-labelled glucose and 30 g of PEG 35 kDa as an impermeant in place of hydroxyethyl starch. The LifePort Kidney Transporter 1.0 (Organ Recovery Systems) was used for perfusion at a pressure of 30 mmHg (see Fig. 1 in the paper associated with this study).
+</p>
+Kidneys were perfused for 24 h with perfusate sampled at times 6, 12, 18 and 24 hr from each kidney via the designated LifePort sampling port and stored at -20 °C. The samples were thawed at room temperature, prepared and processed as described below. Kidney cortex tissue samples were also taken at the study endpoint and flash frozen prior to homogenization.
+</p>
+Ref:</br>
+[1] Nath J, Guy A, Smith TB, Cobbold M, Inston NG, Hodson J, Tennant DA, Ludwig C, Ready AR. Metabolomic perfusate analysis during kidney machine perfusion: the pig provides an appropriate model for human studies. PLoS One. 2014 Dec 12;9(12):e114818. doi:10.1371/journal.pone.0114818. PMID:25502759</br>"	"Perfusates:</br>
+Perfusate samples were extracted using a chloroform/methanol extraction. Briefly, 1.5 ml of perfusate was combined with 1.5 ml of chilled methanol (at -80 °C) and 1.5 ml chloroform (i.e. a 1:1:1 ratio). This was mixed vigorously for 10 min and then cooled on wet ice for 10 min. The polar and non-polar phases were separated by centrifugation (1300 x g for 15 min at 4 °C) as described elsewhere[1][2]] and 2 ml of the polar fraction aspirated and dried at 30 °C overnight.
+</p>
+Tissues:</br>
+Immediately after storage, the kidneys were laterally bisected and sections of cortex were excised and snap frozen in liquid nitrogen. Sections of cortex were then pulverised to a fine powder using a manual cryogrinder. After this, 0.5 g of the powdered sample was added to a 7-ml Precellys homogenisation tube containing 5.1 ml of chilled methanol (-80 °C) to quench ongoing metabolism. The sample was homogenised using the Precellys 24 Dual homogeniser set at the lowest mode (5000 rpm for 15 s) until fully homogenised (this was standardised to 8 courses of the lowest setting with cooling in dry ice between runs to prevent overheating). Once homogenised, the samples were mixed with 4.65 ml ultrapure water accounting for the estimated 79% water (around 395 µl) present in the tissue already[3] and 5.1 ml chloroform (i.e. a 1:1:1 ratio as with the perfusate samples).
+</p>
+Ref:</br>
+[1] Serkova N, Fuller TF, Klawitter J, Freise CE, Niemann CU. H-NMR-based metabolic signatures of mild and severe ischemia/reperfusion injury in rat kidney transplants. Kidney Int. 2005 Mar;67(3):1142-51. doi:10.1111/j.1523-1755.2005.00181.x. PMID:15698456</br>
+[2] Young JF, Larsen LB, Malmendal A, Nielsen NC, Straadt IK, Oksbjerg N, Bertram HC. Creatine-induced activation of antioxidative defence in myotube cultures revealed by explorative NMR-based metabonomics and proteomics. J Int Soc Sports Nutr. 2010 Feb 4;7(1):9. doi:10.1186/1550-2783-7-9. PMID:20205771</br>
+[3] Mitchell HH, Hamilton TS, Steggerda FR, Bean HW. The chemical composition of the adult human body and its bearing on the biochemistry of growth. J Biol Chem. 1945;158(3):625–37.</br>"	"Perfusates:</br>
+The dried samples were resuspended in 480 µl NMR phosphate buffer containing 0.1 M phosphate buffer (pH 7.0), 0.5 µM DSS (4,4-dimethyl-4-silapentane-1-sulfonic acid), 2 mM imidazole, and 48 µl D20 (deuterium oxide), and vortexed until the dried pellet had completely dissolved. Following this, 35 µl of the sample was added to a 1.7-mm NMR tube, sonicated for 10 min to dissolve any remaining micro particles and then centrifuged to remove air bubbles. The sample was stored at 4 °C until processed.
+</p>
+Tissues:</br>
+Metabolite extraction and resuspension in NMR buffer was performed as in the perfusate sample preparation, with the exception that 4.5 ml of the top polar layer was aspirated and dried before resuspension in 60 µl of NMR phosphate buffer and 35 µl of this was added to a 1.7 mm NMR tube as before."	"Both 1D-1H NMR and 2D-1H,13C HSQC NMR spectra were acquired on a 600-MHz Bruker Avance III NMR spectrometer equipped with a TCI 1.7-mm z-PFG cryogenic probe at 300 K. NMR acquisition time was circa 5 hr per sample (see Fig. 4 in the paper associated with this study). The spectral widths for all spectra were set to either 7812.5 Hz (1H) or 24,155 Hz (13C)."	"For the 1D-1H NMR spectra, 16,384 complex data points were acquired. For the 1H dimension of 2D-1H,13C HSQC NMR spectra, 512 complex data points were acquired. Out of 8192 complex data points (2458), 30% were sampled for the 13C dimension using an exponentially weighted non-uniform sampling scheme. Using a 4-s interscan relaxation delay, 128 transients were recorded for the 1D-1H NMR spectra. 2 transients per increment were recorded for the 2D-1H,13C HSQC NMR spectra. The interscan relaxation delay was set to 1.5 s. Each sample was automatically tuned, matched and then shimmed (1D TopShim) to a DSS line width of <1 Hz prior to acquisition of the first spectrum."	"1D-1H NMR spectra were processed using the MATLAB-based MetaboLab software[1]. All 1D data sets were zero-filled to 131,072 data points prior to Fourier transformation. The chemical shift was calibrated by referencing the DSS signal to 0 ppm. 1D spectra were manually phase corrected before correcting the spectral baseline using a spline function[1]. 
+</p>
+2D 1H,13C HSQC NMR spectra were reconstructed with compressed sensing using the MDDNMR and NMRpipe software[2]-[4]. The spectra were zero-filled to 1024 (1H) times 16,384 (13C) real data points. HSQC spectra were then analysed using MetaboLab, which uses the pyGamma software for multiplet simulations[5]. The methyl group of lactate was used to calibrate the chemical shift based on its assignment in the human metabolome database [22].
+</p>
+Data were analysed using GraphPad Prism v6 (GraphPad Software, San Diego, USA). Data were reported as mean ± SD, unless stated otherwise. Statistical significance was tested using two-tailed Student’s t test. A p value of <0.05 was considered significant.
+</p>
+Ref:</br>
+[1] Ludwig C, Günther UL. MetaboLab--advanced NMR data processing and analysis for metabolomics. BMC Bioinformatics. 2011 Sep 13;12:366. doi:10.1186/1471-2105-12-366. PMID:21914187</br>
+[2] Delaglio F, Grzesiek S, Vuister GW, Zhu G, Pfeifer J, Bax A. NMRPipe: a multidimensional spectral processing system based on UNIX pipes. J Biomol NMR. 1995 Nov;6(3):277-93. PMID:8520220</br>
+[3] Kazimierczuk K, Orekhov VY. Accelerated NMR spectroscopy by using compressed sensing. Angew Chem Int Ed Engl. 2011 Jun 6;50(24):5556-9. doi:10.1002/anie.201100370. PMID:21538743</br>
+[4] Orekhov VY, Jaravine VA. Analysis of non-uniformly sampled spectra with multi-dimensional decomposition. Prog Nucl Magn Reson Spectrosc. 2011 Oct;59(3):271-92. doi:10.1016/j.pnmrs.2011.02.002. PMID:21920222</br>
+[5] Smith SA, Levante TO, Meier BH, Ernst RR. Computer-simulations in magnetic-resonance—an object-oriented programming approach. J Magn Reson Ser A. 1994;106(1):75–105. doi:10.1006/jmra.1994.1008.</br>
+[6] Wishart DS, Tzur D, Knox C, Eisner R, Guo AC, Young N, Cheng D, Jewell K, Arndt D, Sawhney S, Fung C, Nikolai L, Lewis M, Coutouly MA, Forsythe I, Tang P, Shrivastava S, Jeroncic K, Stothard P, Amegbey G, Block D, Hau DD, Wagner J, Miniaci J, Clements M, Gebremedhin M, Guo N, Zhang Y, Duggan GE, Macinnis GD, Weljie AM, Dowlatabadi R, Bamforth F, Clive D, Greiner R, Li L, Marrie T, Sykes BD, Vogel HJ, Querengesser L. HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6. doi:10.1093/nar/gkl923. PMID:17202168</br>"	"1D-1H NMR spectra were exported into Bruker format for metabolite identification and concentration determination using Chenomx 8.1 (ChenomxINC)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Nath"	"Smith"
+Study Person First Name	"Jay"	"Tom"
+Study Person Mid Initials	""	""
+Study Person Email	"Jay.nath@bham.ac.uk"	"Thomas10.smith26@gmail.com"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"University of Birmingham"	"University of Birmingham"
+Study Person Roles	"Designed and performed experiments"	"Designed and performed experiments"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

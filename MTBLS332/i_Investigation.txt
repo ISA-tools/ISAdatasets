@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"MS"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"44"	"129"	"146"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS332"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS332"
+Study Title	"Two Poplar-Associated Bacterial Isolates Induce Additive Favorable Responses in a Constructed Plant-Microbiome System"
+Study Description	"The biological function of the plant-microbiome system is the result of contributions from the host plant and microbiome members. The Populus root microbiome is a diverse community that has high abundance of β- and γ-Proteobacteria, both classes which include multiple plant-growth promoting representatives. To understand the contribution of individual microbiome members in a community, we studied the function of a simplified community consisting of Pseudomonas and Burkholderia bacterial strains isolated from Populus hosts and inoculated on axenic Populus cutting in controlled laboratory conditions. Both strains increased lateral root formation and root hair production in Arabidopsis plate assays and are predicted to encode for different functions related to growth and plant growth promotion in Populus hosts. Inoculation individually, with either bacterial isolate, increased root growth relative to uninoculated controls, and while root area was increased in mixed inoculation, the interaction term was insignificant indicating additive effects of root phenotype. Complementary data including photosynthetic efficiency, whole-transcriptome gene expression and GC-MS metabolite expression data in individual and mixed inoculated treatments indicate that the effects of these bacterial strains are unique and additive. These results suggest that the function of a microbiome community may be predicted from the additive functions of the individual members."
+Study Submission Date	"2016-03-23"
+Study Public Release Date	"2016-04-30"
+Study File Name	"s_poplar leaf.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"plant-microbe interactions"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"microbiome"	"Burkholderia"	"Pseudomonas"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://www.ebi.ac.uk/efo/EFO_0004982"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86222"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76375"
+Study Design Type Term Source REF	""	""	"CHMO"	"EFO"	"NCIT"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"27200001"
+Study Publication DOI	"10.3389/fpls.2016.00497"
+Study Publication Author List	"Timm CM, Pelletier DA, Jawdy SS, Gunter LE, Henning JA, Engle N, Aufrecht J, Gee E, Nookaew I, Yang Z, Lu TY, Tschaplinski TJ, Doktycz MJ, Tuskan GA, Weston DJ."
+Study Publication Title	"Two Poplar-Associated Bacterial Isolates Induce Additive Favorable Responses in a Constructed Plant-Microbiome System."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"GM41"	"BT03"
+Study Factor Type	"Boolean"	"Boolean"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_poplar_leaf_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent 5975E GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Bacterial and plant culture:
+Pseudomonas GM41 and Burkholderia sp. BT03 bacterial strains were isolated using 3 rounds of colony-restreaking on rich medium (R2A, Franklin Lakes, BD Difco, NJ, USA) agar plates from surface-sterilized Populus deltoides roots from plants growing near the Caney Fork river in central Tennessee, USA[1]. Strains were maintained using R2A liquid or agar medium. To prepare for inoculation, strains were grown overnight in R2A medium at 25 °C and 200 rpm shaking. Bacterial suspensions were washed 2X with 10 mM MgSO4 then diluted to OD600 = 0.01 for inoculation; 10 ml of inoculum was added to plant soil immediately prior to planting.
+</p>
+Populus deltoides (genotype “WV94,” ArborGen Inc. Ridgeville, SC, USA) shoot tips were sterilized by washing 5 min in 1% Tween 20, 1 min in 70% EtOH, 12 min in 0.6% NaOCl, then rinsed for 5 min 3X in sterile DI water. Cuttings were transferred to tissue culture medium containing 1X strength MS salts (Caisson Laboratories, Logan, UT, USA), 0.5% activated charcoal (Sigma-Aldrich, St. Louis, MO, USA), 2% sucrose, 0.05% MES (Sigma-Aldrich, St. Louis, MO, USA), 0.15% Gelrite (Plant Media, Dublin, OH, USA) and 0.1% PPM (Plant Cell Technology, Washington, DC, USA) and used as stock plants for up to 3 rounds of sub-culture. Sub-cultured plants were grown in the same tissue culture medium described above for 3 weeks until rooted, then transplanted into experimental condition media.
+</p>
+Plant inoculation and harvest:
+Tissue culture rooted cuttings were planted in sterilized 3 x 3 x 4” polycarbonate vessels with couplers to double headspace and containing 120 cm^3 inert clay (Pro's Choice Rapid Dry, Alpharetta, GA) and 80 ml 1X Modified Hoagland's nutrient solution (Phytotechnology Laboratories, Overland Park, KS, USA) that were subsequently inoculated with 10 ml of bacterial inoculation suspension. Plants were grown for 21 days in growth chambers under 16 h light, 8 h dark per day with ~50% humidity. Plants were harvested by carefully removing the entire plant from the soil, rinsing the root system in sterile DI water to remove loose soil, imaged and tissue was processed. Apical stem and leaves were flash-frozen immediately in liquid nitrogen and stored at -80 °C. Root material was flash-frozen immediately in liquid nitrogen and stored at -80 °C. Experiments were repeated twice with 5 plants per treatment per experiment. Phenotype data was analyzed using a two-way ANOVA with microbial inoculation as factors.
+</p>
+Ref:</br>
+[1] Gottel N. R., Castro H. F., Kerley M., Yang Z., Pelletier D. A., Podar M., et al. . (2011). Distinct microbial communities within the endosphere and rhizosphere of Populus deltoides roots across contrasting soil types. Appl. Environ. Microbiol. 77, 5934–5944. doi:10.1128/AEM.05255-11. PMID:21764952</br>"	"Stored leaf tissue was ground in liquid nitrogen and twice extracted overnight with 2.5 ml of 80% ethanol in water at room temperature. Sorbitol was added (to achieve 10 ng/µl final concentration) before extraction as an internal standard to correct for differences in extraction efficiency, subsequent differences in derivatization efficiency and changes in sample volume during heating. Extracts were pooled and 1 ml of the extract was dried using a nitrogen stream. Dried extracts were dissolved in acetonitrile followed by the addition of N-methyl-N-trimethylsilyltrifluoroacetamide (MSTFA) with 1% trimethylchlorosilane (TMCS) and samples were then heated for 1 h at 70 °C to generate trimethylsilyl (TMS) derivatives[1][2].
+</p>
+Ref:</br>
+[1] Li Y., Tschaplinski T. J., Engle N. L., Hamilton C. Y., Rodriguez M., Liao J. C., et al. . (2012). Combined inactivation of the Clostridium cellulolyticum lactate and malate dehydrogenase genes substantially increases ethanol yield from cellulose and switchgrass fermentations. Biotechnol. Biofuels 5:2. doi:10.1186/1754-6834-5-2. PMID:22214220</br>
+[2] Tschaplinski T. J., Standaert R. F., Engle N. L., Martin M. Z., Sangha A. K., Parks J. M., et al. . (2012). Down-regulation of the caffeic acid O-methyltransferase gene in switchgrass reveals a novel monolignol analog. Biotechnol. Biofuels 5:71. doi:10.1186/1754-6834-5-71. PMID:22998926</br>"	"After 2 days, aliquots were injected into an Agilent 5975C inert XL gas chromatograph-mass spectrometer (GC-MS), fitted with an Rtx-5MS with Integra-guard (5% diphenyl/95% dimethyl polysiloxane) 30 m x 250 µm x 0.25 µm film thickness capillary column. Gas (helium) flow was 1.33 ml/min with the injection port configured in the splitless mode. The injection port, MS Source, and MS Quad temperatures were 250 °C, 230 °C, and 150 °C, respectively. The initial oven temperature was held at 50 °C for 2 min and was programmed to increase at 20 °C/min to 325 °C and held for another 11 min, before cycling back to the initial conditions."	"The standard quadrupole GC-MS is operated in the electron impact (70 eV) ionization mode, targeting 2.5 full-spectrum (50-650 Da) scans/s, as described previously[1].
+</p>
+Ref:</br>
+[1] Tschaplinski T. J., Standaert R. F., Engle N. L., Martin M. Z., Sangha A. K., Parks J. M., et al. . (2012). Down-regulation of the caffeic acid O-methyltransferase gene in switchgrass reveals a novel monolignol analog. Biotechnol. Biofuels 5:71. doi:10.1186/1754-6834-5-71. PMID:22998926</br>"	"No data processing information was provided."	"Metabolite peaks were extracted using a key selected ion, characteristic m/z fragment, rather than the total ion chromatogram, to minimize integrating co-eluting metabolites. The extracted peaks of known metabolites are scaled to the total ion current using predetermined scaling factors. Peaks were quantified by area integration and the concentrations normalized to the quantity of the internal standard recovered, amount of sample extracted, derivatized and injected. A large user-created database (~2300 spectra) of mass spectral electron impact ionization (EI) fragmentation patterns of TMS-derivatized compounds, as well as the Wiley Registry 10th Edition combined with NIST 2014 mass spectral library, were used to identify the metabolites of interest to be quantified. There were 3 replicate plants per treatment and treatment differences were tested for statistical significance (p = 0.05) using Student's t-tests. Data are presented as log2(fold change), which is calculated by determining fold change defined as absolute value of change up or down, then scaled by taking the logarithm of the data and applying positive or negative to indicate increase or decrease in expression, respectively."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Timm"
+Study Person First Name	"Collin"
+Study Person Mid Initials	"M"
+Study Person Email	"timmcm@ornl.gov"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Oak Ridge National Laboratory"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

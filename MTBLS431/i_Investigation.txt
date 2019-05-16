@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"LOINC"	"CLO"	"AERO"	"UO"	"EFO"	"OBI"	"SWEET"	"CHMO"	"NCIT"	"EDAM"	"NMR"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/LOINC"	"http://data.bioontology.org/ontologies/CLO"	"http://data.bioontology.org/ontologies/AERO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/SWEET"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/NMR"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"6"	"6"	"43"	"45"	"43"	"113"	"22"	"1"	"18"	"44"	"31"	"7"	"80"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Logical Observation Identifier Names and Codes"	"Cell Line Ontology"	"Adverse Event Reporting Ontology"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Semantic Web for Earth and Environment Technology Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"NMR-Instrument Component of Metabolomics Investigations Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS431"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"E:paperleshuai返修ISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS431"
+Study Title	"Transcriptomic and Metabolomics Profiling of Phage–Host Interactions between Phage PaP1 and Pseudomonas aeruginosa"
+Study Description	"The basic biology of bacteriophage–host interactions has attracted increasing attention due to a renewed interest in the therapeutic potential of bacteriophages. In addition, knowledge of the host pathways inhibited by phage may provide clues to novel drug targets. However, the effect of phage on bacterial gene expression and metabolism is still poorly understood. In this study, we tracked phage–host interactions by combining transcriptomic and metabolomic analyses in Pseudomonas aeruginosa infected with a lytic bacteriophage, PaP1. Compared with the uninfected host, 7.1% (399/5655) of the genes of the phage-infected host were differentially expressed genes (DEGs); of those, 354 DEGs were downregulated at the late infection phase. Many of the downregulated DEGs were found in amino acid and energy metabolism pathways. Using metabolomics approach, we then analyzed the changes in metabolite levels in the PaP1-infected host compared to un-infected controls. Thymidine was significantly increased in the host after PaP1 infection, results that were further supported by increased expression of a PaP1-encoded thymidylate synthase gene. Furthermore, the intracellular betaine concentration was drastically reduced, whereas choline increased, presumably due to downregulation of the choline–glycine betaine pathway. Interestingly, the choline–glycine betaine pathway is a potential antimicrobial target; previous studies have shown that betB inhibition results in the depletion of betaine and the accumulation of betaine aldehyde, the combination of which is toxic to P. aeruginosa. These results present a detailed description of an example of phage-directed metabolism in P. aeruginosa. Both phage-encoded auxiliary metabolic genes and phage-directed host gene expression may contribute to the metabolic changes observed in the host."
+Study Submission Date	"2017-02-20"
+Study Public Release Date	"2017-03-15"
+Study File Name	"s_P.aeruginosa phage PaP1.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Bacteriophage"	"nuclear magnetic resonance spectroscopy"	"phage–host interaction"	"Transcriptomics"
+Study Design Type Term Accession Number	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14188"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://edamontology.org/topic_3308"
+Study Design Type Term Source REF	""	"NCIT"	"CHMO"	""	"EDAM"
+STUDY PUBLICATIONS
+Study PubMed ID	"28421049"
+Study Publication DOI	"10.3389/fmicb.2017.00548"
+Study Publication Author List	"Zhao X, Shen M, Jiang X, Shen W, Zhong Q, Yang Y, Tan Y, Agnello M, He X, Hu F, Le S."
+Study Publication Title	"Transcriptomic and Metabolomics Profiling of Phage-Host Interactions between Phage PaP1 and Pseudomonas aeruginosa."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Phage infection"
+Study Factor Type	"infection"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000544"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_p.aeruginosa_phage_pap1_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Pseudomonas aeruginosa PA1[1] and lytic phage PaP1[2] were stored in our laboratory at -80 °C in glycerol. P. aeruginosa was cultured aerobically in Luria-Bertani (LB) medium (5 g yeast extract, 10 g tryptone, 10 g NaCl per liter) at 37 °C for all experiments. PaP1 particles were collected and purified using CsCl gradient ultracentrifugation[2].
+</p>
+Phage-infected bacteria or phage-free bacteria were cultured for 40 min. Briefly, 1 l of culture from each group was used for each NMR sample, and 5 replicate samples were prepared per group.
+</p>
+Ref:</br>
+[1] Lu S, Le S, Li G, Shen M, Tan Y, Zhao X, Wang J, Shen W, Guo K, Yang Y, Zhu H, Li S, Li M, Zhu J, Rao X, Hu F. Complete Genome Sequence of Pseudomonas aeruginosa PA1, Isolated from a Patient with a Respiratory Tract Infection. Genome Announc. 2015 Dec 10;3(6). pii: e01453-15. doi:10.1128/genomeA.01453-15. PMID:26659688</br>
+[2] Lu S, Le S, Tan Y, Zhu J, Li M, Rao X, Zou L, Li S, Wang J, Jin X, Huang G, Zhang L, Zhao X, Hu F. Genomic and proteomic analyses of the terminally redundant genome of the Pseudomonas aeruginosa phage PaP1: establishment of genus PaP1-like phages. PLoS One. 2013 May 13;8(5):e62933. doi:10.1371/journal.pone.0062933. PMID:23675441</br>"	"The cultures were placed on ice for 20 min, centrifuged at 15,000 x g for 10 min at 4 °C, and the supernatant was removed. The cell pellets were subsequently washed thrice with pre-chilled PBS, followed by centrifugation at 15,000 x g for 5 min at 4 °C. All samples were snap frozen in liquid nitrogen and stored at -80 °C until NMR analysis."	"50 mg of freeze-dried cells per sample was weighed and suspended in 1 ml ultrapure water. Cell suspensions were further sonicated on ice for 8 cycles of a 4 s on/3 s off cycling program (Sonics VX-130, USA) and then centrifuged for 15 min at 13,000 rpm and 4 °C. The cell lysate was filtered through a 3 KDa ultrafiltration membrane (Mimacon, USA) at 13,000 rpm for 45 min at 4 °C. 50 µl DSS standard solution (Anachro, Canada) was added to 450 µl filtrate per sample, and centrifuged at 13,000 x g at 4 °C for 2 min before being transferred to the NMR tubes (Norwell, USA)."	"Metabolic profiling and peak identification were performed by Anachro Technologies Inc. (Wuhan, China) using described methods[1][2]. All of the NMR experiments were performed on an Agilent DD2 600 MHz spectrometer equipped with a 5 mm CPTCI 1H-13C/15N/D Z-GRD, triple-resonance cryogenic probe at 298.15 K.
+</p>
+Ref:</br>
+[1] Weljie AM, Newton J, Mercier P, Carlson E, Slupsky CM. Targeted profiling: quantitative analysis of 1H NMR metabolomics data. Anal Chem. 2006 Jul 1;78(13):4430-42. doi:10.1021/ac060209g. PMID:16808451</br>
+[2] Ouattara DA, Prot JM, Bunescu A, Dumas ME, Elena-Herrmann B, Leclerc E, Brochot C. Metabolomics-on-a-chip and metabolic flux analysis for label-free modeling of the internal metabolism of HepG2/C3A cells. Mol Biosyst. 2012 Jul 6;8(7):1908-20. doi:10.1039/c2mb25049g. PMID:22618574</br>"	"1H 1D NMR spectra were measured using the NOESY pulse sequence with water presaturation, noesygppr1d, 100 ms mixing time along with a 990 ms pre-saturation. Spectra were acquired with 64 transient scans."	"A line broadening of 0.5 Hz was applied to the free induction decay prior to the Fourier transformation, phasing, and baseline correction. Data were then carefully phased and baseline corrected in Chenomx Processor."	"Metabolites were identified and quantified using Chenomx NMR Suit (version 8.1, Chenomx, Edmonton, AB, Canada). All spectra were referenced to the internal standard (DSS) and analyzed by experienced analysts against the Chenomx Compound Library. From the 10 spectra, 48 metabolites were identified and quantified. All information on metabolite concentration were exported to excel and normalized by weight across all parallel samples before use in the multivariable analysis. Principal component analysis (PCA) and partial least squares discriminant analysis (PLS-DA) were performed by pcaMethod Bioconductor and pls package in R. ggplot2 in R was used for data visualization."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Xia"
+Study Person First Name	"Zhao"
+Study Person Mid Initials	"M"
+Study Person Email	"zhaoxia413@163.com"
+Study Person Phone	"13667652559"
+Study Person Fax	""
+Study Person Address	"Department of Microbiology
+Third Military Medical University
+30 GAO TAN YAN STREET 
+SHA PING BA DISTRICT
+CHONGQING 400038
+"
+Study Person Affiliation	"Third Military Medical University"
+Study Person Roles	"investigation"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000066"
+Study Person Roles Term Source REF	"AERO"

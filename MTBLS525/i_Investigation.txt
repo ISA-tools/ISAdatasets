@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"EFO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"22"	"6"	"129"	"5"	"146"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS525"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/JohnChod2130/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS525"
+Study Title	"A synthetic community system for probing microbial interactions driven by exometabolites"
+Study Description	"Despite that most microorganisms live as part of community, we have modest knowledge about the interactions among microbial community members in nature, and the implications of those interactions for emergent community properties or ecosystem-relevant functions. To facilitate advances in understanding microbial interactions, we describe a straightforward synthetic community system for interrogating the extracellular interactions among microbial community members. The laboratory-scale system physically separates microbial populations within the community, but allows for chemical interactions via a shared media reservoir. Community goods, including small molecules, extracellular enzymes, and antibiotics, can be assayed using sensitive mass spectrometry, and community member outcomes can be assayed, for example, using flow cytometry, biomass measurements, and transcript analyses. The synthetic community design allows for determining the causes and consequences of community diversity and functional outcomes given manipulation of community membership or structure, abiotic stressors, or temporal dynamics. Because it is versatile to accommodate any artificial or environmental microbiome members, scalable to high-throughput capacity, flexible to an array of experimental designs, and accessible to a variety of laboratories because no specialized or costly components are required, this synthetic community system has the potential to practically advance knowledge of microbial interactions within both natural and artificial communities."
+Study Submission Date	"2017-08-13"
+Study Public Release Date	"2017-11-21"
+Study File Name	"s_mtbls525.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Chodkowski JL, Shade A"
+Study Publication Title	"A synthetic community system for probing microbial interactions driven by exometabolites"
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time"	"Replicate"
+Study Factor Type	"timepoint"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls525_RP_mass_spectrometry.txt"	"a_mtbls525_HILIC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo G2 QTOF (Waters)"	"Xevo G2 QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Freezer stocks of B. thailandensis, C. violaceum, and P. syringae (see Table 1 in the paper associated with this study) were plated on TSA50 at 28 °C for 36 hr. Isolated colonies were inoculated in 5 ml of M9-0.2% glucose media and grown overnight at 28 °C with gentle shaking. Overnight cultures of each strain were diluted 1:20 in fresh M9-glucose media prior to inoculation in the transwell plates (130 µl/well) and the media reservoir was filled with 31 ml M9-glucose. Transwell plates were prepared as described above. For each transwell experiment, a custom R script (“RandomArray”) was used to randomize community member placement in the wells so that each member occupied a total of approximately 31 wells per plate. For each of 4 replicate time courses (where each time course included 5 points assessed every 5 hr over stationary phase), 5 replicate transwell plates were prepared for destructive sampling. Transwell plates were incubated at 28 °C with gentle shaking (~0.32 rcf). The first plate was destructively sampled at 15 h and each subsequent plate was destructively sampled every 5 h thereafter until 35 h. Spent media (~ 31 ml) from the shared reservoir was flash frozen in liquid nitrogen and stored at -80 °C prior to metabolite extraction."	"RPLC-MS:</br>
+To prepare samples for non-polar mass spectral analysis, 5-ml aliquots of spent media from each transwell plate media reservoir (5 time points for each of 4 replicate temporal series) and 4 M9-glucose media controls were thawed on ice with 5 ml of 100% methanol. After thawing, solutions were transferred to glass separatory funnels that were initially washed with Liquinox® (Alconox Inc., New York, NY), rinsed with water, dried, and then rinsed 3X with acetone.  3 separate 5-ml liquid-liquid extractions were performed on each sample using dichloromethane, and then the combined volume of the organic layers from each extraction (15 ml) was pooled into a 50 ml canonical tube. The organic layer was dried under nitrogen (N2 Evaporator System, Glas-Col). Samples were re-suspended in 1.0 ml 65%/35% (v/v) acetonitrile/0.1% formic acid in water. 
+</p>
+HILIC-MS:</br>
+To prepare samples for polar mass spectral analysis, 2 ml of the aqueous layer from liquid:liquid extractions was evaporated using a Savant SVC 100H Centrifugal Evaporator. Dried samples were re-suspended in 150 µl of methanol, sonicated (Branson M1800) for 30 min, further re-suspended with the addition of 350 µl of acetonitrile, centrifuged at 20,817 x g for 20 min, and the supernatant was filtered through a 0.22 μm PVDF membrane."	"RPLC-MS:</br>
+Reverse-phase chromatography and mass detection of exometabolites was performed on a Waters Xevo G2-XS QTof UPLC/MS/MS instrument. For non-polar UPLC analysis, 10 µl was injected into a C18 column (BEH Shield, 2.1 x 100 mm, 1.7 μm particle size; Waters,  Milford,  MA)  maintained at 35 °C. Samples were eluted at a flow rate of 0.3 ml/min under the following gradient conditions: 99% A:1% B for 1 min, 1%-99% B in 10 min, held at 99% B for 3 min before returning to the initial condition for 1 min. Mobile phase A consisted of 0.1% formic acid in water (pH 2.7), and mobile phase B consisted of acetonitrile. 
+</p>
+HILIC-MS:</br>
+HILIC mass detection of exometabolites was performed on a Waters Xevo G2-XS QTof UPLC/MS/MS instrument. For polar UPLC analysis, 10 µl of each sample was injected into a HILIC column (Cortecs UPLC, 2.1 x 100 mm, 1.7 μm particle size;  Waters,  Milford,  MA)  maintained at 35 °C. Samples were eluted at a flow rate of 0.3 ml/min under the following gradient conditions: 0% A:100% B for 1 min, 0%-52.5% A in 13 min, held at 52.5% A for 3 min before returning to the initial condition for 5 min. Mobile phase A consisted of 5mM ammonium acetate in water (pH 3) and mobile phase B consisted of 95% acetonitrile:5% 5mM ammonium acetate in water (pH 3)."	"RPLC-MS:</br> 
+Mass range acquisition: 50 to 2000 m/z; Ionization mode: ESI- sensitivity mode; Scan time: 0.5s; Collision energy: 6 ev; Capillary voltage: 2.5 kV; Sampling Cone: 40 V; Source temperature: 100 °C; Desolvation temperature: 350 °C; Cone gas flow: 50 l/hr; Desolvation gas flow: 550 l/hr; and LM resolution: 4.7. For accurate mass acquisition, a lock-mass of leucine enkephalin ([M − H]− = 554.2615) was used. 
+</p>
+HILIC-MS:</br>
+Mass range acquisition: 50 to 2000 m/z; Ionization mode: ESI+ sensitivity mode; Scan time: 0.1s; Collision energy: 6 ev; Capillary voltage: 3.0 kV; Sampling Cone: 35 V; Source temperature: 100 °C; Desolvation temperature: 350 °C; Cone gas flow: 25 l/hr; Desolvation gas flow: 600 l/hr; and LM resolution: 4.7. For accurate mass acquisition, a lock-mass of leucine enkephalin ([M + H]+ = 556.2771) was used."	"Raw Waters MS data files were converted to netCDF file format using MassLynx DataBridge software (Waters, Milford, MA)."	"MS/MS analysis was used for the identification of bactobolin.  Similar UPLC conditions and MS conditions were used as described for polar analysis with the following exceptions: MS set mass: 383.1; MS/MS range acquisition: 40 to 600 m/z; LM resolution: 17.0; and Collision energy ramp: 20-80 eV. MS/MS fragments of the parent ion were compared to the MS/MS spectrum of bactobolin in the mass spectral molecule database METLIN."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Chodkowski"	"Shade"
+Study Person First Name	"John"	"Ashley "
+Study Person Mid Initials	"L"	""
+Study Person Email	"chodkows@msu.edu"	"shadeash@msu.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Department of Microbiology & Molecular Genetics"	"Department of Microbiology and Molecular Genetics
+Program in Ecology, Evolutionary Biology, and Behavior
+DOE Great Lakes Bioenergy Center
+Michigan State Plant Resilience Institute"
+Study Person Affiliation	"Michigan State University"	"Michigan State University"
+Study Person Roles	"graduate student"	"Assistant Professor, principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

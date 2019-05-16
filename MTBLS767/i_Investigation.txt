@@ -1,0 +1,138 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BIRNLEX"	"NCBITAXON"	"BTO"	"CHMO"	"GO-EXT"	"EFO"	"CRISP"	"NCIT"	"OBI"	"MS"	"ADW"	
+Term Source File	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/GO-EXT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/ADW"	
+Term Source Version	"1"	"2"	"22"	"18"	"2"	"113"	"3"	"44"	"22"	"86"	"2"	
+Term Source Description	"Biomedical Informatics Research Network Project Lexicon"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Gene Ontology Extension"	"Experimental Factor Ontology"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Animal Natural History and Life History Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS767"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\Vardi\Downloads\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS767"
+Study Title	"In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids (GC- and LC-MS assays)"
+Study Description	"Tapping into the metabolic cross-talk between a host and its virus can reveal unique strategies employed during infection. Viral infection is a dynamic process that generates an evolving metabolic landscape. Gaining a continuous view into the infection process is highly challenging and is limited by current metabolomics approaches, which typically measure the average of the entire population at various stages of infection. Here, we took an innovative approach to study the metabolic basis of host-virus interactions between the bloom-forming alga Emiliania huxleyi and its specific virus. We combined a classical method in virology, the plaque assay, with advanced mass spectrometry imaging (MSI), an approach we termed ‘in plaque-MSI’. Taking advantage of the spatial characteristics of the plaque, we mapped the metabolic landscape induced during infection in a high spatiotemporal resolution, unfolding the infection process in a continuous manner. Further unsupervised spatially-aware clustering, combined with known lipid biomarkers, revealed a systematic metabolic shift during infection towards lipids containing the odd-chain fatty acid pentadecanoic acid (C15:0). Applying ‘in plaque-MSI’ might facilitate the discovery of bioactive compounds that mediate the chemical arms race of host-virus interactions in diverse model systems. </br></br> GC- and LC-MS assays are reported in the current study MTBLS767. </br> Imaging MS assays are reported in MTBLS769. </br><br/> Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS769' target='_blank'><span class='label label-success'>MTBLS769</span></a>"
+Study Submission Date	"2018-10-14"
+Study Public Release Date	"2018-11-29"
+Study File Name	"s_mtbls767.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Phytoplankton"	"virus-host interaction"	"tandem mass spectrometry"	"gas chromatography-mass spectrometry"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"plaque assay"
+Study Design Type Term Accession Number	"http://www.owl-ontologies.com/unnamed.owl#Phytoplankton"	"http://purl.obolibrary.org/obo/GO_0019048"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.bioontology.org/ontology/CSP/0415-4488"
+Study Design Type Term Source REF	"ADW"	"GO-EXT"	"CHMO"	"CHMO"	""	"CHMO"	"CRISP"
+STUDY PUBLICATIONS
+Study PubMed ID	"30718847"
+Study Publication DOI	"10.1038/s41564-018-0336-y"
+Study Publication Author List	"Schleyer G, Shahaf N, Ziv C, Dong Y, Meoded RA, Helfrich EJN, Schatz D, Rosenwasser S, Rogachev I, Aharoni A, Piel J, Vardi A."
+Study Publication Title	"In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Infection"	"Sample Type"	"Medium"
+Study Factor Type	"Group"	"Group"	"Growth Medium"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls767_LC_MS_MS2.txt"	"a_mtbls767_GC_MS.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"	"Liquid Chromatography MS - Positive (LC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"E. huxleyi strain CCMP2090 was used for this study. Cells were cultured in K/2 medium[1] in artificial seawater (ASW)[2] supplemented with ampicillin (100 µg/ml) and kanamycin (50 µg/ml), and incubated at 18 °C with a 16:8 h light:dark illumination cycle. A light intensity of 100 μmol photons/m^2/s was provided by cool white light-emitting diode lights. The virus used for this study is the lytic E. huxleyi virus EhV201[3].
+</p>
+Lipids were extracted from liquid cultures of E. huxleyi cells infected with EhV201 and from non-infected cells harvested at 4, 24, 48 and 72 hpi in 3 biological replicates. Infection was performed on exponential phase cultures (5 x 10^5 to 10^6 cells/ml), which were infected 2-3 h after the onset of the light period, with a 1:100 volumetric ratio of viral lysate to culture (multiplicity of infection of 1:1 viral particles per cell). The samples (30-150 ml of each culture, equivalent to ~5 x 10^7 cells per sample) were collected on GF/C filters (pre-combusted at 400 °C for 8 h), plunged into liquid nitrogen, and stored at -80 °C until analysis[4].
+</p>
+Ref:</br>
+[1] Keller, M. D., Selvin, R. C., Claus, W. & Guillard, R. R. L. Media for the culture of oceanic ultraphytoplankton. J. Phycol. 23, 633–638 (2007). doi:10.1111/j.1529-8817.1987.tb04217.x</br>
+[2] Goyet, C. & Poisson, A. New determination of carbonic acid dissociation constants in seawater as a function of temperature and salinity. Deep Sea Res. Part A. Oceanogr. Res. Pap. 36, 1635–1654 (1989). doi:10.1016/0198-0149(89)90064-2</br>
+[3] 73. Schroeder, D. C., Oke, J., Malin, G. & Wilson, W. H. Coccolithovirus (Phycodnaviridae): characterisation of a new large dsDNA algal virus that infects Emiliana huxleyi. Arch. Virol. 147, 1685–98 (2002). doi:10.1007/s00705-002-0841-3. PMID:12209309</br>
+[4] Vardi, A. et al. Viral glycosphingolipids induce lytic infection and cell death in marine phytoplankton. Science 326, 861–865 (2009). doi:10.1126/science.1177322. PMID:19892986</br>"	"Lipid extraction and analysis were performed as previously described[1] with some modifications. Briefly, filters containing algae were placed in 15 ml glass tube and extracted with 3 ml of a pre-cooled (-20 °C) homogenous methanol:methyl-tert-butyl-ether (MTBE) 1:3 (v/v) mixture containing 0.1 μg/ml of glucosylceramide (d18:1/12:0) which was used as an internal standard. The tubes were shaken for 30 min at 4 °C and then sonicated for 30 min. Ultra-performance liquid chromatography (UPLC) grade water:methanol (3:1, v/v) solution (1.5 ml) was added to the tubes followed by centrifugation. The upper organic phase (1.2 ml) was transferred into 2 ml Eppendorf tube. The polar phase containing algae debris and filter pieces was re-extracted with 0.5 ml of MTBE. Organic phases were combined and dried under N2 stream and then stored at -80 °C until analysis.
+</p>
+Extraction of lipids from plaque samples was performed by suspending the upper soft layer containing the plaque in the lipid extraction solution, following the same procedure described above (using third of the mentioned volumes). As a blank, soft layer without E. huxleyi cells (i.e. ASW + K/2 containing 0.2% agarose only) was extracted as well. Samples were extracted in 3 replicates. Isolation, concentration and lipid extraction of vesicles and virions was performed as previously described[2]. Briefly, all dried lipid extracts were re-suspended in 300 μl buffer B (ACN:IPA 7:3 + 1% 1M NH4Ac + 0.1% acetic acid) and centrifuged at 18,000 x g and 4 °C for 5 min. 200 μl of the supernatant were transferred to an autosampler vial.
+</p>
+The fatty acid (FA) composition of lipids was analyzed using derivatized fatty acid methyl esters (FAMEs). The samples were dissolved in 500 µl 1.25 M methanolic hydrochloride (MeOH/HCl, Sigma-Aldrich, St. Louis, MO, USA), incubated for 1 h at 80 °C while shaking, and then dried under N2 flow. The resulting FAMEs were extracted twice with 250 µl hexane:chloroform 1:1 and once with 250 µl chloroform, each extraction for 30 min at room temperature while shaking. The extracts were dried under N2 flow. The dried FAME extracts were re-suspended in 100 µl hexane and centrifuged at 18,000 x g and 4 °C for 5 min.
+</p>
+Ref:</br>
+[1] Hummel, J. et al. Ultra performance liquid chromatography and high resolution mass spectrometry for the analysis of plant lipids. Front. Plant Sci. 2, 1–17 (2011). doi:10.3389/fpls.2011.00054. PMID:22629264</br>
+[2] Schatz, D. et al. Communication via extracellular vesicles enhances viral infection of a cosmopolitan alga. Nat. Microbiol. 2, 1485–1492 (2017).  doi:10.1038/s41564-017-0024-3. PMID:28924189</br>"	"UPLC-MS for lipidomics analysis:</br>
+Post extraction, the supernatant was transferred to an autosampler vial and an aliquot of 1 μl was subjected to UPLC-MS analysis. Lipid extracts were analyzed using a Waters ACQUITY UPLC I-Class system coupled to a SYNAPT G2 HDMS mass spectrometer (Waters Corp., Milford, MA, USA). Chromatographic conditions were as described previously[1]. Briefly, the chromatographic separation was performed on an ACQUITY UPLC BEH C8 column (2.1 x 100 mm, i.d., 1.7 μm) (Waters Corp., Milford, MA, USA). The mobile phase consisted of water (UPLC grade) with 1% 1 M NH4Ac, 0.1% acetic acid (mobile phase A), and acetonitrile:isopropanol (7:3) with 1% 1 M NH4Ac, 0.1% acetic acid (mobile phase B). The column was maintained at 40 °C and the flow rate of the mobile phase was 0.4 ml/min.  The gradient separation was as follows: 1 min 45% A, 3 min linear gradient from 45% to 35% A, 8 min linear gradient from 35% to 11% A, 3 min linear gradient from 11% to 0% A. After washing the column for 4 min with 0% A, the buffer was set back to 45% A and the column was re-equilibrated for 4 min (22 min total run time).
+</p>
+GC-MS for FAME analysis:</br>
+Post extraction, the supernatant was transferred to an autosampler vial and an aliquot of 1 μl was subjected to GC-MS. The GC-MS system comprised an Agilent 7890A gas chromatograph equipped with split/splitless injector, and LECO Pegasus HT Time-of-Flight Mass Spectrometer (TOF-MS, LECO Corp., St Joseph, MI, USA). GC was performed on a 30 m x 0.25 mm x 0.25 μm Rxi-5Sil MS column (Restek). Samples were analyzed in the splitless mode; injector temperature was set at 280 °C. Analytes by 1 μl injected were separated using the following chromatographic conditions: helium was used as carrier gas at a flow rate of 1.0 ml/min. The thermal gradient started at 80 °C and was held at this temperature for 2 min, ramped to 330 °C at 15 °C/min and then held at 330 °C for 6.0 min.
+</p>
+Ref:</br>
+[1] Hummel J, Segu S, Li Y, Irgang S, Jueppner J, Giavalisco P. Ultra performance liquid chromatography and high resolution mass spectrometry for the analysis of plant lipids. Front Plant Sci. 2011 Oct 12;2:54. doi:10.3389/fpls.2011.00054. PMID:22629264</br>"	"UPLC-MS for lipidomics analysis:</br>
+Eluting compounds were detected using a SYNAPT G2 HDMS mass spectrometer (qTOF-MS, Waters). MS parameters were as follows: the source and de-solvation temperatures were maintained at 120 °C and 450 °C, respectively. The capillary voltage and cone voltage were set to 1.0 kV and 40 V, respectively. Nitrogen was used as de-solvation gas and cone gas at the flow rate of 800 l/h and 20 l/h, respectively. The mass spectrometer was operated in full scan MSE positive resolution mode over a mass range of 50-1500 Da. For the high energy scan function, a collision energy ramp of 15-35 eV was applied, for the low energy scan function -4 eV was applied. Leucine-enkephalin was used as lock-mass reference standard. The major ions and specific fragment ions of the lipids were analyzed in positive ionization mode. For MS/MS (in positive ionization mode), collision energy ramp of 10-45 eV was applied.
+</p>
+GC-MS for FAME analysis:</br>
+Eluting compounds were detected using a LECO Pegasus HT Time-of-Flight Mass Spectrometer (TOF-MS, LECO). Eluents were fragmented in the electron impact mode with an ionization voltage of 70 eV. The MS mass range was 45-800 m/z with an acquisition rate of 20 spectra per second. The ion source chamber was set to 250 °C and the transfer line to 250 °C."	"UPLC-MS for lipidomics analysis:</br>
+LC-MS data were analyzed and processed with MassLynx and QuanLynx (version 4.1, Waters Corp., Milford, MA, USA).
+</p>
+GC-MS for FAME analysis:</br>
+LECO ChromaTOF software (version 4.50.8.0, LECO Corp.) was used for acquisition control and data processing."	"UPLC-MS for lipidomics analysis:</br>
+LC-MS and LC-MS/MS data analysis lipid identification and quantification
+The putative identification of the various lipid species was performed according to the lipid accurate mass and LC-MS/MS fragmentation pattern, as described previously[1]-[3]. The putative identification of lipid species that were new to this host-virus model system (listed in Table 1 in the paper associated with this study) was based on the Lipid Maps computationally-generated database of lipid classes and structure database (LMSD)[4] (Metabolomics Standards Initiative level 2 annotation[5]). See Figs S4-S6, in the paper associated with this study, for MS/MS spectra and list of fragments of representative species of each class. 5 unidentified mass features, later termed sulfonioglycerolipids (listed in Table 1 in the paper associated with this study), did not exist in our in-house repository or in public repositories such as Lipid Maps[4] and METLIN[6]. Putative structures of these sulfonioglycerolipids, which belong to the same putatively characterized compound class (level 3 annotation), was based on accurate mass and LC-MS/MS fragmentation pattern, as elaborated in Fig S3 in the paper associated with this study. Full list of the lipids annotated using LC-MS/MS and their fragments can be found in Table S4 and Table S5 in the paper associated with this study.
+</p>
+GC-MS for FAME analysis:</br>
+FAMEs were identified by comparison of their mass spectra and retention times to the corresponding standards, injected in the same GC-MS conditions. 2 standards were used: methyl pentadecanoate (C15:0 FAME, Sigma, St. Louis, MO, USA) and methyl 12-methylmyristate (Methyl 12-C14:0 FAME, Santa Cruz Biotechnology, CA, USA), at a concentration of 10 μg/ml in hexane.
+</p>
+Ref:</br>
+[1] Ziv C, Malitsky S, Othman A, Ben-Dor S, Wei Y, Zheng S, Aharoni A, Hornemann T, Vardi A. Viral serine palmitoyltransferase induces metabolic switch in sphingolipid biosynthesis and is required for infection of a marine alga. Proc Natl Acad Sci U S A. 2016 Mar 29;113(13):E1907-16. doi:10.1073/pnas. PMID:26984500</br>
+[2] Fulton JM, Fredricks HF, Bidle KD, Vardi A, Kendrick BJ, DiTullio GR, Van Mooy BA. Novel molecular determinants of viral susceptibility and resistance in the lipidome of Emiliania huxleyi. Environ Microbiol. 2014 Apr;16(4):1137-49. doi:10.1111/1462-2920.12358. PMID:24330049</br>
+[3] Hunter JE, Frada MJ, Fredricks HF, Vardi A, and Van Mooy BAS. Targeted and untargeted lipidomics of Emiliania huxleyi viral infection and life cycle phases highlights molecular biomarkers of infection, susceptibility, and ploidy. Front. Mar. Sci. 2, 81 (2015). doi:10.3389/fmars.2015.00081.</br>
+[4] Sud M, Fahy E, Cotter D, Brown A, Dennis EA, Glass CK, Merrill AH Jr, Murphy RC, Raetz CR, Russell DW, Subramaniam S. LMSD: LIPID MAPS structure database. Nucleic Acids Res. 2007 Jan;35(Database issue):D527-32. doi:10.1093/nar/gkl838. PMID:17098933</br>
+[5] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>
+[6] Guijas C, Montenegro-Burke JR, Domingo-Almenara X, Palermo A, Warth B, Hermann G, Koellensperger G, Huan T, Uritboonthai W, Aisporna AE, Wolan DW, Spilker ME, Benton HP, Siuzdak G. METLIN: A Technology Platform for Identifying Knowns and Unknowns. Anal Chem. 2018 Mar 6;90(5):3156-3164. doi:10.1021/acs.analchem.7b04424. PMID:29381867</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+Comment[Gas-Chromatography Mass Spectrometry (GC-MS)]	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Schleyer"	"Vardi"
+Study Person First Name	"Guy"	"Assaf"
+Study Person Mid Initials	""	""
+Study Person Email	"guy.schleyer@weizmann.ac.il"	"assaf.vardi@weizmann.ac.il"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Department of Plant & Environmental Sciences, Weizmann Institute of Science, 234 Herzl St., Rehovot, 7610001, Israel"	"Department of Plant & Environmental Sciences, Weizmann Institute of Science, 234 Herzl St., Rehovot, 7610001, Israel"
+Study Person Affiliation	"Weizmann Institute of Science"	"Weizmann Institute of Science"
+Study Person Roles	""	"Principal investigator"
+Study Person Roles Term Accession Number	""	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"
+Study Person Roles Term Source REF	""	"BIRNLEX"

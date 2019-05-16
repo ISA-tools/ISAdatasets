@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MS"	"OBI"	"NCIT"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"6"	"18"	"146"	"129"	"23"	"44"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS481"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersthinkpadDesktopmetaboLightsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS481"
+Study Title	"Metabolomic analysis of alfalfa (Medicago sativa L.) root-symbiotic rhizobia responses under alkali stress"
+Study Description	"Alkaline salts (e.g., NaHCO3 and Na2CO3) causes more severe morphological and physiological damage to plants than neutral salts (e.g., NaCl and Na2SO4) due to differences in pH. The mechanism by which plants respond to alkali stress is not fully understood, especially in plants having symbotic relationships such as alfalfa (Medicago sativa L.). Therefore, a study was designed to evaluate the metabolic response of the root-nodule symbiosis in alfalfa under alkali stress using comparative metabolomics. Rhizobium-nodulized (RI group) and non-nodulized (NI group) alfalfa roots were treated with 200 mmol/L NaHCO3 and, roots samples were analyzed for malondialdehydyde (MDA), proline, glutathione (GSH), superoxide dismutase (SOD), and peroxidase (POD) content. Additionally, metabolite profiling was conducted using gas chromatography combined with time-of-flight mass spectrometry (GC/TOF-MS). Phenotypically, the RI alfalfa exhibited a greater resistance to alkali stress than the NI plants examined. Physiological analysis and metabolic profiling revealed that RI plants accumulated more antioxidants (SOD, POD, GSH), osmolytes (sugar, glycols, proline), organic acids (succinic acid, fumaric acid, and alpha-ketoglutaric acid), and metabolites that are involved in nitrogen fixation. Our pairwise metabolomics comparisons revealed that RI alfalfa plants exhibited a distinct metabolic profile associated with alkali putative tolerance relative to NI alfalfa plants. Data provide new information about the relationship between non-nodulized, rhizobium-nodulized alfalfa and alkali resistance."
+Study Submission Date	"2017-06-22"
+Study Public Release Date	"2017-09-20"
+Study File Name	"s_CH-M2.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"alkali stress"	"symbiotic rhizobium"	"gas chromatography time-of-flight mass spectrometry"
+Study Design Type Term Accession Number	""	""	""	"http://purl.obolibrary.org/obo/CHMO_0000735"
+Study Design Type Term Source REF	""	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28744296"
+Study Publication DOI	"10.3389/fpls.2017.01208"
+Study Publication Author List	"Song T, Xu H, Sun N, Jiang L, Tian P, Yong Y, Yang W, Cai H, Cui G."
+Study Publication Title	"Metabolomic Analysis of Alfalfa (Medicago sativa L.) Root-Symbiotic Rhizobia Responses under Alkali Stress."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"inoculation"	"alkali stress"
+Study Factor Type	"Inoculation"	"treatment"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68774"	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_ch-m2_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GC色Agilent 7890A, Agilent  ,LECOChroma TOF PEGASUS HT, LECO "
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Medicago sativa (Longmu 806) seeds were surface-sterilized with 75% ethanol for 15 s and 10% sodium hypochlorite for 5 min, and then rinsed thoroughly 4 or 5 times with sterile water. The seeds were germinated on wet filter paper in Petri dishes in a light growth chamber (light 24 °C/dark 18 °C, 16 h/8 h) and kept moist during the germination period (relative humidity, 60%). After germinating for 5 d, the normal plants were transplanted directly into a culture pot of sandy soil; nodule plants were transplanted into the sand culture bowl after inoculation with rhizobia inoculation nodules. Each tray was loaded with 24 pots, and each pot held 3 plants (H 14 cm x D 13 cm). The plants were maintained in a greenhouse for 12 weeks (with 30 °C/25 °C day/night temperatures, 16 h of light and 40% relative humidity. Plants were irrigated twice weekly with different nutrient solutions for NI and RI samples. Normal plants were watered with 1/5 Hoagland nutrient solution. Plants with symbiotic rhizobium were watered with 1/5 Hoagland nutrient solution for the first 8 weeks and then 1/5 nitrogen-free nutrient solution for the subsequent 4 weeks to trigger nodule activation. After 12 weeks, control normal plants and control inoculating rhizobia alfalfa plants were maintained with 1/5 Hoagland nutrient solution and 1/5 nitrogen-free nutrient solution, respectively. Meanwhile, treated plants were submersed in the nutrient solution supplemented with 200 mmol/l NaHCO3[1][2]. The treatment continued for 8 d, root tissues were collected on day 0 and day 6 after administration of alkali treatment. Roots were harvested by briefly rinsing away sand and dissecting out all of the root tissues (including nodules). The harvested root samples were frozen in liquid nitrogen. Treated and control plants were harvested at the same time. 12 plants in each group (alkali stress and control group for each time point and each accession) served as the sample sources for detection of physiological compound; 6 plants from each time point served as the sample sources for metabolite extraction and metabolite profiling analysis.
+</p>
+Ref:</br>
+[1] Zhu D, Li R, Liu X, Sun M, Wu J, Zhang N, Zhu Y. The positive regulatory roles of the TIFY10 proteins in plant responses to alkaline stress. PLoS One. 2014 Nov 6;9(11):e111984. doi:10.1371/journal.pone.0111984. PMID:25375909</br>
+[2] Jia B, Sun M, Sun X, Li R, Wang Z, Wu J, Wei Z, DuanMu H, Xiao J, Zhu Y. Overexpression of GsGSTU13 and SCMRP in Medicago sativa confers increased salt-alkaline tolerance and methionine content. Physiol Plant. 2016 Feb;156(2):176-189. doi:10.1111/ppl.12350. PMID:26010993</br>"	"The GC-MS was performed as previously described[1]. Briefly, 0.05 g aliquots of each sample were placed in 2-ml EP tubes. Metabolites were extracted from each tube with 0.4 ml of methanol-water (v/v = 3:1); 20 μl of Adonitol (0.2 mg/ml stock in ddH2O) was added as an internal standard. The mixture was vortexed for 30 s, homogenized in a ball mill for 3 min at 65 Hz, and then centrifuged at 12,000 rpm for 15 min at 4 °C. The resultant supernatant (~0.35 ml) was transferred to a new 2-ml GC/MS glass vial; equal volumes of each sample (14 μl) were combined in a separate 2-ml GC/MS glass vial to serve as a mixed sample for quality control. The extracts were dried in a vacuum concentrator (37 °C) for 2 h, and then 40 μl of methoxylamine hydrochloride (dissolved in pyridine, final concentration of 20 mg/ml) was added to each dried metabolite sample. The extracts were incubated at 80 °C for 20 min in an oven after mixing and sealing. The lid of each tube was opened and 50 μl of BSTFA (containing 1% TCMS, v/v) was added to each sample, and then the tubes were re-sealed and incubated for 1 h at 70 °C. Subsequently, 5 μl of FAMEs (standard mixture of fatty acid methyl esters, C8–C16: 1 mg/ml; C18–C24: 0.5 mg/ml in chloroform) was added to each mixed sample. The samples were allowed to cool to room temperature, and then mixed well in preparation for GC-TOF-MS analysis.
+</p>
+Ref:</br>
+[1] Lisec J, Schauer N, Kopka J, Willmitzer L, Fernie AR. Gas chromatography mass spectrometry-based metabolite profiling in plants. Nat Protoc. 2006;1(1):387-96. doi:10.1038/nprot.2006.59. PMID:17406261</br>"	"GC-TOF-MS analysis was performed with an Agilent 7890 gas chromatograph system (Agilent, USA) coupled with a Pegasus HT time-of-flight mass spectrometer. The system utilized a Rxi-5Sil MS column (30 m x 250 μm inner diameter, 0.25 μm film thickness; Restek, USA). A 1-μl aliquot of the analyte was injected in splitless mode. Helium was used as the carrier gas, the front inlet purge flow was 3ml/min, and the gas flow rate through the column was 1 ml/min. The initial temperature was kept at 50 °C for 1 min, raised to 330 °C at a rate of 10 °C/min, and then kept for 5 min at 330 °C. The injection, transfer line, and ion source temperatures were 280 °C, 280 °C, and 250 °C, respectively. The energy level applied was −70 eV (electron impact mode). The mass spectrometry data were acquired in full-scan mode with an m/z range of 30–600 at a rate of 20 spectra/s after a solvent delay of 366 s."	"The mass spectrometry data from the Pegasus HT time-of-flight mass spectrometer were acquired in full-scan mode with an m/z range of 30–600 at a rate of 20 spectra/s after a solvent delay of 366 s."	"Chroma TOF4.3X software (LECO Corporation) and the LECO-Fiehn Rtx5 database were used for raw peak extraction, data baseline filtering, baseline calibration, peak alignment, deconvolution analysis, peak identification, and integration of the peak area."	"The retention time index method was used for peak identification, and the retention time index tolerance was 5,000. For the GC-Quad FiehnLib library, derivatives were identified by increasing numbers according to retention index (e.g., serine 1, serine 2, and serine 3) for derivatives with 1 or 2 trimethylsilyl groups in the primary amino group a[1]-[3].
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>
+[2] Kind T, Wohlgemuth G, Lee DY, Lu Y, Palazoglu M, Shahbaz S, Fiehn O. FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Anal Chem. 2009 Dec 15;81(24):10038-48. doi:10.1021/ac9019522. PMID:19928838</br>
+[3] Creek D. J., Dunn W. B., Fiehn O., Griffin J. L., Hall R. D., Lei Z., et al. (2014). Metabolite identification: are you sure? And how do your peers gauge your confidence? Metabolomics 10, 350–353. doi:10.1007/s11306-014-0656-8.</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hua"	"Tingting"
+Study Person First Name	"Cai"	"Song"
+Study Person Mid Initials	""	""
+Study Person Email	"Caihuaneau@Gmail.Com"	"Songtingting147@126.Com"
+Study Person Phone	"8645155191257"	""
+Study Person Fax	""	""
+Study Person Address	"No59. Mucai Street, Northeast Agricultural, Harbin,Heilongjiang, China"	""
+Study Person Affiliation	""	""
+Study Person Roles	"PhD"	"PhD"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

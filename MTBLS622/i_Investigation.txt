@@ -1,0 +1,126 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PEAO"	"NCBITAXON"	"ENVO"	"CHMO"	"EFO"	"UO"	"OBI"	"CRISP"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/PEAO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"1"	"2"	"39"	"18"	"113"	"42"	"22"	"6"	"99"	"29"	
+Term Source Description	"Plant Experimental Assay Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Environment Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS622"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\IsacreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS622"
+Study Title	"Elevated CO2 and virus infection impacts wheat and aphid metabolism."
+Study Description	"INTRODUCTION: The aphid Rhopalosiphum padi L. is a vector of Barley yellow dwarf virus (BYDV) in wheat and other economically important cereal crops. Increased atmospheric CO2 has been shown to alter plant growth and metabolism, enhancing BYDV disease in wheat. However, the biochemical influences on aphid metabolism are not known. </br> OBJECTIVES: This work aims to determine whether altered host-plant quality, influenced by virus infection and elevated CO2, impacts aphid weight and metabolism. </br> METHODS: Untargeted 1H NMR metabolomics coupled with multivariate statistics were employed to profile the metabolism of R. padi reared on virus-infected and non-infected (sham-inoculated) wheat grown under ambient CO2 (aCO2, 400 µmol mol−1) and future, predicted elevated CO2 (eCO2, 650 µmol mol−1) concentrations. Un-colonised wheat was also profiled to observe changes to host-plant quality (i.e., amino acids and sugars). </br> RESULTS: The direct impacts of virus or eCO2 were compared. Virus presence increased aphid weight under aCO2 but decreased weight under eCO2; whilst eCO2 increased non-viruliferous (sham) aphid weight but decreased viruliferous aphid weight. Discriminatory metabolites due to eCO2 were succinate and sucrose (in sham wheat), glucose, choline and betaine (in infected wheat), and threonine, lactate, alanine, GABA, glutamine, glutamate and asparagine (in aphids), irrespective of virus presence. Discriminatory metabolites due to virus presence were alanine, GABA, succinate and betaine (in wheat) and threonine and lactate (in aphids), irrespective of CO2 treatment. </br> CONCLUSION: This study confirms that virus and eCO2 alter host-plant quality, and these differences are reflected by aphid weight and metabolism."
+Study Submission Date	"2018-02-05"
+Study Public Release Date	"2018-05-01"
+Study File Name	"s_mtbls622.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"virus plant treatment"	"plant disease"	"Barley yellow dwarf virus-PAV"	"carbon dioxide"	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"	"climate change"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/EO_0007210"	"http://purl.bioontology.org/ontology/CSP/2341-6246"	"http://purl.bioontology.org/ontology/NCBITAXON/12040"	"http://purl.obolibrary.org/obo/CHEBI_16526"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/ENVO_01000629"
+Study Design Type Term Source REF	"PEAO"	"CRISP"	"NCBITAXON"	"CHEBI"	""	"CHMO"	"ENVO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-018-1425-x"
+Study Publication Author List	"Simone Vassiliadis, Kim M. Plummer, Kevin S. Powell, Simone J. Rochfort"
+Study Publication Title	"Elevated CO2 and virus infection impacts wheat and aphid metabolism."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Virus treatment"	"Carbon dioxide treatment"
+Study Factor Type	"treatment"	"carbon dioxide treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://purl.obolibrary.org/obo/EO_0001020"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls622_aphid_NMR_spectroscopy.txt"	"a_mtbls622_wheat_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Female clonal Rhopalosiphum padi aphid colonies, wheat seeds (Triticum aestivum L. cv. Yitpi) and an Australian strain of BYDV-PAV (BYDV-Padi avenae virus) were collected from oat plants (Avena sativa L.) grown at the Department of Economic Development, Jobs, Transport and Resources (DEDJTR), Horsham. Wheat cultivation, aphid rearing, and virus inoculations were followed accordingly, as previously described[1]. A growth chamber (model TPG-1260-TH, Thermoline) experiment was designed to best represent the colonisation of R. padi aphids on BYDV-PAV-infected or non-infected wheat under current ambient CO2 (aCO2, ‘A’ at 400 µmol/mol) versus future predicted elevated CO2 (eCO2, ‘E’ at 650 µmol/mol) concentrations. Therefore, 2 wheat virus/vector treatments were used: ‘V’, virus-inoculated/infected (plants exposed to viruliferous aphids) and ‘S’, sham-inoculated controls (sham-inoculated plants exposed to non-viruliferous aphids). The chamber conditions were maintained and logged at 20 °C, 70% r.h (WatchDog A 160, Spectrum Technologies Inc.) with a photoperiod of 14 h light:10 h dark. Light intensities at shelf level were measured at ~700 µmol/m^2/s (LightScout PAR Quantum light sensor connected to a WatchDog 1525 Micro Station, Spectrum Technologies Inc.). Aphids were deemed viruliferous after continuous feeding from BYDV-PAV symptomatic wheat in which virus presence was confirmed via RT-PCR using BYDV-PAV as the target amplicon[2]. Aphids used for sham inoculations were deemed virus-free after being reared on wheat which tested negative for BYDV-PAV infection.
+</p>
+2 sets of plants were required for the acclimatisation and collection of aphids. The ‘stock’ plants were grown under aCO2 for 35 days (growth conditions as above) before 10 non-viruliferous aphids were introduced. These were then exposed to eCO2 until 56 days in which successive aphid generations would have acclimatised to the higher CO2 concentration. Meanwhile, the ‘experimental’ plants were also grown at aCO2 until 10 days before half were either virus or sham-inoculated. The aphids were removed after a 3-day transmission/feeding period and the plants were exposed to the 2 CO2 treatments up until 56 days. Here, wheat height (from the base of the plant to longest leaf tip), total tiller number and BYDV-PAV severity (the number of yellow/streaked symptomatic leaves divided by the total number of leaves per plant) were assessed. Acclimatised aphids were then introduced to the experimental wheat and left to colonise the plants.
+</p>
+Adult apterous (winged) aphids (10–10.1 mg, pooled) were collected from the foliage of the experimental plants at 70 days. 12 biological replicates were used for each aphid treatment: i.e., sham aphids collected from non-infected (sham-inoculated) wheat grown under either aCO2 or eCO2; or viruliferous aphids collected from virus-infected wheat grown under aCO2 or eCO2. The aphids were immediately snap frozen in liquid nitrogen and stored at −80 °C.
+</p>
+Freeze dried, ground shoots of un-colonised (previously sham- and virus-inoculated) wheat plants were used to discern the influence of virus and CO2 treatment without the influence of continued herbivory caused by aphid colonisation[1]. These tissues were extracted (as below).
+</p>
+Ref:</br>
+[1] Vassiliadis S, Plummer K, Powell K, Trębicki P, Luck J, & Rochfort, S. (2016). The effect of elevated CO2 and virus infection on the primary metabolism of wheat. Functional Plant Biology, 43, 892–902.</br>
+[2] Nancarrow N, Constable FE, Finlay KJ, Freeman AJ, Rodoni BC, Trebicki P, Vassiliadis S, Yen AL, Luck JE. The effect of elevated temperature on Barley yellow dwarf virus-PAV in wheat. Virus Res. 2014 Jun 24;186:97-103. doi:10.1016/j.virusres.2013.12.023. PMID:24374266</br>"	"Extraction
+Working on ice, metabolites from 10 mg of whole aphids were extracted with 600 µl of ice-cold 80% methanol (methanol:water, 80:20 v/v) (Merck  LiChrosolv® Methanol, ≥ 99.9%; Mil-liQ water) using a Geno/Grinder 2010 tissue homogeniser (SPEX Sample Prep, Metuchen, NJ, USA) for 1 min at 1500 strokes/min. Samples were vortexed for 30 s, sonicated in ice water for 5 min and centrifuged for 5 min (16,100 x g, 20 °C). The supernatant (400 µl) was aliquoted into fresh tubes. The extracts were dried under a steady stream of nitrogen gas for 30 min and freeze-dried for 24 h (Alpha 1–4 LD Plus, Christ).
+</p>
+Metabolites from un-colonised wheat tissues (50–50.2 mg) were extracted twice with 1 ml of ice-cold 80% methanol (methanol:water, 80:20 v/v), as previously described[1]. The solvent was evaporated under nitrogen gas for 30 min and freeze dried for a period of 24 h.
+</p>
+Ref:</br>
+[1] Vassiliadis S, Plummer K, Powell K, Trębicki P, Luck J, & Rochfort, S. (2016). The effect of elevated CO2 and virus infection on the primary metabolism of wheat. Functional Plant Biology, 43, 892–902.</br>"	"The aphid dried extracts were re-constituted in 500 µl of deuterium oxide (D2O, ≥ 99.9%; Sigma-Aldrich, Sydney), vortexed, sonicated and centrifuged as before, and transferred into 5 mm NMR tubes.
+</p>
+The wheat extracts were reconstituted in 600 µl of deuterated methanol (methanol-D4, [CD3OD] Cambridge Isotope Laboratories, Massachusetts) before repeating the vortex, sonication and centrifugation steps. An aliquot of 550 µl was taken and transferred into standard 5 mm NMR tubes."	"1H NMR spectra of the wheat and aphid metabolite profiles were acquired with a Bruker Ascend 700 MHz spectrometer equipped with Bruker CryoPlatform cryoprobe (5 mm CPQI 1H) and SampleJet automatic sample changer, at 296 K."	"Standard Bruker noesypr1d pulse sequence was used over a −2 to 12 spectral range with 256 scans collected after 8 dummy scans; total acquisition time was 2.55 s using Topspin v.3.1 software (Bruker BioSpin, Germany). A line broadening of 0.3 Hz was applied to all spectra prior to Fourier Transformation."	"Spectra were manually phased and baseline corrected in Topspin v.3.1. Due to the untargeted, non-quantitative approach of the study, an internal standard was not employed. Instead, wheat samples were referenced to the residual methanol peak at δ 3.31 whilst aphid samples were references to the α-glucose anomer peak at δ 5.22. Strict extraction protocols (including homogenised tissues, weight variabilities of less than 1%, numerous biological replicates, and pooled samples) minimised variation during the sample preparation. This was supported by further statistical modelling in which the replicates fell within a 95% confidence level (see below).
+</p>
+A total of 114 wheat and 48 aphid spectra were imported into MatLab v.R20017a (Mathworks, USA). Data were imported over 0.2-10 ppm range with 52,478 (wheat) and 29,555 (aphid) data points. The residual water peak was manually removed from the aphid spectra at 4.500-4.700 ppm, whilst the residual water and methanol peaks were removed from the wheat spectra at 4.808-4.888 and 3.305-3.325 ppm, respectively."	"Metabolites were defined as MS1 or MS2 level metabolites[1] and assigned using Chenomx NMR suite software v.7.7 (Chenomx Inc., Canada), HMDB references [2], and by the comparisons of peaks/chemical shifts reported in the literature; wheat[3]-[6], and aphids[7][8]. Sugars (glucose and trehalose) were confirmed by two dimensional (2D NMR) methods, including correlation spectroscopy (COSY), total correlation spectroscopy (TOCSY), heteronuclear multiple-bond correlation spectroscopy (HMBC) and heteronuclear single-quantum correlation spectroscopy (HSQC), and by using reference chemical standards (≥ 99.9%; Sigma-Aldrich, Sydney).
+</p>
+Ref:</br>
+[1] Sumner LW et al. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>
+[2] Wishart DS et al. HMDB 3.0--The Human Metabolome Database in 2013. Nucleic Acids Res. 2013 Jan;41(Database issue):D801-7. doi:10.1093/nar/gks1065. PMID:23161693</br>
+[3] Graham SF, Amigues E, Migaud M, Browne RA. Application of NMR based metabolomics for mapping metabolite variation in European wheat. Metabolomics (2009) 5: 302. doi:10.1007/s11306-008-0154-y.</br>
+[4] Graham SF, Hollis JH, Migaud M, Browne, RA. Analysis of betaine and choline contents of aleurone, bran, and flour fractions of wheat (Triticum aestivum L.) using 1H nuclear magnetic resonance (NMR) spectroscopy. Journal of Agricultural and Food Chemistry, 2009, 57(5), 1948–1951. doi:10.1021/jf802885m</br>
+[5] Browne RA and Brindle KM. 1H NMR-based metabolite profiling as a potential selection tool for breeding passive resistance against Fusarium head blight (FHB) in wheat. Mol Plant Pathol. 2007 Jul;8(4):401-10. doi:10.1111/j.1364-3703.2007.00400.x. PMID:20507509</br>
+[6] Ali K, Maltese F, Toepfer R, Choi YH, Verpoorte R. Metabolic characterization of Palatinate German white wines according to sensory attributes, varieties, and vintages using NMR spectroscopy and multivariate data analyses. J Biomol NMR. 2011 Apr;49(3-4):255-66. doi:10.1007/s10858-011-9487-3. PMID:21359513</br>
+[7] Phalaraksh C, Reynolds SE, Wilson ID, Lenz EM, Nicholson JK, Lindon JC. A metabonomic analysis of insect development: 1H-NMR spectroscopic characterization of changes in the composition of the haemolymph of larvae and pupae of the tobacco hornworm, Manduca sexta. ScienceAsia, 2008, 34(3), 279–286.</br>
+[8] Wang Y, Carolan JC, Hao F, Nicholson JK, Wilkinson TL, Douglas AE. Integrated metabonomic-proteomic analysis of an insect-bacterial symbiotic system. J Proteome Res. 2010 Mar 5;9(3):1257-67. doi:10.1021/pr9007392. PMID:19860485</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Vassiliadis"	"Plummer"	"Powell"	"Rochfort"
+Study Person First Name	"Simone"	"Kim"	"Kevin"	"Simone"
+Study Person Mid Initials	""	"M"	"S"	"J"
+Study Person Email	"simone.vassiliadis@ecodev.vic.gov.au"	"k.plummer@latrobe.edu.au"	"KPowell@sugarresearch.com.au"	"simone.rochfort@ecodev.vic.gov.au"
+Study Person Phone	"+613 9032 7050"	"+613 9032 7474"	"+617 4056 4506 "	"+613 9032 7110"
+Study Person Fax	""	""	""	""
+Study Person Address	"5 Ring Road, La Trobe University, Bundoora VIC 3083, Australia "	"5 Ring Road, La Trobe University, Bundoora VIC 3083, Australia 
+"	"71378, Bruce Highway, Meringa, QLD, 4865, Australia
+"	"5 Ring Road, La Trobe University, Bundoora VIC 3083, Australia 
+"
+Study Person Affiliation	"Agriculture Research Victoria"	"Department of Animal, Plant and Soil Sciences, La Trobe University"	"Sugar Research Australia"	"Agriculture Research Victoria"
+Study Person Roles	"Principal investigator"	"supervising co-author"	"supervising co-author"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

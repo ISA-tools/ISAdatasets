@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"SNOMEDCT"	"RADLEX"	"CHMO"	"EFO"	"NCIT"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/RADLEX"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"11"	"36"	"18"	"146"	"44"	"22"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Systematized Nomenclature of Medicine - Clinical Terms"	"Radiology Lexicon"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS673"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"D:\MetaboLights-Submission\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS673"
+Study Title	"Metabolomics Investigation of Dietary Effects on Flesh Quality in Grass Carp (Ctenopharyngodon idellus)"
+Study Description	"BACKGROUND: The ultra-high density intensive farming model of grass carp (Ctenopharyngodon idellus) may elicit inhibite the growth, decline flesh quality and disease resistance of fish. The quality degradation and excessive fat accumulation in cultured C. idellus have long been attributed to possible alterations in the lipid metabolism of fish muscle tissues as a result of over-nutrition from artificial diets. To investigate the effects of different diets on fish muscle quality, a large-scale metabolomics study was performed on 200 tails of C. idellus. </br> FINDINGS: The experimental fish were divided into four test groups based on sex and diets - female artificial feed (FAF), female grass feed (FGF), male artificial feed (MAF) and male grass feed (MGF). After a 4-month rearing period, the AF group showed significantly higher total mass of muscle fat (P < 0.01), with the FAF group being the highest. Metabolomics profiling based on liquid chromatography-mass spectrometry (LC-MS) revealed distinctive patterns of clustering according to the four groups. Overall, artificial feeding was associated with higher concentrations of docosapentaenoic acid (DPA), dihomo-gamma-linolenic acid (DGLA) and arachidonic acid (ARA); whereas grass-feeding was associated with elevated n-3 unsaturated fatty acids (n-3 UFAs), such as eicosapentaenoic acid (EPA), alpha-linolenic acid (ALA) and gamma-linolenic acid (GLA). Some sex-specific markers, such as docosahexaenoic acid (DHA) was only found in male samples, with higher levels in the MAF group. Metabolic pathway analyses using both targeted (MetaboAnalyst) and untargeted (mummichog) approaches consistently revealed that the arachidonic acid metabolism and steroid hormone biosynthesis pathways are significantly different between AF and GF groups. </br> CONCLUSIONS: Our results suggested that grass is a better source of diet fatty acid and protein when compared to artificial feed, because it could effectively lower triglycerides in serum, reduce fat accumulation and alter lipid compositions in fish muscle by increasing the concentrations of n-3 UFAs, leading to better nutrition and health."
+Study Submission Date	"2018-05-03"
+Study Public Release Date	"2018-08-17"
+Study File Name	"s_mtbls673.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Sudan grass"	"Fish flesh quality"	"fat deposition"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/SNOMEDCT/318228008"	""	"http://www.radlex.org/RID/#RID5216"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	"SNOMEDCT"	""	"RADLEX"	""	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1093/gigascience/giy111"
+Study Publication Author List	"Honghao Zhao, Jasmine Chong, Rong Tang, Li Li, Jianguo Xia, Dapeng Li"
+Study Publication Title	"Metabolomics Investigation of Dietary Effects on Flesh Quality in Grass Carp (Ctenopharyngodon idellus)"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Feeding Diets"	"Gender"	"Replicate"
+Study Factor Type	"diet"	"Gender"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls673_female_mass_spectrometry.txt"	"a_mtbls673_male_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"SYNAPT G2-XS QTOF (Waters, UK)"	"SYNAPT G2-XS QTOF (Waters, UK)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Our feeding experiment spanned from July 8th, 2016 to October 28th, 2016. Fish in one group were fed with natural grass (GF), which included Lolium perenne, Euphrasia pectinata and Sorghum sudanense. Fish in the artificial diet group (AF), were fed an artificial diet. White muscle and gonadal tissues were taken from 250 tails per experimental group (AF/GF).
+</p>
+Gonads were stained routinely with hematoxylin and eosin. The sex of the grass carp was determined by the contour of the gonad and further results of the gonad tissue slice.
+</p>
+Based on the results of the sex determination, metabolomic analysis of muscle samples were divided into 4 test groups (n = 10): female fish of the grass feeding group (FGF), male fish of the grass feeding group (MGF), female fish of the artificial diet group (FAF), as well as male fish of the artificial diet group (MAF)."	"Frozen-white muscle samples were thawed slowly, where they were taken from the ultra-cold freezer (-80 °C) and placed at -20 °C for 30 min, then put on ice until the sample was completely melted. Each repetition from each experimental group was taken from 5 individuals (approximately 25 mg/sample). Samples of 5 tails were placed in an EP tube and mixed with 800 μl of an ice-cold mixture of methanol and water (1:1 ratio), with 2 steel balls added to each tube. The tissues were then broken at 60 Hz for 5 min by the TissueLyser, then 300 μl of supernatant from each tube was collected after a 10-min centrifugation at 25000 x g at 4 °C and then injected into the LC-MS system. 10 μl of each sample was combined into a new vial and used as a pool sample for quality control and analyte identification, and were acquired after every 10 tested samples."	"Chromatographic separations were performed using ultra performance liquid chromatography Ultimate 2777C (UPLC) system (Waters, UK). An ACQUITY UPLC BEH C18 column (100 mm x 2.1mm, 1.7 μm, Waters, UK) was used for the reversed phase separation. The column oven was maintained at 50 °C. The injection volume for each sample was 10 μl, and the flow rate was 0.4 ml/min. Additionally, the mobile phase consisted of solvent A (water + 0.1% formic acid) and solvent B (acetonitrile + 0.1% formic acid). Gradient elution conditions were set as follows: 0~2 min, 100% phase A; 2~11 min, 0% to 100% B; 11~13 min, 100% B; and 13~15 min, 0% to 100% A."	"The eluents were introduced into a high-resolution tandem mass spectrometer SYNAPT G2-XS QTOF (Waters, UK) by electrospray ionization with capillary voltages set in the positive and negative modes to 2.0 kV and 1.0 kV, respectively. The cone voltages of both modes were 40 V. The mass spectrometry data were acquired in Centroid MSE mode. The TOF mass scan range of both simultaneous low- and high-energy mass scan functions was from 50 m/z to 1200 m/z with a scan time 0.2 s. For the MS/MS detection, all precursors were fragmented using 20 - 40 eV. During the acquisition, the mass spectrometry signal was acquired every 3 s to calibrate the mass accuracy."	"The peak intensity tables of detected features were inputted into the MetaboAnalyst 4.0 (http://www.metaboanalyst.ca/) 'Statistical Analysis' module for univariate and multivariate data analysis[1]. The input data were normalized by a pooled sample (quality control, QC) from the 2 experimental groups. Meanwhile, the log transformation and autoscaling were also used in data normalization procedures.
+</p>
+Ref:</br>
+[1] Chong J, Soufan O, Li C, Caraus I, Li S, Bourque G, Wishart DS, Xia J. MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis. Nucleic Acids Res. 2018 Jul 2;46(W1):W486-W494. doi:10.1093/nar/gky310. PMID:29762782</br>"	"For qualitative and quantitative metabolomics, raw data were processed using Progenesis QI software (Nonlinear Dynamics, 2017, version: 2.2, Waters, MA, US). First, data were cropped to remove external standards. Masses were detected, and the chromatogram for each mass was built using the Centroid mass detector and Chromatogram builder, respectively. Smoothed data were then deconvoluted using a noise amplitude algorithm and deisotoped. The conditions for chromatographic alignment were 0.01 m/z tolerance and 0.1 min RT-tolerance. Finally, sodium and ammonium adducts search was performed prior to exporting the data to Excel for post-processing. The compound identification list, which contained the molecular weight, compound name, statistical scores, and other information to show the result of the identifications was exported as an excel file (.csv).
+</p>
+To verify and confirm compound identifications, the METLIN batch Metabolite Search Database (http://metlin.scripps.edu/), Kyoto Encyclopedia of Genes and Genomes (http://www.genome.jp/kegg/), Human Metabolite Database (http://www.hmdb.ca/) and ChemSpider (http://www.chemspider.com/) databases were used by comparing molecular weights and MOL files. The molecular and structural formulas of the candidate compounds were retrieved by the comparison and then confirmed by MS/MS scans for the characteristic ions and fragmentation patterns of the metabolites."
+Study Protocol URI	""	""	"https://www.waters.com/webassets/cms/support/docs/71500082502rf.pdf"	"http://www.waters.com/waters/library.htm?lid=134801837&locale=en_US"	""	"http://www.metaboanalyst.ca/faces/upload/PeakUploadView.xhtml"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhao"	"Li"	"Xia"
+Study Person First Name	"Honghao"	"Dapeng"	"Jianguo"
+Study Person Mid Initials	""	""	""
+Study Person Email	"zhao253091640@webmail.hzau.edu.cn
+honghao.zhao@mail.mcgill.ca"	"ldp@mail.hzau.edu.cn"	"jeff.xia@mcgill.ca"
+Study Person Phone	"+001 (514) 586-1751"	"+086 15307118600"	"+001 (514) 398-8668"
+Study Person Fax	""	"+086 027-87282113"	"+001 (514)-398-7857"
+Study Person Address	"Department of Parasitology, McGill University, Macdonald Campus
+21111 Lakeshore Road, Montreal, QC, Canada H9X 3V9"	"College of Fisheries, Huazhong Agricultural University
+No. 1, St. Shizishan, Hongshan District, Wuhan, 430070, China"	"Department of Parasitology, McGill University, Macdonald Campus
+21111 Lakeshore Road, Montreal, QC, Canada H9X 3V9"
+Study Person Affiliation	"Huazhong Agricultural University & McGill University"	"Huazhong Agricultural University"	"McGill University"
+Study Person Roles	"Principal investigator; Data analysis"	"Project management, supervisor"	"Supervisor,software"
+Study Person Roles Term Accession Number	";"	""	""
+Study Person Roles Term Source REF	";"	""	""

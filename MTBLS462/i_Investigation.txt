@@ -1,0 +1,126 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"EDAM"	"ROLEO"	"FMA"	"CHMO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/FMA"	"http://data.bioontology.org/ontologies/CHMO"	
+Term Source Version	"2"	"22"	"86"	"19"	"1"	"3"	"5"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"Role Ontology"	"Foundational Model of Anatomy"	"Chemical Methods Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS462"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS462"
+Study Title	"LDA: Novel lipid species (HCD characterization) and identification of regio-isomeric lipid species"
+Study Description	"LDA identified several novel lipid molecular species and novel regio-isomeric species; we consider a lipid species as “novel” if it is neither present in LIPID MAPS Structure Database, ChEBI, CyberLipid, HMDB, nor YMDB. Where evidence relies on fragments of very small intensity, high resolution HCD mode was used for final characterization. These data are presented here (CID mode data can be found in MTBLS397 - both biological experiments for Orbitrap Velos CID). Moreover, we present in this study data showing the LDA's ability to distinguish regio-isomeric standards under certain chromatographic conditions."
+Study Submission Date	"2017-05-18"
+Study Public Release Date	"2017-08-15"
+Study File Name	"s_LDA2_Verification.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolomics"	"Lipids"	"ultra-performance liquid chromatography-mass spectrometry"	"Software engineering"
+Study Design Type Term Accession Number	"http://edamontology.org/topic_3172"	"http://edamontology.org/topic_0153"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://edamontology.org/topic_3372"
+Study Design Type Term Source REF	"EDAM"	"EDAM"	"CHMO"	"EDAM"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Hartler J, Triebl A, Ziegl A, Trötzmüller M, Rechberger GN, Zeleznik OA, Zierler KA, Torta F, Cazenave-Gassiot A, Wenk MR, Fauland A, Wheelock CE, Armando AM, Quehenberger O, Zhang Q, Wakelam MJO, Haemmerle G, Spener F, Köfeler HC, Thallinger GG"
+Study Publication Title	"Deciphering lipid structures based on platform-independent decision rule sets
+"
+Study Publication Status	"submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_lda2_verification_metabolite_profiling_mass_spectrometry.txt"	"a_lda2_verification_metabolite_profiling_mass_spectrometry-1.txt"	"a_lda2_verification_metabolite_profiling_mass_spectrometry-2.txt"	"a_lda2_verification_metabolite_profiling_mass_spectrometry-3.txt"	"a_lda2_verification_metabolite_profiling_mass_spectrometry-4.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Biological experiment positive - Orbitrap velos HCD (Thermo Scientific)"	"Biological experiment negative - Orbitrap velos HCD (Thermo Scientific)"	"Orbitrap velos CID positive Mix (Thermo Scientific)"	"Orbitrap velos CID positive DG 1,2 (Thermo Scientific)"	"Orbitrap velos CID positive DG 1,3 (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All solvents used were at least HPLC (high performance liquid chromatography) grade and purchased either from Sigma-Aldrich (St. Louis, MO, USA) or from Merck (Darmstadt, Germany). Deionized water was obtained from an in-house MilliQ Gradient A10 system (Millipore, Billerica, MA, USA).
+
+DG standards:
+Lipid standards were purchased from Avanti Polar Lipids (Alabaster, AL, USA) and Larodan Fine Chemicals AB (Malmö, Sweden).
+List of standards: DG 16:0/18:1/0:0 and DG 16:0/0:0/18:1"	"Regio-isomeric standards:
+For each lipid species, 1 mol/L stock solutions were prepared, gravimetrically or by dilution, in chloroform/methanol 1:1 (v/v).  Prior to analysis, storage solvent was replaced by injection solvent.
+
+Biological experiment:
+Three liver aliquots (25-40 mg) from three different mice were homogenized using a BioPulverizer (BioSpec Products, Bartlesville, OK, USA) and extracted according to Matyash et al. (Matyash,V., Liebisch,G., Kurzchalia,T.V., Shevchenko,A., & Schwudke,D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res 49, 1137-1146 (2008)): 1.5 mL methanol and 5 mL MTBE (methyl-tert-butyl ether) were added to liver homogenate in 12 mL glass test tubes with PTFE-lined caps, and the mixture was incubated for 10 min in an overhead shaker at room temperature. After addition of 1.25 mL deionized water and 10 min of additional shaking, the mixture was centrifuged for 5 min at 2,000 x g and the upper phase was transferred to a new test tube. The lower phase was re-extracted with 2 mL of the upper phase of MTBE/methanol/deionized water 10:3:2.5 (v/v/v). The upper phases were combined, evaporated in a vacuum centrifuge and dissolved in 1 mL chloroform/methanol 1:1 (v/v) for storage at  -20 °C. Animal procedures were approved by the Austrian Federal Ministry for Science and Research and the Ethics Committee of the University of Graz (BMWFW-66.007/0006-WF/3b/2014).
+The three liver extracts were measured in quintuplicates each. For this study, liver sample 1 was used only."	"HCD characterization:Chromatographic separation of lipids was performed on a Waters BEH C8 column (100 x 1 mm, 1.7 µm) (Waters, Milford, MA, USA), thermostated to 50 °C in a Dionex Ultimate XRS UHPLC (ultra-high performance liquid chromatography) system. Mobile phase A for chromatographic separation was deionized water containing 10 mmol/L ammonium formate and 0.1 vol% of formic acid. Mobile phase B was acetonitrile/2-propanol 5:2 (v/v) with the same additives. Gradient elution started at 50 % mobile phase B, rising to 100 % B over 40 min, 100 % B was held for 10 min and the column was re-equilibrated with 50 % B for 8 min before the next injection. Flow rate was 150 µL/min and injection volume was 2µL.
+
+Regio-isomers detection:
+Chromatographic separation was performed on a Waters BEH C18 column (150 x 1 mm, 1.7 µm) (Waters, Milford, MA, USA), thermostated to 50 °C in a Dionex Ultimate XRS UHPLC (ultra-high performance liquid chromatography) system. Mobile phase A for chromatographic separation was deionized water containing 10 mmol/L ammonium formate and 0.1 vol% of formic acid. Mobile phase B was acetonitrile/2 propanol 5:2 (v/v) with the same additives. Gradient elution started at 50% mobile phase B, rising to 100% B over 75 min, 100% B was held for 5 min and the column was re equilibrated with 50% B for 15 min before the next injection. Flow rate was 100 µL/min and injection volume was 2 µL.
+"	"Orbitrap Velos Pro:
+The Orbitrap Velos Pro hybrid mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) was operated in Data Dependent Acquisition (DDA) mode using a HESI II (heated electrospray ionization) ion source. Prior to experiments, lens settings and source parameters were optimized to the signal of PE 34:1 (using protonated/deprotonated molecular ion in positive/negative ion mode, respectively) infused into the column effluent of 80 % mobile phase B with a mixing tee. Ion source parameters for positive polarity were as follows: Source Voltage 4.5 kV; source temperature 375 °C; sheath gas 25 arbitrary units (AU); aux gas 9 AU; sweep gas 0 AU; capillary temperature 300 °C. Ion source parameters for negative ion mode were: Source voltage 3.8 kV; source temperature 325 °C; sheath gas 30 AU; aux gas 10 AU; sweep gas 0 AU; capillary temperature 300 °C.
+
+HCD characterization:
+Full scan spectra from m/z 400 to 1,000 for positive ion mode and from m/z 400 to 1,000 in negative ion mode were acquired at a target resolution of 30,000 (FWHM at m/z 400), and fragment spectra of the 4 most abundant ions, selected from an inclusion list containing the m/z values of the novel lipid species, were collected in the Orbitrap mass analyzer at a target resolution of 7,500 (FWHM at m/z 400, isolation width 1.5 m/z; activation time 0.1 ms). Exclusion time (duration after fragmentation for excluding ions with similar m/z) was set to 3 s. Normalized collision energy settings were 25% and 50% for positive ion mode and for negative ion mode, respectively.
+
+
+Regio-isomeric lipid species detection:
+Full scan spectra from m/z 400 to 1,000 for positive ion mode and from m/z 400 to 1,000 in negative ion mode were acquired at a target resolution of 100,000 (FWHM at m/z 400). From each full scan spectrum, ions were selected for sequential fragmentation in the linear ion trap (collision-induced dissociation (CID) experiments) from an inclusion list containing the m/z value of the ions of interest (sodiated adducts of isobaric DG 16:0/0:0/18:1 and DG 16:0/18:1/0:0), and detected in the ion trap analyzer. Exclusion time (duration after fragmentation for excluding ions with similar m/z) was set to 1 s. He was used as collision gas (isolation width 1.5 m/z; activation Q 0.2; activation time 10 ms). Normalized collision energy was 50% in both positive and negative ion mode.
+"	"Data was transformed by msconvert to mzXML, and by LDA in chrom format."	"MS1 peaks were identified as described in an earlier paper [1] and MS/MS spectra were interpreted by decision rule sets as described in the referenced paper of this study. 
+For the metabolites assignment, a pipe "|" was used to discriminate between the individual MS runs, while comma "," was used to account for several identifications (e.g. several retention times) and ambiguous identifications (e.g. DG 20:0/18:0/-,20:0/-/18:0 corresponds to a diacylglyceride where 20:0 is identified to be on the sn-1 position, while 18:0 might be at sn-2 or sn-3). 
+Ref:
+ [1] Hartler J, Trötzmüller M, Chitraju C, Spener F, Köfeler HC, Thallinger GG. Lipid Data Analyzer: unattended identification and quantitation of lipids in LC-MS data. Bioinformatics. 2011 Feb 15;27(4):572-7. doi:10.1093/bioinformatics/btq699. PMID:21169379
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hartler"	"Köfeler"	"Thallinger"
+Study Person First Name	"Jürgen"	"Harald"	"Gerhard"
+Study Person Mid Initials	""	"C"	"G"
+Study Person Email	"juergen.hartler@tugraz.at"	"harald.koefeler@klinikum-graz.at"	"gerhard.thallinger@tugraz.at"
+Study Person Phone	"+43-316-873-5322 "	"+43-316-385-73005"	"+43-316-873-5343"
+Study Person Fax	"+43-316-873-105322"	"+43-316-385-73009"	"+43-316-873-105343"
+Study Person Address	"Petersgasse 14/V 
+8010 Graz, Austria"	"Stiftingtalstrasse 24 
+8010 Graz, Austria
+"	"Petersgasse 14/V 
+8010 Graz, Austria"
+Study Person Affiliation	"Institute of Computational Biotechnology, Graz University of Technology "	"Center for Medical Research, Medical University of Graz"	"Institute of Computational Biotechnology, Graz University of Technology "
+Study Person Roles	"author"	"author"	"author"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/RoleO_0000061"	"http://purl.obolibrary.org/obo/RoleO_0000061"	"http://purl.obolibrary.org/obo/RoleO_0000061"
+Study Person Roles Term Source REF	"ROLEO"	"ROLEO"	"ROLEO"

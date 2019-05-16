@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MESH"	"OBI"	"NCIT"	"MS"	"BTO"	"UO"	
-Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
-Term Source Version	"6"	"18"	"146"	"10"	"23"	"44"	"86"	"29"	"43"	
-Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+Term Source Name	"OBI"	"MS"	"MESH"	"CHMO"	"NCBITAXON"	"NCIT"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"23"	"86"	"10"	"18"	"6"	"44"	"146"	"43"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
 INVESTIGATION
 Investigation Identifier	"MTBLS333"
 Investigation Title	"Investigation"
@@ -36,10 +36,10 @@ Study Identifier	"MTBLS333"
 Study Title	"Discovery of A-type procyanidin dimers in yellow raspberries by untargeted metabolomics and correlation based data analysis"
 Study Description	"Introduction:</br>Raspberries are becoming increasingly popular due to their reported health beneficial properties. Despite the presence of only trace amounts of anthocyanins yellow varieties seems to show similar or better effects in comparison to conventional raspberries.</br>Objectives:</br>The aim of this work is to characterize the metabolic differences between red and yellow berries, focussing on the compounds showing a higher concentration in yellow varieties.</br>Methods:</br>The metabolomic profile of 13 red and 12 yellow raspberries (of different varieties, locations and collection dates) was determined by UPLC-TOF-MS and a novel correlation based approach was implemented to extract the pseudospectra of the most relevant biomarkers from high energy LC-MS runs.</br>Results:</br>Among the metabolites showing higher concentration in yellow raspberries it was possible to identify a series of compounds showing a pseudospectrum similar to that of A-type procyanidin polymers. The annotation of this group of compounds was confirmed by specific MS/MS experiments and performing standard injections.</br>Conclusion:</br>In berries lacking anthocyanins the polyphenol metabolism might be shifted to the formation of a novel class of A-type procyanidin polymers."
 Study Submission Date	"2016-03-28"
-Study Public Release Date	"2016-06-12"
+Study Public Release Date	"2016-08-23"
 Study File Name	"s_MTBLS333.txt"
 STUDY DESIGN DESCRIPTORS
-Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"Untargeted metabolites"	"procyanidin"
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"procyanidin"
 Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.bioontology.org/ontology/MESH/C017674"
 Study Design Type Term Source REF	"CHMO"	""	"MESH"
 STUDY PUBLICATIONS

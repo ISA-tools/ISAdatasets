@@ -1,0 +1,138 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"NCBITAXON"	"EFO"	"GAZ"	"CHMO"	"MS"	"NCIT"	"OBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/GAZ"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"39"	"6"	"146"	"14"	"5"	"129"	"44"	"22"	"43"	
+Term Source Description	"Environment Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Gazetteer"	"Chemical Methods Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS768"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\unni\Desktop\Metabolights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS768"
+Study Title	"Resolving coral photoacclimation dynamics through coupled photophysiological and metabolomic profiling"
+Study Description	"Corals continuously adjust to short term variation in light availability on shallow reefs. Long-term light alterations can also occur due to natural and anthropogenic stressors, as well as management interventions such as coral transplantation. Although short term photophysiological responses are relatively well-understood in corals, little information is available regarding photoacclimation dynamics over weeks of altered light availability. We coupled photophysiology and metabolomic profiling to explore changes that accompany longer-term photoacclimation in a key Great Barrier Reef coral species (Acropora muricata). High (HL) and low light (LL) acclimated corals were collected from the reef and reciprocally exposed to high and low light ex situ. Rapid light curves using Pulse Amplitude Modulation (PAM) fluorometry revealed photophysiological acclimation of LL to HL and HL to LL shifted corals within 21 days. A subset of colonies sampled at 7 and 21 days for untargeted LC-MS and GC-MS metabolomic profiling revealed metabolic reorganization before acclimation was detected using PAM fluorometry. Metabolomic shifts were more pronounced for LL to HL treated corals than their HL to LL counterparts. Compounds driving metabolomic separation between HL-exposed and LL control colonies included amino acids, organic acids, fatty acids and sterols. Reduced glycerol and campesterol suggest decreased translocation of photosynthetic products from symbiont to host in LL to HL shifted corals, with concurrent increases in fatty acid abundance indicating reliance on stored lipids for energy. We discuss how these data provide novel insight into environmental regulation of metabolism and implications for management strategies that drive rapid changes in light availability."
+Study Submission Date	"2018-10-22"
+Study Public Release Date	"2018-11-05"
+Study File Name	"s_mtbls768.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"coral reef"	"Light acclimation"	"Great Barrier Reef"	"Photosynthesis"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000796"	""	"http://purl.obolibrary.org/obo/ENVO_00000150"	""	"http://purl.obolibrary.org/obo/GAZ_00009717"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16986"
+Study Design Type Term Source REF	"CHMO"	""	"ENVO"	""	"GAZ"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"30877226"
+Study Publication DOI	"10.1242/jeb.195982"
+Study Publication Author List	"Lohr KE, Camp EF, Kuzhiumparambil U, Lutz A, Leggat W, Patterson JT, Suggett DJ."
+Study Publication Title	"Resolving coral photoacclimation dynamics through coupled photophysiological and metabolomic profiling."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Light"	"Replicate"	"Light exposure"
+Study Factor Type	"light"	"replicate"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000568"	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls768_GC_mass_spectrometry.txt"	"a_mtbls768_LC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A total of 58 Acropora muricata fragments at least 5 cm in length were collected from visually healthy source colonies on the reef crest and forereef at Heron Island, Great Barrier Reef (23.44°S, 151.91°E) in January 2017. Coral collections were performed under permits G15/37488.1 and G16/38534.1 issued by the Great Barrier Reef Marine Park Authority. The forereef collection site was located approximately 10 m seaward of the reef crest collection site. At both collection sites, source colonies were part of continuous thickets and discrete genets could not be identified. Instead, fragments were haphazardly collected from thickets within an area of approximately 3 x 3 m at each collection site. Maximum photosynthetically active radiation (PAR) was measured at each site at solar noon on a clear day using a PAR meter (4pi spherical underwater quantum sensor, LI-193SA, LI-COR, Lincoln, NB, USA). Fragments collected from the reef crest (n=29) were clipped from the tops of high light (HL)-exposed thickets at 0.5–1 m (maximum PAR≈2500–3000 μmol photons/m^2/s). The remaining fragments (n=29) were collected
+from the underside of thickets that were exposed to comparatively low light (LL) at a depth of 3.5–4 m (maximum PAR≈500–1000 μmol photons/m^2/s). Collected HL and LL fragments were transported to the Heron Island Research Station and placed in seawater-conditioned plastic test tube racks to ensure they remained upright. Fragments were acclimated for 3 days in an outdoor direct flow-through system at sunlight intensities closely approximating those of their source environment. Irradiance levels approximating each source environment were achieved using shade cloth to approximate midday maximum light levels to corresponding values measured in situ at HL and LL collection sites (HL ~2500–2600 μmol photons/m^2/s and LL ~450–600 μmol photons/m^2/s maximum daily PAR).
+</br></br>
+To generate initial metabolomic profiles associated with each light regime prior to the application of experimental treatments and to account for any tank effect following the acclimation period, 10 fragments (5 each, HL and LL) were snap frozen in liquid nitrogen [sample groups hereafter referred to as initial HL (or LL)
+samples]. The remaining 48 fragments were distributed among 2 light treatments in 6 x 68 l glass aquaria (n=3 aquaria per light treatment). Fragments were distributed in a fully reciprocal design such that equal numbers of fragments sourced from HL and LL environments were exposed to each light treatment. This resulted in 2 treatment groups (LL to HL and HL to LL) and 2 control groups (LL control, HL control), each consisting of 12 colonies. Fragments from each source location were haphazardly assigned to each treatment tank, and were equally spaced in 1 test tube rack per tank. Each aquarium received 10 l/min flow-through seawater pumped directly from the reef flat where nubbins were originally sourced. Cross-calibrated temperature loggers (HOBO Pendant UA-002-64 or UA-001-64,
+Onset Corporation, Bourne, MA, USA) were placed in each aquarium to monitor temperature throughout the experiment and ensure consistency across treatments.
+</br></br>
+In addition to the 10 initial HL and LL samples collected immediately following the acclimation period, control and treatment groups were sampled from the 6 tanks after 7 and 21 days for metabolome profiling. A total of n=24 samples were collected at each time point, and thus each source x treatment group was equally represented among samples. Samples were snap frozen in liquid nitrogen to halt metabolic activity, and stored at −80 °C prior to extraction. For metabolomics analysis, experimental data for HL- and LL-exposed corals were considered separately in order to better interpret how treated colonies changed with respect to
+relevant initial and control groups. This resulted in comparisons between (1) LL to HL colonies, LL to LL controls, and initial HL and LL samples, and (2) HL to LL colonies, HL to HL controls, and initial HL and LL samples. Both GC-MS and LC-MS analyses were performed in order to retrieve a comprehensive set of both primary and secondary metabolite responses."	"GC-MS:</br>
+Gas chromatography–mass spectrometry (GC-MS) profiling was used in order to target primary metabolites (such as sugars, amino acids and organic acids)[1]. Metabolite extraction methods for GC-MS profiling were modified from previously published methods[2][3]. Metabolites were extracted using 750 μl of extraction solution (100% methanol with 3 internal standards: 100 μmol/l DL-valine-d8, 60 μmol/l stearic acid-d3, 60 μmol/l 5-alpha-cholestane) per 50 mg of sample material. An additional extraction was performed using 750 μl of 50% methanol. Samples were incubated for 20 min at 5 °C and 1250 rpm in a thermomixer in the respective solvents sequentially, then centrifuged for 3 min at 20,800 x g. The resulting supernatant was collected and pooled; 150 μl of supernatant was then transferred into a glass vial and evaporated to dryness in a vacuum evaporator for 3 h at room temperature. Samples were derivatized by adding 20 μl of 20 mg/ml methoxylamine in pyridine then incubating samples at 37 °C for 2 h at 750 rpm in the agitator. 20 μl of N-methyl-N-(trimethylsilyl) trifluoroacetamide (MSTFA)were then added and samples were incubated at 37 °C for 30 min at 750 rpm in the agitator. Samples were subsequently incubated at room temperature for 1 h, and finally 1 μl was injected for GC-MS analysis.
+</br></br>
+LC-MS:</br>
+Metabolite extraction methods for liquid chromatography–mass spectrometry (LC-MS) were modified from a previously published protocol[4]. Briefly, frozen coral fragments were placed in 20 ml scintillation vials containing 10 ml of 100% methanol (LC-MS Grade, BandJ Brand, Honeywell, Shanghai, China) spiked with 0.005 mmol/l aminoanthracene (Sigma-Aldrich, Castle Hill, Australia) as an internal standard, then stored at −20 °C overnight. Vials were sonicated in a chilled water bath for 15 min then vortexed for 30 s per sample. Resulting extracts were decanted into clean scintillation vials, and 3 ml of 70% methanol was added to vials containing remaining coral nubbins to ensure extraction of hydrophilic metabolites. Samples in 70% methanol were vortexed for another 30 s and the resulting extract was combined with the 100% methanol extract. The combined extract was stored at −20 °C overnight. A syringe was then used to remove 1 ml of extract, which
+was passed through a 0.22 μm Hydraflavon syringe filter (MicroAnalytix Pty Ltd, Taren Point, Australia) to remove any particulate matter and into clean 2 ml HPLC vials. Vials were stored at −20 °C overnight prior to processing.
+</br></br>
+Ref:</br>
+[1] Dias DA, Hill CB, Jayasinghe NS, Atieno J, Sutton T, Roessner U. Quantitative profiling of polar primary metabolites of two chickpea cultivars with contrasting responses to salinity. J Chromatogr B Analyt Technol Biomed Life Sci. 2015 Sep 1;1000:1-13. doi:10.1016/j.jchromb.2015.07.002. PMID:26204234</br>
+[2] Hillyer KE, Tumanov S, Villas-Bôas S, Davy SK. Metabolite profiling of symbiont and host during thermal stress and bleaching in a model cnidarian-dinoflagellate symbiosis. J Exp Biol. 2016 Feb;219(Pt 4):516-27. doi:10.1242/jeb.128660. PMID:26685173</br>
+[3] Hillyer KE, Tumanov S, Villas-Bôas S, Davy SK. Metabolite profiling of symbiont and host during thermal stress and bleaching in a model cnidarian-dinoflagellate symbiosis. J Exp Biol. 2016 Feb;219(Pt 4):516-27. doi:10.1242/jeb.128660. PMID:26685173</br>
+[4] Gordon BR, Leggat W, Motti CA. Extraction protocol for nontargeted NMR and LC-MS metabolomics-based analysis of hard coral and their algal symbionts. Methods Mol Biol. 2013;1055:129-47. doi:10.1007/978-1-62703-577-4_10. PMID:23963908</br>"	"GC-MS:</br>
+Samples were run on a GCMS-QP2020 (Shimadzu Corporation, Kyoto, Japan) equipped with an AOC-20is autosampler (Shimadzu Corporation). The column used was an SH-Rxi-5Sil MS fused silica capillary column (30.0 m x 0.25 mm x 0.25 μm). Helium was used as the carrier gas at a constant flow of 1.0 ml/min and an injection volume of 1 μl. The temperature gradient of the oven was 70 °C for 1 min, then 7 °C/min to 325 °C. Samples were run in a randomized order to account for any potential experimental drift affecting experimental groups. A quality control (QC) sample composed of replicates from each sample group was also injected periodically.
+</br></br>
+LC-MS:</br>
+Untargeted LC-MS metabolite profiling was conducted using a reverse phase (C18) technique targeting semi-polar to hydrophobic secondary metabolites[1]. Samples were analyzed on 6550 iFunnel Q-TOF LC-MS (Agilent Technologies, Santa Clara, CA, USA) equipped with dual automatic jet stream electrospray ionization (AJS ESI), coupled with a 1260 infinity HPLC system (Agilent Technologies). Separation was performed at 25 °C on an Agilent Zorbax Eclipse XDB-C18 column (100 x 4.6 mm i.d., 1.8 μm). The HPLC program consisted of a linear gradient of milli-Q water (with 1% formic acid) to 100% acetonitrile (with 1% formic acid) over 12 min, followed by isocratic elution at 100% acetonitrile (with 1% formic acid) at a flow rate of 1 ml/min.  All samples were injected in a single batch and a randomized injection order was used to avoid sample mass. A QC sample composed of replicates from each sample group was analyzed at the beginning, middle and end of the batch.
+</br></br>
+Ref:</br>
+[1] De Vos RC, Moco S, Lommen A, Keurentjes JJ, Bino RJ, Hall RD. Untargeted large-scale plant metabolomics using liquid chromatography coupled to mass spectrometry. Nat Protoc. 2007;2(4):778-91. doi:10.1038/nprot.2007.95. PMID:17446877</br>"	"GC-MS:</br>
+The GCMS-QP2020 (Shimadzu Corporation, Kyoto Japan) operating in electron impact mode at 70 eV was used. The injector temperature was maintained at 280 °C and ion source temperature at 230 °C. The scan range was m/z 50-600. 
+</br></br>
+LC-MS:</br>
+Agilent 6550 iFunnel Q-TOF LC-MS equipped with Dual Automatic Jet Stream (AJS) Electrospray Ionisation (ESI) was used. Nitrogen was used as the nebulizing gas. The dual AJS ESI source was kept at a voltage of 3500 V in positive ion mode. Mass spectra were acquired with source conditions as follows: gas temperature 350 °C, drying gas 4 l/min (N2), nebulizer pressure 35 psi (N2) and Vcap 3500 V, fragmentor 160 V and skimmer 65 V. The mass range scanned was 70-1700 m/z, at a scan rate of 2 spectra/s. Because analysis was untargeted, generic settings were applied to obtain as many compounds as possible. External mass calibration was performed using a calibrating solution monitoring signals at m/z in positive polarity. Data were processed using Mass Hunter Qualitative analysis software (v.B.06.00 Agilent Technologies). All solvents used were of high purity grade from Honeywell Burdick and Jackson (Chem-Supply, Gillman, Australia). LC-MS grade formic acid was obtained from Sigma-Aldrich."	"GC-MS:</br>
+Raw GC-MS data were transformed into CDF format using GCMSsolution software (v.4.0, Shimadzu, Kyoto, Japan), and the converted files were subsequently imported into XCMS (v.3.2, Galaxy Project Metabolomics, Roscoff, France). For grouping, bandwidth was set to 10; the resulting peak list comprising features (ions, retention time, intensity) was further processed using Excel (Microsoft, Redmond, WA, USA), where area normalization was performed using the total peak area of
+internal standards and used for further statistical analysis.
+</br></br>
+LC-MS:</br>
+Raw LC-MS data were processed using the Batch Recursive Feature Extraction option in the Agilent Mass Hunter Profinder software (v.B.06.00). Untargeted analysis of complex biological mixtures comprises tens of thousands of mass features, and thus allows profiling of a large number of molecules. Several preprocessing filters were applied to curate the large amount of data to an operational size. Using the feature extraction algorithm, a group of ions characterized by retention time, peak area and accurate mass was extracted in each sample as molecular features. This was performed by using a minimum absolute abundance threshold of 1000 counts with an m/z range of 100–1700. The charge state was set to 2 and the minimum number of ions in the isotopic distribution was set to 2, following the isotope model of ‘common organic molecules’. This was followed by binning and alignment of molecular features as a function of retention time, fragmentation pattern and m/z value across the data matrix, using a tolerance window of ±0.1%+0.2 min retention time and ±10 ppm+2 mDa mass window. H+, Na+, K+, and NH4+ ion species and neutral losses of H2O and CO2 were allowed. Next, a visual validation of the feature extraction results and manual editing of extracted ion chromatogram (EIC) peaks as required were performed using Profinder to reduce the number of false negatives and false positives in the dataset, thereby increasing the quality of the data exported for differential analysis. Data files were transformed into .CEF files containing extracted compounds, neutral mass, retention time and abundance, and exported to Mass Profiler Professional (MPP) software package (v.B.14.9.1, Agilent Technologies).
+</br></br>
+Data were normalized with the internal standard and evaluated and filtered to remove low-quality and inconsistent mass spectral features (only those appearing in 75% of samples in at least 1 condition were considered). Thereafter, compound abundance values in each sample were baselined to the median of each compound in all
+samples. Resultant mass features were exported as .csv files and statistical comparisons including principal component analysis (PCA), partial least square discriminant analysis (PLS-DA) and hierarchical cluster analysis were performed using MetaboAnalyst 4.0 software (www.metaboanalyst.ca). Statistically significant
+differences among sample groups were determined using one-way ANOVA and Tukey’s HSD (α=0.05) using the exported dataset."	"GC-MS:</br>
+Statistical analysis of the normalized m/z RT features obtained from XCMS representing 182 metabolites was performed using MetaboAnalyst 4.0 software (www.metaboanalyst.ca). Normalized peak areas were log transformed and autoscaled (the mean area value of each feature throughout all samples was subtracted from each individual feature area and the result divided by the standard deviation) prior to statistical analysis. Features showing statistically significant differences among the groups were used to annotate peaks. Groups of features sharing the same retention time that were statistically significant and presented with a high degree of correlation were considered representative of a single metabolite[1]. Metabolite profiling and tentative metabolite identification were performed using GCMSsolution software by combining mass spectra and database consultation (NIST17, match with library >70%). Further validation was also done through literature searches.
+LC-MS:</br>
+No metabolite identification was reported in this assay.
+</br></br>
+Ref:</br>
+[1] Escobar-Morreale HF, Samino S, Insenser M, Vinaixa M, Luque-Ramírez M, Lasunción MA, Correig X. Metabolic heterogeneity in polycystic ovary syndrome is determined by obesity: plasma metabolomic approach using GC-MS. Clin Chem. 2012 Jun;58(6):999-1009. doi:10.1373/clinchem.2011.176396. PMID:22427353</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kuzhiumparambil"
+Study Person First Name	"Unnikrishnan"
+Study Person Mid Initials	""
+Study Person Email	"unnikrishnan.kuzhiumparambil@uts.edu.au"
+Study Person Phone	"+61435014496"
+Study Person Fax	""
+Study Person Address	"University of Technology Sydney"
+Study Person Affiliation	"Climate Change Cluster (C3), University of Technology Sydney, Ultimo, NSW, Australia"
+Study Person Roles	"Research Associate"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

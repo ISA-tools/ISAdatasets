@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"NCIT"	"OBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"18"	"6"	"146"	"129"	"44"	"22"	"43"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS451"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UserswataruDesktopISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS451"
+Study Title	"Metabolite profiling of the fermentation process of yamahai-ginjo-shikomi Japanese sake."
+Study Description	"Sake is a traditional Japanese alcoholic beverage prepared by multiple parallel fermentation of rice. The fermentation process of yamahai-ginjo-shikomi sake is mainly performed by three microbes, Aspergillus oryzae, Saccharomyces cerevisiae, and Lactobacilli; the levels of various metabolites fluctuate during the fermentation of sake. For evaluation of the fermentation process, we monitored the concentration of moderate-sized molecules (m/z: 200-1000) dynamically changed during the fermentation process of yamahai-ginjo-shikomi Japanese sake. This analysis revealed that six compounds were the main factors with characteristic differences in the fermentation process. Among the six compounds, four were leucine- or isoleucine-containing peptides and the remaining two were predicted to be small molecules. Quantification of these compounds revealed that their quantities changed during the month of fermentation process. Our metabolomic approach revealed the dynamic changes observed in moderate-sized molecules during the fermentation process of sake, and the factors found in this analysis will be candidate molecules that indicate the progress of yamahai-ginjo-shikomi sake fermentation."
+Study Submission Date	"2017-04-20"
+Study Public Release Date	"2017-12-31"
+Study File Name	"s_Study_Tatsukami.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Japanese Sake"	"metabolomic profiling"	"nanoflow liquid chromatography-electrospray ionisation mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000752"	""
+Study Design Type Term Source REF	""	"EFO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29298316"
+Study Publication DOI	"10.1371/journal.pone.0190040"
+Study Publication Author List	"Yohei Tatsukami, Hironobu Morisaka, Shunsuke Aburaya, Wataru Aoki, Chihiro Kohsaka, Masafumi Tani, Kiyoo Hirooka, Yoshihiro Yamamoto, Atsushi Kitaoka, Hisashi Fujiwara, Yoshinori Wakai, Mitsuyoshi Ueda"
+Study Publication Title	"Metabolite profiling of the fermentation process of "yamahai-ginjo-shikomi" Japanese sake.
+"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Replicate"	"Fermetation process"	"Timepoint"
+Study Factor Type	"replicate"	"protocol"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://purl.obolibrary.org/obo/OBI_0000272"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_study_tatsukami_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LTQ Orbitrap Velos (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Preparation of sake samples:</br>
+For the preparation of sake_1 sample, 250 kg of “Yamada Nishiki” rice harvested at Hyogo Prefecture was used with a polishing ration of 35%. Koji was prepared using 21.2% aliquot of rice. In total, 339 l of sake containing 15.9% of ethanol was produced, and samples were collected at 6, 11, 16, 21, 26, and 34 days after shikomi (commencement of fermentation).
+</br></br>
+For the preparation of sake_2 sample, 200 kg of “Yamada Nishiki” rice harvested at Tottori Prefecture was used with a polishing ratio of 35%. Koji was prepared using 20.5% aliquot of rice. For efficient saccharification of rice starch, 10 g of glucoamylase was added at an early stage of fermentation. In total, 270 l of sake containing 16.3% of ethanol was produced, and samples were taken at 1, 5, 11, 19, 26, and 34 days after shikomi. All fermentation processes of moromi were performed under conditions of 5.8–10.4 °C for both kinds of sake.
+</br></br>
+Microbial strains used for fermentation of “yamahai-shikomi” sake were Leuconostoc mesenteroides and Lactobacillus plantarum for starter Lactobacillales, Saccharomyces cerevisiae for sake yeast, and Aspergillus oryzae for seed koji."	"Sake was directly injected into nano LC-MS/MS."	"A nanoLC (Ultimate 3000, DIONEX, Sunnyvale, CA, USA) system. 5 μl of sample was injected and separated by reversed-phase chromatography using a monolithic column [2,000 mm, 0.1 mm ID, Kyoto Monotech Co., Ltd., Kyoto)]. The gradient was obtained by changing the mixing ratio of 2 eluents: A, 0.1% (v/v) formic acid and B, 80% (v/v) acetonitrile containing 0.1% (v/v) formic acid. The 120 min gradient separation at a flow rate of 500 nl/min and 40 °C was as follows: (i) 5% B for 10 min, (ii) 60 min gradient to 95% B, (iii) 10 min hold at 95% B, (iv) 1 min gradient return to 5% B, and (v) 40-min hold at 5% B."	"The separated metabolites were detected by mass spectrometry (LTQ Orbitrap Velos, Thermo Fisher Scientific) using a full scan range of 200–1000 m/z at a resolution of 100,000 with a positive scan mode. MS was performed with an ESI voltage of 2.3 kV and a transfer tube temperature of 280 °C. MS data acquisition was set at 30–115 min.
+</br></br>
+For data-dependent MS2 spectrum acquisition, which was used for peptide identification, the method was set to automatically analyze the top 10 most intense ions observed during the MS scan."	"Data were acquired using the following procedures:</br>
+1) raw data obtained by LTQ Orbitrap Velos (which comprised 3,000 spectrum counts and 800 Th of mass-to-charge ratio) were delimited by 50 spectrum counts and a mass-to-charge ratio of 1;</br>
+2) the intensities in each compartment were totaled;</br>
+3) data were exported in text file format by an in-house developed C-script named OrbitrapDataRead.
+</br></br>
+The data obtained from sake samples were analyzed and integrated into the same CSV file. In this step, all ion signals are included in numeric information of CSV file without discrimination of noise signals from metabolite-related signals. Global median normalization was conducted to standardize the total intensities of compounds injected into the LC-MS. Finally, principal component analysis (PCA) was performed using R (https://www.r-project.org/)."	"For detailed analysis, the main exact mass occupying each factor was extracted from spectral data. Each exact mass of ≤1000 Da was analyzed using the Kazusa Molecular Formula Searcher (http://webs2.kazusa.or.jp/mfsearcher/index_jp.html) with KEGG (http://www.genome.jp/kegg/), KNApSAcK (http://kanaya.naist.jp/KNApSAcK/) and pep1000 (http://webs2.kazusa.or.jp/mfsearcher/pep1000/) databases to predict candidate chemicals or peptides. Exact masses of ≥ 1000 Da could not be determined because of the redundancy of molecular formula. From the results of compound predictions, C17–29 organic compounds, including leucine- or isoleucine-rich short-chain peptides, exhibited the highest PC1 scores. These factors were predicted to characterize the fermentation process of “yamahai-shikomi” Japanese sake.
+</br></br>
+To identify candidate compounds that would characterize the “yamahai-shikomi” sake fermentation process, we performed nanoLC-MS/MS analysis. We particularly focused on the leucine- or isoleucine-rich peptides, and the sequences of these peptides were analyzed. As a result, the peptides [Leu/Ile]–[Leu/Ile]–[Leu/Ile], Phe–Pro–[Leu/Ile], [Leu/Ile]–[Leu/Ile]–[Leu/Ile]–Pro, and [Leu/Ile]–[Leu/Ile]–[Leu/Ile]–[Leu/Ile]–Pro were identified. All peptides contained leucine or isoleucine (represented as [Leu/Ile]). However, leucine and isoleucine could not be distinguished by MS analysis because these two amino acid residues share the same molecular weight.
+</br></br>
+Next, we tried to distinguish leucine and isoleucine residues by their retention time on chromatographic columns using (as an example) the tripeptides [Leu/Ile]–[Leu/Ile]–[Leu/Ile], which display 23 patterns of leucine and/or isoleucine sequence. The long-duration gradient program employed for LC using the long monolithic column was able to distinguish these tripeptides. From the chromatogram, “yamahai-shikomi” Japanese sake contained more than one species of peptide, and the predominant one was found to be Leu–Leu–Leu, indicating that peptides possessing a poly-leucine motif may be important. Moreover, putative Phe–Pro–[Leu/Ile] was validated as Phe–Pro–Leu by the retention time analysis using LC, suggesting that leucine-containing peptides are characteristic features of the fermentation process employed in “yamahai-shikomi” Japanese sake. The precise composition of leucine and isoleucine peptides for [Leu/Ile]–[Leu/Ile]–[Leu/Ile]–Pro and [Leu/Ile]–[Leu/Ile]–[Leu/Ile]–[Leu/Ile]–Pro could not be identified because of the number of sequence combinations.
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Yohei"	"Wataru"	"MItsuyoshi"
+Study Person First Name	"Tatsukami"	"Aoki"	"Ueda"
+Study Person Mid Initials	""	""	""
+Study Person Email	"tatsukami.youhei.88a@st.kyoto-u.ac.jp"	"aoki.wataru.6a@kyoto-u.ac.jp"	"miueda@kais.kyoto-u.ac.jp"
+Study Person Phone	"+81-75-753-6112"	"+81-75-753-6112"	"+81-75-753-6112"
+Study Person Fax	"+81-75-753-6112"	"+81-75-753-6112"	"+81-75-753-6112"
+Study Person Address	"Sakyo-ku, Kyoto 606-8502, Japan"	"Sakyo-ku, Kyoto 606-8502, Japan"	"Sakyo-ku, Kyoto 606-8502, Japan"
+Study Person Affiliation	"Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University,"	"Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University,"	"Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University,"
+Study Person Roles	"Principal author"	"Principal author"	"Principal author"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

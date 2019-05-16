@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"BAO"	"CHMO"	"EFO"	"MS"	"OBI"	"CRISP"	"CHEBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"22"	"26"	"18"	"146"	"129"	"22"	"6"	"99"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"BioAssay Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS807"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\admin\Downloads\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS807"
+Study Title	"Drying Enhances Signal Intensities for Global GC–MS Metabolomics"
+Study Description	"We report here that a straightforward change of the standard derivatization procedure for GC–MS metabolomics is leading to a strong increase in metabolite signal intensity. Drying samples between methoxymation and trimethylsilylation significantly increased signals by two- to tenfold in extracts of yeast cells, plant and animal tissue, and human urine. This easy step reduces the cost of sample material and the need for expensive new hardware."
+Study Submission Date	"2018-12-18"
+Study Public Release Date	"2019-05-06"
+Study File Name	"s_mtbls807.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"method development"	"untargeted metabolites"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/CSP/4001-0081"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	"CRISP"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.3390/metabo9040068"
+Study Publication Author List	"Manuel Liebeke and Erik Puskas"
+Study Publication Title	"Drying Enhances Signal Intensities for Global GC–MS Metabolomics"
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment"
+Study Factor Type	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls807_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Human urine was collected from volunteers, plant material from seagrass (Posidonia oceanica) was generated from seagrass leaves (Posidonia oceanica, collected in the Mediterranean sea, island of Elba). Lysogeny broth (Sigma Aldrich) was prepared after manufacturer's recipe, excluding the addition of salts and 100 μl was used as a sample for yeast cell metabolite extract. Animal tissue (common earthworm, Lumbricus terrestris) was collected from a nearby field."	"Human urine was prepared using an established urine metabolomics protocol[1]. Urine was aliquoted into 200 μl samples and prepared, including the depletion of urea with urease, precipitation of urease with methanol and extraction of metabolites. The plant material was  prepared using the method for global plant metabolomics[2]. Briefly, shock-frozen leaf tissue was grinded with a mortar and pestle (all liquid N2 cooled), 100 mg powder was extracted with methanol and strong agitation, chloroform and water was added and the sample mixed. After phase-separation the upper layer was taken for metabolite analysis. Animal tissue (common earthworm, Lumbricus terrestris) was collected and extracted as described previously[3]. Briefly, the shock-frozen whole animal was grinded with a mortar and pestle (all liquid N2 cooled), 50 mg powder was extracted with methanol and strong agitation, chloroform and water was added and the sample mixed. After phase-separation the upper layer was taken for metabolite analysis. All final extracts were dried under vacuum (Extractor Plus, Agilent; settings: 30 °C, 2 h, 1000 rpm, VAQ).
+</br></br>
+For step 1 of the derivatization procedure, the oximation, 80 μl methoxylamine hydrochloride (anhydrous) in pyridine (0.005% H2O) (20 mg/ml) was added to the dry sample and incubated under shaking (1350 rpm) at 37 °C for 90 mins. Afterwards, the sample was centrifuged for 30 s with a table-top centrifuge to spin down any remaining liquid from the lid. The sample was subsequently evaporated to dryness under a constant stream of nitrogen for 60 mins at 21 °C and subsequently trimethylsilylated with 100 μl BSTFA for 30 mins, 1350 rpm, 37 °C. Samples not treated with a drying step were left at 21 °C for 60 mins before trimethylsilylation to have comparable controls. The MSTFA experiments were done in the same way, exchanging BSTFA against MSTFA only. For the derivatization with MTBSTFA we used 20 μl methoxymation reagent (1st step, 90 mins at 37 °C) and in the 2nd step 80 μl N-(tert-butyldimethylsilyl)-N-methyltrifluoroacetamide (60 mins at 70 °C).
+</br></br>
+Ref:</br>
+[1] Chan EC, Pasikanti KK, Nicholson JK. Global urinary metabolic profiling procedures using gas chromatography-mass spectrometry. Nat Protoc. 2011 Sep 8;6(10):1483-99. doi:10.1038/nprot.2011.375. PMID:21959233</br>
+[2] Lisec J, Schauer N, Kopka J, Willmitzer L, Fernie AR. Gas chromatography mass spectrometry-based metabolite profiling in plants. Nat Protoc. 2006;1(1):387-96. doi:10.1038/nprot.2006.59. PMID:17406261</br>
+[3] Liebeke M, Strittmatter N, Fearn S, Morgan AJ, Kille P, Fuchser J, Wallis D, Palchykov V, Robertson J, Lahive E, Spurgeon DJ, McPhail D, Takáts Z, Bundy JG. Unique metabolites protect earthworms against plant polyphenols. Nat Commun. 2015 Aug 4;6:7869. doi:10.1038/ncomms8869. PMID:26241769</br>"	"The analysis was performed on an Agilent 7890B gas chromatograph connected to an Agilent 5977A MSD. Samples were run according to methods recommended for metabolome databases[1]. Briefly, 1 μl sample was injected in splitless mode with an Agilent 7693 autosampler injector into deactivated splitless liner (Agilent 5190-3167, splitless, single taper, glass wool). Separation was done on an Agilent 30 m DB5-MS column with a 10 m DuraGuard column. Oven temperatures were set to 60 °C for 2 mins, and then headed with 10 °C/min up to 325 °C and set to hold for 5 min at 325 °C. 
+</br></br>
+Ref:</br>
+[1] Kind T, Wohlgemuth G, Lee DY, Lu Y, Palazoglu M, Shahbaz S, Fiehn O. FiehnLib: mass spectral and retention index libraries for metabolomics based on quadrupole and time-of-flight gas chromatography/mass spectrometry. Anal Chem. 2009 Dec 15;81(24):10038-48. doi:10.1021/ac9019522. PMID:19928838</br>"	"Mass spectrometry data was collected on an Agilent 5977A MSD. Electom ionisation spectra were output for the m/z range 50-600."	"Metabolites were assigned using the NIST 2.0 Library and verified by injection of pure compounds under same chromatographic conditions."	"Metabolites were assigned using the NIST
+2.0 Library and verified by injection of pure compounds
+under same chromatographic conditions."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Liebeke"
+Study Person First Name	"Manuel"
+Study Person Mid Initials	""
+Study Person Email	"mliebeke@mpi-bremen.de"
+Study Person Phone	"00494212028822"
+Study Person Fax	""
+Study Person Address	"Department of Symbiosis"
+Study Person Affiliation	"Max Planck Institute for Marine Microbiology"
+Study Person Roles	"Bremen"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

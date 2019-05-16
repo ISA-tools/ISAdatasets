@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BOF"	"ENVO"	"CHMO"	"EFO"	"EFO"	"MS"	"OBI"	"PLOSTHES"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/BOF"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/PLOSTHES"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"27"	"18"	"146"	"113"	"129"	"22"	"5"	"86"	"43"	
+Term Source Description	"Biodiversity Ontology"	"Environment Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"PLOS Thesaurus"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS492"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/Tami/Desktop/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS492"
+Study Title	"Linking soil biology and chemistry in biological soil crust using isolate exometabolomics"
+Study Description	"Metagenomic sequencing provides a window into microbial community structure and metabolic potential; however, linking these data to exogenous metabolites that microorganisms process and produce (the exometabolome) remains challenging. Previously, we observed strong exometabolite niche partitioning among bacterial isolates from biological soil crust (biocrust). Here we examine native biocrust to determine if these patterns are reproduced in the environment. Overall, most soil metabolites display the expected relationship (positive or negative correlation) with four dominant bacteria following a wetting event and across biocrust developmental stages. For metabolites that were previously found to be consumed by an isolate, 70% are negatively correlated with the abundance of the isolate’s closest matching environmental relative in situ, whereas for released metabolites, 67% were positively correlated. Our results demonstrate that metabolite profiling, shotgun sequencing and exometabolomics may be successfully integrated to functionally link microbial community structure with environmental chemistry in biocrust."
+Study Submission Date	"2017-07-20"
+Study Public Release Date	"2018-01-15"
+Study File Name	"s_mtbls492.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"soil"	"Environment"	"environmental system"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/ENVO_00001998"	"http://www.owl-ontologies.com/BiodiversityOntologyFull.owl#Environment"	"http://purl.obolibrary.org/obo/ENVO_01000254"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	"ENVO"	"BOF"	"ENVO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29296020"
+Study Publication DOI	"10.1038/s41467-017-02356-9"
+Study Publication Author List	"Swenson TL, Karaoz U, Swenson JM, Bowen BP, Northen TR."
+Study Publication Title	"Linking soil biology and chemistry in biological soil crust using isolate exometabolomics."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"wetting time"	"successional stage"	"replicate"
+Study Factor Type	"timepoint"	"Ecological succession"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://localhost/plosthes.2017-1#11517"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"PLOSTHES"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls492_POS_mass_spectrometry.txt"	"a_mtbls492_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Petri dishes (6 cm^2 x 1 cm depth) were used to core biocrust samples from the Green Butte Site near Canyonlands National Park (38°42'54.1'' N, 109°41'27.0'' W, Moab, UT, USA). Samples were collected along an apparent maturity gradient of Cyanobacteria-dominated biocrusts ranging from light, young (level A) to darker, more mature (level D) (see Supplementary Fig. 1 in the paper associated with this study). Dry samples collected in the field were maintained in a dark desiccation chamber in the laboratory for approximately 11 months until lab-based experiments were performed consistent with previous reports[1]. Biocrusts are adapted to prolonged desiccation though it is important to note that the duration of desiccation likely affects metabolite composition and biological responses.
+</p>
+Biocrust (0.5 g) was transferred to each well within 12-well plates. Sterile LC/MS-grade water (1 ml) was added to each sample and placed under a 12 h light (~300 μmol photons/m^(2)s)/12 h dark cycle. Microcosms were completely enclosed by aluminum foil to prevent infiltration by outside light sources. At each time point (3 min, 9 h, 18 h, 42 h and 49.5 h), biocrust and soil water were removed and placed in 2 ml Eppendorf tubes and 500 μl of additional water was used to rinse out the wells and added to the sample. Tubes were centrifuged at 5000 x g for 5 min and supernatant (biocrust soil water) was pipetted and placed in new 2 ml tubes. Remaining biocrust was stored at −80 °C until nucleic acid extraction was performed. There were 5 biological replicates, 5 time points and 4 successional stages of biocrust resulting in 100 total samples. An extraction control (3 replicates of water, no soil) was included and sampled at 49.5 h to evaluate background contamination. To control for abiotic metabolite processes (such as sorption, photodegradation, etc), a separate experiment was performed where soil water was sampled along the same time points (5 sampling time points in triplicate) from killed (autoclaved 4 times) biocrust from a late successional stage.
+</p>
+Ref:</br>
+[1] Strauss SL, Day TA, Garcia-Pichel F. Nitrogen cycling in desert biological soil crusts across biogeographic regions in the Southwestern United States. Biogeochemistry. 2011;108:171–182. doi:10.1007/s10533-011-9587-x.</br>"	"Biocrust soil water samples (1.5 ml) were lyophilized and resuspended in methanol (200 μl) containing internal standards (2–10 μg/ml) and filtered through 96-well Millipore filter plates (0.2 μm PVDF) by centrifuging at 1500 x g for 2 min."	"Samples were analyzed using normal-phase LC/MS with a ZIC-pHILIC column (150 x 2.1 mm, 3.5 μm 200 Å, Merck Sequant, Darmstadt, Germany) using an Agilent 1290 series UHPLC (Agilent Technologies, Santa Clara, California, USA). Chromatographic separation was achieved using 2 mobile phases, 5 mM ammonium acetate in water (A) and 90% acetonitrile with 5 mM ammonium acetate (B) at a flow rate of 0.25 ml/min with the following gradient: 100% B for 1.5 min, decreased to 50% B by 25 min, held until 29.9 min then returned to initial conditions by 30 min with a total runtime of 40 min. Column temperature was maintained at 40 °C.
+</p>
+For the killed biocrust controls, samples were analyzed using an Agilent 1290 series UHPLC with a SeQuant ZIC-HILIC column (150 x 2.1 mm, 5 μm, 200 Å, MilliporeSigma, Billerica, MA). The 2 mobile phases used were 5 mM ammonium acetate in water (A) and 95% acetonitrile with 5 mM ammonium acetate (B) at a flow rate of 0.45 ml/min with the following gradient: 100% B for 1.5 min, decreased to 65% B by 15 min then 0% B by 18 min, held until 23 min then returned to initial conditions by 25 min with a total runtime of 30 min."	"Negative mode data were acquired on an Agilent 6550 quadrupole time-of-flight mass spectrometer and positive mode data were acquired on a Thermo QExactive (Thermo Fisher Scientific, Waltham, MA). Fragmentation spectra (MS/MS) were acquired for some metabolites using collision energies of 10–40 eV.
+</p>
+The negative and positive MS data for the killed controls were obtained using a Thermo QExactive."	"Raw data files were converted to mzml file format using ProteoWizard msConvert."	"Metabolomics data were analyzed using Metabolite Atlas[1] (https://github.com/biorack/metatlas) in conjunction with the Python programming language to construct extracted ion chromatograms corresponding to metabolites previously detected in biocrust or contained within our in-house standards library. Note that this same analysis could be done with other open-source software packages. Authentic standards were then used to validate assignments based on 2 orthogonal data (accurate mass less than 15 p.p.m., retention time within 1 min and/or MS/MS matching major fragments) relative to standards and/or the Metlin database[2][3] and are provided in Supplementary Data 1 in the paper associated with this study. Metabolites that did not match orthogonal measures were classified as putative and are indicated by parentheses in figures. Internal standards were assessed from each sample to ensure peak area and retention times were consistent from sample-to-sample. Quality control mixtures were included at the beginning, end and throughout the runs to ensure proper instrument performance (m/z accuracy and retention time and peak area stability). Sample QC failed (internal standards were not present within the specified retention time window) for some replicates including all 9 h wetup level D samples and were not included for further analyses.
+</p>
+Ref:</br>
+[1] Yao Y, Sun T, Wang T, Ruebel O, Northen T, Bowen BP. Analysis of Metabolomics Datasets with High-Performance Computing and Metabolite Atlases. Metabolites. 2015 Jul 20;5(3):431-42. doi:10.3390/metabo5030431. PMID:26287255</br>
+[2] Smith CA, O'Maille G, Want EJ, Qin C, Trauger SA, Brandon TR, Custodio DE, Abagyan R, Siuzdak G. METLIN: a metabolite mass spectral database. Ther Drug Monit. 2005 Dec;27(6):747-51. PMID:16404815</br>
+[3] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	"https://github.com/biorack/metatlas"
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Swenson"	"Northen"
+Study Person First Name	"Tami"	"Trent"
+Study Person Mid Initials	"L"	"R"
+Study Person Email	"tlswenson@lbl.gov"	"trnorthen@lbl.gov"
+Study Person Phone	"9204103402"	"9259272827"
+Study Person Fax	""	""
+Study Person Address	"1 Cyclotron Rd, Berkeley, CA 94720"	"1 Cyclotron Rd, Berkeley, CA 94720"
+Study Person Affiliation	"Lawrence Berkeley National Laboratory"	"Lawrence Berkeley National Laboratory"
+Study Person Roles	"lead scientist"	"principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

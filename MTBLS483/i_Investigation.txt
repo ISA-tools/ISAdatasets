@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"GO"	"BTO"	"EFO"	"CHMO"	"OBI"	"BIOMODELS"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BIOMODELS"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"1358"	"22"	"146"	"5"	"22"	"3"	"86"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"BioModels Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS483"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS483"
+Study Title	"LipidHunter Identifies Phospholipids by High-Throughput Processing of LC-MS and Shotgun Lipidomics Datasets (Rat cardiomyocyte assay)"
+Study Description	"Lipids are dynamic constituents of biological systems, rapidly responding to any changes in physiological conditions. Thus, there is a large interest in lipid-derived markers for diagnostic and prognostic applications, especially in translational and systems medicine research. As lipid identification remains a bottleneck of modern untargeted lipidomics, we developed LipidHunter, a new open source software for the high-throughput identification of phospholipids in data acquired by LC-MS and shotgun experiments. LipidHunter resembles a workflow of manual spectra annotation. Lipid identification is based on MS/MS data analysis in accordance with defined fragmentation rules for each phospholipid (PL) class. The software tool matches product and neutral loss signals obtained by collision-induced dissociation to a user-defined white list of fatty acid residues and PL class-specific fragments. The identified signals are tested against elemental composition and bulk identification provided via LIPID MAPS search. Furthermore, LipidHunter provides information-rich tabular and graphical reports allowing to trace back key identification steps and perform data quality control. Thereby, 202 discrete lipid species were identified in lipid extracts from rat primary cardiomyocytes treated with a peroxynitrite donor. Their relative quantification allowed the monitoring of dynamic reconfiguration of the cellular lipidome in response to mild nitroxidative stress. LipidHunter is available free for download at https://bitbucket.org/SysMedOs/lipidhunter."
+Study Submission Date	"2017-06-27"
+Study Public Release Date	"2017-09-08"
+Study File Name	"s_CM_SIN-1.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"regulation of cellular response to oxidative stress"	"lipid oxidation"	"Oxidative Stress"	"phospholipid"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_1900407"	"http://purl.org/obo/owl/GO#GO_0034440"	"http://www.ebi.ac.uk/efo/EFO_1001905"	"http://purl.obolibrary.org/obo/CHEBI_16247"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""
+Study Design Type Term Source REF	"GO"	"BIOMODELS"	"EFO"	"EFO"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28753264"
+Study Publication DOI	"10.1021/acs.analchem.7b01126"
+Study Publication Author List	"Zhixu Ni, Georgia Angelidou, Mike Lange, Ralf Hoffmann, and Maria Fedorova"
+Study Publication Title	"LipidHunter Identifies Phospholipids by High-Throughput Processing of LC-MS and Shotgun Lipidomics Datasets"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Treatment time"	"Replicate"
+Study Factor Type	"timepoint"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_cm_sin-1_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"SYNAPT G2 HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Primary rat cardiomyocytes (Innoprot, Elealde Derio, Spain) were cultured in gelatine-coated 6-well-plates (CELLSTAR, Greiner Bio-One GmbH, Frick-enhausen, Germany) in DMEM/F12 medium supplemented with 20% FBS, 5% horse serum, 2 mmol/l L-glutamine, 3 mmol/L sodium pyruvate, 0.1 mmol/l non-essential amino acids, 100 U/ml penicillin and 100 µg/ml streptomycin at 37 °C (humidified atmosphere of 5% CO2 and 95% air). When cells reached 80% confluence, medium was replaced by serum-free medium (DMEM/F12 supplemented with 100 U/ml penicillin and 100 µg/ml streptomycin), and cells were treated with 10 µmol/l SIN-1."	"After 15 min, 30 min, 70 min, or 16 h, plates were placed on ice, and cells were washed with cold PBS containing BHT (0.01%, w/v) and scraped into 1 ml of cold methanol containing acetic acid (3%, v/v) and BHT (0.01% w/v)[1]. Samples were spiked with internal standards [PC(17:0/17:0), PE(17:0/17:0), PS(17:0/17:0), PG(17:0/17:0), PA(17:0/17:0); 100 ng per sample), dried, and resuspended in 50 µl of mixture of water, isopropanol, acetonitrile and methanol (5:3:1:1, by volume).
+</p>
+Ref:</br>
+[1] Gruber F, Bicker W, Oskolkova OV, Tschachler E, Bochkov VN. A simplified procedure for semi-targeted lipidomic analysis of oxidized phosphatidylcholines induced by UVA irradiation. J Lipid Res. 2012 Jun;53(6):1232-42. doi:10.1194/jlr.D025270. PMID:22414483</br>"	"Acquity UPLC M-class (Waters GmbH, Eschborn, Germany) was coupled online to a Synapt G2-Si mass spectrometer equipped with an ESI source (Waters GmbH, Eschborn, Germany) operating in negative ion mode. Eluent A was a mixture of water and acetonitrile (90:10, v/v) containing formic acid (0.1% v/v), and eluent B was a mixture of iso-propanol, acetonitrile, and methanol (60:20:20, v/v/v) containing formic acid (0.1% v/v). Lipids (1 μl in 50% B; each sample in triplicate) were loaded onto a C18-column Acquity UPLC CSH C18 (internal diameter 1.0 mm, length 100 mm, particle diameter 1.7 μm) and eluted with linear gradients from 50 to 90% eluent B (30 min) and to 99% B (1 min) and held for 10 min. Column temperature was set to 50 °C and the flow rate to 60 μl/min."	"Sampling cone voltage was set to 40 V, source offset to 60 V, source temperature to 120 °C, cone gas flow to 30 l/h, desolvation gas flow to 650 l/h, desolvation tempera-ture to 250 °C, nebuliser gas pressure of 6 bar and an ion spray voltage of -2.0 kV. Data were acquired in negative ion data-dependent (DDA) and independent (MSE) resolution modes. In the DDA mode, precursor ion survey scans (scan time 0.5 s) were acquired for m/z 200-1200. Tandem mass spectra (ramp collision energy: LM CE start/end 10-40 and HM CE start/end 20-60) were recorded (scan time 0.25 s) for the 12 most abundant ions in each survey scan using a dynamic exclusion for 30 s. For MSE low (3 V) and high collision energy scans (ramp from 20 to 50 V, scan time 0.6 s) were acquired for m/z 50-1200. The signal of Leu-encephalin (554.26151-) was acquired as lock mass."	"DDA datasets were converted into mzML format using the MSConvert module from ProteoWizard project (version 3.0.9134 64bit, http://proteowizard.sourceforge.net)[1].
+</p>
+Ref:</br>
+[1] Kessner D, Chambers M, Burke R, Agus D, Mallick P. ProteoWizard: open source software for rapid proteomics tools development. Bioinformatics. 2008 Nov 1;24(21):2534-6. doi:10.1093/bioinformatics/btn323. PMID:18606607</br>"	"The in-house developed software package LipidHunter was used to  to assist high-throughput PL identification. LipidHunter was developed using Python programming language (version 2.7.11) with pymzML package[1] to process mzML files and other packages, such as Numpy, Pandas, Scipy, and Matplotlib for data processing and visualization. LipidHunter provides a cross platform Graphic User Interface (GUI) that can be executed on Windows, Linux, and macOS platforms. The project repository is hosted on Bitbucket (https://bitbucket.org/SysMedOs/lipidhunter under GPLv2 license).
+</p>
+Ref:</br>
+[1] Bald T, Barth J, Niehues A, Specht M, Hippler M, Fufezan C. pymzML--Python module for high-throughput bioinformatics on mass spectrometry data. Bioinformatics. 2012 Apr 1;28(7):1052-3. doi:10.1093/bioinformatics/bts066. PMID:22302572</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ni"	"Fedorova"
+Study Person First Name	"Zhixu"	"Maria"
+Study Person Mid Initials	""	""
+Study Person Email	"zhixu.ni@uni-leipzig.de"	"maria.fedorova@bbz.uni-leipzig.de"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

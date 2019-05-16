@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EDAM"	"EFO"	"CHMO"	"MS"	"NCIT"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"2"	"19"	"113"	"5"	"129"	"44"	"22"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS408"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"E:银屑病_脂质_90样本paperFilemetabolightsUploadISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS408"
+Study Title	"Lipidomics profiling reveals the role of glycerophospholipid metabolism in psoriasis"
+Study Description	"Psoriasis is a common and chronic inflammatory skin disease complicated by genetic-environmental interactions. Although genomic, transcriptomic and proteomic analyses have been performed to investigate the pathogenesis of psoriasis, the role of metabolites in psoriasis, particularly of lipids, remains unclear. Lipids not only comprise the bulk of the cellular membrane bilayers but also regulate a variety of biological processes, such as cell proliferation, apoptosis, immunity, angiogenesis and inflammation. In this study, an untargeted lipidomics approach was used to study the lipid profiles in psoriasis and identify lipid metabolite signatures for psoriasis through ultra-performance liquid chromatography-quadrupole tandem mass spectrometry. Plasma samples from 90 participants (45 healthy and 45 psoriasis patients) were collected and detected. Statistical analysis was applied to find different features between the disease and control groups. In addition, ELISA was performed to examine differentially-expressed lipids in psoriatic patient plasma. We finally identified several differential expression lipids including LPAs, LysoPCs, PIs, PCs and PAs, among these metabolites, LPAs, LysoPCs and PAs were significantly increased, while PCs and PIs were down-regulated in psoriasis group. We found that elements of the glycerophospholipid metabolism, such as LPAs, LysoPCs, PAs, PIs, and PCs, were significantly altered in the plasma of psoriatic patients. This investigation characterizes the circulating lipids in psoriatic patients and provides novel insights into the pathogenesis of psoriasis."
+Study Submission Date	"2016-11-18"
+Study Public Release Date	"2017-08-22"
+Study File Name	"s_psoriasis.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipids"	"Psoriasis"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolomics"
+Study Design Type Term Accession Number	"http://edamontology.org/topic_0153"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3346"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"EDAM"	"NCIT"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Chunwei Zeng, Cong Peng, Bo Wen, et al"
+Study Publication Title	"Lipidomics profiling reveals the role of glycerophospholipid metabolism in the pathogenesis of psoriasis"
+Study Publication Status	"in preparation"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001795"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"Run order"	"Batch"
+Study Factor Type	"Run order"	"block"
+Study Factor Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0005067"
+Study Factor Type Term Source REF	""	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_pos_psoriasis_metabolite_profiling_mass_spectrometry.txt"	"a_neg_psoriasis_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo G2-XS QTOF (Waters)"	"Xevo G2-XS QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Healthy controls (n=45) and patients with mild or severe psoriasis (n=45) were recruited at the Xiangya Hospital Central South University in accordance with the Declaration of Helsinki. All sample donors provided signed consent forms, which were approved by the Xiangya Hospital Committee of Ethics. Mild and moderate-severe psoriasis patients (defined as having a psoriasis area and severity index (PASI)>10) were recruited from a cohort of patients with new-onset psoriasis who did not require systemic therapy and were therefore only treated topically. None of the patients were on prescribed anti-inflammatory drugs. All samples were obtained prior to the commencement of any treatment. The recruited participants consisted of 90 gender-balanced individuals (45 healthy controls and 20 mild and 25 moderate-severe psoriasis patients). For analysis purposes, the full cohort (n=90) was subdivided into two gender- and disease  groups (n=45 each), referred to as the exploratory and validation cohorts (Table 1 of associated paper [1]). After fasting overnight, 10 ml of whole blood was collected from each subject into EDTA tubes. Samples were left standing for 1 h before centrifugation at room temperature for 20 min at 3100 rpm. After centrifugation, plasma samples were collected and immediately stored at -80 °C until use. Psoriasis was judged as severe when it required systemic therapy and according to the PASI, which is an established measurement that quantifies the thickness, redness, scaling, and distribution of psoriasis lesions.</br>
+</p>
+Ref:</br>
+[1] Title paper to be completed on publication"	"The collected plasma samples were stored at -80 °C before the experiments. Prior to the analysis, the samples were left to stand for 30 min at -20 °C and then thawed in a refrigerator at 4 °C until no ice was observed in the tubes. Then, 40 μl of plasma was extracted with 120 μl of isopropanol precooled over 2 h at -20°C. The samples were vortex-mixed for 1 min. After 10 min of incubation at room temperature, the samples were stored overnight at -20 °C to improve protein precipitation and then centrifuged at 14,000 g for 20 min. Subsequently, 20 μl of the organic phase was collected and diluted in 180 μl of isopropyl alcohol (IPA)/acetonitrile (ACN)/H2O (2:1:1 v:v:v) and stored at -80 °C until MS analysis. The analytical workflow is summarized in Fig. S-1b in the Supporting Information [1]. For the system conditioning and quality control (QC) process, 10 μl extracts from each of the 90 samples were mixed as the QC samples.</br>
+</p>
+Ref:</br>
+[1] Title paper to be completed on publication"	"Chromatographic separation was carried out using an ACQUITY UPLC CSH C18 column (2.1×100 mm, 1.7 μm, Waters) with a gradient mobile phase consisting of 10 mM ammonium formate with 0.1% formic acid in phase A (ACN:H2O=60:40, v/v) and 10 mM ammonium formate with 0.1% formic acid in phase B (IPA:ACN=90:10, v/v). A flow rate of 0.4 ml/min was used. The initial elution was set at 40% B and was immediately increased by a linear gradient to 43% B for the first 2 min, followed by an increase to 50% B within 0.1 min. Over the next 3.9 min, the gradient was increased to 54% B, and the amount of B was increased to 70% during next 0.1 min. In the final part of the gradient, B was increased to 99% and maintained for 1.9 min. Finally, B was returned to 40% over the next 0.1 min and equilibrated for 1.9 min for the next injection"	"Both positive and negative modes were performed, and the scan range was 50–1,800 Da operated in Centroid MSE mode with an acquisition time of 0.2 s per scan. Nitrogen was used as the collision gas. For the positive ion mode, the capillary and sampling cone voltages were set at 0.25 kV and 40 V, respectively. For the negative ion mode, the capillary and sampling cone voltages were set at 2 kV and 40 V, respectively. The source temperature was set to 120 °C. The desolvation temperature and gas flow were 500 °C and 800 l/h. Leucine enkephalin (MW=555.62) (200 pg/μl in ACN:H2O, 50:50) was applied as a lock mass for accurate mass measurements, and a 0.5 mM sodium formate solution was used for calibration. Furthermore, to evaluate the stability of the LC-MS throughout the acquisition, a QC sample was processed after every 10 samples."	"The raw files were all imported into Progenesis QI (Waters, Nonlinear Dynamics, USA) software for peak alignment and peaking. Normalized data producted from Progenesis QI were further preprocessed by metaX software [1]. Feature was removed from the rest of the data analysis when it’s detection is less 50% in QC samples or less 20% in experimental samples. Values missing were retained after the previous filtering and were inputed with the k-nearest neighbor method. Then, the Quality Control-Robust LOESS Signal Correction [2] and Combat normalization methods [3] were used to correct signal intensity draft and batch influence. The features with a relative standard deviation >30% in the QC samples were removed [2] after the normalization.</br>
+</p>
+Ref:</br>
+[1] Wen B, Mei Z, Zeng C, Liu S. metaX: a flexible and comprehensive software for processing metabolomics data. BMC Bioinformatics. 2017;18:183. doi:10.1186/s12859-017-1579-y.</br>
+[2] Dunn WB, Broadhurst D, Begley P, Zelena E, Francis-McIntyre S, Anderson N, et al. Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry. Nat Protoc. 2011;6:1060–83. doi:10.1038/nprot.2011.335.</br>
+[3] Chen C, Grennan K, Badner J, Zhang D, Gershon E, Jin L, Liu C. Removing batch effects in analysis of expression microarray data: an evaluation of six batch adjustment methods. PLoS One. 2011;6:e17238. doi:10.1371/journal.pone.0017238."	"Metabolite identification was performed using Progenesis MetaScope (Waters, Nonlinear Dynamics, USA) and determined on accurate mass values, isotope abundance, and MS/MS fragmentation patterns. Accurate mass values within a narrow mass error (10 ppm) were used to search for tentative identifications in the Human Metabolome database (http://www.hmdb.ca/) and LipidMaps (http://www.lipidmaps.org/). MS/MS fragmentation matching patterns were also evaluated."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Peng"	"Zeng"	"Wen"
+Study Person First Name	"Cong"	"Chunwei"	"Bo"
+Study Person Mid Initials	""	""	""
+Study Person Email	"pengcongxy@csu.edu.cn"	"zengchunwei@genomics.cn"	"wenbo@genomics.cn"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	""	""	""
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

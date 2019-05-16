@@ -1,0 +1,114 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"SWO"	"ENVO"	"CHMO"	"EFO"	"UO"	"NCIT"	"OBI"	"GAZ"	"PTO"	"MS"	"CHEMINF"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/SWO"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/GAZ"	"http://data.bioontology.org/ontologies/PTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHEMINF"	
+Term Source Version	"2"	"19"	"27"	"18"	"113"	"42"	"44"	"22"	"11"	"348"	"86"	"41"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Software Ontology"	"Environment Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Gazetteer"	"Plant Trait Ontology"	"Mass Spectrometry Ontology"	"Chemical Information Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS687"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	"2021-06-30"
+Comment[Created With Configuration]	"C:UserssnahrsteDesktopISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS687"
+Study Title	"Linking root exudates to functional plant traits"
+Study Description	"Primary and secondary metabolites exuded by plant roots have mainly been studied under laboratory conditions, while knowledge of root exudate patterns of plants growing in natural communities is very limited. Focusing on ten common European grassland plant species, we asked to which degree exuded metabolite compositions are specific to species or growth forms (forbs and grasses), depend on environments and local neighbourhoods, and reflect traditional plant functional traits. Root exudates were collected under field conditions and analysed using a non-targeted gas chromatography coupled mass spectrometry (GC-MS) approach. In total, we annotated 153 compounds of which 36 were identified by structure and name as metabolites mainly derived from the primary metabolism. Here we show by using variance partitioning, that the composition of exuded polar metabolites was mostly explained by plot identity, followed by plant species identity while plant species composition of the local neighbourhood played no role. Total and root dry biomass explained the largest proportion of variance in exudate composition, with additional variance explained by traditional plant traits (DOI: 10.17871/TRY.18). Although the exudate composition was quite similar between the two growth forms, we found some metabolites that occurred only in one of the two growth forms. Our study demonstrated the feasibility of measuring polar exudates under non-sterile field conditions by mass spectrometry, which opens new avenues of research for functional plant ecology."
+Study Submission Date	"2018-05-31"
+Study Public Release Date	"2021-06-30"
+Study File Name	"s_MTBLS687.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolomics"	"grassland"	"climate"	"soil"	"plant functional traits"	"gas chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://edamontology.org/topic_3172"	"http://purl.obolibrary.org/obo/ENVO_00000106"	"http://purl.obolibrary.org/obo/ENVO_01001082"	"http://purl.obolibrary.org/obo/ENVO_00001998"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	"SWO"	"ENVO"	"ENVO"	"ENVO"	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1371/journal.pone.0204128"
+Study Publication Author List	"Katharina Herz, Sophie Dietz, Karin Gorzolka, Sylvia Haider, Ute Jandt, Dierk Scheel, Helge Bruelheide"
+Study Publication Title	"Linking root exudates to functional plant traits"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Site"	"Fertilized / unfertilized"	"Fresh weight"	"Plant"	"Plot"	"Plot type"	"Plot type_Explo_fert"	"Species"	"Species explo"	"Exploratory"	"Harvest date"
+Study Factor Type	"geographic location"	""	"root fresh weight"	"Functional group"	"geographic location"	"Land use"	""	"genotype"	""	"geographic location"	"Date"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/GAZ_00000448"	""	"http://purl.obolibrary.org/obo/TO_0000578"	""	"http://purl.obolibrary.org/obo/GAZ_00000448"	""	""	"http://www.ebi.ac.uk/efo/EFO_0000513"	""	"http://purl.obolibrary.org/obo/GAZ_00000448"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"
+Study Factor Type Term Source REF	"CHEMINF"	""	"PTO"	""	"CHEMINF"	""	""	"EFO"	""	"CHEMINF"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS687_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The phytometer species (five grasses and five forbs) were harvested in 46 of the 54 established plots (in total 304 individual plants) as follows. We dug a hole of ca. 20 cm depth and 15 cm length and width to extract one individual, carefully removed the rhizosphere soil and roots of other plants and gently washed the roots with tap water and dionised water. As the plants were only 3 months in the field by the time of harvest, the roots did not grow into other patches and could be easily extracted from the soil and surrounding plants. Therefore, it was possible to extract the phytometer plants completely without damaging their roots. The experimental setup protocol can be seen in Herz et al. 2017 [1].</br></br>
+
+Ref:</br>
+[1] Herz K, Dietz S, Haider S, Jandt U, Scheel D et al. (2017) Drivers of intraspecific trait variation of grass and forb species in German meadows and pastures. J Veg Sci 28 (4): 705-716
+"	"We adapted a procedure developed by Aulakh et al. 2001 [1]. The complete roots of the intact plants were placed in  brown plastic vessels (Nalgene) containing deionised water of HPLC quality and exdued for 2 hours. Water samples (water of HPLC quality) without exudation were used for process control (blanks) and treated exactly like the exudate samples.  All samples were frozen and stored at -20 °C until further processing. After slowly thawing the sample solutions, each was filtered (Sartorius; 185 mm, 80 g/cm3) and  evaporated to driness under reduced pressure (30 mbar) at 40 °C by vacuum rotary evaporator. Metabolites were dissolving two times in 100 % methanol (Sigma-Aldrich), sonicating for 10 min at 20 °C The residuum was evaporated to dryness at 40 °C using a vacuum centrifuge and reconstituted in 80% MeOH containing 20 µg/ml 2,4-dichlorophenoxy acetic acid  and 10 µM Ribitol as internal standards. Remaining particles were precipitated by centrifugation and an aliquot of 200 µl of each sample was centrifuged to precipitate remaining particles subjected to GC-MS.</br></br>
+
+The metabolites were derivatized by methoxylamination with 50 µl methoxylamin-hydrochloride (20 mg/ml in pyridine, Sigma Aldrich) for 90 min at 37 °C and subsequently silylated with 50 µl BSTFA (Macherey–Nagel) with added alkane retention time indices (C12, C15, C19, C22, C28 (each 0.1 mg/ml final concentration; Sigma Aldrich) and C32 (0.4 mg/ml final concentration); Sigma Aldrich)) for 30 min at 37 °C [2].</br></br>
+
+Ref:</br>
+[1] Aulakh MS, Wassmann R, Bueno C, Kreuzwieser J, Rennenberg H. Characterization of root exudates at different growth stages of ten rice (Oryza sativa L.) cultivars. Plant Biology. 2001; 3 (2): 139–148.</br>
+[2] Gorzolka K, Lissel M, Kessler N, Loch-Ahring S, Niehaus K Metabolite fingerprinting of barley whole seeds, endosperms, and embryos during industrial malting. Journal of biotechnology. 2012; 159 (3): 177–187."	"Single samples were derivatized and measured separately with intervals of at least one day. A 'chemical blank' (derivatization agents without biological sample) was interspersed every five to six samples to check for a potential carryover of metabolites during measurement.</br>
+
+The measurements were performed using a gas chromatograph (6890N GC; Agilent Technologies) equipped with a ZB-5 Zebron GuardianTM Capillary GC column (30 m + 10 m ZebronTM, iD 0.25 mm, df 0.25 µm; Phenomenex). Samples (2 µl) were injected automatically by multipurpose sampler (MPS 2XL; Gerstel) at 230 °C injector temperature and separated chromatographically with 1ml/min flow and the following oven program: 1 min 70 °C, ramp with 7 °C per minute up to 300 °C, 5 min 300 °C. "	"A mass spectrometer (5975 MSD; Agilent Technologies) with settings and method adapted to Gorzolka et al. 2012 [1] was used for induction and detection of ion signals. Mass spectra in the range of 60 to 500 m/z were recorded with 20 Hz and a MS calibration obtained by daily automated tuning of the MS on PSTFA.</br></br>
+Ref:</br>
+Gorzolka K, Lissel M, Kessler N, Loch-Ahring S, Niehaus K. Metabolite fingerprinting of barley whole seeds, endosperms, and embryos during industrial malting. Journal of biotechnology. 2010; 159 (3): 177–187"	"The raw data were converted to cdf-files by the Data Analysis software (Agilent Technologies) and uploaded to the MeltDB software. In MeltDB, peak detection with SN = 5 and FWHM = 6 using the warped-algorithm and metabolite profiling with threshold = 0.75 for compound conformation was done [1].</br>
+Compounds occurring in 50 % of water controls as well as in 50 % of chemical blanks were regarded as artefacts and excluded from the metabolite list. Classification of metabolites was done according to their affiliation to natural substance classes.</br></br>
+Ref:</br>
+[1] Neuweger H, Albaum SP, Dondrup M, Persicke M, Watt T et al. MeltDB. A software platform for the analysis and integration of metabolomics experiment data. Bioinformatics. 2018; 24 (23): 2726–2732."	"Identification of metabolites by mass spectra similarity was performed in MeltDB based on customized spectral and index libraries. Gaps in metabolite annotation were manually filled with the help of MeltDB, spectral and index libraries as well as Data Analysis (Agilent Technologies). Unidentified compounds were manually annotated by their mass to charge ratio (m/z) and retention time (RT). "
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Dietz"	"Herz"	"Döll"	"Bruelheide"	"Scheel"	"Haider"	"Jandt"
+Study Person First Name	"Sophie"	"Katharina"	"Stefanie"	"Helge"	"Dierk"	"Sylvia"	"Ute"
+Study Person Mid Initials	""	""	""	""	""	""	""
+Study Person Email	"Sophie.Nahrstedt@ipb-halle.de"	"katharina.herz@gmx.net"	"sdoell@ipb-halle.de"	"helge.bruelheide@botanik.uni-halle.de"	"Dierk.Scheel@ipb-halle.de"	"sylvia.haider@botanik.uni-halle.de"	"ute.jandt@botanik.uni-halle.de"
+Study Person Phone	"0049 345 5582 1420"	""	"0049 345 5582 1420"	"0049 345 55 26222"	"0049 345 5582 1400"	"0049 345 55 26254"	"0049 345 55 26287"
+Study Person Fax	""	""	""	""	""	""	""
+Study Person Address	"Leibniz Insitute of Planft Biochemistry, Weinberg 3, 06120 Halle Saale, Germany"	"Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108 Halle, Germany"	"Leibniz Insitute of Planft Biochemistry, Weinberg 3, 06120 Halle Saale, Germany"	"Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108 Halle, Germany
+
+German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103 Leipzig, Germany"	"Leibniz Insitute of Planft Biochemistry, Weinberg 3, 06120 Halle Saale, Germany
+
+German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Deutscher Platz 5e, 04103 Leipzig, Germany"	"Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108 Halle, Germany"	"Martin Luther University Halle Wittenberg, Institute of Biology, Am Kirchtor 1, 06108 Halle, Germany"
+Study Person Affiliation	"Leibniz Insitute of Planft Biochemistry"	"Martin Luther University Halle Wittenberg"	"Leibniz Insitute of Planft Biochemistry"	"Martin Luther University Halle Wittenberg, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig"	"Leibniz Insitute of Planft Biochemistry, Martin Luther University Halle Wittenberg, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig"	"Martin Luther University Halle Wittenberg, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig"	"Martin Luther University Halle Wittenberg, German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig"
+Study Person Roles	"PhD student, mass spectrometry study responsible person"	"PhD student, ecology study responsible person"	"Post Doc mass spetrometry study"	"PI ecology study"	"PI mass spectrometry study"	"Post Doc ecology study"	"Post Doc ecology study"
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""

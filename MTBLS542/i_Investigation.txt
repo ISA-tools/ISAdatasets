@@ -1,0 +1,216 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"6"	"18"	"146"	"44"	"22"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS542"
+Investigation Title	"Malaria Host-Pathogen Interaction Center"
+Investigation Description	"The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary malaria systems biology research program supported by an NIH/NIAID contract (# HHSN272201200031C; see <a href=http://www.systemsbiology.emory.edu target=_blank>http://www.systemsbiology.emory.edu</a>). The MaHPIC generates many data types (e.g., clinical, hematological, parasitological, metabolomics, functional genomics, lipidomics, proteomics, immune response) and mathematical models, to iteratively test and develop hypotheses related to the complex host-parasite dynamics in the course of malaria in non-human primates (NHPs), and metabolomics data via collaborations with investigators conducting clinical studies in malaria endemic countries, with the overarching goal of better understanding human disease, pathogenesis, and immunity. Curation and maintenance of all data and metadata are the responsibility of the MaHPIC.<br/>To access other publicly available results from this and other MaHPIC Experiments, including clinical results (specifics on drugs administered, diet, and veterinary interventions), and other omics, visit <a href=http://plasmodb.org/plasmo/mahpic.jsp target=_blank>http://plasmodb.org/plasmo/mahpic.jsp</a>.</p>"
+Investigation Submission Date	"9/30/17"
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS542"
+Study Title	"MaHPIC Experiment 23: Metabolomics from Macaca mulatta infected with Plasmodium cynomolgi B strain to produce and integrate clinical, hematological, parasitological, and omics measures of acute primary infection and relapses"
+Study Description	"MaHPIC Experimental Description: Malaria-naive male rhesus macaques (<i>Macaca mulatta</i>), approximately four years of age, were inoculated intravenously with salivary gland sporozoites produced and isolated at the Centers for Disease Control and Prevention from multiple Anopheles species (<i>An. dirus</i>, <i>An. gambiae</i>, and <i>An. stephensi</i>) and then profiled for clinical, hematological, parasitological, immunological, functional genomic, lipidomic, proteomic, and metabolomic measurements. The experiment was designed for about 100 days, with pre- and post-100 day periods to prepare subjects and administer curative treatments respectively. During the 100-day period subjects experienced periods of patent and sub- patent infection. The anti-malarial drug artemether was subcuratively administered to subjects after the initial peak of infection, if subjects were not able to self-resolve. Blood-stage curative artemether was administered to all subjects following peak infection, and following a period of relapse infection. All peaks were clinically determined for each subject. The anti-malarial drugs primaquine and chloroquine were administered to all subjects at the end of the study for curative treatment of the liver and blood-stage infections, respectively. Capillary blood samples were collected daily for the measurement of CBCs, reticulocytes, and parasitemias. Capillary blood samples were collected every other day to obtain plasma for metabolomic analysis. Venous blood and bone marrow samples were collected at seven time points for functional genomic, proteomic, lipidomic, and immunological analyses. Within the MaHPIC, this project is known as 'Experiment 23'. This is an iteration of Experiment 04 with the same parasite-host combination and sampling and treatment adjustments made, and this is the first in a series of experiments that includes subsequent homologous (Experiment 24, <i>P. cynomolgi</i> B strain) and heterologous (Experiment 25, <i>P. cynomolgi</i> strain ceylonensis) challenges of individuals from the Experiment 23 cohort. One subject was not included in subsequent experiments due to persistent behavioral issues that prevented sample collection. This dataset was produced by Dean Jones at Emory University. To access other publicly available results from E23 and other MaHPIC Experiments, including clinical results (specifics on drugs administered, diet, and veterinary interventions), and other omics, visit <a href='http://plasmodb.org/plasmo/mahpic.jsp' target='_blank'>http://plasmodb.org/plasmo/mahpic.jsp</a>. This page will be updated as datasets are released to the public. The experimental design and protocols for this study were approved by the Emory University Institutional Animal Care and Use Committee (IACUC).<br><br>Linked Studies: <a href='/metabolights/search?freeTextQuery=MaHPIC' target='_blank'><span class='label label-success'>Malaria Host-Pathogen Interaction Center (MaHPIC)</span></a>"
+Study Submission Date	"2017-09-26"
+Study Public Release Date	"2017-12-11"
+Study File Name	"s_e23_samples.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Malaria"	"Anti-malarial treatment"	"Artemether"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797"	""	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"NCIT"	""	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	""
+Study Publication Title	""
+Study Publication Status	""
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Run order"	"Time Point"	"Batch run order"	"Mean Pearsons Correlation"	"Artemether treatment"
+Study Factor Type	"Run"	"timepoint"	"Batch"	"Pearson Correlation Test"	"Therapeutic Procedure"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67073"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53244"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49236"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_e23_c18neg.txt"	"a_e23_hilicpos.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Metabolomics Plasma Sample<br/>
+Metabolomics sample is collected and aliquoted at the Yerkes Malaria Core to be ship to the Metabolomics Core at Emory campus after the end of the experimental phase. The sample collection occurs during the experimental daily follow up and assigned Time points.<br/>
+<br/>
+A. Materials:<br/>
+EDTA tube; Capillary Blood collection tube (RAM scientific Cat no.#077052)<br/>
+EDTA tube; Whole blood  collection tube (BD- Vacutainer Cat no.#366643)<br/>
+Mircrotainer tube; Gel separator tube (BD- Vacutainer Cat no.#365956)<br/>
+<br/>
+B. Sample Collection Procedure - Capillary:<br/>
+1. The NHP will be restrain following the Standard operating procedures Yerkes National primate Research Center 5.7 V4<br/>
+2. Prepare the ear area by cleaning with sterile alcohol pads (provide by the Research Tech Services at Yerkes).<br/>
+3. Grasp the ear lobule then by using the proper lancet (provide by the Research Tech Services at Yerkes) make a puncture.<br/>
+4. Collect the blood drops using the capillary extension of the EDTA tube. Avoid excessive pressure.<br/>
+5. Mixed gently during the collection process to avoid clot formation.<br/>
+6. When the desire volume of blood is collected, cap the tube.<br/>
+7. Un-restrain the NHP following the Standard operating procedures Yerkes National primate Research Center 5.7 V4<br/>
+8. Provide the treat to the NHP after procedure is finish.<br/>
+9. The sample is transfer to the malaria core lab in a biosafety label container following the Standard operating procedures Yerkes National primate Research Center 2.11 V5.<br/>
+<br/>
+C. Sample Collection Procedure - Venous:<br/>
+1. The NHP will be anesthetized following the Standard operating procedures Yerkes National primate Research Center 5.1 V7.<br/>
+2. The sample is collected on EDTA tube by a Research Tech Service team member following the following the Standard operating procedures Yerkes National primate Research Center 5.1 V7.<br/>
+3. The sample is transfer to the malaria core lab in a biosafety label container following the Standard operating procedures Yerkes National primate Research Center 2.11 V5.<br/>
+<br/>
+D. Metabolomics  capillary and venous sample Aliquot method<br/>
+1. After capillary or venous EDTA sample had been process for CBC and smears, transfer remaining volume to a mircrotainer tube.<br/>
+2. Centrifuge sample at 2000 rpm, 10 minutes, RT<br/>
+3. Aliquot the plasma into an eppendorf tube with LIMS barcoded label.<br/>
+4. Transfer aliquot to a -80 &deg;C freezer<br/>
+5. Sample will be store until the end of the experimental for transferring on dry ice to the metabolomics core."	"Materials needed for plasma sample preparations:<br/><br/>
+
+Q standard (Qstd):<br/>
+Pooled plasma from Equitech-Bio (Kerrville, TX);  from unknown number of males and females without demographic information<br/>
+<br/>
+NIST:<br/>
+Pooled plasma donated from NIST; from an equal number of healthy men and women aged 40-50 years old.  If more NIST plasma is needed, contact Bill Wallace at William.wallace@nist.gov<br/>
+<br/>
+Stable isotopes:<br/>
+[13C6]-D-glucose, [15N]-indole, [15N,13C5]-L-methionine, [2-15N]-L-lysine dihydrochloride, [13C5]-L-glutamic acid, [15N]-L-tyrosine, [15N2]-uracil, [3,3-13C2]-cystine, [trimethyl-13C3]-caffeine, [U-13C5, U-15N2]-L-glutamine<br/>
+<br/>
+Sample Preparation:<br/>
+Plasma/Serum<br/>
+<br/>
+C18 standard:<br/>
+Caffeine (1.5 min, 195.08)<br/>
+Diethyl-toluamide (6-6.6 min, 192.138)<br/>
+<br/>
+Anion Exchange standards:<br/>
+Cystine (1-1.5 min, 241.04 (+2))<br/>
+Cysteine-glutathione disulfide/CySSG (2-4 min, 427.09) <br/>
+Carboxymethyl-cysteine/CM-cysteine (very low) (3.5-5 min, 180.03)<br/>
+Glutathione disulfide/GSSG (+1 and +2) (7-8 min, 613.15; 307.08)<br/>
+Carboxymethyl-glutathione/CM-GSH (7-8 min, 366.09)<br/>
+<br/>
+Acetonitrile HPLC 99.9% Sigma-Aldrich 34998-4L<br/>
+</p><br/>
+Procedures:<br/>
+1. Sample batches; All samples are randomized to prevent batch degradation in one set of samples. Group individual subjects separately and then randomize the samples within the subject group. Example of a batch: Technical triplicates = 20 samples + 2 qstd = 25 hours (6 injections total).</br>
+2. Thaw 1 batch of samples per day on ice. 1st batch only – include NIST, Qstd, HILIC, C18, and any other pooled reference; all other batches will only need Qstd and other pooled references. Isotopes (internal standards) will also need to be thawed and spiked in all samples.</br>
+3. Make stock solution of Acetonitrile/isotope in Eppendorf tube; Per one sample = 100 µl Acetonitrile + 2.5 µl isotope. Triplicates =  20 samples = 2000 µl Acetonitrile + 50 µl isotope. Plasma sample, Qstd, and NIST are prepared the same way.</br>
+4. MaHPIC: 30 µl of samples were aliquoted into Eppendorf tubes, if possible, add water to reach 50µl of total solution. Qstd, and NIST: Pipette 50 µl sample into Eppendorf tube.</br>
+5. Pipette 100 µl of ACN:isotope stock solution to Eppendorf tube containing the sample. Keep samples on ice; let ACN crash proteins for 30 mins with a vortex every 15 mins. Centrifuge for 10 minutes @ 13.2rpm at 4 ℃ and carefully pipette the supernatant (~100 µl) into autosampler vial. You will be able to see clear separation (cloudy and clear) → pipette only the clear supernatant.</br>
+6. The orbitrap will end up with the hi-lo-lo pattern for each sample triplicate.</br>"	"Samples were analysed using a Dionex Ultimate 3000 LC coupled with High Field QExactive. Each sample was run in triplicate with 5-10 µl injection volume on each column. (HFQE switches between polarities without having to wait for 2 hours in between polarity switching.)</br>
+See MetabolomicsCore-Exp23-HFQE_Setup_V1_04062016.docx under Study Files tab for information regarding procedure for 120k resolution method with wash.
+</p>
+"	"Sample were analysed using a HFQexactive with the following optimized settings;</br>
+</p>
+Positive Mode:</br>
+- HESI probe with S-lens combination for ESI</br>
+- MS1 mode scanning m/z range of 85-1275</br>
+- Resolution - 120,000</br>
+- maximum number of ions collected – 1x10<sup>6</sup></br>
+- The maximum injection time - 200</br>
+- capillary temperature - 300 &deg;C</br>
+- aux gas heater temp - 200 &deg;C</br>
+- spray voltage – 3.5 kV</br>
+- sheath gas – 45</br>
+- auxillary gas flow – 25</br>
+- sweep gas flow – 1</br>
+- S-lens RF level – 69</br> 
+</p>
+Negative Mode:</br>
+- HESI probe with S-lens combination for ESI</br>
+- MS1 mode scanning m/z range of 85-1275</br>
+- Resolution - 120,000</br>
+- maximum number of ions collected – 1x10<sup>6</sup></br>
+- The maximum injection time - 200</br>
+- capillary temperature - 300 &deg;C</br>
+- aux gas heater temp - 200 &deg;C</br>
+- spray voltage – 3.0 kV</br>
+- sheath gas – 45 </br>
+- auxiliary gas flow – 25</br>
+- sweep gas flow – 1</br>
+- S-lens RF level – 69 </br>"	"Data Analysis - .raw → .cdf → apLCMS
+apLCMS is a set of algorithms written to work with the statistical R program.  In this set of algorithms, large capacities of LCMS data can be analyzed by realigning the m/z based on certain parameters.  The output of apLCMS includes retention times, m/z features that appeared in the LCMS run, and also the ion intensities of each of these m/z features for every sample. The data will be used for further data analysis.</br>
+Files were converted to .cdf using Thermo File Converter and then to apLCMS.
+</p>
+Quality Assurance:</br>
+1. Five standards were chosen and graphed out to view the intensity over the entire set run. The standards provide information and assurance that the plasma samples were acceptable for further analysis.</br>
+2. Total Ion intensity was used as a good indicator on whether the batch was interrupted midway or not.  
+</p>
+Data Analysis and Quality Assurance
+1. xMSanalyzer: used for data extraction and quality evaluation (https://sourceforge.net/projects/xmsanalyzer/).</br>
+All batches are ran together as a whole with xMSanalyzer (include the cdf, profile, rawprof, etc). The r script will run through multiple parameter settings. xMSanalzyer will merge different parameter settings and discard anything with a CV of higher than 50% and generate sample and quality reports. This information is included in the feature table worksheet.
+2. Batch-effect evaluation and correction performed using PCA.</br>
+Batch-effect correction is performed using ComBat [1] implemented in the “sva” package in R Bioconductor. PCA plots are generated to verify.</br>
+</br>
+Ref:</br>
+[1] Johnson WE, Li C, Rabinovic A. Adjusting batch effects in microarray expression data using empirical Bayes methods. Biostatistics. 2007 Jan;8(1):118-27. DOI: 10.1093/biostatistics/kxj037"	"The associated metabolite identification files for this study contain the ComBat processed feature identification data. Metabolite annotation information can be found it the following attached files and was carried out as outlined below.</br>
+E23M99MBMmCyDaPS_09252017-C18neg-Results_MULTIPL.xlsx</br>
+E23M99MBMmCyDaPS_09252017-HILICpos-Results_MULTIPL.xlsx</br>
+</br>
+Metabolite Annotation:<br/>
+Annotation was preformed using xMSannotator (software under development).<br/>
+Specifications:<br/>
+Chemical database used for annotations: HMDB (release v3.6)<br/>
+chemical_ID: HMDB ID of the matching chemical <br/>
+Score_category Confidence level assigned by xMSannotator based on the the mz, retention time, intensity and adduct rules <br/>
+<br/>
+Description of score categories: (Stage 4 of xMSannotator) <br/>
+3: High confidence matches that satisfy all criteria (correlated and co-eluting ions that are in the same module and satisfy abundance ratio checks for isotopes and multiple Ms) <br/>
+2: Medium confidence match4e: includes chemicals for which all above criteria are satisfied but the ions are not in the same module even though they are correlated. - This category also includes M+H matches that are enriched based on the pathway level information that builds confidence in a match if there are other high scoring matches for chemicals that are in the same KEGG pathway and are also in the same module. <br/>
+1: Low confidence match: includes matches where either 2M or 3M adducts are present but no single M adduct is present.<br/>
+0: No confidence match: includes matches where ions are correlated and in the same module, but the delta retention time is greater than the maximum threshold; or if the M+1 or M+2 form is present in the absence of M. This category also includes M+H matches that can not be associated with a single m/z."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	""
+Study Protocol Parameters Name Term Accession Number	";"	";;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	";"	";;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kissinger"
+Study Person First Name	"Jessica"
+Study Person Mid Initials	""
+Study Person Email	"mahpic-infodepo@uga.edu"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Institute of Bioinformatics University of Georgia"
+Study Person Roles	"Co-Program Director"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

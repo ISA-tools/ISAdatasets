@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PDO_CAS"	"NCBITAXON"	"CHMO"	"EFO"	"CCONT"	"EDAM"	"MS"	"NCIT"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/PDO_CAS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CCONT"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"1"	"6"	"18"	"146"	"2"	"31"	"129"	"44"	"22"	"29"	
+Term Source Description	"Plant Diversity Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Cell Culture Ontology"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS94"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS94"
+Study Title	"PROMIS, global analysis of PROtein-Metabolite Interactions using Size separation in Arabidopsis thaliana"
+Study Description	"Small molecules not only represent cellular building blocks and metabolic intermediates, but also regulatory ligands and signaling molecules that interact with proteins. Although these interactions affect cellular metabolism, growth, and development, they have been largely understudied. Herein, we describe a method, dubbed PROtein-Metabolite Interactions using Size separation (PROMIS) that allows simultaneous, global analysis of endogenous protein-small molecule and of protein‒protein complexes. To this end, a cell-free native lysate from Arabidopsis thaliana cell cultures was fractionated by size-exclusion chromatography, followed by quantitative metabolomic and proteomic analyses. Proteins and small molecules showing similar elution behavior, across protein containing fractions, constituted putative interactors. Applying PROMIS to an A. thaliana extract, we ascertained known protein‒protein (PPIs) and protein-metabolite (PMIs) interactions and reproduced binding between small-molecule protease inhibitors and their respective proteases. More importantly, we present examples of two experimental strategies that exploit the PROMIS dataset to identify novel PMIs. By looking for similar elution behavior of metabolites and enzymes belonging to the same biochemical pathways, we identified putative feedback and feed-forward regulations in pantothenate biosynthesis and the methionine salvage cycle, respectively. By combining PROMIS with an orthogonal affinity purification approach, we identified an interaction between the dipeptide Tyr-Asp and the glycolytic enzyme glyceraldehyde-3-phosphate dehydrogenase. In summary, we present proof of concept for a powerful experimental tool that enables system-wide analysis of PMIs and PPIs across all biological systems. The dataset obtained here comprises nearly 140 metabolites and 5000 proteins, which can be mined for putative interactors."
+Study Submission Date	"2018-05-24"
+Study Public Release Date	"2018-07-19"
+Study File Name	"s_mtbls94.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"ligand-binding protein"	"Protein-Protein Interaction"	"protein-small molecule interaction"	"Proteomics"	"size exclusion chromatography"	"Systems biology"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18469"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20085"	""	"http://edamontology.org/topic_2259"
+Study Design Type Term Source REF	""	"CHMO"	""	"NCIT"	""	"NCIT"	""	"EDAM"
+STUDY PUBLICATIONS
+Study PubMed ID	"29853640"
+Study Publication DOI	"10.1074/jbc.RA118.003351"
+Study Publication Author List	"Veyel D, Sokolowska EM, Moreno JC, Kierszniowska S, Cichon J, Wojciechowska I, Luzarowski M, Kosmacz M, Szlachetko J, Gorka M, Méret M, Graf A, Meyer EH, Willmitzer L, Skirycz A."
+Study Publication Title	"PROMIS, global analysis of PROtein-Metabolite Interactions using Size separation in Arabidopsis thaliana."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Arabidopsis"	"whole plant development stage"	"Replicate"
+Study Factor Type	"Plant cell"	"Whole plant development stage"	"biological replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/PO_0009002"	"http://purl.obolibrary.org/obo/po#wholePlantDevelopmentStage"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"CCONT"	"PDO_CAS"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls94_POS_mass_spectrometry.txt"	"a_mtbls94_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Cell suspension culture of Arabidopsis thaliana (L.) Heynh. ecotype Columbia-0 (Col-0), derived from MM2d cells[1] was grown in MSMO medium, in continuous photoperiod, at 21 °C, on orbital shaker (110-120 rpm). MSMO medium: 4.43 g/l of Murashige & Skoog Basal salts with minimal organics (Sigma-Aldrich, St. Louis, MO), 30 g/l of sucrose, 0.5 mg/l of 1-naphthaleneacetic acid, 0.05 mg/l of kinetin, pH 5.7, adjusted with 1 M KOH. Cells were harvested at the logarithmic growth phase (7 days after last passage) by filtration and immediately frozen in liquid nitrogen. Experiments were conducted using 4 independently inoculated, grown, harvested, and extracted cultures.
+</p>
+Ref:</br>
+[1] Van Leene J, Eeckhout D, Cannoot B, De Winne N, Persiau G, Van De Slijke E, Vercruysse L, Dedecker M, Verkest A, Vandepoele K, Martens L, Witters E, Gevaert K, De Jaeger G. An improved toolbox to unravel the plant cellular machinery by tandem affinity purification of Arabidopsis protein complexes. Nat Protoc. 2015 Jan;10(1):169-87. doi:10.1038/nprot.2014.199. PMID:25521792</br>"	"Size exclusion chromatography (SEC) was performed at 4 °C as previously described[1]. 2.5 ml of soluble fraction corresponding to 50 mg of protein, as determined by Bradford assay, were used for the separations. SEC was performed with a HiLoad 16/600 Superdex 200 prep grade column (GE Healthcare Life Science, Little Chalfont, UK) connected to an ÄKTA explorer 10 (GE Healthcare Life Science, Little Chalfont, UK) operating at 4 °C. The flow rate was set to 0.8 ml/min. 57 fractions of 1.5 ml were collected from 40 to 125.5 ml elution volume of which 1 ml was dried in a speed-vac overnight and stored at −80 °C for metabolomic analysis. For the protein free control experiment, 50 mg of protein of the soluble fraction was precipitated with 80% acetone at −20 °C for 5 h. After pelleting denatured proteins by centrifugation at 3452 x g for 20 min at 4 °C, the supernatant was dried overnight in a speed-vac. Small molecules were resuspended the next day in the original volume of lysis buffer and used for SEC.
+</p>
+Metabolites were extracted from SEC fractions as previously described[1]. Briefly, collected fractions were extracted using Methyl tert-butyl ether (MTBE)/Methanol/Water solvent system to separate proteins, lipids, and polar compounds into pellet, organic, and aqueous phase, respectively[2]. After extraction, the aqueous phase was dried in a speed-vac and stored at −80 °C until LC/MS analysis.
+</p>
+Ref:</br>
+[1] Veyel D, Kierszniowska S, Kosmacz M, Sokolowska EM, Michaelis A, Luzarowski M, Szlachetko J, Willmitzer L, Skirycz A. System-wide detection of protein-small molecule complexes suggests extensive metabolite regulation in plants. Sci Rep. 2017 Feb 13;7:42387. doi:10.1038/srep42387. PMID:28205532</br>
+[2] Giavalisco P, Li Y, Matthes A, Eckhardt A, Hubberten HM, Hesse H, Segu S, Hummel J, Köhl K, Willmitzer L. Elemental formula annotation of polar and lipophilic metabolites using (13) C, (15) N and (34) S isotope labelling, in combination with high-resolution mass spectrometry. Plant J. 2011 Oct;68(2):364-76. doi:10.1111/j.1365-313X.2011.04682.x. PMID:21699588</br>"	"Polar metabolites were analyzed using ultra-performance liquid chromatography coupled to an Exactive mass spectrometer (Thermo-Fisher) in positive and negative ionization mode as previously described[1]. Briefly, UPLC separation was performed using a Waters Acquity UPLC system (Waters), using an HSS T3 C18 reversed-phase column (100 mm x 2.1 mm x 1.8 μm particles; Waters). The mobile phases were 0.1% formic acid in H2O (Buffer A, ULC MS grade; BioSolve) and 0.1% formic acid in acetonitrile (Buffer B, ULC MS grade; BioSolve). A 2 μl sample (the dried-down aqueous fraction was re-suspended in 100 μl of UPLC grade water) was loaded per injection, and the gradient, which was taken out with a flow rate of 400 μl/min, was: 1 min 99% A, 13 min linear gradient from 99% A to 65% A, 14.5 min linear gradient from 65% A to 30% A, 15.5 min linear gradient from 30% A to 1% A, hold 1% A until 17 min, 17.5 min linear gradient from 1% A to 99% A, and re-equilibrate the column for 2.5 min (20 min total run time).
+</p>
+Ref:</br>
+[1] Giavalisco P, Li Y, Matthes A, Eckhardt A, Hubberten HM, Hesse H, Segu S, Hummel J, Köhl K, Willmitzer L. Elemental formula annotation of polar and lipophilic metabolites using (13) C, (15) N and (34) S isotope labelling, in combination with high-resolution mass spectrometry. Plant J. 2011 Oct;68(2):364-76. doi:10.1111/j.1365-313X.2011.04682.x. PMID:21699588</br>"	"The mass spectra were acquired using an Exactive mass spectrometer (Thermo-Fisher) in positive and negative ionization mode as previously described[1]. The spectra were recorded covering a mass range from 100 to 1500 m/z. The resolution was set to 10 000, with 10 scans/s, restricting the loading time to 100 ms. The capillary voltage was set to 3 kV with a sheath gas flow value of 60 and an auxiliary gas flow of 35 (values are in arbitrary units). The capillary temperature was set to 150 °C, whereas the drying gas in the heated electrospray source was set to 350 °C. The skimmer voltage was set to 25 V, whereas the tube lens was set to a value of 130 V. The spectra were recorded from 1 min to 17 min of the UPLC gradients.
+</p>
+Ref:</br>
+[1] Giavalisco P, Li Y, Matthes A, Eckhardt A, Hubberten HM, Hesse H, Segu S, Hummel J, Köhl K, Willmitzer L. Elemental formula annotation of polar and lipophilic metabolites using (13) C, (15) N and (34) S isotope labelling, in combination with high-resolution mass spectrometry. Plant J. 2011 Oct;68(2):364-76. doi:10.1111/j.1365-313X.2011.04682.x. PMID:21699588</br>"	"Processing of chromatograms, peak detection, and integration were performed using REFINER MS 9.0.4 (GeneData). Processing of mass spectrometry data included retention time alignment, peak detection, removal of the isotopic peaks, as well as chemical noise. Obtained metabolic features (m/z at a given retention time) were queried against an in-house reference compound database allowing 0.15 min retention time and 3 ppm m/z deviation. For metabolites that showed a higher ppm error in standard compound measurements we allowed a corresponding deviation of up to 10 ppm."	"All features were matched to an in-house library of authentic standards allowing retention time deviations of 0.05 min and m/z deviation of 0.002. In addition a replicate extract of one experiment was analyzed by MetaSysX GmbH (MetaSysX GmbH, Potsdam, Germany) using identical chromatographic settings and annotations were transferred to in-house measured data by estimating the RT shifts over the chromatogram following the most abundant feature in every 0.05 min window. The higher number of annotations reported here in comparison to those previously described[1] results from the growth of our standard library e.g. as a result of incorporation of 400 dipeptide standards.  Granting the request of MetaSysX, RT information was removed from the Supplement but will be shared upon inquiry. 
+</p>
+Ref:</br>
+[1] Veyel D, Kierszniowska S, Kosmacz M, Sokolowska EM, Michaelis A, Luzarowski M, Szlachetko J, Willmitzer L, Skirycz A. System-wide detection of protein-small molecule complexes suggests extensive metabolite regulation in plants. Sci Rep. 2017 Feb 13;7:42387. doi:10.1038/srep42387. PMID:28205532</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Skirycz"	"Sokolowska"	"Gorka"
+Study Person First Name	"Aleksandra"	"Ewelina"	"Michal"
+Study Person Mid Initials	""	""	""
+Study Person Email	"skirycz@mpimp-golm.mpg.de"	"esokolowska@mpimp-golm.mpg.de"	"gorka@mpimp-golm.mpg.de"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"MPIMP"	"MPIMP"	"MPIMP"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

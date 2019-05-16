@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"DERMO"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"MEO"	"NCIT"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/DERMO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MEO"	"http://data.bioontology.org/ontologies/NCIT"	
+Term Source Version	"29"	"10"	"18"	"6"	"146"	"129"	"8"	"44"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Human Dermatological Disease Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Metagenome and Microbes Environmental Ontology"	"National Cancer Institute Thesaurus"	
+INVESTIGATION
+Investigation Identifier	"MTBLS527"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\mwilliam\Google Drive\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS527"
+Study Title	"The Green Tea Modulates Large Intestinal Microbiome and Exo/Endogenous Metabolome altered through Chronic UVB-exposure (Endogenous assays)"
+Study Description	"The attenuating effects of green tea supplements (GTS) against the ultraviolet (UV) radiation induced skin damages are distinguished. However, the concomitant effects of GTS on the large intestinal microbiomes and associated metabolomes are largely unclear. Herein, we performed an integrated microbiome-metabolome analysis to uncover the esoteric links between gut microbiome and exo/endogenous metabolome maneuvered in the large intestine of UVB-exposed mice subjected to dietary GTS. In UVB-exposed mice groups (UVB), class Bacilli and order Bifidobacteriales were observed as discriminant taxa with decreased lysophospholipid levels compared to the unexposed mice groups subjected to normal diet (NOR). Conversely, in GTS fed UVB-exposed mice (U+GTS), the gut-microbiome diversity was greatly enhanced with enrichment in the classes, Clostridia and Erysipelotrichia, as well as genera, Allobaculum and Lachnoclostridium. Additionally, the gut endogenous metabolomes changed with an increase in amino acids, fatty acids, lipids, and bile acids contents coupled with a decrease in nucleobases and carbohydrate levels. The altered metabolomes exhibited high correlations with GTS enriched intestinal microflora. Intriguingly, the various conjugates of green tea catechins viz., sulfated, glucuronided, and methylated ones including their exogenous derivatives were detected from large intestinal contents and liver samples. Hence, we conjecture that the metabolic conversions for the molecular components in GTS strongly influenced the gut micro-environment in UVB-exposed mice groups, ergo modulate their gut-microbiome as well as exo/endogenous metabolomes."
+Study Submission Date	"2017-08-17"
+Study Public Release Date	"2017-10-26"
+Study File Name	"s_mtbls527.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"dermatoheliosis"	"Ultraviolet B Radiation"	"Green Tea"	"gas chromatography time-of-flight mass spectrometry"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/DERMO_0002865"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27987"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67048"	"http://purl.obolibrary.org/obo/CHMO_0000735"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"DERMO"	"NCIT"	"NCIT"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29117187"
+Study Publication DOI	"10.1371/journal.pone.0187154"
+Study Publication Author List	"Jung ES, Park HM, Hyun SM, Shon JC, Singh D, Liu KH, Whon TW, Bae JW, Hwang JS, Lee CH."
+Study Publication Title	"The green tea modulates large intestinal microbiome and exo/endogenous metabolome altered through chronic UVB-exposure."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diet"	"UVB exposure"
+Study Factor Type	"diet"	"UV Radiation Exposure"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44462"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls527_UPLC_mass_spectrometry.txt"	"a_mtbls527_GC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Negative (LC-MS (Negative))"	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Female albino hairless mice (Skh:HR-1, 6–8 weeks old) were purchased from Orient Bio (Seongnam, Korea) and housed under controlled temperature (24 ± 2 °C), humidity (55 ± 10%), and light (12 h light/dark cycle) conditions. After 1 week of acclimation, the mice were randomly divided into 3 groups: Control (NOR) (n = 12), UVB exposed (UVB) (n = 12), and UVB-exposed and fed on diet containing 1% green tea extract (U+GTS) (n = 12). 4 fluorescent lamps (TL 20W/12 RS SLV, wavelength 290–390 nm, peak emission 315 nm; Philips, Amsterdam, Netherlands) were used for UVB irradiation, and monitored intensity with a UV meter (VARIOCONTROL, Waldmann ver. 2.03, Germany). UVB irradiation was initiated with 75 mJ/cm^2 doses i.e.,1 minimal erythema dose or MED, ramped-up by 1 MED/week to 4 MED and maintained subsequently. The mice were exposed to UVB radiation 3 times a week. While UVB exposure, mice were moving freely in the cage, at a distance of 30 cm from the lamps. The NOR and UVB groups were fed a control diet (Ain-93G), whereas the U+GTS group was fed on 1% GTE diet (Ain-93G + 1% GTE). The GTE was provided by AmorePacific Corp. (Seoul, Korea), and contained 50% of the total catechins including EC, EGC, ECG, and EGCG. No significant differences in food intake and body weight of mice were observed among the groups based on weekly measurements (see Fig 1 in the paper associated with this study). After 10 weeks of animal experiment, the mice were sacrificed and their liver as well as large intestine (including contents) were collected, and subsequently stored at deep freezing condition (−80 °C). For preparing microbial DNA samples and metabolite extraction, we pulled out large intestinal contents from tissue. All the samples were used for metabolites extraction and 4 randomly selected samples were subjected to DNA preparation. All animal experimental procedures were approved by the Institutional Animal Care and Use Committee of Gyeonggi Institute of Science & Technology (permit number: 2013-12-0006), and were performed in accordance with their guidelines. The animal experimental procedures were done to minimize suffering."	"Extracts of the contents of the large intestine were prepared for metabolite profiling. The intestinal contents were extracted in 1 ml of 80% methanol by sonication for 10 min. After centrifugation (12,578 x g, 4 °C, 10 min), the supernatant was filtered using a 0.2-μm PTFE filter, and dried using a speed vacuum concentrator.
+</p>
+For UPLC-Q-TOF-MS analysis, the dried extracts were re-dissolved with 80% methanol (10 mg/ml).
+</p>
+For GC-TOF-MS analysis, dried samples were oximated with 50 μl of methoxyamine hydrochloride (20 mg/ml in pyridine) for 90 min at 30 °C, and silylated with 50 μl of MSTFA for 30 min at 37 °C."	"UPLC-Q-TOF-MS analysis was performed under previously described analytical conditions[1]. Briefly, the sample extracts were analyzed on a Waters Micromass Q-TOF Premier with a UPLC Acquity system (Waters Corp., Milford, MA, USA) equipped with a binary solvent delivery system, an autosampler, and a UV detector. We selected an Acquity UPLC BEH C18 column (100 mm x 2.1 mm x 1.7 um particle size; Waters Corp.). The injection volume and flow rate were 5 μl and 0.3 ml/min, respectively. Mobile phases consisted of 0.1% formic acid in water (solvent A) and 0.1% formic acid in acetonitrile (solvent B); the initial condition was 5% B for 1 min, then B was gradually increased to 100% during 9 min; the 100% B was maintained for 1 min and then decreased to 5% B during 3 min. The total run time was 14 min.
+</p>
+GC-TOF-MS analysis was performed using an Agilent 7890 gas chromatograph system (Agilent Technologies, Palo Alto, CA, USA), an Agilent 7693 auto-sampler (Agilent Technologies), and a Pegasus HT TOF MS (LECO, St. Joseph, MI, USA) system under previously described analytical conditions[2]. Briefly, an Rtx-5MS column (i.d., 30 m x 0.25 mm, 0.25 lm particle size; Restek Corp., Bellefonte, PA, USA) was used with a constant flow of 1.5 ml/min of helium as carrier gas. 1 μl aliquot of the sample was injected into the GC with split ratio of 5:1. The oven temperatures maintained at 75 °C for 2 min, followed by raised to 300 °C at 15 °C/min, and then, finally hold for 3 min. The temperatures of the front inlet and transfer line were 250 °C and 240 °C, respectively.
+</p>
+Ref:</br>
+[1] Suh DH, Jung ES, Park HM, Kim SH, Lee S, Jo YH, Lee MK, Jung G, Do SG, Lee CH. Comparison of Metabolites Variation and Antiobesity Effects of Fermented versus Nonfermented Mixtures of Cudrania tricuspidata, Lonicera caerulea, and Soybean According to Fermentation In Vitro and In Vivo. PLoS One. 2016 Feb 5;11(2):e0149022. doi:10.1371/journal.pone.0149022. PMID:26848749</br>
+[2] Jung ES, Park HM, Lee KE, Shin JH, Mun S, Kim JK, et al. A metabolomics approach shows that catechin-enriched green tea attenuates ultraviolet B-induced skin metabolite alterations in mice. Metabolomics. 2015; 11: 861–871. doi:10.1007/s11306-014-0743-x</br>"	"UPLC-Q-TOF-MS data from the Waters Q-TOF Premier Mass spectrometer (Micromass MS Technologies, Manchester, UK) were collected in the range 100-1,000 m/z in negative ion mode. The source temperature was 100 °C, and the flow of the desolvation gas (nitrogen) was set to 600 l/h at 300 °C; the flow of the cone gas (nitrogen) was set to 50 l/h. The capillary voltage and cone voltage were set to 2.5 KV and 50 V, respectively. The data were collected with scan accumulation time of 0.2 s in the centroid mode. Leucine enkephalin (1 ppm) was used as the reference lock mass (m/z 554.2615 at the flow rate of 5 μl/min.
+</p>
+GC-TOF-MS data from the Pegasus HT TOF mass spectrometer were collected in electron ionization mode and was carried out at -70 eV with full scanning over a range of 50-1,000 m/z."	"The GC-TOF-MS data were acquired and preprocessed using the LECO Chroma TOF software (version 4.44; LECO Corp.) and converted into the NetCDF format (*.cdf) using the LECO Chroma TOF software. The UPLC-Q-TOF-MS data were acquired with MassLynx software (version 4.1; Waters Corp.), and raw data files were converted into NetCDF format (*.cdf) using MassLynx DataBridge (version 4.1; Waters Corp.). After conversion, the peak detection, retention time correction, and alignment were processed using the Metalign software package (http://www.metalign.nl). The resulting data were exported to an Excel file. Multivariate statistical analysis was conducted using SIMCA-P+ (version 12.0, Umetrics; Umea, Sweden). The data sets were auto-scaled (unit variance scaling) and mean-cantered in a column-wise fashion. Partial least squares-discriminant analysis (PLS-DA) was performed to compare each data set. The significance of PLS-DA model was determined by analysis of variance testing of cross-validated predictive residuals in SIMCA-P+ program. The variables were selected based on VIP value."	"The selected metabolites were putatively identified by comparing their retention time, mass spectra, and mass fragment patterns with those for commercial standard compounds analyzed under identical conditions and various commercially available databases, such as the National Institutes of Standards and Technology (NIST) library, Wiley 8, and the Human Metabolome Database (HMDB; http://www.hmdb.ca/)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Lee"	"Jung"
+Study Person First Name	"Choong Hwan"	"Eun Sung"
+Study Person Mid Initials	""	""
+Study Person Email	"chlee123@konkuk.ac.kr"	"jes708@naver.com"
+Study Person Phone	"82-2-2049-6177"	"82-2-444-4290"
+Study Person Fax	"82-2-455-4291"	"82-2-455-4291"
+Study Person Address	"Department of Bioscience and Biotechnology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea"	"Department of Bioscience and Biotechnology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul 05029, Republic of Korea"
+Study Person Affiliation	"Konkuk University"	"Konkuk University"
+Study Person Roles	"Corresponding author"	"First author"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

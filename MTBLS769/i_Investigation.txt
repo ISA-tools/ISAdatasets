@@ -1,0 +1,130 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BIRNLEX"	"CHMO"	"NCBITAXON"	"GO-EXT"	"EFO"	"MS"	"NCIT"	"CRISP"	"ADW"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO-EXT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/ADW"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"29"	"1"	"18"	"6"	"2"	"146"	"129"	"44"	"6"	"2"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Biomedical Informatics Research Network Project Lexicon"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology Extension"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"Animal Natural History and Life History Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS769"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\mwilliam\Google Drive\ISAcreatorMetaboLights\Configurations\HR-Image-MS_Config-20180615"
+Comment[Last Opened With Configuration]	"METASPACE-HR-Image-MS_Config-20180615"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS769"
+Study Title	"In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids (Imaging MS assays)"
+Study Description	"Tapping into the metabolic cross-talk between a host and its virus can reveal unique strategies employed during infection. Viral infection is a dynamic process that generates an evolving metabolic landscape. Gaining a continuous view into the infection process is highly challenging and is limited by current metabolomics approaches, which typically measure the average of the entire population at various stages of infection. Here, we took an innovative approach to study the metabolic basis of host-virus interactions between the bloom-forming alga Emiliania huxleyi and its specific virus. We combined a classical method in virology, the plaque assay, with advanced mass spectrometry imaging (MSI), an approach we termed ‘in plaque-MSI’. Taking advantage of the spatial characteristics of the plaque, we mapped the metabolic landscape induced during infection in a high spatiotemporal resolution, unfolding the infection process in a continuous manner. Further unsupervised spatially-aware clustering, combined with known lipid biomarkers, revealed a systematic metabolic shift during infection towards lipids containing the odd-chain fatty acid pentadecanoic acid (C15:0). Applying ‘in plaque-MSI’ might facilitate the discovery of bioactive compounds that mediate the chemical arms race of host-virus interactions in diverse model systems. </br></br> Imaging MS assays are reported in the current study MTBLS769. </br> GC- and LC-MS assays are reported in MTBLS767. </br><br/> Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS767' target='_blank'><span class='label label-success'>MTBLS767</span></a>"
+Study Submission Date	"2018-10-24"
+Study Public Release Date	"2018-11-29"
+Study File Name	"s_mtbls769.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Phytoplankton"	"matrix-assisted laser desorption-ionisation imaging mass spectrometry"	"virus-host interaction"	"plaque assay"	"Liquid Microjunction-Surface Sampling Probe/Electrospray Ionization imaging mass spectrometry"
+Study Design Type Term Accession Number	""	"http://www.owl-ontologies.com/unnamed.owl#Phytoplankton"	"http://purl.obolibrary.org/obo/CHMO_0000054"	"http://purl.obolibrary.org/obo/GO_0019048"	"http://purl.bioontology.org/ontology/CSP/0415-4488"	""
+Study Design Type Term Source REF	""	"ADW"	"CHMO"	"GO-EXT"	"CRISP"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"30718847"
+Study Publication DOI	"10.1038/s41564-018-0336-y"
+Study Publication Author List	"Schleyer G, Shahaf N, Ziv C, Dong Y, Meoded RA, Helfrich EJN, Schatz D, Rosenwasser S, Rogachev I, Aharoni A, Piel J, Vardi A."
+Study Publication Title	"In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Infection"	"Sample Type"	"Medium"
+Study Factor Type	"Group"	"Group"	"Growth Medium"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls769_Flow_Probe_MSI.txt"	"a_mtbls769_MALDI_MSI.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	""	""
+Study Assay Technology Type Term Source REF	""	""
+Study Assay Technology Platform	"LMJ-SSP/ESI MS (Imaging MS)"	"MALDI MS (Imaging MS)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"E. huxleyi strain CCMP2090 was used for this study. Cells were cultured in K/2 medium[1] in artificial seawater (ASW)[2] supplemented with ampicillin (100 µg/ml) and kanamycin (50 µg/ml), and incubated at 18 °C with a 16:8 h light:dark illumination cycle. A light intensity of 100 μmol photons/m^2/s was provided by cool white light-emitting diode lights. The virus used for this study is the lytic E. huxleyi virus EhV201[3].
+</p>
+Plaque assays were prepared as follows: 150 ml of cells at 2-3 x 10^6 cells/ml were concentrated (2000 x g, 5 min, 18 °C) to 2.7 ml. 300 μl of virions at a concentration of 10^4 virions/ml were added to the cells. After 2 h of incubation under normal growth conditions, the host-virus mixture was mixed with 9 ml of K/2 medium in ASW that contained 0.2% agarose (SeaKem LE agarose, Rockland, ME, USA) and then poured onto an agarose plate (12 x 12 cm) containing K/2 medium in ASW solidified by a 1.5% agarose, supplemented with ampicillin (100 µg/ml) and kanamycin (50 µg/ml). Plaques were visible to the naked eye usually at 2 days post infection (dpi). Plaque samples were subjected to MSI analysis at 5-6 dpi, when they were at a size large enough for spatial analysis (diameter of 4-8 mm) yet were still active and growing. Blank samples were prepared following the same procedure, using K/2 medium only (i.e. without the host-virus mixture).
+</p>
+Ref:</br>
+[1] Keller, M. D., Selvin, R. C., Claus, W. & Guillard, R. R. L. Media for the culture of oceanic ultraphytoplankton. J. Phycol. 23, 633–638 (2007). doi:10.1111/j.1529-8817.1987.tb04217.x</br>
+[2] Goyet, C. & Poisson, A. New determination of carbonic acid dissociation constants in seawater as a function of temperature and salinity. Deep Sea Res. Part A. Oceanogr. Res. Pap. 36, 1635–1654 (1989). doi:10.1016/0198-0149(89)90064-2</br>
+[3] 73. Schroeder, D. C., Oke, J., Malin, G. & Wilson, W. H. Coccolithovirus (Phycodnaviridae): characterisation of a new large dsDNA algal virus that infects Emiliana huxleyi. Arch. Virol. 147, 1685–98 (2002). doi:10.1007/s00705-002-0841-3. PMID:12209309</br>"	"Plaque samples were cut using a metal square punch and transferred to a glass slide. The upper layer of 0.2% agarose was blotted onto a 0.22 μm PVDF filter (Merck Millipore, Cork, Ireland). The filter containing the plaque was then dried for ~10 min at 30 °C. The filter was immobilized on a microscope slide with double-sided adhesive tape."	"Flow-probe-MS imaging:</br>
+The analysis was performed at ambient conditions using a ‘Flow-probe’ in situ micro-extraction system[1] (Prosolia, Indianapolis, IN, USA), connected to a Thermo Scientific QExactive mass spectrometer. The ‘Flow-probe’ was operated using Flowprobe nMotion software (version 1.0.0.58, Prosolia). The instrument was operated in positive ion mode and the spray voltage set to 3 kV with a capillary temperature of 150 °C. A mixture of methanol:acetonitrile:toluene 50:35:15 + 0.1% TFA[2] with a flow-rate of 10 μl/min was used. Samples were analyzed by measuring several parallel lanes (1 mm wide, spacing 1 mm) using a probe-speed of 100 μm/s. Chemical entities were monitored in a mass range between 125 and 1,100 m/z at a resolution of 70,000 m/z for MS1 scans. Data-dependent fragmentation was performed on 10 precursor ions per MS1 scan at a resolution of 17,500 m/z at 400 m/z. Simultaneous Flow-probe imaging and data-dependent acquisition were performed either using an inclusion list of known lipids, while allowing ions not included in the inclusion list to be fragmented in the absence of said ions or without an inclusion list and a dynamic inclusion window of 3 s.
+</p>
+MALDI-MS imaging:</br>
+2,5-Dihydroxybenzoic acid (DHB) matrix was deposited using a sublimation apparatus (height x inner diameter, 250 mm x 152 mm, Sigma-Aldrich, St Louis, MO, USA). The sublimator was coupled to a rough pump and a digital thermocouple vacuum gauge controller and was placed on a sand bath heated by a hot plate. The temperature was monitored by a digital thermometer. 200 mg of DHB matrix were sublimated under a fixed pressure of 8 x 10^-2 Torr at 140 °C for 4 min.
+</p>
+MALDI imaging experiments were performed using a 7T Solarix FT-ICR (Fourier transform ion cyclotron resonance) mass spectrometer (Bruker Daltonics, Bremen, Germany). Datasets were collected in positive mode using lock mass calibration (DHB matrix peak: [3DHB+H-3H2O]+, m/z 409.055408) in the range of 150-3,000 m/z, with a spatial resolution of 60-100 μm, providing an estimated resolving power of 115,000 at 400 m/z. Each mass spectrum was obtained from a single scan of 100 laser shots per pixel at a frequency of 1 kHz and a laser power of 18%.
+</p>
+Ref:</br>
+[1] Hsu CC, ElNaggar MS, Peng Y, Fang J, Sanchez LM, Mascuch SJ, Møller KA, Alazzeh EK, Pikula J, Quinn RA, Zeng Y, Wolfe BE, Dutton RJ, Gerwick L, Zhang L, Liu X, Månsson M, Dorrestein PC. Real-time metabolomics on living microorganisms using ambient electrospray ionization flow-probe. Anal Chem. 2013 Aug 6;85(15):7014-8. doi:10.1021/ac401613x. PMID:23819546</br>
+[2] Watrous J, Roach P, Alexandrov T, Heath BS, Yang JY, Kersten RD, van der Voort M, Pogliano K, Gross H, Raaijmakers JM, Moore BS, Laskin J, Bandeira N, Dorrestein PC. Mass spectral molecular networking of living microbial colonies. Proc Natl Acad Sci U S A. 2012 Jun 26;109(26):E1743-52. doi:10.1073/pnas.1203689109. PMID:22586093</br>"	"Microscopy images used for both Flow-probe-MS and MALDI-MS samples where obtained using Olympus IX81 motorized epi-fluorescence inverted optical microscope (Olympus, Tokyo, Japan) equipped with x4 (numerical aperture (NA) 0.13, for MALDI-MS samples) and x10 (NA 0.3, for Flow-probe-MS samples) objectives and a filter system for chlorophyll autofluorescence (Flow-probe-MS samples: ex: 470/40 nm, em :632/60 nm, MALDI-MS samples: ex: 430/24 nm, em: 590 nm LP). Images were captured using ORCA-Flash 4.0 V2 (Hamamatsu Photonics KK, Hamamatsu City, Japan, for Flow-probe-MS samples) or Coolsnap HQ2 CCD (Photometrics, Tuscon, AZ, USA, for MALDI-MS samples) cameras and processed using MetaMorph (version 7.8.7, Molecular Devices) and CellSens Dimension (version 1.11, Olympus) software packages.
+</p>
+Image analysis and processing was done using Fiji (Fiji Is Just ImageJ, version 1.51w). To correct for uneven illumination and remove background, a background image was generated by projecting the median of all frames and performing Gaussian blur (30 pixels diameter). Then, all frames were divided by the background image. Frames were then stitched with 10% tile overlap. The microscopy images allowed accurate identification of a plaque and its center prior to MSI. The center of the plaque can be detected by a reduced chlorophyll signal and is consisting of mainly lysed cells (see Fig 2 of the paper associated with this study)[1]. The infected area surrounding the center, on the other hand, is populated by living cells, as indicated by the chlorophyll signal.
+</p>
+Ref:</br>
+[1] Llewellyn CA, Evans C, Airs RL, Cook I, Bale N, Wilson WH. The response of carotenoids and chlorophylls during virus infection of Emiliania huxleyi (Prymnesiophyceae). J. Exp. Mar. Bio. Ecol. 344, 101–112 (2007). doi:10.1016/j.jembe.2006.12.013</br>"	"Flow-probe-MS imaging:</br>
+Raw Flow-probe-MSI data was converted from the vendor’s format to the open format mzML using ‘msconvert’ software (part of ProteoWizard version 3.0)[1] and from the mzML format to the MSI compatible data format imzML[2] using ‘imzMLConverter’ software (version 1.3)[3]. Next, imzML files corresponding with each experimental run were imported into the R open source programming environment (www.r-project.org) using the R package ‘MALDIquant’[4]. 
+</p>
+MALDI-MS imaging:</br>
+The acquired spectra were processed using FlexImaging software (version 4.0, Bruker Daltonics, Bremen, Germany) and SCiLS Lab 2015b (SCiLS GmbH, Bremen, Germany). Data sets were normalized to RMS intensity and MALDI images were plotted at the theoretical m/z ± 0.001% (FlexImaging) and m/z ± 5 ppm (SCiLS Lab), with pixel interpolation on. MS-images were produced using SCiLS Lab 2015b using ‘Viridis’ colormap.
+</p>
+Ref:</br>
+[1] Adusumilli R and Mallick P. Data Conversion with ProteoWizard msConvert. Methods Mol Biol. 2017;1550:339-368. doi:10.1007/978-1-4939-6747-6_23. PMID:28188540</br>
+[2] Schramm T, Hester A, Klinkert I, Both JP, Heeren RM, Brunelle A, Laprévote O, Desbenoit N, Robbe MF, Stoeckli M, Spengler B, Römpp A. imzML--a common data format for the flexible exchange and processing of mass spectrometry imaging data. J Proteomics. 2012 Aug 30;75(16):5106-10. doi:10.1016/j.jprot.2012.07.026. PMID:22842151</br>
+[3] Race AM, Styles IB, Bunch J. Inclusive sharing of mass spectrometry imaging data requires a converter for all. J Proteomics. 2012 Aug 30;75(16):5111-2. doi:10.1016/j.jprot.2012.05.035. PMID:22641155</br>
+[4] Gibb S and Strimmer K. MALDIquant: a versatile R package for the analysis of mass spectrometry data. Bioinformatics. 2012 Sep 1;28(17):2270-1. doi:10.1093/bioinformatics/bts447. PMID:22796955</br>"	"Annotation of mass features to masses of known lipids was done using an in-house R script which performed mass-to-mass comparisons of observed mass features with the theoretical accurate mass of the protonated ([M+H]+), sodium ([M+Na]+) and ammonium ([M+NH4]+) ions of each known lipid, using a mass error tolerance of 6 parts per million (ppm). The annotation script further extracted the natural heavy isotope pattern of each putatively annotated parent ion and performed chemical formula decomposition using the ‘decomposeMass’ in the R package ‘Rdisop’[1]. Putative annotations of mass features to known lipids were then assigned using the combined criteria of: mass-to-mass, chemical formula decomposition and manual inspection of the corresponding mass peak in the raw data. MS-images of specific m/z values were generated using the open-source software package MSiReader v1.00[2][3], built on the platform of Matlab (Mathworks, Natick, MA, USA) using ‘Viridis’ colormap.
+</p>
+Ref:</br>
+[1] Böcker S, Letzel MC, Lipták Z, Pervukhin A. SIRIUS: decomposing isotope patterns for metabolite identification. Bioinformatics. 2009 Jan 15;25(2):218-24. doi:10.1093/bioinformatics/btn603. PMID:19015140</br>
+[2] Robichaud G, Garrard KP, Barry JA, Muddiman DC. MSiReader: an open-source interface to view and analyze high resolving power MS imaging files on Matlab platform. J Am Soc Mass Spectrom. 2013 May;24(5):718-21. doi:10.1007/s13361-013-0607-z. PMID:23536269</br>
+[3] Bokhart MT, Nazari M, Garrard KP, Muddiman DC. MSiReader v1.0: Evolving Open-Source Mass Spectrometry Imaging Software for Targeted and Untargeted Analyses. J Am Soc Mass Spectrom. 2018 Jan;29(1):8-16. doi:10.1007/s13361-017-1809-6. PMID:28932998</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Sample mounting;Sample preservation;Tissue modification;Sectioning instrument;Section thickness;Matrix;Matrix application"	"Scan polarity;Mass analyzer;Ion source;Instrument;Instrument manufacturer;Scan m/z range;Spatial resolution;Solvent;Target material;Pixel size x;Pixel size y;Max count of pixel x;Max count of pixel y;Max dimension x;Max dimension y;Inlet type;Detector;Detector mode;Resolving power;Resolving power m/z;Native spectrum identifier format;Data file content;Spectrum representation;Spectrum representation;Raw data file format;Instrument software;Instrument software version;Line scan direction;Linescan sequence;Scan pattern;Scan type;Number of scans"	"Stain;High-res image;Low-res image"	""	"Data Transformation software;Data Transformation software version"
+Study Protocol Parameters Name Term Accession Number	""	";;;;;;"	";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"	";;"	""	";"
+Study Protocol Parameters Name Term Source REF	""	";;;;;;"	";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"	";;"	""	";"
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Schleyer"	"Vardi"
+Study Person First Name	"Guy"	"Assaf"
+Study Person Mid Initials	""	""
+Study Person Email	"guy.schleyer@weizmann.ac.il"	"assaf.vardi@weizmann.ac.il"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Department of Plant & Environmental Sciences, Weizmann Institute of Science, 234 Herzl St., Rehovot, 7610001, Israel"	"Department of Plant & Environmental Sciences, Weizmann Institute of Science, 234 Herzl St., Rehovot, 7610001, Israel"
+Study Person Affiliation	"Weizmann Institute of Science"	"Weizmann Institute of Science"
+Study Person Roles	""	"Principal investigator"
+Study Person Roles Term Accession Number	""	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"
+Study Person Roles Term Source REF	""	"BIRNLEX"

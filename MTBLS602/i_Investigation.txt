@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BTO"	"MESH"	"CHMO"	"NCBITAXON"	"NCIT"	"UO"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"22"	"10"	"18"	"6"	"44"	"43"	"99"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Medical Subject Headings"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS602"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS602"
+Study Title	"Metabolic effects of a chronic dietary exposure to a low-dose pesticide cocktail in mice: sexual dimorphism and role of the Constitutive Androstane Receptor (untargeted urine, plasma and liver NMR metabolomics)"
+Study Description	"BACKGROUND: Epidemiological evidence suggests a link between pesticide exposure and the development of metabolic diseases. However, most experimental studies have evaluated the metabolic effects of pesticides using individual molecules, often at non relevant doses or in combination with other risk factors such as high fat diets. Objectives: We aimed to evaluate, in mice, the metabolic consequences of chronic dietary exposure to a pesticide mixture at non-toxic doses, relevant to consumers’ risk assessment.</br> METHODS: A mixture of six pesticides commonly used in France i.e. boscalid, captan, chlorpyrifos, thiofanate, thiacloprid, and ziram was incorporated in a standard chow diet, at doses exposing mice to the acceptable daily intake (ADI) of each pesticide. Wild-type (WT) and Constitutive Androstane Receptor knock-out (CAR-/-) C57Bl6/J male and female mice were exposed for 52 weeks. We assessed metabolic parameters (body-weight, food and water consumption, glucose tolerance, urinary metabolome) throughout the experiment. At the end of the experiment, we evaluated liver metabolism (histology, transcriptomics, metabolomics) and pesticide detoxification using LC/MS.</br> RESULTS: In males, pesticide exposure increased body weight and adiposity and induced hepatic steatosis and glucose intolerance. Exposed females exhibited fasted hyperglycaemia, hepatic oxidative stress and perturbations of gut microbiota-related urinary metabolites. The Constitutive Androstane Receptor is involved in the sexually dimorphic response to pesticide exposure.</br> CONCLUSIONS: We show for the first time the sexually dimorphic obesogen and diabetogen effects of a chronic dietary exposure to a realistic mixture of pesticides, which are partially mediated through CAR. This raises questions about the relevance of ADI for individual pesticides when present in a mixture."
+Study Submission Date	"2018-01-19"
+Study Public Release Date	"2019-03-01"
+Study File Name	"s_mtbls602.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Pesticide"	"diabetes mellitus"	"sexual dimorphism"	"constitutive androstane receptor"	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C737"	"http://www.ebi.ac.uk/efo/EFO_0000400"	"http://www.ebi.ac.uk/efo/EFO_0005951"	"http://purl.bioontology.org/ontology/MESH/C409467"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"NCIT"	"EFO"	"EFO"	"MESH"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Céline Lukowicz, Sandrine Ellero-Simatos, Marion Régnier, Arnaud Polizzi, Frédéric Lasserre, Alexandra Montagner, Yannick Lippi, Emilien L. Jamin, Jean-François Martin, Claire Naylies, , Laurent Debrauwer, Justine Bertrand-Michel, Talal Al Saati, Vassilia Théodorou, Nicolas Loiseau, Laïla Mselli-Lakhal, Hervé Guillou, Laurence Gamet-Payrastre."
+Study Publication Title	"Metabolic effects of a chronic dietary exposure to a low-dose pesticide cocktail in mice: sexual dimorphism and role of the Constitutive Androstane Receptor"
+Study Publication Status	"In revision"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"sex"	"treatment"	"time of treatment"	"age"
+Study Factor Type	"genotype"	"Gender"	"Group"	"timepoint"	"age"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000246"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"NCIT"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls602_URINE_48W_WT_NMR_spectroscopy.txt"	"a_mtbls602_URINE_26W_WT_NMR_spectroscopy.txt"	"a_mtbls602_URINE_6W_WT_NMR_spectroscopy.txt"	"a_mtbls602_LIVER_52W_WT_NMR_spectroscopy.txt"	"a_mtbls602_PLASMA_52W_WT_KO_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"8 weeks old female and male C57BL/6J mice were purchased from Janvier Laboratories (France) and acclimatized for 4 weeks. CAR knockout mice back-crossed on the C57BL/6J background were previously described[1]. The C57Bl/6J mice served as wild-type (WT) strain for comparison with the CAR-/- mice on the same genetic background (C57Bl/6J). Both strains were treated in the same manner and experiments conducted concurrently to allow direct comparison of results. From 8 to 12 weeks old, the animals were allowed to acclimatize to laboratory conditions. At the beginning of the experiment mice were 12 weeks old and metabolic parameters were followed. At 16 weeks old, diets were switched to either a pesticide-enriched or -free diet and the dietary exposure was continued for 52 weeks. A mixture of 6 pesticides commonly used in France i.e. boscalid, captan, chlorpyrifos, thiofanate, thiacloprid, and ziram was incorporated in a standard chow diet, at doses exposing mice to the tolerable daily intake (TDI) of each pesticide. 
+</p>
+The 72 WT mice and the 72 CAR-/- mice were housed in the laboratory animal room (23 ± 2 °C). 8 groups of 18 animals each were used in this study: WT males exposed, WT males non-exposed, WT females exposed, WT females non-exposed, CAR-/- males exposed, CAR-/- males non-exposed, CAR-/- females exposed and CAR-/- females non-exposed. Mice were randomly distributed into control and experimental groups. No cage effect was observed. We used a 1 year exposure in 3-month old mice which mimics a 30-year exposure period in human adults.
+</p>
+During the 6th, 26th, and 48th week of exposure, the mice were placed in individual metabolic cages (Techniplast France) to obtain 24-h urine samples. The samples were stored at -80 °C until analysis. After 52 weeks of exposure, the mice were sacrificed at ZT 17 in fed state. Blood was collected from the submandibular vein with a lancet into lithium heparin-coated tubes (BD Microtainer). Plasma was prepared by centrifugation (1500 x g, 10 min, 4 °C) and stored at -80 °C. Liver samples were collected, weighed, snap-frozen in liquid nitrogen, and kept at -80 °C for further analyses.
+</p>
+Ref:</br>
+[1] Wei P, Zhang J, Egan-Hafley M, Liang S, Moore DD. The nuclear receptor CAR mediates specific xenobiotic induction of drug metabolism. Nature. 2000 Oct 19;407(6806):920-3. doi:10.1038/35038112. PMID:11057673</br>"	"Liver samples (100 mg) were homogenized in a ice-cold mixture of methanol (400 µl) and water (285 µl) for 30 s at 10000 rpm using the Precellys Evolution homogenizer. 400 µl of ice-cold dichloromethane was added to the homogenate and samples were vortexed for 30 s. Samples were left on ice for 15 min then polar and organic phases were separated by centrifugation at 2800 x g at 4°C for 15 min. The polar phase (top layer) was collected and evaporated for 3 hr using a speedvac."	"Urine, plasma and liver polar extracts were prepared for NMR analysis as described previously[1].
+</p>
+Briefly, aliquots of 450 µl urine samples were made up to 700µl with phosphate buffer (0.2 M, pH 7.2) + 3-trimethylsilyl-(2,2,3,3-2H4)-1-propionate (TSP)/D2O solution (0.1% wt/vol TSP in D2O) and any precipitate removed by centrifugation. In total 580 µl of supernatant were transferred to 5 mm NMR tubes.
+</p>
+Aliquots of 40 µl of plasma samples were made up to 160 µl with phosphate buffer (0.2 M, pH 7.2) + 3-trimethylsilyl-(2,2,3,3-2H4)-1-propionate (TSP)/D2O solution (0.1% wt/vol TSP in D2O) and any precipitate removed by centrifugation. In total 150 µl of supernatant were transferred to 3 mm NMR tubes. 
+</p>
+Liver polar extract was redissolved in 600 µl of 0.2 M phosphate buffer in D2O containing 0.05 % of sodium 3-(tri-methylsilyl)propionate-2,3-d4 (TSP) as an 1H NMR reference and transferred to 5 mm NMR glass tubes for analysis.
+</p>
+Ref:</br>
+[1] Beckonert O, Keun HC, Ebbels TM, Bundy J, Holmes E, Lindon JC, Nicholson JK. Metabolic profiling, metabolomic and metabonomic procedures for NMR spectroscopy of urine, plasma, serum and tissue extracts. Nat Protoc. 2007;2(11):2692-703. doi:10.1038/nprot.2007.376. PMID:18007604</br>"	"All 1H-NMR spectra were obtained on a Bruker DRX-600-Avance NMR spectrometer (Bruker, Wissembourg, France) using the AXIOM metabolomics platform (MetaToul) operating at 600.13 MHz for 1H resonance frequency using an inverse detection 5-mm 1H-13C-15N cryoprobe attached to a cryoplatform (the preamplifier cooling unit). The 1H-NMR spectra were acquired at 300 K."	"The 1H-NMR spectra were acquired using a standard one-dimensional noesypr1D pulse sequence with water presaturation and a total spin-echo delay (2nt) of 100 ms. A total of 128 transients were collected into 64,000 data points using a spectral width of 12 ppm, a relaxation delay of 2.5 s, and an acquisition time of 2.28 s."	"Data were analysed by applying an exponential window function with a 0.3-Hz line broadening prior to Fourier transformation. The resultant spectra were phased, baseline corrected, and calibrated to TSP (d 0.00 ppm) manually using Mnova NMR (v9.0, Mestrelab Research). The spectra were subsequently imported into MatLab (R2014a, MathsWorks, Inc.). All data were analysed using full-resolution spectra. The region containing the water resonance (d 4.6–5.2ppm) was removed, and the spectra were normalized to the probabilistic quotient[1] and aligned using a previously published function[2]. 
+</p>
+Ref:</br>
+[1] Dieterle F, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul 1;78(13):4281-90. doi:10.1021/ac051632c. PMID:16808434</br>
+[2] Veselkov KA, Lindon JC, Ebbels TM, Crockford D, Volynkin VV, Holmes E, Davies DB, Nicholson JK. Recursive segment-wise peak alignment of biological (1)h NMR spectra for improved metabolic biomarker recovery. Anal Chem. 2009 Jan 1;81(1):56-66. doi:10.1021/ac8011544.PMID:19049366</br>"	"Assignments were confirmed by two dimensional spectroscopy including homonuclear 1H-1H Correlation (COSY), homonuclear 1H-1H Total Correlation (TOCSY), and 1H-13C Heteronuclear Signal Quantum Coherence (HSQC) Spectroscopy for each biological matrix on 1 representative sample."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ellero-Simatos"
+Study Person First Name	"Sandrine"
+Study Person Mid Initials	""
+Study Person Email	"sandrine.ellero-simatos@inra.fr"
+Study Person Phone	"0033582066349"
+Study Person Fax	""
+Study Person Address	"180 chemin de Tournefeuille F-31027 Toulouse"
+Study Person Affiliation	"UMR1331 INRA"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

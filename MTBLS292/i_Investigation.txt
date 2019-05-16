@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"EFO"	"UO"	"BTO"	
-Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
-Term Source Version	"22"	"2"	"86"	"5"	"146"	"43"	"29"	
-Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+Term Source Name	"NCBITAXON"	"BAO"	"EFO"	"CHMO"	"OBI"	"MS"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"26"	"146"	"5"	"22"	"86"	"43"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BioAssay Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
 INVESTIGATION
 Investigation Identifier	"MTBLS292"
 Investigation Title	"Investigation"
@@ -39,9 +39,9 @@ Study Submission Date	"2015-12-11"
 Study Public Release Date	"2017-04-05"
 Study File Name	"s_U2OS Liver.txt"
 STUDY DESIGN DESCRIPTORS
-Study Design Type	"circadian rhythm"	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"	"metabolomic profiling"	"replicate"
-Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0004354"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://www.ebi.ac.uk/efo/EFO_0000683"
-Study Design Type Term Source REF	"EFO"	"CHMO"	""	"EFO"	"EFO"
+Study Design Type	"circadian rhythm"	"ultra-performance liquid chromatography-mass spectrometry"	"replicate"	"metabolomic profiling"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0004354"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://www.ebi.ac.uk/efo/EFO_0000752"	""
+Study Design Type Term Source REF	"EFO"	"CHMO"	"EFO"	"EFO"	""
 STUDY PUBLICATIONS
 Study PubMed ID	"28380384"
 Study Publication DOI	"10.1016/j.cmet.2017.03.019"
@@ -52,9 +52,9 @@ Study Publication Status Term Accession Number	""
 Study Publication Status Term Source REF	""
 STUDY FACTORS
 Study Factor Name	"harvesting time"	"siRNA"	"replicate"
-Study Factor Type	"timepoint"	"RNA"	"replicate"
-Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://purl.obolibrary.org/obo/CHEBI_33697"	"http://www.ebi.ac.uk/efo/EFO_0000683"
-Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+Study Factor Type	"timepoint"	"gene knockdown by siRNA transfection"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.bioassayontology.org/bao#BAO_0002438"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"BAO"	"EFO"
 STUDY ASSAYS
 Study Assay File Name	"a_u2os_metabolite_profiling_mass_spectrometry.txt"	"a_liver_metabolite_profiling_mass_spectrometry.txt"
 Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"

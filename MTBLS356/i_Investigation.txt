@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"MESH"	"NCBITAXON"	"NCIT"	"UO"	"EFO"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"10"	"6"	"44"	"42"	"146"	"80"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"Medical Subject Headings"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS356"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS356"
+Study Title	"A serum nuclear magnetic resonance-based metabolomic signature of antiphospholipid syndrome."
+Study Description	"Antiphospholipid syndrome (APS) is a rheumatic inflammatory chronic autoimmune disease inducing hypercoagulable state associated with vascular thrombosis and pregnancy loss in women. Cardiac, cerebral and vascular strokes in these patients are responsible for reduction in life expectancy. Timely diagnosis and accurate monitoring of disease are decisive to improve the accuracy of therapy. In the present work, we present a NMR-based metabolomic study of blood sera of APS patients. Our data show that individuals suffering APS have a characteristic metabolomic profile with abnormalities associated to the metabolism of methyl group donors, ketone bodies and amino acids. We have identified for the first time the metabolomic fingerprint characterizing APS disease having potential application to improve APS timely diagnosis and appropriate therapeutic approaches."
+Study Submission Date	"2016-06-19"
+Study Public Release Date	"2016-06-27"
+Study File Name	"s_APS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"antiphospholipid syndrome"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"	"Autoimmunity"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002689"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://purl.bioontology.org/ontology/MESH/D015551"
+Study Design Type Term Source REF	"EFO"	"CHMO"	""	"MESH"
+STUDY PUBLICATIONS
+Study PubMed ID	"27829500"
+Study Publication DOI	"10.1016/j.jpba.2016.11.002"
+Study Publication Author List	"Palisi A, Grimaldi M, Sabatini P, Montoro P, Scrima M, Rodriquez M, D'Ursi AM."
+Study Publication Title	"A serum nuclear magnetic resonance-based metabolomic signature of antiphospholipid syndrome."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Participant type"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_aps_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Fifty-four (54) participants were selected from Clinical Pathology Laboratory of DEA III Liv. Nocera-Pagani, ASL Salerno from July 2014 to March 2015. One-half of the present patients (27/54; 50%, male/female: 10/17) had been previously diagnosed according to the revised diagnostic protocols[1], whereas the control group comprised healthy volunteers without major illnesses (27 subjects, male/female: 10/17). Inclusion criteria consisted of all APS patients and healthy individual who had voluntarily agreed to participate in this study, while exclusion criteria included persons who already had, or recently had, any medical conditions or with a recent history of drug addiction or alcohol abuse.
+</p>
+Sera samples were collected from male and female according to the standard operating procedure (SOP) for metabolomic-grade serum samples recently defined[2].
+</p>
+Ref:</br>
+[1] C. Leuzzi, G.M. Sangiorgi, M.G. Modena, Gender-specific aspects in the clinical presentation of cardiovascular disease, Fundam. Clin. Pharmacol. 24 (6) (2010) 711–717. doi:10.1111/j.1472-8206.2010.00873.x. PMID:20840353</br>
+[2] O. Beckonert, H.C. Keun, T.M. Ebbels, J. Bundy, E. Holmes, J.C. Lindon, J.K. Nicholson, Metabolic profiling, metabolomic and metabonomic procedures for NMR spectroscopy of urine, plasma, serum and tissue extracts, Nat. Protoc. 2 (11) (2007) 2692–2703. doi:10.1038/nprot.2007.376. PMID:18007604</br>"	"Blood was collected into standard blood collection tubes and allowed to clot at room temperature for 30 to 120 min before centrifugation (1,500 x g for 10 min at 4 °C). Serum was aliquoted and stored at -80 °C in Greiner cryogenic vials prior to NMR spectrometry measurements. Before being transferred to a 5 mm heavy-walled NMR-tube, samples were thawed at room temperature and thereafter spin at 3000 rpm using Vivaspin® 6 centrifugal concentrator to remove proteic and particulate matter. The serum supernatant was removed."	"To prepare NMR sample, 425 µl of each sera sample ware added to 25 µl of 1 M potassium phosphate buffer (pH 7.4) and 50 µl D2O. Trimethylsilyl propionic-2,2,3,3-d4 acid, sodium salt (TSP 0.1% in D2O) was used as an internal reference for alignment and quantification of the NMR signals; the mixture, homogenized by vortexing for 30 s, was transferred to 5 mm NMR tube (Bruker NMR tubes) before the analysis started[1].
+</p>
+Ref:</br>
+[1] O. Beckonert, H.C. Keun, T.M. Ebbels, J. Bundy, E. Holmes, J.C. Lindon, J.K. Nicholson, Metabolic profiling, metabolomic and metabonomic procedures for NMR spectroscopy of urine, plasma, serum and tissue extracts, Nat. Protoc. 2 (11) (2007) 2692–2703. doi:10.1038/nprot.2007.376. PMID:18007604</br>"	"NMR experiments were carried out on a Bruker DRX600 spectrometer, equipped with a 5 mm triple-resonance z-gradient CryoProbe. TOPSPIN, version 2.1 or 3.0, was used for spectrometer control and data processing (Bruker Biospin)."	"1D NOESY experiments were acquired using spectral with of 14 ppm, 16k data points, excitation sculpting for water suppression, 192 transients, 4 s relaxation delay and 60 ms mixing time. The pulse sequence used included an excitation sculpting routine for the suppression of the water signal[1]. Due to the effect of excitation sculpting on the signal height of resonances in the region close to the water resonance,[2][3] the metabolites that have resonances close to this region (ascorbate, glucose, mannose and pyroglutamate) were quantified using resonances from those metabolites in other spectral regions. A weighted Fourier transform was applied to the time domain data with a 0.5 Hz line-broadening followed by manual phase and baseline correction in preparation for targeted profiling analysis.
+</p>
+Ref:</br>
+[1] H. Mo, D. Raftery, Pre-SAT180, a simple and effective method for residual water suppression, J. Magn. Reson. 190 (1) (2008) 1–6. doi:10.1016/j.jmr.2007.09.016. PMID:17945521</br>
+[2] N. Aranibar, M. Borys, N.A. Mackin, V. Ly, N. Abu-Absi, S. Abu-Absi, M. Niemitz, B. Schilling, Z.J. Li, B. Brock, R.J. Russell, A. Tymiak, M.D. Reily, NMR-based metabolomics of mammalian cell and tissue cultures, J. Biomol. NMR 49 (3–4) (2011) 195–206. doi:10.1007/s10858-011-9490-8. PMID:21373840</br>
+[3] M. Jupin, P.J. Michiels, F.C. Girard, M. Spraul, S.S. Wijmenga, NMR metabolomics profiling of blood plasma mimics shows that medium- and
+long-chain fatty acids differently release metabolites from human serum albumin, J. Magn. Reson. 239 (2014) 34–43. doi:10.1016/j.jmr.2013.11.019. PMID:24374750</br>"	"TOPSPIN, version 2.1 or 3.0, was used for spectrometer control and data processing (Bruker Biospin). NMR spectra were manually phased and baseline corrected."	"Quantification of serum metabolites was achieved using Chenomx NMR-Suite v8.0 (Chenomx Inc.). Briefly, the Chenomx profiler is linked to a database (http://www.hmdb.ca) containing more than 250 metabolite NMR spectral signatures encoded at different spectrometer 1H frequencies, including 600 MHz. Comparison of the spectral data obtained for each serum sample with the Chenomx metabolite library results in a list of compounds together with their respective concentrations based on the known concentration of the added internal reference compound, TSP. Each spectrum was analyzed 3 times by 3 different operators. The concentration of the single metabolites, reported as average values with the relative standard deviations, is reported in table S1 in the paper associated with this study."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Palisi"
+Study Person First Name	"Angelica"
+Study Person Mid Initials	""
+Study Person Email	"apalisi@unisa.it"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"University of Salerno - Pharmacy Department"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

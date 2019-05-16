@@ -1,0 +1,132 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"BTO"	"CHMO"	"JERM"	"PLIO"	"BAO"	"UO"	"DOID"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/JERM"	"http://data.bioontology.org/ontologies/PLIO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/DOID"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"21"	"2"	"22"	"18"	"14"	"1"	"26"	"43"	"399"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"SysMO JERM Ontology of Systems Biology for Micro-Organisms"	"Protein-ligand interaction ontology"	"BioAssay Ontology"	"Units of Measurement Ontology"	"Human Disease Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS241"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS241"
+Study Title	"Isotopomer analysis of MCF-7 breast cancer cell line incubated with 13C labelled glucose (NMR assay)"
+Study Description	"MS and NMR are two of the most powerful spectroscopic techniques used in the field of fluxomics, to analyze the flux distributions in cellular metabolomic pathways. Both of them possess pros and cons, such as, MS being the most sensitive and low-cost technique, while needs extensive sample processing and providing incomplete labeling data, whereas NMR needs lesser sample preparation and provides more detailed labeling data, while being less sensitive and expensive. Since both techniques could be viewed as complementary to each other, combining their data could yield a detailed and complete information about a system under study. In this case, samples were generated from a single experiment and the same set of samples was used both in MS and 1D NMR to analyze the 13C label distributions in TCA cycle intermediates. The data generated from both methods were used with a simulation script that was developed to integrate the MS and NMR data. MCF-7 breast cancer cell line was used as an experimental model and it was incubated with 100% [1,2-13C]-glucose and 100% [U-13C]-glucose for 8 hours. The cells, before and after incubation with tracers, were frozen in liquid nitrogen and then later processed for extracting the TCA cycle intermediates. Same set of samples were separated for GC-MS and NMR based analysis and processed for the respective techniques. The isotopologue analysis was performed by GC-MS and the isotopomer analysis was performed by NMR and both sets of data were integrated with the simulation software. In this study there is the data for NMR analysis. This study contains the data for NMR analysis. </br></br> The GC-MS assay for this study can be found in the MetaboLights study MTBLS182.</br> <br/>Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS182' target='_blank'><span class='label label-success'>MTBLS182</span></a>"
+Study Submission Date	"2015-10-01"
+Study Public Release Date	"2018-03-13"
+Study File Name	"s_mtbls241.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"breast cancer"	"tracer-based metabolomics"	"isotopomer"	"Fluxomics"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/DOID_1612"	""	"http://www.semanticweb.org/ontologies/2010/3/Ontology1271664172453.owl#isotopomer"	"http://www.mygrid.org.uk/ontology/JERMOntology#Fluxomics"	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"DOID"	""	"PLIO"	"JERM"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28272839"
+Study Publication DOI	"10.1002/anie.201611634"
+Study Publication Author List	"Mei Chong, Anusha Jayaraman, Silvia Marin, Vitaly Selivanov, Pedro R. de Atauri Carulla, Daniel A. Tennant, Marta Cascante, Ulrich L. Günther and Christian Ludwig."
+Study Publication Title	"Combined NMR and MS analysis for tracer based metabolic flux experiments."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"tracer"
+Study Factor Type	"tracer"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_35204"
+Study Factor Type Term Source REF	"CHEBI"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls241_1D_NOESY_NMR_spectroscopy.txt"	"a_mtbls241_2D_HSQC_NMR_spectroscopy.txt"	"a_mtbls241_1D_NOESY_12C_NMR_spectroscopy.txt"	"a_mtbls241_1D_NOESY_12C_13C_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"MCF-7 cells were seeded (1,000,000 per p100 plate) and 6 ml of medium was used in each of them. In total 48 plates were seeded - 6 plates combined together for each replicate (as 1:5 ratio for GCMS:NMR). The medium used was basal medium DMEM (A14430, Invitrogen) with 10% dialyzed FBS (F0392, Sigma), 0.01 mg/ml Insulin (19278, Sigma), 1% Non-Essential Amino acids (01-340-1B, Biological Industries), 10 mM glucose (G8769, Sigma) and 4 mM Glutamine (25030-81, Life Technologies).
+</p>
+After 48 h of cell seeding, media was removed and plates were washed twice with PBS. 6 ml of fresh media containing tracers were added to each plate. The conditions used in this experiment were cold natural samples with [U-12C]-glucose (unlabeled glucose) (A), samples with tracer [U-13C6]-glucose (B) and samples with tracer [1,2-13C2]-glucose (C), amounting to 10 mM of glucose in each case. Time points of 0 h (before adding tracer) and 8 h (after tracers incubation) were maintained. 3 replicates for each condition at 8 h of tracers incubation (B and C) and 1 replicate for cold natural (A) at 8 h were obtained. In addition 3 plates were used for 0 h cell counting and another 3 for 8 h cell counting. 
+</p>
+After 8 h incubation, medium was removed and kept for biochemical concentration analysis. Plates were washed twice with cold PBS followed by snap-freezing using liquid nitrogen. Plates were kept under -80 ºC until their analysis.
+</p>
+The commercial glucose standard mixture used for validation consisted of 10 mM with the composition of [U-12C]-D-glucose (82%) + [1,2-13C]-D-glucose (10%) + [1-13C]-D-glucose (3%) + [1,6-13C]-D-glucose (5%)."	"6 plates incubated under the same condition were combined together for each replicate. Plates were processed in the following way. 1 ml of cold methanol (100% v/v) was added to one plate. 1 min later 1 ml of cold water was added to the same plate. The content of the plate was scraped and all the content was transferred to a second plate. The content of this plate was scraped and was transferred to a third plate. This process was followed with the 6 plates of the same replicate. After scraping the 6th plate, all the content was transferred to a glass tube, where 2 ml of cold chloroform was added. Tubes were vigorously agitated for 30 min at 4 ºC. After agitation, 1/6 part of the content of the tube was transferred to a separate tube. The tube containing the 1/6 part was used for GC/MS analysis and the tube containing the 5/6 part was used for NMR analysis.
+</p>
+Next, tubes were centrifuged and the upper phase containing the polar metabolites was transferred to a separate glass tube. The tubes containing the polar phase for NMR analysis were frozen at -80 °C until their analysis."	"For NMR analysis, extracts were reconstituted in 100mM sodium phosphate buffer (pH 7.0) containing 500µM TMSP (sodium 3-(trimethylsilyl) propionate-2,2,3,3-d4), 1.5 mM sodium azide and 10% D2O and transferred to a 1.7 mm tube in a Bruker SampleJet autosampler."	"Spectra were acquired on a Bruker Avance III 600 MHz NMR spectrometer with a 1.7 mm CPTCI z-PFG cryogenic probe at 300 K. The 1H carrier was on the water frequency and the 1H 90° pulse was calibrated at a power of 0.326 W."	"1D-NOSEY:</br>
+The standard Bruker pulse sequence noesygppr1d was used for a 1D NOESY with water pre-saturation. Key parameters were as follows: spectral width 12.15ppm/7288.6Hz; complex points, TD 32768; interscan delay, d1 4s; acquisition time, aq 4.50s ; short NOE mixing time, d8 10ms; number of scans, ns=128; dummy scans, ds=416.
+</p>
+Custom filtered 1D-NOESY:</br>
+Two spectra were acquired per sample using a yet unpublished quantitative filter pulse sequence, where one spectrum contains signals from all protons and the second spectrum only signals from protons directly attached to a 13C nucleus. NOESY pre-saturation was used for water suppression with a 10ms NOESY mixing time. Key parameters were as follows: spectral width 12.15ppm/7288.6Hz; complex points, TD 4096; interscan delay, d1 4s; acquisition time, aq 0.320s; number of scans, ns=128; dummy scans, ds=16.
+</p>
+2D-HSQC:</br>
+For the 13C-1H HSQCs, the pulse sequence used was based on the Bruker standard pulse program hsqcetgpsp which uses Echo/Antiecho-TPPI gradient selection, with additional gradient pulses to improve water suppression. Key parameters for the 1H observe dimension were: spectral width, 7812.5Hz/13.01ppm; complex points, TD 1024. For the 13C indirect dimension, the key parameters were as follows: the 13C carrier was set to 80ppm; complex points, 30% out of 16384 complex points (TD 4096) were sampled using exponentially weighted non-uniform sampling; spectral width 24 kHz/160.0ppm. With dummy scans, ds 8; number of scans per increment, ns 2; interscan delay, d1 1.5s; acquisition time, aq 0.32s."	"1D 1H-NMR spectra were apodised using 0.3 Hz line broadening before zero-filling the fid data to 131072 data points prior to Fourier transformation.
+</p>
+2D 13C-HSQC spectra were reconstructed via the compressed sensing algorithm using the MDDNMR and NMRpipe software. The final data size was 1024 x 16384 real data points in the spectra. A 90° phase shifted sine squared was used to apodize the data in both dimensions.
+</p>
+All NMR spectra were manually phase corrected. The 1D NMR spectra were baseline corrected using a spline function."	"Metabolites were identified using chemical shift information originally derived from HMDB."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jayaraman"	"de Atauri"	"Marin"	"Cascante"	"Ludwig"	"Chong"	"Gunther"	"Tennant"
+Study Person First Name	"Anusha"	"Pedro"	"Silvia"	"Marta"	"Christian"	"Mei"	"Ulrich"	"Daniel"
+Study Person Mid Initials	""	""	""	""	""	""	""	""
+Study Person Email	"anusha.jayaraman@ub.edu"	"pde_atauri@ub.edu"	"silviamarin@ub.edu"	"martacascante@ub.edu"	"C.Ludwig@bham.ac.uk"	"mei.chong@kcl.ac.uk"	"u.l.gunther@bham.ac.uk"	"D.Tennant@bham.ac.uk"
+Study Person Phone	"+34-934 021 217"	"+34-934 021 217"	"+34-934 021 217"	"+34-934 021 593"	"0121 414 8362"	"0121 414 8368"	"0121 414 8361"	"(0121) 4148651"
+Study Person Fax	"+34-934 021 559"	"+34-934 021 559"	"+34-934 021 559"	"+34-934 021 559"	""	""	""	""
+Study Person Address	"Av. Diagonal 643 Edifici Prevosti floor -2. 08028 Barcelona (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2. 08028 Barcelona (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2. 08028 Barcelona (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2. 08028 Barcelona (Spain)"	"College of Medical and Dental Sciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"	"College of Medical and Dental Sciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"	"College of Medical and Dental Sciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"	"College of Medical and Dental Sciences
+University of Birmingham
+Edgbaston
+Birmingham
+B15 2TT
+UK"
+Study Person Affiliation	"Universitat de Barcelona"	"Universitat de Barcelona"	"Universitat de Barcelona"	"Universitat de Barcelona"	"Institute of Metabolism and Systems Research"	"School of Cancer Sciences"	"School of Cancer Sciences"	"Institute of Metabolism and Systems Research"
+Study Person Roles	"main investigator of the project"	"technical advisor"	"technical advisor"	"principal investigator of the project"	"principal investigator of the project"	"main investigator of the project"	"principal investigator of the project"	"principal investigator of the project"
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""	""

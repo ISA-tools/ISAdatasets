@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BAO"	"BTO"	"NCBITAXON"	"CHMO"	"MESH"	"EFO"	"MS"	"NCIT"	"OBI"	"CHEBI"	"HP"	
+Term Source File	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/HP"	
+Term Source Version	"26"	"22"	"6"	"18"	"10"	"146"	"129"	"44"	"22"	"99"	"419"	
+Term Source Description	"BioAssay Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Medical Subject Headings"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Human Phenotype Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS737"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\Usuario\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS737"
+Study Title	"Metabolic Footprinting of a Clear Cell Renal Cell Carcinoma in vitro Model for Human Kidney Cancer Detection"
+Study Description	"A protocol for harvesting and extracting extracellular metabolites from an in vitro model of human renal cell lines was developed to profile the exometabolome by means of a discovery-based metabolomics approach using ultraperformance liquid chromatography coupled to quadrupole-time-of-flight mass spectrometry. Metabolic footprints provided by conditioned media (CM) samples (n=66) of two clear cell Renal Cell Carcinoma (ccRCC) cell lines with different genetic background and a non-tumor renal cell line, were compared with the human serum metabolic profile of a pilot cohort (n=10) comprised of stage IV ccRCC patients and healthy individuals. Using a cross-validated orthogonal projection to latent structures-discriminant analysis model, a panel of 21 discriminant features selected by iterative multivariate classification, allowed differentiating control from tumor cell lines with 100% specificity, sensitivity and accuracy. Isoleucine/leucine, phenylalanine, N-lactoyl-leucine, and N-acetyl-phenylalanine, and cysteinegluthatione disulfide (CYSSG) were identified by chemical standards, and hydroxyprolyl-valine was identified with MS and MS/MS experiments. A subset of 9 discriminant features, including the identified metabolites except for CYSSG, produced a fingerprint of classification value that enabled discerning ccRCC patients from healthy individuals. To our knowledge, this is the first time that N-lactoyl-leucine is associated to ccRCC. Results from this study provide a proof of concept that CM can be used as a serum proxy to obtain disease-related metabolic signatures."
+Study Submission Date	"2018-08-31"
+Study Public Release Date	"2018-11-14"
+Study File Name	"s_clear cell Renal Cell Carinoma.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Clear cell renal cell carcinoma"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/HP_0006770"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"HP"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"30260228"
+Study Publication DOI	"10.1021/acs.jproteome.8b00538"
+Study Publication Author List	"María Elena Knott, Malena Manzi, Nicolás Zabalegui, Mario O. Salazar, Lydia I. Puricelli, María Eugenia Monge"
+Study Publication Title	"Metabolic Footprinting of a Clear Cell Renal Cell Carcinoma in vitro Model for Human Kidney Cancer Detection"
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"tumor and non tumor renal cell line"	"clear cell renal cell carcinoma"	"Sample type"	"Cell line"
+Study Factor Type	"Cell Line"	"Clear cell renal cell carcinoma"	"Biospecimen Type"	"immortal cell line cell"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16403"	"http://purl.obolibrary.org/obo/HP_0006770"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70713"	"http://purl.obolibrary.org/obo/CL_0000002"
+Study Factor Type Term Source REF	"NCIT"	"HP"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_clear_cell_renal_cell_carinoma_metabolite_profiling_mass_spectrometry.txt"	"a_clear_cell_renal_cell_carinoma_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo G2S QTOF mass spectrometer (Waters Corp.)"	"Xevo G2S QTOF mass spectrometer (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample Collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample Collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Conditioned Media (CM) Collection. In each well of 9.5 cm2 area, 5×10^5, 1×10^5, and 1.25×10^5 cells were plated for HEK-293, 786-O, and Caki-1 cell lines, respectively. Once 80% confluence was reached, cells were gently washed 3 times during 10 mins with the corresponding culture media, without FBS. Then, cell monolayers were incubated overnight with 800 µl of their respective cell culture media without FBS (starving conditions). CM samples and culture media blanks were collected, centrifuged at 300 × g for 5 mins to remove cell debris, and finally supernatants were collected and immediately frozen at -80 ºC. Serum samples and associated clinical data were provided by the public oncologic serum biobank 'Biobanco Público de Muestras Séricas Oncológicas' (BPMSO) from 'Instituto de Oncología A. H. Roffo' (IOAHR), Buenos Aires, Argentina. </br></br>
+
+The patient cohort consisted of 5 healthy individuals (age range 40−64, mean (SD) age 56(9) years, 20% male) and 5 ccRCC patients at stage IV (SIV) (age range 53−72, mean age 64(6) years, 100% male). At the 0.05 level, the means of the age populations were not significantly different with the two-sample t-test. Blood samples were drawn from untreated cancer patients. Serum sample collection followed the guidelines approved by the IOAHR Institutional Review Board, and samples were drawn after signature of the corresponding informed consent. According to the BPMSO standard operating procedure, 20 ml of blood were collected in tubes without any anticoagulant, left 15 mins at 25 °C to allow the clot formation and centrifuged at 600 × g for 10 mins. Then, serum was split into aliquots and stored at -80 °C. Serum aliquots were used only once after thawing. 
+"	"All frozen samples were thawed at 0 ºC on a water-ice bath. Protein precipitation was performed by addition of cold (4 ºC) isopropanol to 500 µl of CM or 60 µl of serum samples, in a 3:1 solvent:sample volume ratio. Samples were vortex-mixed for 10 secs and centrifuged at 16000 × g for 20 mins and 4 ºC. Supernatants were frozen and lyophilized at -80 °C and 50 mTorr for 48 hrs using a Telstar LYOQuest-85 freeze dryer. Sample residues were reconstituted in water/methanol (80:20 v/v) with a concentration factor of 7 for CM samples, and 1 for serum samples. CM samples were analyzed along 5 consecutive days and serum samples were analyzed in one day, after conditioning the analytical platform.</br></br>
+QCs consisted of randomly pooled CM samples from the 3 cell lines studied and were processed in an identical approach as samples, i.e. a small aliquot of a subset of the CM samples were pooled into a single QC sample, followed by protein precipitation and further sample preparation steps. All CM samples were used to prepare QCs.</br></br> 
+Additionally, for serum samples, QA was verified with the periodical injection of a mix of standards comprised of acetaminophen, 2-acetaminophen, acetanilide, acetylsalicylic acid, caffeine, phenacetin and salicylic acid. 
+Solvent blanks were mixtures of water/wethanol (80:20 v/v). Sample preparation blanks contain ultrapure water instead of CM, and were processed in an identical approach as samples.
+
+"	"Ultraperformance liquid chromatography-mass spectrometry (UPLC-MS) was performed using a Waters ACQUITY UPLC I Class system fitted with a Waters ACQUITY UPLC BEH C18 column (2.1×100 mm, 1.7 μm particle size, Waters Corporation, Milford, MA, USA), coupled to a Xevo G2S QTOF mass spectrometer (Waters Corporation, Manchester, UK) with an electrospray ionization (ESI) source. Gradient elution was utilized in the chromatographic separation method using water with 0.1% acetic acid (mobile phase A) and acetonitrile (mobile phase B), with the following program: 0-1 min 10% B; 1-2.5 min 10-15% B; 2.5-4 min 15-22% B; 4-6 min 22-38% B; 6-9 min 38-65% B; 9-12 min 65-80% B; 12-16 min 80-100% B; 16-19 min 100% B. The flow rate was constant at 0.25 ml/min for 12 min and was increased to 0.30 ml/min between 12 and 19 min. After each sample injection, the gradient was returned to its initial conditions in 11 min. The injection volume was 5 μl for CM and 2 µl for serum samples."	"The mass spectrometer (Xevo G2S QTOF, Waters Corporation, Manchester, UK) was operated in negative ion mode with a probe capillary voltage of 2.3 kV, and a sampling cone voltage of 30.0 V. The source and desolvation gas temperatures were set to 120 and 300 °C, respectively. The nitrogen gas desolvation flow rate was 600 l/h, and the cone desolvation flow rate was 10 l/h. The mass spectrometer was daily calibrated before each batch analysis across the range of m/z 50-1200 using a 0.5 mM sodium formate solution prepared in isopropanol/water (90:10 v/v). Data were drift corrected during acquisition using a leucine enkephalin (m/z 554.2615) reference spray infused at 2 μl/min, every 45 seconds. Data were acquired in MSe continuum mode in the range of m/z 50-1200, and the scan time was set to 0.5 sec. Technical duplicates were acquired in all cases. 
+"	"Spectral features (retention time (RT), m/z pairs) were extracted from UPLC-QTOF-MS data using Progenesis QI version 2.1 (Nonlinear Dynamics, Waters Corp., Milford, MA, USA). The procedure included retention time alignment, peak picking, deisotoping, integration, and grouping together adducts derived from the same compound. Subsequently, if a feature had a peak area in a CM sample that was 3-fold or less than the mean peak area in the solvent and sample preparation blanks of the same feature, then its peak area was set to 0. Otherwise, the mean peak area in those blanks was subtracted from the feature peak areas in the CM samples. After blank subtraction, feature abundances from technical duplicates were averaged, and only those that were present in at least 80% of one group class were retained. Since Caki-1 cell lines were cultured with a different culture medium, only features from HEK-293 or 786-O were considered to build the feature matrix for multivariate statistical analysis to avoid influence of culture media on the detected exometabolome (cell secretome). Chromatographic peak shape and signal intensity of each feature was further evaluated for data curation. Features with signal intensity <1000 in the continuum mass spectra or with a mass difference larger than 10 mDa along the sample list were discarded. The feature matrix obtained after this procedure was normalized to the number of plated cells for each cell line and to the total peak area for each sample.</br>
+To evaluate the ccRCC in vitro exometabolome as a good proxy to study metabolic changes in serum, the 755 features of the CM matrix were searched in the feature matrix extracted from human serum sample analysis. A total of 163 features were found to be common to both CM and sera."	"Metabolite identification was attempted for the 23 discriminant features resulting from the GA variable selection process. Mass spectral adduct ions and elemental formula generated based on accurate masses and isotopic patterns, were searched against the Human Metabolome Database (HMDB). Based on the list of tentative candidates, metabolite identification was performed considering the accurate mass, isotopic pattern, and the fragmentation pattern obtained from tandem QTOF-MS experiments. Tandem MS spectra were compared to the Metlin database, and MassBank, and for cases where MS/MS spectra were not available in databases, fragmentation patterns were manually interpreted for metabolite annotation. Putative identifications were validated with chemical standards. Though Progenesis performed adduct grouping, the software did not account for NaCl adduct ions, which were evidenced by isotopic pattern analysis of the selected features. Out of the 23 features, 2 features were identified as different NaCl adduct ions of the same compound; i.e. different [M+xNaCl-H]- ionic species, and one of the features was identified as paraben, which is a non-endogenous metabolite. Chemical standards were prepared in ultrapure water, and were analyzed under identical conditions as CM to validate putative metabolite identities by chromatographic retention time and MS/MS fragmentation pattern matching. Spiking experiments were also conducted with the standards on CM and serum samples as well as on cultured media blanks, to address retention time differences caused by matrix effects."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Manzi"	"Monge"
+Study Person First Name	"Malena"	"Maria"
+Study Person Mid Initials	""	"E"
+Study Person Email	"manzimalena85@gmail.com"	"maria.monge@cibion.conicet.gov.ar "
+Study Person Phone	""	"+54 11 4899-5500"
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"CIBION-CONICET"	"CIBION-CONICET"
+Study Person Roles	"Postdoctoral Fellow"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

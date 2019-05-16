@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BTO"	"CHEBI"	"CHMO"	"EFO"	"EFO"	"NCBITAXON"	"OBI"	"MS"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"26"	"80"	"18"	"146"	"113"	"4"	"23"	"86"	"43"	
+Term Source Description	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Experimental Factor Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS526"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS526"
+Study Title	"Effects of coronatine elicitation on growth and metabolic profiles of Lemna paucicostata culture"
+Study Description	"In this study, the effects of coronatine treatment on the growth, comprehensive metabolic profiles, and productivity of bioactive compounds, including phenolics and phytosterols, in whole plant cultures of Lemna paucicostata were investigated using gas chromatography-mass spectrometry (GC-MS) coupled with multivariate statistical analysis. To determine the optimal timing of coronatine elicitation, coronatine was added on days 0, 23, and 28 after inoculation. The total growth of L. paucicostata was not significantly different between the coronatine treated groups and the control. The coronatine treatment in L. paucicostata induced increases in the content of hydroxycinnamic acids, such as caffeic acid, isoferulic acid, ρ-coumaric acid, sinapic acid, and phytosterols, such as campesterol and β-sitosterol. The productivity of these useful metabolites was highest when coronatine was added on day 0 and harvested on day 32. These results suggest that coronatine treatment on day 0 activates the phenolic and phytosterol biosynthetic pathways in L. paucicostata to a greater extent than in the control. To the best of our knowledge, this is the first report to investigate the effects of coronatine on the alteration of metabolism in L. paucicostata based on GC-MS profiling. The results of this research provide a foundation for designing strategies for enhanced production of useful metabolites for pharmaceutical and nutraceutical industries by cultivation of L. paucicostata."
+Study Submission Date	"2017-08-14"
+Study Public Release Date	"2017-10-01"
+Study File Name	"s_Lemna_coronatine.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"Coronatine"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHEBI_80730"	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	""	"CHEBI"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29099862"
+Study Publication DOI	"10.1371/journal.pone.0187622"
+Study Publication Author List	"Kim JY, Kim HY, Jeon JY, Kim DM, Zhou Y, Lee JS, Lee H, Choi HK."
+Study Publication Title	"Effects of coronatine elicitation on growth and metabolic profiles of Lemna paucicostata culture."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Coronatine treatment"	"Sampling time"
+Study Factor Type	"timepoint"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_lemna_coronatine_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The L. paucicostata (PC-10605) plants (synonym Lemna aequinoctialis[1]) were obtained from the Korean Collection for Type Cultures (KCTC) (Biological Resource Center, Jeongeup, Republic of Korea) and grown under conditions of 25 ± 1°C temperature, 81 μmol/m^2s light intensity, and 16-h light:8-h dark day length in an incubator (NEX-202M, EYELA, Nexus Technologies, Seoul, Republic of Korea). The whole L. paucicostata plants were cultured on solid 1/2MS1BA medium (20 ml) containing half-strength Murashige and Skoog’s basal medium[2] supplemented with 1 mg/l benzylaminopurine (BA), 30 g/l sucrose, and 6 g/l Gelrite (Duchefa Biochemie, Haarlem, The Netherlands) on once every 2 weeks. The pH was adjusted to 5.8 prior to autoclaving at 121 °C for 20 min. The liquid 1/2MS1BA medium was prepared as described above, but did not contain Gelrite. 30 of L. paucicostata fronds (length: 3.5 mm, width: 2.5 mm, thinkness < 0.09 mm per one frond) were transferred to Erlenmeyer flasks filled with 100 ml of liquid 1/2MS1BA medium.
+</p>
+30 L. paucicostata plants were inoculated into Erlenmeyer flasks containing 100 ml of liquid 1/2MS1BA medium and were treated with 1 μM coronatine on day 0, day 23 (mid exponential stage), and day 28 (early stationary stage). The coronatine treatment time points of day 23 and 28 were determined from preliminary experiments based on total plant growth of L. paucicostata including meristem region and differentiated tissues (see Fig S1 in the paper associated with this study). The experiments were performed in 4 replicates. The plants, sampled at day 27 and 32, were freeze-dried using a freeze-drier (Bondiro, Ilshin Lab. Co., Ltd., Seoul, Republic of Korea) for 48 h and used for further analysis.
+</p>
+The number of the fronds was counted on days 0, 7, 14, 21, 27, 28, and 32, and the dry weight of the L. paucicostata cultivated in the presence of 1 μM coronatine was measured after harvesting on day at 27 and 32. After filtering through Whatman No. 4 filter paper (Whatman, Kent, UK), and washing with distilled water, the dry weights were measured after 48 h of freeze drying.
+</p>
+Ref:</br>
+[1] Gupta, A.K. 2013. Lemna aequinoctialis. The IUCN Red List of Threatened Species 2013; e.T164404A5855539. doi:10.2305/IUCN.UK.2011-1.RLTS.T164404A5855539.en</br>
+[2] Murashige T, Skoog F. A revised medium for rapid growth and bio assays with tobacco tissue cultures. Physiol Plant. 1962;15: 473–497. doi:10.1111/j.1399-3054.1962.tb08052.x</br>"	"20 mg of each L. paucicostata sample treated with 1 μM coronatine was separately weighed, transferred into microfuge tubes (Axygen, Union City, CA, USA), and subjected to extraction with 1 ml of methanol (HPLC grade, Burdick & Jackson, Musketon, MI, USA). The samples were vortexed for 40 s and sonicated for 30 min. After sonication, the supernatants were collected separately from each sample and filtered through 0.45-μm polytetrafluoroethylene (PTFE) syringe filters (Membrane Solution, Plano, TX, USA). 200 μl of each L. paucicostata plant sample was transferred into GC vials and dried with nitrogen gas for 5 min.
+</p>
+For derivatization, 30 μl of 20,000 μg/ml methoxylamine hydrochloride in pyridine, 50 μl of BSTFA (N,O-bis (trimethylsilyl) trifluoroacetamide; Alfa Aesar, Ward Hill, MA, USA) containing 1% trimethylchlorosilane, and 10 μl of 3000 μg/ml myristic acid-d27 (Tokyo Chemical Industry Co., Ltd.) in pyridine used as an internal standard (IS), were added to the dried samples. The samples were incubated in a 65 °C water bath for 60 min and analyzed by GC—MS."	"The L. paucicostata plant samples were analyzed using an Agilent gas chromatography system (GC—MS, 7890A, Agilent Technologies, CA, USA) equipped with a model 5975C mass selective detector, a model 7683B series autosampler, a split/splitless injector, an injection module, and ChemStation software. The inlet temperature of GC was set to 250 °C, and had an injection volume of 1.0 μl and a split ratio of 1:10. Helium was used as the carrier gas at a constant-flow rate of 1.0 ml/min. A DB-5 MS column (Agilent Technologies) with 30 m x 0.25 mm I.D. x 0.25 μm df dimensions was used in the analysis. The initial oven temperature was set at 60 °C and then ramped up to 310 °C at 5 °C/min. The total run time was 50 min."	"Mass spectra were collected using an Agilent 5975C MSD. The detector voltage was set to 1553 V, and the auxiliary, MS source, and MS quadrupole temperatures were set to 280, 230, and 150 °C, respectively. The mass range was set between 50 and 600 Da."	"For relative quantification of metabolites, GC-MS spectrum data were processed using Expressionist® MSX software (version 2013.0.39, Genedata, Basel, Switzerland), and a list of molecular features [retention time, intensity, and mass-to-charge ratio (m/z)] was obtained for each chromatogram. The normalization was then performed by dividing the intensity of each compound with that of the IS for relative quantification of the metabolites in each sample. Statistical analysis was performed by SPSS Statistics 23 software (IBM, Somers, NY, USA). Mann-Whitney test was employed to assess 2 independent groups (between groups of L. paucicostata under control and coronatine treatment at day 0). Comparisons of relative levels of comprehensive metabolites in 3 groups [control and the samples taken at day 27 (or day 32) after coronatine treatment at day 0, and day 23 (or day 28)] was assessed by the Kruskal-Wallis test, followed by Mann-Whitney test as post hoc analysis with Bonferroni’s correction."	"The identification of metabolites in each sample was performed using the National Institute of Standards and Technology (NIST) mass spectral search program, and a match quality greater than 70% was used as the criterion for peak assignment. Additionally, the Human Metabolome Database (HMDB; http://www.hmdb.ca/) and Golm Metabolome Database (GMD; gmd.mpimp-golm.mpg.de/) were also used to identify the metabolites by comparison with the data."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kim"	"Kim"	"Jeon"	"Lee"	"Choi"
+Study Person First Name	"Jin-Young"	"Hye-Youn"	"Jun-Yeong"	"Heayyean"	"Hyung-Kyoon"
+Study Person Mid Initials	""	""	""	""	""
+Study Person Email	"0703kjy@naver.com"	"khyoun412@naver.com"	"junyeonga@nate.com"	"hyeonlee38@gmail.com"	"hykychoi@cau.ac.kr"
+Study Person Phone	"+8210-9467-7337"	"+8210-9482-1112"	"+8210-4153-5629"	"+8210-2495-5980"	"+8210-7181-7922"
+Study Person Fax	""	""	""	""	""
+Study Person Address	"603, R&D center, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea"	"603, R&D center, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea"	"603, R&D center, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea"	"603, R&D center, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea"	"603, R&D center, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea"
+Study Person Affiliation	"College of Pharmacy, Chung-Ang University"	"College of Pharmacy, Chung-Ang University"	"College of Pharmacy, Chung-Ang University"	"College of Pharmacy, Chung-Ang University"	"College of Pharmacy, Chung-Ang University"
+Study Person Roles	"Principal investigator"	"Writing paper"	"conducting analysis"	"research associate"	"Corresponding author"
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

@@ -1,0 +1,117 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CSEO"	"MS"	"CHMO"	"HINO"	"NCBITAXON"	"NCIT"	"UO"	"CHEBI"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/HINO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"2"	"86"	"18"	"6"	"6"	"44"	"43"	"99"	"113"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Cigarette Smoke Exposure Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Human Interaction Network Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS360"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS360"
+Study Title	"Metabolomics and lipidomics reveal perturbation of sphingolipid metabolism by a novel anti-trypanosomal 3-(oxazolo[4,5-b]pyridine-2-yl)anilide"
+Study Description	"Trypanosoma brucei is the causative agent of human African trypanosomiasis, which is responsible for thousands of deaths every year. Current therapies are limited and there is an urgent need to develop new drugs. The anti-trypanosomal compound, 3-(oxazolo[4,5-b]pyridine-2-yl)anilide (OXPA), was initially identified in a phenotypic screen and subsequently optimized by structure–activity directed medicinal chemistry. It has been shown to be non-toxic and to be active against a number of trypanosomatid parasites. However, nothing is known about its mechanism of action."
+Study Submission Date	"2016-07-06"
+Study Public Release Date	"2016-07-13"
+Study File Name	"s_MTBLS360.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"human african trypanosomiasis"	"Lipidomics"	"Sphingolipid metabolism"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0005225"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/HINO_0014572"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"EFO"	"CSEO"	"HINO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1062-1"
+Study Publication Author List	"Daniel Stoessel, Cameron J. Nowell, Amy J. Jones, Lori Ferrins, Katherine M. Ellis, Raphael Rahmani, Malcolm J. McConville, Vicky M. Avery, Jonathan B. Baell and Darren J. Creek"
+Study Publication Title	"Metabolomics and lipidomics reveal perturbation of sphingolipid metabolism by a novel anti-trypanosomal 3-(oxazolo[4,5-b]pyridine-2-yl)anilide "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Compound "	"Time post exposure "
+Study Factor Type	"Group"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls360_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"T.b. brucei bloodstream forms were cultured in Creeks minimal media (CMM) containing additional 100 lM hypoxanthine[1] and 5 ml cultures maintained in a 25 ml vented flask (Corning) at 37 °C with 10% CO2. The cultures were grown to a maximum density of 2 x 10^6 cells/ml and sub-cultured every 2 or 3 days. Cell density was measured with a Neubauer hemocytometer. Growth curves were obtained in the presence of 5 times the IC50 concentration of OXPA (0.85 µM) to confirm that this is a sub-lethal concentration for 5 h treatment[1].
+</p>
+For metabolomics and lipidomics studies, a confluent cell culture was sub-cultured into fresh medium at 1 x 10^5 cells/ml, and OXPA (0.85 µM) or 4 µl DMSO (vehicle control) was added to flasks when cell density reached approximately 8 x 10^5 cells/ml. Cultures were further incubated for 5 h (cell density reached 1 x 10^6 cells/ml) and samples, including the controls, were quenched and extracted. 4 independent biological replicates were prepared on separate days.
+</p>
+Ref:</br>
+[1] Creek, D. J., Nijagal, B., Kim, D.-H., Rojas, F., Matthews, K. R., & Barrett, M. P. (2013). Metabolomics guides rational development of a simplified cell culture medium for drug screening against Trypanosoma brucei. Antimicrobial Agents and Chemotherapy, 57(6), 2768–2779. doi:10.1128/aac.00044-13. PMID:23571546</br>"	"Parasites were metabolically quenched and extracted as previously described[1][2]. A volume of 40 ml of cell culture was quenched by rapid cooling to 4 °C in a dry ice ethanol bath. Cell pellets were obtained by centrifugation at 1250 x g for 10 min. The cell pellet was washed in 1 ml of phosphate-buffered-saline. The washed pellet, containing 4 x 10^7 cells was extracted with 100 µl chloroform:methanol:water (1:3:1 v/v) with periodic sonication and mixing for 1 h at 4 °C followed by centrifugation to remove the precipitate. The resulting metabolite solution was stored at -80 °C until analysis by liquid chromatography-mass spectrometry.
+</p>
+Ref:</br>
+[1] Creek, D. J., Nijagal, B., Kim, D.-H., Rojas, F., Matthews, K. R., & Barrett, M. P. (2013). Metabolomics guides rational development of a simplified cell culture medium for drug screening against Trypanosoma brucei. Antimicrobial Agents and Chemotherapy, 57(6), 2768–2779. doi:10.1128/aac.00044-13. PMID:23571546</br>
+[2] Creek, D. J., Jankevics, A., Breitling, R., Watson, D. G., Barrett, M. P., & Burgess, K. E. V. (2011). Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: Improved metabolite identification by retention time prediction. Analytical Chemistry, 83(22), 8703–8710. doi:10.1021/ac2021823. PMID:21928819</br>"	"Liquid chromatography-mass spectrometry was performed with a Dionex Ultimate 3000 UHPLC system (Thermo Fisher Scientific) and high resolution mass spectrometry (Q-Exactive Orbitrap; Thermo Fisher scientific), coupled to a FAMOS autosampler. Chromatography was performed using a ZIC-HILIC 150 mm x 4.6 mm, 5 µm column (Merck Sequant) with ammonium carbonate and acetonitrile in the mobile phase[1]. Parameters for the HPLC analysis were applied as previously described[2]. Briefly, the flow rate was 300 µl/min, column temperature 20 °C, injection volume 10 µl, and samples were maintained at 4 °C.
+</p>
+Ref:</br>
+[1] Creek, D. J., Nijagal, B., Kim, D.-H., Rojas, F., Matthews, K. R., & Barrett, M. P. (2013). Metabolomics guides rational development of a simplified cell culture medium for drug screening against Trypanosoma brucei. Antimicrobial Agents and Chemotherapy, 57(6), 2768–2779. doi:10.1128/aac.00044-13. PMID:23571546</br>
+[2] Creek, D. J., Jankevics, A., Breitling, R., Watson, D. G., Barrett, M. P., & Burgess, K. E. V. (2011). Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: Improved metabolite identification by retention time prediction. Analytical Chemistry, 83(22), 8703–8710. doi:10.1021/ac2021823. PMID:21928819</br>"	"The Q-Exactive Orbitrap mass spectrometer was operated in both positive and negative ion mode. Parameters for the MS analysis were applied as previously described[1]. Briefly, the spectrometer was operated in polarity switching mode, with the following settings: resolution 50,000, AGC 1 x 10^6, m/z range 70–1400, sheath gas 40, auxiliary gas 20, sweep gas 1, probe temperature 275 °C, and capillary temperature 250 °C. For positive mode ionization: source voltage +4 kV, capillary voltage +50 V, tube voltage +70 V, skimmer voltage +20 V. For negative mode ionization: source voltage -3.5 kV, capillary voltage -50 V, tube voltage -70 V, skimmer voltage -20 V. Mass calibration was performed for each polarity immediately before each analysis batch, within 48 hr for all samples.
+</p>
+Ref:</br>
+[1] Creek, D. J., Jankevics, A., Breitling, R., Watson, D. G., Barrett, M. P., & Burgess, K. E. V. (2011). Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: Improved metabolite identification by retention time prediction. Analytical Chemistry, 83(22), 8703–8710. doi:10.1021/ac2021823. PMID:21928819</br>"	"Raw LC–MS data were processed with a combination of XCMS Centwave for peak picking (http://metlin.scripps.edu/xcms/) and mzMatch for alignment and annotation of related peaks (http://mzmatch.sourceforge.net/)."	"Metabolomics data analysis was performed with the freely available software packages mzMatch and IDEOM (http://mzmatch.sourceforge.net/ideom.php) as previously described[1]. Briefly, metabolite mixes containing 226 authentic metabolites were used to verify retention times and aid metabolite identification. Identification with those standards leads to a high confidence identification (MSI level 1) and these metabolites are highlighted yellow in the supplementary IDEOM file. Putative identification of all other
+metabolites was carried out by exact mass and predicted retention times from all metabolites from KEGG, Lipidmaps and MetaCyc databases[2]. Metadata supporting the putative identification of each metabolite, and the associated metabolite identifiers are available in the supplementary
+IDEOM files which can be viewed in Excel. Relative quantification for the analysis is based on mean peak height and statistical analysis used unpaired Welch’s T test. The data was not normalized, and signal reproducibilitywas ensured by the analysis of four spiked internal standards (CHAPS, TRIS, PIPES andCAPS), total ion current chromatograms (TIC) and median peak heights. Identified metabolites were filtered to ensure a maximum relative standard deviation (RSD) of 50% in the technical replicates of the pooled samples for the metabolomics study, and maximum RSD of 30% for the lipidomics study. Blank extraction buffer was analysed to identify and remove contaminating chemical species and sample carryover.
+</p>
+Ref:</br>
+[1] Trochine, A., Creek, D. J., Faral-Tello, P., Barrett, M. P., & Robello, C. (2014). Benznidazole biotransformation and multiple targets in Trypanosoma cruzi revealed by metabolomics. PLoS Neglected Tropical Diseases, 8(5), e2844. doi:10.1371/journal.pntd.0002844. PMID:24853684</br>
+[2] Creek, D. J., Jankevics, A., Breitling, R., Watson, D. G., Barrett, M. P., & Burgess, K. E. V. (2011). Toward global metabolomics analysis with hydrophilic interaction liquid chromatography-mass spectrometry: Improved metabolite identification by retention time prediction. Analytical Chemistry, 83(22), 8703–8710. doi:10.1021/ac2021823. PMID:21928819</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Creek"
+Study Person First Name	"Darren"
+Study Person Mid Initials	"J"
+Study Person Email	"darren.creek@monash.edu"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

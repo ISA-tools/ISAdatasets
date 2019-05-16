@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NIFSTD"	"NCBITAXON"	"NCIT"	"CHEBI"	"CHMO"	"OBI"	"EFO"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"17"	"2"	"49"	"80"	"18"	"22"	"163"	"43"	"29"	
+Term Source Description	"Neuroscience Information Framework (NIF) Standard Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS541"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS541"
+Study Title	"Effects of hypoxic preconditioning on neuroblastoma tumour oxygenation and metabolic signature in a chick embryo model."
+Study Description	"Hypoxia episodes and areas in tumours have been associated with metastatic dissemination and poor prognosis. Given the link between tumour tissue oxygen levels and cellular metabolic activity, we hypothesised that the metabolic profile between metastatic and non-metastatic tumours would reveal potential new biomarkers and signalling cues. We have used a previously established chick embryo model for neuroblastoma growth and metastasis, where the metastatic phenotype can be controlled by neuroblastoma cell hypoxic preconditioning (3 days at 1% O2). We measured, with fibre-optic oxygen sensors, the effects of the hypoxic preconditioning on the tumour oxygenation, within tumours formed by SK-N-AS cells on the chorioallantoic membrane of chick embryos. We found that the difference between the metastatic and non-metastatic intra-tumoural oxygen levels was small (0.35% O2), with a mean below 1.5% O2 for most tumours. The metabolomic profiling, using NMR spectroscopy, of neuroblastom a cells cultured in normoxia or hypoxia for 3 days and of the tumours formed by these cells showed that the effects of hypoxia in vitro did not compare to in vivo tumours. One notable difference was the high levels of the glycolytic end-products triggered by hypoxia in vitro, but not by hypoxia preconditioning in tumours, likely due to the very high basal levels of these metabolites in tumours compared to cells. In conclusion, we have identified high levels of ketones (3-hydroxybutyrate), lactate, and phospho-choline in hypoxic preconditioned tumours, all known to fuel tumour growth, and we herein point to the poor relevance of in vitro metabolomic experiments for cancer research."
+Study Submission Date	"2017-09-23"
+Study Public Release Date	"2018-08-01"
+Study File Name	"s_mtbls541.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Hypoxia"	"cellular response to hypoxia"	"Tumor Mass"	"cell culture"	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3890"	"http://purl.obolibrary.org/obo/GO_0071456"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98275"	"http://purl.obolibrary.org/obo/BTO_0000214"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"NCIT"	"NIFSTD"	"NCIT"	"EFO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30026261"
+Study Publication DOI	"10.1042/BSR20180185"
+Study Publication Author List	"Al-Mutawa Y., Herrmann A., Corbishley C., Losty P., Phelan M.M. and See, V"
+Study Publication Title	"Effects of hypoxic preconditioning on neuroblastoma tumour oxygenation and metabolic signature in a chick embryo model."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Oxygen Level"	"Cell or Tumour"
+Study Factor Type	"Hypoxia"	"neoplasm"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3890"	"http://www.ebi.ac.uk/efo/EFO_0000616"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls541_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"SK-N-AS cells (ECACC No. 94092302) were cultured in Minimum Essential Medium supplemented with 10% (v/v) foetal calf serum (FCS) and 1% (v/v) non-essential amino acids (all Thermo Fisher Scientific). Cells were maintained in a humidified incubator at 37 °C, 5% CO2. For preconditioning, cells were incubated for 3 days in either 21% O2 (normoxia) or 1% O2 (hypoxia) in a hypoxic workstation (Don Whitley Hypoxic Workstation, England).
+</p>
+Tumours:</br>
+Cells were then used to implant onto the chorioallantoic membrane (CAM). Tumour growth continued for 3 days after implanton the CAM of chick embryos at embryonic day 7 (E7). At E14, intratumoural oxygen tension was measured. On E14, the tumours were dissected from the CAM followed by a PBS wash, stored in an Eppendorf tube, and immediately frozen in liquid Nitrogen. Samples were stored in -80 °C until acetonitrile:water extraction.
+</p>
+Cells:</br>
+SK-N-AS cells were incubated in either 21% or 1% O2 for 3 days. Cells were harvested by a 2 ml PBS wash, trypsinisation and suspension in 5ml media. In order to remove the residual culture media cells were gently washed in PBS by repeated cycles of centrifugation and supernatant discard."	"An ice-cold solution of 50% high performance liquid chromatography-grade acetonitrile and 50% double distilled water was added to the samples without any further washing: 400 µl for cells and 1.2 ml to tumours. Tumours were subsequently divided into technical triplicates following sonication. Samples were sonicated (MSE UK Soniprep 150 Plus Ultrasonic Disintegrator) for 3 x 30 s cycles at 10 kHz using a microtip probe. The lysed samples were vortexed (30 s) followed by centrifugation (5 min. at 21,500 x g; 4 °C) to remove cell debris and the supernatants snap frozen in liquid nitrogen for lyophilisation (Thermo-Scientific) overnight. Due to the greater heterogeneity in tumour consistency, in order to clarify the supernatant from the fatty components of the tumour cell debris the tumour samples were centrifuged and supernatant transferred to new eppendorf tubes twice prior to freezing in liquid nitrogen and lyophilisation. Samples were stored in -80 °C."	"200 µl of a solution comprising of: 89.8% 2H2O, 10% (v/v) 1 mM sodium phosphate (pH 7.4), 0.1% (v/v) 100 mM selectively deuterated (d4) trimethyl silyl propionate (TSP), and 0.1% (v/v) 1.2 mM sodium azide, was added per sample. Samples were vortexed for 1 min followed by 2 min of centrifugation (20 °C, 12,000 x g). The supernatant was pipetted into 3 mm NMR tubes and arranged in an NMR tube rack."	"1D 1H NMR spectra were acquired on a Bruker Avance III HD 700 MHz spectrometer equipped with a 5 mm TCI cryoprobe at pH 7.4 and 25 °C."	"1D 1H standard CPMG-type metabolomics experiment with optimal water suppression was acquired with the cpmgpr1d filters for small molecules via a Carr-Purcell-Meiboom-Gill (CPMG) sequence. Spectra were acquired with 256 transients a 15 ppm spectral width, 32k points, 9.6 ms echo time, a 3.1 s acquisition time, and a 4 s interscan delay."	"Automated data processing, Fourier transformation, and phasing were carried out in Topspin v3.2 software using standard Bruker routines. The spectra were then normalised to TSP reference signal and bucketed per peak into a matrix of metabolite peak intensities using AMIX v3.9.14."	"Chenomx v8.2 software used for initial metabolite identification with manual confirmation to in-house standards for metabolite peaks found to be significantly variable. 
+</p>
+Statistical test:</br>
+The prepared bucket table was subjected to univariate and multivariate analysis. Student T-test were applied on the spectra after determining the data were parametric using ggplot function in R. Unsupervised multivariate analysis of the spectra was carried after out using Principal Component Analysis (PCA). The data was scaled by mean centering of each variable followed by division of the square root of the standard deviation (Pareto scaling) before analysis. The PCA reduced the 300 spectral buckets of each sample to X principal components (PCs) in cells, Y PCs in tumours and Z PCs in the combined analysis (explaining 95% or the variance in each analysis). The loadings of each PCA were analysed to identify the most influential buckets (and thus metabolites) responsible for the clustering observed."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Al-Mutawa"	"Phelan"	"See"
+Study Person First Name	"Yousef"	"Marie"	"Violaine"
+Study Person Mid Initials	"K"	"M"	""
+Study Person Email	"almutawa91@gmail.com"	"mphelan@liverpool.ac.uk"	"Violaine@liverpool.ac.uk"
+Study Person Phone	""	"+44 151 795 4398"	"+44 151 795 4598"
+Study Person Fax	""	""	""
+Study Person Address	"Biosciences Building, Crown Street, L69 7ZB, UK"	"NMR Centre for Structural Biology, Crown Street, L69 7ZB, UK"	"Biosciences Building, Crown Street, L69 7ZB, UK"
+Study Person Affiliation	"Institute of Integrative Biology"	"Technology Directorate, University of Liverpool"	"Institute of Integrative Biology"
+Study Person Roles	"Responsible Scientist"	"Responsible Scientist"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

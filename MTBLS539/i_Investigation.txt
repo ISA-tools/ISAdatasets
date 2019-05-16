@@ -1,0 +1,124 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"SNOMEDCT"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"NCIT"	"OBI"	"HINO"	"CHEBI"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/SNOMEDCT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/HINO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"11"	"18"	"6"	"146"	"129"	"44"	"22"	"6"	"99"	"43"	"29"	
+Term Source Description	"Systematized Nomenclature of Medicine - Clinical Terms"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Human Interaction Network Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS539"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\mwilliam\Google Drive\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS539"
+Study Title	"Myocardial metabolic alterations in mice with diet-induced atherosclerosis: linking sulfur amino acid and lipid metabolism."
+Study Description	"Atherosclerosis is a leading cause of cardiovascular disease (CVD), but the effect of diet on the atherosclerotic heart's metabolism is unclear. We used an integrated metabolomics and lipidomics approach to evaluate metabolic perturbations in heart and serum from mice fed an atherogenic diet (AD) for 8, 16, and 25 weeks. Nuclear magnetic resonance (NMR)-based metabolomics revealed significant changes in sulfur amino acid (SAA) and lipid metabolism in heart from AD mice compared with heart from normal diet mice. Higher SAA levels in AD mice were quantitatively verified using liquid chromatography-mass spectrometry (LC/MS). Lipidomic profiling revealed that fatty acid and triglyceride (TG) levels in the AD group were altered depending on the degree of unsaturation. Additionally, levels of SCD1, SREBP-1, and PPARγ were reduced in AD mice after 25 weeks, while levels of reactive oxygen species were elevated. The results suggest that a long-term AD leads to SAA metabolism dysregulation and increased oxidative stress in the heart, causing SCD1 activity suppression and accumulation of toxic TGs with a low degree of unsaturation. These findings demonstrate that the SAA metabolic pathway is a promising therapeutic target for CVD treatment and that metabolomics can be used to investigate the metabolic signature of atherosclerosis."
+Study Submission Date	"2017-09-13"
+Study Public Release Date	"2018-03-12"
+Study File Name	"s_mtbls539.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"atherosclerosis"	"Lipidomics"	"untargeted metabolites"	"Myocardial metabolism"	"Sulfur amino acid metabolism"	"nuclear magnetic resonance spectroscopy"	"magic angle spinning nuclear magnetic resonance spectroscopy"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0003914"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193"	""	"http://purl.bioontology.org/ontology/SNOMEDCT/251058001"	"http://purl.obolibrary.org/obo/HINO_0016311"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/CHMO_0000615"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""
+Study Design Type Term Source REF	"EFO"	"NCIT"	""	"SNOMEDCT"	"HINO"	"CHMO"	"CHMO"	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29051579"
+Study Publication DOI	"10.1038/s41598-017-13991-z"
+Study Publication Author List	"Lee J, Jung S, Kim N, Shin MJ, Ryu DH, Hwang GS."
+Study Publication Title	"Myocardial metabolic alterations in mice with diet-induced atherosclerosis: linking sulfur amino acid and lipid metabolism."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diet"	"Time post exposure"
+Study Factor Type	"diet"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls539_POS_mass_spectrometry.txt"	"a_mtbls539_NEG_mass_spectrometry.txt"	"a_mtbls539_1D_NMR_spectroscopy.txt"	"a_mtbls539_MAS_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""	""	""
+Study Protocol Description	"5-week-old male C57BL/6J mice were housed 2 per cage under a constant temperature of 18–24 °C and a relative humidity of 50–60%. After a 7-day adaptation period, the mice were randomly divided into normal diet (ND) (n = 38) and atherogenic diet (AD) (n = 36) groups. Based on the AIN-76 diet, the AD was modified by the addition of 1.25% (w/w) cholesterol and 0.5% cholate (w/w)[1]. Table S2 in the paper associated with this study, lists the complete diet composition. All animals were allowed access to water and feed ad libitum. Body weight was measured once per week. After 8, 16, and 25 weeks of feeding, animals were fasted for 12 h and euthanized to collect sera and hearts, which were stored at −80 °C until use. At least 10 mice (n = 10–13) were included in each group. Heart weight was measured immediately after sacrifice. All studies were performed in accordance with the protocols for animal studies approved by the Committee on Animal Experimentation and Ethics of Korea University (KUIACUC-2013-236).
+</p>
+Ref:</br>
+[1] Getz GS and Reardon CA. Diet and murine atherosclerosis. Arterioscler Thromb Vasc Biol. 2006 Feb;26(2):242-9. doi:10.1161/01.ATV.0000201071.49029.17. PMID:16373607</br>"	"To determine concentration of sulfur amino acids, previously used methods were modified and adopted[1][2]. In brief, to extract heart metabolites, 20 mg heart were transferred to each 1.5 ml microcentrifuge tube. 500 µl of 50% aqueous methanol (v/v) containing 0.1% formic acid and 0.05% trifluoroacetic acid were added and vigorously mixed for 30 s. Homogenization with 2.8 mm zirconium oxide beads was performed at 5000 rpm twice using a Precellys 24 tissue grinder (Bertin Technologies, France). 250 µl of chloroform was added to each sample tube and mixed for 30 s. After this, the sample solution was incubated at 4 °C for 10 min and centrifuged at 4 °C and 13,000 rpm for 10 min. The solution under pellet was transferred to a 1.5-ml Eppendorf tube for lipidomic analysis of heart. Lipid extract of heart tissues was evaporated under a stream of nitrogen, diluted with an isopropanol:acetonitrile:water mixture (2:1:1, v/v/v), and transferred into vials after centrifugation for 10 min at 13,000 x g and 4 °C.
+</p>
+Ref:</br>
+[1] Stevens AP, Dettmer K, Kirovski G, Samejima K, Hellerbrand C, Bosserhoff AK, Oefner PJ. Quantification of intermediates of the methionine and polyamine metabolism by liquid chromatography-tandem mass spectrometry in cultured tumor cells and liver biopsies. J Chromatogr A. 2010 May 7;1217(19):3282-8. doi:10.1016/j.chroma.2010.01.025. PMID:20117790</br>
+[2] van Liempd S, Cabrera D, Mato JM, Falcon-Perez JM. A fast method for the quantitation of key metabolites of the methionine pathway in liver tissue by high-resolution mass spectrometry and hydrophilic interaction ultra-performance liquid chromatography. Anal Bioanal Chem. 2013 Jun;405(15):5301-10. doi:10.1007/s00216-013-6883-4. PMID:23535742</br>"	"1D-NMR:</br>
+For serum samples, 90 μl of serum was mixed with 510 μl of saline solution (0.9% w/v sodium chloride in deuterium oxide) and transferred to 5-mm NMR tubes.
+</p>
+MAS-NMR:</br>
+For heart tissues, 10-12 mg of each sample was transferred into a disposable insert tube. The residual space in the tube was filled with deuterium oxide (99.9 atom %D). After this, the disposable insert tube was inserted into a zirconium HR-MAS rotor (4 mm outer diameter). The samples were maintained in a refrigerated tray at -20 ˚C before the analysis."	"1D-NMR:</br>
+One-dimensional 1H NMR spectra of serum were acquired at 298 K on a Bruker Avance III HD 800 MHz NMR spectrometer (Bruker BioSpin, Germany) with a Bruker 5 mm CPTCI Z-GRD probe.
+</p>
+MAS-NMR:</br>
+All HR-MAS 1H NMR spectra of heart sample were acquired on a Bruker Avance III 700 MHz NMR spectrometer (Bruker BioSpin, Germany) with a Bruker 4 mm TXI HR-MAS probe with z-gradients at 278 K and a spinning rate of 6 kHz."	"1D-NMR:</br>
+The water-suppressed CPMG spin-echo pulse sequence (RD-90˚-[τ-180˚-τ]n-ACQ) was used to attenuate broad signals from proteins and lipoproteins with total T2 filter time of 32 ms. For all spectra of each serum sample, 128 transients were acquired with 64k data points, a spectral width of 16,025.641 Hz, and the relaxation delay of 4 s, and acquisition time of 2.045 s.
+</p>
+MAS-NMR:</br>
+The water-suppressed CPMG spin-echo pulse sequence (RD-90˚-[τ-180˚-τ]n-ACQ) was used to attenuate broad signals from proteins and lipoproteins with total T2 filter time of 37.8 ms. For all spectra of each heart sample, 128 transients were acquired with 32k data points, a spectral width of 14,097.744 Hz, and the relaxation delay of 4 s, and acquisition time of 1.162 s."	"LC separations were carried out on an Acquity UPLC BEH C18 column (100 x 2.1 mm, particle size 1.7 µm, Waters, USA). Colum temperature and flow rate were set to 35 °C and 0.35 ml/min, respectively. The mobile phases used were 10 mM ammonium acetate in an acetonitrile:water mixture (40:60, v/v) (A) and acetonitrile:isopropanol mixture (10:90, v/v) (B). The linear gradients were as follows: 40–65% B for 5 min, 65-70% B for 7 min, 70-99% B for 3 min, 99% B for 2 min, 40% B for 3 min. The injection volume of the sample was 5 μl using partial loop mode for both positive and negative ionization polarity modes. Quality control (QC) samples, pooling identical aliquots of the samples, were measured regularly throughout the run for data reproducibility."	"To obtain MS spectral data, LC-ESI-MS/MS analyses of lipid extracts were performed on a triple TOF 5600 MS/MS System (AB Sciex, Canada) combined with a UPLC system (Waters, USA)."	"LC-MS/MS:</br>
+The spectral data were analyzed by MarkerView (AB Sciex, Canada), which was used to find peaks, perform the alignment, and generate peak tables of m/z and retention times (min). Spectra were normalized to the median fold-change normalization. To identify reliable peaks and remove instrumental bias, peaks whose intensity in QC sample is lower than those in a blank sample were eliminated, and peaks with coefficients of variation below 20 in QC sample were selected.
+</p>
+1D-NMR and MAS-NMR:</br>
+Free induction decays were weighted by an exponential function with a 0.3 Hz line-broadening factor prior to Fourier transformation. All acquired 1H NMR spectra were phase- and baseline-corrected using TopSpin 3.1 software (Bruker BioSpin, Germany) and Chenomx NMR Suite Version 7.1 (Chenomx, Canada). The chemical shift was referenced to the proton signals of lactate at 1.32 ppm and formate at 8.45 ppm. Resonance assignments for serum and heart metabolites were accomplished using the 800 MHz library of Chenomx NMR Suite Version 7.1 (Chenomx, Canada) and literature reports. A set of 2D NMR spectra (see Figs. S7-9 in the paper associated with this study) was acquired on some representative serum and heart samples and spiked experiments were performed to confirm the metabolite identities. Representative 800 MHz 1H NMR spectra of sera and 700 MHz HR- MAS 1H NMR spectra of heart tissues were shown in Figs. S10 and S11 in the paper associated with this study, respectively. The complete resonance assignment is listed in Table S3 in the paper associated with this study."	"LC-MS/MS:</br>
+Lipids were tentatively identified by comparing the experimental data against various databases, including the METLIN (metlin.scripps.edu), Human Metabolome (www.hmdb.ca), MassBank (www.massbank.jp), and Lipid Maps (www.lipidmaps.org) databases. Fragment patterns (MS/MS spectra) were also used to identify lipid metabolites.
+</p>
+1D-NMR and MAS-NMR:</br>
+Concentration of 4,4-dimethyl-4-silapentane-1-sulfonic acid (DSS) was estimated using ERETIC2 (Electronic Reference To access In vivo Concentrations) module in TopSpin software 3.1 (Bruker BioSpin, Germany), which is based on the PULCON principle (PULse Length based CONcentrations determination)[1][2]. Targeted metabolic profiling of serum and heart tissue were performed using Chenomx NMR Suite Version 7.1 (Chenomx, Canada) by integrating peak areas of metabolites compared with the areas of the DSS peak. For heart metabolites, tissue mass (g) was used to normalize metabolite levels.
+</p>
+Ref:</br>
+[1] Wider G. and Dreier L. Measuring protein concentrations by NMR spectroscopy. J Am Chem Soc. 2006 Mar 1;128(8):2571-6. doi:10.1021/ja055336t. PMID:16492040</br>
+[2] Jung YS, Hyeon JS, Hwang GS. Software-assisted serum metabolite quantification using NMR. Anal Chim Acta. 2016 Aug 31;934:194-202. doi:10.1016/j.aca.2016.04.054. PMID:27506360</br>"
+Study Protocol URI	""	""	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Lee"	"Jung"	"Hwang"
+Study Person First Name	"Jueun"	"Sunhee"	"Geum-Sook"
+Study Person Mid Initials	""	""	""
+Study Person Email	"lje3080@kbsi.re.kr"	"jsh204@kbsi.re.kr"	" gshwang@kbsi.re.kr"
+Study Person Phone	"82-2-6908-6256"	"82-2-6908-6286"	"82-2-6908-6200"
+Study Person Fax	""	""	""
+Study Person Address	"Integrated Metabolomics Research Group, Western Seoul Center, Korea Basic Science Institute, Seoul 03759, Republic of Korea"	"Integrated Metabolomics Research Group, Western Seoul Center, Korea Basic Science Institute, Seoul 03759, Republic of Korea"	"Integrated Metabolomics Research Group, Western Seoul Center, Korea Basic Science Institute, Seoul 03759, Republic of Korea"
+Study Person Affiliation	"Korea Basic Science Institute"	"Korea Basic Science Institute"	"Korea Basic Science Institute"
+Study Person Roles	"PhD"	"Student"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

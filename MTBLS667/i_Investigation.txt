@@ -1,0 +1,143 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BIRNLEX"	"OBI"	"CHMO"	"NCBITAXON"	"EFO"	"UO"	"UO"	"CHEBI"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"1"	"22"	"18"	"6"	"146"	"42"	"43"	"99"	"29"	"113"	
+Term Source Description	"Biomedical Informatics Research Network Project Lexicon"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS667"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/jeremyeverett/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS667"
+Study Title	"Metabolic Biomarkers of Ageing in C57BL/6J Wild-Type and Flavin-Containing Monooxygenase 5 (FMO5)-Knockout Mice"
+Study Description	"It was recently demonstrated in mice that knockout of the flavin-containing monooxygenase 5 gene, Fmo5, slows metabolic ageing via pleiotropic effects. We have now used an NMR-based metabonomics approach to study the effects of ageing directly on the metabolic profiles of urine and plasma from male, wild-type C57BL/6J and Fmo5−/− (FMO5 KO) mice back-crossed onto the C57BL/6J background. The aim of this study was to identify metabolic signatures that are associated with ageing in both these mouse lines and to characterize the age-related differences in the metabolite profiles between the FMO5 KO mice and their wild-type counterparts at equivalent time points. We identified a range of age-related biomarkers in both urine and plasma. Some metabolites, including urinary 6-hydroxy-6-methylheptan-3-one (6H6MH3O), a mouse sex pheromone, showed similar patterns of changes with age, regardless of genetic background. Others, however, were altered only in the FMO5 KO, or only in the wild-type mice, indicating the impact of genetic modifications on mouse ageing. Elevated concentrations of urinary taurine represent a distinctive, ageing-related change observed only in wild-type mice."
+Study Submission Date	"2018-04-18"
+Study Public Release Date	"2018-04-18"
+Study File Name	"s_mtbls667.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"aging"	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_0007568"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"EFO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.3389/fmolb.2018.00028"
+Study Publication Author List	"D Varshavi, F. Scott, D. Varshavi, S. Veeravalli, I.R. Phillips, K. Veselkov, N. Strittmatter, Z. Takats, E.A. Shephard,  and J. R. Everett"
+Study Publication Title	"Metabolic Biomarkers of Ageing in C57BL/6J Wild-Type and Flavin-Containing Monooxygenase 5 (FMO5)-Knockout Mice"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Genotype"
+Study Factor Type	"age"	"genotype"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://www.ebi.ac.uk/efo/EFO_0000513"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls667_urine_NMR_spectroscopy.txt"	"a_mtbls667_plasma_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"All animals used in this study were male mice bred at University College London (UCL). FMO5 KO mice were obtained after 8 generations of backcrosses of heterozygous FMO5 KO mice with WT C57BL/6J mice[1]. WT C57BL/6J mice were used as controls. Mice were fed a standard chow diet (Teklad Global 18% Protein Rodent Diet, Harlan Laboratories, Inc., Madison, WI)[1]. Animal experiments were carried out in accordance with the UK Animal Procedures Act and with local ethics committee approval (Animal Welfare and Ethical Review Body).
+</p>
+To study the metabolic effects of ageing, blood was collected from the tail vein into heparin-coated tubes and plasma isolated as described.[2] Urine samples were collected as described previously[3] from WT C57BL/6J and FMO5 KO mice, at the ages of 15 (n = 4, KO; n = 4, WT), 30 (n = 4, KO; n = 4, WT), 45 (n = 5, KO; n = 4, WT), and 60 (n = 4, KO; n = 4, WT) weeks. All samples were collected between 09:00 and 11:00 onto an ice-cooled surface and then frozen on solid CO2 and stored at 193 K until analysed by NMR spectroscopy.
+</p>
+The week 15 and week 45 animals were from different cohorts and were each followed longitudinally for 15 weeks. To investigate the effect of batch differences[4] on the metabolic profiles of urine and plasma, a batch comparison experiment was performed on 2 different cohorts at the same week 30 time point (week 30 set 2, n = 5, KO; n = 5, WT, see Figures S1–S4 in the paper associated with this study). Since no significant metabolic changes were found between different batches, using ANOVA[5] with a false discovery rate (FDR) set at 10%[6], we proceeded to study the longitudinal effects of ageing on the urinary and plasma metabolic profiles and to compare the profiles of WT and FMO5 KO mice.
+</p>
+Ref:</br>
+[1] Gonzalez Malagon, S. G., Melidoni, A. N., Hernandez, D., Omar, B. A., Houseman, L., Veeravalli, S., et al. (2015). The phenotype of a knockout mouse identifies flavin-containing monooxygenase 5 (FMO5) as a regulator of metabolic ageing. Biochem. Pharmacol. 96, 267–277. doi:10.1016/j.bcp.2015.05.013. PMID:26049045</br>
+[2] Hough, T. A., Nolan, P. M., Tsipouri, V., Toye, A. A., Gray, I. C., Goldsworthy, M., et al. (2002). Novel phenotypes identified by plasma biochemical screening in the mouse. Mamm. Genome 13, 595–602. doi:10.1007/s00335-002-2188-1. PMID:12420138</br>
+[3] Kurien, B. T., Everds, N. E., and Scofield, R. H. (2004). Experimental animal urine collection: a review. Lab. Anim. 38, 333–361. doi:10.1258/0023677041958945. PMID:15479549</br>
+[4] Li, J. V., Saric, J., Yap, I. K., Utzinger, J., and Holmes, E. (2013). Metabonomic investigations of age- and batch-related variations in female NMRI mice using proton nuclear magnetic resonance spectroscopy. Mol. Biosyst. 9, 3155–3165. doi:10.1039/c3mb70215d. PMID:24121299</br>
+[5] Moyé, L. (2016). Statistical methods for cardiovascular researchers. Circ. Res. 118, 439–453. doi:10.1161/CIRCRESAHA.115.306305. PMID:26846639</br>
+[6] Benjamini, Y. (2010). Discovering the false discovery rate. J. R. Stat. Soc. Ser. B Stat. Methodol. 72, 405–416. doi:10.1111/j.1467-9868.2010.00746.x</br>
+</p>
+</p>
+Currently only the wild-type data has been submitted. The knockout data will be added in the near future."	"Not applicable in this study."	"Urine samples were prepared by mixing 50 µl of urine from each mouse with 25 µl of phosphate buffer (81:19 (v/v) comprising 0.6 M K2HPO4 and 0.6 M NaH2PO4 in 100% D2O, pH 7.4, containing 0.5 mM sodium 3-(trimethylsilyl)-2,2',3,3'-tetradeuteropropionate (TSP), as a chemical shift reference, and 9 mM sodium azide, as an anti-microbial agent. The buffered samples were then centrifuged (13,000 x g for 5 min at 4 °C) to remove any suspended particles. After centrifugation, 60 µl of supernatant was transferred into new 1.7 mm outer diameter (o.d.) NMR tubes (Norell, S-1.7-500-1) using an accurate electronic syringe (SGE eVol XR).
+</p>
+Plasma samples were prepared by mixing 50 µl of mouse plasma with 25 µl of saline (0.9% NaCl in D2O which was then centrifuged and 60 µl transferred into new 1.7 mm o.d. microtubes as described above.
+</p>
+Several urine samples and 2 plasma samples were also prepared as above, but at larger volumes, for analysis in 5 mm o.d. NMR tubes (NORELL, 508-UP-7), in order to provide greater sensitivity for two-dimensional (2D) NMR experiments, including 2D 1H JRES (J-resolved), COSY (correlated spectroscopy), TOCSY (total correlation spectroscopy), HSQC (heteronuclear single quantum coherence), and HMBC (heteronuclear multiple bond correlation)[1].
+</p>
+Ref:</br>
+[1] Claridge, T. (2009). High-Resolution NMR Techniques in Organic Chemistry. Oxford, UK: Elsevier.</br>"	"1H NMR spectra of biofluids were recorded on a Bruker Avance III spectrometer (Bruker BioSpin GmbH, Rheinstetten, Germany) operating at 600.44 MHz and at a temperature of 300.0 K."	"For urine samples, a standard one-dimensional (1D) NOESY presaturation pulse sequence with gradient pulses (RD-90°-t1-90°-tm-90°-acquire, Bruker sequence code noesygppr1d) was acquired with water suppression applied during the relaxation delay (RD) of 2 s, a mixing time (tm) of 100 ms and a 90° pulse of 11.2 µs. For each spectrum, 8 dummy scans were used to establish spin equilibrium, then 256 free induction decay transients were collected into 65,536 data points with a spectral width of 20 ppm.
+</p>
+For all mouse plasma samples, 2 types of 1D 1H NMR experiments were acquired. The first was the standard 1D NOESY presaturation pulse sequence (noesygppr1d) with gradient pulses and saturation of the water peak during the relaxation delay (RD). After 8 dummy scans, 128 transients were collected into 65,536 data points over a spectral width of 20 ppm, using a relaxation delay (RD) of 2 s and a mixing time of 100 ms. Standard 1H NMR spectra provide information on both low- and high-molecular-mass metabolites. However, signals from low intensity, low-molecular-mass molecules can be obscured by broad signals arising from high-molecular-mass macromolecules. A second set of data was therefore acquired with the Carr–Purcell–Meiboom–Gill (CPMG) spin-echo experiment, RD [90°x–(t-180°y–t)n–collect FID], using the Bruker pulse sequence (cpmgpr), where RD = 2 s, the number of loops n = 100 and the spin-echo delay t = 400 µs, to allow spectral editing through T2 relaxation and therefore attenuation of broad signals. During the relaxation delay, irradiation was applied to achieve suppression of the water peak. For each spectrum, after 8 dummy scans, 128 transients were collected into 65,536 data points with a spectral width of 20 ppm and total spin–spin relaxation delay (2n.t) of 80 ms.
+</p>
+Two-dimensional (2D) NMR experiments[1] were carried out for selected urine and plasma samples to aid/confirm the assignment of metabolites. The detailed parameters for the acquisition of the 2D NMR spectra are provided in Tables S1, S2 in the paper associated with this study.
+</p>
+Ref:</br>
+[1] Claridge, T. (2009). High-Resolution NMR Techniques in Organic Chemistry. Oxford, UK: Elsevier.</br>"	"NMR spectra were processed using the software TopSpin 3.2 (Bruker Biospin, UK). Prior to applying Fourier transformation, the free induction decays (accumulated transients) were multiplied by an exponential function corresponding to a line broadening of 0.3 Hz. The 1D 1H NMR spectra were manually phased, baseline corrected and referenced to the chemical shift of TSP (0.0 ppm), for urine, and to the anomeric doublet of a-D-glucose at d 5.233, for plasma samples.
+</p>
+The NMR data were then imported into Matlab (R2010 b, Mathworks) using in-house routines (MetaSpectra, Dr O. Cloarec, Imperial College) with a resolution of 0.00025 ppm. All subsequent data processing and analysis, unless stated otherwise, was carried out using in-house Matlab routines, written by Dr K. Veselkov's team as previously described and exemplified.[1][2] For urine samples, regions of the spectra upfield of 0.8 ppm, downfield of 10 ppm, and the spectral region containing water (d 4.7–4.9) were omitted to eliminate the effects of background noise and variable water saturation respectively.
+</p>
+For the plasma NMR spectra, regions of the spectra downfield of 10 ppm and upfield of 0.8 ppm (CPMG) and 0.2 ppm (1D), as well as resonances corresponding to the water signal region (d 4.2–5.2, 1D) and (d 4.6–5.15, CPMG), were excluded.
+<p>
+All NMR spectra were normalised using “Probabilistic Quotient Normalization”[3] in order to compensate for differences in concentration between samples. All 1H NMR spectra were then aligned using recursive segment-wise peak alignment (RSPA) method.[4] Alignment was performed in 2 steps: first, a global correction was carried out using the RSPA algorithm, and second, a custom interval approach was performed for signals that exhibited high chemical shift variation, like citrate and taurine, to align peak positions in baseline-separated regions defined by the researcher. All NMR spectra were also log-transformed to convert multiplicative noise into additive noise for downstream pattern recognition analysis.[1].
+</p>
+Ref:</br>
+[1] Veselkov, K. A., Vingara, L. K., Masson, P., Robinette, S. L., Want, E., Nicholson, J. K., et al. (2011). Optimized preprocessing of ultra-performance liquid chromatography/mass spectrometry urinary metabolic profiles for improved information recovery. Anal. Chem. 83, 5864–5872. doi:10.1021/ac201065j. PMID:21526840</br>
+[2] Veselkov, K. A., Mirnezami, R., Strittmatter, N., Goldin, R. D., Kinross, J., Speller, A. V., et al. (2014). Chemo-informatic strategy for imaging mass spectrometry-based hyperspectral profiling of lipid signatures in colorectal cancer. Proc. Natl. Acad. Sci. U.S.A. 111, 1216–1221. doi:10.1073/pnas.1310524111. PMID:24398526</br>
+[3] Dieterle, F., Ross, A., Schlotterbeck, G., and Senn, H. (2006). Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in H-1 NMR metabonomics. Anal. Chem. 78, 4281–4290. doi:10.1021/ac051632c.</br>
+[4] Veselkov, K. A., Lindon, J. C., Ebbels, T. M. D., Crockford, D., Volynkin, V. V., Nicholson, J. K., et al. (2009). Recursive segment-wise peak alignment of biological H-1 NMR spectra for improved metabolic biomarker recovery. Anal. Chem. 81, 56–66. doi:10.1021/ac8011544.</br>"	"Metabolite identification was carried out using standard methods[1] and using information from the literature and public databases including the Chenomx NMR Suite (http://www.chenomx.com/), the Human Metabolite Database (HMDB, http://www.hmdb.ca/)[2], the Biological Magnetic Resonance Data Bank (BMRB, http://www.bmrb.wisc.edu/metabolomics/)[3], the Birmingham Metabolite Library (BML, http://www.bml-nmr.org/)[4], and COLMAR (Complex Mixture Analysis by NMR, http://spin.ccic.ohio-state.edu/index.php/colmarm/index)[5]. A series of 2D NMR experiments, including J-resolved, correlation spectroscopy (COSY), TOCSY, HSQC, and HMBC (Claridge, 2009), were acquired for a number of samples in order to assist or confirm the identification of a range of metabolites. The identities of the key discriminating metabolites were also confirmed by the spiking of authentic standards into urine and plasma samples. Confidence in the identification of these known metabolites was assessed using the new metabolite identification carbon efficiency (MICE)[6] and topological MICE (tMICE)[7] methods.
+</p>
+Ref:</br>
+[1] Dona, A. C., Kyriakides, M., Scott, F., Shephard, E. A., Varshavi, D., Everett, J. R., et al. (2016). A guide to the identification of metabolites in NMR-based metabonomics/metabolomics experiments. Comput. Struct. Biotechnol. J. 14, 135–153. doi:10.1016/j.csbj.2016.02.005. PMID:27087910</br>
+[2] Wishart, D. S., Jewison, T., Guo, A. C., Wilson, M., Knox, C., Liu, Y., et al. (2013). HMDB 3.0-the human metabolome database in 2013. Nucleic Acids Res. 41, D801–D807. doi:10.1093/nar/gks1065. PMID:23161693</br>
+[3] Ulrich, E. L., Akutsu, H., Doreleijers, J. F., Harano, Y., Ioannidis, Y. E., Lin, J., et al. (2008). BioMagResBank. Nucleic Acids Res. 36, D402–D408. doi:10.1093/nar/gkm957. PMID:17984079</br>
+[4] Ludwig, C., Easton, J. M., Lodi, A., Tiziani, S., Manzoor, S. E., Viant, M. R., et al. (2012). Birmingham metabolite library: a publicly accessible database of 1-D H-1 and 2-D H-1 J-resolved NMR spectra of authentic metabolite standards (BML-NMR). Metabolomics 8, 8–18. doi:10.1007/s11306-011-0347-7.</br>
+[5] Bingol, K., Li, D. W., Bruschweiler-Li, L., Cabrera, O. A., Megraw, T., Zhang, F., et al. (2015). Unified and isomer-specific NMR metabolomics database for the accurate analysis of C-13-H-1 HSQC spectra. ACS Chem. Biol. 10, 452–459. doi:10.1021/cb5006382. PMID:25333826</br>
+[6] Everett, J. R. (2015). A new paradigm for known metabolite identification in metabonomics/metabolomics: metabolite identification efficiency. Comput. Struct. Biotechnol. J. 13, 131–144. doi:10.1016/j.csbj.2015.01.002. PMID:25750701</br>
+[7] Sanchon-Lopez, B., and Everett, J. R. (2016). New methodology for known metabolite identification in metabonomics/metabolomics: Topological Metabolite Identification Carbon Efficiency (tMICE). J. Proteome Res. 15, 3405–3419. doi:10.1021/acs.jproteome.6b00631. PMID:27490438</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Everett"	"Shephard"
+Study Person First Name	"Jeremy"	"Elizabeth"
+Study Person Mid Initials	"R"	""
+Study Person Email	"j.r.everett@greenwich.ac.uk"	"e.shephard@ucl.ac.uk"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"University of Greenwich"	"UCL"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

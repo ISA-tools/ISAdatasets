@@ -1,0 +1,127 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"GO"	"ENVO"	"CHMO"	"EFO"	"MESH"	"MS"	"NCIT"	"OBI"	"CHEBI"	"PLOSTHES"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/PLOSTHES"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"1557"	"27"	"18"	"146"	"10"	"129"	"44"	"22"	"99"	"5"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"Environment Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"PLOS Thesaurus"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS538"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsershillyekaDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS538"
+Study Title	"13C metabolomics reveals widespread change in carbon fate during coral bleaching"
+Study Description	"INTRODUCTION: Rising seawater temperatures are threatening the persistence of coral reefs; where above critical thresholds, thermal stress results in a breakdown of the coral-dinoflagellate symbiosis and the loss of algal symbionts (coral bleaching). As symbiont-derived organic products typically form a major portion of host energy budgets, this has major implications for the fitness and persistence of symbiotic corals. </br> OBJECTIVES: We aimed to determine change in autotrophic carbon fate within individual compounds and downstream metabolic pathways in a coral symbiosis exposed to varying degrees of thermal stress and bleaching. </br> METHODS: We applied gas chromatography–mass spectrometry coupled to a stable isotope tracer (13C), to track change in autotrophic carbon fate, in symbiont and host individually, following exposure to elevated water temperature. </br> RESULTS: Thermal stress resulted in partner-specific changes in carbon fate, which progressed with heat stress duration. We detected modifications to carbohydrate and fatty acid metabolism, lipogenesis, and homeostatic responses to thermal, oxidative and osmotic stress. Despite pronounced photodamage, remaining in hospite symbionts continued to produce organic products de novo and translocate to the coral host. However as bleaching progressed, we observed minimal 13C enrichment of symbiont long-chain fatty acids, also reflected in 13C enrichment of host fatty acid pools. </br> CONCLUSION: These data have major implications for our understanding of coral symbiosis function during bleaching. Our findings suggest that during early stage bleaching, remaining symbionts continue to effectively translocate a variety of organic products to the host, however under prolonged thermal stress there is likely a reduction in the quality of these products."
+Study Submission Date	"2017-09-13"
+Study Public Release Date	"2017-09-20"
+Study File Name	"s_mtbls538.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"isotopic tracer"	"coral bleaching process"	"Thermal stresses"	"Cnidaria"	"Symbiosis"	"gas chromatography-mass spectrometry"	"photoinhibition"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_35206"	"http://purl.obolibrary.org/obo/ENVO_01000852"	"http://localhost/plosthes.2017-1#9975"	"http://purl.bioontology.org/ontology/MESH/D003063"	"http://purl.bioontology.org/ontology/MESH/D013559"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/GO_0010205"	""
+Study Design Type Term Source REF	"CHEBI"	"ENVO"	"PLOSTHES"	"MESH"	"MESH"	"CHMO"	"GO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-017-1306-8"
+Study Publication Author List	"Katie E. Hillyer, Daniel Dias, Adrian Lutz, Ute Roessner, Simon K. Davy."
+Study Publication Title	"13C metabolomics reveals widespread change in carbon fate during coral bleaching"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Stress duration"	"Symbiotic partner"	"Temperature treatment "	"Replicate"	"Stable isotope"
+Study Factor Type	"timepoint"	"Group"	"treatment"	"biological replicate"	"Isotope"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0002091"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47933"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls538_algae_mass_spectrometry.txt"	"a_mtbls538_coral_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Fragment collection and maintenance:</br>
+Fragments (a maximum of 8 cm in length) of the coral Acropora aspera (light blue colour morph) were collected from Heron Island reef flat [Great Barrier Reef (GBR), Australia; 23°26′43″S, 151°54′53″E] at low tide under GBR Marine Permit G14/36933.2 between 27 and 29th March 2015, for this and a concurrent study[1]. Fragments (n = 11 per colony) were sampled from branches of 6 replicate colonies (both studies in total amounting to no more than 5% of the donor colony).
+</p>
+Fragments were maintained in 4 x 60 l aquaria with flow-through seawater[1]. Following a 10 day acclimation period, 2 aquaria were heated to 32 ± 0.5 °C, at a rate of 1 °C per day (heat treatment). Heat treatment was maintained for a period of 9 days. 2 control aquaria were left at ambient temperature, averaging 27 ± 1.5 °C (ambient).
+</p>
+Daily measurements of maximum (dark-adapted) yields of photosystem II (PS II) were taken to give an indication of symbiont photosystem health. Maximum yields were taken using pulse amplitude modulation fluorometry (Diving-PAM, Walz, Effeltrich, Germany) 30 min after last light. Presented values are based on means of triplicate measurements taken from each colony representative (n = 6, 1 per colony, per treatment) designated for PAM sampling as previously reported[1], with additional data up to 9 days.
+</p>
+Stable isotope (13C) incubations:</br>
+Incubations were initiated on 6 and 9 days (post heatramp). At each sampling point, 6 coral fragments (1 representative per colony) per treatment were incubated in the ambient light (with shade cloth) in individual specimen jars. Jars were placed in water baths at the relevant
+temperatures (either at a typical ambient temperature of 26 ± 0.5 °C, or at 32 ± 0.5 °C).
+</p>
+Each jar contained 220 ml of 4 mM H13CO3- or H12CO3-enriched FSW (0.22 μM) representing a bicarbonate enrichment of approximately 66%[2]. Seawater pH was buffered to that of the flow-through system (ca. 8.34–8.52, high water to low water). Incubations were for 4 h from the start of the natural light-cycle, with the beakers left open and regularly stirred (about every hour) to minimize reuse of respired 13CO2. Following the incubation period, samples were immediately snap-frozen in liquid nitrogen and transferred to a -80 °C freezer. An additional 4 h incubation (n = 6, one fragment per colony) was carried out in the dark to confirm that label was not significantly incorporated by non-photosynthetic activities.
+</p>
+Coral fragment processing:</br>
+All sample processing was undertaken at 4 °C in order to minimize any post-sampling metabolism following the methods previously reported[1]. Briefly, coral fragments were first defrosted on ice and tissue removed via airbrush into 50 ml of chilled MilliQ ultrapure water at 4 °C. The tissue suspensions were then homogenized with a saw-tooth homogenizer (Ystral D-79282, Ballrechten-Dottingen, Germany) for 10 s at a mid-speed setting.
+>/p>
+Samples were vortexed for 30 s and 3 x 1 ml aliquots were removed from the whole homogenate in order to quantify bleaching (Symbiodinium cell counts and photosynthetic pigment) and genotyping of the dominant Symbiodinium ITS 2 type (C3 as previously reported[1]). The remaining tissue homogenate was repeatedly washed and centrifuged (2500 x g for 5 min at 4 °C) to separate Symbiodinium cells from host material and to purify each fraction. The resulting supernatant and pellet, comprising the purified host and symbiont material respectively, were then immediately frozen at -80 °C and freeze-dried (Alpha 1–4 LD Plus, Martin Christ, Osterode am Harz, Germany). Once fully dry, each fraction was weighed out (15 mg of symbiont fraction; 30 mg host fraction) into 1.5 ml microcentrifuge tubes, ready for
+metabolite extraction.
+</p>
+Ref:>/br>
+[1] Hillyer KE, Dias DA, Lutz A, Wilkinson SP, Roessner U, and Davy SK. (2017). Metabolite profiling of symbiont and host during thermal stress and bleaching in the coral Acropora aspera. Coral Reefs, 36(1), 1–14. doi:10.1007/s00338-016-1508-y</br>
+[2] Tremblay P, Grover R, Maguer JF, Legendre L, Ferrier-Pagès C. Autotrophic carbon budget in coral tissue: a new 13C-based model of photosynthate translocation. J Exp Biol. 2012 Apr 15;215(Pt 8):1384-93. doi:10.1242/jeb.065201. PMID:22442377</br>"	"For the host samples, 750 μl of 100% cold MeOH (at -20 °C) was added to extract the semi-polar metabolites. Methanol (100%) contained 1%
+D-Sorbitol-13C6 (Sigma-Aldrich, Auckland, New Zealand) as the internal standard (IS). Samples were then sonicated for 30 min at 4 °C, vortexed to mix, and the semi-polar extract separated from the tissue debris by centrifugation (3060 x g for 30 min at 4 °C).
+</p>
+For the algal samples, the Symbiodinium cell walls were lysed by bead-milling. Acid-washed glass beads (approximately 20 mg of 710–1180 μm; Sigma-Aldrich, Auckland, New Zealand) and 200 μl of 100% cold MeOH (plus IS at -20 °C) were added to each sample. Bead-milling (Tissuelyser II, Qiagen Inc., Hilden, Germany) was for 4 min at a frequency of 30 Hz. Visual counts (haemocytometer) of trial samples confirmed effective cellular disruption (over 90% of cells). A further 550 μl of 100% cold MeOH (plus 1% IS at -20 °C) was then added and the samples centrifuged (3000 x g for 30 min at 4 °C) to separate the semi-polar extract from the cell debris. The supernatants were collected and stored on ice, while a second extraction was carried out with the remaining cell debris.
+</p>
+For both host and symbiont samples, 750 μl of 50% MeOH (at -20 °C) was added to the cell debris to extract the remaining polar fraction. The samples were then vortexed and re-centrifuged (3000 x g for 30 min at 4 °C). The supernatant was removed, and the polar and semi-polar extracts were combined and centrifuged at 21,200 x g for 5 min at 4 °C to separate any particulates. Aliquots of each sample (200 μl of host and 150 μl of symbiont) were then concentrated under vacuum at 30 °C until completely dry (Christ, RVC 2-33 Speedvac, John Morris Scientific, Melbourne, Australia).
+</p>
+Metabolite derivatisation was based on the method previously described[1]. Briefly, all samples were re-dissolved in 20 μl of 30 mg/ml methoxyamine hydrochloride in pyridineand derivatised at 37 °C for 120 min with mixing at 500 rpm. 20 μl N,O-bis-(trimethylsilyl) trifluoroacetamide (BSTFA) and 1 μl retention-time standard mixture comprised of n-alkanes were then added and the samples incubated for a further 30 min with mixing at 500 rpm. Each derivatised sample was then allowed to rest for 60 min prior to injection into the GC–MS. Comparative analysis was undertaken for all metabolite samples (0, 6 and 8 d), with additional targeted quantitative analysis undertaken for extracts from the final time-point (8 d ambient and thermal stress; symbiont and host).
+</p>
+Ref:</br>
+[1] Dias DA, Hill CB, Jayasinghe NS, Atieno J, Sutton T, Roessner U. Quantitative profiling of polar primary metabolites of two chickpea cultivars with contrasting responses to salinity. J Chromatogr B Analyt Technol Biomed Life Sci. 2015 Sep 1;1000:1-13. doi:10.1016/j.jchromb.2015.07.002. PMID:26204234</br>"	"GC–MS analysis was performed on an Agilent 7890 gas chromatograph equipped with Gerstel MPS2 multipurpose sampler and coupled to an Agilent 5975C VL mass selective detector, run in splitless mode, with an injection volume of 1 μl of each sample and a technical replicate of 2 injections per sample. The GC was fitted with a Varian Factor 4 column (VF-5 ms; 30 m x 0.25 mm x 0.25 μm + 10 m Ezi-guard). Helium (ultra-high purity, UHP) was in constant flow mode at approximately 1 ml/min with retention-time locking (RTL) applied. The oven temperature was started at 70 °C, held for 1 min and then increased at 7 °C/min to 325 °C and finally held at this temperature for 3.5 min. Instrument control was performed with Agilent G1701A Revision E.02.01 ChemStation software."	"Mass spectra were collected on a Agilent 5975C VL MSD. The MS quadrupole temperature was set at 150 °C, with the source set at 250 °C and the transfer line held at 280 °C. Positive ion electron impact spectra at 70 eV were recorded in scan mode with the following settings: a gain factor of 1.00; detector threshold of 150; mass to charge (m/z) range of 50–600 m/z; and solvent delay of 6.0 min."	"Data were processed using the Agilent MassHunter Workstation Software, Quantitative Analysis, Version B.05.00/Build 5.0.291.0 for quantitation of all compounds."	"Metabolite data extraction and analysis were undertaken based on the protocol previously described[1]. Compound identification was based on an in-house library of MS spectra; with retention indices based on n-alkane standards and fatty acid standards (Menhaden fish oil, Sigma-Aldrich, Auckland). Derivative peak areas were used to semi-quantify the concentrations of individual metabolites. Data were then normalized to the final area of the internal standard and sample dry weight.
+</p>
+Ref:</br>
+[1] Dias DA, Hill CB, Jayasinghe NS, Atieno J, Sutton T, Roessner U. Quantitative profiling of polar primary metabolites of two chickpea cultivars with contrasting responses to salinity. J Chromatogr B Analyt Technol Biomed Life Sci. 2015 Sep 1;1000:1-13. doi:10.1016/j.jchromb.2015.07.002. PMID:26204234</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hillyer"
+Study Person First Name	"Katie "
+Study Person Mid Initials	"E"
+Study Person Email	"katie.hillyer@vuw.ac.nz"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""
