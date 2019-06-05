@@ -1,0 +1,115 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BTO"	"NCBITAXON"	"LBO"	"DCM"	"EFO"	"LOINC"	"CHEBI"	"BIRNLEX"	"OBI"	"MS"	"CHMO"	"MESH"	"NCIT"	"BAO"	
+Term Source File	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/LBO"	"http://data.bioontology.org/ontologies/DCM"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/LOINC"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/BAO"	
+Term Source Version	"22"	"6"	"2"	"1"	"146"	"6"	"99"	"1"	"22"	"86"	"18"	"10"	"44"	"26"	
+Term Source Description	"BRENDA Tissue and Enzyme Source Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Livestock Breed Ontology"	"DICOM Controlled Terminology"	"Experimental Factor Ontology"	"Logical Observation Identifier Names and Codes"	"Chemical Entities of Biological Interest Ontology"	"Biomedical Informatics Research Network Project Lexicon"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Medical Subject Headings"	"National Cancer Institute Thesaurus"	"BioAssay Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS436"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersstellarDesktopISA CREATORConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS436"
+Study Title	"Metabolomics analysis of liver reveals profile disruption in bovines upon steroid treatment"
+Study Description	"INTRODUCTION: The surveillance of illegal anabolic practices in bovine meat production is necessary to guarantee consumers’ health. Screening strategies based on the recognition of indirect biological effects are considered by the community as promising tools to overcome some limitations of classical analytical methods and might therefore concur to ensure safer food for the consumer.
+</br>
+OBJECTIVES: The present work aims at characterizing the metabolic profile induced in liver by administration of anabolic steroids, and at identifying potential disturbances in the hepatic metabolism.
+</br>
+METHODS: A total of 32 liver samples, 16 from untreated bulls and 16 from bulls treated with an ear implant (Revalor-XS®) containing trenbolone acetate (200 mg) and ß-estradiol (40 mg), were analyzed following a LC–MS-based metabolomic analysis combining RP and HILIC chromatographic separations. Different multivariate statistical tools were applied to the datasets to select common metabolites that may be considered as potential markers based on their significant changes in concentrations after administration of sexual steroids.
+</br>
+RESULTS:Eight candidate markers were identified. Moreover, a subset of four markers was also validated by a different laboratory that performed the same analysis using an independent instrumental and elaboration platform, confirming the robustness of the results achieved.
+</br>
+CONCLUSION: This study was performed mimicking experimental conditions that may be used during a potential misuse practice. It is promising in the objective of setting up an analytical strategy to highlight sexual steroids abuse in livestock animals."
+Study Submission Date	"2017-03-10"
+Study Public Release Date	"2017-12-31"
+Study File Name	"s_mtbls436.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"	"Livestock"	"Anabolic Steroid"	"biomarker"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://purl.bioontology.org/ontology/MESH/D058751"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2360"	"http://purl.obolibrary.org/obo/CHEBI_59163"
+Study Design Type Term Source REF	""	"CHMO"	"CHMO"	"MESH"	"NCIT"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-017-1220-0"
+Study Publication Author List	"Roberto Stella, Gaud Dervilly-Pine, lDavide Bovo, Eleonora Mastrorilli, Anne-Lise Royer, Roberto Angeletti, Bruno Le Bizec, Giancarlo Biancotto"
+Study Publication Title	"Metabolomics analysis of liver reveals profile disruption in bovines upon steroid treatment"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Anabolic treatment"
+Study Factor Type	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls436_POS_RP_mass_spectrometry.txt"	"a_mtbls436_NEG_RP_mass_spectrometry.txt"	"a_mtbls436_POS_HILIC_mass_spectrometry.txt"	"a_mtbls436_NEG_HILIC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Q-Exactive (Thermo Scientific)"	"Q-Exactive (Thermo Scientific)"	"Q-Exactive (Thermo Scientific)"	"Q-Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"32 Charolaise bulls (Bos Taurus) 10-14 months old were housed in stables with free access to water and food. After 2 weeks of acclimatization period they were randomly divided into control (n = 16 animals) and treated animals (n = 16 animals). Treatment group (T) received the Revalor XS® (Merck Animal Health, NJ, USA) ear implant containing 200 mg of trenbolone acetate and 40 mg of ß-estradiol, while animals of the control group (C) were not implanted. The trial lasted for 71 days after which all animals were slaughtered and tissue samples (aliquots of 5 g) were frozen in liquid nitrogen and stored at -80 °C until analysis."	"Small portions of 0.5-1 g of liver tissue were dissected on a plastic vessel, using a surgical blade. Tissue pieces were pulverized in presence of liquid nitrogen in a ceramic mortar, and then freeze-dried.
+</p>
+50 mg of freeze-dried liver powder were weighted for each sample. Metabolite extraction was carried out using 1.5 ml of methanol/water solution (50/50, v/v) in presence of a 5 mm diameter stainless steel bead using a GenogrinderTM homogenizer (Spex® Sample PREP, Stanmore, UK) operating at 20 Hz for 2 min, repeating the homogenization twice.
+</p>
+The extracts were centrifuged at 12,000 x g for 3 min at 4 °C and the supernatant was collected and divided in 4 distinct aliquots of 250 µl each. A quality control (QC) sample was prepared pooling an equal amount of extract from the entire set of 32 samples and divided in 20 aliquots of 250 µl each. Finally, the extracts were dried using a low temperature speed vacuuming system and kept at -80 °C until further processing.
+</p>
+Prior to analysis, the liver extracts were reconstituted using 250 µl of 50/50 methanol/water solution (v/v) containing 1 ng/µl of internal standard mixture (creatine-D3, leucine-5,5,5-D3, L-tryptophan-2,3,3-D3, indole-2,4,5,6,7,3-acetic acid D5, 1,14-tetradecanedioic acid-D24), vortexed for 10 s, incubated in an ultrasound bath for 5 min, and centrifuged at 14,000 x g for 5 min at 4 °C. The supernatants were finally transferred into glass vials for the LC-MS analysis randomizing the injection order. A pooled QC sample, was used to validate the analytical repeatability and the quality of the fingerprinting process throughout the study. QC samples were injected at the beginning, the end but also randomly all along the analytical run."	"Reverse phase analysis:</br>
+The chromatographic separation of liver extracts by RP chromatography was achieved using a Hypersil gold C18 (100 mm x 2.1 mm; 1.9 µm particle size, Thermo Fisher Scientific, Bremen, Germany) equipped with a guard column, at 35 °C. The mobile phase consisted of water (A), and ACN (B), both containing 0.1% acetic acid (v/v). The system was programmed to hold initial conditions (5% B) for 2.4 min, and then to perform gradient elution from 5% to 25% B over a 2.1 min period, afterwards solvent B was increased up to 70% in 6.5 min, and finally solvent B reached 100% in 3 min, this percentage was maintained for 2.5 min, returning to initial conditions over 2.5 min. The total chromatographic run time was 25 min, the flow rate was 400 µl/min, and the injection volume was 5 µl.
+</p>
+Hydrophilic interaction liquid chromatography analysis:</br>
+Conversely, the HILIC separation of liver extracts was performed using a Zic-HILIC column (100 mm x 2.1 mm; 3.5 µm particle size, Merck, Darmstadt, Germany) equipped with a guard column, at 30 °C. The mobile phases were 20 mM ammonium acetate and 10 mM acetic acid in water, pH 5.5 (A), and ACN (B). The system was programmed to hold initial conditions (5% A) for 0.5 min, then the concentration was increased from 5% to 20% of solvent A, over a 1.5 min period, afterwards, solvent A was increased up to 40% in 3 min, finally solvent A reached 60% in 7 min, it was maintained for 2 min, and returned to initial conditions over 2 min to re-equilibrate the system. The total chromatographic run time was 25 min, the flow rate was 300 µl/min, and the injection volume was 5 µl."	"High resolution MS fingerprints were acquired on a Thermo Scientific Q-Exactive mass spectrometer using full scan mode from 70 to 1000 m/z at a resolving power of 70,000 Full Width at Half Maximum (FWHM) at 200 m/z. Source parameters were the following: capillary temperature 350 °C, sheath gas flow rate 45 a.u. (arbitrary units), auxiliary gas flow rate 10 a.u., S-lens voltage 55 V and heater temperature 325 °C. The acquisition was first performed in positive polarity using a spray voltage of 3.5 kV, and then in negative polarity using a spray voltage of -3.0 kV. For HILIC chromatography, the sheath gas flow rate was set to 35 a.u. instead of 45 a.u.
+</p>
+External mass calibration without the use of specific lock masses was employed."	"LC-MS raw data acquired using Q-Exactive instrument were processed using SIEVE software (Thermo Fischer Scientific, version 2.2) performing chromatographic peaks alignment, component extraction and integration, and identification. Frames (retention time and m/z values) were aligned and matched across all samples. The parameters set were peak filter signal-to-noise (S/N) of 3, retention time shift of 0.2 min, minimum scans across a peak of 3, target minimum count of 10,000 cps, peak integration algorithm ICIS. Frame mass tolerance was set to 10 ppm, initial retention time was set to 0.5 and final retention time to 18 min, the maximum number of frames was set to 10,000 and smoothing of 5 points. Finally, a list of target m/z values coming from the mixture of labelled internal standards was included to check for inter-run reproducibility."	"The Frame MZ algorithm embedded in SIEVE was used for candidate metabolite markers identification. Precursor mass tolerance was set to 5 ppm, and K, NH4, Na, H were selected as possible adducts for positive polarity, while only H adduct was selected for negative polarity. Metabolite identification was performed by comparing the measured mass of candidate markers with the exact mass of the metabolites present in the KEGG database.
+</p>
+To confirm the identification of potential markers based on exact mass and mass spectra database, a solution containing reference standard metabolites available on the market was analysed together with a QC liver sample in the same analytical sequence (MSI Level 1). So, a standard solution of xanthine, D-glucuronic acid, gluconic acid, galactitol, DL-pantothenic acid, hexanoyl-L-carnitine, cholic acid, and glycocholic acid was injected under the different LC–MS standardized conditions. Fragmentation spectra were acquired using an inclusion list reporting the expected RT (2 min window) and different CE (35 and 45 eV, or 30 and 45 eV) for the characterization of the metabolites to be identified. Data were acquired at 140,000 resolution FWHM, and using triggered MS/MS fragmentation of precursor ions."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Biancotto"	"Stella"
+Study Person First Name	"Giancarlo"	"Roberto"
+Study Person Mid Initials	""	""
+Study Person Email	"gbiancotto@izsvenezie.it"	"rstella@izsvenezie.it"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"viale dell'Università, 10 - 35020, Legnaro (PD) - ITALY"	"viale dell'Università, 10 - 35020, Legnaro (PD) - ITALY"
+Study Person Affiliation	"Istituto Zooprofilattico Sperimentale delle Venezie"	"Istituto Zooprofilattico Sperimentale delle Venezie"
+Study Person Roles	"Principal investigator"	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

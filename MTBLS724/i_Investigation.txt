@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"NCIT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"6"	"113"	"5"	"44"	"22"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS724"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\bigba\Desktop\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS724"
+Study Title	"Genotype to phenotype: Diet-by-mitochondrial DNA haplotype interactions drive metabolic flexibility and organismal fitness."
+Study Description	"Diet may be modified seasonally or by biogeographic, demographic or cultural shifts. It can differentially influence mitochondrial bioenergetics, retrograde signalling to the nuclear genome, and anterograde signalling to mitochondria. All these interactions have the potential to influence the frequencies of mtDNA types in nature and human health. In a model laboratory system, we fed four diets varying in Protein: Carbohydrate (P:C) ratio (1:2, 1:4, 1:8 and 1:16 P:C) to four Drosophila mitotypes and assayed their frequency in population cages. The nuclear genome was standardised. When fed a high protein 1:2 P:C diet, the frequency of flies harbouring Alstonville mtDNA increased. In contrast, when fed the high carbohydrate 1:16 P:C food the incidence of flies harbouring Dahomey mtDNA increased. This result was repeated when the laboratory diet was replaced by natural fruits having high and low P:C ratios and when the nuclear genome was permuted. Quaternary structural modelling, in vitro assays of electron transport chain protein complexes, and protein gels suggested a V161L mutation in the ND4 subunit of Complex I of Dahomey mtDNA was functionally deleterious and resulted in an increase in larval development time on the 1:2 P:C diet. Conversely, the 1:16 P:C diet resulted in an elegant remodelling of energy metabolism and relative reduction in development time of larvae harbouring Dahomey mtDNA. These data question the use of mtDNA as an assumed neutral maker. We posit that humans with specific mtDNA variations may differentially metabolise carbohydrates, which has implications for a variety of first-world diseases including cardiovascular disease, diabetes, obesity and perhaps Parkinson’s Disease."
+Study Submission Date	"2018-08-03"
+Study Public Release Date	"2019-08-23"
+Study File Name	"s_Ballard Metabolomics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"untargeted metabolites"	"Diet"	"third instar larva stage"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15222"	"http://www.ebi.ac.uk/efo/EFO_0002682"
+Study Design Type Term Source REF	"CHMO"	""	"NCIT"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30399141"
+Study Publication DOI	"10.1371/journal.pgen.1007735"
+Study Publication Author List	"Aw WC, Towarnicki SG, Melvin RG, Youngson NA, Garvin MR, Hu Y, Nielsen S, Thomas T, Pickford R, Bustamante S, Vila-Sanjurjo A, Smyth GK, Ballard JWO."
+Study Publication Title	"Genotype to phenotype: Diet-by-mitochondrial DNA haplotype interactions drive metabolic flexibility and organismal fitness. "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"diet"
+Study Factor Type	"genotype"	"diet"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0002755"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_ballard_metabolomics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent 5973 GC-MS"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Drosophila melanogaster lines harboring distinct mitotypes were originally collected in nature (Alstonville, Dahomey) and maintained in cages.
+</p>
+4 isocaloric Protein:Carbohydrate (P:C) diets were prepared by varying yeast, treacle, semolina and sucrose content in a standard base containing 1% agar, 0.1% nipagen, 0.1% propionic acid and 0.001% phosphoric acid. The P:C ratios were 1:2, 1:4, 1:8 and 1:16. The final concentration of ingredients was set at 180 g/l. The 1:2 P:C diet contained 79.4 g of yeast, 73.2 g of semolina, 27.2 g treacle and 0.2 g of sucrose/l (so dietary sucrose comprised ~0.1% of the 1:2 P:C diet). The 1:4 P:C diet contained 46.5 g yeast, 42.4 g semolina, 89.16 g treacle and 1.4 g sucrose/l. The 1:8 P:C diet contained 25.2 g yeast, 23.2 g semolina, 127.5 g treacle and 4.1 g sucrose/l. The 1:16 P:C diet contained 12.9 g of yeast, 11.9 g of semolina, 145.9 g of treacle and 9.3 g sucrose/l (so dietary sucrose comprised ~5% of the 1:16 P:C diet). The autolysed yeast (MP Biomedicals, catalogue no. 103304), contains 45% protein, 24% carbohydrate, 21% indigestible fibre, 8% water and 2% acids, minerals and vitamins. The treacle (CSR, Vic, Australia) contained 0.4% protein, 71% carbohydrate and 0.17% of sodium. The semolina (Quality Food Services, Qld, Australia) contains 11.8% protein, 68.8% carbohydrate, 1.6% fat, 3.2% dietary fibre and 0.0037% sodium. A limitation of these diets is that we could not modify the sugars while maintaining the P:C ratio and caloric content for the high P:C diets.
+</p>
+The fruit diet was constructed by adding 150 g of passion fruit or banana in a standard base containing 1% agar, 0.1% nipagen, 0.1% propionic acid and 0.001% phosphoric acid. The final volume was set at 300 ml.
+</p>
+Metabolomics studies were performed on 4 samples groups - each line fed either 1:2 P:C or 1:16 P:C. Approximately 20 mg of female third instar wandering larvae were collected for each analysis."	"Methanol was added to make up each larval sample to 20 mg/ml. Metabolites were extracted using an ultrasonic probe (30 s), 1 hr incubation at 4 °C and then centrifugation to remove particulates. 100 µl aliquots of the supernatant were derivatised as described previously[1].
+</p>
+Ref:</br>
+[1] Roessner U, Wagner C, Kopka J, Trethewey RN, Willmitzer L. Technical advance: simultaneous analysis of metabolites in potato tuber by gas chromatography-mass spectrometry. Plant J. 2000;23(1):131-42. Epub 2000/08/06. doi:10.1046/j.1365-313x.2000.00774.x. PMID:10929108</br>"	"GC-MS analysis was performed using an Agilent tandem GC/MSD system (Agilent Technologies, CA, USA) which consisted of a 7683 Series autosampler-injector assembly and a 6890 Agilent GC oven interfaced with a 5973 MSD detector. Chromatographic separation was performed on a 30m SH-RXi-5Sil MS column (Shimadzu, NSW, Australia) with 0.25 mm internal diameter and 0.25 µm film thickness. The oven temperature was programmed at 70 °C for 2 min, then ramped at 15 °C/min to 320 °C, and held 8 min."	"Mass spectrometric data was collected with an Agilent 5973 GC/MSD system (Agilent Technologies, CA, USA) controlled by Chemstation software. Electron ionisation mass spectra were recorded at 1.4 scans/s over the range m/z 50–700. The MSD auxiliary temperature, source temperature, and quadrupole temperature were set to 280 °C, 230 °C, and 150 °C, respectively."	"No internal standard was employed. Normalisation was performed by maintaining a constant sample mass per volume. Peak areas were log-transformed and statistical analysis used the limma package. Benjamini-Hochberg’s correction was used to control the FDR."	"Analytes were identified using the NIST 2011-Wiley Mass Spectra Library. GC peaks containing mass spectra with a match quality (spectral purity) of more than 70% were considered to be tentatively identified."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Pickford"
+Study Person First Name	"Russell"
+Study Person Mid Initials	""
+Study Person Email	"r.pickford@unsw.edu.au
+"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

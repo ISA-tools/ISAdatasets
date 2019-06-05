@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MCCV"	"NCBITAXON"	"EFO"	"FYPO"	"ROLEO"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/MCCV"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/FYPO"	"http://data.bioontology.org/ontologies/ROLEO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"8"	"6"	"113"	"271"	"1"	"22"	"86"	
+Term Source Description	"Microbial Culture Collection Vocabulary"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Fission Yeast Phenotype Ontology"	"Role Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS780"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/K2/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS780"
+Study Title	"Linking genetic, metabolic and phenotypic diversity 1 among S. cerevisiae strains using multi-omics associations"
+Study Description	"The selection of bioengineering platform strains and engineering strategies to improve the stress resistance of Saccharomyces cerevisiae remains a pressing need in bio-based chemical production. Thus, a systematic effort to exploit the genotypic and phenotypic diversity to boost yeast’s industrial value is still urgently needed. Here, we analyzed 5400 growth curves obtained from 36 S. cerevisiae strains and comprehensively profiled their resistances against 13 industrially relevant stresses. We observed that bioethanol and brewing strains exhibit higher resistance against acidic conditions, however, plant isolates tend to have wider range of resistance, which may be associated with their metabolome and fluxome signatures in TCA cycle and fatty acid metabolism. By deep genomic sequencing we found that industrial strains have more genomic duplications especially affecting transcription factors, presenting disparate evolutionary paths in comparison to the environmental strains which have more InDels, gene deletions and strain-specific genes. Genome-wide association studies coupled with protein-protein interaction networks uncovered novel genetic determinants of stress resistances. These resistance-related engineering targets and strain rankings provide a valuable source for engineering significantly improved industrial platform strains.</br></br> This metabolomic study of 36 yeast strains measured intra- and extracellular metabolome under standard glucose medium, profiled by GS-MS. This is part of a multi-omic study on yeast strain collection."
+Study Submission Date	"2018-11-05"
+Study Public Release Date	"2019-01-16"
+Study File Name	"s_CfB_Yeast.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Strain"	"multi-omic "	"Platform strain"	"resistance to stress"	"Geno-to-phenotype association"
+Study Design Type Term Accession Number	"http://purl.jp/bio/01/mccv#MCCV_000002"	""	""	"http://purl.obolibrary.org/obo/FYPO_0002046"	""
+Study Design Type Term Source REF	"MCCV"	""	""	"FYPO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Kang Kang; Basti Bergdahl; Daniel Machado; Han Morgan; Jun Li; Laura Dato; Silas Villas-Boas; Markus J. Herrgård; Jochen Förster; Gianni Panagiotou.
+"
+Study Publication Title	"Linking genetic, metabolic and phenotypic diversity among S. cerevisiae strains using multi-omics associations
+"
+Study Publication Status	"Under Review"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Extracellular/Intracellular"
+Study Factor Type	"intracellular"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_0005622"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_EXTRA_cfb_yeast_metabolite_profiling_mass_spectrometry.txt"	"a_INTRA_cfb_yeast_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"A collection of 36 S. cerevisiae strains were studied in this research. Strains were classified into four types: 17 industrial strains (from ethanol production, food and brewing industries), 13 environmental strains (isolated from soil, plant and animals), 4 laboratorial and 2 clinical strains (vaginal isolates). A single colony isolated on YPD agar was used to pre-inoculate 100 ml of minimum mineral (MM) medium (pH 5.5; as described in the media used in measurements of stress conditions) at 30 °C using shake flasks in a rotary shaker at 170 rpm for 24 h. The cells were collected by centrifugation at 2000 x g (4 °C) for 5 min and washed twice in phosphate buffered saline (8 g/l NaCl, 0.2 g/l KCl, 1.44 g/l Na2PO4, 0.24 g/l KH2PO4, at pH 7.5). The cell pellets were resuspended in fermentation medium at an initial OD600 of 1. The medium was the same as the MM medium with D-glucose (20 g/l) at pH 5.5. The cells were incubated in a rotary shaker-incubator (170 rpm) at 30 °C until reached OD600 of 5 for glucose medium and OD600 of 10 for ethanol medium."	"Three shake-flask cultures with ethanol medium (100 ml) were harvested at late exponential growth phase. For intracellular metabolomics analysis, five technical replicates (10 ml) for each culture were rapidly filtered under vacuum (Air Cadet vacuum/pressure station, ThermoFisher), quickly washed with cold saline solution (1-2 °C) and quenched in 2.5 ml of cold methanol water (50 % v/v) at -30 °C as described by Smart et al. Three samples (1 ml) of the microbial cultures were filtered (0.2 μm pore size membrane) to remove the S. cerevisiae cells, and the filtrate was used for the analysis of extracellular metabolites. The sampling procedures for both intracellular and extracellular took less than 30 s per sample. To accommodate the lower OD600 for glucose medium, six shake-flask cultures (100 ml) were harvested at late exponential growth phase and two cultures were rapidly pooled together prior to sampling. For intracellular metabolomics analysis, five technical replicates (20 ml) for each pooled culture were prepared as described for the experiments with ethanol medium.</br></br>
+
+The intracellular metabolites were extracted from the quenched cell pellets using cold methanol/water and freeze-thaw cycles following the protocol optimized by Smart et al. [1]. In brief, the internal standard 2,3,3,3-d4-alanine was added to each sample (0.3 μmol/sample) before extraction. The solution was mixed vigorously for one minute, frozen at -80 °C, and thawed at 4 °C. After the cycle had been repeated two additional rounds, the samples were centrifuged at -20 °C for 15 min at 20,800 x g. The supernatant was collected and the remaining cells were resuspended in 2.5 ml of cold methanol water (70% v/v) at -30 °C. Centrifugation was repeated under the identical conditions and the supernatant collected was pooled with the first collection. The intracellular metabolite extracts and spent culture medium containing extracellular metabolites were lyophilized (BenchTop K manifold freeze dryer, VirTis) before chemical derivatization. The lyophilized samples were derivatized using the methyl chloroformate (MCF) method according to the protocol described by Smart et al. [1]. In summary, the lyophilized samples were resuspended in 200 μl of sodium hydroxide solution (1 M) and transferred to a silanized glass tube, then mixed with 167 µl of methanol and 34 µl of pyridine. The derivatization started by adding 20 µl of MCF followed by vigorously mixing for 30 s, and then a further 20 µl of MCF was added followed by vigorously mixing for 30 s. To separate MCF derivatives from the reactive mixture, 400 µl of chloroform was added and vigorously mixed for 10 s followed by the addition of 400 µl of sodium bicarbonate solution (50 mM), and mixing for an additional 10 s. The aqueous layer was removed and dehydrated with anhydrous sodium sulfate before samples were transferred to GC-MS vials.</br></br>
+The biomass content (dry weight) was determined after intracellular metabolite extraction by drying the collected cell debris using a domestic microwave (250 W for 20 min), cooling in a desiccator overnight, followed by weighing of each sample.</br></br>
+
+Ref:</br>
+[1] Smart KF, Aggio RB, Van Houtte JR, Villas-Bôas SG. Analytical platform for metabolome analysis of microbial cells using methyl chloroformate derivatization followed by gas chromatography–mass spectrometry. Nat Protoc. 2010 Sep;5(10):1709-29. doi: 10.1038/nprot.2010.108. Epub 2010 Sep 30.
+"	"The MCF derivatives were analyzed in an Agilent GC7890 system coupled to a MSD5975 mass selective detector (EI) operating at 70 eV. The column used for all analyses was a ZB-1701 GC capillary column (30 m x 250 μm id x 0.15 μm with 5 m guard column, Phenomenex). The analysis parameters were conducted in accordance with Smart et al. [1].</br></br>
+Ref:</br>
+[1] Smart KF, Aggio RB, Van Houtte JR, Villas-Bôas SG. Analytical platform for metabolome analysis of microbial cells using methyl chloroformate derivatization followed by gas chromatography–mass spectrometry. Nat Protoc. 2010 Sep;5(10):1709-29. doi: 10.1038/nprot.2010.108. Epub 2010 Sep 30."	"Samples were injected under pulsed splitless mode with the inlet temperature at 290 °C. The helium gas flow through the GC-column was set at 1.0 ml/min. The GC-oven temperature was initially held at 45 °C for 2 min. Afterward the temperature was raised with a gradient of 9 °C/min until it reached 180 °C and was held for 5 min. Then the temperature ramped at 40 °C/min until it reached 220 °C and was held for 5 min, after which the temperature was ramped at 40 °C/min until it reached 240 °C and was held for 11.5 min. Finally, the temperature was ramped at 40 °C/min until it reached 280 °C and was held for 2 min. The auxiliary temperature was set to 250 °C, the MS quadrupole temperature was 150 °C, and the MS source temperature was 230 °C. The mass spectrometry was operated in scan mode and began after 5.5 min with mass range between 38-550 amu and scan frequency of 2.9 scans/s. The MS detector was turned off after 40 min."	"AMDIS (Automated Mass Spectral Deconvolution and Identification System) software was employed for deconvoluting GC-MS chromatograms and identifying metabolites using an in-house MCF mass spectra library.</br>
+Metabolite data was transformed before calculating the contribution to each group of pathways and/or metabolite classes. Both intracellular and extracellular metabolites were scaled to the biological range of each metabolite. Extracellular metabolites were first centered by the starting amount prior to scaling. Scaled values of metabolites belonging to a pathway or compound class were added together for each strain to create group variables. Group variables based on intracellular data were centered to the mean of each group; variables based on extracellular data were normalized to the maximum or minimum values (for production and consumption, respectively) among all groups. Hierarchical clustering was applied to the group variables using Euclidian distance between the strains."	"The metabolite identifications were confirmed by both the MS spectrum of the derivatized metabolite and its respective chromatographic retention time. The relative abundance of identified metabolites was extracted by an in-house algorithm developed in R that automatically integrate the GC base-peak value of a selected reference ion. After the false positive and missing values were manually corrected, the abundance values were normalised by the abundance of internal standard (2,3,3,3-d4-alanine) as well as by the biomass content in each samples. In the case of extracellular profile, the abundance values were also normalised by metabolite composition of the culture medium. "
+Study Protocol URI	""	"https://experiments.springernature.com/articles/10.1038/nprot.2010.108"	"https://experiments.springernature.com/articles/10.1038/nprot.2010.108"	"https://experiments.springernature.com/articles/10.1038/nprot.2010.108"	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Kang"	"Panagiotou"
+Study Person First Name	"Kang"	"Gianni"
+Study Person Mid Initials	""	""
+Study Person Email	"kkang@connect.hku.hk"	"gianni.panagiotou@hki-jena.de"
+Study Person Phone	"4.93642E+12"	"+49 3641 532-1759"
+Study Person Fax	""	"+49 3641 532-2759"
+Study Person Address	"Adolf-Reichwein-Straße 23
+07745 Jena
+Germany"	"Adolf-Reichwein-Straße 23
+07745 Jena
+Germany"
+Study Person Affiliation	"Hans Knöll Institute (HKI) "	"Hans Knöll Institute (HKI) "
+Study Person Roles	"author"	"principal"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/RoleO_0000061"	"http://purl.obolibrary.org/obo/RoleO_0000427"
+Study Person Roles Term Source REF	"ROLEO"	"ROLEO"

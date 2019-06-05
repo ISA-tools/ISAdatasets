@@ -1,0 +1,122 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"MS"	"CHMO"	"NCBITAXON"	"NCIT"	"HL7"	"CHEBI"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/HL7"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"86"	"18"	"6"	"44"	"3"	"99"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Health Level Seven Reference Implementation Model, Version 3"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS661"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\karallia.STB\Desktop\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS661"
+Study Title	"Generation and characterization of thiol-deficient Mycobacterium tuberculosis mutants"
+Study Description	"Mycothiol (MSH) and ergothioneine (ERG) are thiols able to compensate for each other to protect mycobacteria such as Mycobacterium smegmatis against oxidative stress. Gamma-glutamylcysteine (GGC), another thiol and an intermediate in ERG biosynthesis has detoxification abilities. Five enzymes are involved in ERG biosynthesis, namely EgtA, EgtB, EgtC, EgtD and EgtE. The role of these enzymes in the production of ERG had been unclear. On the other hand, the enzyme MshA is known to be essential for MSH biosynthesis. In this manuscript, we describe the raw data of the generation and characterization of Mycobacterium tuberculosis (M.tb) mutants harbouring a deletion of the gene coding for each of these enzymes, and the raw data of the phenotypic characterization of the obtained thiol-deficient M.tb mutants. Through a high throughput screening approach, compounds not previously used in a tuberculosis (TB) regimen were identified. Raw data depicting the effect of these compounds on the generated thiol-deficient M.tb mutants, on the production of reactive oxygen species (ROS) and thiols in the M.tb wild type strain are described in this study."
+Study Submission Date	"2018-04-07"
+Study Public Release Date	"2018-04-15"
+Study File Name	"s_mtbls661.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"thiol"	"Gene Deletion"	"biosynthetic enzymes"	"tandem mass spectrometry"	"Tuberculosis"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_29256"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16606"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"	"http://www.orpha.net/ORDO/Orphanet_3389"	""
+Study Design Type Term Source REF	"CHMO"	"CHEBI"	"NCIT"	""	"CHMO"	"EFO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""	"29101028"	"29437626"
+Study Publication DOI	""	"10.1016/j.bbrc.2017.10.163"	"10.1128/AAC.02236-17"
+Study Publication Author List	"Sao Emani C., Williams, M. J., Van Helden P. D., Taylor M. J.C., Calor C., Wiid I.J., Baker B."	"Sao Emani C. Williams M.J. Van Helden, P.D. Taylor, M.J.C., Wiid I.J., Baker B."	"Sao Emani C, Williams MJ, Wiid I, Baker B, Carolis C"
+Study Publication Title	"Generation and characterization of thiol-deficient Mycobacterium tuberculosis mutants"	"Gamma-glutamylcysteine protects ergothioneine-deficient Mycobacterium tuberculosis mutants against oxidative and nitrosative stress"	"Compounds with potential activity against Mycobacterium tuberculosis"
+Study Publication Status	"In Revision"	"Published"	"Published"
+Study Publication Status Term Accession Number	""	""	""
+Study Publication Status Term Source REF	""	""	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Batch"	"Replicate"	"Treatment"
+Study Factor Type	"Gene Knockout"	"block"	"replicate"	"treatment"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143"	"http://www.ebi.ac.uk/efo/EFO_0005067"	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls661_thiols-mycobacteria_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography Tandem MS (LC-MS/MS)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Approximately 15 or 35 ml of actively growing exponential or stationary phase liquid cultures respectively (supplemented with 10% Middlebook oleic acid, albumin and dextrose (OADC)), were pelleted for the extraction of intracellular metabolites. Alternatively, a volume of 5 ml of stationary phase untreated and treated cultures were pelleted and 1 ml of the supernatants were filtered twice and frozen. The pellet was washed once in 5 ml of double distilled sterile water and frozen. Supernatants were lyophilized overnight."	"The pellet was re-suspended in the lysis buffer (40% acetonitrile (ACN), 0.25 M perchloric acid (PA), and 2 mM ethylenediaminetetraacetic acid (EDTA)), and cells were lysed in tubes containing 0.1 mm beads using FastPrep-24 (MP Biomedicals) (5 m/s) 5 times for 50 s with 1-min intermittent cooling steps on ice. The cell extract was clarified by centrifugation, and the pH was equilibrated to between 8 and 9 with 0.4 M ammonium bicarbonate (ABC). The residual beads were removed by centrifugation, and the supernatant was filtered with 13-mm diameter/0.2-µm pores size syringe filters (PVDF or cellulose acetate membrane).
+</p>
+For the quantitation of MSH, all biological replicates of the cell extracts were stored at -20 °C after every extraction. The extracellular fractions (1 ml of the culture supernatant filtered twice) were lyophilized and re-suspended in the extraction buffer used for the intracellular fractions. After pH equilibration with ABC, every sample (intracellular and extracellular fractions) was treated with 0.02 M DTT (Dithiothreitol) for 10 min at room temperature and derivatized the same day with a final concentration of 2 mM monobromobimane of (mBBr) at 60 °C for ~15 min in the dark.
+</p>
+For the quantification of ERG the derivatization was performed using a previously described method as follows. The intracellular and extracellular fractions were lyophilized and re-suspended in 300 µl of the resuspension buffer (2.48 mg/ml diethylenetriaminepentaacetic acid (DTPA) in 0.1% trifluoroacetic acid (TFA)). A volume of 250 µl of the suspension was added to 450 µl of the derivatization buffer (2.48 mg/ml DTPA and 48 mg/ml HEPES, pH 8.2) that contained a final concentration of 0.7 mM mBBr. After derivatization at 45 °C for 45 min in the dark, the reaction was quenched with 143 mM HCl.
+</p>
+Alternatively all thiols were exrtracted/derivatized using a second method as follows: the lyophilized supernatants and the frozen pellets were re-suspended in 500 µl of the lysis buffer (50% acetonitrile, 20 mM Hepes ~pH 8, 2 mM monobromobimanne) and sonicated at 60 ºC in a water bath sonicator for 30 min protected from the light. Lysed samples were centrifuged and the supernatants were filtered and acidified to a final concentration of ~1 mM acetic acid. Acidified samples were processed for UPLC-MS analyses for the quantification of MSH, ERG, GGC as previously described."	"Quantification by UPLC-ESI-MS/MS of MSH was performed with a Waters Acquity UPLC system coupled to a Waters Xevo TQ MS system (Waters Corporation, Milford, MA, USA). Compounds were separated on a Waters Acquity HSS T3 column (2.1 x 100mm; 1.7 µm particle diameter) at 40 °C using a gradient of 0.1% formic acid/water (solvent A) to 0.1% formic acid/acetonitrile (solvent B) at a flow rate of 0.35 ml/min. The acetonitrile concentration was increased linearly to 50% over 9 min, and thereafter to 100% after 10 min. The column was re-equilibrated for 3.5 min (the total run time was 14 min). The source capillary was held at 3 kV. The source and de-solvation temperatures were 140 °C and 400 °C, respectively. The de-solvation and cone gas flows were 600 and 50 l/h, respectively. Quantification by UPLC-ESI-MS/MS of other metabolites (ERG, GGC and hercynine) was performed similarly with the same system. Compounds separation was performed using the same column specification at 40 °C using a gradient of 10 mM ammonium acetate/water (solvent A) to 49:49:2% acetonitrile:methanol:isopropanol (solvent B) at a flow rate of 0.34 ml/min.  Solvent B was increased to 1% after 1 min, followed by linear increases to 6% at 10.5 min, 15%  at 12 min, 90 % at 13 min where it was held until 13.5 min. The column was re-equilibrated for 3.4 min (the total run time was 17 min)."	"Quantification by UPLC-ESI-MS/MS of MSH was performed with a Waters Acquity UPLC system coupled to a Waters Xevo TQ MS system (Waters Corporation, Milford, MA, USA). The operating parameters were as follows: capillary, 3 kV; source temperature: 140 °C; desolvation temperature: 400 °C; desolvation gas: 600 (l/h); cone gas: 50 (l/h). Quantification by UPLC-ESI-MS/MS of other metabolites (ERG, GGC and hercynine) was performed similarly with the same system."	"The raw or processed Waters data were processed in MassLynx (Waters software).
+</p>
+Analysis of metabolomics raw data:</br>
+For absolute quantifications such as that of ERG and GGC, the concentration derived from the standard curve was given in þg/µl. The total amount per vial was calculated by multiplying the given concentration by the total resuspension volume (820ul for Batch-1, 500 µl for Batch-2 and -3). This was further divided by the total volume of culture from which the sample was extracted, to have the final concentration per ml of culture, which was subsequently divided by the predetermined CFU per ml of culture for each strain. Alternative the total CFU per total volume of culture from which each sample derived was calculated and used to normalize the total amount of metabolite per vial to have the concentration of metabolite per 10^5 CFU. Volume of culture from which intracellular samples derived  was 35 ml for Batch-1, and 5 ml for Batch-2 and Bacth-3. While all extracellular samples derived from 1 ml of cultures.
+</p>
+For the relative quantifications such as that of MSH and hercynine, the given peak area was multiplied by half the total resuspension volume (assuming the peak area corresponds to 2 µl, since the injection volume was 2 µl). The total peak area was divided by the culture volume and subsequently by the CFU count, simply by dividing by the pre-calculated total CFU as described above. Alternatively, ERG standard curve was used to deduce the absolute concentration of MSH in the data deriving from the second method (Batch-2). Values are represented as peak areas or picogram per 10^5 CFUs."	"A range of mass transitions (MRMs) was set up for the various compounds as detailed below.</br>
+</br>
+Compound name	Parent m/z	Daughter m/z	Cone (V)	Collision (V)</br>
+Hercynine	198	95	15	15</br>
+Hercynine	198	154	15	15</br>
+Ergothioneine	420.1	185	30	25</br>
+Ergothioneine	420.1	376	30	20</br>
+gamma-glutamyl- cysteine	441	225	30	30</br>
+gamma-glutamyl- cysteine	441	378	30	20</br>
+Mycothiol	677	192	30	25</br>
+Mycothiol	677	336	30	25</br>
+Mycothiol	677	497	30	25</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sao"	"Taylor"
+Study Person First Name	"Carine"	"Malcolm"
+Study Person Mid Initials	""	"MJC"
+Study Person Email	"karallia@sun.ac.za"	"mtaylor@sun.ac.za"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Cape Town, South Africa
+Stellenbosch University
+Faculty of Medicine and Health sciences
+Department of Biomedical Sciences
+Division of Molecular Biology and Human Genetics
+"	"Cape Town, South Africa
+Stellenbosch University
+Central analytical FacilityCentral analytical facility, Mass spectrometry unit, JC Smuts Building, Room 255"
+Study Person Affiliation	"Research Fellow"	"Senior analyst"
+Study Person Roles	"Investigator"	"Technician"
+Study Person Roles Term Accession Number	""	"http://purl.bioontology.org/ontology/HL7/C3853800"
+Study Person Roles Term Source REF	""	"HL7"

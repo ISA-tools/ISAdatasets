@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"BAO"	"OBI"	"MS"	"MESH"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"146"	"5"	"19"	"22"	"86"	"6"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BioAssay Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS522"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersLynnDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS522"
+Study Title	"Effects of Centella asiatica extract on antioxidant status and liver metabolome of rotenone-treated rats using GC-MS"
+Study Description	"The standardized extract of Centella asiatica (ECa233) contains >80% triterpenoids with a ratio of madecassoside to asiaticoside of 1.5(±0.5):1. Hepatoprotective effect of ECa233 has not yet been reported. The aim of this study was to examine the effect of ECa233 on liver metabolome of rotenone-treated rats to better understand the underlying mechanisms of this bioactive substance in liver tissue. Rats were randomly divided into three groups (with six rats/group): sham negative control, rotenone positive control, and the ECa233 test group. Rats in the ECa233 group received 10 mg/kg ECa233 orally for 20 days, followed by 2.5 mg/kg intraperitoneal rotenone injection to induce toxicity before being sacrificed. The liver samples were collected for antioxidant assays and untargeted metabolomic analysis using a GC-MS. Antioxidant tests revealed that ECa233 inhibited lipid peroxidation and increased catalase activities in liver tissue. Orthogonal partial least squares-discriminant analysis clearly showed complete separation between control and rotenone groups, whereas the ECa233 group was located between these two groups and tended to reverse the effects of rotenone treatment. Two candidate markers were identified, pipecolinic acid and Unknown #21. Findings from this study suggested that supplementation of ECa233 protected rat liver against rotenone toxicity. However, further investigations are needed to elucidate the mechanisms involved."
+Study Submission Date	"2017-08-11"
+Study Public Release Date	"2018-11-11"
+Study File Name	"s_ECa233_metabolomics.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"gas chromatography-mass spectrometry"	"untargeted metabolites"	"Centella asiatica extract"	"liver metabolome"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000497"	""	"http://purl.bioontology.org/ontology/MESH/C526146"	""
+Study Design Type Term Source REF	"CHMO"	""	"MESH"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"30242859"
+Study Publication DOI	"10.1002/bmc.4395"
+Study Publication Author List	"Intararuchikul T, Teerapattarakan N, Rodsiri R, Tantisira M, Wohlgemuth G, Fiehn O, Tansawat R."
+Study Publication Title	"Effects of Centella asiatica extract on antioxidant status and liver metabolome of rotenone-treated rats using GC-MS."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"herbal supplements"
+Study Factor Type	"Dietary Supplements"
+Study Factor Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D019587"
+Study Factor Type Term Source REF	"MESH"
+STUDY ASSAYS
+Study Assay File Name	"a_eca233_metabolomics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"7000C Triple Quadrupole GC/MS (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Adult male Wistar rats weighing 300-350 g were obtained from the National Laboratory Animal Center, Mahidol University (Nakhon Prathom, Thailand). All rats were housed under the controlled conditions of 25 ± 2 °C with proper humidity and 12-hr dark/light cycles. Standard rat food and tap water were freely available in their home cage during the entire experimental process. All experimental procedures were approved by the Institutional Animal Care and Use Committee of the Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, Thailand (Approval No. 1533-004).
+</p>
+Rats were randomly divided into 3 groups (N = 18); control, rotenone and ECa233. On day 1 – 20, rats in control and rotenone groups received 1 ml/kg of 0.5% carboxymethyl cellulose (CMC), while rats in the ECa233 group received 10 mg/kg ECa233 in 0.5% CMC orally. On day 15 – 20, 2.5 mg/kg rotenone in sunflower oil was intraperitoneally injected in rotenone and ECa233 groups whereas 2% dimethyl sulfoxide (DMSO) in sunflower oil was injected in the control animals. On day 21, all animals were euthanized under pentobarbital anaesthesia (50 mg/kg intraperitoneally). Liver samples were immediately removed, snap-frozen in liquid nitrogen and stored at -80 °C until further measurements of metabolome and antioxidant capacities."	"Metabolomic analysis of rat liver samples were carried out using a previously published validated method[1]. 200 mg of fresh liver sample was homogenized (Glas-Col® homogenizer, Terre Haute, IN, USA) in 1 ml of 1 M sodium chloride. A 250 µl volume of acetone was immediately added into 100 µl liver homogenate to stop enzymatic activity. Then, samples were spiked with an internal standard (10 µl of 2 mg/ml of sodium deoxycholate), vigorously shaken for 1 min and incubated on ice for 5 min. Next, the mixtures were centrifuged at 10,000 rpm for 10 min (Sorvall™ Legend™ micro 21R, Thermo Scientific™, Waltham, MA, USA). 200 µl of supernatant was then transferred to a GC vial and evaporated under nitrogen. A 50 µl of 15 mg/ml methoxyamine pyridine, followed by 90 µl of MSTFA with 1% TMCS, were used for derivatization at room temperature for 1 hr. Subsequently, 150 µl of n-heptane was added and filtered. Supernatant was used for further analysis.
+</p>
+Ref:</br>
+[1] Wang MH, Palmeri ml, Guy CD, Yang L, Hedlund LW, Diehl AM, Nightingale KR. In vivo quantification of liver stiffness in a rat model of hepatic fibrosis with acoustic radiation force. Ultrasound Med Biol. 2009 Oct;35(10):1709-21. doi:10.1016/j.ultrasmedbio.2009.04.019. PMID:19683381</br>"	"Separation was performed by gas chromatography-mass spectroscopy with a GC-MS 7890B GC system/7000C GC/MS Triple Quadrupole (Agilent Technologies, Santa Clara, CA, USA) with HP-5ms column (30 m x 0.25 mm x 0.25 µm). 1 µl of derivatized samples was injected by the autosampler equipped with a 10-µl syringe with the split ratio 1:10 into a split, straight glass wool liner, using helium as a carrier gas at a flow of 1.0 ml/min. The syringe was washed at least 3 times with acetone between the adding steps. The inlet temperature was set at 250 °C. The column temperature was initially set at 85 °C for 5 min. The temperature was increased to 205 °C at 8 °C/min and maintained for another 5 min. The temperature was increased again to 300 °C at a rate of 8 °C/min and held for 15 min."	"The Agilent 7000C GC/MS Triple Quadrupole mass spectrometer transfer line was kept at 300 °C. The temperature of the ion source was 230 °C. The acquisition was performed in electron impact mode (70 eV) at the rate of 2 scan/s. Full-scan mass spectra were acquired from 33 to 650 m/z with a scan rate of 5 spectra/s."	"Data analysis and interpretation were performed by MetaboAnalyst 3.0[1]. Data were log transformed and pareto scaled. 
+</p>
+Ref:</br>
+[1] Xia J, Sinelnikov IV, Han B, Wishart DS. MetaboAnalyst 3.0--making metabolomics more meaningful. Nucleic Acids Res. 2015 Jul 1;43(W1):W251-7. doi:10.1093/nar/gkv380. PMID:25897128</br>"	"Peak picking and deconvolution were performed using MS-DIAL version 2.27[1] for the systematic detection of possible metabolites that were conserved across the samples. Metabolites were identified by a database search against the NIST 14 mass spectral library and the 2009 Fiehn metabolomics library. 
+</p>
+Ref:</br>
+[1] Tsugawa H, Cajka T, Kind T, Ma Y, Higgins B, Ikeda K, Kanazawa M, VanderGheynst J, Fiehn O, Arita M. MS-DIAL: data-independent MS/MS deconvolution for comprehensive metabolome analysis. Nat Methods. 2015 Jun;12(6):523-6. doi:10.1038/nmeth.3393. PMID:25938372</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Tansawat"
+Study Person First Name	"Rossarin"
+Study Person Mid Initials	""
+Study Person Email	"rossarin.t@pharm.chula.ac.th"
+Study Person Phone	"+6622188297"
+Study Person Fax	""
+Study Person Address	"Department of Food and Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences"
+Study Person Affiliation	"Chulalongkorn University"
+Study Person Roles	"principal investigator role"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000103"
+Study Person Roles Term Source REF	"OBI"

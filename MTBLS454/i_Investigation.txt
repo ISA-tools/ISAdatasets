@@ -1,0 +1,103 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"CHMO"	"MS"	"NCIT"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"6"	"18"	"146"	"5"	"129"	"44"	"22"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS454"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersncharrisDesktopISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS454"
+Study Title	"Biosynthesis of Isonitrile Lipopeptides by Conserved Non-ribosomal Peptide Synthetase Gene Clusters in Actinobacteria"
+Study Description	"A putative lipopeptide biosynthetic gene cluster is conserved in many species of Actinobacteria, including Mycobacterium tuberculosis and Mycobacterium marinum, but the specific function of the encoding proteins has been elusive. Using both in vivo heterologous reconstitution and in vitro biochemical analyses, we have revealed that the five encoding biosynthetic enzymes are capable of synthesizing a new family of isonitrile lipopeptides (INLPs) through a thio-template mechanism. The biosynthesis features the generation of isonitrile from a single precursor Gly promoted by a thioesterase and a non-heme iron(II)-dependent oxidase homologue, and the acylation of both amino groups of Lys by the same isonitrile acyl chain facilitated by a single condensation domain of a non-ribosomal peptide synthetase (NRPS). In addition, the deletion of INLP biosynthetic genes in M. marinum has decreased the intracellular metal concentration, suggesting the role of this biosynthetic gene cluster in metal transport."
+Study Submission Date	"2017-05-07"
+Study Public Release Date	"2017-07-18"
+Study File Name	"s_Isonitrile Lipopeptides.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Isonitrile lipopeptides (INLPs)"	"high-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"CHMO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28634299"
+Study Publication DOI	"10.1073/pnas.1705016114"
+Study Publication Author List	"Harris NC, Sato M, Herman NA, Twigg F, Cai W, Liu J, Zhu X, Downey J, Khalaf R, Martin J, Koshino H, Zhang W."
+Study Publication Title	"Biosynthesis of isonitrile lipopeptides by conserved nonribosomal peptide synthetase gene clusters in Actinobacteria."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"In Vitro / In Vitro"
+Study Factor Type	"Bioassay"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16341"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_isonitrile_lipopeptides_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Agilent 6520 QTOF"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"In vivo samples were collected (processed) by extracting cell cultures with an equal volume of CHCl3, followed by drying with N2 gas, and redissolving with 50 μl of MeOH."	"In vitro assays were performed in 50 μl of 50 mM HEPES (pH 8.0) containing 5 mM ATP, 2 mM MgCl2, 5 mM acid substrate (C4-C12), 0-50 μM of each protein, 1 mM TCEP, 2 mM NADPH, and 5 mM Lys. The reaction mixture was mixed gently and incubated for two hours at room temp. After incubation, the reaction was quenched with 50 ul MeOH and protein residues were removed by centrifugation.
+</p>
+In vivo assays were conducte with E. coli BAP1 strain harnessing plasmids containing either scoA-E or mmaA-E were grown in triplicate along with a control harnessing empty vectors. 30 ml cultures were grown at 37 ºC in LB containing appropriate antibiotics until OD600 0.5 and induced with 0.5 mM IPTG. For E. coli-mmaA-E, decenoic acid or dodecenoic acid was fed to a final concentration of 1 mM at the time of induction. After induction, the temperature was decreased to 20 ºC, and compound production was allowed to proceed for approximately 48 h. The culture was extracted with an equal amount of chloroform. The organic extract was dried and redissolved in methanol and analyzed via liquid chromatography-high resolution mass spectroscopy (LC-HRMS).
+</p>
+More information for both in vivo heterologous reconstitution and in vitro biochemical analyses can be found in the associated publication."	"LC-HRMS analysis was normally performed using an Agilent Eclipse Plus C18 column (4.6 Å ~100 mm) with a linear gradient of 5 to 98% CH3CN (v/v) over 30 min in H2O with 0.1% (v/v) formic acid (for ScoABC), or 15 to 98% over 20 min followed by 10 min at 98% CH3CN (v/v) in H2O with 0.1% (v/v) formic acid (for MmaABC), at a flow rate of 0.5 ml/min.
+</p>
+For ScoBCD experiments, a linear gradient of 10 to 50% CH3CN (v/v) over 12 min in H2O with 0.1% (v/v) formic acid, at a flow rate of 0.5 ml/min was used.
+</p>
+For MmaBCD experiments, a linear gradient of 20 to 98% CH3CN (v/v) over 18 min in H2O with 0.1% (v/v) formic acid, at a flow rate of 0.5 ml/min was used.
+</p>
+XCMS software was used for untargeted metabolomic comparisons of extracts from strains containing scoA-E or mmaA-E to the empty vector control. In a typical small-scale metabolomics analysis, for compounds 323 and 365, a linear gradient of 10-50% CH3CN (vol/vol) over 12 min in H2O with 0.1% (vol/vol) formic acid at a flow rate of 0.5 ml/min was used. For compounds 505 and 561, a linear gradient of 50-98% CH3CN (vol/vol) over 12 min in H2O with 0.1% (vol/vol) formic acid at a flow rate of 0.5 ml/min, or a linear gradient of 10 to 98% over 30 min followed by 10 min at 98%. "	"MS was conducted using an Agilent 6520 QTOF in positive mode. MSMS was conducted using targeted MSMS and a collision energy of 15 V."	"Data was converted from .d to mzdata using the export selected spectra feature in the Agilent MassHunter Software package."	"HRMS analysis was conducted using a 10 ppm threshold which allowed for formula prediction. This combined with bioinformatics predictions, 2D NMR of 323 and 365 metabolites, and labeled substrate feeding, allowed for verification of metabolite structure and correct formula assignment."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Harris"	"Zhang"
+Study Person First Name	"Nicholas"	"Wenjun"
+Study Person Mid Initials	"C"	""
+Study Person Email	"ncharris@berkeley.edu"	"wjzhang@berkeley.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"UC Berkeley"	"UC Berkeley"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

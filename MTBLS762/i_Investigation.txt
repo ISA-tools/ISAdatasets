@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PR"	"NCBITAXON"	"CHMO"	"EFO"	"MEDDRA"	"BAO"	"MS"	"OBI"	"CHEBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/PR"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MEDDRA"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"57"	"6"	"18"	"146"	"3"	"19"	"129"	"22"	"99"	"29"	
+Term Source Description	"Protein Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Dictionary for Regulatory Activities"	"BioAssay Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS762"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"D:\Yan bingpeng\Dr Yuan SF\AM580-lipidomics\AM580-Publish\Metabolights-submission\ISA creator\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS762"
+Study Title	"Targeting the SREBP-dependent lipidomic reprogramming by virus infection for broad-spectrum therapeutic intervention"
+Study Description	"Viruses are obligate intracellular parasites that exploit the host metabolic machineries to meet their extraordinary biosynthetic demands. Integrative transcriptomic and lipidomic profiling confirmed that Middle East respiratory syndrome coronavirus (MERS-CoV) infection reprograms the host lipid metabolism. By exploring a bioactive lipid library, we identified a tool compound, AM580 which is highly potent in interrupting the life cycle of diverse viruses including MERS-CoV and influenza A virus.</br> Using click chemistry, the sterol regulatory element binding protein (SREBP) was identified as the primary cellular target of AM580 which accounts for its broad-spectrum antiviral activity. Mechanistic studies pinpoint multiple SREBP proteolytic processes and SREBP-regulated lipid biosynthesis pathways, including the downstream viral protein palmitoylation and double-membrane vesicles formation, that are indispensable for virus replication. Collectively, our study identifies a basic lipogenic transactivation event with broad relevance to human viral infections and represents SREBP as an ideal target for the development of broad-spectrum intervention strategies."
+Study Submission Date	"2018-10-06"
+Study Public Release Date	"2018-11-26"
+Study File Name	"s_Study id.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"lipid"	"antiviral drug"	"sterol regulatory element-binding protein"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_18059"	"http://purl.obolibrary.org/obo/CHEBI_36044"	"http://purl.obolibrary.org/obo/PR_000028988"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"CHEBI"	"BAO"	"PR"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Shuofeng Yuan1,2#, Hin Chu1,2#, Jasper Fuk-Woo Chan1,2,3#, Zi-Wei Ye2, Lei Wen2, Bingpeng Yan2, Pok-Man Lai2, Kah-Meng Tee2, Jingjing Huang2, Dongdong Chen2, Cun Li2, Xiaoyu Zhao2, Dong Yang2, Man Chun Chiu2, Cyril Chik-Yan Yip2, Vincent Kwok-Man Poon2, Chris Chung-Sing Chan2, Kong-Hung Sze1,2, Jie Zhou1,2, Ivy Hau-Yee Chan4, Kelvin Kai-Wang To1,2,3, Richard Yi-Tsun Kao1,2,3, Johnson Yiu-Nam Lau2, Stanley Perlman5, Kwok-Yung Yuen1,2,3,6*"
+Study Publication Title	"Targeting the SREBP-dependent lipidomic reprogramming by virus infection for broad-spectrum therapeutic intervention"
+Study Publication Status	"submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"MERS-CoV infection"	"AM580-treatment"	"Replicate"	"Cell line"
+Study Factor Type	"Middle East respiratory syndrome"	"treatment"	"biological replicate"	"immortal cell line cell"
+Study Factor Type Term Accession Number	"http://purl.bioontology.org/ontology/MEDDRA/10075271"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0002091"	"http://purl.obolibrary.org/obo/CL_0000002"
+Study Factor Type Term Source REF	"MEDDRA"	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_am580-treatment-mers-cov-1_metabolite_profiling_mass_spectrometry.txt"	"a_am580-treatment-mers-cov-1_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection and extraction"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The MERS-CoV (HCoV-EMC/2012, a gift from Dr. Ron 12 Fouchier) were propagated in Vero-E6 cells. Cultured viruses were titrated by plaque forming unit (PFU) assays and/or 50% tissue culture infectious dose (TCID50) assay as we previously described with slight modifications [1]. Virus stocks were kept at −80 °C in aliquots.</br></br>  
+Human lung adenocarcinoma (Calu-3) cells were obtained from ATCC (HTB-55) and confirmed to be free of mycoplasma contamination by Plasmo Test (InvivoGen). Calu-3 cells were mock infected or infected with MERS-CoV at 2 MOI and incubated in DMEM medium (FBS-free). At 24 hrs post infection, cells were collected for cellular lipid extraction. Inactivation of virus infectivity was confirmed before further processing as we previously described with some modifications.</br></br> 
+
+The sample preparation was performed with minor modifications according to the Mplex method [2][3]. Briefly, medium was removed from infected cells at 24 hpi and the cells were immediately washed twice with ice-cooled quenching buffer consisted of 60% methanol and 0.85% ammonium bicarbonate in water. After quenching buffer removed, 500 μl of ice-cold 150mM ammonium bicarbonate solution was added to dissociate cells. The cells were then scraped and transferred into 15ml tubes (Nunc, Thermo Fisher, USA) on ice. An aliquot (50μl) of cell suspension was removed for DNA extraction (DNA mini-kit; QIAGEN, Germany) to perform cell count normalization.</br></br> 
+
+Ref:</br>
+[1] Kao RY, Yang D, Lau LS, Tsui WHW, Hu L, Dai J, Chan MP, Chan CM, Wang P, Zheng BJ, Sun J, Huang JD, Madar J, Chen G, Chen H, Guan Y, & Yuen KY. (2010) Identification of influenza A nucleoprotein as an antiviral target. Nat Biotechnol 11 28, 600-605.</br>
+[2] Burnum-Johnson KE, Kyle JE, Eisfeld AJ, Casey CP, Stratton KG, Gonzalez JF, Habyarimana F, Negretti NM, Sims AC, Chauhan S, Thackray LB, Halfmann PJ, Walters KB, Kim YM, Zink EM, Nicora CD, Weitz KK, Webb-Robertson BM, Nakayasu ES, Ahmer B, Konkel ME, Motin V, Baric RS, Diamond MS, Kawaoka Y, Waters KM, Smith RD, Metz TO. (2017) MPLEx: a method for simultaneous pathogen inactivation and extraction of samples for multi-omics profiling. Analyst 142, 442-448.</br>
+[3] Nakayasu ES, Nicora CD, Sims AC, Burnum-Johnson KE, Kim YM, Kyle JE, Matzke MM, Shukla AK, Chu RK, Schepmoes AA, Jacobs JM, Baric RS, Webb-Robertson BJ, Smith RD, Metz TO. (2016) MPLEx: a Robust and Universal Protocol for Single-Sample Integrative Proteomic, Metabolomic, and Lipidomic Analyses. Msystems 1."	"Lipid extraction solution (2 ml) (-20 °C chloroform/methanol; 2:1, v/v) containing IS was added to the tubes of dissociated cells. A 100 μl aliquot of the mixed solution was removed for the confirmation of sterility by infectivity assay after lipid extraction. The remaining solution was centrifuged at 4500 rpm for 10 min at 4 °C and the bottom phase was transferred to a glass vial and dried using a vacuum concentrator for storage at -80 °C. Inactivation of virus infectivity was confirmed before further processing as we previously described with some modifications [1].</br>
+For analysis, the dried samples were reconstituted in 300 μl solvent mixture containing chloroform/methanol (v/v, 2:1). After centrifugation at 14000 rpm for 10 min at 4°C, supernatants were transferred to LC vial for LC-MS analysis.</br></br>
+Ref:</br>
+[1] Sze KH, Lam WH, Zhang H, Ke YH, Tse MK, Woo PCY, Lau SKP, Lau CCY, Cai JP, Tung ETK, Lo RKC, Xu S, Kao RYT, Hao Q, Yuen KY. (2017) Talaromyces marneffei Mp1p Is a Virulence Factor that Binds and Sequesters a 26 Key Proinflammatory Lipid to Dampen Host Innate Immune Response. Cell Chem Biol 24, 182-27 194.</br>"	"The chromatography was performed on a Waters ACQUITY BEH C18 column (1.7 μm, 2.1×100 mm, I.D., 1.7 mm, Waters, Milford, MA, USA). The mobile phase consisted of (A) 0.1% acetic acid in water and (B) acetonitrile. The separation was performed at a flow rate of 0.4 ml/min under a gradient program as follows: 0.5% B (0 to 1.5 min), 0.5 to 8% B (1.5 to 2 min), 8 to 35% B (2 to 7 min), 35 to 70% B (7 to 13 min), 70 to 99.5% B (13 to 29 min), 99.5% B (29 to 36 min). In order to achieve rapid equivalence, the flow rate was changed to 0.5 ml/min after 36 mins and the subsequent gradient program as follows: 99.5% B (36 to 36.1 min), 99.5 to 0.5% B (36.1 to 38.1 min), 0.5% B (38.1 to 40 min). The column and autosampler temperature were maintained at 45 °C and 10 °C, respectively. The injection volume was 8 µl.</br>"	"The mass spectral data were acquired in both positive and negative mode. The capillary voltage, sampling cone voltage and source offset were maintained at 2.5 kV, 60 V, and 60 V, respectively. Nitrogen was used as desolvation gas at a ﬂow rate of 800 l/h. The source and desolvation temperatures were maintained at 120 °C and 400 °C, respectively. Mass spectra were acquired over the m/z range of 50 to 1200. The SYNAPT G2-Si HDMS system was calibrated using sodium formate clusters and operated in sensitivity mode. Leucine enkephalin was used as a lock mass for all experiments. The MS data acquired mode is MSE for lipids profile and MS/MS acquisition was operated in the same parameter as in MS acquisition for lipids identification. Collision energy was used with the range from 20 to 40 eV for fragmentation to allow putative identiﬁcation and structural elucidation of the signiﬁcant lipids."	"Acquisition of the raw data was performed using MassLynx software version 4.1 (Waters Corp., MA, USA) and these raw data were firstly converted into the Analysis Base File (ABF) format. Then converted data were subsequently deconvolved into mass feature (MF) list using the MS-DIAL software (http://prime.psc.riken.jp/, version2.46). Processed data were then exported as a text file for further statistical analysis."	"The protocol of lipid identification was carried out according to published procedure [1][2]. The statistically signiﬁcant features were given annotation names by MS-DIAL once the MS features could match internal library criterion. MFs with significant abundance were selected for MS/MS experiment and analysis. All putative lipids were identified by using exact molecular weights, nitrogen rule, MS2 fragment and literature/database searches including METLIN database (http://metlin.scripps.edu/), Human Metabolome Database (http://www.hmdb.ca/), LipidMaps (http://www.lipidmaps.org/) and KEGG database (http://www.genome.jp/kegg). For final confirmation of lipids identity using authentic chemical standard, MS/MS fragmentation pattern of the chemical standard was compared with that of candidate lipids under the same LC-MS condition.</br></br>
+Ref:</br>
+[1] Tsugawa H, Cajka T, Kind T, Ma Y, Higgins B, Ikeda K, Kanazawa M, VanderGheynst J, Fiehn O, Arita M. (2015) MS-DIAL: data-independent MS/MS deconvolution for comprehensive 33 metabolome analysis. Nat Methods 12, 523-526.</br> 
+[2] Zhu ZJ, Schultz AW, Wang J, Johnson CH, Yannone SM, Patti GJ, Siuzdak G. (2013) Liquid chromatography quadrupole time-of-flight mass spectrometry 3 characterization of metabolites guided by the METLIN database. Nat Protoc 8, 451-460."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Yuan"	"Chu"	"Chan"	"Yuen"
+Study Person First Name	"Shuo Feng"	"Hin"	"Jasper, Fuk Woo"	"Kwok Yung"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"yuansf@hku.hk"	"hinchu@hku.hk"	"jfwchan@hku.hk"	"kyyuen@hkucc.hku.h"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	"State Key Laboratory of Emerging Infectious Diseases, Department of Microbiology and Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China"	"State Key Laboratory of Emerging Infectious Diseases, Department of Microbiology and Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China"	"State Key Laboratory of Emerging Infectious Diseases, Department of Microbiology and Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China"	"State Key Laboratory of Emerging Infectious Diseases, Department of Microbiology, Carol Yu Centre for Infection, and The Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China"
+Study Person Affiliation	"The university of Hong Kong"	"The university of Hong Kong"	"The university of Hong Kong"	"The university of Hong Kong"
+Study Person Roles	"First author"	"First author"	"First author"	"principal investigator"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"NCIT"	"OBI"	"CHEBI"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"18"	"6"	"44"	"22"	"99"	"29"	"43"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS841"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\luca\Documents\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS841"
+Study Title	"Characterization of Yak Common Biofluids Metabolome by Means of Proton Nuclear Magnetic Resonance Spectroscopy"
+Study Description	"The aim of this study was to evaluate the metabolic profiles of yak (Bos grunniens) serum, feces, and urine by using proton nuclear magnetic resonance (1H-NMR), to serve as a reference guide for the healthy yak milieu. A total of 108 metabolites, giving information about diet, protein digestion, and energy generation or gut-microbial co-metabolism, were assigned across the three biological matrices. A core metabolome of 15 metabolites was ubiquitous across all biofluids. Lactate, acetate, and creatinine could be regarded as the most abundant metabolites in the metabolome of serum, feces, and urine, respectively. Metabolic pathway analysis showed that the molecules identified could be able to give thorough information about four main metabolic pathways, namely valine, leucine, and isoleucine biosynthesis; phenylalanine, tyrosine, and tryptophan biosynthesis; glutamine and glutamate metabolism; and taurine and hypotaurine metabolism."
+Study Submission Date	"2019-01-23"
+Study Public Release Date	"2019-04-01"
+Study File Name	"s_mtbls841.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30832316"
+Study Publication DOI	"10.3390/metabo9030041"
+Study Publication Author List	"Zhu C, Li C, Wang Y, Laghi L."
+Study Publication Title	"Characterization of Yak Common Biofluids Metabolome by Means of Proton Nuclear Magnetic Resonance Spectroscopy."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Biofluid"
+Study Factor Type	"Body Fluid or Substance"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13236"
+Study Factor Type Term Source REF	"NCIT"
+Comment[Age]	""
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls841_Serum_NMR_spectroscopy.txt"	"a_mtbls841_Urine_NMR_spectroscopy.txt"	"a_mtbls841_Feces_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Serum, feces, and urine sampling was carried out in a public abattoir located in the pastoral area of Litang County (altitude 4000 m) at the end of August. This is the time of the year when yaks are traditionally slaughtered for meat, due to their optimal health conditions and highest weight.
+</br></br>
+5 specimens of male Jiulong yak (approximately 3 years of age, receiving no supplementation) were randomly selected for the current experiment. The yaks were transported to the abattoir (without modern slaughtering equipment), held in lairage for 24 h (water supplementation until 3 h before slaughtering), and then sacrificed according to the local traditional manual procedures of yak slaughter[1].
+</br></br>
+Upon slaughtering, 10 ml of blood was collected using disposable syringes (10 ml, without clotting activator, Jiangyin Fanmei Medical Device Co., Ltd., Jiangyin, Jiangsu, China) from the abdominal vein and immediately transferred to sterile conical tubes. Blood samples were left at room temperature for 45 min to allow coagulation without centrifugation, and subsequently, the serum was separated from the blood clot. Urine samples were collected by cystocentesis upon direct bladder visualization using a sterile syringe while feces were collected as the animals defecated during the slaughtering process. All the above-mentioned samples were transported in dry ice and stored at −80 °C until analysis.
+</br></br>
+Ref:</br>
+[1] Wiener G, Han J, Long R. The yak, 2nd ed.; FAO Regional Office for Asia and the, Pacific, Ed.; FAO Regional Office for Asia and the Pacific: Bangkok, 2003; ISBN 92-5-104965-3.</br>"	"Serum samples were prepared for 1H-NMR by thawing and centrifuging 1 ml of each sample for 15 min at 18,630 x g and 4 °C. 500 μl of supernatant was added to 100 μl of NMR analysis solution (see below). Urine samples were prepared for 1H-NMR by means of thawing and centrifuging them for 15 min at 18,630 x g at 4 °C. An amount of supernatant equal to 350 μl was added to 350 μl of bi-distilled water and to 200 μl of NMR analysis solution (see below). Fecal samples were prepared for 1H-NMR analysis by vortex mixing for 5 min 80 mg of stool with 1 ml of deionized water. The obtained mixes were then centrifuged for 15 min at 18,630 x g and 4 °C, and 700 μl of supernatant was added to 200 μl of NMR analysis solution (see below). Finally, each of the obtained samples was centrifuged again at the above conditions just before analysis."	"An NMR analysis solution was created with 3-(trimethylsilyl)-propionic-2,2,3,3-d4 acid sodium salt (TSP) 10 mM in D2O, set at pH 7.00 ± 0.02 by means of 1 M phosphate buffer, containing also 10 μl of NaN3 2 mM. TSP was employed as an NMR chemical-shift reference, while NaN3 avoided microbial proliferation."	"1H-NMR spectra were recorded at 298 K with an AVANCE III spectrometer (Bruker, Milan, Italy) operating at a frequency of 600.13 MHz, equipped with the software Topspin 3.5."	"Following on from a previously published study[1], the signals from broad resonances originating from large molecules were suppressed by a CPMG (Carr. Purcell. Meiboom. Gill) filter composed of 400 echoes with a tau of 400 μs and a 180° pulse of 24 μs, for a total filter of 330 ms. The water residual signal was suppressed by means of presaturation. This was done by employing the cpmgpr1d sequence, part of the standard pulse sequence library. Each spectrum was acquired by summing up 256 transients using 32 K data points over a 7184 Hz spectral window, with an acquisition time of 2.28 s.
+</br></br>
+Ref:</br>
+[1] Zhu C, Faillace V, Laus F, Bazzano M, Laghi L. Characterization of trotter horses urine metabolome by means of proton nuclear magnetic resonance spectroscopy. Metabolomics. 2018 Aug 3;14(8):106. doi:10.1007/s11306-018-1403-3. PMID:30830366</br>"	"Differences in water and fiber content among samples were taken into consideration by probabilistic quotient normalization[1], more reliable than the once more common normalization on creatinine. Spectra phase was manually adjusted and a line broadening of 0.3 Hz was appled in Topspin, while the subsequent adjustments were performed in R computational language by means of script developed in-house[2]. The spectra were aligned towards TSP signal (-0.017 ppm). After the removal of the residual water signal, 1H-NMR spectra were baseline-corrected by means of peak detection, according to the “rolling ball” principle[3], implemented in the baseline R package[4]. The signals were assigned by comparing their chemical shift and multiplicity with Chenomx software library (Chenomx Inc., Edmonton, Alberta, Canada, ver 8.3), as detailed in Figures S1–S36 in the paper associated with this study.
+</br></br>
+In order to apply NMR as a quantitative technique[5], the recycle delay was set to 5 s by considering the relaxation time of the protons under investigation. Moreover, while TSP could be used as a reliable internal standard for urine and feces[6], the molecules of the first serum sample analyzed were quantified by means of an external standard, by taking advantage of the principle of reciprocity[7].
+</br></br>
+Ref:</br>
+[1] Dieterle F, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul 1;78(13):4281-90. doi:10.1021/ac051632c. PMID:16808434</br>
+[2] Ihaka R and Gentleman R. R: A Language for Data Analysis and Graphics. J. Comput. Graph. Stat. 1996, 5, 299–314. doi:10.1080/10618600.1996.10474713</br>
+[3] Kneen MA and Annegarn HJ. Algorithm for fitting XRF, SEM and PIXE X-ray spectra backgrounds. Nucl. Instruments Methods Phys. Res. Sect. B Beam Interact. with Mater. Atoms 1996, 109–110, 209–213. doi:10.1016/0168-583X(95)00908-6</br>
+[4] Liland KH, Almøy T, Mevik BH. Optimal choice of baseline correction for multivariate calibration of spectra. Appl Spectrosc. 2010 Sep;64(9):1007-16. doi:10.1366/000370210792434350. PMID:20828437</br>
+[5] Laghi L, Zhu C, Campagna G, Rossi G, Bazzano M, Laus F. Probiotic supplementation in trained trotter horses: effect on blood clinical pathology data and urine metabolomic assessed in field. J Appl Physiol (1985). 2018 Aug 1;125(2):654-660. doi:10.1152/japplphysiol.01131.2017. PMID:29672225</br>
+[6] Winning H, Larsen FH, Bro R, Engelsen SB. Quantitative analysis of NMR spectra with chemometrics. J Magn Reson. 2008 Jan;190(1):26-32. doi:10.1016/j.jmr.2007.10.005. PMID:18029207</br>
+[7] Hoult DI. The principle of reciprocity. J Magn Reson. 2011 Dec;213(2):344-6. doi:10.1016/j.jmr.2011.08.005. PMID:21889377</br>"	"Signals assignment was performed by comparing chemical shift and multiplicity with the Human Metabolome Database[1], the compounds library (Ver. 10) of Chenomx software (Chenomx Inc., Canada, Ver. 8.3) and literature[2].
+</br></br>
+Ref:</br>
+[1] Wishart DS, Tzur D, Knox C, Eisner R, Guo AC et al. HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6. doi:10.1093/nar/gkl923. PMID:17202168</br>
+[2] Escalona EE, Leng J, Dona AC, Merrifield CA, Holmes E, Proudman CJ, Swann JR. Dominant components of the Thoroughbred metabolome characterised by (1) H-nuclear magnetic resonance spectroscopy: A metabolite atlas of common biofluids. Equine Vet J. 2015 Nov;47(6):721-30. doi:10.1111/evj.12333. PMID:25130591</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Laghi"	"Zhu"
+Study Person First Name	"Luca"	"Chenglin"
+Study Person Mid Initials	""	""
+Study Person Email	"l.laghi@unibo.it"	"chenglin.zhu2@unibo.it"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	"University of Bologna"	"University of Bologna"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

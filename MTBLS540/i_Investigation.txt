@@ -1,0 +1,118 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"BTO"	"CHEBI"	"CHMO"	"NCIT"	"OBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"28"	"2"	"22"	"80"	"18"	"44"	"22"	"43"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS540"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS540"
+Study Title	"J-Resolved 1H NMR 1D-Projections for Large-Scale Metabolic Phenotyping Studies: Application to Blood Plasma Analysis."
+Study Description	"1H nuclear magnetic resonance (NMR) spectroscopy-based metabolic phenotyping is now widely used for large-scale epidemiological applications. To minimize signal overlap present in 1D 1H NMR spectra, we have investigated the use of 2D J-resolved (JRES) 1H NMR spectroscopy for large-scale phenotyping studies. In particular, we have evaluated the use of the 1D projections of the 2D JRES spectra (pJRES), which provide single peaks for each of the J-coupled multiplets, using 705 human plasma samples from the FGENTCARD cohort. On the basis of the assessment of several objective analytical criteria (spectral dispersion, attenuation of macromolecular signals, cross-spectral correlation with GC-MS metabolites, analytical reproducibility and biomarker discovery potential), we concluded that the pJRES approach exhibits suitable properties for implementation in large-scale molecular epidemiology workflows."
+Study Submission Date	"2017-09-13"
+Study Public Release Date	"2017-12-01"
+Study File Name	"s_FGENTCARD.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"FGENTCARD"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28937204"
+Study Publication DOI	"10.1021/acs.analchem.7b02374"
+Study Publication Author List	"Andrea Rodriguez-Martinez, Joram M. Posma, Rafael Ayala, Nikita Harvey, Beatriz Jimenez, Ana L. Neves, John C. Lindon, Kazuhiro Sonomura, Taka-Aki Sato, Fumihiko Matsuda, Pierre Zalloua, Dominique Gauguier, Jeremy K. Nicholson, Marc-Emmanuel Dumas"
+Study Publication Title	"J -resolved 1H NMR 1D-projections for large-scale metabolic phenotyping studies: Application to blood plasma analysis"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample type"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_fgentcard_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"A major goal of the FGENTCARD project was to discover biomarkers associated with coronary artery disease and metabolic risk factors, such as obesity. The FGENTCARD cohort consists of over 7000 patients who underwent catheterization between 2006 and 2009 at 2 major university hospitals in Lebanon.[1] Plasma samples from patients who provided consent for the whole study were collected and stored at −80 °C until analysis. In the current study, a subset of 705 plasma samples was used. All patient medical charts were reviewed for data collection and demographics, medical history, and pharmacological interventions.
+</p>
+Ref:</br>
+[1] Platt DE, Ghassibe-Sabbagh M, Youhanna S, Hager J, Cazier JB, Kamatani Y, Salloum AK, Haber M, Romanos J, Doueihy B, Mouzaya F, Kibbani S, Sbeite H, Deeb ME, Chammas E, El Bayeh H, Khazen G, Gauguier D, Zalloua PA, Abchee AB; FGENTCARD Consortium. Circulating lipid levels and risk of coronary artery disease in a large group of patients undergoing coronary angiography. J Thromb Thrombolysis. 2015 Jan;39(1):15-22. doi:10.1007/s11239-014-1069-2. PMID:24788070</br>"	"No extraction was performed in this study."	"Thawed human plasma samples (n = 706) were centrifuged (14 000 rpm, 10 min, 4 °C) and the supernatants (150 μl) were allocated in 96-well plates, in a randomized design. A 5 μl aliquot of each sample was pooled to prepare the quality control (QC) sample and 2 aliquots of the QC sample were added (positions 48 and 96) to each 96-well plate. Plates were stored at −80 °C until profiling. 100 μl of sample was thoroughly mixed with 100 μl of plasma buffer (75 mM Na2HPO4, pH 7.4, 4.6 mM 3-(trimethylsilyl)-[2,2,3,3-2H4]-propionate TSP, 6.2 mM sodium azide (NaN3), as a bacteriostatic agent, and 20% (v/v) of D2O)[1] in a different plate. 180 μl of the resulting solution was subsequently transferred into 3 mm NMR tubes using a Gilson liquid handling robot.
+</p>
+Ref:</br>
+[1] Dona AC, Jiménez B, Schäfer H, Humpfer E, Spraul M, Lewis MR, Pearce JT, Holmes E, Lindon JC, Nicholson JK. Precision high-throughput proton NMR spectroscopy of human urine, serum, and plasma for large-scale metabolic phenotyping. Anal Chem. 2014 Oct 7;86(19):9887-94. doi:10.1021/ac5025039. PMID:25180432</br>"	"NMR spectra were acquired on a Bruker Avance III 600 MHz spectrometer (Bruker Biospin Ltd., Germany) operating at 600 MHz and 310 K."	"For each sample, standard 1D, spin–echo, and JRES experiments were performed as previously described.[1] The standard 1D experiment was acquired using the pulse sequence: -RD-gz,1-90°-t-90°-tm-gz,2-90°-ACQ, where RD is the relaxation delay (4 s), t is a short delay (3 μs), 90° represents the 90° radio frequency (RF) pulse, tm is the mixing time (10 ms), gz,1 and gz,2 are magnetic field z-gradients both applied for 1 ms, and ACQ is the data acquisition period (2.7 s). Irradiation at the water resonance frequency using a series of 25 Hz RF pulses was applied during the RD and also during the tm. For each sample, 64 transients were collected into 96 000 data points using a spectral window of 30 ppm. The spin–echo experiment was acquired with the pulse sequence: -RD-90°-(t-180°-t)n-ACQ, where t is the spin–spin relaxation delay (0.3 ms), 90° represents the 90° RF pulse, while 180° is the 180° RF pulse, and n represents the number of loops (256). For each sample, 64 transients were collected into 72 000 data points using a spectral window of 20 ppm. The sequence used for the 2D JRES experiment takes the form: -RD-90°-t1-180°-t1-ACQ, where the definitions are as above, plus t1 represents the increment delay. JRES spectra were acquired using 4 scans per increment over 40 increments that were collected in 8000 data points, using spectral windows of 16.6 ppm in F2 and 78 Hz in F1. The total data acquisition time of each of the 3 NMR experiments was 8 min.
+</p>
+Ref:</br>
+[1] Dona AC, Jiménez B, Schäfer H, Humpfer E, Spraul M, Lewis MR, Pearce JT, Holmes E, Lindon JC, Nicholson JK. Precision high-throughput proton NMR spectroscopy of human urine, serum, and plasma for large-scale metabolic phenotyping. Anal Chem. 2014 Oct 7;86(19):9887-94. doi:10.1021/ac5025039. PMID:25180432</br>"	"Following spectral acquisition, the data were automatically processed using TopSpin 3.2 with Icon (Bruker Biospin Ltd., Germany). For the 1D experiments, an exponential line broadening of 0.3 Hz and a zero-filling by a factor of 2 were applied prior to Fourier transformation. For the JRES experiment, zero-filling by a factor of 2 was included in the F2 dimension and the digital resolution was increased to 256 points in F1 by zero-filling. Apodization of JRES data using a sine-bell function was applied in both dimensions prior to Fourier transformation. The JRES spectra were then tilted, symmetrized and skyline- or sum-projected to obtain the pJRES spectra. Following phase and baseline corrections, all spectra (δ 0.4–10) were imported into MATLAB 8.3 (Mathworks, USA) using in-house routines. The spectra were calibrated to the α-glucose anomeric signal at δ 5.23[1] and aligned manually.[2] Spectral regions containing signals from water, EDTA (ethylenediaminetetraacetic acid) and EDTA cationic complexes were removed.
+</p>
+Signal-to-noise ratios (SN) of selected 1H NMR signals were calculated as the ratio of peak intensity at maximum height to the standard deviation of the noise (δ 9.88–9.94). Line widths (LW) were calculated as the peak width at half height. For the spin–echo experiment, multiplet footprints (MF) were calculated as the line width from half-height of the lowest frequency peak of the multiplet to the highest frequency peak of the multiplet. SN, LW and MF were calculated across the QC samples (n = 14) and reported as mean ± standard deviation.
+</p>
+Ref:</br>
+[1] Pearce JT, Athersuch TJ, Ebbels TM, Lindon JC, Nicholson JK, Keun HC. Robust algorithms for automated chemical shift calibration of 1D 1H NMR spectra of blood serum. Anal Chem. 2008 Sep 15;80(18):7158-62. doi:10.1021/ac8011494. PMID:18702533</br>
+[2] Veselkov KA, Lindon JC, Ebbels TM, Crockford D, Volynkin VV, Holmes E, Davies DB, Nicholson JK. Recursive segment-wise peak alignment of biological (1)h NMR spectra for improved metabolic biomarker recovery. Anal Chem. 2009 Jan 1;81(1):56-66. doi:10.1021/ac8011544. PMID:19049366</br>"	"Metabolite assignment was performed using an in-house database,[1]-[3] correlation-based analysis (STOCSY),[4]-[6] and spiking experiments with authentic commercial standards.
+</p>
+Ref:</br>
+[1] Nicholson JK, Foxall PJ, Spraul M, Farrant RD, Lindon JC. 750 MHz 1H and 1H-13C NMR spectroscopy of human blood plasma. Anal Chem. 1995 Mar 1;67(5):793-811. doi:10.1021/ac00101a004. PMID:7762816</br>
+[2] Bell JD, Brown JC, Nicholson JK, Sadler PJ. Assignment of resonances for 'acute-phase' glycoproteins in high resolution proton NMR spectra of human blood plasma. FEBS Lett. 1987 May 11;215(2):311-5. doi:10.1016/0014-5793(87)80168-0. PMID:2438159</br>
+[3] Nagana Gowda GA, Gowda YN, Raftery D. Expanding the limits of human blood metabolite quantitation using NMR spectroscopy. Anal Chem. 2015 Jan 6;87(1):706-15. doi:10.1021/ac503651e. PMID:25485990</br>
+[4] Posma JM, Garcia-Perez I, De Iorio M, Lindon JC, Elliott P, Holmes E, Ebbels TM, Nicholson JK. Subset optimization by reference matching (STORM): an optimized statistical approach for recovery of metabolic biomarker structural information from 1H NMR spectra of biofluids. Anal Chem. 2012 Dec 18;84(24):10694-701. doi:10.1021/ac302360v. PMID:23151027</br>
+[5] Cloarec O, Dumas ME, Craig A, Barton RH, Trygg J, Hudson J, Blancher C, Gauguier D, Lindon JC, Holmes E, Nicholson J. Statistical total correlation spectroscopy: an exploratory approach for latent biomarker identification from metabolic 1H NMR data sets. Anal Chem. 2005 Mar 1;77(5):1282-9. doi:10.1021/ac048630x. PMID:15732908</br>
+[6] Crockford DJ, Holmes E, Lindon JC, Plumb RS, Zirah S, Bruce SJ, Rainville P, Stumpf CL, Nicholson JK. Statistical heterospectroscopy, an approach to the integrated analysis of NMR and UPLC-MS data sets: application in metabonomic toxicology studies. Anal Chem. 2006 Jan 15;78(2):363-71. doi:10.1021/ac051444m. PMID:16408915</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Rodriguez-Martinez"	"Dumas"
+Study Person First Name	"Andrea"	"Marc-Emmanuel"
+Study Person Mid Initials	""	""
+Study Person Email	"a.rodriguez-martinez13@ic.ac.uk"	"m.dumas@imperial.ac.uk"
+Study Person Phone	""	"+44 (0)20 7594 3225"
+Study Person Fax	""	""
+Study Person Address	"Sir Alexander Fleming Building, Imperial College London, SW7 2AZ"	"Sir Alexander Fleming Building, Imperial College London, SW7 2AZ"
+Study Person Affiliation	"Faculty of Medicine, Department of Surgery and Cancer, Imperial College London"	"Faculty of Medicine, Department of Surgery and Cancer, Imperial College London"
+Study Person Roles	"PhD student"	"Reader in translational medicine"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

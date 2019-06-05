@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"MS"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"6"	"129"	"146"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS418"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS418"
+Study Title	"Serum Metabolic Profiling of Oocyst-Induced Toxoplasma gondii Acute and Chronic Infections in Mice Using Mass-Spectrometry."
+Study Description	"Toxoplasma gondii is an obligate intracellular parasite causing severe diseases in immunocompromised individuals and congenitally infected neonates, such as encephalitis and chorioretinitis. This study aimed to determine whether serum metabolic profiling can (i) identify metabolites associated with oocyst-induced T. gondii infection and (ii) detect systemic metabolic differences between T. gondii-infected mice and controls. We performed the first global metabolomics analysis of mice serum challenged with 100 sporulated T. gondii Pru oocysts (Genotype II). Sera from acutely infected mice (11 days post-infection, dpi), chronically infected mice (33 dpi) and control mice were collected and analyzed using LC-MS/MS platform. Following False Discovery Rate filtering, we identified 3871 and 2825 ions in ESI+ or ESI- mode, respectively. Principal Component Analysis (PCA) and Partial Least Squares Discriminant Analysis (PLS-DA) identified metabolomic profiles that clearly differentiated T. gondii-infected and -uninfected serum samples. Acute infection significantly influenced the serum metabolome. Our results identified common and uniquely perturbed metabolites and pathways. Acutely infected mice showed perturbations in metabolites associated with glycerophospholipid metabolism, biosynthesis of amino acid, and tyrosine metabolism. These findings demonstrated that acute T. gondii infection induces a global perturbation of mice serum metabolome, providing new insights into the mechanisms underlying systemic metabolic changes during early stage of T. gondii infection."
+Study Submission Date	"2016-12-12"
+Study Public Release Date	"2017-02-22"
+Study File Name	"s_MTBLS418.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"toxoplasmosis"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0007517"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	"EFO"	"CHMO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29354104"
+Study Publication DOI	"10.3389/fmicb.2017.02612"
+Study Publication Author List	"Zhou CX, Cong W, Chen XQ, He SY, Elsheikha HM, Zhu XQ."
+Study Publication Title	"Serum Metabolic Profiling of Oocyst-Induced Toxoplasma gondii Acute and Chronic Infections in Mice Using Mass-Spectrometry."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"infection"
+Study Factor Type	"infection"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000544"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls418_POS_mass_spectrometry.txt"	"a_mtbls418_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo G2 QTOF (Waters)"	"Xevo G2 QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The mice used in this study were female, 6 to 8-week-old, of the BALB/c strain, and were obtained from Lanzhou University, China and were maintained under specific-pathogen-free conditions in a standard experimental facility at Lanzhou Veterinary Research Institute, Chinese Academy of Agricultural Sciences. Mice received sterilized food and water ad libitum. 12 mice were infected orally with ~100 freshly prepared sporulated oocysts via oral gavage with 100 µL saline solution using 1-ml tuberculin syringes and feeding needles. 6 mock-infected (control) mice received 100 µL saline alone. All mice were monitored daily for mortality and morbidity throughout the course of infection. At 11 and 33 days post-infection (dpi) with T. gondii oocysts 6 mice were sacrificed. The mock-infected (control) mice were sacrificed along with the 33 DPI group.
+</p>
+The blood samples from acutely infected (11 dpi), chronically infected (33 dpi) and control mice groups were prepared as previously described[1]. Briefly, blood samples were obtained by retro-orbital bleed into Eppendorf tubes and were allowed to clot for 3 hr followed by centrifugation at 3,000 x g for 10 min at 4 °C. Sera were frozen immediately in liquid nitrogen and stored at -80 °C until use for metabolite extraction.
+</p>
+Ref:</br>
+[1] Wikoff WR, Anfora AT, Liu J, Schultz PG, Lesley SA, Peters EC, Siuzdak G. Metabolomics analysis reveals large effects of gut microflora on mammalian blood metabolites. Proc Natl Acad Sci U S A. 2009 Mar 10;106(10):3698-703. doi:10.1073/pnas.0812874106. PMID:19234110</br>"	"Initially, frozen serum samples were placed at -20 °C for 30 min and then thawed at 4 °C. Serum sample aliquots (40 µl) were treated with 120 µl methanol (3:1 vol/vol) and mixed for 1 min. The mixture was kept at -20 °C for 30 min, followed by centrifugation at 4,000 x g for 20 min at 4 °C. The supernatant (20 µl) was mixed with 180 µl methanol before liquid chromatography separation."	"Liquid chromatography was performed on a 2777C UPLC system (Waters, UK). The separation of all samples was performed on an ACQUITY UPLC BEH C18 column (Waters, U.K.) (100 x 2.1 mm, 1.7 µm). A gradient elution program was run for chromatographic separation with mobile phase A (water) and mobile phase B (acetonitrile) as follows: 0~2 min, 100% A-100% A; 2~11 min, 100% A-0% A; 11~13 min, 0% A-0% A; 13~15 min, 0% A-100% A. The injection volume was 10 µl and the flow rate was set as 0.4 ml/min."	"A SYNAPT G2 XS QTOF (Waters, UK) equipped with an electrospray ionization (ESI) source was used for mass spectrometric detection. Sample analysis was performed in both positive and negative ion modes. The operating parameters were as follows: capillary, 3kV (ESI+) or 0.33 kV (ESI-); sampling cone: 40 V; source temperature: 110 °C (ESI+) or 120 °C (ESI-); desolvation temperature: 550 °C (ESI+) or 400 °C (ESI-); desolvation gas, 800 (l/h) (ESI+) or 500 (l/h) (ESI-); cone gas, 55 (l/h) (ESI+) or 60 (ESI-); source offset: 80; TOF acquisition mode: sensitivity (ESI+) or sensitivity (ESI-); acquisition method, continuum MSE; TOF mass range: 50–1,200 Da; scan time: 0.2 s; collision energy function 2: trap CE ramp 20 to 40 eV.
+</p>
+Quality control (QC) samples were used in order to assess the reproducibility and reliability of the LC-MS/MS system. QC samples were prepared by mixing equal volumes (20 µl) from each serum sample as they were aliquoted for analysis. This “pooled” sample was used to provide a “mean” profile representing all analytes encountered during the analysis. The pooled “QC” sample was run 10 times at the beginning of the analysis and then prior to and after each batch of 10 serum samples to ensure system equilibration."	"Raw data files were uploaded into Progenesis QI 2.1 software (Waters Corp., Manchester, UK), which was used to perform untargeted peak detection, peak alignment, peak grouping, normalization, and integration on each full data set (experimental study samples and QC samples). Then, the data matrix was mean-centered and Pareto-scaled prior to multivariate analysis (MVA) using Principal Component Analysis (PCA) and Partial Least Squares Discriminant Analysis (PLS-DA)."	"PCA and PLS-DA were performed to discriminate infected from control mice. The quality of the models was evaluated with the relevant R2 and Q2. The non-parametric univariate method (two-tailed Wilcoxon rank-sum test) was used to discover the significantly altered metabolites among the infected and healthy control mice. The results were corrected by false discovery rate (FDR) to ensure that metabolite peaks were reproducibly detected. The differential metabolites were selected when the statistically significant threshold of variable importance in the projection (VIP) values obtained from the PLS-DA model were larger than 1.0. Statistically significant differences were tested using Student's t-test, and the corrected P-values (q-value) <0.05 was deemed as statistically significant. Log2 fold change (FC) was used to show how the selected differential metabolites varied between the mice groups. Serum metabolites passing the VIP threshold (VIP > 1) and fold change = 1.2 or = 0.8 were considered as significantly different between the mice groups.
+</p>
+Heatmaps were used to depict the relatively disturbed and unbalanced metabolic signature among T. godnii-infected mice compared to control mice. Heatmaps were generated using the MultiExperiment Viewer (MeV) v. 4.9 software (http://mev.tm4.org/) based on the abundance of the differentially expressed metabolite data (log2-scaled). The online databases of Human Metabolome Database (HMDB; http://www.hmdb.ca) and Kyoto Encyclopedia of Genes and Genomes (KEGG; http://www.genome.jp/kegg) were used to check and confirm the putative identity of the differentially expressed metabolites by matching the exact molecular mass data (m/z) of samples with those from the databases. The candidate metabolites were confirmed by MS/MS scans for the characteristic ions and fragmentation patterns of the compound. We performed pathway analysis of the differentially expressed metabolites detected in both ion modes using MetaboAnalyst 3.0. The identified pathways influenced by acute infection compared to controls are presented according to p-values from the pathway enrichment analysis (y-axis) and pathway impact values from pathway topology analysis (x-axis), with the most impacted pathways colored in red color. To gain further insight into the underlying biological mechanisms associated with infection, we performed the impact value and –log (P) along with metabolic pathway analysis (MetPA), the P-value represented the enrichment of certain metabolites in a pathway (P = 0.05 is indicative of significant enrichment)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhou"
+Study Person First Name	"Chun Xue"
+Study Person Mid Initials	""
+Study Person Email	"zhouchunxue23@163.com"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

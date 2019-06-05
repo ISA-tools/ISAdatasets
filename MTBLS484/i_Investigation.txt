@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BAO"	"CHMO"	"NCBITAXON"	"EFO"	"MEO"	"MS"	"NCIT"	"OBI"	"PLOSTHES"	
+Term Source File	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MEO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/PLOSTHES"	
+Term Source Version	"26"	"18"	"6"	"146"	"8"	"129"	"44"	"22"	"5"	
+Term Source Description	"BioAssay Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Metagenome and Microbes Environmental Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"PLOS Thesaurus"	
+INVESTIGATION
+Investigation Identifier	"MTBLS484"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS484"
+Study Title	"Mass spectrometry data of metabolomics analysis of Nepenthes pitchers."
+Study Description	"Hybridisation plays a significant role in the evolution and diversification of plants. Hybridisation among Nepenthes species is extensive, either naturally or man-made. To investigate the effects of hybridisation on the chemical compositions, we carried out metabolomics study on pitcher tissue of Nepenthes ampullaria, Nepenthes rafflesiana and their hybrid, Nepenthes × hookeriana. Pitcher samples were harvested and extracted in methanol:chloroform:water via sonication-assisted extraction before analysed using LC-TOF-MS. MS data were analysed using XCMS online version 2.2.5. This is the first MS data report towards the profiling, identification and comprehensive comparison of metabolites present in Nepenthes species."
+Study Submission Date	"2017-06-29"
+Study Public Release Date	"2017-07-06"
+Study File Name	"s_mtbls484.txt"
+Comment[Study Grant Number]	"DIP-2014-008; FRGS/2/2014/SG05/UKM/02/4"
+Comment[Study Funding Agency]	"Malaysian Ministry of High Education"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"Carnivorous plants"	"pitcher plant"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://localhost/plosthes.2017-1#565"	"http://purl.jp/bio/11/meo/MEO_0001063"
+Study Design Type Term Source REF	""	"CHMO"	"PLOSTHES"	"MEO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28795107"
+Study Publication DOI	"10.1016/j.dib.2017.07.068"
+Study Publication Author List	"Rosli MAF, Azizan KA, Baharum SN, Goh HH."
+Study Publication Title	"Mass spectrometry data of metabolomics analysis of Nepenthes pitchers."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Pitcher plant"	"Replicate"
+Study Factor Type	"Species"	"replicate"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45293"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls484_POS_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"micrOTOF-Q II ESI-Qq-TOF (Bruker)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"3 lowland Nepenthes species, N. ampullaria, N. rafflesiana and N. x hookeriana were sampled from the experimental terrace of Universiti Kebangsaan Malaysia (2°55'12.7"N, 101°46'59.7"E). Pitcher tissues were harvested 7 days after pitcher opening when the pitchers achieved fully functionality[1]. The pitcher fluids were emptied and rinsed with sterile deionised water before immediately frozen in liquid nitrogen and stored at −80 °C.
+</p>
+Ref:</br>
+[1] Bauer U, Willmes C, Federle W. Effect of pitcher age on trapping efficiency and natural prey capture in carnivorous Nepenthes rafflesiana plants. Ann Bot. 2009 Jun;103(8):1219-26. doi:10.1093/aob/mcp065. PMID:19307189</br>"	"Each sample was crushed and ground until fine powder before lyophilised for 48 h. Extraction from the dried powder was described previously[1] with slight modifications. Dried powder samples (10 mg) were extracted with 200 µl of methanol:chloroform:water (3:1:1). Samples were vortexed, sonicated at room temperature for 15 min, vortexed again and then centrifuged at 10,000 x g for 10 min. Filtered extracts through a 0.22 µm PTFE membrane were stored at −80 °C.
+</p>
+Ref:</br>
+[1] Goh HH, Khairudin K, Sukiran NA, Normah MN, Baharum SN. Metabolite profiling reveals temperature effects on the VOCs and flavonoids of different plant populations. Plant Biol (Stuttg). 2016 Jan;18 Suppl 1:130-9. doi:10.1111/plb.12403. PMID:26417881</br>"	"The chromatographic separation was performed on Thermo Scientific C18 column (Acclaim Polar Advantage II, 3 x 150 mm, 3 µm particle size) on an UltiMate 3000 UHPLC system (Dionex). The gradient elution was performed at 0.4 ml/min flow rate at 40 °C using (A) water containing 0.1% formic acid, and (B) 100% acetonitrile with 22 min total run time. The gradient started at 5% solvent B for 3 min (0–3 min), then the gradient increased to 80% solvent B for 7 min (3–10 min) and maintained at 80% solvent B for 5 min (10–15 min). Finally, the gradient returned to 5% solvent B in 7 min (15–22 min)."	"High resolution MS was carried out using a MicrOTOF-Q III (Bruker Daltonic) using an ESI positive ionisation with the following settings: capillary voltage at 4500 V, nebuliser pressure at 1.2 bar and drying gas flow at 8 l/min with the source temperature at 200 °C and m/z range from 50 to 1000 Da."	"The acquired MS raw data were converted to the mzXML file format by Bruker Compass DataAnalysisViewer version 4.2. The converted data were processed by XCMS online software package[1] with Arabidopsis thaliana selected as the bio-source and other default settings to carry out feature detection, peak alignment, retention time correction, statistical analysis, annotation and identification.
+</p>
+Ref:</br>
+[1] Tautenhahn R, Patti GJ, Rinehart D, Siuzdak G. XCMS Online: a web-based platform to process untargeted metabolomic data. Anal Chem. 2012 Jun 5;84(11):5035-9. doi:10.1021/ac300698c. PMID:22533540</br>"	"No metabolites were identified in this study."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Goh"
+Study Person First Name	"Hoe Han"
+Study Person Mid Initials	""
+Study Person Email	"gohhh@ukm.edu.my"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Universiti Kebangsaan Malaysia"
+Study Person Roles	"Project leader"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

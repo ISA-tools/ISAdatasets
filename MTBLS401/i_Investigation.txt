@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"MS"	"NCBITAXON"	"OBI"	"CHMO"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"86"	"6"	"29"	"5"	"113"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS401"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersUUDocumentsStephanieISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS401"
+Study Title	"Mass spectrometry based metabolomics for in vitro systems pharmacology: Pitfalls, challenges, and computational solutions"
+Study Description	"Introduction: Mass spectrometry based metabolomics has become a promising complement and alternative to transcriptomics and proteomics in many fields including in vitro systems pharmacology. Despite several merits, metabolomics based on liquid chromatography mass spectrometry (LC-MS) is a developing area that is yet attached to several pitfalls and challenges. To reach a level of high reliability and robustness, these issues need to be tackled by implementation of refined experimental and computational protocols. </p> Objectives: This study illustrates some key pitfalls in LC-MS based metabolomics and introduces an automated computational procedure to compensate for them. </p> Methods: Non-cancerous mammary gland derived cells were exposed to 21 chemicals from four pharmacological classes plus a set of 6 pesticides. Changes in the metabolome of cell lysates were assessed after 24h using LC-MS. A data processing pipeline was established and evaluated to handle issues including contaminants, carry over effects, intensity decay and inherent methodology variability and biases. A key component in this pipeline is a latent variable method called OOS-DA (optimal orthonormal system for discriminant analysis), being theoretically more easily motivated than PLS-DA in this context, as it is rooted in pattern classification rather than regression modeling. </p> Results: The pipeline is shown to reduce experimental variability/biases and is used to confirm that LC-MS spectra hold drug class specific information. </p> Conclusions: LC-MS based metabolomics is a promising methodology, but comes with pitfalls and challenges. Key difficulties can be largely overcome by means of a computational procedure of the kind introduced and demonstrated here. The pipeline is freely available on www.github.com/stephanieherman/MS-data-processing."
+Study Submission Date	"2016-11-03"
+Study Public Release Date	"2017-11-03"
+Study File Name	"s_Cell study.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"high-performance liquid chromatography-mass spectrometry"	"software pipeline"	"drug"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/OBI_0001943"	"http://purl.obolibrary.org/obo/CHEBI_23888"
+Study Design Type Term Source REF	""	"CHMO"	"OBI"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-017-1213-z"
+Study Publication Author List	"Herman S, Emami P, Aftab O, Krishnan S, Strömbom E, Larsson R, Hammerling U, Spjuth O, Kultima K, Gustafsson M"
+Study Publication Title	"Mass spectrometry based metabolomics for in vitro systems pharmacology: Pitfalls, challenges, and computational solutions"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"batch"	"replicate"
+Study Factor Type	"sample batch"	"replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/MS_1000053"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"MS"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_cell_study_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Immortalized, non-cancerous MCF-10A (ATCC, www.atcc.org, Manassas, VA), derived from normal human mammary gland, were grown in MEBM supplemented with MEGM Single Quots and cholera toxin (Lonza, Basel, Switzerland) on cover glasses placed inside petri dishes (Thermo Fisher Scientific, NuncTM, 8.8 cm^2). After reaching ~70% confluence, equivalent to ~2 million cells, the cells were exposed to one of 27 agents for 24 h. Three biological replicates were created in order to catch biological variation. After 24 h incubation in presence of test agents, cells were harvested. Cover glasses were carefully lifted from the bottom of the petri plates using tweezers and then dipped into the stirring water of the washing unit to rinse both sides of the cover glasses. They were then quickly placed in the quenching solution (80% methanol) followed by detachment of cells using a rubber-tipped cell scraper (Sarstedt, Nümbrecht, Germany)."	"Detached cells were transferred to 1.5 ml conical centrifuge tubes and centrifuged for 10 min at 21,000 x g 4°C. The supernatants collected were freeze dried using centrifugal vacuum concentrator (1-2 hr) and resolubilized in 5% methanol and 0.1% formic acid for analysis.
+</p>
+The whole sample preparation procedure was split into four weeks, creating four sample batches. Each batch contained three Mebendazole replicates to catch batch effects."	"20 µl of sample was injected to a Thermo Ultimate 3000 HPLC system with a Thermo Accucore aQ RP C18 column (100 x 2.1 mm, 2.7 µm particle size). The analytical gradient was initialized with an isocratic flow for three min (0% B) followed by five min (0-20% B), six min (20-100% B), three min (100% B), two min (100% C) and lastly re-equilibration of column for six min (0% B), where A is 0.1% formic acid, B is 89.9% acetonitrile, 10% isopropanol and 0.1% FA and C is 100% methanol, at a flow rate of 0.4 ml/min."	"Eluting compounds were measured using a Thermo Q-Exactive Orbitrap mass spectrometer in positive mode, using a mass range of 130-900 with a 70 000 mass resolution, AGC target 1e^6, maximum injection time 200 ms, spray voltage of 4 kV, capillary temperature 350 °C, arbitrary units of sheat gas 30 and auxiliary gas 10."	"The acquired raw data was converted to an open source format (.mzML) by msconvert from ProteoWizard [1].
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, et al. A cross-platform toolkit for mass spectrometry and proteomics. Nature biotechnology. 2012;30:918–920. doi:10.1038/nbt.2377. PMID:23051804.</br>"	"The data was processed using the following pipeline within the OpenMS platform [1]: The raw data was centroided using PeakPickerHiRes [2] and the features (possible metabolites) were quantified by FeatureFinderMetabo [3] using the following parameters (the default value were used for unmentioned parameters): noise_threshold_int: 5000; chrom_peak_snr: 3; chrom_fwhm: 3; mass_error_ppm: 5 ppm; trace_termination_outliers: 3; min_sample_rate: 0.7; min_trace_length: 1; max_trace_length: 35; width_filtering: auto; local_rt_range: 30; local_mz_range: 6.5; charge_lower_bound: 1; charge_upper_bound: 10; use_smoothed_intensities: false. The resulting features were linked across the samples using FeatureLinkerUnlabelledQT [2], allowing 15 s retention time tolerance and 5 ppm mass deviation (the linking was performed irrespective of change state across the samples).
+</p>
+Ref:</br>
+[1] Sturm M, Bertsch A, Gröpl C, Hildebrandt A, Hussong R, Lange E, Pfeifer N, Schulz-Trieglaff O, Zerck A, Reinert K, Kohlbacher O. BMC Bioinformatics. 2008 Mar 26;9:163. doi:10.1186/1471-2105-9-163. PMID:18366760.</br>
+[2] Weisser H, Nahnsen S, Grossmann J, Nilse L, Quandt A, Brauer H, Sturm M, Kenar E, Kohlbacher O, Aebersold R, Malmström L. An automated pipeline for high-throughput label-free quantitative proteomics. J Proteome Res. 2013 Apr 5;12(4):1628-44. doi:10.1021/pr300992u. PMID:23391308</br>
+[3] Kenar E, Franken H, Forcisi S, Wörmann K, Häring HU, Lehmann R, Schmitt-Kopplin P, Zell A, Kohlbacher O. Automated label-free quantification of metabolites from liquid chromatography-mass spectrometry data. Mol Cell Proteomics. 2014 Jan;13(1):348-59. doi:10.1074/mcp.M113.031278. PMID:24176773</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Herman"	"Gustafsson"	"Kultima "
+Study Person First Name	"Stephanie"	"Mats"	"Kim"
+Study Person Mid Initials	""	""	""
+Study Person Email	"stephanie.herman@medsci.uu.se"	"Mats.Gustafsson@medsci.uu.se"	"Kim.Kultima@medsci.uu.se"
+Study Person Phone	"+46708148747"	"+4618-6114241"	"+4618-6114248"
+Study Person Fax	""	""	""
+Study Person Address	"Department of Medical Sciences
+Akademiska sjukhuset, Ing. 61, 3tr, 4tr"	"Department of Medical Sciences
+Room 647 Ing:61, Tr:3 Akademiska sjukhuset, Ing. 61, 3tr, 4tr"	"Department of Medical Sciences
+Akademiska sjukhuset, Ing. 61, 3tr, 4tr"
+Study Person Affiliation	"Uppsala University"	"Uppsala University"	"Uppsala University"
+Study Person Roles	"principal investigator"	"principal investigator"	"principal investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

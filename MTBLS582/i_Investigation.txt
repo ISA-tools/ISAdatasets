@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"CSEO"	"BTO"	"MS"	"CHMO"	"GO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"2"	"22"	"86"	"18"	"1358"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Cigarette Smoke Exposure Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Gene Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS582"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/zonwenglai/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS582"
+Study Title	"Global Analyses of Selective Insulin Resistance in Hepatocytes due to Palmitate Lipotoxicity"
+Study Description	"Obesity is tightly linked to hepatic steatosis and insulin resistance. One feature of this association is the paradox of selective insulin resistance: insulin fails to suppress hepatic gluconeogenesis but activates lipid synthesis in the liver. How lipid accumulation interferes selectively with some branches of hepatic insulin signaling is not well understood. Here we provide a resource, based on unbiased approaches and established in a simple cell culture system, to enable investigations of the phenomenon of selective insulin resistance. We analyzed the phosphoproteome of insulin treated human hepatoma cells and identified sites in which palmitate selectively impairs insulin signaling. As an example, we show that palmitate interferes with insulin signaling to FoxO1, a key transcription factor regulating gluconeogenesis, and identify a possible mechanism. This model system, together with our comprehensive characterization of the proteome, phosphoproteome, and lipidome changes in response to palmitate treatment, provides a novel and useful resource for unraveling the mechanisms underlying selective insulin resistance."
+Study Submission Date	"2017-12-04"
+Study Public Release Date	"2018-06-25"
+Study File Name	"s_mtbls582.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"insulin resistance"	"Lipidomics"	"Hepatic steatosis"	"regulation of lipid biosynthetic process"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002614"	"http://scai.fraunhofer.de/CSEO#lipidomics"	"http://purl.obolibrary.org/obo/HP_0001397"	"http://purl.obolibrary.org/obo/GO_0046890"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	"EFO"	"CSEO"	"EFO"	"GO"	""	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29414761"
+Study Publication DOI	"10.1074/mcp.RA117.000560"
+Study Publication Author List	"Li Z, Lai ZW, Christiano R, Gazos-Lopes F, Walther TC, Farese RV."
+Study Publication Title	"Global Analyses of Selective Insulin Resistance in Hepatocytes due to Palmitate Lipotoxicity."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"replicate"	"treatment"
+Study Factor Type	"replicate"	"treatment"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls582_POS_mass_spectrometry.txt"	"a_mtbls582_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"HepG2 cells were SILAC labeled and cultured in SILAC DMEM media with 10% (v/v) dialyzed FBS. For palmitate treatment, cells were seeded with 30% confluency, cultured for 18 h and treated with 0.25 mM palmitate for 24 h. Palmitate treated or untreated cells were stimulated with vehicle (50 µM HEPES, pH 8.0) or 100 nM insulin for 20 min and lysed in lysis buffer (6 M guanidinium hydrochloride (GdmCl), 10 mM Tris (2-carboxyethyl) phosphine (TCEP), 40 mM chloroacetamide, alkylating reagent (CAA), 100 mM Tris, pH 8.5)."	"The lipid extraction protocol was modified from a previously published procedure[1]. Briefly, cell lysates (biological triplicates – 200 µg of protein each, containing the following standard lipid mix (Avanti Polar Lipids): 375 pmoles C17:1 lysophosphatidic acid; 225 pmoles C17:0/C20:4 phosphatidic acid; 170 pmoles C17:1 lysophosphatidylserine; 180 pmoles C17:0/C20:4 phosphatidylserine; 86 pmoles C17:1 lysophosphatidylethanolamine; 112 pmoles C17:0/C14:1 phosphatidylethanolamine; 95 pmoles C17:1 lysophosphatidylcholine; 112 pmoles C17:0/C20:4 phosphatidylcholine; 33.2 pmoles C17:1 lysophosphatidylinositol; 165 pmoles C17:0/C20:4 phosphatidylinositol; 105 pmoles C17:0/C14:1 phosphatidylglycerol; 180 pmoles C17:0/d18:1 ceramide; 140 pmoles C17:0/d18:1 sphingomyelin; 155 pmoles C12:0/d18:1 monohexosyl-ceramide; and 60 pmoles C17:1/C17:1/C17:1 triacylglycerol) were suspended in ice-cold HPLC-grade water, and transferred to 13 x 100-mm Pyrex culture tubes with polytetrafluoroethylene (PTFE)-lined screw caps. Then, HPLC-grade water, methanol, and chloroform were added to each vial, generating a final chloroform/methanol/water (C/M/W) ratio of 1:2:0.8 (v/v/v). Samples were vortexed vigorously for 5 min, and centrifuged for 10 min at 1,800x g at room temperature. After centrifugation, the supernatants were collected and transferred to fresh vials, and the remaining pellets were dried under nitrogen stream. The dry pellets were extracted with chloroform/methanol (2:1, v/v), centrifuged, and the resulting supernatants were combined with the corresponding supernatants from the first step of extraction (C/M/W 1:2:0.8 v/v/v). The combined supernatants were dried under nitrogen stream, and the resulting samples were submitted to Folch’s partitioning by dissolving them in C/M/W (4:2:1.5, v/v/v), followed by vortexing and centrifuging, as described above. After centrifugation, the lower (organic) and upper (aqueous) phases were separated, and transferred to fresh Pyrex glass test tubes. The Folch upper phase was then re-extracted with C/M (2/1; v/v), and the resulting organic phase was combined with the organic phase from the preceding step. The pooled organic phases were dried under a N2 stream, and stored at -20 °C until use.
+</p>
+Ref:</br>
+[1] Gazos-Lopes, F., Oliveira, M. M., Hoelz, L. V., Vieira, D. P., Marques, A. F., Nakayasu, E. S., Gomes, M. T., Salloum, N. G., Pascutti, P. G., Souto-Padron, T., Monteiro, R. Q., Lopes, A.H., and Almeida, I. C. (2014) Structural and functional analysis of a platelet-activating lysophosphatidylcholine of Trypanosoma cruzi. PLoS Negl Trop Dis 8, e3077. doi:10.1371/journal.pntd.0003077. PMID:25101628</br>"	"Lipid samples extracted as described above were diluted in 50 µl of C/M (2:1; v/v) and analyzed by UHPLC-ESI-MS using a modification of the method previously described[1]. Briefly, UHPLC-ESI-MS/MS was conducted using a Dionex™ UltiMate 3000™ UHPLC system (Thermo Scientific) coupled to Q Exactive™ Hybrid Quadrupole-Orbitrap™ Mass Spectrometer (Thermo Scientific). 5 µl injections of samples were made onto an Accucore™ (Thermo Scientific) C18 LC column (2.6 µm solid-core particles, length of 30 mm). The eluent A consisted of acetonitrile/water (50:50 v/v) + 10 mM ammonium formate and 0.2% formic acid, and the eluent B consisted of methanol/isopropanol/water (10:88:20 v/v/v) + 2 mM ammonium formate and 0.01 % formic acid. The following program was used for gradient elution of analytes (total run time of 46 min) at a constant flow rate of 500 ml/min. 35% eluent B – 45% eluent B over 5 min, 45% eluent B – 85% eluent B from min 5 – min 28, 85% eluent B – 100% eluent B from min 28 – min 38, followed by an immediate drop back to 35% eluent B, which is held constant up to min 46 of each run. The column temperature was set to 35 °C, and the autosampler tray temperature was set to 10 °C.
+</p>
+Ref:</br>
+[1] Fröhlich F, Petit C, Kory N, Christiano R, Hannibal-Bach HK, Graham M4, Liu X, Ejsing CS, Farese RV, Walther TC. The GARP complex is required for cellular sphingolipid homeostasis. Elife. 2015 Sep 10;4. doi:10.7554/eLife.08712. PMID:26357016</br>"	"The ion source was a HESI II (Thermo Scientific) set in the following conditions: sheath gas flow rate set to 60; auxiliary flow rate set to 20; sweep gas flow rate set to 1; spray voltage (KV) set to 3.00; capillary temperature set to 285 °C, S-Lens RF level set to 45, and auxiliary temperature set to 370 °C. Samples were run in either positive or in negative ion modes with the mass spectrometer acquisition settings set as follows. For Full Scan – top 15 data-dependent MS/MS: scan range of 250-1800 m/z; mass resolution was set to 70,000; AGC target was set to 1e^6; the C-trap ion accumulation time was set to 120 ms. For Data-dependent MS/MS: mass resolution was set to 30,000; AGC target was set to 5e^5; the C-trap ion accumulation time was set to 120 ms; select ion exclusion was set to 8 s; and the HCD (higher-energy collisional dissociation) fragmentation ramp was set to 15, 25, and 35 NCE (normalized collision energy) respectively."	"No data transformation was required"	"Raw files generated by the LC-MS/MS runs were analyzed using the LipidSearchTM Software (Thermo Scientific) for the identification of lipid species, combining accurate-mass information from parent ion with MS2 information. The following parameters were used for batch analysis: Database – Q Exactive; Search Type – Product; Experiment Type (Exp Type) - LC-MS; Parent Tolerance (Parent Tol) - 0.1 Da; NL/Prec Tol – 0.5 Da; Precursor Tolerance (Prec Tol) - 10.0 ppm; Product Tolerance (15.0) ppm; Merge Range (Min) - 0.0; Minimal Peak Width (min) - 0.0; Threshold Type - Relative; Product Ion – 1.0%; m-score threshold – 2.0; Recalculate Isotope – ON; R.T. Interval (min) - 0.01; Execute Quantitation – ON; m/z Tolerance (m/z tol) -  -10.0/+10.0; Tolerance Type – ppm; R.T. range (min) -  -0.05/+0.05; Toprank filter – ON; Main Node Filter – Main Isomer Peak; m-Score Threshold (Display) - 5.0; C-Score Threshold (Display) - 2.0; Fatty Acid Priority (FA Priority) - ON; ID Quality Filter (A; B; C). The following parameters were used for sample alignment: Search Type – Product; Experiment Type (ExpType) - LC–MS; Alignment Method – Max; R.T. Tolerance – 0.25; Calculate Unassigned Peak Area – ON; Filter Type – New Filter; Toprank Filter –ON; Main Node Filter – Main Isomer Peak; m-score threshold – 5.0; ID Quality – A,B,C. Because this study required a careful comparison between the lipid composition of T. cruzi and its host cells, all lipid species identified using the LipidSearchTM software were manually curated after computational analysis, being either accepted, rejected, or reassigned.
+</p>
+Known quantities of each lipid standard were analyzed using the same UHPLC-ESIMS/MS methods to generate a response factor (RF; peak area/pmol standard injected). The RF for each standard was divided by the CerG1 RF to calculate a molar relative response factor (MRRF) for each major lipid class. The MRRF for each class was normalized to the CerG1 peak area of each sample, and peak areas adjusted accordingly. Only those classes for which standards were detected in each run were considered for analysis. The in-built statistical tool for the quantitation of lipid species LipidSearchTM is student t-test. For the calculation of lipid class fatty acid composition, the MainArea values output by LipidSearch™ were assigned to each FA moiety of a given species and summed using Microsoft Excel PivotTable. Area % is the summed FA value divided by the lipid class total, multiplied by 100 to reflect percentage within each lipid
+class."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Walther"	"Farese"
+Study Person First Name	"Tobias"	"Robert"
+Study Person Mid Initials	""	""
+Study Person Email	"twalther@hsph.harvard.edu"	"robert@hsph.harvard.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	""	""
+Study Person Affiliation	""	""
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

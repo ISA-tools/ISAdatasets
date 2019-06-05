@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"Mouse liver1"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Left lobe of liver"	"FMA"	"http://purl.org/sig/ont/fma/fma15810"	"Sample collection"	"Mouse liver1"
+"Standard mix DG 1,2 and 1,3"	"reference compound"	""	""	"standards"	""	""	"Sample collection"	"Standard mix DG 1,2 and 1,3"
+"Standard DG 1,2"	"reference compound"	""	""	"standards"	""	""	"Sample collection"	"Standard DG 1,2"
+"Standard DG 1,3"	"reference compound"	""	""	"standards"	""	""	"Sample collection"	"Standard DG 1,3"

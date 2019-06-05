@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"NCBITAXON"	"EFO"	"NIFSTD"	"MS"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"28"	"6"	"113"	"21"	"129"	"22"	"86"	"29"	
+Term Source Description	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Neuroscience Information Framework (NIF) Standard Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS757"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/media/molen116/O/Biochemistry/Research/Martijn/ISAcreator_temp/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS757"
+Study Title	"LION-web validation lipidomics experiments (FA-incorporation, membrane fluidty)"
+Study Description	"A major challenge for lipidomic analyses is the handling of the large amounts of data and the translation of results to interpret the involvement of lipids in biological systems. We built a new lipid ontology (LION) that associates over 50,000 lipid species to biophysical, chemical and cell biological features. By making use of enrichment algorithms, we used LION to develop a web-based interface (LION/web) that allows identification of lipid-associated terms in lipidomes. LION/web was validated by analyzing a lipidomic dataset derived from well-characterized sub-cellular fractions of RAW 264.7 macrophages. Comparison of isolated plasma membranes with the microsomal fraction showed a significant enrichment of relevant LION-terms including plasma membrane, headgroup with negative charge, glycerophosphoserines, above average bilayer thickness and below average lateral diffusion. A second validation was performed by analyzing the membrane fluidity of CHO cells incubated with arachidonic acid. An increase in membrane fluidity was observed both experimentally by using pyrene decanoic acid and by using LION/web, showing significant enrichment of terms associated with high membrane fluidity (above average, very high and high lateral diffusion and below average transition temperature). The results demonstrate the functionality of LION/web, which is freely accessible in a platform-independent way."
+Study Submission Date	"2018-09-24"
+Study Public Release Date	"2018-12-01"
+Study File Name	"s_LION-web validation experiments.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"lipidomics analysis software"	"untargeted metabolites"	"immortal cell line cell"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193"	"http://purl.obolibrary.org/obo/MS_1002964"	""	"http://purl.obolibrary.org/obo/CL_0000002"
+Study Design Type Term Source REF	"NCIT"	"MS"	""	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1101/398040"
+Study Publication Author List	"Molenaar, Martijn R
+Jeucken, Aike
+Wassenaar, Tsjerk A
+van de Lest, Chris H A
+Brouwers, Jos F
+Helms, J Bernd"
+Study Publication Title	"LION/web: a web-based ontology enrichment tool for lipidomic data analysis"
+Study Publication Status	"In preparation"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"incubation"	"replicate"
+Study Factor Type	"Incubation"	"replicate"
+Study Factor Type Term Accession Number	"http://www.cognitiveatlas.org/ontology/cogat.owl#CAO_00341"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"NIFSTD"	"EFO"
+Comment[Factor]	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_lion-web_validation_experiments_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography Tandem MS (LC-MS/MS)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"CHO-k1 cells were cultured in Ham’s F-12 medium (Thermo Fisher Scientific, Waltham, MA, USA) supplemented with 7.5% FBS (Thermo Fisher Scientific, Waltham, MA, USA), 100 units/ml penicillin and 100 μg/ml streptomycin (Thermo Fisher Scientific, Waltham, MA, USA). Cells were grown in a humidified incubator at 37 °C containing 5% CO2 and passaged twice a week. Stocks of 10 mM arachidonic acid, linoleic acid, oleic acid, or palmitic acid (all obtained from Sigma, St. Louis, MO, USA) were complexed to 2 mM fatty-acid free BSA (Sigma, St. Louis, MO, USA), filter-sterilized and stored at −20 °C. All experimental incubations were performed in plastic 6-well culture dishes (Corning, Tewksbury, MA, USA)."	"Lipids were extracted as described previously[1].
+</p>
+Ref:</br>
+[1] Bligh EG and Dyer WJ. A rapid method of total lipid extraction and purification. Can J Biochem Physiol. 1959 Aug;37(8):911-7. doi:10.1139/o59-099. PMID:13671378.</br> "	"Subsequently, lipid extracts were dried under nitrogen and dissolved in 100 μl chloroform/methanol (1:1) and injected (10 μl) on a hydrophilic interaction liquid chromatography (HILIC) column (2.6 μm HILIC 100 Å, 50 x 4.6 mm, Phenomenex, Torrance, CA), eluted by an eluens gradient (flow rate of 1 ml/min) from ACN/acetone (9:1, v/v) to ACN/H2O (7:3, v/v) with 10 mM ammonium formate, both containing 0.1% formic acid."	"The column effluent was connected to a heated electrospray ionization (hESI) source of a mass spectrometer (Fusion, Thermo Scientific,Waltham,MA). The measurements were performed with an orbitrap resolution of 120.000, generating 30 data-dependent MS/MS spectra per second in the linear ion trap."	"Acquired raw datafiles were converted to mzXML-files with msConvert[1] and processed with R-package ‘xcms’ v2.99.3[2]. 
+</p>
+Ref:</br>
+[1] Adusumilli R, Mallick P. Data Conversion with ProteoWizard msConvert. Methods Mol Biol. 2017;1550:339-368. doi:10.1007/978-1-4939-6747-6_23. PMID:28188540</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87.</br>"	"After deisotoping, annotation of lipids was performed by matching measuredMS-1 m/z values with theoretical m/z values. Lipids with the same or similar m/z values - e.g., BMP(38:4) and PG(38:4) - could be distinguished by differences in retention time. Lipid annotation containing individual fatty acids was accomplished by examining MS-2 spectra. When MS-2 spectra were available for a given MS-1 peak, the most abundant fatty acid combination was used to annotate the lipid. The resulting experimental datasets were normalized by expressing all lipids as ratios of the sum of all intensities per sample."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Molenaar"
+Study Person First Name	"Martijn"
+Study Person Mid Initials	"R"
+Study Person Email	"m.r.molenaar@uu.nl"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"Yalelaan 2, 3584 CM Utrecht"
+Study Person Affiliation	"Utrecht University, Biochemistry & Cell Biology"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

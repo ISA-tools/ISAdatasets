@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"IMGT-ONTOLOGY"	"OBI"	"CHMO"	"NCBITAXON"	"NCIT"	"UO"	"CHEBI"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/IMGT-ONTOLOGY"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"4"	"22"	"18"	"6"	"44"	"42"	"80"	"29"	"113"	
+Term Source Description	"IMGT-ONTOLOGY"	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS346"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS346"
+Study Title	"Metabolic changes of genetically engineered grapes (Vitis vinifera L.) studied by 1H-NMR, metabolite heatmaps and iPLS."
+Study Description	"The Deficiens homologue 9-iaaM (DefH9-iaaM) gene is an ovule-specific auxin-synthesizing gene which is expressed specifically in placenta/ovules and promotes auxin-synthesis. It was introduced into the genome of two grape cultivars Thompson Seedless and Silcora (SIL) and both transgenic cultivars had an increased number of berries per bunch. This study investigates the down-stream metabolic changes of Silcora and Thompson seedless grape cultivars when genetically modified through the insertion of the DefH9-iaaM gene into their genome. The effect of the genetic modification upon the grape metabolome was evaluated by 1H-NMR and exploratory data analysis and chemometrics methods. Interval Partial Least Squares regression (iPLS) and metabolite heatmaps were employed for scrutinizing the changes in the transgenic metabolome as compared to the wild type metabolome. The result shows that the pleiotropic effects on the metabolome as a function of the gene modifications is relatively low, but that the insertion of transgene caused a decrement in the malic acid and proline and an increment in the p-coumaric acid concentration. The results further show that the concentration of malic acid was correlated with the number of inserted copies of transgene in Silcora cultivar, proving that the inserted genes, which catered for increased berry quality and production, are made on the expense of a greater decrement in malic acid concentration in the berries. NMR together with chemometrics is able to identify specific metabolites that were up- or down regulated in the genetically engineered plants, and thus able to highlight alterations in the down-stream metabolic pathways due to the up-stream genetic modifications."
+Study Submission Date	"2016-05-13"
+Study Public Release Date	"2016-12-22"
+Study File Name	"s_mtbls346.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Genetic Engineering"	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"	"iPLS"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16621"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	""
+Study Design Type Term Source REF	"NCIT"	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-016-1095-5"
+Study Publication Author List	"Gianfranco Picone, Francesco Savorani, Alessia Trimigno, Bruno Mezzetti, Francesco Capozzi and Søren Balling Engelsen"
+Study Publication Title	"Metabolic changes of genetically engineered grapes (Vitis vinifera L.) studied by 1H-NMR, metabolite heatmaps and iPLS"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Cultivar"	"Transgene"
+Study Factor Type	"cultivar"	"Transgene"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005136"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22190"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls346_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Varian"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample Collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample Collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"NMR samples were prepared from the extracts of berries of Thompson Seedless THS-WT and of the DefH9-iaaM line (THS-GM1), and berries of Silcora SIL-WT and of the two DefH9-iaaM modified lines, SIL-GM1 and SIL-GM2. All berries were harvested in the same period (year 2007). At harvest, samples were freeze dried at -80° and then shipped in dry ice at the laboratory of analyses."	"For each genotype (control and transgenic lines of both cultivars), a bulk of 100 ± 1 g of berries was treated; both skin and pulps of each sample were homogenized under ice chilling and 3 aliquots of about 10.0 g were vortexed separately with 10.0 ml of a mixture of methanol and 50 mM CH3COOH/Na+ buffer pH 5.0 (2:1) in order to perform the solvent extraction. The suspensions were centrifuged at 10,000 rpm for 20 min at 4° C. The resulting hydro-alcoholic solution was dispensed in different Eppendorf tubes, as 1 ml aliquots, and stored at -80° C."	"Before the NMR acquisition, 10% (v/v) D2O was added to each 1 ml extract, thus centrifuged at 14,000 rpm for 5 min at room temperature. pH was not further adjusted, but it was measured for each sample yielding an average of 4.29 with a standard deviation of 0.08, confirming the buffer efficacy. A volume of 800 µl was transferred to a 5-mm NMR tube in order to acquire a single NMR FID (Free Induction Decay)."	"The 1H-NMR spectra were recorded at T = 300K using a Varian Mercury AS/400 NMR spectrometer operating at 9.4 T, corresponding to 400.098 MHz 1H Larmor frequency."	"For each spectrum 2048 scans were acquired, with data collected into 16K data points with a spectral width of 16 ppm, a pulse angle of 60°, a recycle delay of 1.0 s, and acquisition time of 2.561 s. The water and methanol singlets were suppressed using a standard Varian WET pre-saturation sequence, with simultaneous irradiation of both the water and the methanol frequencies. Prior to Fourier transformation, each FID was apodized by Lorentzian line broadening of 1 Hz."	"Spectra were phase and baseline corrected manually using MestRe-C 4.9.8.0 (www.mestrec.com, Mestreab Research SL, Santiago de Compostela, Spain). The same software was used to export data in ASCII file format. Chemical shift referencing was performed by setting the glucose’s ß-anomeric signal to 4.60 ppm. The following spectral regions were removed prior to data analysis: the regions including only noise (the spectrum edges between 14.05 and 8.7 ppm and between 0.4 and -1.93 ppm) and the NMR signals which are strongly affected by the residual solvent peak (water, between 5.15 and 4.65 ppm, methanol, between 3.28 and 3.41 ppm and acetic acid, between 1.97 and 2.18 ppm). As a result, the total number of spectral data points was reduced to 7585 points. A spectral dataset matrix with the dimensions 45 x 7585 was then constructed for subsequent multivariate data analysis."	"Molecular assignments was obtained through a combination of literature assignments [1]-[6], standard addition (spiking) and by the use of a multimedia library of pure compounds believed to be present in the extracts (http://www.bmrb.wisc.edu/).
+</p>
+Ref:</br>
+[1] Ali, K., Maltese, F., Choi, Y. H., & Verpoorte, R. (2010). Metabolic constituents of grapevine and grape-derived products. Phytochemistry Reviews, 9(3), 357–378. doi:10.1007/s11101-009-9158-0. PMID:20835385</br>
+[2] López-Rituerto, E., Savorani, F., Avenoza, A., Busto, J. H., Peregrina, J. M., & Engelsen, S. B. (2012). Investigations of La Rioja terroir for wine production using 1H NMR metabolomics. Journal of Agicultural and Food Chemistry, 60(13), 3452–3461. doi:10.1021/jf204361d.</br>
+[3] Mulas, G., Galaffu, M. G., Pretti, L., Nieddu, G., Mercenaro, L., Tonelli, R., et al. (2011). NMR analysis of seven selections of vermentino grape berry: metabolites composition and development. Journal of Agricultural and Food Chemistry, 59(3), 793–802. doi:10.1021/jf103285f. PMID:21226517</br>
+[4] Pereira, G. E., Gaudillere, J.-P., Leeuwen, C. V., Hilbert, G., Maucourt, M., Deborde, C., et al. (2006). 1H NMR metabolite fingerprints of grape berry: comparison of vintage and soil effects in Bordeaux grapevine growing areas. Analytica Chimica Acta, 563(1–2), 346–352. doi:10.1016/j.aca.2005.11.007.</br>
+[5] Son, H.-S., Hwang, G.-S., Kim, K. M., Ahn, H.-J., Park, W.-M., Van Den Berg, F., et al. (2009). Metabolomic studies on geographical grapes and their wines using 1H NMR analysis coupled with multivariate statistics. Journal of Agricultural and Food Chemistry, 57(4), 1481–1490. doi:10.1021/jf803388w. PMID:19192969</br>
+[6] Savage, A. K., Tucker, G., van Duynhoven, J. P. M., Wulfert, F., & Daykin, C. A. (2009). Nutrimetabolomics: development of a bio-identification toolbox to determine the bioactive compounds in grape juice. Bioanalysis, 1(9), 1537–1549. doi:10.4155/bio.09.147. PMID:21083102</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Picone"	"Savorani"
+Study Person First Name	"Gianfranco"	"Francesco"
+Study Person Mid Initials	""	""
+Study Person Email	"gianfranco.picone@unibo.it"	"francesco.savorani@polito.it"
+Study Person Phone	"0039 0547 338106"	"0039 011 0904562"
+Study Person Fax	""	""
+Study Person Address	"Department of Agricultural and Food Sciences (DISTAL), Alma Mater Studiorum - University of Bologna, Piazza Goidanich 60, 47521 Cesena (FC), Italy;"	"Department of Applied Science and Technology (DISAT), Polytechnic University of Turin – Corso Duca degli Abruzzi 24, 10129 Torino (TO), Italy"
+Study Person Affiliation	"University of Bologna"	"Polytechnic University of Turin"
+Study Person Roles	"principal investigator"	"principal investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

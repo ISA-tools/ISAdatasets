@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"EFO"	"NCIT"	"CHEBI"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"29"	"18"	"6"	"146"	"44"	"99"	"29"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS524"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\mwilliam\Google Drive\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS524"
+Study Title	"Identification of a discriminative metabolomic fingerprint of potential clinical relevance in saliva of patients with periodontitis using 1H nuclear magnetic resonance (NMR) spectroscopy."
+Study Description	"Periodontitis is characterized by the loss of the supporting tissues of the teeth in an inflammatory-infectious context. The diagnosis relies on clinical and X-ray examination. Unfortunately, clinical signs of tissue destruction occur late in the disease progression. Therefore, it is mandatory to identify reliable biomarkers to facilitate a better and earlier management of this disease. To this end, saliva represents a promising fluid for identification of biomarkers as metabolomic fingerprints. The present study used high-resolution 1H-nuclear magnetic resonance (NMR) spectroscopy coupled with multivariate statistical analysis to identify the metabolic signature of active periodontitis. The metabolome of stimulated saliva of 26 patients with generalized periodontitis (18 chronic and 8 aggressive) was compared to that of 25 healthy controls. Principal Components Analysis (PCA), performed with clinical variables, indicated that the patient population was homogeneous, demonstrating a strong correlation between the clinical and the radiological variables used to assess the loss of periodontal tissues and criteria of active disease. Orthogonal Projection to Latent Structure (OPLS) analysis showed that patients with periodontitis can be discriminated from controls on the basis of metabolite concentrations in saliva with satisfactory explained variance (R2X = 0.81 and R2Y = 0.61) and predictability (Q2Y = 0.49, CV-AUROC = 0.94). Interestingly, this discrimination was irrespective of the type of generalized periodontitis, i.e. chronic or aggressive. Among the main discriminating metabolites were short chain fatty acids as butyrate, observed in higher concentrations, and lactate, gamma-amino-butyrate, methanol, and threonine observed in lower concentrations in periodontitis. The association of lactate, GABA, and butyrate to generate an aggregated variable reached the best positive predictive value for diagnosis of periodontitis. In conclusion, this pilot study showed that 1H-NMR spectroscopy analysis of saliva could differentiate patients with periodontitis from controls. Therefore, this simple, robust, non-invasive method, may offer a significant help for early diagnosis and follow-up of periodontitis."
+Study Submission Date	"2017-08-11"
+Study Public Release Date	"2017-08-18"
+Study File Name	"s_MTBLS524.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"periodontitis"	"biomarker"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://www.ebi.ac.uk/efo/EFO_0000649"	"http://purl.obolibrary.org/obo/CHEBI_59163"	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"EFO"	"EFO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28837579"
+Study Publication DOI	"10.1371/journal.pone.0182767"
+Study Publication Author List	"Rzeznik M, Triba MN, Levy P, Jungo S, Botosoa E, Duchemann B, Le Moyec L, Bernaudin JF, Savarin P, Guez D."
+Study Publication Title	"Identification of a discriminative metabolomic fingerprint of potential clinical relevance in saliva of patients with periodontitis using 1H nuclear magnetic resonance (NMR) spectroscopy."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Sample type"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls524_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"26 patients (10 men and 16 women) with chronic and aggressive generalized periodontitis (18 and 8 respectively) were recruited from among the outpatients at the Department of Periodontology of Bretonneau Hospital in Paris, France (AP-HP, University Paris Descartes, Paris, France). The diagnostic criteria for chronic and aggressive generalized periodontitis were defined according to the classification proposed at the International Workshop for the Classification of Periodontal Diseases and Conditions in 1999 [38]. Healthy controls (n = 26) were simultaneously recruited from dental students or medical staff and were matched by age (± 5 years), gender, and smoking habits. Both patient and control groups were balanced for ethnicity and socio-economic levels.
+</p>
+The collection of saliva was done under standardized conditions, between 09:00 and 11:00 am after paraffin wax-stimulation and to prevent blood contamination, before the assessment of clinical parameters. A volume of 10 ml saliva was collected (±5 min), the pH was recorded and the sample immediately stored at -25 °C. Patients and controls were required to refrain from eating, drinking, chewing gum, and tooth brushing for at least 2 h prior to the sample collection.
+</p>
+Ref:</br>
+[1] Armitage GC. Development of a classification system for periodontal diseases and conditions. Ann Periodontol. 1999 Dec;4(1):1-6. doi:10.1902/annals.1999.4.1.1. PMID:10863370</br>"	"No extraction was performed for this study."	"For NMR analysis, samples were thawed at room temperature and centrifuged for 2 min at 2000 x g before analysis. A volume of 0.6 ml of saliva was placed into a 5-mm-diameter specific tube together with 0.1 ml of D2O."	"The proton spectra were acquired at 500 MHz on a Varian Unity Inova® spectrometer at 25 °C."	"A signal was acquired after a 90° pulse of 32K data points on a spectral window of 5000 Hz. The relaxation delay was 4 s. The water signal was suppressed by a pre-saturation sequence using low-power irradiation (0.03 W for 2 s) on the water-signal frequency during the relaxation delay. The resulting free induction decays obtained with 128 transients were processed by NMR Pipe software."	"A Fourier transformation was applied with an exponential window function to produce a 1 Hz broadening line. Spectra were phased and a multipoint linear baseline correction was applied. Each spectrum was referenced using a propionic acid signal (1.04 ppm). The spectral region between 0–9 ppm was divided into 9000 spectral regions of 0.001 ppm width, called buckets, using in-house C code. The water region was excluded [5.1; 4.3 ppm]. The icoshift tool for Matlab (Matlab® 2014, The Mathworks Inc., Natick, MA, USA) was used for realignment[1]. Each bucket was integrated and scaled using probabilistic quotient normalization[2].
+</p>
+Ref:</br>
+[1] Savorani F1, Tomasi G, Engelsen SB. icoshift: A versatile tool for the rapid alignment of 1D NMR spectra. J Magn Reson. 2010 Feb;202(2):190-202. doi:10.1016/j.jmr.2009.11.012. PMID:20004603</br>
+[2] Dieterle F1, Ross A, Schlotterbeck G, Senn H. Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Anal Chem. 2006 Jul 1;78(13):4281-90. doi:10.1021/ac051632c. PMID:16808434</br>"	"Metabolite identification information was not provided for this study."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Triba"
+Study Person First Name	"Mohamed"
+Study Person Mid Initials	"N."
+Study Person Email	"mohamed.triba@univ-paris13.fr"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Universite Paris 13"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

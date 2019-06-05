@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BRO"	"NCBITAXON"	"CHMO"	"EFO"	"MS"	"NCIT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/BRO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"14"	"2"	"18"	"113"	"129"	"44"	"22"	"86"	"29"	
+Term Source Description	"Biomedical Resource Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS750"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\NING\Desktop\ISA Creator\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS750"
+Study Title	"Lipin1 deficiency causes sarcoplasmic reticulum stress and chaperone-responsive myopathy."
+Study Description	"As a consequence of impaired glucose or fatty acid metabolism, bioenergetic stress in skeletal muscles may trigger myopathy and rhabdomyolysis. Genetic mutations causing loss of function of the LPIN1 gene frequently lead to severe rhabdomyolysis bouts in children, though the metabolic alterations and possible therapeutic interventions remain elusive. Here, we show that lipin1 deficiency in mouse skeletal muscles is sufficient to trigger myopathy. Strikingly, muscle fibers display strong accumulation of both neutral and phospholipids. The metabolic lipid imbalance can be traced to an altered fatty acid synthesis and fatty acid oxidation, accompanied by a defect in acyl chain elongation and desaturation. As an underlying cause, we reveal a severe sarcoplasmic reticulum (SR) stress, leading to the activation of the lipogenic SREBP1c/SREBP2 factors, the accumulation of the Fgf21 cytokine, and alterations of SR-mitochondria morphology. Importantly, pharmacological treatments with the chaperone TUDCA and the fatty acid oxidation activator bezafibrate improve muscle histology and strength of lipin1 mutants. Our data reveal that SR stress and alterations in SR-mitochondria contacts are contributing factors and potential intervention targets of the myopathy associated with lipin1 deficiency."
+Study Submission Date	"2018-09-19"
+Study Public Release Date	"2018-09-26"
+Study File Name	"s_Lipin Muscle.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"myopathy"	"targeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"skeletal muscle"	"Endoplasmic Reticulum Stress"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0004145"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/BTO_0001103"	"http://www.ebi.ac.uk/efo/EFO_1001886"
+Study Design Type Term Source REF	"EFO"	""	"CHMO"	"BTO"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30420558"
+Study Publication DOI	"10.15252/embj.201899576"
+Study Publication Author List	"Rashid T, Nemazanyy I, Paolini C, Tatsuta T, Crespin P, de Villeneuve D, Brodesser S, Benit P, Rustin P, Baraibar MA, Agbulut O, Olivier A, Protasi F, Langer T, Chrast R, de Lonlay P, de Foucauld H, Blaauw B, Pende M."
+Study Publication Title	"Lipin1 deficiency causes sarcoplasmic reticulum stress and chaperone-responsive myopathy."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Knockout"	"Group"
+Study Factor Type	"gene knock out"	"Group"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000506"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_lipin_muscle_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Alternating (LC-MS (Alternating))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Mice gastrocnemius muscle were frozen in liquid nitrogen and stored at -80 °C before the extraction."	"Frozen muscle tissue samples were powdered using Mikro-Dismembrator S (Sartorius) according to manufactures instructions. Metabolites were extracted as previously described[1]. Briefly 30 mg of frozen powdered muscle tissue was used for extraction. Extraction solution was composed of 50% methanol, 30% ACN, and 20% water. The volume of extraction solution added was adjusted to mass of the tissue (1 ml/100 mg). After addition of extraction solution, samples were vortexed for 5 min at 4 °C, and then centrifuged at 16,000 x g for 15 min at 4 °C. The supernatants were collected and stored at -80 °C until analyses.
+</p>
+Ref:</br>
+[1] Mackay GM, Zheng L, van den Broek NJ, Gottlieb E. Analysis of Cell Metabolism Using LC-MS and Isotope Tracers. Methods Enzymol. 2015;561:171-96. doi: 10.1016/bs.mie.2015.05.016. PMID:26358905</br>"	"LC/MS analyses were conducted on a QExactive Plus Orbitrap mass spectrometer coupled to a Dionex UltiMate 3000 UPLC system (Thermo, USA). 5 μl of each sample was injected onto Zic-pHilic (150 mm x 2.1 mm i.d. 5 μm) with the guard column (20 mm x 2.1 mm i.d. 5 μm) (Millipore) for the liquid chromatography separation. Buffer A was 20 mM ammonium carbonate, 0.1% ammonium hydroxide (pH 9.2); buffer B was acetonitrile. The chromatographic gradient was run at a flow rate of 0.2 μl/min as follows: 0–20 min.: linear gradient from 80% to 20% B; 20–20.5 min.: linear gradient from 20% to 80% B; 20.5–28 min.: hold at 80% B[1].
+</p>
+Ref:</br>
+[1] Mackay GM, Zheng L, van den Broek NJ, Gottlieb E. Analysis of Cell Metabolism Using LC-MS and Isotope Tracers. Methods Enzymol. 2015;561:171-96. doi: 10.1016/bs.mie.2015.05.016. PMID:26358905</br>"	"Mass spectrometry analyses were conducted on a QExactive Plus Orbitrap mass spectrometer equipped with an Ion Max source and a HESI II probe. External mass calibration was performed using the standard calibration mixture every 7 days as recommended by the manufacturer.  The mass spectrometer was operated in full-scan, polarity switching mode with the spray voltage set to 2.5 kV, the heated capillary held at 320 °C. The sheath gas flow was set to 20 units, the auxiliary gas flow was set to 5 units, and the sweep gas flow was set to 0 unit. The metabolites were detected across a mass range of 75–1,000 m/z at a resolution of 35,000 (at 200 m/z) with the AGC target at 106, and the maximum injection time at 250 ms. Lock masses were used to insure mass accuracy below 5 ppm. Data were acquired with Thermo Xcalibur software."	"Data was collected as RAW data and not transformed into another format."	"The peak areas of metabolites were determined using Thermo TraceFinder software, identified by the exact mass of each singly charged ion and by known retention time on the HPLC column. Statistical and pathway analyses were performed using Metaboanalyst 4.0 software[1].
+</p>
+Ref:</br>
+[1] Xia J and Wishart DS. Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data Analysis. Curr Protoc Bioinformatics. 2016 Sep 7;55:14.10.1-14.10.91. doi:10.1002/cpbi.11. PMID:27603023</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type;Guard column"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Nemazanyy"
+Study Person First Name	"Ivan"
+Study Person Mid Initials	""
+Study Person Email	"ivan.nemazanyy@inserm.fr"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"INEM"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

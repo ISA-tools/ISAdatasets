@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"113"	"44"	"22"	"99"	"86"	"43"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS559"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS559"
+Study Title	"Similar, but different: structurally related azelaic acid and hexanoic acid trigger differential metabolomic and transcriptomic responses in tobacco cells"
+Study Description	"BACKGROUND: Plants respond to various stress stimuli by activating an enhanced broad-spectrum defensive ability. The development of novel resistance inducers represents an attractive, alternative crop protection strategy. In this regard, hexanoic acid (Hxa, a chemical elicitor) and azelaic acid (Aza, a natural signaling compound) have been proposed as inducers of plant defense, by means of a priming mechanism. Here, we investigated both the mode of action and the complementarity of Aza and Hxa as priming agents in Nicotiana tabacum cells in support of enhanced defense. </br> RESULTS: Metabolomic analyses identified signatory biomarkers involved in the establishment of a pre-conditioned state following Aza and Hxa treatment. Both inducers affected the metabolomes in a similar manner and generated common biomarkers: caffeoylputrescine glycoside, cis-5-caffeoylquinic acid, feruloylglycoside, feruloyl-3-methoxytyramine glycoside and feruloyl-3-methoxytyramine conjugate. Subsequently, quantitative real time-PCR was used to investigate the expression of inducible defense response genes: phenylalanine ammonia lyase, hydroxycinnamoyl CoA quinate transferase and hydroxycinnamoyl transferase to monitor activation of the early phenylpropanoid pathway and chlorogenic acids metabolism, while ethylene response element-binding protein, small sar1 GTPase, heat shock protein 90, RAR1, SGT1, non-expressor of PR genes 1 and thioredoxin were analyzed to report on signal transduction events. Pathogenesis-related protein 1a and defensin were quantified to investigate the activation of defenses regulated by salicylic acid and jasmonic acid respectively. The qPCR results revealed differential expression kinetics and, in general (except for NPR1, Thionin and PR1a), the relative gene expression ratios observed in the Hxa-treated cells were significantly greater than the expression observed in the cells treated with Aza. </br> CONCLUSIONS: The results indicate that Aza and Hxa have a similar priming effect through activation of genes involved in the establishment of systemic acquired resistance, associated with enhanced synthesis of hydroxycinnamic acids and related conjugates."
+Study Submission Date	"2017-10-19"
+Study Public Release Date	"2017-11-15"
+Study File Name	"s_mtbls559.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"plant priming"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"augmented defence"	"azelaic acid"	"hexanoic acid"	"hydroxycinnamic acid"	"Transcriptomics"	"Tobacco"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""	"http://purl.obolibrary.org/obo/CHEBI_48131"	"http://purl.obolibrary.org/obo/CHEBI_30776"	"http://purl.obolibrary.org/obo/CHEBI_24689"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153189"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C891"
+Study Design Type Term Source REF	""	"CHMO"	""	""	"CHEBI"	"CHEBI"	"CHEBI"	"NCIT"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"29187153"
+Study Publication DOI	"10.1186/s12870-017-1157-5"
+Study Publication Author List	"Djami-Tchatchou AT, Ncube EN, Steenkamp PA, Dubery IA."
+Study Publication Title	"Similar, but different: structurally related azelaic acid and hexanoic acid trigger differential metabolomic and transcriptomic responses in tobacco cells."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Aza treatment"	"Hxa treatment "	"timepoint"
+Study Factor Type	"treatment"	"treatment"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls559_POS_LC_mass_spectrometry.txt"	"a_mtbls559_NEG_LC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"SYNAPT HDMS (Waters)"	"SYNAPT HDMS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Nicotiana tabacum cv Samsun cell cultures[1][2] were established from callus derived from sterile, in vitro grown tobacco plants grown from seeds (Agriculture Research Council, Roodeplaat, South Africa). For callus induction, stem and leaf sections were placed on Murashige and Skoog (MS) medium containing 0.25 mg/l 2,4-dichlorophenoxyacetic acid and 0.25 mg/l kinetin (pH 5.8). Cell suspensions were grown in liquid MS medium with the same hormone composition, whilst continuously shaking at 120 rpm in the dark at 25 °C[3-5]. Cells were sub-cultured into fresh medium every 7 d. All of the experiments were conducted 2–3 d after sub-culturing, during the logarithmic stage [6].
+</p>
+Each experiment was conducted a minimum of 3 times in order to generate the required minimum number of biological replicates required for metabolomics analyses [7-9]. Cell suspensions, as described above, were treated with equimolar concentrations of Aza and Hxa (final concentrations of 100 μM) (Sigma Aldrich, Germany). The 2 inducers were prepared as 10 mM stock solutions, dissolved in MS medium and with the pH adjusted to 5.8 [10]. Naïve (non-treated / non-stimulated cells) exhibited no changes over the 24 h time period and served as a negative controls. Cells were harvested at the selected time points (0, 6, 12 and 24 h) by filtration onto 55 mm circle filter papers using a vacuum filtration system (Millipore, Billerica, MA, USA). The cells were transferred into Falcon tubes and cold, sterile MS medium (without any vitamins, hormones and inducing agents) was added to 50 ml to wash the cells free of any original culture medium. Thereafter, the cells were filtered again as described, weighed and processed for extraction.
+</p>
+Ref:</br>
+[1] Djami-Tchatchou AT, Maake MP, Piater LA, Dubery IA. Isonitrosoacetophenone drives transcriptional reprogramming in Nicotiana tabacum cells in support of innate immunity and defense. PLoS One. 2015 Feb 6;10(2):e0117377. doi:10.1371/journal.pone.0117377. PMID:25658943</br>
+[2] Mhlongo MI, Piater LA, Steenkamp PA, Madala NE, Dubery IA. Priming agents of plant defence stimulate the accumulation of mono- and di-acylated chlorogenic acids in cultured tobacco cells. Physiol Mol Plant Path. 2014;88:61–6. doi: 10.1016/j.pmpp.2014.09.002</br>.
+[3] Mhlongo MI, Piater LA, Madala NE, Steenkamp PA, Dubery IA. Phenylpropanoid Defences in Nicotiana tabacum Cells: Overlapping Metabolomes Indicate Common Aspects to Priming Responses Induced by Lipopolysaccharides, Chitosan and Flagellin-22. PLoS One. 2016 Mar 15;11(3):e0151350. doi:10.1371/journal.pone.0151350. PMID:26978774</br>
+[4] Mhlongo MI, Steenkamp PA, Piater LA, Madala NE, Dubery IA. Profiling of Altered Metabolomic States in Nicotiana tabacum Cells Induced by Priming Agents. Front Plant Sci. 2016 Oct 18;7:1527. doi:10.3389/fpls.2016.01527. PMID:27803705</br>
+[5] Mhlongo MI, Piater LA, Steenkamp PA, Madala NE, Dubery IA. Metabolomic fingerprinting of primed tobacco cells provide the first evidence for the biological origin of cis-chlorogenic acid. Biotechnol Lett. 2015 Jan;37(1):205-9. doi:10.1007/s10529-014-1645-8. PMID:25214217</br>
+[6] Tugizimana F, Steenkamp PA, Piater LA, Dubery IA. Ergosterol-induced sesquiterpenoid synthesis in tobacco cells. Molecules. 2012 Feb 9;17(2):1698-715. doi:10.3390/molecules17021698. PMID:22322447</br>
+[7] Tugizimana F, Piater L, Dubery I. Plant metabolomics: a new frontier in phytochemical analysis. S Afr J Sci. 2013;109:1–11. doi:10.1590/sajs.2013/20120005 </br>
+[8] Hall RD. Plant metabolomics: from holistic hope, to hype, to hot topic. New Phytol. 2006;169(3):453-68. doi:10.1111/j.1469-8137.2005.01632.x. PMID:16411949</br>
+[9] Allwood JW, De Vos RC, Moing A, Deborde C, Erban A, Kopka J, Goodacre R, Hall RD. Plant metabolomics and its potential for systems biology research background concepts, technology, and methodology. Methods Enzymol. 2011;500:299-336. doi:10.1016/B978-0-12-385118-5.00016-5. PMID:21943904</br>
+[10] Djami-Tchatchou AT, Maake MP, Piater LA, Dubery IA. Isonitrosoacetophenone drives transcriptional reprogramming in Nicotiana tabacum cells in support of innate immunity and defense. PLoS One. 2015 Feb 6;10(2):e0117377. doi:10.1371/journal.pone.0117377. PMID:25658943</br>"	"The washed and filtered cells were weighed to obtain 1 g of each sample and resuspended in a volume of 10 ml (1:10 m/v) 100% methanol. The suspensions were homogenized using a probe sonicator (Bandelin Sonopuls, Berlin, Germany) set at 55% power for 15 s with 4 cycles. The homogenates were centrifuged at 5100 x g for 15 min at room temperature and the supernatants concentrated to approximately 1 ml on a rotary evaporator set at 50 °C. The resulting volumes were transferred into 2 ml Eppendorf tubes and dried to completeness in a heating block set at 50 °C overnight. The dried residues were reconstituted in 500 μl 50% (v/v) UHPLC-grade methanol (Romil Chemistry, Cambridge, UK) in autoclaved milli-Q water, and filtered through a 0.22 μm nylon syringe filter into 300 μl inserts fitted into glass vials with slitted caps. The filtrates were stored at −20 °C until analysis. To ensure reproducibility and account for analytical variability, the obtained results were from 3 independent biological repeats, each analyzed in triplicate (i.e. 3 technical repeats) for all samples. During data acquisition, pooled samples were used for quality control (QC) checks. Sample acquisition was randomized and the QC sample analyzed every 10 injections to monitor and correct changes in the instrument response."	"UHPLC-MS analyses were performed on a Waters Acquity UHPLC system coupled in tandem to a SYNAPT G1 HDMS qTOF mass spectrometer (Waters Corporation, Milford, MA, USA). The liquid chromatography was carried out on a HSS T3 C18 Acquity UHPLC column (Waters, Milford, MA, USA) thermostatted at 60 °C using a gradient elution profile over a total run time of 20 min. The binary solvents utilized consisted of UHPLC grade water (eluent A) and acetonitrile (eluent B) (Romil Pure Chemistry, Cambridge, UK), both containing 0.1% formic acid. The initial conditions were 5% A and gradient elution was introduced to change the chromatographic conditions to 90% B at 16 min and the conditions were kept constant for 1 min; the gradient was then dropped to the initial conditions and held for 2 min. The flow rate was 0.4 ml/min whilst an injection volume of 3 μl was used. Separated analytes were detected using a photodiode array detector; scanning range from 200 to 500 nm with 1.2 nm resolution and a sampling rate of 20 points/s."	"The mass spectrometry component used for the detection of separated analytes was a SYNAPT G1 high definition qTOF-MS, used in V-optics and operated in the electrospray ionization (ESI) positive and negative modes. A reference calibrant of leucine enkephalin (50 pg/ml) was used to obtain typical mass accuracies between 1 and 3 mDa. The following parameters were also set up: a capillary voltage of 2.5 kV and the sampling cone voltage at 30 V, trap collision 3 V and the extraction cone at 4 V. The scan time was 0.1 s covering the 100 to 1000 Da range. The source temperature was 120 °C whereas the desolvation temperature was set at 450 °C. Nitrogen gas was used as the nebulization gas at a flow rate of 800 l/h."	"The MassLynx XS 4.1 software (Waters Corporation, Manchester, UK) was used for the pre-processing and pre-treatment of the obtained raw data. The MassLynx XS software parameters were set to analyse the 3-10 min retention time (Rt) range of the chromatograms, mass range 100–900 Da, mass tolerance 0.01 Da, mass window 0.05 Da and a Rt window of 0.20 min. The MarkerLynxTM data matrix (of Rt-m/z variable pairs, with the m/z peak intensities for each sample), was exported to the SIMCA (Soft Independent Modeling of Class Analogy) software, version 14 (Umetrics, Umeå, Sweden) for principal component analysis (PCA) using Pareto scaling and orthogonal projection to latent structures discriminant analysis (OPLS-DA) modeling also using Pareto scaling."	"The selected mass ions from the OPLS-DA-derived S-plots and Variable Importance in Projection (VIP) plots were putatively annotated using the spectral fragmentation patterns (compared to literature) as well as the calculated putative empirical formulae and structures, which were further searched in databases such as the Dictionary of Natural Products (www.dnp.chemnet base.com), ChemSpider (www.chemspider.com) and Knapsack (http://kanaya.naist.jp/KNApSAcK/)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Dubery"	"Tugizimana"
+Study Person First Name	"Ian"	"Fidele"
+Study Person Mid Initials	"A"	""
+Study Person Email	"idubery@uj.ac.za"	"fideletu@gmail.com"
+Study Person Phone	"+27115592401"	"+27115597784"
+Study Person Fax	""	""
+Study Person Address	"C2Lab 4th floor, Department of Biochemistry, University of Johannesburg APK Campus, Auckland Park, 2006, South Africa."	"C2Lab 4th floor, Department of Biochemistry, University of Johannesburg APK Campus, Auckland Park, 2006, South Africa."
+Study Person Affiliation	"University of Johannesburg, South Africa"	"University of Johannesburg, South Africa"
+Study Person Roles	"project design"	"submitting the study"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

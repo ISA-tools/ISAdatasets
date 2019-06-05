@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"OBI"	"MS"	"BTO"	
-Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
-Term Source Version	"2"	"146"	"5"	"21"	"86"	"29"	
-Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"EFO"	"CHMO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"21"	"2"	"86"	"146"	"5"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
 INVESTIGATION
 Investigation Identifier	"MTBLS338"
 Investigation Title	"Investigation"

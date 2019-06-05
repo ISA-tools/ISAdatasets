@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"OBI"	"MS"	"BTO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"113"	"5"	"22"	"86"	"29"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS656"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS656"
+Study Title	"A Pilot Characterization of the Human Chronobiome"
+Study Description	"Physiological function, disease expression and drug effects vary by time-of-day. Clock disruption in mice results in cardio-metabolic, immunological and neurological dysfunction; circadian misalignment using forced desynchrony increases cardiovascular risk factors in humans. Here we integrated data from remote sensors, physiological and multi-omics analyses to assess the feasibility of detecting time dependent signals - the chronobiome - despite the noise attributable to the behavioral differences of free-living human volunteers. The majority (62%) of sensor readouts showed time-specific variability including the expected variation in blood pressure, heart rate, and cortisol. While variance in the multi-omics is dominated by inter-individual differences, temporal patterns are evident in the metabolome (5.4% in plasma, 5.6% in saliva) and in several genera of the oral microbiome. This demonstrates, despite a small sample size and limited sampling, the feasibility of characterizing at scale the human chronobiome in the wild. Such reference data at scale are a prerequisite to detect and mechanistically interpret discordant data derived from patients with temporal patterns of disease expression, to develop time-specific therapeutic strategies and to refine existing treatments."
+Study Submission Date	"2018-04-02"
+Study Public Release Date	"2018-04-30"
+Study File Name	"s_mtbls656.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"	"metabolomic profiling"	"replicate"	"circadian rhythm"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://www.ebi.ac.uk/efo/EFO_0000683"	"http://www.ebi.ac.uk/efo/EFO_0004354"
+Study Design Type Term Source REF	"CHMO"	""	"EFO"	"EFO"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29215023"
+Study Publication DOI	"10.1038/s41598-017-17362-6"
+Study Publication Author List	"Skarke C, Lahens NF, Rhoades SD, Campbell A, Bittinger K, Bailey A, Hoffmann C, Olson RS, Chen L, Yang G, Price TS, Moore JH, Bushman FD, Greene CS, Grant GR, Weljie AM, FitzGerald GA."
+Study Publication Title	"A Pilot Characterization of the Human Chronobiome"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Collection Time"	"Replicate"
+Study Factor Type	"timepoint"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls656_plasma_mass_spectrometry.txt"	"a_mtbls656_saliva_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo TQ MS (Waters)"	"Xevo TQ MS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The design of this pilot study (see Fig 1 in the paper associated with this study) combined longitudinal assessments over 4 months (activity, light exposure, sleep times, and communication) with additional deep phenotyping over 48 hr ambulatory blood pressure monitoring, biospecimen collections for multiomics biology, and food intake). The 48 hr assessments were conducted twice, 2 weeks apart, timed at around the midpoint of the 4-month data collection. Given that acute alcohol ingestion dampens biological rhythms in humans[1,2], volunteers were asked to abstain from alcohol for both 48-hr sessions beginning 24 hr beforehand. Caffeine and high fat foods were permissible. Healthy, male volunteers were enrolled after protocol approval by the Institutional Review Board which included an institutional security and privacy information impact assessment (SPIA) and registration (clinicaltrials.gov NCT02249793). All study procedures and associated risks were explained verbally and in writing prior to obtaining consent from the study volunteers. They were non-smokers and abstained from the use of vitamins, non-steroidal anti-inflammatory drugs (NSAIDs including aspirin) and illicit drugs as assessed by cotinine (Craig Medical, Vista, CA), platelet aggregometry[3] and a urine drug screen (RDI, Poteau, OK), respectively, for at least 2 weeks before enrollment and at the start of each 48 hr session. After enrollment and authorization (WeP Project Agreement), the Munich ChronoType Questionnaire (MCTQ) was administered online[4]. Health status and safety was assessed by routine medical history, physical exam, and laboratory work (hematology, biochemistry, and urinalysis) at the time of screening and again on completion of the study. Vital signs were recorded and queries for adverse events were made at each clinical visit. Aside from general health, the main inclusion criterion was to own a smartphone running an Android operating system, version 2.3 or higher. The main exclusion criteria comprised travel across time zones and irregular work hr, e.g. night shifts. To assess the function of the renin–angiotensin–aldosterone system (RAAS) and kidney, biospecimens were taken twice, once during each 48 hr session, to measure urinary electrolytes and aldosterone, cortisol, renin activity, creatinine clearance, GFR, and BUN.
+</p>
+Biospecimens:</br>
+Plasma, serum, saliva, oral and rectal swabs were collected at 0, 12, 24, 36, and 48 hr in each session. Biospecimens were stored at -80 °C until analysis.
+</p>
+Ref:<br/>
+[1] Danel, T. & Touitou, Y. Alcohol decreases the nocturnal peak of TSH in healthy volunteers. Psychopharmacology (Berl) 170, 213-214, doi:10.1007/s00213-003-1532-9 (2003).</br>
+[2] Eastman, C. I., Stewart, K. T. & Weed, M. R. Evening alcohol consumption alters the circadian rhythm of body temperature. Chronobiol Int 11, 141-142 (1994).</br> 
+[3] Pedersen, A. K. & FitzGerald, G. A. Cyclooxygenase inhibition, platelet function, and metabolite formation during chronic sulfinpyrazone dosing. Clin Pharmacol Ther 37, 36-42 (1985).</br>
+[4] Roenneberg, T., Wirz-Justice, A. & Merrow, M. Life between clocks: daily temporal patterns ofhuman chronotypes. J Biol Rhythms 18, 80-90 (2003).</br>"	"Na-heparin plasma and saliva samples (100 µl) from both 48 hr sessions, n=60, were submitted for analysis. The following standards and their concentrations were spiked into each sample: 13C6 Citrate, 7.5 µg/ml; 13C4 Fumarate, 2.5 µg/ml; 13C5 15N1 Glutamate, 2.5 µg/ml; 13C6 Arginine, 1 µg/ml; 13C3 Lactate, 2.5 µg/ml; 13C6 Glucose, 7.5 µg/ml; Lysine d4, 2.5 µg/ml.
+</p>
+For the sample preparation, 200 µl of methanol and 100 µl of chloroform were added to 50 µl of plasma or saliva and samples were then sonicated for 15 min. 100 µl of chloroform and distilled H2O were then added and samples were subsequently centrifuged for 7 min at 13,000 rpm at 4 °C. 200 µl was pipetted from the upper aqueous layer of each sample into a new tube. Samples were evaporated for 2-24 hr in a speedvac and stored at -80 °C until analysis."	"Liquid chromatography conditions and mass spectrometer parameters were replicated based on previous published methods[1]. Briefly, each sample of 5 µl was injected on a XBridge BEH 2.5 µm 100 mm x 2.1 mm Amide column using an Aquity H-class UPLC system (Waters Corporation, USA). Each sample was resolved for 22 min and the UPLC gradient starts with 15% A and 85% B at 0.15 ml/min, ramped to 70% A and 30% B in 5 min, followed by an isocratic hold for 10 min. The column was washed in 98% A and 2% B and re-equilibrated in the starting conditions before the next injection. The column eluent was introduced directly into the mass spectrometer.
+</p>
+Quality control (QC) samples, which consisted of a pooled sample of all samples, were injected at the beginning of the batch for LC column equilibration and every 8 injections during the analysis to account for instrumental drift.
+</p>
+Ref:</br>
+[1] Rhoades SD, Weljie AM. Comprehensive Optimization of LC-MS Metabolomics Methods Using Design of Experiments (COLMeD). Metabolomics. 2016 Dec;12(12):pii: 183. doi: 10.1007/s11306-016-1132-4.</br>"	"Mass spectrometry was performed on a triple quadrupole (TQD) instrument (Micro TQ-S, Waters Corporation, USA) operating in positive and negative ion-switching modes with capillary voltages of 3000 and 2000 V respectively. The desolvation gas flow was set to 900 l/hr and the temperature was set to 450 °C. The source temperature was set at 150 °C."	"Data processing was done by using Waters TargetLynx software (version 4.1). Ion counts were exported from TargetLynx and subsequently processed in R (version 3.2). For every metabolic feature, a locally-weighted scatterplot smoothing function (LOESS) was fitted to the QC data, which was then used as a normalization factor for the samples as a function of run order. Additionally, metabolic features which appeared in less than 50% of the QC samples and displayed a relative standard deviation (RSD) greater than 30% were dropped from the final dataset. Note that for this publication, due to inconsistent signal in the first replicate of the saliva samples, only the second replicates were considered for further data analysis, likewise instrument performance limited the plasma analysis to the first replicate."	"Data was acquired as Multiple reaction monitoring’s (MRM) to target specific metabolites and Multiple reaction monitoring’s (MRMs) were established for metabolites based on the previously published method[1], along with validation either through standards or mass spectrometry databases. The entire set of duplicate sample injections were bracketed with a test mix of standard metabolites at the beginning and at the end of the run to evaluate instrument performance with respect to sensitivity and mass accuracy. The sample queue was randomized to remove bias.
+</p>
+Ref:</br>
+[1] Yuan, M., Breitkopf, S. B., Yang, X. & Asara, J. M. A positive/negative ion-switching, targeted mass spectrometry-based metabolomics platform for bodily fluids, cells, and fresh and fixed tissue. Nat Protoc 7, 872-881, doi:10.1038/nprot.2012.024 (2012)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Skarke"	"Rhoades"	"Weljie"
+Study Person First Name	"Carsten"	"Seth"	"Aalim"
+Study Person Mid Initials	"D"	"M"	""
+Study Person Email	"cskarke@pennmedicine.upenn.edu"	"seth.d.rhoades@vanderbilt.edu"	"aalim@mail.med.upenn.edu"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"3400 Civic Center Blvd, Bldg 421"	""	""
+Study Person Affiliation	"Philadelphia PA 19104"	"3400 Civic Center Blvd, Bldg 421"	""
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

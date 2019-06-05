@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"MESH"	"EFO"	"MS"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"18"	"6"	"10"	"146"	"129"	"22"	"29"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Medical Subject Headings"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS494"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS494"
+Study Title	"Nontargeted Metabolomic Analysis of Four Different Parts of Platycodon grandiflorum Grown in Northeast China."
+Study Description	"Platycodonis radix is extensively used for treating cough, excessive phlegm, sore throat, bronchitis and asthma in the clinic. Meanwhile, the stems, leaves and seeds of Platycodon grandiflorum (PG) have some pharmaceutical activities such as anti-inflammation and anti-oxidation effects, etc. These effects must be caused by the different metabolites in various parts of herb. In order to profile the different parts of PG, the ultra-high performance liquid chromatography combined with quadrupole time-of- flight mass spectrometry (UPLC-QTOF-MSE) coupled with UNIFI platform and multivariate statistical analyses was used in this study. Consequently, for the constituent screening, 73, 42, 35, 44 compounds were characterized from the root, stem, leaf and seed, respectively. The stem, leaf and seed contain more flavonoids but few saponins that can be easily discriminated in the root. For the metabolomic analysis, 15, 5, 7, 11 robust biomarkers enabling the differentiation among root, stem, leaf and seed, were discovered. These biomarkers can be used for rapid identification of four different parts of PG grown in northeast China."
+Study Submission Date	"2017-07-25"
+Study Public Release Date	"2017-08-01"
+Study File Name	"s_mtbls494.txt"
+Comment[Study Grant Number]	"Talents Team Major Program of Jilin Province of China (JRCBTZ. [2016] No.3)"
+Comment[Study Funding Agency]	"Jilin University"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"Herbal Medicine"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.bioontology.org/ontology/MESH/D029001"	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	""	"CHMO"	"MESH"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28769024"
+Study Publication DOI	"10.3390/molecules22081280"
+Study Publication Author List	"Wang C, Zhang N, Wang Z, Qi Z, Zhu H, Zheng B, Li P, Liu J."
+Study Publication Title	"Nontargeted Metabolomic Analysis of Four Different Parts of Platycodon grandiflorum Grown in Northeast China."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Plant component"
+Study Factor Type	"plant component"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000789"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls494_POS_mass_spectrometry.txt"	"a_mtbls494_NEG_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Xevo QTof MS (Waters)"	"Xevo QTof MS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All samples were harvested from Jilin Province, China, as listed in Table 2 of the paper associated with this study, and identified by Professor Ping-Ya Li (School of Pharmaceutical Sciences, Jilin University, Changchun, China). The voucher specimens (No. 2016121-2016144) had been deposited at the Research Center of Natural Drug, School of Pharmaceutical Sciences, Jilin University, Changchun, China. The cultivation ages of the roots are all 2 years, while the others are all 1 year old."	"The roots, stems, leaves and seeds of Platycodon grandiflorum (PG) from the different sites were respectively air dried, ground and sieved (40 mesh) to give a homogeneous powder. Then 200 mg of the powder was respectively extracted 3 times with 80% methanol at 80 °C for 3 h each time. After filtering, the extracts were combined, concentrated and evaporated to dryness. Finally, the desiccated extracts were dissolved and diluted with 80% methanol to 10.0 ml. The solution was filtered through a syringe filter (0.22 µm) and injected directly into the UPLC system. The volume injected was 2 μl for each run."	"The UPLC analysis was performed by a Waters ACQUITY UPLC System. The column used was an ACQUITY UPLC BEH C18 (100 mm x 2.1 mm, 1.7 μm) from Waters Corporation (Milford, MA, USA). The mobile phases consisted of eluent A (0.1% formic acid in water, v/v) and eluent B (0.1% formic acid in acetonitrile, v/v) with flow rate of 0.4 ml/min with a liner gradient program: 10% B from 0 to 2 min, 10–90% B from 2 to 26 min, 90% B from 26 to 28 min, 90–10% B from 28 to 28.1 min, 10% B from 28.1 to 30 min. The temperature of the UPLC column and autosampler were set at 30 °C and 15 °C. Mixtures of 10/90 and 90/10 water/acetonitrile were used as the strong wash and the weak wash solvent respectively."	"The MS experiments were performed on a Waters Xevo G2-S QTOF mass spectrometer (Waters Co., Milford, MA, USA.) connected to the UPLC system through an electrospray ionization (ESI) interface. The optimized instrumental parameters were as follows: capillary voltage floating at 2.6 kV (ESI+) or 2.2 kV (ESI−); cone voltage at 40 V; source temperature at 120 °C, desolvation temperature at 300 °C and cone gas flow was 50 l/h, desolvation gas flow was 800 l/h. In MSE mode, collision energy of low energy function was set at 6 V, while ramp collision energy of high energy function was set at 20–40 V. To ensure mass accuracy and reproducibility, the mass spectrometer was calibrated over a range of 100–1600 Da with sodium formate. Leucine-enkephalin (m/z 556.2771 in positive ion mode; m/z 554.2615 in negtive ion mode) was used as the lockmass at a concentration of 200 ng/ml and flow rate of 20 μl/min. Data were collected in continuum mode, all the acquisition of data were controlled by the Waters MassLynx v.4.1 software (Waters, Milford, MA, USA)."	"Screening analysis:</br>
+The raw data were processed using the streamlined workflow of UNIFI 1.7.0 software (Waters, Manchester, UK) to quickly identify the chemical components[1].
+>/p>
+Metabonomics analysis:</br>
+The raw data were processed by MarkerLynx XS V4.1 software for alignment, deconvolution, data reduction, etc[2]. The main parameters were as follows: retention time range 0–28 min, mass range 100–1600 Da, mass tolerance 0.10, minimum intensity 5%, marker intensity threshold 2000 counts, mass window 0.10, retention time window 0.20, and noise elimination level 6. As a result, the list of  mass and retention time pairs with corresponding intensities for all the detected peaks from each data file was produced.
+</p>
+Ref:</br>
+[1] Tang, J.F.; Li, W.X.; Tan, X.J.; Li, P.; Xiao, X.H.; Wang, J.B.; Zhu, M.J.; Li, X.L.; Meng, F. A novel and improved UHPLC-QTOF/MS method for the rapid analysis of the chemical constituents of Danhong injection. Anal. Method 2016, 8, 2904–2914. doi:10.1039/C5AY03173G</br>
+[2] Zhao YY, Cheng XL, Wei F, Xiao XY, Sun WJ, Zhang Y, Lin RC. Serum metabonomics study of adenine-induced chronic renal failure in rats by ultra performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry. Biomarkers. 2012 Feb;17(1):48-55. doi:10.3109/1354750X.2011.637180. PMID:22133066</br>"	"Screening analysis:</br>
+Besides the Waters Traditional Medicine Library in the UNIFI software, a self-built database was created including the information of chemical components from PG based on the literature and on-line databases such as China Full-text Journals Database (CNKI), PubMed, Medline, Web of Science and ChemSpider. Minimum peak area of 200 was set for 2D peak detection. The peak intensity of high energy over 200 counts and over 1000 counts for low energy were the selected parameters in 3D peak detection. A margin of error up to 5 ppm for identified compounds was allowed. Positive adducts containing +H, +Na, and negative adducts including +COOH and −H were selected. The verification of compounds was carried out by comparison with retention time of reference standards and characteristic MS fragmentation patterns reported in literature.
+</p>
+Metabonomics analysis:</br>
+The resulting data were analyzed by principle component analysis (PCA) and orthogonal projections to latent structures discriminant analysis (OPLS-DA). S-plots and VIP-plots were obtained via OPLS-DA analysis to find potential biomarkers that significantly contributed to the difference among the groups"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Liu"
+Study Person First Name	"Jinping"
+Study Person Mid Initials	""
+Study Person Email	"liujp@jlu.edu.cn"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

@@ -1,0 +1,131 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"VIVO"	"BAO"	"EFO"	"MEDDRA"	"NCIT"	"OBI"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/VIVO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MEDDRA"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"2"	"2"	"26"	"113"	"3"	"44"	"22"	"86"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"VIVO Ontology for Researcher Discovery"	"BioAssay Ontology"	"Experimental Factor Ontology"	"Medical Dictionary for Regulatory Activities"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS690"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"E:\projects\ongoing\AZ\AZ_metabolomics\ebi_upload\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS690"
+Study Title	"Intra- and inter-individual metabolic profiling highlights carnitine and lysophosphatidylcholine pathways as key molecular defects in type-2 diabetes"
+Study Description	"In this study we explored a unique cohort of 43 samples to build a map of metabolites varying in T2D across five different tissues (subcutaneous adipose tissue, liver, pancreatic islets, skeletal muscle and blood serum). The samples originate from the Excellence in Diabetes biobank (EXODIAB) in Sweden. To our knowledge, this is the first attempt to create a map of metabolites across various metabolic-relevant tissues for the same cohort of individuals. In total we identified 286 unique metabolites, 32% of which were significantly altered between non-diabetes and T2D. We found evidence that amino acids (AAs) and bile acids are elevated for specific tissues in T2D and significantly associated to the percentage of glycosylated hemoglobin A1c (HbA1c). We showed that carnitines and lysophosphatidylcholines (LPCs) are the most significantly altered metabolites in muscle, liver and serum in T2D. Finally, we attempted to explore the progression to overt T2D and suggest potential biomarkers in the early development of T2D, i.e. from non-diabetes to pre-diabetes to T2D."
+Study Submission Date	"2018-06-01"
+Study Public Release Date	"2018-10-09"
+Study File Name	"s_AZm_SciLife EXODIAB.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Type 2 Diabetes Mellitus"	"Pre-diabetes"
+Study Design Type Term Accession Number	""	"http://purl.bioontology.org/ontology/MEDDRA/10036481"
+Study Design Type Term Source REF	""	"MEDDRA"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1101/413203"
+Study Publication Author List	"Diamanti Klev, Cavalli Marco, Pan Gang, Pereira Maria Joao, Kumar Chanchal, Skrtic Stanko, Grabherr Manfred, Riserus Ulf, Eriksson Jan W, Komorowski Jan, Wadelius Claes"
+Study Publication Title	"Intra- and inter-individual metabolic profiling highlights carnitine and lysophosphatidylcholine pathways as key molecular defects in type-2 diabetes"
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Gender"	"BMI"
+Study Factor Type	"age"	"Gender"	"Body Mass Index"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/PATO_0000011"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16358"
+Study Factor Type Term Source REF	"BAO"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_azm_scilife_exodiab_metabolite_profiling_mass_spectrometry.txt"	"a_azm_scilife_exodiab_metabolite_profiling_mass_spectrometry-1.txt"	"a_azm_scilife_exodiab_metabolite_profiling_mass_spectrometry-2.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LECO Pegasus III, GCTOFMS"	"Agilent 6550 iFunnel Accurate-Mass UHPLC-QTOFMSMS (positive mode)"	"Agilent 6550 iFunnel Accurate-Mass UHPLC-QTOFMSMS (negative mode)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Ethics Statement</br>
+The consent to use the organs of donors for scientific research was obtained from an online database that is documented to be in full accordance with the regional standard practices and the Swedish law, or verbally by the physician in charge from the closest relatives of the deceased person. The tissue samples were acquired and stored from the Excellence of Diabetes Research in Sweden (EXODIAB). In this study we stored and analyzed the samples in agreement with the written Regional Ethics Committee approval (Dnr: 2014/391).</br></br>
+
+Sample Handling</br>
+Samples from three different phenotypic groups (healthy controls, pre-diabetics and T2D) were acquired from frozen organ biopsies of five metabolically-relevant human tissues (adipose tissue, liver, pancreatic islets, muscle and serum) from the EXODIAB biobank. The samples were matched for age, gender and body mass index (BMI)."	"Adipose Tissue</br>
+To each sample (18-23 mg), 500 µl of 2/1 (v/v) CHCl3:methanol (including D4-Cholic Acid) and, 100 µl water (including 13C9-phenylalanine) and 2 tungsten beads were added (Supplementary Notes - Metabolomics Profiling). The samples were shaken at 30 Hz for 3 mins. The tungsten beads were removed, and the samples were left standing at room temperature for 30 mins. The samples were centrifuged at 14000 rpm, +4 °C for 3 mins and 80 µl of the aqueous phase were transferred to Eppendorf tubes. To each Eppendorf tube, 320 µl methanol (including D6-salicylic acid) was added, whereupon remaining proteins were precipitated at -20 °C for 1 hr. The samples were centrifuged for 10 mins at 14000 rpm, +4 °C and 50 µl supernatant were taken out to GC vials and 200 µl for LCMS. Solvents were evaporated and the samples were stored at -80 °C until analysis.</br></br>
+
+Liver, Muscle and Pancreatic Islets</br>
+To 9-12 mg of tissue, 1 ml (450 µl for islets) of extraction buffer (80/20 v/v methanol:water) which included internal standards (Supplementary Notes - Metabolomics Profiling) was added. The sample was shaken with a tungsten bead in a mixer mill at 30 Hz for 3 mins, the bead was removed and the sample was centrifuged at +4 °C, 14000 rpm, for 10 mins. The supernatant was transferred to micro vials and evaporated to dryness in a speed-vac concentrator. For liver and muscle tissues 200 µl was used for LCMS and 200 µl for GCMS analysis. For islets, 200 µl of the supernatant was evaporated for LCMS and 100 µl for GCMS analysis [1][2].</br></br>
+
+Serum</br>
+For each sample, 900 µl of extraction buffer (90/10 v/v methanol: water) including internal standards for both GC-MS and LC-MS (Supplementary Notes - Metabolomics Profiling) were added to 100 µl of serum. Samples were shaken at 30 Hz for 2 mins in a mixer mill and proteins were precipitated at +4 °C on ice. The sample was centrifuged at +4 °C, 14000 rpm, for 10 mins. The supernatant, 200 µl for LC-MS analysis and 200 µl to GC-MS analysis, was transferred to micro vials and evaporated to dryness in a speed-vac concentrator [1].</br></br>
+
+Ref:</br>
+[1] A J, Trygg J, Gullberg J, Johansson AI, Jonsson P, Antti H, Marklund SL, Moritz T. (2005) Extraction and GC/MS analysis of the human blood plasma metabolome. Analytical chemistry, 77;8086 - 8094, doi:10.1021/ac051211v.</br>
+[2] Gullberg, J., Jonsson, P., Nordstrom, A., Sjostrom, M. & Moritz, T. (2004) Design of experiments: an efficient strategy to identify factors influencing extraction and derivatization of Arabidopsis thaliana samples in metabolomic studies with gas chromatography/mass spectrometry. Analytical biochemistry, 331;283 - 295. doi:10.1016/j.ab.2004.04.037."	"GC-MS</br>
+Derivatization and GC-MS analyses were performed as described previously [1]. The pancreatic islets and the adipose tissues were derivatized in a final volume of 30 µl, rather than 90 µl, which was used for all the other tissues. The derivatized sample (1 μl) was injected in splitless mode by a CTC Combi Pal autosampler (CTC Analytics AG, Switzerland) into an Agilent 6890 gas chromatograph equipped with a 10 m × 0.18 mm fused silica capillary column with a chemically bonded 0.18 μm DB 5-MS UI stationary phase (J&W Scientific).</br></br>
+
+LC-MS</br>
+Before the LC-MS analysis the sample was re-suspended in 10 + 10 µl methanol and water. Each batch of samples was first analyzed in positive mode. After all samples within a batch were analyzed, the instrument was switched to negative mode and a second injection of each sample was performed. The chromatographic separation was performed on an Agilent 1290 Infinity UHPLC-system (Agilent Technologies, Waldbronn, Germany). Each sample (2 μl) was injected onto an Acquity UPLC HSS T3, 2.1 × 50 mm, 1.8 μm C18 column in combination with a 2.1 mm × 5 mm, 1.8 μm VanGuard precolumn (Waters Corporation, Milford, MA, USA) held at 40 °C. The gradient elution buffers were A (H2O, 0.1% formic acid) and B (75/25 acetonitrile:2-propanol, 0.1% formic acid), and the flow-rate was 0.5 ml/min. The compounds were eluted with a linear gradient consisting of 0.1 - 10 % B over 2 mins, B was increased to 99% over 5 mins and held at 99% for 2 mins; B was decreased to 0.1% for 0.3 mins and the flow-rate was increased to 0.8 ml/min for 0.5 mins; these conditions were held for 0.9 mins, after which the flow-rate was reduced to 0.5 ml/min for 0.1 mins before the next injection.</br></br>
+
+Ref:</br>
+[1] A J, Trygg J, Gullberg J, Johansson AI, Jonsson P, Antti H, Marklund SL, Moritz T. (2005) Extraction and GC/MS analysis of the human blood plasma metabolome. Analytical chemistry, 77;8086 - 8094, doi:10.1021/ac051211v.</br>
+"	"GC-MS</br>
+The injector temperature was 270 °C, the purge flow rate was 20 ml/min and the purge was turned on after 60 secs. The gas flow rate through the column was 1 ml/min, the column temperature was held at 70 °C for 2 mins, then increased by 40 °C/min to 320 °C, and held there for 2 mins. The column effluent was introduced into the ion source of a Pegasus III time-of-flight mass spectrometer, GC/TOFMS (Leco Corp., St Joseph, MI, USA). The transfer line and the ion source temperatures were 250 °C and 200 °C, respectively. Ions were generated by a 70 eV electron beam at an ionization current of 2.0 mA, and 30 spectra/s were recorded in the mass range m/z 50 - 800. The acceleration voltage was turned on after a solvent delay of 150 secs. The detector voltage was 1500-2000 V.</br></br>
+
+LC-MS</br>
+The compounds were detected with an Agilent 6550 Q-TOF mass spectrometer equipped with a jet stream electrospray ion source operating in positive or negative ion mode. The settings were kept identical between the two modes, with the difference lying in the capillary voltage. A reference interface was connected for accurate mass measurements; the reference ions purine (4 μM) and HP-0921 (Hexakis(1H, 1H, 3H-tetrafluoropropoxy)phosphazine) (1 μM) were infused directly into the MS at a flow rate of 0.05 ml/min for internal calibration, and the monitored ions were purine m/z 121.05 and m/z 119.03632; HP-0921 m/z 922.0098 and m/z 966.000725 for positive and negative mode respectively. The gas temperature was set to 150 °C, the drying gas flow to 16 l/min and the nebulizer pressure 35 psig. The sheath gas temp was set to 350 °C and the sheath gas flow 11 l/min. The capillary voltage was set to 4000 V in positive ion mode, and to 4000 V in negative ion mode. The nozzle voltage was 300 V. The fragmentor voltage was 380 V, the skimmer 45 V and the OCT 1 RF Vpp 750 V. The collision energy was set to 0 V. The m/z range was 70 - 1700, and data was collected in centroid mode with an acquisition rate of 4 scans s-1 (1977 transients/spectrum)."	"GC-MS</br>
+For the GC-MS data, all non-processed MS-files from the metabolic analysis were exported from the ChromaTOF software in NetCDF format to MATLAB® R2016a (Mathworks, Natick, MA, USA), where all data pre-treatment procedures, such as base-line correction, chromatogram alignment, data compression and Multivariate Curve Resolution were performed using custom scripts. The extracted mass spectra were identified by comparisons of their retention index and mass spectra with libraries of retention time indices and mass spectra [1].</br>
+
+LC-MS</br>
+For LC-MS, all the data processing was performed using the Agilent Masshunter Profinder version B.08.00 (Agilent Technologies Inc., Santa Clara, CA, USA). For the targeted data processing, a pre-defined list of metabolites commonly found in plasma and serum were searched for using the Batch Targeted feature extraction in Masshunter Profinder. An-in-house LC-MS library built up by authentic standards run on the same system with the same chromatographic and mass-spec settings, were used for the targeted processing.</br></br>
+
+Ref:</br>
+[1] Schauer N, Steinhauser D, Strelkov S, Schomburg D, Allison G, Moritz T, Lundgren K, Roessner-Tunali U, Forbes MG, Willmitzer L, Fernie AR, Kopka J. (2005) GC-MS libraries for the rapid identification of metabolites in complex biological samples. FEBS Lett. 2005 Feb 28;579(6):1332-7. DOI:10.1016/j.febslet.2005.01.029 "	"GC-MS</br>
+Mass spectra and retention index comparison was performed using the NIST MS 2.0 software. Annotation of mass spectra was based on reverse and forward searches in the library. Masses and ratio between masses indicative of a derivatized metabolite were especially notified. If the mass spectrum according to SMC’s experience was with the highest probability indicative of a metabolite and the retention index between the sample and library for the suggested metabolite was ±5 (usually less than 3) the deconvoluted “peak” was annotated as an identification of a metabolite. Multivariate statistical tests were performed to investigate the potential effect of run-order to the metabolite intensities (SIMCA v13.0.2, Umetrics, Umeå, Sweden).</br></br>
+
+LC-MS</br>
+The identification of the metabolites was based on MS, MSMS and retention time information. Multivariate statistical tests were performed to investigate the potential effect of run-order to the metabolite intensities (SIMCA v13.0.2, Umetrics, Umeå, Sweden)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction; Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Instrument;Ion source;Mass analyzer;Scan polarity;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Diamanti"	"Cavalli"	"Pan"	"Komorowski"	"Wadelius"
+Study Person First Name	"Klev"	"Marco"	"Gang"	"Jan"	"Claes"
+Study Person Mid Initials	""	""	""	""	""
+Study Person Email	"klev.diamanti@icm.uu.se"	"marco.cavalli@igp.uu.se"	"gang.pan@igp.uu.se"	"jan.komorowski@icm.uu.se"	"claes.wadelius@igp.uu.se"
+Study Person Phone	"46184714697"	"46184714857"	"46184714857"	"46184716692"	"46184714076"
+Study Person Fax	""	""	""	""	""
+Study Person Address	"Uppsala Biomedical Center (BMC), Husargatan 3, Box 596, 751 24, Uppsala, Sweden"	"Uppsala Biomedical Center (BMC), Husargatan 3, Box 815, 751 08, Uppsala, Sweden"	"Uppsala Biomedical Center (BMC), Husargatan 3, Box 815, 751 08, Uppsala, Sweden"	"Uppsala Biomedical Center (BMC), Husargatan 3, Box 596, 751 24, Uppsala, Sweden"	"Uppsala Biomedical Center (BMC), Husargatan 3, Box 815, 751 08, Uppsala, Sweden"
+Study Person Affiliation	"Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Sweden"	"Science for Life Laboratory, Department of Immunology, Genetics and Pathology, Uppsala University, Sweden"	"Science for Life Laboratory, Department of Immunology, Genetics and Pathology, Uppsala University, Sweden"	"Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Sweden"	"Science for Life Laboratory, Department of Immunology, Genetics and Pathology, Uppsala University, Sweden"
+Study Person Roles	"Graduate Student"	"Researcher Role"	"Researcher Role"	"Co-Principal Investigator Role"	"Principal Investigator Role"
+Study Person Roles Term Accession Number	"http://vivoweb.org/ontology/core"	""	""	""	""
+Study Person Roles Term Source REF	"VIVO"	""	""	""	""

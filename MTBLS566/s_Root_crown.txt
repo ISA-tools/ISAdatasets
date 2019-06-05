@@ -1,0 +1,3 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"Whitehead Institute"	"Rhodiola rosea"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/203015"	"root"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001188"	"Sample collection"	"Root"
+"Whitehead Institute"	"Rhodiola rosea"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/203015"	"plant crown"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0004903"	"Sample collection"	"Crown"

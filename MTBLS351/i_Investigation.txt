@@ -1,0 +1,138 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"NCIT"	"MS"	"CHMO"	"UO"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"6"	"44"	"129"	"5"	"43"	"29"	"113"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS351"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS351"
+Study Title	"Human gut microbes impact host serum metabolome and insulin sensitivity"
+Study Description	"Insulin resistance is a forerunner state of ischaemic cardiovascular disease and type 2 diabetes. Here we show how the human gut microbiome impacts the serum metabolome and associates with insulin resistance in 277 non-diabetic Danish individuals. The serum metabolome of insulin-resistant individuals is characterized by increased levels of branched-chain amino acids (BCAAs), which correlate with a gut microbiome that has an enriched biosynthetic potential for BCAAs and is deprived of genes encoding bacterial inward transporters for these amino acids. Prevotella copri and Bacteroides vulgatus are identified as the main species driving the association between biosynthesis of BCAAs and insulin resistance, and in mice we demonstrate that P. copri can induce insulin resistance, aggravate glucose intolerance and augment circulating levels of BCAAs. Our findings suggest that microbial targets may have the potential to diminish insulin resistance and reduce the incidence of common metabolic and cardiovascular disorders."
+Study Submission Date	"2016-06-03"
+Study Public Release Date	"2016-09-01"
+Study File Name	"s_MTBLS351.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"two-dimensional gas chromatography"	"human gut metagenome"	"obesity"	"diabetes mellitus"	"insulin resistance"	"gas chromatography-mass spectrometry"	"ultra-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0002886"	"http://purl.obolibrary.org/obo/NCBITaxon_408170"	"http://www.ebi.ac.uk/efo/EFO_0001073"	"http://www.ebi.ac.uk/efo/EFO_0000400"	"http://www.ebi.ac.uk/efo/EFO_0002614"	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHMO_0000715"
+Study Design Type Term Source REF	""	"CHMO"	"EFO"	"EFO"	"EFO"	"EFO"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"27409811"
+Study Publication DOI	"10.1038/nature18646"
+Study Publication Author List	"Pedersen HK, Gudmundsdottir V, Nielsen HB, Hyotylainen T, Nielsen T, Jensen BA, Forslund K, Hildebrand F, Prifti E, Falony G, Le Chatelier E, Levenez F, Doré J, Mattila I, Plichta DR, Pöhö P, Hellgren LI, Arumugam M, Sunagawa S, Vieira-Silva S, Jørgensen T, Holm JB, Trošt K, MetaHIT Consortium, Kristiansen K, Brix S, Raes J, Wang J, Hansen T, Bork P, Brunak S, Oresic M, Ehrlich SD, Pedersen O."
+Study Publication Title	"Human gut microbes impact host serum metabolome and insulin sensitivity."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Gender"	"BMI"	"T2D status"	"HOMA-IR"	"Metabolic Syndrome"	"Compound"	"Dose"	"Post exposure time"
+Study Factor Type	"age"	"Gender"	"body mass index"	"Group"	"HOMA-IR"	"Boolean"	""	""	""
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://www.ebi.ac.uk/efo/EFO_0004340"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0004501"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	""	""	""
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"	"NCIT"	"EFO"	"NCIT"	""	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_GCxGC_mass_spectrometry.txt"	"a_UPLC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"GCxGC-TOFMS (LECO Pegasus 4D)"	"UPLC-QTOFMS (Waters QTOF Premier)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The study population comprised 291 normoglycaemic and middle-aged Danish MetaHIT individuals as previously reported[1], as well as 75 Danish type 2 diabetes patients[2]. All analyses involving gut microbiome data were restricted to 75 type 2 diabetes patients and 277 out of the 291 of the non-diabetic individuals whose data passed all quality control criteria (see details below), whereas all non-microbiome analyses involved the full set of 291 non-diabetic individuals. No statistical methods were used to predetermine sample size.
+</p>
+Of the 75 type 2 diabetes patients, 10 patients (13%) received no hyperglycaemic medications, 58 patients (77%) received the biguanide compound, metformin; of these 28 patients (37%) received metformin as the only anti-hyperglycaemic medication, 10 patients (13%) received sulfonylurea alone or in combination with metformin, 14 patients (19%) received a combination of oral anti-diabetic drugs and insulin treatment and 4 patients (5%) were on insulin treatment only. 11 patients (15%) were treated with dipeptidyl peptidase-4 (DPP4) inhibitors or glucagon-like peptide-1 (GLP-1), all of them in combination with metformin. Patients were reported as receiving anti-hypertensive treatment if at least 1 of the following drugs were reported: spironolactone, thiazides, loop diuretics, beta-blockers, calcium channel blockers, moxonidin or drugs affecting the renin-angiotensin system (in total n=55; 73%). Patients receiving statins were reported as receiving lipid-lowering medication (in total n=56; 75%). We have previously shown that metformin has impact on the configuration and functional potential of human gut microbiota whereas no significant differences were observed for other anti-diabetic medications, diuretics, or lipid lowering- and blood pressure lowering drugs.[2]
+</p>
+In short, all study participants (Caucasian Danes) were recruited from the population-based Inter99 study[3] or from the outpatient clinic at Steno Diabetes Center. Study volunteers were invited for 2 visits with approximately 14 days apart. At the first visit the participants were examined in the morning after an overnight fast of at least 10 hr and without prior morning physical activity. At the second visit a DEXA scan was performed to evaluate body fat percentage. All samples (from both non-diabetic and diabetic individuals) were generated within the Danish part of the MetaHIT consortium (http://www.metahit.eu), and the infrastructure of this project was constructed specifically to make all samples comparable by ensuring similar handling and by minimizing the risk of batch effects. All of these samples were collected individually as participant recruitment proceeded, by the same staff. Serum samples were stored at -80 °C until the planned analysis took place.
+</p>
+Ref:</br>
+[1] Le Chatelier, E. et al. Richness of human gut microbiome correlates with metabolic markers. Nature 500, 541–546 (2013) doi:10.1038/nature12506. PMID:23985870</br>
+[2] Forslund, K. et al. Disentangling type 2 diabetes and metformin treatment signatures in the human gut microbiota. Nature 528, 262–266 (2015) doi:10.1038/nature15766. PMID:26633628</br>
+[3] Jørgensen, T. et al. A randomized non-pharmacological intervention study for prevention of ischaemic heart disease: baseline results Inter99. Eur. J. Cardiovasc. Prev. Rehabil. 10, 377–386 (2003). doi:10.1097/01.hjr.0000096541.30533.82. PMID:14663300</br>"	"Polar metabolite analysis (GCxGC-TOF-MS)</br>
+400 µl methanol and 10 µl internal standard mixture (C17:0 (186.5 mg/l), deuterated valine (37 mg/l) and succinic acid-d4 (63 mg/l)) were added to 30 µl of serum samples. The samples were vortex mixed and centrifuged for 5 min at 10,000 rpm and half of the supernatant was evaporated to dryness. This was followed by 2 step derivatization using methoximation and silylation by first adding 25 µl methoxamine (45 °C, 60 minutes) and then 25 µl N-trimethylsilyl-N-methyl trifluoroacetamide (45° C, 60 min). Finally, a retention index standard mixture (n-alkanes, 25 µl, c = 8 mg/l) and an injection standard (4,4’-dibromooctafluorobiphenyl, 50 µl, c = 10 mg/l), both in hexane, were added to the mixture. The calibration consisted of 6 points for each quantified metabolite. 
+</p>
+Lipidomic analysis (UHPLC-QTOF-MS)</br>
+A standard mixture 1 (20 µl) containing LPC(17:0), PC(17:0/17:0), PE(17:0/17:0) and Cer(d18:1/17:0) (Avanti Polar Lipids, Inc., Alabaster, AL) and TG(17:0/17:0/17:0) (Larodan Fine Chemicals AB, Malmö, Sweden), all at c = 10 mg/l, was added to 10 µl of serum samples and the samples were extracted with chloroform and methanol (2:1; 100 µl). The lower phase (60 µl) was collected after centrifugation and 20 µl of internal standard mixture 2 (LPC(16:1D3), c = 10 mg/l, PC(16:1/16:1-D6), c = 15 mg/l, and TG(16:0/16:0/16:0-13C3), c = 15 mg/l, was added."	"Polar metabolite analysis (GCxGC-TOF-MS)</br>
+Serum polar metabolites were analyzed in 396 samples using comprehensive 2-dimensional gas chromatography combined with time-of-flight mass spectrometry (GCxGC-TOFMS, a LECO Pegasus 4D equipped with a cryogenic modulator from LECO Corp., St. Joseph, MI) with a method described prviously[1]. The columns were as follows: a methyl deactivated retention gap (1.5 m x 0.53 mm i.d.) was connected to 10 m x 0.18 mm Rxi-5MS (diameterphase thickness 0.18 µm) and to 1.5 m x 0.1 mm BPX-50 (phase thickness 0.1 µm). Helium was used as the carrier gas at a constant pressure mode (40 psig). A 4 s separation time was used in the second dimension. The temperature program was as follows for the first-dimension column: 50 °C (2 min), at 7 °C/min to 240 °C and at 25 °C/min to 300 °C (3 min). The second-dimension column temperature was 20 °C higher than the corresponding first-dimension column throughout the program.
+</p>
+Lipidomic analysis (UHPLC-QTOF-MS)</br>
+Serum molecular lipids were analyzed in 397 human serum samples using ultra high performance liquid chromatography coupled with time-of-flight mass spectrometry (UHPLC-QTOFMS Q-Tof Premier mass spectrometer, Waters, Inc., Milford, MA) using electrospray ionization in positive ionization mode with a methodology described earlier[2]. The extracts were analyzed on an Acquity UPLC BEH C18 2.1 x 100 mm column packed with 1.7 µm particles. The solvent system included 1% 1 M NH4Ac, 0.1% HCOOH and acetonitrile/isopropanol (1:1, 1% 1M NH4Ac, 0.1% HCOOH) in gradient elution mode with a flow rate of 0.4 ml/min.
+</p>
+Ref:</br>
+[1] Castillo, S., Mattila, I., Miettinen, J., Orešic, M. & Hyötyläinen, T. Data analysis tool for comprehensive two-dimensional gas chromatography/time-of-flight mass spectrometry. Anal. Chem. 83, 3058–3067 (2011). doi:10.1021/ac103308x. PMID:21434611</br>
+[2] Nygren, H., Seppänen-Laakso, T., Castillo, S., Hyötyläinen, T. & Orešic, M. Liquid chromatography-mass spectrometry (LC-MS)-based lipidomics for studies of body fluids and tissues. Methods Mol. Biol. 708, 247–257 (2011). doi:10.1007/978-1-61737-985-7_15. PMID:21207295</br>"	"Polar metabolite analysis (GCxGC-TOF-MS)</br>
+The analytical method using comprehensive 2-dimensional gas chromatography combined with time-of-flight mass spectrometry (GCxGC-TOFMS, a LECO Pegasus 4D equipped with a cryogenic modulator from LECO Corp., St. Joseph, MI) allows for combined targeted and untargeted analysis, where a selected subset of metabolites can be quantified. In the present study, quantitation of 27 target metabolites (stearic acid, oleic acid, linoleic acid, palmitic acid, citric acid, glutamic acid, 3,4-dihydroxybutanoic acid, 3-hydroxybutyric acid, threonine, 2,4-dihydroxybutanoic acid, phenylalanine, tyrosine, 2-hydroxybutyric acid, serine, glyceric acid, methionine, glycine, leucine, isoleucine, valine, ornithine, proline, cholesterol, arachidonic acid, alanine and aspartic acid) was done by external calibration curves for each individual metabolite.
+</p>
+Lipidomic analysis (UHPLC-QTOF-MS)</br>
+Extract were analyzed using ultra high performance liquid chromatography coupled with time-of-flight mass spectrometry (UHPLC-QTOFMS Q-Tof Premier mass spectrometer, Waters, Inc., Milford, MA) using electrospray ionization in positive ionization mode. The serum lipid profiling was carried out at a mass range of m/z 300-1200 with scan duration of 0.2 s."	"Polar metabolite analysis (GCxGC-TOF-MS)</br>
+ChromaTOF vendor software (LECO) was used for within-sample data processing, and the Guineu software[1] was used for alignment, normalization and peak matching across samples. The normalization was performed by correction for internal standards and specific target metabolites were additionally quantified using external calibration curves. Other mass spectra from the GCxGC-TOFMS analysis were searched against the NIST Mass Spectral Library and Golm Metabolome Database[2], also using retention index data in the identification. Artifact peaks due to chemical background and compounds outside the linear range of the method were removed from the dataset. Control serum samples (n = 30) were analyzed together with the samples. The relative standard deviation (RSD) for internal standards, spiked into the samples, was on average of 12.8% for the serum sample analyses. The RSD% of the quantified metabolites in the control serum samples (n = 30) was on average 18.5% for the analysis of human serum samples. Neither sample preparation nor analysis order showed any significant effect on the results.
+</p>
+Lipidomic analysis (UHPLC-QTOF-MS)</br>
+The data processing using MZmine 2[3] included alignment of peaks, peak integration, isotopic grouping, normalization, and peak identification.
+</p>
+Ref:</br>
+[1] Castillo, S., Mattila, I., Miettinen, J., Orešic, M. & Hyötyläinen, T. Data analysis tool for comprehensive two-dimensional gas chromatography/time-of-flight mass spectrometry. Anal. Chem. 83, 3058–3067 (2011) doi:10.1021/ac103308x. PMID:21434611</br>
+[2] Kopka, J. et al. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics 21, 1635–1638 (2005). doi:10.1093/bioinformatics/bti236. PMID:15613389</br>
+[3] Pluskal, T., Castillo, S., Villar-Briones, A. & Oresic, M. MZmine 2: modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC Bioinformatics 11, 395 (2010). doi:10.1186/1471-2105-11-395. PMID:20650010</br>"	"Polar metabolite analysis (GCxGC-TOF-MS)</br>
+All serum metabolite peaks that were present (non-zero value) in more than 50% of samples were included in the data analyses, including the unidentified ones. We reasoned that inclusion of complete data as obtained from the platform best represent the global metabolome as covered by the platform. The unidentified peaks were annotated with their structural class from the Golm Metabolome Database[1] using functional group prediction based on the fragmentation patterns[2]. In total 325 (94 known and 231 unknown) serum polar metabolites were measured in the human study.
+</p>
+Lipidomic analysis (UHPLC-QTOF-MS)</br>
+Serum lipids were identified using an internal spectral library or with tandem MS and data were normalized using the internal standards representatives of each class of serum lipid present in the samples as previously described[3]. Sphingomyelins were normalized with the PC standard. All lipid peaks were included in the data analyses, including the unidentified ones. Control serum samples (n = 30), extracted standard samples (n = 22) as well as blanks and pure standard samples were analyzed together with the study samples. The standard deviation (RSD) for internal standards, spiked into the samples, was 8-13% in serum samples (n = 397) and 9.1% in the extracted standards (n = 22). The RSD% of the identified lipids in the control serum samples was on average 12.8%. In total 876 molecular serum lipids, 289 known and 587 unknown, were measured. Neither sample preparation nor analysis order showed any significant effect on the results.
+</p>
+Ref:</br>
+[1] Kopka, J. et al. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics 21, 1635–1638 (2005). doi:10.1093/bioinformatics/bti236. PMID:15613389</br>
+[2] Castillo, S., Mattila, I., Miettinen, J., Orešic, M. & Hyötyläinen, T. Data analysis tool for comprehensive two-dimensional gas chromatography/time-of-flight mass spectrometry. Anal. Chem. 83, 3058–3067 (2011). doi:10.1021/ac103308x. PMID:21434611</br>
+[3] Nygren, H., Seppänen-Laakso, T., Castillo, S., Hyötyläinen, T. & Orešic, M. Liquid chromatography-mass spectrometry (LC-MS)-based lipidomics for studies of body fluids and tissues. Methods Mol. Biol. 708, 247–257 (2011). doi:10.1007/978-1-61737-985-7_15. PMID:21207295</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Column model 1;Column type 1;Guard column;Column model 2;Column type 2"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Pedersen"	"Oresic"	"Hyötyläinen"
+Study Person First Name	"Oluf"	"Matej"	"Tuulia"
+Study Person Mid Initials	""	""	""
+Study Person Email	"oluf@sund.ku.dk"	"matej.oresic@gmail.com"	"tuulia.hyotylainen@oru.se"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"University of Copenhagen"	"Turku Centre for Biotechnology"	"University of Örebro"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

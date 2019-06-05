@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CSEO"	"MEDO"	"NCBITAXON"	"CHMO"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"MS"	"MESH"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/MEDO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"1"	"6"	"18"	"113"	"44"	"22"	"99"	"86"	"6"	"43"	
+Term Source Description	"Cigarette Smoke Exposure Ontology"	"Mouse Experimental Design Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS532"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/CannahortQA/OneDrive/_PhD/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS532"
+Study Title	"Metabolomics reveals increased toxicity in earthworms (Eisenia fetida) of the transformation product methyl-triclosan"
+Study Description	"The effects of the antimicrobial triclosan (TCS) and its transformation product methyl-triclosan (MTCS) on the earthworm Eisenia fetida were investigated using GC-MS metabolomics. TCS is ubiquitous in sewage sludge, but a large proportion is transformed into MTCS during wastewater treatment and in soil when sewage sludge is applied to land. Our objective was to determine if earthworms exposed to ng/g to μg/g concentrations of TCS or MTCS exhibit toxic effects, and to identify the toxic mode of action of each compound. Ten individual earthworm replicates in 10 g worm bedding were exposed to 0, 0.25, 1, 4, 16, or 64 μg/g of either TCS or MTCS (120 experimental units) for 14 days. No mortalities were observed. All MTCS exposed worms had an instantaneous growth rate (IGR) over two times higher than the control during the study, but there was no effect of increasing concentration. Succinic acid was elevated relative to the control at concentrations ≥ 0.25 μg/g and glucose was elevated at 1 μg/g. There was separation from the control at all concentrations except 4 μg/g using Principal Components Analysis. Glucose, palmitic acid, and IGR contributed most strongly to the separation. Discriminant analysis with succinic acid, glucose, and IGR as variables showed a clear separation at all concentrations from the control along Canonical 1. Disruption of energy metabolism was hypothesized as a possible mode of action for MTCS."
+Study Submission Date	"2017-09-01"
+Study Public Release Date	"2018-09-01"
+Study File Name	"s_TCS-MTCS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Ecotoxicology"	"untargeted metabolights"	"gas chromatography-mass spectrometry"	"triclosan"	"methyl triclosan"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D054750"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHEBI_164200"	"http://purl.bioontology.org/ontology/MESH/C502486"
+Study Design Type Term Source REF	"MESH"	""	"CHMO"	"CHEBI"	"MESH"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Gillis, J.D.; Price, G.W.; Prasher, S.O."
+Study Publication Title	"<a href="https://www.researchgate.net/profile/Dan_Gillis/publication/326044413_Assessment_of_emerging_organic_contaminant_toxicity_to_the_earthworm_Eisenia_fetida_using_GC-MS_metabolomics/links/5b35192ca6fdcc8506db522c/Assessment-of-emerging-organic-contaminant-toxicity-to-the-earthworm-Eisenia-fetida-using-GC-MS-metabolomics.pdf">Metabolomics reveals increased toxicity in earthworms (Eisenia fetida) of methyltriclosan versus triclosan.</a>"
+Study Publication Status	"submitted"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001794"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"Compound"	"Dose"	"Sample dry weight"	"Run order"
+Study Factor Type	"Compound"	"dose"	"Dry Weight"	"Run order"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366"	"http://www.ebi.ac.uk/efo/EFO_0000428"	"http://scai.fraunhofer.de/CSEO#CSEO_00001024"	""
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"CSEO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_tcs-mtcs_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Eisenia fetida earthworms were sampled from a maintained population in a plastic 1.2 m x 1.2 m x 1 m bin, containing 0.2 m to 0.3 m of stabilized horse bedding compost adjusted to pH 6 with lime. Commercially available Magic® worm bedding (Magic Products Inc., Amherst
+Junction, WI) was used for the experiments. Earthworms were fed weekly on a diet of milled corn to supplement the compost, and the bin was misted with non-chlorinated well water at regular intervals. Adult earthworms between 0.4 to 0.6 g wet weight and with a visible clitellum were sampled from the bulk population immediately prior to the experiment. 
+</p>
+A 2x6 factorial design with 10 replicates was established for the study. A single E. fetida earthworm was placed in a 100 ml vial with 10 g d.w. Magic® Worm Bedding (Magic Products Inc., Amherst Junction, WI) spiked with 0, 0.25, 1, 4, 16, or 64 μg/g d.w. of either TCS or MTCS. The spiking rate of 0.25 μg/g represents an initial soil concentration resulting from a high rate of biosolids application (40 Mg/ha), incorporated into the top 20 cm of soil with a bulk density of 1500 kg/m^3, and concentrations in biosolids of 20 μg/g d.w (typical TCS range is 1-20 μg/g). The 1, 4, and 16 μg/g treatments reflect the typical range of TCS concentrations in biosolids. Prior to introduction of the earthworms, compounds dissolved in 1 ml of acetone were spiked into 10 g of worm bedding on aluminum dishes, stirred to mix thoroughly, and evaporated to dryness in a fume hood. The spiked worm bedding was transferred to the vial, moistened with 20 ml of distilled water, and equilibrated for 24 hr. Earthworms were collected from the maintained population, gently rinsed with distilled water and dried to remove extraneous organic matter, weighed, and randomly assigned to an experimental vessel. The earthworms were removed after 14 days, gently rinsed to remove organic matter, weighed, and subsequently immersed in liquid N2 to quench further metabolic activity and preserve the samples."	"Flash frozen earthworm samples were stored in liquid N2 until freeze-drying over a 24 hr period, followed by storage at -20 °C until extraction and analysis. Freeze-dried samples were manually broken into small particles in a 2 ml microcentrifuge tube with a 5 mm metal spatula followed by a 2-part extraction (1 ml of 1:1 acetonitrile:methanol followed by 1 ml of 4.5:4.5:1 acetonitrile:methanol:water) with the supernatants collected and combined in a new 2 ml centrifuge tube. Each extraction consisted of vortexing for 1 min, ultrasonic extraction for 10 min at 55 °C, and centrifugation for 2 min at 12,000 x g. Combined extracts were vortexed for 1 min and centrifuged for 2 min at 12,000 x g before transferring a 500 μl aliquot to a new 2 ml tube and adding 20 μl each of 1 mM glucose-13C6 and leucine-d3 internal standard prior to evaporation to dryness.
+</p>
+A second aliquot of 100 μl was taken from each sample and added to a 30 ml glass vial to prepare a pooled quality control sample for each batch (GC-MS run) of samples. From the pooled sample for each batch, 6 QC samples were prepared in the same manner as real samples to monitor instrument performance within each GC-MS run. 3 blanks with internal standard added were also prepared with each batch.
+</p>
+Dried samples were methoximated by adding 60 μl of 20 mg/ml methoxamine HCl in pyridine, vortexing for 1 min., and incubating in a water bath for 90 min at 37 °C. The samples were then trimethylsilylated using 120 μl of MSTFA, vortexed for 1 min, and incubated at 37 °C for 20 min. The derivatized samples were vortexed for 30 s and centrifuged for 2 min at 12,000 x g. A 120 μl aliquot was transferred to a 2 ml GC vial with 250 μl micro-insert for analysis by GC-MS."	"A 1 μl aliquot of the derivatized sample was analyzed on an Agilent 5795 GC-MS containing a deactivated glass wool liner followed by a 30 m x 0.25 mm i.d. x 0.25 μm film 5% phenyl 95% methylpolysiloxane DB-5 MS column with 10 m Duraguard. Samples were extracted and analyzed in 10 groups of 12 samples composed of a complete replicate of the experiment, with 4 reps processed on day 1 (48 samples) and 3 reps on days 2 and 3 (36 samples each). Samples were established in a sequence consisting of 3 blanks and 6 QC samples before the reps of experimental samples (with 1 QC sample analyzed after each rep), followed by the 6 QC samples and 3 blanks. The GC was operated at a constant flow of 1 ml/min of helium, with a temperature program of 60 °C hold 1 min, ramp 10 °C/min to 325 °C, hold 10 min, for a total run time of 37.5 min."	"Mass spectra data was collected on a Agilent 5975C MSD with electron impact ionization in negative ion mode. The transfer line, ion source, and quadrupole temperatures were 290 °C, 230 °C, and 150 °C respectively. The scan range was 50-600 amu, with a 5.9 min solvent delay, threshold of 0, and a scan rate of 2.66 scans/s at 2 samples/scan."	"Mass spectra were converted to *.CDF format using OpenChrom[1] followed by peak detection, integration, and alignment using MZMine 2[2]. 
+Peak identification was targeted using the retention time and characteristic ions of the standards and the samples within the batch to calibrate peak detection parameters. Detected peaks were aligned across all samples and examined to ensure there were no missing values and that all peaks were properly aligned. If there were problems in detection or alignment, the peak detection or alignment parameters were adjusted as necessary to correct the issue. Complete and properly aligned peak lists were exported to *.csv format for further processing and analysis.
+</p>
+Ref:</br>
+[1] Wenig P and Odermatt J. OpenChrom: a cross-platform open source software for the mass spectrometric analysis of chromatographic data. BMC Bioinformatics. 2010 Jul 30;11:405. doi:10.1186/1471-2105-11-405. PMID:20673335</br>
+[2] Pluskal T, Castillo S, Villar-Briones A, Oresic M. MZmine 2: modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC Bioinformatics. 2010 Jul 23;11:395. doi:10.1186/1471-2105-11-395. PMID:20650010</br>"	"Analytical standards for each metabolite were analyzed using the same instrument and method prior to the experiment to determine retention times and characteristic ions used for identification of peaks in unknown samples. All metabolites were therefore classified as Level 1 identified compounds according the Metabolomics Standards Initiative guidelines[1]. Aligned peak lists were normalized by scaling metabolite abundances for the 12 samples within each of the 10 analysis groups based on the ratio of the group mean to the overall mean for each metabolite to remove technical variation caused by changes in instrument performance over time (e.g. decreases due to instrument contamination and increases due to ion source cleaning and column trimming).
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Column model;Column type;Guard column"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Gillis"	"Price"	"Prasher"
+Study Person First Name	"Joseph"	"Gordon"	"Shiv"
+Study Person Mid Initials	"D"	"W"	"O"
+Study Person Email	"joseph.gillis@mail.mcgill.ca"	"gprice@dal.ca"	"shiv.prasher@mcgill.ca"
+Study Person Phone	"1 (438) 862 8126"	""	""
+Study Person Fax	""	""	""
+Study Person Address	""	""	""
+Study Person Affiliation	"McGill University, Faculty of Agriculture and Environmental Science"	""	""
+Study Person Roles	"PhD Student"	"PhD Supervisor"	"PhD Supervisor"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

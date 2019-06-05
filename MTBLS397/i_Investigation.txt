@@ -1,0 +1,122 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"FMA"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/FMA"	
+Term Source Version	"2"	"22"	"86"	"3"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Foundational Model of Anatomy"	
+INVESTIGATION
+Investigation Identifier	"MTBLS397"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS397"
+Study Title	"LDA: Benchmark of the LDA algorithm against the in silico library LipidBlast."
+Study Description	"In a benchmark test of LDA versus LipidBlast, we used data from both the first control experiment and the biological experiment, both acquired on the Orbitrap Velos Pro in CID +50% and -50%. Additionally, the biological experiment was benchmarked for the QTRAP 4000 for +45eV and -45eV. For LipidBlast evaluation, we used the recommended NIST MSPepSearchGUI (http://peptide.nist.gov/software/ms_pep_search_gui/MSPepSearch.html). The same m/z tolerances were applied in both LipidBlast and LDA. The specificity and sensitivity of LipidBlast depend on a so called matching factor, a value ranging from 0-999. Using the default setting of 450 for the matching factor, many lipid standards in control experiment 1 were not detected. Consequently, the matching factor was lowered to 10, in which case LipidBlast detected almost all of the lipid standards in negative ion mode. Further reduction did not improve the sensitivity of LipidBlast. In positive ion mode, irrespective of the matching factor setting, LipidBlast was not able to identify as many lipid molecular species as was LDA. In this benchmark test, we used only lipid subclasses/adducts that both LDA and LipidBlast are able to detect. Correct assignment of lipid species and lipid molecular species identified in liver lipidomes was verified by manual inspection of the spectra, and by aligning them with the respective retention time data."
+Study Submission Date	"2016-10-30"
+Study Public Release Date	"2017-08-15"
+Study File Name	"s_LDA2_Benchmarking.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolomics"	"Lipids"	"ultra-performance liquid chromatography-mass spectrometry"	"Software engineering"
+Study Design Type Term Accession Number	""	""	""	""
+Study Design Type Term Source REF	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Hartler J, Triebl A, Ziegl A, Trötzmüller M, Rechberger GN, Zeleznik OA, Zierler KA, Torta F, Cazenave-Gassiot A, Wenk MR, Fauland A, Wheelock C, Armando AM, Quehenberger O, Zhang Q, Wakelam MJO, Haemmerle G, Spener F, Köfeler HC, Thallinger GG"
+Study Publication Title	"Deciphering lipid structures based on platform-independent decision rule sets"
+Study Publication Status	"submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry.txt"	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry-1.txt"	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry-2.txt"	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry-3.txt"	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry-4.txt"	"a_lda2_benchmarking_metabolite_profiling_mass_spectrometry-5.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Control experiment 1 positive - Orbitrap velos CID (Thermo Scientific)"	"Control experiment 1 negative - Orbitrap velos CID (Thermo Scientific)"	"Biological experiment positive - Orbitrap velos CID (Thermo Scientific)"	"Biological experiment negative - Orbitrap velos CID (Thermo Scientific)"	"Biological experiment positive - API 4000 QTRAP (AB Sciex)"	"Biological experiment negative - API 4000 QTRAP (AB Sciex)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"All solvents used were at least HPLC (high performance liquid chromatography) grade and purchased either from Sigma-Aldrich (St. Louis, MO, USA) or from Merck (Darmstadt, Germany). Deionized water was obtained from an in-house MilliQ Gradient A10 system (Millipore, Billerica, MA, USA).
+
+Control experiment 1:
+Lipid standards were purchased from Avanti Polar Lipids (Alabaster, AL, USA) and Larodan Fine Chemicals AB (Malmö, Sweden).
+List of standards: PI 12:0/13:0, PI 17:0/14:1, PI 17:0/20:4, PI 21:0/22:6, P-PC P-18:0/18:1, P-PC P-18:0/20:4, P-PC P-18:0/22:6, P-PE P-18:0/18:1, P-PE P-18:0/20:4, P-PE P-18:0/22:6, LPC 13:0, LPC 14:0, LPC 16:0, LPC 18:0, LPC 18:1, LPE 14:0, LPE 18:0, LPE 18:1, PS 16:0/16:0, PS 17:0/17:0, PS 16:0/18:1, PS 16:0/18:2, PS 18:0/18:0, PS 18:0/18:1, PS 18:0/18:2, LPS 16:0, LPS 17:1, LPS 18:0, LPS 18:1, PC 14:0/18:0, PC 18:1/14:0, PC 16:0/18:0, PC 16:0/18:1, PC 18:0/18:0, PC 18:0/18:1, PC 18:0/18:2, PC 20:0/20:0, PC 24:1/24:1, PE 16:0/16:0, PE 17:0/17:0, PE 16:0/18:1, PE 18:0/18:0, PE 18:0/18:1, PE 18:0/18:2, PE 16:0/20:4, PG 16:0/16:0, PG 17:0/17:0, PG 16:0/18:1, PG 18:0/18:0, PG 18:0/18:1, PG 18:0/18:2, DG 12:0/12:0/0:0, DG 16:0/16:0/0:0, DG 18:0/16:0/0:0, DG 16:0/0:0/18:1,  DG 18:0/18:0/0:0, DG 18:1/0:0/18:1, DG 18:2/0:0/18:2,  DG 20:0/18:0/0:0, TG 14:0/16:1/14:0, TG 16:0/16:0/16:0, TG 15:0/18:1/15:0, TG 16:0/16:0/18:0, TG 16:0/16:0/18:1, TG 17:0/17:1/17:0, TG 20:2/18:3/20:2, TG 20:4/18:2/20:4, TG 20:0/20:1/20:0, TG 20:5/22:6/20:5, SM 18:0, SM 18:1, SM 24:0, SM 24:1, Cer 16:0, Cer 17:0, Cer 18:0, Cer 18:1, Cer 20:0.
+
+Biological experiment:
+Liver samples from wild type mice with ad libitum access to water and a standard chow diet were excised as described by Zierler et al. (Functional cardiac lipolysis in mice critically depends on comparative gene identification-58. J Biol. Chem 288, 9892-9904 (2013))."	"Control experiment 1:
+For each lipid species, 1 mol/L stock solutions were prepared, gravimetrically or by dilution, in chloroform/methanol 1:1 (v/v). Working solutions at 5µmol/L were stored at -20 °C. Prior to analysis, aliquots were thawed to room temperature and storage solvent was replaced by injection solvent.
+
+Biological experiment:
+Three liver aliquots (25-40 mg) from three different mice were homogenized using a BioPulverizer (BioSpec Products, Bartlesville, OK, USA) and extracted according to Matyash et al. (Matyash,V., Liebisch,G., Kurzchalia,T.V., Shevchenko,A., & Schwudke,D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res 49, 1137-1146 (2008)): 1.5 mL methanol and 5 mL MTBE (methyl-tert-butyl ether) were added to liver homogenate in 12 mL glass test tubes with PTFE-lined caps, and the mixture was incubated for 10 min in an overhead shaker at room temperature. After addition of 1.25 mL deionized water and 10 min of additional shaking, the mixture was centrifuged for 5 min at 2,000 x g and the upper phase was transferred to a new test tube. The lower phase was re-extracted with 2 mL of the upper phase of MTBE/methanol/deionized water 10:3:2.5 (v/v/v). The upper phases were combined, evaporated in a vacuum centrifuge and dissolved in 1 mL chloroform/methanol 1:1 (v/v) for storage at  -20 °C. Animal procedures were approved by the Austrian Federal Ministry for Science and Research and the Ethics Committee of the University of Graz (BMWFW-66.007/0006-WF/3b/2014).
+The three liver extracts were measured in quintuplicates each. For benchmarking, liver sample 1 was used only."	"Orbitrap Velos Pro:
+Chromatographic separation of lipids was performed on a Waters BEH C8 column (100 x 1 mm, 1.7 µm) (Waters, Milford, MA, USA), thermostated to 50 °C in a Dionex Ultimate XRS UHPLC (ultra-high performance liquid chromatography) system. Mobile phase A for chromatographic separation was deionized water containing 10 mmol/L ammonium formate and 0.1 vol% of formic acid. Mobile phase B was acetonitrile/2-propanol 5:2 (v/v) with the same additives. Gradient elution started at 50 % mobile phase B, rising to 100 % B over 40 min, 100 % B was held for 10 min and the column was re-equilibrated with 50 % B for 8 min before the next injection. Flow rate was 150 µL/min and injection volume was 2µL.
+
+4000 QTRAP:
+Chromatographic separation was performed on an Agilent HPLC 1100 system (Agilent Technologies, Waldbronn, Germany). A Kinetex C8 column (100 x 2.1 mm, 1.7 µm) (Phenomenex, Torrance, CA, USA) was used. Mobile phases were identical as used for Orbitrap Velos Pro. Gradient elution started at 50 % mobile phase B, rising to 100 % B over 30 min, 100 % B was held for 15 min and the column was re-equilibrated with 50 % B for 13 min. Flow rate was 250 µL/min and 2 µL of the sample were injected.
+"	"Orbitrap Velos Pro:
+The Orbitrap Velos Pro hybrid mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) was operated in Data Dependent Acquisition (DDA) mode using a HESI II (heated electrospray ionization) ion source. Prior to experiments, lens settings and source parameters were optimized to the signal of PE 34:1 (using protonated/deprotonated molecular ion in positive/negative ion mode, respectively) infused into the column effluent of 80 % mobile phase B with a mixing tee. Ion source parameters for positive polarity were as follows: Source Voltage 4.5 kV; source temperature 375 °C; sheath gas 25 arbitrary units (AU); aux gas 9 AU; sweep gas 0 AU; capillary temperature 300 °C. Ion source parameters for negative ion mode were: Source voltage 3.8 kV; source temperature 325 °C; sheath gas 30 AU; aux gas 10 AU; sweep gas 0 AU; capillary temperature 300 °C. Full scan spectra from m/z 400 to 1,000 for positive ion mode and from m/z 400 to 1,000 in negative ion mode were acquired at a target resolution of 100,000 (FWHM at m/z 400). From each full scan spectrum, ions were selected for sequential fragmentation in the linear ion trap (collision-induced dissociation (CID) experiments) and detected in the ion trap analyzer. The 10 most abundant ions of the full scan spectrum were fragmented using He as collision gas (isolation width 1.5 m/z; activation Q 0.2; activation time 10 ms). Normalized collision energy was 50 in both positive and negative ion mode.
+
+4000QTRAP:
+The 4000 QTRAP (AB Sciex, Concord, Canada) was controlled by Analyst v. 1.6.1 software and operated in Information Dependent Acquisition (IDA) mode, using an enhanced MS (EMS) scan from m/z 400 to 1,050 and 400 to 1,000 in positive and negative ion mode, respectively, at 1,000 Da/s as a survey scan. Prior to analysis, source parameters were optimized using flow injection analysis into an isocratic flow of 80 % mobile phase B. Analytes were PC 36:1 (m/z 788.6-184) for positive ion mode and PE 36:2 (m/z 742-279) for negative ion mode. The optimized source parameters of the Turbo V ion source for positive ion mode were as follows: Curtain gas 15 AU; collision gas high; ionspray voltage 5,000 V; temperature 450 °C; gas 1 50 AU; gas 2 50 AU; declustering potential 60 V; collision energy spread 0; collision energy 45 V. Source parameters for negative ion mode were: Curtain gas 10 AU; collision gas high; ionspray voltage 4,500 V; temperature 600 °C; gas 1 20 AU; gas 2 50 AU; declustering potential 95 V; collision energy spread 0; collision energy 45 V. Isolation width was unit resolution, which corresponds to 0.6-0.8 Da. From each survey scan, the four most abundant ions exceeding 1,000 counts were chosen for enhanced product ion (EPI) scans at 4,000 Da/s. Previously detected target ions were excluded for 10 s."	"Data was transformed by msconvert to mzXML, and by LDA in chrom format."	"MS1 peaks were identified as described in an earlier paper [1] and MS/MS spectra were interpreted by decision rule sets as described in the referenced paper of this study. 
+For the metabolites assignment, a pipe "|" was used to discriminate between the individual MS runs, while comma "," was used to account for several identifications (e.g. several retention times) and ambiguous identifications (e.g. DG 20:0/18:0/-,20:0/-/18:0 corresponds to a diacylglyceride where 20:0 is identified to be on the sn-1 position, while 18:0 might be at sn-2 or sn-3). 
+Ref:
+ [1] Hartler J, Trötzmüller M, Chitraju C, Spener F, Köfeler HC, Thallinger GG. Lipid Data Analyzer: unattended identification and quantitation of lipids in LC-MS data. Bioinformatics. 2011 Feb 15;27(4):572-7. doi:10.1093/bioinformatics/btq699. PMID:21169379"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hartler"	"Köfeler"	"Thallinger"
+Study Person First Name	"Jürgen"	"Harald"	"Gerhard"
+Study Person Mid Initials	""	"C"	"G"
+Study Person Email	"juergen.hartler@tugraz.at"	"harald.koefeler@klinikum-graz.at"	"gerhard.thallinger@tugraz.at"
+Study Person Phone	"+43-316-873-5322"	"+43-316-385-73005"	"+43-316-873-5343"
+Study Person Fax	"+43-316-873-105322"	"+43-316-385-73009"	"+43-316-873-105343"
+Study Person Address	"Petersgasse 14/V
+8010 Graz, Austria"	"Stiftingtalstrasse 24
+8010 Graz, Austria"	"Petersgasse 14/V
+8010 Graz, Austria"
+Study Person Affiliation	"Institute of Molecular Biotechnology, Graz University of Technology"	"Center for Medical Research, Medical University of Graz"	"Institute of Molecular Biotechnology, Graz University of Technology"
+Study Person Roles	"author"	"author"	"author"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

@@ -1,0 +1,129 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ENVO"	"FBbi"	"CHMO"	"AURA"	"CRISP"	"OCRE"	"NCBITAXON"	"BRO"	"CHEBI"	"CHMO"	"NCBITAXON"	"EFO"	"UO"	"OBI"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/FBbi"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/AURA"	"http://data.bioontology.org/ontologies/CRISP"	"http://data.bioontology.org/ontologies/OCRE"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BRO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"39"	"13"	"5"	"1"	"6"	"23"	"2"	"14"	"80"	"18"	"6"	"113"	"42"	"22"	"99"	
+Term Source Description	"Environment Ontology"	"Biological Imaging Methods Ontology"	"Chemical Methods Ontology"	"KB_Bio_101"	"Computer Retrieval of Information on Scientific Projects Thesaurus"	"Ontology of Clinical Research"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Biomedical Resource Ontology"	"Chemical Entities of Biological Interest Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS862"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"H:\Manuscripts\MetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS862"
+Study Title	"Evaluation of Sample Preparation Methods for the Analysis of Reef-Building Corals Using 1H-NMR-based Metabolomics"
+Study Description	"The field of metabolomics generally lacks standardized methods for the preparation of samples prior to analysis. This is especially true for metabolomics of reef-building corals, where the handful of studies that have been published employ a range of sample preparation protocols. The utilization of metabolomics may prove essential in understanding coral biology in the face of increasing environmental threats, and an optimized method for preparing coral samples for metabolomics analysis would aid this cause. The current study evaluates three important steps during samples processing of stony corals: (i) metabolite extraction, (ii) metabolism preservation and (iii) subsampling. Results indicate that a modified Bligh and Dyer extraction is more reproducible across multiple coral species compared to methyl tert-butyl ether and methanol extractions, while a methanol extraction is superior for feature detection. Additionally, few differences are detected between spectra from frozen or lyophilized coral samples. Finally, extraction of entire coral nubbins increases feature detection, but decreases throughput and is more susceptible to subsampling error compared to a novel tissue powder subsampling method. Overall, we recommend the use of a modified Bligh and Dyer extraction, lyophilized samples, and analysis of brushed tissue powder for the preparation of reef-building coral samples for 1H NMR metabolomics."
+Study Submission Date	"2019-02-13"
+Study Public Release Date	"2019-03-18"
+Study File Name	"s_Coral Methods.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"method development"	"untargeted metabolites"	"coral reef"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/CSP/4001-0081"	""	"http://purl.obolibrary.org/obo/ENVO_00000150"	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"CRISP"	""	"ENVO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"30781808"
+Study Publication DOI	"10.3390/metabo9020032"
+Study Publication Author List	"Andersson ER, Day RD, Loewenstein JM, Woodley CM, Schock TB."
+Study Publication Title	"Evaluation of Sample Preparation Methods for the Analysis of Reef-Building Corals Using ¹H-NMR-Based Metabolomics."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Extraction Solvent"	"Metabolism Preservation Method"	"Subsampling Method"
+Study Factor Type	"solvent"	"Biospecimen preservation method"	"Subsampling Method"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_46787"	"http://purl.org/net/OCRe/OCRe.owl#OCRE400020"	""
+Study Factor Type Term Source REF	"CHEBI"	"OCRE"	""
+STUDY ASSAYS
+Study Assay File Name	"a_coral_methods_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Coral samples of 2 species, Acropora cervicornis and Orbicella faveolata, were collected from the National Oceanic and Atmospheric Administration (NOAA) coral culture facility (Permit FKNMS-2016-021 issued to Dr. Cheryl Woodley). Approximately 25 g of coral fragments from each species were removed from their propagation plugs using stainless steel bone cutting forceps. Collected fragments were immediately placed into Teflon bags and frozen in liquid N2 to preserve the metabolic state of the corals. Frozen fragments were then cryohomogenized using a Retsch Cryomill (RETSCH GmbH, Haan Germany) and stored at -80 °C until analysis. These homogenates were used to compare the application of (i) traditional metabolite extraction solvents and (ii) different metabolite preservation techniques to stony corals for NMR metabolomics analysis.
+</br></br>
+Additionally, coral samples were collected from living Porites compressa colonies from Kaneohe Bay, Oahu, Hawaii at Coconut Island (State of Hawaii DAR (Division of Aquatic Resources) Special Activity Permit (SAP) 2011-1). Samples were collected within a 1 h period from depths of less than 3 m using a stainless-steel hammer and chisel to extract skeletal biopsies approximately 4 cm in diameter from colonies. Samples were immediately taken to the surface and frozen in liquid N2 to preserve metabolic state. These samples consisted of diseased (growth anomaly) and apparently healthy (unaffected) coral fragments from colonies containing coral growth anomalies as a part of a related study investigating the effects of this disease on corals. One paired (growth anomaly and unaffected) set of these samples was sacrificed for use in the current study. The unaffected sample was used in order to compare use of (iii) different subsampling methods of stony corals for NMR metabolomics analysis, and both the growth anomaly and unaffected samples were used to validate the selected workflow for use on environmental coral samples.
+</br></br>
+Metabolism Preservation Comparison:</br>
+2 metabolism preservation techniques were tested using the O. faveolata homogenate: frozen and lyophilized methods. Frozen (n = 6) and lyophilized (n = 6) samples were extracted and analyzed using 1H NMR spectroscopy in a single batch which included a blank sample for each sample state to monitor for possible method contaminants. All of the frozen and lyophilized samples were technical replicates of a single O. faveolata homogenate as described above. For both the frozen and lyophilized methods, frozen homogenates (100 mg (±3 mg)) were firstly transferred into pre-weighed 10-ml glass vials using a cryocart in order to maintain freezing temperature. Samples for the frozen method were stored at −80 °C until metabolite extraction, while samples for the lyophilized method were freeze-dried for 24 h at an average pressure below 100 mTorr in pre-chilled glass beakers (Appropriate Technical Resources CT 110 Lyophilizer) prior to storage at −80 °C.
+</br></br>
+Subsampling Method Comparison:</br>
+2 subsampling methods were tested using the sacrificial unaffected P. compressa sample: nubbin subsampling (n = 3) and tissue powder subsampling (n = 3). The coral sample was lyophilized using a VirTis Genesis OX Lyophilizer with a Wizard 2.0 Controller for 24 h at an average pressure below 1 Torr and a shelf temperature of 20 °C. The sample was then divided into 2 coral fragments using a chisel and hammer for use in the 2 different subsampling methods to be tested. Samples from the 2 methods were extracted in a single batch, which also contained a blank sample for each of the subsampling methods to monitor for possible method contaminants.
+</br></br>
+Nubbin Method:</br>
+3 small nubbins (1.5 g (±0.045 g)) were removed from the axial tips of one of the coral fragments using stainless-steel bone-cutting forceps.
+</br></br>
+Tissue Powder Method:</br>
+A firm-bristled brush was used to remove powdered soft tissue from the surface of the other coral fragment. Each area of the fragment was brushed for approximately 10 s, with a goal of removing all soft tissue accessible and brushing each area of the fragment a single time. The removed powder was then collected into a homogeneous powder and aliquoted into 3 technical replicates (20 mg (±0.6 mg)) for extraction."	"3 metabolite extraction methods for application to 1H NMR metabolomics were tested using the frozen A. cervicornis (200 mg (± 6 mg)) and O. faveolata homogenates (100 mg (± 3 mg)): Bligh and Dyer extraction (n=4 per species), MTBE extraction (n=4 per species), and a methanol (Fisher Chemical, HPLC Grade) extraction (n=4 per species). Because the 2 coral species had contrasting morphologies (branching and bouldering), target masses of homogenate for extraction differed by species in order to roughly account for how these morphological differences affected the amount of tissue present in each homogenate. It is important to consider that when working with stony corals a certain portion of each sample will be comprised of the inorganic coral skeleton. Extraction solvent volumes were targeted for a consistent amount of solvent (1000 µl) for each solvent system, however, variations are caused by differing sample moisture content, variations in the mass of tissue/material to be extracted, and desired solvent volume ratios. All extraction solvent ratios indicated below are by volume. Samples were extracted in a single batch, which also contained a blank sample for each extraction method to monitor for possible method contaminants. 
+</br></br>
+Bligh and Dyer Extraction:</br>
+A polar solvent system consisting of water (including water content from sample tissues) and methanol (water:methanol ratio of 0.8:2), and a non-polar solvent system consisting of water and chloroform (water:chloroform ratio of 1:2) were used to extract metabolites from the frozen coral homogenates. This resulted in a final chloroform:methanol:water ratio of 2:2:1.8, and total solvent volumes were to 931 µl and 1,172 µl for A. cervicornis and O. faveolata homogenates respectively. First, the pre-cooled polar solvent system was added to the homogenates in 1.5 ml microcentrifuge tubes and were bath sonicated with ice for 2 min. Next, the homogenate/polar solvent mixture was transferred into a glass vial containing the pre-cooled non-polar solvent system and were vortexed for 60 s. The extracts were then allowed to sit on ice for 10 min before centrifugation at 2,000 x g (standard acceleration due to gravity) at 4 °C for 5 min for phase separation. The polar metabolite-containing fraction was transferred using a glass pipette into a microcentrifuge tube and then dried in a Vacufuge Concentrator 5301 (Eppendorf AG, Hamburg Germany) at room temperature.
+</br></br>
+MTBE Extraction:</br>
+A polar solvent system consisting of water and methanol (water:methanol ratio of 2:6), and a non-polar solvent system consisting of water and chloroform (water:MTBE ratio of 5:20) were used to extract metabolites from the frozen coral homogenates. This resulted in a final MTBE:methanol:water ratio of 20:6:7, with a total solvent volume of 1,237 µl. Metabolites were extracted from frozen coral homogenates following the same step-wise protocol as above.
+</br></br>
+Methanol Extraction:</br>
+A 70% (v/v) methanol solvent system was added to the frozen coral homogenates to a total solvent volume of 1,000 µl. This extraction solvent did not include a non-polar solvent system. Metabolites were extracted from frozen coral homogenates by adding the pre-chilled solvents to the homogenates in 1.5 ml microcentrifuge tubes. The homogenate/solvent mixture was then vortexed for 10 s prior to an iced bath sonication for 5 min. After sonication, extracts were spun at 14,000 x g at 4 °C for 5 min to pellet coral homogenate. Supernatant was then transferred into a new microcentrifuge tube and dried in a Vacufuge Concentrator 5301 (Eppendorf AG, Hamburg Germany) at room temperature.
+</br></br>
+Metabolism Preservation Comparison:</br>
+Metabolites were extracted from all samples using the Bligh and Dyer extraction methods described above, with the sonication step being replaced by a 20-s vortex. The total solvent volumes were to 903 µl and 1088 µL for frozen and lyophilized homogenates, respectively.
+</br></br>
+Nubbin Method:</br>
+Nubbins were extracted using the Bligh and Dyer method as described above, although the volume of solvents per 1 mg of extracted sample were adjusted (while maintaining the solvent ratios) in order to achieve a large enough volume so that the nubbin could be completely submersed in solvent (8700 µl total solvent volume). In order to accommodate the relatively large extraction solvent volume required for the nubbin samples, extractions for these samples were carried out in 50-ml polypropylene centrifuge tubes rather than 1.5-ml microcentrifuge tubes and glass vials.
+</br></br>
+Tissue Powder Method:</br>
+Tissue powders were extracted using the Bligh and Dyer method as described in the extraction method comparison, with a total solvent volume of 1160 µl."	"Extracted, dried metabolites were rehydrated in 600 µl of deuterium oxide based 0.1 M sodium phosphate buffer containing 1 mM of 3-trimethylsilylpropionic-2,2,3,3,-d, acid sodium salt (TMSP) as a chemical shift reference. Samples (550 µl) were then transferred to 5 mm NMR tubes (NORELL, Inc., Morganton, NC, USA) for 1H NMR analysis."	"All NMR profiles were obtained using a 700 MHz Bruker NMR spectrometer equipped with a TCI cryoprobe and Samplejet. "	"1D 1H NMR spectra were acquired (Topspin version 3.2) using a Nuclear Overhauser Effect Spectroscopy (NOESY) pulse sequence consisting of 8 dummy scans and 160 scans for 65,536 data points with a relaxation delay of 3 s. Spectra were produced from the acquired FID via Fourier transformation."	"All spectra were referenced, phased and baseline corrected automatically (Topspin version 3.2). The different sample preparation methods were primarily assessed statistically using PCA alongside spectral %RSD, a benchmark metric for reproducibility in metabolomics. To enable PCA analyses, the 1H NMR spectra from 0.5-10 ppm were divided into intelligent bins (NMR ProcFlow v1.2) with a signal-to-noise threshold equal to 3:1. Residual water (4.7 – 5.0 ppm) and other contaminants detected in the blank sample spectra were manually excluded from binning. Binned spectra were normalized to constant sum and Pareto-scaled prior to multivariate analyses (MetaboAnalyst 4.0) in order to decrease the dominance of bins with the largest intensities. PCAs were used to visually assess the quality of the data and to evaluate inter- and intra- method trends in the data.
+</br></br>
+Additionally, as a metric to quantifiably compare spectral intensity and coverage, spectra were once again intelligently binned as described above. However, here samples of each treatment were binned separately rather than being grouped and binned by experiment. The number of features identified by the binning procedure was used to compare the spectral coverage of methods, and the total intensity from all detected features was averaged in order to compare spectral intensity of methods. 
+</br></br>
+Spectral %RSD values (%RSD = standard deviation/mean x 100; calculated for each bin, then the median of those values is reported as spectral %RSD) were used in order to evaluate the analytical reproducibility of the different methods. To do so, the 1H NMR spectra from 0.2-10 ppm were binned into 0.005 ppm increments resulting in 1960 bins (AMIX version 15.3, Bruker). Residual water (4.7-5.0) and other contaminants detected in the blank sample spectra were excluded from analysis. Binned spectra were normalized to constant sum and mean centered."	"No metabolites were reported in this study."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Andersson"	"Day"	"Loewenstein"	"Woodley"	"Schock"
+Study Person First Name	"Erik"	"Rusty"	"Julie"	"Cheryl"	"Tracey "
+Study Person Mid Initials	"R"	"D"	"M"	"M"	"B"
+Study Person Email	"anderssoner@g.cofc.edu"	"rusty.day@manta-online.org"	"loewensteinjm@g.cofc.edu"	"cheryl.woodley@noaa.gov"	"tracey.schock@noaa.gov"
+Study Person Phone	"8478003410"	""	""	""	"8434609944"
+Study Person Fax	""	""	""	""	""
+Study Person Address	"331 Fort Johnson Rd, Charleston, SC 29412"	""	""	""	"331 Fort Johnson Rd, Charleston, SC 29412"
+Study Person Affiliation	"College of Charleston / National Institute of Standards and Technology"	"National Institute of Standards and Technology / Marine Science and Nautical Training Academy"	"College of Charleston"	"National Oceanic and Atmospheric Administration"	"National Institute of Standards and Technology"
+Study Person Roles	"Corresponding Author"	""	""	""	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

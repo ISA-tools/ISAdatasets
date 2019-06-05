@@ -1,0 +1,102 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"BAO"	"BTO"	"NCIT"	"MESH"	"CHMO"	"EFO"	"CHEBI"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"2"	"19"	"22"	"44"	"6"	"5"	"146"	"80"	"43"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BioAssay Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS425"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"E:researchself paperswisconsincardiomyocyte maturationdraftsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS425"
+Study Title	"Metabolomics Identifies Metabolic Markers of Maturation in Human Pluripotent Stem Cell-Derived Cardiomyocytes"
+Study Description	"Cardiovascular disease is a leading cause of death worldwide. Human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs) hold immense clinical potential and recent studies have enabled generation of virtually pure hPSC-CMs with high efficiency in chemically defined and xeno-free conditions. Despite these advances, hPSC-CMs exhibit an immature phenotype and are arrhythmogenic in vivo, necessitating development of methods to mature these cells. hPSC-CMs undergo significant metabolic alterations during differentiation and maturation. A detailed analysis of the metabolic changes accompanying maturation of hPSC-CMs may prove useful in identifying new strategies to expedite the maturation process and also provide biomarkers for testing or validating hPSC-CM maturation. In this study we identified global metabolic changes which take place during long-term culture and maturation of hPSC-CMs derived from three different hPSC lines. We have identified several metabolic pathways, including phospholipid metabolism and pantothenate and Coenzyme A metabolism, which showed significant enrichment upon maturation in addition to fatty acid oxidation and metabolism. We also identified an increase in glycerophosphocholine and reduction in phosphocholine as potential metabolic biomarkers of maturation. These biomarkers were also affected in a similar manner during murine heart development in vivo. These results support that hPSC-CM maturation is associated with extensive metabolic rewiring and understanding the role of these metabolic changes in maturation process has the potential to develop novel approaches to monitor and expedite hPSC-CM maturation."
+Study Submission Date	"2017-01-25"
+Study Public Release Date	"2017-04-02"
+Study File Name	"s_hPSC-CM.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"stem cell"	"Cardiomyocyte"	"Cell Maturation"	"biomarker"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolites"	"cardiovascular disease"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CL_0000034"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13002"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28594"	"http://purl.obolibrary.org/obo/CHEBI_59163"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""	"http://www.ebi.ac.uk/efo/EFO_0000319"
+Study Design Type Term Source REF	"EFO"	"NCIT"	"NCIT"	"EFO"	"CHMO"	""	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28656061"
+Study Publication DOI	"10.7150/thno.19390"
+Study Publication Author List	"Vijesh J. Bhute, Xiaoping Bao, Kaitlin K. Dunn, Kylie R. Knutson, Eric C. McCurry, Gyuhyung Jin, Wei-Hua Lee, Sarah Lewis, Akihiro Ikeda, and Sean P. Palecek"
+Study Publication Title	"Metabolomics Identifies Metabolic Markers of Maturation in Human Pluripotent Stem Cell-Derived Cardiomyocytes"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time"	"CM source"
+Study Factor Type	"timepoint"	"Origin"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42703"
+Study Factor Type Term Source REF	"EFO"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_hpsc-cm_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"For in vitro human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs), sample collection was performed as described previously.[1][2] Briefly, the cells in 1 well from 12 well plate (~1-2 million) were washed twice with ice-cold PBS (pH 7.4) and then the cells were quenched using 3 ml methanol. The cells were then detached using a cell scraper and pipetted into a 50 ml centrifuge tube.
+</p>
+Ref:</br>
+[1] Bhute VJ, Palecek SP. Metabolic responses induced by DNA damage and poly (ADP-ribose) polymerase (PARP) inhibition in MCF-7 cells. Metabolomics. 2015 Dec;11(6):1779-1791. doi:10.1007/s11306-015-0831-6. PMID:26478723.</br>
+[2] Bhute VJ, Ma Y, Bao X, Palecek SP. The Poly (ADP-Ribose) Polymerase Inhibitor Veliparib and Radiation Cause Significant Cell Line Dependent Metabolic Changes in Breast Cancer Cells. Sci Rep. 2016 Nov 4;6:36061. doi:10.1038/srep36061. PMID:27811964</br>"	"The quenched cells were suspended in a mixture of chloroform, methanol and water in the ratio of 6:6:5.4 to achieve a final volume of 17.4 ml. After centrifugation for 15 min at 3600 rpm, the upper aqueous layer was used for further analysis and the organic phase was discarded. The aqueous phase from samples were dried at 30 °C using a centrifugal vacuum concentrator and stored at -80 °C until NMR analysis."	"Prior to NMR analysis, the samples were reconstituted in 0.6 ml of 0.1 M phosphate buffered D2O (pH 7.0) solution containing 0.5 mM 3-trimethylsilyl-propionate-2, 2, 3, 3,-d4 (TMSP, d = 0.0 ppm) as an internal standard and 0.2% w/v sodium azide. The samples were centrifuged at 18,000 x g for 10 min and 550 µl of the supernatant was transferred to 5 mm NMR tubes (Norell Inc.)."	"1H NMR spectra were recorded at 298 K on a Bruker Avance III equipped with a 5 mm 13C/15N(1H) cryogenic probe operating at 500 MHz (11.74 T)."	"1D spectra were acquired using standard NOESYPR1D pulse sequence (RD-90°-t1-90°-tm-90°-acquire) with a relaxation delay of 1 s, a mixing time of 100 ms and a pre-scan delay of 30 µs. Each spectrum consisted of 128 transients or free induction decays (FIDs) collected into 48 K complex data points with a spectral width of 12 ppm and an acquisition time of 4 s. Prior to Fourier transformation, the FIDs were zero-filled to 128 k data points and multiplied by an exponential window function (Line broadening factor (LB) = 0.5 Hz). The chemical shifts were referenced to the TMSP peak (d = 0 ppm), using TopSpinTM software (version 3.1, Bruker)."	"Spectra were exported to an ACD/1D NMR Processor (Advanced Chemistry Development) for phasing, baseline correction, and solvent region removal (water: 4.7-5.1 ppm and DMSO: 2.72-2.75 ppm)."	"The peaks were annotated through the HMDB[1], Metabohunter[2] and targeted profiling[3] was accomplished using ChenomX NMR Suite Profiler (version 7.7, ChenomX Inc.). The concentrations were referenced to a TMSP concentration of 0.5 mM. 
+</p>
+Ref:</br>
+[1] Wishart DS, Jewison T, Guo AC. et al. HMDB 3.0-The Human Metabolome Database in 2013. Nucleic Acids Res. 2013;41:D801–7. doi:10.1093/nar/gks1065. PMID:23161693</br>
+[2] Tulpan D, Léger S, Belliveau L. et al. MetaboHunter: an automatic approach for identification of metabolites from 1H-NMR spectra of complex mixtures. BMC Bioinformatics. 2011;12:400.  doi: 10.1186/1471-2105-12-400. PMID:21999117.
+[3] Weljie AM, Newton J, Mercier P, Carlson E, Slupsky CM. Targeted profiling: quantitative analysis of 1H NMR metabolomics data. doi:10.1021/ac060209g. PMID:16808451.</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Bhute"	"Palecek"
+Study Person First Name	"Vijesh"	"Sean"
+Study Person Mid Initials	"J"	"P"
+Study Person Email	"bhute@wisc.edu"	"sppalecek@wisc.edu"
+Study Person Phone	""	""
+Study Person Fax	""	""
+Study Person Address	"Department of Chemical and Biological Engineering"	"Department of Chemical and Biological Engineering"
+Study Person Affiliation	"University of Wisconsin-Madison"	"University of Wisconsin-Madison"
+Study Person Roles	"Graduate Student"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

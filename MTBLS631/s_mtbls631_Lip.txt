@@ -1,0 +1,81 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Variant]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Factor Value[Experimental group]"	"Term Source REF"	"Term Accession Number"
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl1_pos"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl2_pos"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl3_pos"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl4_pos"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl5_pos"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab1_pos"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab2_pos"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab3_pos"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab4_pos"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab5_pos"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort1_pos"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort2_pos"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort3_pos"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort4_pos"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort5_pos"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort1_pos"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort2_pos"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort3_pos"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort4_pos"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort5_pos"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl1_neg"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl2_neg"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl3_neg"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl4_neg"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ctrl5_neg"	"Ctrl"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab1_neg"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab2_neg"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab3_neg"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab4_neg"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab5_neg"	"Ab"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort1_neg"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort2_neg"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort3_neg"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort4_neg"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Sort5_neg"	"Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort1_neg"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort2_neg"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort3_neg"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort4_neg"	"Ab+Sort"	""	""
+"C57BL6 Charles River
+"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"C57BL/6"	"EFO"	"http://www.ebi.ac.uk/efo/EFO_0004472"	"peritoneal macrophage"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0001034"	"Sample collection"	"Ab+Sort5_neg"	"Ab+Sort"	""	""

@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NIFSTD"	"CHEBI"	"EFO"	"CHMO"	"ADO"	"OBI"	"OCRE"	"NCBITaxon"	"UO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/ADO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/OCRE"	"http://bioportal.bioontology.org/ontologies/47845"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"17"	"80"	"113"	"5"	"3"	"22"	"23"	"47845"	"43"	"29"	
+Term Source Description	"Neuroscience Information Framework (NIF) Standard Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Alzheimer's disease ontology"	"Ontology for Biomedical Investigations"	"Ontology of Clinical Research"	"NCBI organismal classification"	"Units of Measurement Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS455"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS455"
+Study Title	"Using an NMR metabolomics approach to investigate the pathogenicity of amyloid-beta and alpha-synuclein"
+Study Description	"INTRODUCTION: The pathogenicity at differing points along the aggregation pathway of many fibril-forming proteins associated with neurodegenerative diseases is unclear. Understanding the effect of different aggregation states of these proteins on cellular processes is essential to enhance understanding of diseases and provide future options for diagnosis and therapeutic intervention.
+</br>
+OBJECTIVES:To establish a robust method to probe the metabolic changes of neuronal cells and use it to monitor cellular response to challenge with three amyloidogenic proteins associated with neurodegenerative diseases in different aggregation states.
+</br>
+METHOD: Neuroblastoma SH-SY5Y cells were employed to design a robust routine system to perform a statistically rigorous NMR metabolomics study into cellular effects of sub-toxic levels of alpha-synuclein, amyloid-beta 40 and amyloid-beta 42 in monomeric, oligomeric and fibrillar conformations.
+</br>
+RESULTS: This investigation developed a rigorous model to monitor intracellular metabolic profiles of neuronal cells through combination of existing methods. This model revealed eight key metabolites that are altered when neuroblastoma cells are challenged with proteins in different aggregation states. Metabolic pathways associated with lipid metabolism, neurotransmission and adaptation to oxidative stress and inflammation are the predominant contributors to the cellular variance and intracellular metabolite levels. The observed metabolite changes for monomer and oligomer challenge may represent cellular effort to counteract the pathogenicity of the challenge, whereas fibrillar challenge is indicative of system shutdown. This implies that although markers of stress are more prevalent under oligomeric challenge the fibrillar response suggests a more toxic environment.
+</br>
+CONCLUSION: This approach is applicable to any cell type that can be cultured in a laboratory (primary or cell line) as a method of investigating how protein challenge affects signalling pathways, providing additional understanding as to the role of protein aggregation in neurodegenerative disease initiation and progression."
+Study Submission Date	"2017-05-08"
+Study Public Release Date	"2017-09-01"
+Study File Name	"s_mtbls455.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"SHSY5Y"	"Parkinson's disease"	"Alzheimer's disease"	"nuclear magnetic resonance spectroscopy"	"Synuclein Protein"	"Amyloid Protein"	"Amyloid Fibril"	"Amyloid Aggregate"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://scai.fraunhofer.de/AlzheimerOntology#SHSY5Y"	"http://www.ebi.ac.uk/efo/EFO_0002508"	"http://www.ebi.ac.uk/efo/EFO_0000249"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#sao4931740958"	"http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#sao7278684532"	"http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#sao1342297498"	"http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#sao4785563283"	""
+Study Design Type Term Source REF	"ADO"	"EFO"	"EFO"	"CHMO"	"NIFSTD"	"NIFSTD"	"NIFSTD"	"NIFSTD"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29142509"
+Study Publication DOI	"10.1007/s11306-017-1289-5."
+Study Publication Author List	"M.M. Phelan, E. Caamano-Gutierrez, M.S. Gant, R.X. Grosman, J. Madine"
+Study Publication Title	"Using an NMR metabolomics approach to investigate the pathogenicity of amyloid-beta and alpha-synuclein"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Protein challenge"
+Study Factor Type	"Amyloid Protein"
+Study Factor Type Term Accession Number	"http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#sao7278684532"
+Study Factor Type Term Source REF	"NIFSTD"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls455_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"SH-SY5Y cells (European Collection of Cell Cultures, ECACC) were cultured according to standard cell culture protocols until sufficient flasks were obtained. Cells were exposed to each sample condition; control (no protein added), amyloid-beta 40, amyloid-beta 42 and asyn (monomer, oligomer and fibril) in T25 flasks at ~80% confluence and incubated for 24 h prior to harvest via trypsinisation. Monomers, oligomers and fibrils were added to cells at 5 µM following dilution in cell culture medium. Transmission electron microscopy was used to confirm protein species prior to addition to cells. Samples were centrifuged for 3 min at 300 x g, media was discarded and cells were further washed twice in 1 ml phosphate-buffered saline (PBS, pH 7.4) and centrifuged again for 3 min at 300 x g. Finally, cell pellets were frozen in liquid nitrogen and stored at -80 °C until extraction. All conditions were tested in 3 biological replicates, and each biological replicate provided 2 technical replicates of ~150,000 cells per sample. Cells were assessed for viability prior to freezing using trypan blue."	"Cell samples were extracted by addition of 50:50 v/v ice cold high performance liquid chromatography grade acetonitrile:ddH2O at 5 ml/g cell pellet, followed by a 10 min incubation on ice. Then samples were sonicated 3 times for 30 s at 23 kHz and 10 nm amplitude using an exponential probe, with 30 s rest between sonications in an ice water bath.  Sonicated samples were centrifuged at 12000 x g for 5 min at 4 °C and the supernatant transferred to cryovials, flash frozen and lyophilised."	"Each lyophilised sample was resuspended in 200 µl deuterated buffer consisting of 100 mM sodium phosphate buffer pH 7.4, with 100 µM d4 trimethylsilyl propionate (TSP) and 0.05% NaN3. Each sample was vortexed for 20 s and centrifuged at 12000 x g for 1 min at 20 °C. 180 µl of each cell extract sample was transferred to 3 mm (outer diameter) NMR tubes for acquisition."	"NMR spectra were acquired at 600.13 MHz using a Bruker Avance III 600 MHz NMR spectrometer fitted with a 5 mm TCI cryoprobe. Additional features include VTU, auto tuning and matching and Chilled SampleJet autosampler."	"Samples were referenced to TSP at 0 ppm. 1D Nuclear Overhauser Effect (NOE) and Carr-Purcell-Meiboom-Gill (CPMG) experiments were acquired for each sample. The NOE were acquired with a spectral width of 30 ppm, 4 s relaxation delay, 32 scans collected with 96k data points (2.727 s acquisition time). The CPMG were collected with a spectral width of 20 ppm, 4 s relaxation delay, 256 scans with 32 dummy scans collected into 72k data points (3.067 s acquisition time). Temperature was calibrated to 25 °C (with margin of error of 0.1 °C) via methanol thermometer prior to every day of acquisition and to maintain consistency receiver gain was kept constant for all acquisition."	"All spectra were zero filled to 128k data points with exponential line broadening of 0.3 Hz being applied before Fourier transformation, spectra were automatically phased, referenced and baseline corrected in Topspin 3.1 (Bruker, UK). Spectra were subjected to a quality control filter prior to statistical analysis by normalisation against TSP standard, with spectra excluded that did not satisfy linewidth or baseline requirements in the spectral bucketing software AMIX (Bruker, UK). Spectra were then prepared for statistical analysis by bucketing/binning according to spectral features or peaks; all peaks both annotated and unknown were included in the bucket table with each bucket normalised by TSP."	"Metabolites in the cell extract 1H NMR spectra were annotated using the metabolite discovery software Chenomx 8.2 (Chenomx, Canada) and subsequently identified where indicated using an in-house library of metabolite spectra correlating 1D 1H CPMG and where sensitivity permitted also 2D 1H 13C HSQC.  
+</p>
+Statistical test:</br>
+Output bucket table was scaled by mean centring of each variable followed by Pareto scaling. The scaled data were subjected to linear discriminant analysis of the principal component using the DAPC function in the adegenet package (version 1.4-2). Cross-validation was performed to identify the number of principle components to retain the linear discriminant analysis (LDA) model."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Phelan"	"Madine"
+Study Person First Name	"Marie"	"Jillian"
+Study Person Mid Initials	"M"	""
+Study Person Email	"mphelan@liverpool.ac.uk"	"j.madine@liverpool.ac.uk"
+Study Person Phone	"+44 151 795 4398"	"+44 151 794 9509"
+Study Person Fax	""	""
+Study Person Address	"NMR Centre for Structural Biology, Crown Street, L69 7ZB, UK"	"Biosciences Building, Crown Street, L69 7ZB, UK"
+Study Person Affiliation	"Technology Directorate, University of Liverpool"	"Institute of Integrative Biology"
+Study Person Roles	"Responsible Scientist"	"Principal Investigator"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"BTO"	"MS"	"NCIT"	"UO"	"CHMO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"22"	"2"	"22"	"86"	"44"	"42"	"5"	"146"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Units of Measurement Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS432"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/maria/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS432"
+Study Title	"Stability in metabolic phenotypes and inferred metagenome profiles before the onset of colitis-induced inflammation."
+Study Description	"Inflammatory bowel disease (IBD) is associated with altered microbiota composition and metabolism, but it is unclear whether these changes precede inflammation or are the result of it since current studies have mainly focused on changes after the onset of disease. We previously showed differences in mucus gut microbiota composition preceded colitis-induced inflammation and stool microbial differences only became apparent at colitis onset. In the present study, we aimed to investigate whether microbial dysbiosis was associated with differences in both predicted microbial gene content and endogenous metabolite profiles. We examined the functional potential of mucus and stool microbial communities in the mdr1a -/- mouse model of colitis and littermate controls using PICRUSt on 16S rRNA sequencing data. Our findings indicate that despite changes in microbial composition, microbial functional pathways were stable before and during the development of mucosal inflammation. LC-MS-based metabolic phenotyping (metabotyping) in urine samples confirmed that metabolite profiles in mdr1a -/- mice were remarkably unaffected by development of intestinal inflammation and there were no differences in previously published metabolic markers of IBD. Metabolic profiles did, however, discriminate the colitis-prone mdr1a -/- genotype from controls. Our results indicate resilience of the metabolic network irrespective of inflammation. Importantly as metabolites differentiated genotype, genotype-differentiating metabolites could potentially predict IBD risk."
+Study Submission Date	"2017-02-20"
+Study Public Release Date	"2017-07-14"
+Study File Name	"s_mtbls432.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"inflammatory bowel disease"	"microbiome"	"ultra-performance liquid chromatography-mass spectrometry"	"gastrointestinal system"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0003767"	"http://www.ebi.ac.uk/efo/EFO_0004982"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/UBERON_0005409"	""
+Study Design Type Term Source REF	"EFO"	"EFO"	"CHMO"	"EFO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28821731"
+Study Publication DOI	"10.1038/s41598-017-08732-1"
+Study Publication Author List	"Glymenaki M, Barnes A, Hagan SO, Warhurst G, McBain AJ, Wilson ID, Kell DB, Else KJ, Cruickshank SM."
+Study Publication Title	"Stability in metabolic phenotypes and inferred metagenome profiles before the onset of colitis-induced inflammation."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"genotype"	"age"	"inflammation"
+Study Factor Type	"genotype"	"age"	"colitis score"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0000246"	""
+Study Factor Type Term Source REF	"EFO"	"EFO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_high_NEG_mass_spectrometry.txt"	"a_high_POS_mass_spectrometry.txt"	"a_low_NEG_mass_spectrometry.txt"	"a_low_POS_mass_spectrometry.txt"	"a_MSMS_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LCMS-IT-TOF (Shimadzu)"	"LCMS-IT-TOF (Shimadzu)"	"LCMS-IT-TOF (Shimadzu)"	"LCMS-IT-TOF (Shimadzu)"	"LCMS-IT-TOF (Shimadzu)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Mdr1a-/- mice (FVB.129P2-Abcb1atm1Bor N7)[1] and control FVB mice (Taconic Farms, NY, USA) were crossbred to generate F1 heterozygotes, which in turn were crossbred to generate F2 littermate controls. Mice were given autoclaved standard chow and sterile acidified water (pH=3.2) ad libitum. Mdr1a-/- and wild-type (WT) control males were maintained under co-housing conditions to ensure shared microbiota. All animals were kept under specific, pathogen-free (SPF) conditions at the University of Manchester and experiments were performed according to the regulations issued by the Home Office under amended ASPA, 2012.
+</p> 
+Urine samples were collected from mice at designated time points in clean autoclaved cages or by injection in the bladder during culling and stored at -80 °C (n=18 WT 6 weeks, n=18 mdr1a-/- 6 weeks, n=17 WT 18 weeks, n=12 mdr1a-/- 18 weeks).
+</p>
+Ref:</br>
+[1] Schinkel, A.H., Smit, J.J., van Tellingen, O., Beijnen, J.H., Wagenaar, E., van Deemter, L., Mol, C.A., van der Valk, M.A., Robanus-Maandag, E.C., te Riele, H.P., and et al. (1994). Disruption of the mouse mdr1a P-glycoprotein gene leads to a deficiency in the blood-brain barrier and to increased sensitivity to drugs. Cell 77, 491-502. PMID:7910522</br>"	"Urine preparation was performed according to a previously published method[1]. In brief, samples were thawed at room temperature and centrifuged at 10,000 x g for 5 min. Then, 10 µl urine was diluted with 40 µl water (or by 1:4 v:v in samples of less than 10 µl). 5 µl of each diluted sample was injected onto the analytical column. Quality control (QC) samples were prepared by pooling aliquots of 10 µl of each sample[2].
+</p>
+Ref:</br>
+[1] Wang, Q., Garrity, G.M., Tiedje, J.M., and Cole, J.R. (2007). Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Applied and environmental microbiology 73, 5261-5267. doi:10.1128/AEM.00062-07. PMID:17586664</br>
+[2] Gika, H.G., Theodoridis, G.A., Wingate, J.E., and Wilson, I.D. (2007). Within-day reproducibility of an HPLC-MS-based method for metabonomic analysis: application to human urine. Journal of proteome research 6, 3291-3303. doi:10.1021/pr070183p. PMID:17625818</br>"	"For analysis 5 µl aliquots of each sample (maintained at 4 °C in the autosampler) were injected for separation by reversed-phase Ultra high performance liquid chromatography-mass spectrometry (UHPLC), using gradient elution, with a Nexera LC system (Shimadzu Corporation, Kyoto, Japan) on to the analytical column, Acquity HSS T3 1.8 µm C18 (100 x 2.1 mm) at a flow rate of 0.4 ml/min, with the column maintained at 40 °C. The chromatographic system used a binary solvent system according to a previously published method[1], delivered as a gradient of solvent A (water containing 0.1% formic acid) and solvent B (acetonitrile containing 0.1% formic acid). The gradient conditions were: 2% B (2 min), to 35% B (12 min), to 100% (18 min) held to 23.5 min, re-equilibration time was 5 min. 
+</p>
+Ref:</br>
+[1] Andersen, M.-B.S., Reinbach, H.C., Rinnan, Å., Barri, T., Mithril, C., and Dragsted, L.O. (2013). Discovery of exposure markers in urine for Brassica-containing meals served with different protein sources by UPLC-qTOF-MS untargeted metabolomics. Metabolomics : Official journal of the Metabolomic Society 9, 984-997. doi: 10.1007/s11306-013-0522-0</br>"	"Samples were analysed by LC-MS using a quadrupole ion-trap time-of-flight mass spectrometer (LCMS-IT-TOF, Shimadzu Corporation, Kyoto, Japan) equipped with an electrospray source in both positive and negative ionisation mode (polarity switching time of 100 ms). The mass range measured was m/z 60-1250 in MS mode. Sample data acquisition was performed in four acquisition events to provide optimum sensitivity in the lower mass range whilst not saturating in the higher mass range: positive mode m/z 60-200, positive mode m/z 140-1250, negative mode m/z 60-200, negative mode m/z 140-1250. Mass calibration was carried out using a trifluoroacetic acid sodium solution (2.5 mmol/l) from 50 to 1000 Da. Other instrument parameters included: ion source temperature of 250 °C, heated capillary temperature of 230 °C, electrospray voltage of 4.5 kV, electrospray nebulization gas flow was 1.5 l/min, detector voltage 1.7 kV. Data acquisition and processing used software LCMS Solution (version 3.8, Shimadzu Corporation, Kyoto, Japan)."	"Profiling Solution software (version 1.1, Shimadzu Corporation, Kyoto, Japan) was used to create an aligned data array of retention time, m/z and intensity data for both positive and negative ion data as previously described[1]. Data were combined into a single data array containing 3129 ions in which no data point was excluded. Profiling Solution software generated an aligned data array of both positive and negative ion MS data, which was subsequently exported to SIMCA-P (version 14, Umetrics, MKS Instruments Inc., Sweden) for principal components analysis (PCA). Following noise reduction thresholding, a data array was processed using SIMCA-P and scaled to unit variance (the base weight is computed as 1/sdj, with sdj is the standard deviation of variable j computed around the mean). No variable was excluded in this analysis. Metabolite features were statistically tested for their quantitative significance by considering the reproducibility of the ion signal in the pooled QC sample. Profiling Solution processing parameters included: 15 mDa ion bin m/z tolerance, 0.2 min ion bin RT tolerance, noise threshold 100000. Pooled QA/QC parameters: 80% ions required from all QC samples, better than 30% relative standard deviation (RSD) peak area precision, better than 5% RSD retention time precision. 
+</p>
+Ref:</br>
+[1] Loftus, N., Barnes, A., Ashton, S., Michopoulos, F., Theodoridis, G., Wilson, I., Ji, C., and Kaplowitz, N. (2011). Metabonomic Investigation of Liver Profiles of Nonpolar Metabolites Obtained from Alcohol-Dosed Rats and Mice Using High Mass Accuracy MSn Analysis. Journal of Proteome Research 10, 705-713. doi:10.1021/pr100885w. PMID:21028815</br>"	"To identify biologically significant components, high mass accuracy MS and MSn fragment ion information was used to determine the most likely candidate formula (mass accuracy of LCMS-IT-TOF typically better than 5 ppm). Authentic chemical standards were also purchased for confirmation of metabolite identity. Endogenous creatine and histidine were used as internal standard compounds for data normalisation. Data acquisition and processing used software LCMS Solution (version 3.8). Analysis of pooled QC data of known endogenous metabolites showed acceptable precision with better than 30% RSD (peak area ratio) for most of the known candidate marker metabolites specifically targeted for examination, with the exception of leucine and isoleucine that are challenging to separate by reversed-phase chromatography."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Glymenaki"	"Sheena"
+Study Person First Name	"Maria"	"Cruickshank"
+Study Person Mid Initials	""	"M"
+Study Person Email	"mariagly@gmail.com"	"Sheena.Cruickshank@manchester.ac.uk"
+Study Person Phone	"+44161306421"	""
+Study Person Fax	""	""
+Study Person Address	"Av Hill Building, Oxford Road, Manchester, M13 9PT"	"R4.004 AV Hill Building
+University of Manchester
+Oxford Rd
+Manchester M139PT"
+Study Person Affiliation	"Faculty of Biology, Medicine and Health, University of Manchester"	"Faculty of Medicine, Biology and Health, University of Manchester"
+Study Person Roles	""	""
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

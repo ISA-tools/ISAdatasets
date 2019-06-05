@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"NCIT"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"18"	"6"	"146"	"129"	"44"	"22"	"29"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS674"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS674"
+Study Title	"Biochemical Profiling of the Brain and Blood Metabolome in a Mouse Model of Prodromal Parkinson’s Disease Reveals Distinct Metabolic Profiles (MS assays)"
+Study Description	"Parkinson’s disease is the second most common neurodegenerative disease. In the vast majority of cases the origin is not genetic and the cause is not well understood, although progressive accumulation of α-synuclein aggregates appears central to the pathogenesis. Currently, treatments that slow disease progression are lacking, and there are no robust biomarkers that can facilitate the development of such treatments or act as aids in early diagnosis. Therefore, we have defined metabolomic changes in the brain and serum in an animal model of prodromal Parkinson’s disease. We biochemically profiled the brain tissue and serum in a mouse model with progressive synucleinopathy propagation in the brain triggered by unilateral injection of preformed α-synuclein fibrils in the olfactory bulb. In total, we accurately identified and quantified 71 metabolites in the brain and 182 in serum using 1H NMR and targeted mass spectrometry, respectively. Using multivariate analysis, we accurately identified which metabolites explain the most variation between cases and controls. Using pathway enrichment analysis, we highlight significantly perturbed biochemical pathways in the brain and correlate these with the progression of the disease. Furthermore, we identified the top six discriminatory metabolites and were able to develop a model capable of identifying animals with the pathology from healthy controls with high accuracy (AUC (95% CI) = 0.861 (0.755–0.968)). Our study highlights the utility of metabolomics in identifying elements of Parkinson’s disease pathogenesis and for the development of early diagnostic biomarkers of the disease. </br></br> MS assays are reported in the current study MTBLS674 </br> NMR assay is reported in MTBLS640. </br><br/> Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS640' target='_blank'><span class='label label-success'>MTBLS640</span></a>"
+Study Submission Date	"2018-05-04"
+Study Public Release Date	"2018-05-11"
+Study File Name	"s_mtbls674.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"targeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"biomarker"	"Parkinson's disease"	"flow injection analysis mass spectrometry"	"tandem mass spectrometry"	"BiocrateIDQ p180 kit"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_59163"	"http://www.ebi.ac.uk/efo/EFO_0002508"	""	""	""
+Study Design Type Term Source REF	""	"CHMO"	"EFO"	"EFO"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29762036"
+Study Publication DOI	"10.1021/acs.jproteome.8b00224"
+Study Publication Author List	"Graham SF, Rey NL, Yilmaz A, Kumar P, Madaj Z, Maddens M, Bahado-Singh RO, Becker K, Schulz E, Meyerdirk LK, Steiner JA, Ma J, Brundin P."
+Study Publication Title	"Biochemical Profiling of the Brain and Blood Metabolome in a Mouse Model of Prodromal Parkinson's Disease Reveals Distinct Metabolic Profiles."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Stereotactic Injection"
+Study Factor Type	"Stereotactic Injection"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93194"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls674_UPLC_mass_spectrometry.txt"	"a_mtbls674_DI_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"C57Bl/6J mice from Jackson Laboratory were housed four to five per cage under regular 12 h light/12 h dark cycle. Mice had access to food and water ad libitum.
+</p>
+Recombinant alpha-syn purification and fibril assembly were based on a previously published protocol[1]. In brief, human alpha-syn was expressed in BL21 E. coli, pelleted, and lysed by sonication. The lysates were boiled for 10 min and centrifuged. The supernatant was dialyzed overnight in 10 mM Tris, pH 7.5, 50 mM NaCl, and 1 mM EDTA and then subjected to chromatographic separation by a Superdex 200 Column (GE Healthcare Life Sciences) and a Hi-trap Q HP anion exchange column (GE Healthcare Life Sciences). Fractions containing alpha-syn were identified by SDS-PAGE and Coomassie staining before a final dialysis into PBS buffer (Life Sciences). The concentration of purified recombinant alpha-syn was determined using a NanoDrop 2000 (Thermo Fisher) and concentrated if needed. Aliquots were stored at −80 °C until use. For amyloid fibril assembly, purified recombinant alpha-syn was thawed and diluted to 5 mg/ml in PBS. An aliquot of protein was subject to continuous shaking at 1000 rpm at 37 °C in a Thermomixer (Eppendorf) for 7 days. Fibrils were aliquoted and frozen at −80 °C until use.
+</p>
+Before injection, human alpha-syn fibrils (PFFs, 5 μg/μl) were thawed at RT and sonicated at RT in a water bath sonicator (Misonix XL2020 sonicator with cup horn; 50% power, 60 pulses of 1 s ON, 1 s OFF). Human alpha-syn monomers (huMonomers) were thawed at RT and spun down at 100,000 x g for 30 min. The supernatant was collected and used for injections. We performed stereotactic unilateral injection of PFFs (n = 20) or huMonomers (n = 20) (0.8 μl, 5 μg/μl) in the OB of 2 month old wild-type mice, as previously described[2][3]. 2 mice injected with huMonomers were euthanized after developing severe dermatitis, unrelated to the surgical procedure.
+</p>
+3 months postinjection, mice were deeply anesthetized with sodium pentobarbital. We collected blood at final bleed by cardiac puncture, and the brain was then freshly dissected. The cerebellum was cut out, and the forebrain was sectioned at the midline. The left (contralateral to the injection) and right (ipsilateral to the injection) hemispheres including the olfactory bulbs were collected separately and frozen immediately on dry ice and stored at −80 °C. The blood was collected in BD red top vacutainer tubes for serum collection and kept at RT for 20–30 min to allow blood clot formation. Tubes were then centrifuged at 4500 x g for 10 min at 15 °C. The serum was collected and transferred to precooled vials, vortexed, aliquoted, and frozen on crushed dry ice. Samples were then stored at −80 °C.
+</p>
+Ref:</br>
+[1] Volpicelli-Daley LA, Luk KC, Lee VM. Addition of exogenous alpha-synuclein preformed fibrils to primary neuronal cultures to seed recruitment of endogenous alpha-synuclein to Lewy body and Lewy neurite-like aggregates. Nat Protoc. 2014 Sep;9(9):2135-46. doi:10.1038/nprot.2014.143. PMID:25122523</br>
+[2] Rey NL, Steiner JA, Maroof N, Luk KC, Madaj Z, Trojanowski JQ, Lee VM, Brundin P. Widespread transneuronal propagation of alpha-synucleinopathy triggered in olfactory bulb mimics prodromal Parkinson's disease. J Exp Med. 2016 Aug 22;213(9):1759-78. doi:10.1084/jem.20160368. PMID:27503075</br>
+[3] Rey NL, Petit GH, Bousset L, Melki R, Brundin P. Transfer of human alpha-synuclein from the olfactory bulb to interconnected brain regions in mice. Acta Neuropathol. 2013 Oct;126(4):555-73. doi:10.1007/s00401-013-1160-3. PMID:23925565</br>"	"No extraction was carried out with the serum samples."	"All targeted quantitative metabolomics analysis of the serum was performed by combining direct injection (DI) mass spectrometry with a commercially available reverse-phase LC–MS/MS kit (BiocrateIDQ p180; Biocrates Life Sciences, Innsbruck, Austria), as previously reported by our group[1]. All sample preparatory steps were completed as detailed by the manufacturer in the AbsoluteIDQ manual. In brief, separation of amino acids and biogenic amines was performed using a Waters Acquity I-Class ultrapressure liquid chromatography (UPLC) system (Milford, MA) with a Waters Acquity 2.1 mm x 50 mm 1.7 μm BEH C18 column using a reverse phase column (Waters ACQUITY UPLC BEH C18 2.1 x 50 mm, 1.7 μm; Wexford, Ireland) coupled to a triple quadrupole mass spectrometer (Xevo TQ-S, Waters Corporation).
+</p>
+Ref:</br>
+[1] Bahado-Singh, R. O.; Graham, S. F.; Han, B.; Turkoglu, O.; Ziadeh, J.; Mandal, R.; Er, A.; Wishart, D. S.; Stahel, P. L. Serum metabolomic markers for traumatic brain injury: a mouse model. Metabolomics 2016, 12 6), 100. doi:10.1007/s11306-016-1044-3</br>"	"All mass spectra were quantified using a triple quadrupole mass spectrometer (Xevo TQ-S, Waters Corporation), with electrospray ionization in positive mode, operating in the Multiple Reaction Monitoring (MRM) mode. All remaining compounds (acylcarnitines, hexoses, glycerophospholipids, and sphingolipids) were quantified using the same mass spectrometer using flow injection analysis (FIA), operating in MRM mode."	"All data analysis was completed using the Biocrates MetIDQ software."	"Metabolites were identified using the Biocrates MetIDQ software."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Graham"	"Rey"	"Yilmaz"	"Kumar"	"Madaj"	"Maddens"	"Bahado-Singh"	"Becker"	"Schulz"	"Meyerdirk"	"Steiner"	"Ma"	"Brundin"
+Study Person First Name	"Stewart F"	"Nolwen L"	"Ali"	"Praveen"	"Zachary"	"Michael"	"Ray O"	"Katelyn"	"Emily"	"Lindsay K"	"Jennifer A"	"Jiyan"	"Patrik"
+Study Person Mid Initials	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Email	"stewart.graham@beaumont.edu"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Phone	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	"Beaumont Health , 3811 West 13 Mile Road , Royal Oak , Michigan 48073 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Beaumont Health , 3811 West 13 Mile Road , Royal Oak , Michigan 48073 , United States."	"Beaumont Health , 3811 West 13 Mile Road , Royal Oak , Michigan 48073 , United States."	"Bioinformatics and Biostatistics Core , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Beaumont Health , 3811 West 13 Mile Road , Royal Oak , Michigan 48073 , United States."	"Beaumont Health , 3811 West 13 Mile Road , Royal Oak , Michigan 48073 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."	"Center for Neurodegenerative Science , Van Andel Research Institute , Grand Rapids , Michigan 49503 , United States."
+Study Person Roles	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"	"Author"
+Study Person Roles Term Accession Number	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"	"http://purl.obolibrary.org/obo/NCIT_C42781"
+Study Person Roles Term Source REF	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"

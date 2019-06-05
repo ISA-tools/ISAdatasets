@@ -1,0 +1,2 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"	"Factor Value[tissue type]"	"Term Source REF"	"Term Accession Number"
+"1"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"brain"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000142"	"Sample collection"	"test_POS"	"cerebellum"	"BTO"	"http://purl.obolibrary.org/obo/BTO_0000232"

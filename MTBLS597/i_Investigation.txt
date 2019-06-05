@@ -1,0 +1,134 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCIT"	"ERO"	"BAO"	"NCBITAXON"	"EFO"	"CHMO"	"OBI"	"CHEBI"	"MS"	"UO"	"LBO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/ERO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/LBO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"28"	"14"	"26"	"6"	"113"	"5"	"22"	"99"	"86"	"43"	"2"	"29"	
+Term Source Description	"National Cancer Institute Thesaurus"	"Eagle-I Research Resource Ontology"	"BioAssay Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"Units of Measurement Ontology"	"Livestock Breed Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS597"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"HR-Image-MS_Config"
+Comment[Last Opened With Configuration]	"HR-Image-MS_Config"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS597"
+Study Title	"Automated, Parallel Mass Spectrometry Imaging and Structural Identification of Lipids"
+Study Description	"We report a method that enables automated data-dependent acquisition of lipid tandem mass spectrometry data in parallel with a high-resolution mass spectrometry imaging experiment. The method does not increase the total image acquisition time and is combined with automatic structural assignment. This lipidome-per-pixel approach automatically identified and validated 104 unique molecular lipids and their spatial locations from rat cerebellar tissue."
+Study Submission Date	"2018-01-10"
+Study Public Release Date	"2018-05-21"
+Study File Name	"s_MALDI-MSI lipids.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"matrix-assisted laser desorption ionization"	"brain"	"intestine"	"imaging mass spectrometry"	"tandem mass spectrometry"	"targeted metabolites"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/MS_1000075"	"http://purl.obolibrary.org/obo/UBERON_0000955"	"http://purl.obolibrary.org/obo/BTO_0000648"	"http://purl.obolibrary.org/obo/CHMO_0000053"	"http://purl.obolibrary.org/obo/CHMO_0000575"	""	""
+Study Design Type Term Source REF	"MS"	"EFO"	"BTO"	"CHMO"	"CHMO"	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1038/s41592-018-0010-6"
+Study Publication Author List	"Shane R. Ellis, Martin R. L. Paine, Gert B. Eijkel, Peter Husen, Martin Hermansson, Christer S. Ejsing and Ron M. A. Heeren"
+Study Publication Title	"Automated, Parallel Mass Spectrometry Imaging and Structural Identification of Lipids"
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"replicates"
+Study Factor Type	"Replicate"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28038"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls597_neg_msi_wistar.txt"	"a_mtbls597_pos_msi_wistar.txt"	"a_mtbls597_msms_standards.txt"	"a_mtbls597_neg_msms_wistar.txt"	"a_mtbls597_pos_msms_wistar.txt"	"a_mtbls597_neg_msi_minipig.txt"	"a_mtbls597_pos_msi_minipig.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	""	""	""	""	""	""	""
+Study Assay Technology Type Term Source REF	""	""	""	""	""	""	""
+Study Assay Technology Platform	""	""	""	""	""	""	""
+STUDY PROTOCOLS
+Study Protocol Name	"Sample Collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample Collection"	"Preparation"	"Mass spectrometry"	"Histology"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Wistar rats</br>
+All animals (7 week old Wistar rats) used in this study were maintained in the animal facility at Maastricht University and used in accordance with protocols approved by the Animal Care and Use Committee under Animal Experiment Committee (DEC) number 2016-006 AVD107002016720. Animals were housed in ventilated cages with males and females kept separate, two animals per cage (social housing) and unlimited access to chow and water. Rats were sacrificed at 7 weeks of age under general anesthesia (isoflurane). For MALDI imaging experiments, the whole brain from a rat was removed immediately after it was sacrificed, snap-frozen in liquid nitrogen, and stored at -80 °C until sectioned.</br></br>
+Gottingen minipig</br>
+Mini pig tissue was used in accordance with protocols approved by the Animal Ethics Committee and the Animal Welfare Committee, acting under the Janssen Pharmaceutica N.V. license from the Flemish Authorities-Department Life Environment, Nature & Energy, Animal Welfare services, to perform animal experiments (license number LA1100119). Mini pig (Gottingen minipig (Ellegaard, Denmark)) was sacrificed at 18 months of age under anesthesia (mixture of Zoletil®, xylazine, buthorphanol and ketamine), the intestine removed, flushed with saline, frozen on dry ice and stored at -80 °C until sectioning and analysis. "	"Wistar rats</br>
+Transverse rat brain sections (10 µm thick) approximately 4.5 mm below the bregma point were obtained using a cryo-microtome at -20 °C and thaw-mounted onto indium tin oxide (ITO)-coated glass slides (Delta Technologies, Loveland, CO, USA).</br></br>
+Gottingen minipig</br>
+Intestine tissue was sectioned (12 µm thick) and thaw-mounted onto indium tin oxide (ITO)-coated glass slides.</br></br> 
+
+For both tissue types for positive- and negative- ion lipid imaging, norharmane matrix (7 mg/ml) in CHCl3:MeOH (7:3 v/v) was applied to the tissue using a TM-Sprayer (HTX Technologies, USA). Spray conditions were as follows: flow rate 0.12 ml/min, N2 pressure 10 psi, N2 temperature 30 °C, spray-head velocity 1200 mm/min, track spacing 3 mm, number of layers 15, drying time between layers 30 s.</br></br>"	"MSI</br>
+All MSI experiments were performed using an LTQ Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Bremen, Germany) equipped with a reduced-pressure MALDI ion source incorporating a dual-ion funnel interface (Spectroglyph LLC, Kennewick, WA, USA) as recently described [1]. For MALDI-MSI, the system was equipped with a Q-switched frequency tripled Nd:YLF laser emitting 349-nm light (Explorer One, Spectra Physics, Mountain View, CA, USA). The laser was operated at a repetition rate of 1 kHz and pulse energy of ~1.2 µJ as measured by the internal photodiode prior to any external optics. The laser was focused to a spot ~15 µm in diameter as measured by burn patterns in deposited matrix. The sample region and the entrance to the high pressure ion funnel were maintained at a pressure of 10.0 mbar while the exit of the second, low-pressure ion funnel was maintained at 2.0 mbar. Radiofrequency voltages of 620 kHz, 125 V0-peak and 990 kHz, 80 V0-peak were applied to the high- and low-pressure ion funnels, respectively. Extraction of MALDI-generated ions from the slide into the ion funnels was accomplished by an electric field gradient of ~100 V/cm between the sample holder and the first ion funnel electrode. MALDI stage motion was synchronised with ion accumulation using the LTQ trigger signal indicating commencement of the ion trap injection event. In this way, synchronisation with any MSn event is possible. This trigger signal is accessed via pin 14 of the LTQ J1 connector and is activated by setting the “injection period” value to 0 in the Tune Plus software (Diagnostics→Triggers→Injection Period→0).
+The mass spectrometer was operated using an ion injection time of 250 ms and automatic gain control turned off. FTMS mass resolution was set to the maximum value of 240,000 (FWHM @ m/z 400) while the linear ion trap was operated at the “normal” scan speed. All IT-MS/MS spectra were acquired in parallel to the 768 ms Orbitrap transient using collision-induced dissociation with a normalised collision energy of 30 and 40 for the positive- and negative-ion mode, respectively. As performing MS/MS in a linear ion trap results in an inability to trap fragments below a certain m/z value relative to the selected precursor ion, certain diagnostic fragments may not be observed (the so-called low-mass cutoff). The lowest m/z fragment that can be detected upon mass selection and resonant activation is dependent on the qz value of the ion which in turn is dependent on the voltages applied to the electrodes, the mass and charge of the ion and the geometry of the ion trap. Under typical operating conditions with a qz value of 0.25 for the ion to be fragmented, fragment ions having m/z values approximately less than one third that of the precursor have unstable trajectories and are thus not detected. Practically for lipids this means the diagnostic m/z 184 ion characteristic of phosphatidylcholine and sphingomyelin lipids is often not observed. To overcome this limitation in positive-ion mode the activation qz was lowered from the default value of 0.25 to 0.17 in the Tune Plus software to enable detection of the m/z 184 fragment ion.</br> 
+For all MSI experiments, a stage step size of 20 µm (horizontal) × 40 µm (vertical) was used. Parallel full-scan FTMS (Orbitrap) and IT-MS/MS (ion trap) scans at adjacent 20-µm positions were accomplished using an instrument method consisting of two repeating scan events. The first was a 240,000 resolution FTMS scan from m/z 180–2000. The second was DDA IT-MS/MS, key details of which are summarised in Table 1 of the associated paper [2]. In this way, one full scan FTMS and one IT-MS/MS scan were acquired from each 40 × 40 µm sampling region, which is also the pixel size of the MSI data. Both full-scan FTMS and DDA-IT-MS/MS scans were completed at the same time, a key synchronization component of this method. As a result, IT-MS/MS acquisition did not add any extra time to data acquisitions. To compare IT-MS/MS sensitivity between FTMS analysis and ion trap fragment detection, one cerebellum section was analysed using identical conditions with the exception that product ions were sequentially analysed in the Orbitrap with a nominal mass resolution of 240,000 (FWHM at m/z 400).</br></br>
+
+
+MS/MS</br>
+Validation of molecular lipid species identified using IT-MS/MS with high mass resolution FT-MS/MS</br>
+To validate molecular lipid assignments based on IT-MS/MS data, high resolution MS/MS data was acquired under identical ion activation conditions. To accumulate high numbers of precursor ions for sensitive detection of fragments, a 5000-ms ion injection time was used while the sample stage was continuously moved across the cerebellum at 1 mm/s. Each m/z value that was assigned to a molecular lipid species (Supplementary Table 1 [2]) was analyzed by this approach. Data was collected for each precursor for 5 min (negative-ion mode) and 4 min (positive-ion mode), resulting in 20 and ~25 respective scans collected, when accounting for stage flyback time (also fixed at 1 mm/s). To validate molecular lipid identifications, only fragments resulting from the direct neutral loss of FA chains from the [M+H]+ or [M-H]- precursors were considered as only these can be unambiguously assigned to individual precursors using the high mass resolution and accuracy (all molecular lipid species identifications in positive mode utilized the [M+H]+ ions). This ability to assign individual fragment ions to specific precursors arises as isobaric fragments ions are readily resolved (e.g. a 16:0 neutral loss arising from two isobaric precursors) and this enables one to confidently attribute a particular FA neutral loss to a specific and accurate m/z value. It thus provides unambiguous confirmation that a certain FA is present in a given precursor lipid from which it is generated. For each FA chain (excluding ether-linked chains), two fragments are possible corresponding to its loss as a either neutral fatty acid (FA(+HO)) and ketene (FA(-H)). An identification was validated only when all fragments were observed within ±2 ppm of the theoretical fragment mass and at least two of the possible four fragments with a signal-to-noise ratio greater than 3 were detected. Signal and noise values were taken directly from the Thermo Xcalibur Qual Browser while fragment m/z values were manually collected from the online ALEX123 library (http://alex123.info/ALEX123/MS2.php). Some exceptions to this process were as follows:</br>
+1. For phosphatidylserine (PS) lipids that did not produce the fragments described above, the class identifying fragment resulting from loss of the serine headgroup (-87 Da) and the sequential loss of the headgroup and FAs as either a neutral acid or ketene were used. PS lipids were thus validated following detection of the -87 Da fragment ions and two or more fragments resulting from sequential losses of 87 Da and FA chains. As above, all validating fragments were within ±2 ppm of their calculated m/z value.</br>
+2. For lyso phosphatidylethanolamine (LPE), lyso phosphatidylcholine (LPC), lyso phosphatidylinositol (LPI) and lyso phosphatidic acid (LPA) only the neutral loss of the single FA as a ketene was observed, and this was used as the validating fragment when within ±2 ppm of the calculated fragment m/z value.</br>
+3. For sulfatides, only one molecular lipid fragment is utilized in ALEX123, which is indicative of the N-FA chain. This fragment was used for validation when detected within ±2 ppm of the calculated fragment m/z value. Detection of this fragment then enabled the nature of the sphinganine/sphingosine moiety to be inferred.</br>
+4. For PE ethers (PE O-), due to the ambiguity arising when using fatty acyl neutral losses in negative-ion mode, only characteristic fragments from the [M+H]+ ions were used for validation (see Table 2 [2] for list of adduct ions used for full-scan FTMS and IT-MS/MS confirmation).</br></br>
+
+Note, for MS/MS files titled 'CID_MSMS_Validation', up to 10 different MSMS spectra are present in each raw data file, further information relating to this can be found in the study file section of this study; MSMSlist.xlsx .</br></br>
+
+Validation of lipids identified using IT-MS/MS of synthetic standards</br>
+Various lipid identifications were also validated by comparing fragmentation spectra obtained from DDA-imaging experiments to those of synthetic standards corresponding to ALEX123-identified lipids. This validation was performed for representative lipid species from six different lipid classes, namely PI16:0/16:0, PA16:0/18:1, PG16:0/18:1, PS16:0/18:1, PE16:0/18:1 and PC16:0/18:1. Lipid standards (purchased as chloroform solutions; Avanti Polar Lipids (Alabaster, AL, USA)) were first diluted to 100 µM solutions in 2:1 CHCl3:MeOH (v/v). An aliquot of 10 µl of each standard solution was further diluted in 990 µl of matrix solution (7 mg/ml norharmane in 2:1 CHCl3:MeOH (v/v)) to give a final lipid concentrations of 1 µM. This process was repeated separately for each standard. Each lipid:matrix solution (1 µl) was then pipetted onto a blank ITO glass slide and analyzed by IT-MS/MS under the same fragmentation conditions used for DDA-imaging experiments (Table 1 [2]). IT-MS/MS data were acquired for 1 min from each standard and the average spectrum used for analysis. For PC, the corresponding [M+H]+ ions were chosen because they provide the MLFs used by ALEX123, whereas the [M-H]- ions were used for all other lipids. These data along with the corresponding IT-MS-MS data taken from each DDA-imaging replicate are provided in Supplementary Figure 7 [2]. The strong similarity between fragments generated from synthetic standards and those detected and used to make structural assignments validates both the assignments and the ALEX123 workflow. Small differences in peak ratios and the presence of additional peaks in the DDA-imaging data are due to the co-isolation and fragmentation of isobaric and isomeric ions. Importantly, isobaric ions were resolved during the full-scan FTMS analysis.</br></br>
+
+Ref:</br>
+[1] Belov ME, Ellis SR, Dilillo M, Paine MRL, Danielson WF, Anderson GA, de Graaf EL, Eijkel GB, Heeren RMA, McDonnell LA. Design and Performance of a Novel Interface for Combined Matrix-Assisted Laser Desorption Ionization at Elevated Pressure and Electrospray Ionization with Orbitrap Mass Spectrometry. Anal. Chem., 2017; 89(14):7493–7501. doi:10.1021/acs.analchem.7b01168</br>
+[2] Ellis SR, Paine MRL, Eijkel GB, Husen P, Hermansson M, Ejsing CS. and Heeren RMA. Automated, Parallel Mass Spectrometry Imaging and Structural Identification of Lipids.
+"	"N/A
+"	"Image Reconstruction</br>
+Custom scripts written in MATLAB (Matlab; Mathworks, Natick, MA, USA; R2014a) was used to reconstruct MSI data from the full scan FTMS data. Thermo Fisher .raw data was first converted to profile mode mzXML format using RawConverter [1] (http://fields.scripps.edu/rawconv/). The mzXML file contains all scan header information identifying the scan type (full MS or MS/MS), scan number, mass analyser, and precursor ion mass for MS/MS scans. The DDA-imaging acquisition sequence results in every second scan being a full FTMS scan across each 40 × 40 µm2 area of tissue, which is used for image reconstruction. Using the positioning file created by the MALDI control software that relates stage positons to scan numbers [2], each full MS could then be correlated with its acquisition position on the sample. After position assignment, the mean spectrum produced after m/z binning in 1.5 mDa increments was used for peak picking using the PEAPI algorithm [3]. The resulting peak list was then applied to each individual scan to produce the MSI dataset. Individual m/z images were then visualized using a MATLAB GUI. All images were generated following total ion current normalization, as is commonplace for MSI data.</br></br>
+Ref:</br>
+[1] He L, Diedrich J, Chu Y-Y, Yates JR. Extracting Accurate Precursor Information for Tandem Mass Spectra by Rawconverter. Anal. Chem. 2015; 87: 11361-11367.</br> 
+[2] Belov ME, Ellis SR, Dilillo M, Paine MRL, Danielson WF, Anderson GA, de Graaf EL, Eijkel GB, Heeren RMA, McDonnell LA. Design and Performance of a Novel Interface for Combined Matrix-Assisted Laser Desorption Ionization at Elevated Pressure and Electrospray Ionization with Orbitrap Mass Spectrometry. Anal. Chem., 2017; 89(14):7493–7501. doi:10.1021/acs.analchem.7b01168</br> 
+[3] Eijkel GB, Kükrer Kaletaş B, van der Wiel IM, Kros JM, Luider TM, Heeren RMA. Correlating MALDI and SIMS Imaging Mass Spectrometric Datasets of Biological Tissue Surfaces. Surf. Interface Anal. 2009; 41: 675-685."	"Automated Lipid Identification</br>
+Lipid molecules and fragment ions detected by full-scan FTMS and IT-MS/MS analysis, respectively, were identified by the ALEX123 software using a curated lipid database with lipid precursor ion m/z values (relevant for full-scan FTMS) and structure-specific fragment ion m/z values (relevant for IT-MS/MS), as previously reported for shotgun lipidomics data16, [1]. The ALEX123 framework uses a curated fragmentation database (based on MS/MS of synthetic lipid standards and features information for more than 430,000 lipid molecules) for searching mass spectral data and a dedicated algorithm for identifying lipid molecules at high confidence [1]. The ALEX123 framework is available for download at http://mslipidomics.infosoftware together with an example dataset and a user guide. Prior to lipid identification, all individual scan filters from each MSI experiment were averaged and saved as text files. Lipid species detected by FTMS were identified using an m/z tolerance of ±2 ppm, a relative intensity threshold greater than 0.05% of the most intense lipid peak, corrected for potential 13C isotope interference25, and a frequency of three (equivalent to being detected in all three tissue replicates per each polarity). Lipid fragment ions detected by IT-MS/MS were identified using a m/z tolerance of ±0.2, an absolute intensity threshold of greater than 0.05, and a frequency of three (equivalent to being detected in all three tissue replicates per each polarity). For high-confidence identification of sum-composition-level lipid species (e.g., PC(34:1)) detected by FTMS, at least one confirmatory LCF (lipid class fragment) detected by IT-MS/MS was required (see Supplementary Table 2 [2] for list of lipid adduct ions used for identification). For high-confidence identification of molecular lipid species identified by MLFs, the following criteria were set: i) the asymmetric molecular lipid species must be detected by at least two complementary pairs of MLFs (except for protonated PE O- species that do not release abundant complementary MLFs); ii) the molecular lipid species must have an ALEX123 score greater than 0.5 (calculated as the number of detected MLFs relative to the total number of MLFs available in the ALEX123 database), or an ALEX123 score ≤0.5 but with detection of more than 2 MLFs (with the exception that protonated PE O- species could be detected by at least 2 MLFs); and iii)  confirmation by detection of sum-composition-level lipid species by FTMS (Table 2 [2]). We note that the molecular lipid species are annotated by molecular composition (e.g. PC16:0-18:1) where the positioning of FA moieties on the glycerol-phosphate backbone is undefined. This ALEX123 lipid identification routine, processing gigabyte mass spectral data files, required 15–20 min per proprietary .raw data file, using a computer running Microsoft Windows 7 Professional (64-bit) and having a 2.7 GHz dual core processor and 8 GB RAM.</br>
+Further information relating to the identified metabolites can be found in the study file section of this study; Metabolite identification.xlsx</br></br>
+Ref:</br>
+[1] Pauling JK, Hermansson M, Hartler J, Christiansen K, Gallego SF, Peng B, Ahrends R and Ejsing CS. Proposal for a common nomenclature for fragment ions in mass spectra of lipids. PLoS One. 2017 Nov 21;12(11):e0188394. doi: 10.1371/journal.pone.0188394.
+[2] Ellis SR, Paine MRL, Eijkel GB, Husen P, Hermansson M, Ejsing CS. and Heeren RMA. Automated, Parallel Mass Spectrometry Imaging and Structural Identification of Lipids."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Sample mounting;Sample preservation;Section thickness"	"Scan polarity;Scan m/z range;Instrument;Instrument manufacturer;Mass analyzer;Ion source"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	";;"	";;;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	";;"	";;;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ellis"
+Study Person First Name	"Shane "
+Study Person Mid Initials	"R"
+Study Person Email	"s.ellis@maastrichtuniversity.nl"
+Study Person Phone	"+31 43 388 4816"
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"The Maastricht Multimodal Molecular Imaging Institute (M4I), Division of Imaging Mass Spectrometry, Maastricht University, 6229 ER Maastricht, The Netherlands"
+Study Person Roles	"experimental concept, design and implementation"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

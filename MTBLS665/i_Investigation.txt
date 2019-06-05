@@ -1,0 +1,188 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BIRNLEX"	"NCBITAXON"	"CHMO"	"EFO"	"IDOMAL"	"MS"	"NCIT"	"OBI"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/IDOMAL"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"1"	"2"	"18"	"146"	"27"	"129"	"44"	"22"	"29"	
+Term Source Description	"Biomedical Informatics Research Network Project Lexicon"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Malaria Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS665"
+Investigation Title	"Malaria Host-Pathogen Interaction Center"
+Investigation Description	"The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary malaria systems biology research program initially supported by an NIH/NIAID contract (# HHSN272201200031C, 2012-2017; see http://www.systemsbiology.emory.edu). The MaHPIC continues with ongoing support from the Defense Advanced Research Project Agency (DARPA) and others. The MaHPIC generates many data types (e.g., clinical, hematological, parasitological, metabolomics, functional genomics, lipidomics, proteomics, immune response, telemetry) and mathematical models, to iteratively test and develop hypotheses related to the complex host-parasite dynamics in the course of malaria in non-human primates (NHPs), and metabolomics data via collaborations with investigators conducting clinical studies in malaria endemic countries, with the overarching goal of better understanding human disease, pathogenesis, and immunity. Curation and maintenance of all data and metadata are the responsibility of the MaHPIC."
+Investigation Submission Date	"9/30/2017"
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"Galinski"
+Investigation Person First Name	"Mary"
+Investigation Person Mid Initials	"R"
+Investigation Person Email	"mahpic@emory.edu"
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	"Emory University"
+Investigation Person Roles	"PI"
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+Comment[Investigation Person REF]	""
+STUDY
+Study Identifier	"MTBLS665"
+Study Title	"MaHPIC Experiment HuC - Metabolomics of plasma samples from human volunteers infected with Plasmodium vivax"
+Study Description	"<b>Project Description:</b><br/>The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary malaria systems biology research program initially supported by an NIH/NIAID contract (HHSN272201200031C, 2012-2017; see <a href='http://www.systemsbiology.emory.edu' target='_blank'>http://www.systemsbiology.emory.edu</a>). The MaHPIC continues with ongoing support from the Defense Advanced Research Project Agency (DARPA) and others. The MaHPIC generates many data types (<i>e.g.</i>, clinical, hematological, parasitological, metabolomics, functional genomics, lipidomics, proteomics, immune response, telemetry) and mathematical models, to iteratively test and develop hypotheses related to the complex host-parasite dynamics in the course of malaria in non-human primates (NHPs), and metabolomics data via collaborations with investigators conducting clinical studies in malaria endemic countries, with the overarching goal of better understanding human disease, pathogenesis, and immunity. Curation and maintenance of all data and metadata are the responsibility of the MaHPIC.<br/><br/><b>MaHPIC Experiment Description:</b><br/>Sixteen healthy volunteers, 7 malaria naïve and 9 semi-immune, aged 18-45 years, were enrolled in this study during October 2012 to November 2013. Malaria-naive volunteers were recruited in Cali, Colombia, a non-endemic city; those with previous malaria experience were recruited in Buenaventura, a malaria-endemic area on the Colombian Pacific Coast. The study was approved by Institutional Review Boards (IRB) of the Malaria Vaccine and Drug Development Center–MVDC (CECIV, Cali) and Centro Médico Imbanaco (Cali). All protocols and documentation were reviewed and samples shipments approved by the Emory IRB. Male and female patients were eligible for inclusion, which included two steps: 1) age between 15-60 years, hemoglobin levels > 9g/dL, presence of current <i>Plasmodium vivax</i> infection, absence of other <i>Plasmodium</i> species determined by thick blood smear and PCR, blood parasite count of 0.1% or more, absence of other acute or chronic diseases, being able to sign an informed consent form; 2) healthy 18 to 45 years old man or non-pregnant women, capacity to sign an informed consent in a free and voluntary way, acceptable understanding of the clinical trial through the approval of a questionnaire regarding the information given in the consent process, obligatory use of adequate contraceptive method from beginning of recruitment and screening time up to three months after last immunization, do not have chronic or acute diseases, accept not traveling to malaria endemic areas during the clinical trial, have telephone at home or mobile phone that permit permanent contact for follow up, being willing to participated during both steps of the clinical trial. Exclusion criteria included pregnancy, abnormal laboratory test values, hemoglobin pathology, glucose-6-phosphate dehydrogenase (G6PDH) deficiency, positive for blood bank infectious diseases (syphilis, HIV, Chagas disease, HTLV 1–2, and hepatitis B and hepatitis C), or have any condition that would increase the risk of an adverse outcome. Volunteers were infected with <i>P. vivax</i> via sporozoite challenge by exposing volunteers to bites of 2–4 mosquitoes (<i>Anopheles albimanus</i>) of the same infected batch. Plasma samples were collected at 4 time points: Baseline, 1 month pre-inoculation; Diagnosis; 3 weeks post-treatment; 4 months post-treatment. As soon as parasites were detected by thick blood smears, participants were treated orally with curative doses of chloroquine (1500 mg chloroquine provided in three doses: 600 mg initially then 450 mg doses at 24 and 48 hours) and primaquine (30 mg dose given once per day for 14 days). Clinical trial registration: NCT01585077. Samples were analyzed with liquid chromatography coupled to high resolution mass spectrometry (LC-HRMS), evaluated in a time course and between naïve and semi-immune volunteers. Within the MaHPIC, this project is known as ‘Experiment HuC’. Samples were obtained in collaboration with Socrates Herrera from the Malaria Vaccine and Drug Development Center, Colombia. Metabolomics results were produced by Dean Jones at Emory University. To access other publicly available results from HuC and other MaHPIC Experiments visit <a href='http://plasmodb.org/plasmo/mahpic.jsp' target='_blank'>http://plasmodb.org/plasmo/mahpic.jsp</a> . This page will be updated as datasets are released to the public.<br><br>The following contributed to the creation of this dataset: The MaHPIC Consortium, Jeremy D. DeBarry, Mary R. Galinski, Luiz G. Gardinassi, Socrates Herrera, Myriam Arévalo-Herrera, Dean P. Jones, Jessica C. Kissinger, Shuzhao Li, Regina Joice Cordy, Esmeralda VS Meyer, Mustafa V. Nural, Suman B. Pakala, ViLinh Tran, Karan Uppal<br><br> Linked Studies: <a href='/metabolights/search?freeTextQuery=MaHPIC' target='_blank'><span class='label label-success'>Malaria Host-Pathogen Interaction Center (MaHPIC)</span></a>"
+Study Submission Date	"2018-04-13"
+Study Public Release Date	"2018-06-02"
+Study File Name	"s_huc_samples.txt"
+Comment[Study Grant Number]	""
+Comment[Study Funding Agency]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Malaria"	"Anti-malarial treatment"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"NCIT"	""	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29698924"
+Study Publication DOI	"10.1016/j.redox.2018.04.011"
+Study Publication Author List	"Luiz G. Gardinassi, Myriam Arévalo-Herrera, Sócrates Herrera, Regina J. Cordy, ViLinh Tran, Matthew R. Smith, Michelle S. Johnson, Balu Chacko, Ken H. Liu, Victor M. Darley-Usmar, Young-Mi Go, MaHPIC Consortium, Dean P. Jones, Mary R. Galinski, Shuzhao Li"
+Study Publication Title	"Integrative metabolomics and transcriptomics signatures of clinical tolerance to Plasmodium vivax reveal activation of innate cell immunity and T cell signaling"
+Study Publication Status	"Accepted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Run order"	"Time Point"	"Batch run order"	"Previous Malaria Infection"
+Study Factor Type	"Run"	"timepoint"	"Batch"	"acquired immunity to malaria"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911"	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67073"	"http://purl.obolibrary.org/obo/IDOMAL_0000543"
+Study Factor Type Term Source REF	"NCIT"	"EFO"	"NCIT"	"IDOMAL"
+STUDY ASSAYS
+Study Assay File Name	"a_huc_c18neg.txt"	"a_huc_hilicpos.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Exactive (Thermo Scientific)"	"Exactive (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Subject Description: Sixteen healthy volunteers, 7 malaria naive and 9 semi-immune, aged 18-45 years, were enrolled in this study during October 2012 to November 2013. Malaria-naïve volunteers were recruited in Cali, Colombia, a non-endemic city; those with previous malaria experience were recruited in Buenaventura, a malaria-endemic area on the Colombian Pacific Coast.<br/>
+<br/>
+Subject Recruitment Criteria: Male and female patients were eligible for inclusion based on the following criteria;<br/>
+1) age between 15-60 years, hemoglobin levels > 9g/dL, presence of current <i>P. vivax</i> infection, absence of other <i>Plasmodium</i> species determined by thick blood smear and PCR, blood parasite count of 0.1% or more, absence of other acute or chronic diseases, being able to sign an informed consent form <br/>
+2) healthy 18 to 45 years old man or non-pregnant women,  capacity to sign an informed consent in a free and voluntary way, acceptable understanding of the clinical trial through the approval of a questionnaire regarding the information given in the consent process, obligatory use of adequate contraceptive method from beginning of recruitment and screening time up to three months after last immunization, do not have chronic or acute diseases, accept not traveling to malaria endemic areas during the clinical trial, have telephone at home or mobile phone that permit permanent contact for follow up, being willing to participated during both steps of the clinical trial.<br/>
+Exclusion criteria included pregnancy, abnormal laboratory test values, hemoglobin pathology, glucose-6-phosphate dehydrogenase (G6PDH) deficiency, positive for blood bank infectious diseases (syphilis, HIV, Chagas disease, HTLV 1–2, and hepatitis B and hepatitis C), or have any condition that would increase the risk of an adverse outcome. <br/>
+<br/>
+Subject Infection and Treatment: Volunteers were infected with <i>P. vivax</i> via sporozoite challenge by exposing volunteers to bites of 2–4 mosquitoes (<i>Anopheles albimanus</i>) of the same infected batch. Plasma samples were collected at 4 time points: Baseline, 1 month pre-inoculation; Diagnosis; 3 weeks post-treatment; 4 months post-treatment. As soon as parasites were detected by thick blood smears, participants were treated orally with curative doses of chloroquine (1500 mg chloroquine provided in three doses: 600 mg initially then 450 mg doses at 24 and 48 hours) and primaquine (30 mg dose given once per day for 14 days).<br/>
+See the attached README for more information"	"Materials:<br/>
+Q standard (Qstd): Pooled plasma from Equitech-Bio (Kerrville, TX);  from unknown number of males and females without demographic information<br/>
+NIST: Pooled plasma donated from NIST; from an equal number of healthy men and women aged 40-50 years old.<br/>
+<br/>
+Stable isotopes: [13C6]-D-glucose, [15N]-indole, [15N,13C5]-L-methionine, [2-15N]-L-lysine dihydrochloride, [13C5]-L-glutamic acid, [15N]-L-tyrosine, [15N2]-uracil, [3,3-13C2]-cystine, [trimethyl-13C3]-caffeine, [U-13C5, U-15N2]-L-glutamine<br/>
+<br/>
+Sample Preparation: Plasma/Serum<br/>
+<br/>
+C18 standards: Caffeine (1.5 min, 195.08), Diethyl-toluamide (6-6.6 min, 192.138)<br/>
+<br/>
+Anion Exchange standards: Cystine (1-1.5 min, 241.04 (+2)), Cysteine-glutathione disulfide/CySSG (2-4 min, 427.09), Carboxymethyl-cysteine/CM-cysteine (very low) (3.5-5 min, 180.03), Glutathione disulfide/GSSG (+1 and +2) (7-8 min, 613.15; 307.08),
+Carboxymethyl-glutathione/CM-GSH (7-8 min, 366.09)<br/>
+<br/>
+Acetonitrile HPLC 99.9% Sigma-Aldrich 34998-4L<br/>
+<br/>
+Method:<br/>
+1. Sample batches; All samples were randomized to prevent batch degradation in one set of samples. Individual subjects were grouped separately and then samples randomized within the subject group. Example of a batch: Technical triplicates = 20 samples + 2 qstd = 25 hours (6 injections total).<br/>
+2. One batch of samples thawed per day on ice. 1st batch only – included NIST, Qstd, HILIC, C18, and any other pooled reference; all other batches only Qstd and other pooled references. Isotopes (internal standards) also thawed and spiked in all samples.<br/>
+3. Stock solution of Acetonitrile/isotope made in Eppendorf tube; Per one sample = 100 µl Acetonitrile + 2.5 µl isotope. Triplicates =  20 samples = 2000 µl Acetonitrile + 50 µl isotope. Plasma sample, Qstd, and NIST prepared the same way.<br/>
+4. MaHPIC: 30 µl sample aliquoted into Eppendorf tubes (if possible), water added to reach 50 µl of total solution. Qstd, and NIST: 50 µl sample pipetted into Eppendorf tube.<br/>
+5. 100 µl ACN:isotope stock solution pipetted into Eppendorf tube containing the sample. Samples kept on ice; ACN allowed to crash proteins for 30 mins with a vortex every 15 mins. Centrifuged for 10 mins @ 13.2 rpm at 4 ℃ and supernatant (~100 µl) carefully pipetted into autosampler vial. Clear separation visible (cloudy and clear) → only the clear supernatant pipetted.<br/>
+6. The orbitrap will end up with the hi-lo-lo pattern for each sample triplicate.<br/>
+See the attached SOPs for more information"	"Samples were analysed using a Dionex Ultimate 3000 LC coupled with High Field QExactive. Each sample was run in triplicate with dual chromatography (AE/C18/HILIC) and 5-10 µl injection volume on each column. (HFQE switches between polarities without having to wait for 2 hours in between polarity switching.)<br/>
+<br/>
+See the attached SOPs under Study files tab for more information (MetabolomicsCore-C_Colombia_16JUL2015_04062016-HFQE-Setup_V1.docx)"	"Sample were analysed using a HFQExactive with the following optimized settings;</br>
+</br>
+Positive Mode:</br>
+- HESI probe with S-lens combination for ESI</br>
+- MS1 mode scanning m/z range of 85-1275</br>
+- Resolution - 120,000</br>
+- maximum number of ions collected – 1x10<sup>6</sup></br>
+- The maximum injection time - 200</br>
+- capillary temperature - 300 &deg;C</br>
+- aux gas heater temp - 200 &deg;C</br>
+- spray voltage – 3.5 kV</br>
+- sheath gas – 45</br>
+- auxillary gas flow – 25</br>
+- sweep gas flow – 1</br>
+- S-lens RF level – 69</br> 
+</br>
+Negative Mode:</br>
+- HESI probe with S-lens combination for ESI</br>
+- MS1 mode scanning m/z range of 85-1275</br>
+- Resolution - 120,000</br>
+- maximum number of ions collected – 1x10<sup>6</sup></br>
+- The maximum injection time - 200</br>
+- capillary temperature - 300 &deg;C</br>
+- aux gas heater temp - 200 &deg;C</br>
+- spray voltage – 3.0 kV</br>
+- sheath gas – 45 </br>
+- auxiliary gas flow – 25</br>
+- sweep gas flow – 1</br>
+- S-lens RF level – 69</br>
+
+See the attached SOPs for more information"	"Data Analysis - .raw → .cdf → apLCMS
+apLCMS is a set of algorithms written to work with the statistical R program.  In this set of algorithms, large capacities of LCMS data can be analyzed by realigning the m/z based on certain parameters.  The output of apLCMS includes retention times, m/z features that appeared in the LCMS run, and also the ion intensities of each of these m/z features for every sample. The data will be used for further data analysis.</br>
+Files were converted to .cdf using Thermo File Converter and then to apLCMS.
+</p>
+Quality Assurance:</br>
+1. Five standards were chosen and graphed out to view the intensity over the entire set run. The standards provide information and assurance that the plasma samples were acceptable for further analysis.</br>
+2. Total Ion intensity was used as a good indicator on whether the batch was interrupted midway or not.  
+</p>
+Data Analysis and Quality Assurance</br>
+1. xMSanalyzer: used for data extraction and quality evaluation (https://sourceforge.net/projects/xmsanalyzer/).</br>
+All batches are ran together as a whole with xMSanalyzer (include the cdf, profile, rawprof, etc). The r script will run through multiple parameter settings. xMSanalzyer will merge different parameter settings and discard anything with a CV of higher than 50% and generate sample and quality reports. This information is included in the feature table worksheet.</br>
+2. Batch-effect evaluation and correction performed using PCA: Batch-effect correction is performed using ComBat [1] implemented in the sva package in R Bioconductor. The associated metabolite identification files for this study contain the ComBat processed feature identification data. Metabolite annotation information can be found in the following attached files and was carried out as outlined below.</br>
+HuCColMBHsViCqPS_05042017_E09-C18Neg-Results_MULTIPL.xlsx</br>
+HuCColMBHsViCqPS_05042017_E09-HILICPos-Results_MULTIPL.xlsx</br>
+</br>
+Ref:</br>
+[1] Johnson WE, Li C & Rabinovic A. Adjusting batch effects in microarray expression data using empirical Bayes methods. Biostatistics 2007 Jan;8(1):118-27. DOI: 10.1093/biostatistics/kxj037
+
+
+"	"Metabolite Annotation:<br/>
+Annotation was performed using xMSannotator.<br/>
+Specifications:<br/>
+Chemical database used for annotations: HMDB (release v3.6)<br/>
+chemical_ID: HMDB ID of the matching chemical <br/>
+Score_category Confidence level assigned by xMSannotator based on the the mz, retention time, intensity and adduct rules <br/>
+<br/>
+Description of score categories: (Stage 4 of xMSannotator) <br/>
+3: High confidence matches that satisfy all criteria (correlated and co-eluting ions that are in the same module and satisfy abundance ratio checks for isotopes and multiple Ms) <br/>
+2: Medium confidence match: includes chemicals for which all above criteria are satisfied but the ions are not in the same module even though they are correlated. - This category also includes M+H matches that are enriched based on the pathway level information that builds confidence in a match if there are other high scoring matches for chemicals that are in the same KEGG pathway and are also in the same module. <br/>
+1: Low confidence match: includes matches where either 2M or 3M adducts are present but no single M adduct is present.<br/>
+0: No confidence match: includes matches where ions are correlated and in the same module, but the delta retention time is greater than the maximum threshold; or if the M+1 or M+2 form is present in the absence of M. This category also includes M+H matches that can not be associated with a single m/z."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	""
+Study Protocol Parameters Name Term Accession Number	";"	";;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	";"	";;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Consortium"	"Galinski"	"Kissinger"	"DeBarry"	"Gardinassi"	"Herrera"	"Arévalo-Herrera"	"Jones"	"Li"	"Joice Cordy"	"Meyer"	"Nural"	"Pakala"	"Tran"	"Uppal"
+Study Person First Name	"The MaHPIC"	"Mary"	"Jessica"	"Jeremy"	"Luiz"	"Socrates"	"Myriam"	"Dean"	"Shuzhao"	"Regina"	"Esmeralda"	"Mustafa"	"Suman"	"ViLinh"	"Karan"
+Study Person Mid Initials	""	"R."	""	"D."	"G."	""	""	"P."	""	""	"VS"	"V."	"B."	""	""
+Study Person Email	""	"mahpic@emory.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"	"mahpic-infodepo@uga.edu"
+Study Person Phone	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Affiliation	""	"Emory University"	"Institute of Bioinformatics University of Georgia"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles	""	"Principal investigator"	"Co-investigator"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2199"	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	"BIRNLEX"	"BIRNLEX"	""	""	""	""	""	""	""	""	""	""	""	""

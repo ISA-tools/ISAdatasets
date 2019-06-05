@@ -1,0 +1,125 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MS"	"NCIT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"113"	"129"	"44"	"22"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS552"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersTUSHARDesktopISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS552"
+Study Title	"Metabolomic alterations in invasive ductal carcinoma of breast: A comprehensive metabolomic study using tissue and serum samples"
+Study Description	"Invasive ductal carcinoma (IDC) is the most common type of breast cancer and the leading cause of breast cancer related mortality. In the present study, metabolomic profiles of 72 tissue samples and 146 serum samples were analysed using targeted liquid chromatography multiple reaction monitoring mass spectrometry (LC-MRM/MS) and untargeted gas chromatography mass spectrometry (GC-MS) approaches. Combination of univariate and multivariate statistical treatment identified significant alterations of 42 and 32 metabolites in tissue and serum samples of IDC respectively when compared to control. A decent interconnection of metabolomic changes was observed between tissue and serum, indicating a bi-directional interaction of metabolites in IDC. Additionally, 8 tissue metabolites and 9 serum metabolites showed progressive change from control to benign to IDC suggesting their possible role in malignant transformation. We have identified a panel of three metabolites viz. tryptophan, tyrosine, and creatine in tissue and serum, which could be useful in screening of IDC subjects from both control and benign. The metabolomic alterations in IDC showed perturbations in purine and pyrimidine metabolism, amino sugar metabolism, amino acid metabolism, fatty acid biosynthesis etc. Comprehensively, this study provides valuable insights into metabolic adaptations of IDC, which can help to identify diagnostic markers as well as potential therapeutic targets."
+Study Submission Date	"2017-10-07"
+Study Public Release Date	"2018-10-07"
+Study File Name	"s_mtbls552.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"invasive ductal carcinoma"	"untargeted metabolites"	"gas chromatography-mass spectrometry"	"high-performance liquid chromatography-mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000186"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"	"http://purl.obolibrary.org/obo/CHMO_0000796"	""
+Study Design Type Term Source REF	"EFO"	""	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29416801"
+Study Publication DOI	"10.18632/oncotarget.23626"
+Study Publication Author List	"More TH, RoyChoudhury S, Christie J, Taunk K, Mane A, Santra MK, Chaudhury K, Rapole S."
+Study Publication Title	"Metabolomic alterations in invasive ductal carcinoma of breast: A comprehensive metabolomic study using tissue and serum samples."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Group"
+Study Factor Type	"Group"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls552_Serum_HILIC_LCMS.txt"	"a_mtbls552_Serum_RP_LCMS.txt"	"a_mtbls552_Serum_GCMS.txt"	"a_mtbls552_Tissue_HILIC_LCMS.txt"	"a_mtbls552_Tissue_RP_LCMS.txt"	"a_mtbls552_Tissue_GCMS.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"API 4000 QTRAP (AB Sciex)"	"API 4000 QTRAP (AB Sciex)"	"5975C Series GC/MSD (Agilent)"	"API 4000 QTRAP (AB Sciex)"	"API 4000 QTRAP (AB Sciex)"	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Subjects were voluntarily recruited with written informed consent at Ruby Hall Clinic Cancer Centre, Pune during the period of May 2013 to June 2016. Ethical approval was obtained from the Ethics Committees of Poona medical research foundation and National Centre for Cell Science (NCCS). Subjects with cancerous breast tumour were considered as malignant while non-cancerous breast tumour subjects were considered as benign. IDC status of malignant tumours was confirmed by histopathological analysis. Clinical specimens, tissue and serum for IDC and benign groups were collected from the same subjects at the time of the surgery. The tumours selected were appropriately stage and size matched according to new TNM staging system. Normal tissue as a control was obtained from IDC tumour adjacent tissue (2-5 cm away). Control serum samples were obtained from the subjects undergoing breast health check-up at the camp organized by the hospital."	"Targeted LC-MRM/MS</br>
+Serum:</br>
+Subjects were asked to undergo an overnight fasting and subsequently on the next day venous blood samples were collected. The blood samples were allowed to clot
+at room temperature and then centrifuged at 1000 x g for 10 min. The clear sera were then transferred into sterile vials, snap frozen and stored at -80 °C until further analysis.
+</p>
+Metabolite extraction was performed using adding 400 µl of ice-cold methanol to 50 µl of serum spiked with 2 µl of internal standard. This mixture was vortexed and kept overnight incubation at -20 °C for deproteination. Samples were then vortexed and centrifuged at 14,000 x g for 10 min at 4 °C. The supernatant was collected and filtered through 0.22 μm nylon filter. The filtrate was collected and dried in SpeedVac.
+</p>
+Tissue:</br>
+In the case of tissue samples, the tumor and normal tissue were collected immediately after surgery and put in the cryovials which were then transported in -20 °C minicooler from the hospital to the experimental laboratory. Tissue samples were then snap frozen and stored in -80 °C ultra-low temperature freezer for long term preservation.
+</p>
+Tissue samples weighing 50 mg was taken in a homogeniser vial containing zirconium beads. 400 µl of ice-cold methanol spiked with internal standard d2 L-phenylalanine was added to homogenizer vial. Tissue homogenization was carried out using Precellys homogeniser (Bertin Corp, USA). The following homogenizer program was used: 2 cycles of 6000 rpm for 20 sec and 2 cycles of 6500 rpm for 30 sec, with intermittent cooling on ice between each cycle. The homogenizer vials were then centrifuged at 14,000 rpm for 10 min at 4 °C. The supernatant was collected and filtered through 0.22 μm Nylon filter. The filtrate was transferred to the vial and evaporated to dryness using SspeedVac. 
+</p>
+The dried metabolite extract from serum and tissue were dissolved in 50 µl sample buffer (6.5:2.5:1 Acetonitrile:Methanol:Water) and used for positive ionization mode (HILIC Chromatography). In case of negative ionization mode, the dried metabolite extract from serum and tissue were dissolved in 50 µl ultrapure water (T3 RPLC Chromatography). For both modes, 10 µl of the sample was injected using an autosampler.
+</p>
+Untargeted GC-MS</br>
+Sample preparation
+50 µl serum and 50 mg tissue samples, spiked with an internal standard (15 µl 2-isopropyl-malic acid in water, 1.0 mg/ml) were taken. Metabolite extraction from serum and tissue was performed as described in LC-MRM/MS section above. Alternately, the metabolite extract was collected in a glass vial and dried under a stream of nitrogen gas. 2-step derivatization was carried out to obtain the trimethylsilyl derivatives of metabolites. At first metabolite extract was derivatized to form methylated derivatives by adding 30 µl of methoxyamine hydrochloride solution in pyridine (20 mg/ml) and incubating for 90 min at 37 °C. The second derivatization was achieved by adding 30 µl BSTFA with 1% TMCS to the mixture and heated for 1 h at 70 °C to yield trimethylsilyl derivatives. 1 µl aliquot of each sample is injected in the GC-MS."	"Targeted LC-MRM/MS</br>
+MS data was acquired using a 4000 QTRAP triple quadrupole mass spectrometer (AB SCIEX, Foster City, CA) equipped with Shimadzu Prominence binary HPLC pump (Shimadzu Corporation, Japan). 10 μl of sample was injected into the mass spectrometer using Shimadzu Prominence HPLC autosampler. For positive ionisation mode, the chromatographic separation was achieved using XBridge HILIC column (Waters, Milford, MA) that was eluted at 700 μl/min with a 32 min linear gradient starting from 5% mobile phase A (10 mM ammonium formate with 0.1% formic acid) increasing to 60% mobile phase B (acetonitrile with 0.1% formic acid). The column was kept at 60% mobile phase B for 3 min then returned to 5% mobile phase A for equilibration. For negative ionization mode, the chromatographic separation was achieved using ATLANTIS T3 column (Waters, Milford, MA) that was eluted at 500 μl/min with a 40 min linear gradient starting with 100% mobile phase A (10 mM ammonium hydroxide with 0.1% acetic acid) increasing to 98% mobile phase B (100% MeOH). The column was kept at 98% mobile phase B for 5 min then returned to 100% mobile phase A for equilibration.
+</p>
+Untargeted GC-MS</br>
+After derivatization 1 µl of the derivatized sample was injected into an Agilent 5975C GC system (Agilent Technologies Inc., USA). HP-5 MS ultra-inert fused silica capillary column (30 m x 0.25 μm x 0.25 mm, Agilent, USA) was used for the chromatographic separation of derivatized metabolites. Helium was used as carrier gas at a rate of 1 ml/min for metabolite separation within the column. The GC column inlet temperature was set at 280 °C. The GC oven  temperature was initially kept at 50 °C for 2 min, then increased to 100 °C with a ramp of 3 °C/min, where it was maintained for 2 min and then increased to 200 °C with a ramp of 3 °C/ min, where it was maintained for 2 min."	"Targeted LC-MRM/MS</br>
+MRM was used to acquire targeted MS data for specific metabolites in the positive and negative ion modes. Analyst 1.5 software (SCIEX, Foster City, CA) was used to set transitions, dwell time and collision energies. MS conditions were set as follows, source temperature: 400 °C, interface heater: on, curtain gas: 30, declustering potential: 90, entrance and exit potential: 10, and the two ion source gases were set at 45 (arbitrary units).
+</p>
+Untargeted GC-MS</br>
+The column effluent was introduced into the ion source of an Agilent 5977 mass selective detector (Agilent Technologies Inc., USA). The MS quadrupole temperature was set at 150 °C, and the ion source temperature was set at 230 °C. Data acquisition was performed in the full scan mode from m/z 50 to 550."	"Targeted LC-MRM/MS</br>
+LC-MRM/MS data was analysed by the Analyst 1.5 software (Sciex, Foster City, CA) for manual inspection of chromatograms and for the detection of the compounds.
+</p>
+Untargeted GC-MS</br>
+GC-MS metabolite profiles were processed using Agilent Chemstation data analysis software."	"Targeted LC-MRM/MS</br>
+Analyst quantitation wizard was used for integration of peak areas. For quality measures, samples order were randomized at the time of analysis and integration of peaks was performed in a blinded manner. Metabolites with a minimum of 15% of base peak intensity were considered for quantitation. The peak areas obtained after integration were exported to a spreadsheet file in a matrix format for univariate and multivariate analysis.
+</p>
+Untargeted GC-MS</br>
+Metabolite identification from GC-MS was performed by comparing the mass fragmentations with NIST 11 Standard mass spectral databases in NIST MS search 2.0 (NIST, Gaithersburg, MD) software. Features were annotated to metabolites with a similarity of more than 90% in mass spectral pattern matching. After chromatographic integration peak areas of corresponding metabolites were noted. The peak areas obtained after integration were exported to a spreadsheet file in a matrix format to further perform statistical treatments to the data matrix."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Rapole"
+Study Person First Name	"Srikanth"
+Study Person Mid Initials	""
+Study Person Email	"rsrikanth@nccs.res.in"
+Study Person Phone	"+91-20-2570-8075"
+Study Person Fax	"+91-20-2569-2259"
+Study Person Address	"Proteomics Lab, National Centre for Cell Science, Ganeshkhind, Pune 411007, India"
+Study Person Affiliation	"National Centre for Cell Science"
+Study Person Roles	"investigator"
+Study Person Roles Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001739"
+Study Person Roles Term Source REF	"EFO"

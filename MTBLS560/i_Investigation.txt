@@ -1,0 +1,105 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"ATOL"	"OBI"	"NCBITAXON"	"BTO"	"CHMO"	"NCIT"	"MEO"	"EFO"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/ATOL"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MEO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"1"	"22"	"2"	"22"	"18"	"44"	"8"	"146"	"80"	"43"	
+Term Source Description	"Animal Trait Ontology for Livestock"	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Metagenome and Microbes Environmental Ontology"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS560"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UserssbeauclercqDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS560"
+Study Title	"Relationships between digestive efficiency and metabolomic profiles of serum and intestinal contents in chickens"
+Study Description	"The increasing cost of conventional feedstuffs has bolstered interest in genetic selection for digestive efficiency (DE), a component of feed efficiency, assessed by apparent metabolisable energy corrected to zero nitrogen retention (AMEn). However, its measurement is time-consuming and constraining, and its relationship with metabolic efficiency poorly understood. To simplify selection for this trait, we searched for indirect metabolic biomarkers through an analysis of the serum metabolome using nuclear magnetic resonance (1H NMR). A partial least squares (PLS) model including six amino acids and two derivatives from butyrate predicted 59% of AMEn variability. Moreover, to increase our knowledge of the molecular mechanisms controlling DE, we investigated 1H NMR metabolomes of ileal, caecal, and serum contents by fitting canonical sparse PLS. This analysis revealed strong associations between metabolites and DE. Models based on the ileal, caecal, and serum metabolome respectively explained 77%, 78%, and 74% of the variability of AMEn and its constitutive components (utilisation of starch, lipids, and nitrogen). In our conditions, the metabolites presenting the strongest associations with AMEn were proline in the serum, fumarate in the ileum and glucose in caeca. This study shows that serum metabolomics offers new opportunities to predict chicken DE."
+Study Submission Date	"2017-10-24"
+Study Public Release Date	"2018-10-24"
+Study File Name	"s_mtbls560.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"digestive system"	"Digestive efficiency"	"ileum"	"caecum"	"nuclear magnetic resonance spectroscopy"	"untargeted metabolomics"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/UBERON_0001007"	""	"http://purl.obolibrary.org/obo/UBERON_0002116"	"http://purl.obolibrary.org/obo/UBERON_0001153"	"http://purl.obolibrary.org/obo/CHMO_0000591"	""
+Study Design Type Term Source REF	"EFO"	""	"EFO"	"EFO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"29703927"
+Study Publication DOI	"10.1038/s41598-018-24978-9"
+Study Publication Author List	"Stephane Beauclercq, Lydie Nadal-Desbarats, Christelle Hennequet-Antier, Irène Gabriel, Sophie Tesseraud, Fanny Calenge, Elisabeth Le Bihan-Duval & Sandrine Mignon-Grasteau"
+Study Publication Title	"Relationships between digestive efficiency and metabolomics profiles of serum and intestinal contents in chicken"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Apparent metabolisable energy"	"Gender"	"Coefficient of digestive utilisation of starch"	"Coefficient of digestive utilisation of lipids"	"Coefficient of digestive utilisation of nitrogen"
+Study Factor Type	"Digestion"	"Gender"	"feed starch apparent digestibility"	"feed lipid apparent digestibility"	"feed nitrogen apparent digestibility"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16503"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://purl.org/obo/owlATOL_0001236"	"http://purl.org/obo/owlATOL_0001249"	"http://purl.org/obo/owlATOL_0001245"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"ATOL"	"ATOL"	"ATOL"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls560_Serum_NMR_spectroscopy.txt"	"a_mtbls560_Caecal_NMR_spectroscopy.txt"	"a_mtbls560_Ileal_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"The samples were collected from chicken from the 8th generation of an advanced intercross line between 2 lines of medium growing chickens divergently selected either for low or high digestive efficiency through faecal AMEn (Apparent Metabolisable Energy corrected for zero nitrogen retention) of a difficult to digest wheat-based diet at 3 weeks. As sampling the whole population was not possible, we pre-selected birds to sample based on their performances at 2 weeks. Among the initial population (n = 213), we thus selected 2 subsets of 30 birds (33 males and 27 females) displaying extreme values of coefficients of digestive use of dry matter, a trait which is highly correlated to AMEn but much faster to measure. Before serum, caeca and ileum contents sampling, a second balance trial was done between 24 and 25 days to get faecal AMEn and coefficients of digestive use of dry matter, starch, nitrogen and lipids.
+</p>
+Blood was sampled at 25 days from the occipital sinus of the 60 selected birds and kept for 15 min at room temperature until coagulation. After centrifugation (3,000 x g for 10 min), sera were aliquoted and stored at -20 °C until further analysis. At 26 days, birds were killed by pentobarbital injection (0.5-1 ml/kg of live weight) in the occipital sinus. After slaughter, distal ileal and caecal contents were sampled, snap-frozen in liquid nitrogen, and stored at -80 °C until extraction. Note: Only 57 chicken were preleved for caeca contents (30 males and 27 females) and 59 (32 males and 27 females) for serum and ileum contents NMR."	"Sera from the selected chickens were prepared for 1H NMR analyses by cold methanol precipitation of lipids and proteins. The unfrozen serum samples were centrifuged at 15,000 x g for 10 min at 4 °C. After this, 450 µl of the supernatants were mixed with 1 ml of methanol and cooled at -20 °C for 20 min. The mixtures were then centrifuged as previously, and 1,150 µl of the supernatants were collected in glass tubes for further solvent evaporation in a SpeedVac (ThermoScientific, Villebon sur Yvette, France) at room temperature and conserved at -20 °C.
+</p>
+The extractions of polar metabolites from 200 mg ileum and caeca contents were performed on ice by addition of 1 ml methanol with 4 mM of n-ethylmaleimide for thiol stabilization. The mixes were vortexed and centrifuged (15,000 x g, 2 min, 4 °C) before collection of the supernatant, which were stored at -80 °C until freeze-drying and further storage at -80 °C until use."	"The extracted serum samples were reconstituted in 220 µl pH 7.4 potassium phosphate buffer in 99% deuterium oxide (D2O) with 0.128 mM trimethylsilylpropionic acid (TSP) as an internal reference. The freeze-dried digestive content extracts were solubilised in 650 µl pH 7.4 potassium phosphate buffer in 99% D2O containing 10 % v/v of TSP and 0.01% NaN3 (i.e. a bactericide). Both mixtures were then briefly vortexed and centrifuged at 4,000 x g for 15 min at 4 °C to remove any insoluble components. The resulting serum supernatant or 600 µl of the digestive content was transferred to conventional 3 mm or 5 mm NMR tubes, respectively, for NMR analysis."	"Serum:</br>
+High-resolution 1H NMR spectra from the sera of the 60 birds were acquired on a DRX-600 Avance III HD spectrometer (Bruker SADIS, Wissembourg, France), operating at 600.13 MHz, with a TCI cryoprobe. NMR measurements were performed at 298 K.
+</p>
+Ileal and Caecal Contents:</br>
+The 1H NMR spectra of the ileal and caecal contents were recorded on a Bruker Avance HD spectrometer equipped with a cryoprobe operating at 700.3 MHz. The acquisitions were performed at 298 K."	"Serum:</br>
+Standard 1H NMR spectra were acquired using a cpmgpr-1d pulse sequence with a relaxation delay of 25 s, an echo time of 80 ms (64 scans), and a time domain of 32,768 points. Water suppression was achieved by presaturation during the relaxation delay. Spectra were processed using Topspin version 3.2 software (Bruker Daltonik, Karlsruhe, Germany). The free induction decays (FIDs) were zero-filled to 65,536 data points, which provided sufficient data points for each resonance, and a line-broadening factor of 0.2 Hz was applied before Fourier transformation.
+</p>
+Ileal and Caecal Contents:</br>
+Standard 1H NMR spectra were acquired using a zgpr pulse sequence (64 scans, time domain 73,728 points, relaxation delay of 5 s). The spectra were processed using Topspin. The FIDs were zero-filled to 131,072 data points and a line-broadening factor of 0.3 Hz was applied prior to Fourier transformation."	"After manual correction of the phase distortion and baseline on all spectra, the 1H NMR spectra were imported into AMIX software (version 3.8.4; Bruker). The bin area method was used to segment the spectra between 0.6 and 9 ppm using the intelligent variable size bucketing tool. The spectral region containing water was excluded and a total of 64, 160, and 191 buckets were defined manually for serum, ileal content and caecal content spectra, respectively. Those bin areas corresponding to one or several metabolites were normalised by dividing each integrated segment by the total area of the spectrum on the 3 data sets."	"The 1H NMR spectra, referenced to the internal TSP chemical shift reference, were assigned using spectra from our in-house database and online databases, including LMDB (http://www.lmdb.ca) or the Chenomx NMR Suite 7.7 evaluation edition (Chenomx Inc, Edmonton, Canada)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Beauclercq"	"Nadal-Desbarats"	"Le Bihan-Duval"	"Mignon-Grasteau"
+Study Person First Name	"Stephane"	"Lydie"	"Elisabeth"	"Sandrine"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"stephane.beauclercq@inra.fr"	"lydie.nadal@univ-tours.fr"	"elisabeth.duval@inra.fr"	"sandrine.grasteau@inra.fr"
+Study Person Phone	""	""	""	"+33 1 (0)2 47 42 76 91"
+Study Person Fax	""	""	""	""
+Study Person Address	"URA, INRA, 37380 Nouzilly, France "	"PPF Analyse des systèmes biologiques, Université Francois-Rabelais, 37032 Tours, France "	"URA, INRA, 37380 Nouzilly, France "	"URA, INRA, 37380 Nouzilly, France "
+Study Person Affiliation	"URA, INRA"	"Université françois Rabelais de Tours"	"URA, INRA"	"URA, INRA"
+Study Person Roles	"Data traitement and analysis"	"NMR spectra acquisition (Serum)"	"Study supervisor"	"Study supervisor"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

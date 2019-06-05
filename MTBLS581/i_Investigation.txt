@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NPO"	"BIRNLEX"	"NCBITAXON"	"CHEBI"	"ENVO"	"EFO"	"CHMO"	"MS"	"NCIT"	"OBI"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/NPO"	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"31"	"1"	"2"	"80"	"27"	"113"	"5"	"129"	"44"	"22"	"6"	
+Term Source Description	"NanoParticle Ontology"	"Biomedical Informatics Research Network Project Lexicon"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Entities of Biological Interest Ontology"	"Environment Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS581"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\Oliveira\Documents\Joana\Programas\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS581"
+Study Title	"Comparative metabolomic responses to gibberellic acid and 6-benzylaminopurine in Cunila menthoides Benth. (Lamiaceae): a contribution to understand the metabolic pathways."
+Study Description	"Little is known about the effects of 6-benzylaminopurine (BA) and gibberellic acid (GA3) on the synthesis of secondary metabolites in species of Lamiaceae. In this study, for the first time, the profile of secondary metabolites in plantlets of Cunila menthoides was characterized, using UPLC-ESI-Qq-oaTOF-MS. Ninety metabolites were identified, including polyphenols and terpenes. BA down-regulated most of the identified molecules in relation to GA3 and MS0 (control). The results showed that GA3 elicited synthesis of many phenols from different classes, and seemed to play a major role in the shikimate pathway in relation to BA. GA3 enhanced production of sesquiterpenoids, polyterpenoids, steroids and monoterpenoids compared to MS0 and BA, and also seemed to positively influence the MEP/DOXP and MVA pathways. These data show the most comprehensive metabolomic profile of Cunila menthoides to date, and the effects of BA and GA3 on the synthesis of secondary metabolites, modulating quantitative aspects of metabolism in Lamiaceae."
+Study Submission Date	"2017-11-30"
+Study Public Release Date	"2018-05-24"
+Study File Name	"s_Cunila menthoides in vitro.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lamiaceae"	"untargeted metabolites"	"ultra-performance liquid chromatography-mass spectrometry"	"Plant Growth Regulators"	"gibberellin"	"N-benzyladenine"	"In Vitro Techniques"	"Tissue Culture Techniques"	"hydrophilic"	"lipophilic"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D019686"	""	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.bioontology.org/ontology/MESH/D010937"	"http://purl.obolibrary.org/obo/CHEBI_24250"	"http://purl.obolibrary.org/obo/CHEBI_29022"	"http://purl.bioontology.org/ontology/MESH/D066298"	"http://purl.bioontology.org/ontology/MESH/D046509"	"http://purl.obolibrary.org/obo/PATO_0001887"	"http://purl.bioontology.org/ontology/npo#NPO_114"
+Study Design Type Term Source REF	"MESH"	""	"CHMO"	"MESH"	"CHEBI"	"CHEBI"	"MESH"	"MESH"	"ENVO"	"NPO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29796946"
+Study Publication DOI	"10.1007/s00299-018-2303-8"
+Study Publication Author List	"Oliveira JPS, Koblitz MGB, Ferreira MSL, Cameron LC, Macedo AF."
+Study Publication Title	"Comparative metabolomic responses to gibberellic acid and 6-benzylaminopurine in Cunila menthoides Benth. (Lamiaceae): a contribution to understand the metabolic pathways."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Plant Growth Regulator"	"Extract Type"	"Technical Replicates"
+Study Factor Type	"plant growth regulator"	"Extract"	"technical replicate"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_26155"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82948"	"http://www.ebi.ac.uk/efo/EFO_0002090"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_cunila_menthoides_in_vitro_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Xevo QTof MS (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Seeds belonging to the personal collection of Prof. Dr. Gustavo Agostini were donated to this project. Seeds of C. menthoides were collected in several different locations in southern Brazil, with geographical coordinates previously reported[1]. Representative samples were identified botanically and duly filed, cataloged and recorded in the Herbarium-accredited ICN (ICN 183282) located at the Institute of Biosciences, Federal University of Rio Grande do Sul (UFRGS)[2].
+</p>
+Ref:</br>
+[1] Agostini, G., Echeverrigaray, S., Souza-Chies, T.T. Genetic diversity of the endangered Brazilian endemic herb Cunila menthoides Benth. (Lamiaceae) and its implications for conservation. Biochemical Systematics and Ecology
+Vol 38, Issue 6, Dec 2010, 1111-1115. doi:10.1016/j.bse.2010.12.001.</br>
+[2] Agostini, G., Echeverrigaray, S., Souza-Chies, T.T. Genetic relationships among South American species of Cunila D. Royen ex L. based on ISSR. Plant Syst. Evol. 2008, 274, 135–141. doi:10.1007/s00606-008-0037-8.</br>"	"Samples from pooled plantlets from each PGR treatment were extracted with an adapted Bligh-Dyer method[1]. The following solutions were prepared: (A) chloroform and methanol (1:2, v/v), and (B) aqueous potassium chloride (1%, v/v). Frozen material (1 g) from each treatment was separately and finely macerated with liquid nitrogen, then vortex-mixed with 3 ml of solution (A). After centrifugation (14,000 x g, 10 min, 4 °C), the supernatant was removed and the pellet was vortex-mixed with 3 ml of solution (A) plus 0.8 ml of solution (B). After centrifugation (14,000 x g, 10 min, 4 °C), supernatants from this and the previous step were combined and diluted with 2 ml of chloroform plus 1.2 ml of solution (B). The 2 layers formed corresponded to hydrophilic (HE) at bottom, and lipophilic (LE) on top, extracts. Aliquots of 1 ml of each extract phase were transferred to centrifuge tubes and then dried with a rotary vacuum concentrator. All extraction steps included protection from light. Samples were stored at –80 °C in an ultrafreezer until preparation for UPLC-ESI-Qq-oaTOF-MS acquisition.
+</p>
+Ref:</br>
+[1] Bligh E.G., Dyer W.J. A rapid method of total lipid extraction and purification. Can J Biochem Physiol. 1959 Aug;37(8):911-7. doi:10.1139/o59-099. PMID:13671378</br>"	"UPLC-ESI-Qq-oaTOF-MS analysis was carried out using a Waters ACQUITY UPLC system coupled to a Xevo G2-S QTof (Waters Corp.) hybrid quadrupole orthogonal time-of-flight mass spectrometer. A HSS T3 C18 1.8 µm 1.0 x 100 mm (Waters) reverse phase coulumn was used or metabolite separation. The mobile phase (A) consisted of 0.3% formic acid in ultra-pure water containing 5 mM ammonium formate, and the mobile phase (B) consisted of 0.3% formic acid in acetonitrile. The gradient method followed the steps: 97% A and 3% B at 0 min; 50% A and 50% B at 11.8 min; 15% A and 85% B at 12.38–13.53 min and equilibration with 97% A and 3% B from 14.11 to 16.99 min. The flow rate was 0.6 ml/min and the column was maintained at 35 °C. The injection volume of each sample was 2 µl. Each batch of samples was randomized and injected in triplicate."	"The mass data were acquired by the Xevo G2-S QTof (Waters Corp.) mass spectrometer in negative electrospray ion mode ESI (–) set to 2.0 kV, the cone voltage set to 2.0 kV, the cone gas set to 50 l/hr, and the source temperature set to 120 °C. The desolvation gas was high-purity nitrogen flowing at 600 l/hr at a temperature of 450 °C. The optic mode was resolution. The scan range selected was from m/z 50 to 1000. Data were collected in the centroid mode with lock-mass correction “on-the- fly”. MassLynx V4.1 software was used for instrument control and acquisition. Data were acquired in MS E mode, where the collision energy was alternated between low energy (2 V) and high energy (15–55 eV). Leucine-enkephalin, C28 H37 N5 O7, ([M–H]– = 554.2615 m/z) at a concentration of 0.4 ng/l in acetonitrile and water (50:50, v/v) with 0.1% (v/v) of formic acid, and flow rate of 20 µl/min was chosen as lock-mass reference for the negative ion mode. Lock-mass scan time was set to 0.3 s, with intervals of 15 s and 3 scans to average with a mass window of ± 0.3 Da."	"The RAW data files were imported into Progenesis QI for Metabolomics v2.1 (Nonlinear Dynamics) for processing and analyzing the mass data information."	"For compound identification, analytical standards and the database platforms KEGG (http://www.genome.jp/kegg/), LipidMAPS (http://www.lipidmaps.org/) and PubChem (https://pubchem.ncbi.nlm.nih.gov/) were used. Database sets were constructed prioritizing terpenes and phenolic compounds, and the identification was performed using the following parameters: precursor mass error = 5 ppm and fragment tolerance = 10 ppm. Non-targeted selection parameters were established as: Anova (p) = 0.5, coefficient of variation (CV) < 0.3, score > 30, fragmentation score > 30 and isotope similarity > 80. We considered as identified only the compounds that were present in at least 2 of the 3 technical replicates. Adducts considered for analysis were [M-H2O-H]–, [M-H]–, [M+Cl]– and [M+FA-H]–. Other parameters such as fragmentation score and literature record of the occurrence of the molecules in plant species were also included, for disambiguation. Also for disambiguation and synonym-solving, the following platforms were consulted: FooDB (http://foodb.ca/), HMDB (http://www.hmdb.ca/), Chemspider (http://www.chemspider.com/), Metlin (https://metlin.scripps.edu/index.php) and NIST Chemistry Webbook InChIKey search (http://webbook.nist.gov/chemistry/inchi-ser.html). Metabolites with different abundances were considered up-regulated and strongly up-regulated when log2 of the total ion abundance was 2.0 or greater and 7.0 or greater, respectively, and down-regulated and strongly down-regulated when log2 was –2.0 or less and –7.0 or less, respectively."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Oliveira"	"Koblitz"	"Ferreira"	"Cameron"	"Macedo"
+Study Person First Name	"Joana"	"Maria"	"Mariana"	"Luiz"	"Andrea"
+Study Person Mid Initials	"PS"	"GB"	"SL"	"C"	"F"
+Study Person Email	"joanapaulasoliveira@gmail.com"	"mkoblitz@gmail.com "	"mariana.ferreira@unirio.br "	"cameron@unirio.br "	"andreafm22@yahoo.com.br"
+Study Person Phone	"5521996339390"	""	""	""	""
+Study Person Fax	""	""	""	""	""
+Study Person Address	""	""	""	""	""
+Study Person Affiliation	"Federal University of Rio de Janeiro State"	"Federal University of Rio de Janeiro State"	"Federal University of Rio de Janeiro State"	"Federal University of Rio de Janeiro State"	"Federal University of Rio de Janeiro State"
+Study Person Roles	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"PO"	"CHEBI"	"EFO"	"EFO"	"CHMO"	"NCIT"	"OBI"	"LOINC"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/LOINC"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"10"	"80"	"113"	"146"	"5"	"44"	"22"	"6"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Plant Ontology"	"Chemical Entities of Biological Interest Ontology"	"Experimental Factor Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Logical Observation Identifier Names and Codes"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS772"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\Gregoire\These\21_Chimiometrie\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	"Grégoire Delaporte, Mathieu Cladière, Delphine Jouan-Rimbaud Bouveresse, Valérie Camel"
+Investigation Publication Title	"Untargeted food contaminant detection using UHPLC-HRMS combined with multivariate analysis: feasibility study on tea"
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	"Cladière"	"Camel"	"Delaporte"
+Investigation Person First Name	"Mathieu"	"Valérie "	"Grégoire"
+Investigation Person Mid Initials	""	""	""
+Investigation Person Email	"mathieu.cladiere@agroparistech.fr"	"valerie.camel@agroparistech.fr"	"gregoire.delaporte@gmail.com"
+Investigation Person Phone	""	""	""
+Investigation Person Fax	""	""	""
+Investigation Person Address	"16 rue Claude Bernard, 75005 Paris, France
+"	"16 rue Claude Bernard, 75005 Paris, France"	"16 rue Claude Bernard, 75005 Paris, France"
+Investigation Person Affiliation	"AgroParisTech"	"AgroParisTech"	"AgroParisTech"
+Investigation Person Roles	""	""	""
+Investigation Person Roles Term Accession Number	""	""	""
+Investigation Person Roles Term Source REF	""	""	""
+STUDY
+Study Identifier	"MTBLS772"
+Study Title	"Untargeted food chemical safety assessment: A proof-of-concept on two analytical platforms and contamination scenarios of tea (Black tea study)"
+Study Description	"This study aims at assessing the capability of comparing and combining different instrumental platforms in an untargeted approach with a view of detecting chemical contaminants in food matrices at low levels. A strategy based on liquid chromatography-high resolution mass spectrometry (LC-HRMS) and chemometrics has been applied on two different complex food contamination scenarios, with tea as study product. The first scenario aimed at mimic the presence of a dozen of contaminants at levels just above regulatory limits (i.e. 10 and 30 μg/kg); the second scenario, more complex, aimed at simulate the presence of several different contaminations at levels close to regulatory limits (10 μg/kg) in different samples. This work was carried on two LC-HRMS platforms (with respectively ToF and Orbitrap mass analyzer technologies), and a highly automated data treatment workflow was implemented to deal with data acquired on both platforms. The untargeted approach performed well on all scenarios (even the most complex) and analytical platforms. Performance comparison between LC-HRMS technologies was made possible thanks to a vendor-neutral data treatment process. </br><br/> Sub-samples of black tea (Keemun type, gross, China) were spiked at 10 µg/kg levels with two different spiking mixes: Three sub-samples were spiked with a pool of 11 contaminants (spiking mix n°1); and Three sub-samples were spiked with 3 others contaminants (malathion, OTA, BPS, spiking mix n°2). Samples were then extracted with a generic method and analyzed by LC-HRMS (in both positive and negative ionization modes) on two platforms (respectively Orbitrap and ToF to generate a total of four data sets. </br></br> Black tea spiked with contaminants is reported in the current study MTBLS772. </br> Green tea spiked with contaminants is reported in MTBLS771. </br><br/> Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS771' target='_blank'><span class='label label-success'>MTBLS771</span></a>"
+Study Submission Date	"2018-10-25"
+Study Public Release Date	"2019-08-01"
+Study File Name	"s_mtbls772.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"spiking"	"environmental food contaminant"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"Food Safety"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002852"	"http://purl.obolibrary.org/obo/CHEBI_78299"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26037"
+Study Design Type Term Source REF	"CHMO"	"CHEBI"	"CHMO"	""	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1016/j.foodcont.2018.12.004"
+Study Publication Author List	"Grégoire Delaporte, Mathieu Cladière, Valérie Camel "
+Study Publication Title	"Untargeted food chemical safety assessment: A proof-of-concept on two analytical platforms and contamination scenarios of tea."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Spiking level"	"Geographical origin"	"Spiking mix"	"Technical replicate"	"Injection order"
+Study Factor Type	"spiking"	"Origin"	"spiking"	"technical replicate"	"Injection order"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0002852"	"http://purl.bioontology.org/ontology/LNC/LP62760-1"	"http://purl.obolibrary.org/obo/CHMO_0002852"	"http://www.ebi.ac.uk/efo/EFO_0002090"	""
+Study Factor Type Term Source REF	"CHMO"	"LOINC"	"CHMO"	"EFO"	""
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls772_POS_TOF_mass_spectrometry.txt"	"a_mtbls772_NEG_TOF_mass_spectrometry.txt"	"a_mtbls772_POS_ORB_mass_spectrometry.txt"	"a_mtbls772_NEG_ORB_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"	"Liquid Chromatography MS - Positive (LC-MS (Positive))"	"Liquid Chromatography MS - Negative (LC-MS (Negative))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Loose tea samples were purchased at local retailers (Paris, France). The black tea was an organic Keemun tea from China. 9 sub-samples of black tea were taken and divided into 3 groups. 2 spiking mixes were considered: spiking mix n°1 was composed of 11 herbicides (atrazine, bromacil, butylate, cycloate, EPTC, hexazinone, isopropalin, metribuzin, molinate, pebulate, terbacil) in acetonitrile (ACN); spiking mix n°2 of 3 food contaminants (malathion, bisphenol S and ochratoxin A) in ACN.
+</p>
+One group (samples 10 to 12) has been spiked at 10 µg/kg with spiking mix n°1. The second group (samples 13 to 15) has been spiked at 10 µg/kg wiith spiking mix n°2, and the third one (samples 16 to 18) is unspiked, with just ACN added, as a control group."	"Tea samples were extracted using direct solvent extraction with 5 ml of an ACN/MeOH (90/10 v/v) mixture acidified with 0.1% FA, and tubes were agitated upside-down on an agitating plate during 1 h before centrifugation at 3,000 x g for 10 min. The supernatant was then collected and an aliquot (2 ml) was evaporated to dryness under a gentle stream of nitrogen. The extract was further reconstituted in 0.2 ml of ACN acidified with 0.1% FA and completed by 0.8 ml of ultrapure water with 0.1% FA was added leading to a total volume of 1 ml. The reconstituted extract was then centrifuged at 12,000 x g for 10 min, 0.5 ml collected and filtered at 0.2 µm using a syringeless filter vial (mini-uniprep G2, Whatman) before analysis. A quality control sample (QC) was made by pooling together in a glass tube 0.2 ml of each final extract considered in the analytical sequence, from which a 0.5 ml aliquot was sampled and filtered using a syringeless filter vial."	"Samples were analyzed on 2 UHPLC/HRMS platforms. The first is a Waters Acquity UPLC H-Class system, composed of a quaternary solvent manager pump, a refrigerated sample manager Flow-Through-Needle and a column oven, coupled to a Waters high resolution Time-of-Flight mass spectrometer Xevo G2-S ToF. The second is a Thermo Scientific UltiMate 3000 UHPLC system composed of quaternary pumps, refrigerated auto-sampler and a column oven coupled to a Q-Exactive Orbitrap mass spectrometer. For each platform, the injection volume was 10 μl. Separation was made on a C18-PFP column (150 x 2.1 mm, 2 μm particle diameter, ACE supplied by AIT France), and the same chromatographic gradients were used on both instruments. An electrospray ionization source was used in both positive (ESI+) and negative (ESI-) modes. ESI+ and ESI- modes were run separately. For ESI+, the mobile phase was composed of water (A) and ACN (B), both acidified with 0.1% FA, and MeOH (C), flowing at 0.4 ml/min. Gradient started at 100% A and reached 100% B in 10 min, being kept for 6 min before switching to 100% C to rinse the system in 1 min, being held for 5 min, returning back to 100% A in 1 min and finally equilibrating for 3 min, with a total run duration of 26 min. For ESI-, the mobile phase was composed of water buffered at pH 6.45 with 10 mM of ammonium formate (A) and MeOH (B) flowing at 0.3 ml/min. The gradient started at 100% A and reached 100% B in 13 min, holding this condition for 7 min before turning back to 100% A in 1 min and finally equilibrating for 3 min, with a total run duration of 24 min. For both chromatographic methods the temperature of the column oven was kept at 30 °C."	"Samples were analyzed on 2 UHPLC/HRMS instruments. The UPLC-TOF-MS platform was a Waters Xevo G2-S ToF MS operated in centroid mode (resolution of 30,000 FWHM at m/z 200, m/z range from 60 to 800, 2 scans/s) (full details about the analytical method have been previously published[1]). The UPLC-Orbitap-MS platform was a Thermo Scientific Q-Exactive Orbitrap MS operated in centroid mode (resolution of 70,000 FWHM at m/z 200, m/z range from 60 to 800). For the Orbitrap MS method “AGC target” and “Maximum IT” parameters were set to 106 and 200 ms respectively.
+</p>
+Ref:</br>
+[1] Cladière M, Delaporte G, Le Roux E, Camel V. Multi-class analysis for simultaneous determination of pesticides, mycotoxins, process-induced toxicants and packaging contaminants in tea. Food Chem. 2018 Mar 1;242:113-121. doi:10.1016/j.foodchem.2017.08.108. PMID:2903766</br>"	"Raw data files were first converted to an open-source format (.mzXML) with the help of ProteoWizard module “MSConvert”[1].
+</p>
+Ref:</br>
+[1] Chambers MC et al. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. doi:10.1038/nbt.2377. PMID:23051804</br>"	"Data files (.mzXML) were uploaded onto the Workflow4Metabolomics (W4M) computation platform[1]. Data matrices were built using XCMS R package[2]. Parameters for XCMS algorithm were inspired by those previously suggested[3] for high resolution UHPLC-Q-ToF and UHPLC-Orbitrap instruments. The full list of parameters for both Orbitrap and ToF data files can be found in Table A3 in the Supplementary material of the paper associated with this study.
+</p>
+After peak picking, data was imported in Matlab and peaks were first filtered using univariate statistical tests (student tests) and fold change determination. Peaks already present in blank injections (p-value<0.05 for t-test between sample groups and blank injections) were discarded, and only peaks exhibiting high contrast between sample groups were kept (p-value<0.05 for pairwise t-test between sample groups and fold change>2). A second filtration strategies based on the determination of a minimal relevant fold change has been implemented in parallel.
+</p>
+Reduced data matrix was then log- and pareto-scaled and normalized using PQN (Probabilistic Quotient Normalization) before multivariate analysis with Independent Components Analysis (ICA). Thanks to ICA, data were visualized and discriminating peaks extracted and annotated with the help of a data base search and an isotopic pattern detection based on the previously published approach[4].
+</p>
+Ref:</br>
+[1] Giacomoni F et al. (2015). Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics. Bioinformatics. 2015 May 1;31(9):1493-5. doi:10.1093/bioinformatics/btu813. PMID:25527831</br>
+[2] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. doi:10.1021/ac051437y. PMID:16448051</br>
+[3] Patti GJ, Tautenhahn R, Siuzdak G. Meta-analysis of untargeted metabolomic data: Combining results from multiple profiling experiments Nature Protocols, 7 (3) (2013), 508-516. doi:10.1038/nprot.2011.454.Meta-Analysis</br>
+[4] Cotton J, Leroux F, Broudin S, Marie M, Corman B, Tabet JC, Ducruix C, Junot C. High-resolution mass spectrometry associated with data mining tools for the detection of pollutants and chemical characterization of honey samples. J Agric Food Chem. 2014 Nov 19;62(46):11335-45. doi:10.1021/jf504400c. PMID:25358104</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	";;;;"	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	";;;;"	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Camel"	"Cladière"	"Delaporte"
+Study Person First Name	"Valérie"	"Mathieu"	"Grégoire"
+Study Person Mid Initials	""	""	""
+Study Person Email	"valerie.camel@agroparistech.fr"	"mathieu.cladière@agroparistech.fr"	"gregoire.delaporte@gmail.com"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"16 rue Claude Bernard, 75005 Paris, France"	"16 rue Claude Bernard, 75005 Paris, France"	"16 rue Claude Bernard, 75005 Paris, France"
+Study Person Affiliation	"AgroParisTech"	"AgroParisTech"	"AgroParisTech"
+Study Person Roles	""	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

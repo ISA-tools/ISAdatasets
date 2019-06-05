@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BIRNLEX"	"NCBITAXON"	"GO"	"EDAM"	"CHEBI"	"BTO"	"EFO"	"CHMO"	"UO"	"NCIT"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/BIRNLEX"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/EDAM"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"1"	"2"	"1358"	"19"	"80"	"22"	"146"	"5"	"42"	"44"	"22"	
+Term Source Description	"Biomedical Informatics Research Network Project Lexicon"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"EDAM bioinformatics operations, data types, formats, identifiers and topics"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS723"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\pdetullio\Documents\ISACreator_Metabo\I\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS723"
+Study Title	"CXCL12 and MYC control energy metabolism to support adaptive responses after kidney injury"
+Study Description	"Kidney injury is a common complication of severe disease. Here, we report that injuries of the zebrafish embryonal kidney are rapidly repaired by a migratory response in 2-, but not in 1-day-old embryos. Gene expression profiles between these two developmental stages identify cxcl12a and myca as candidates involved in the repair process. Zebrafish embryos with cxcl12a, cxcr4b, or myca deficiency display repair abnormalities, confirming their role in response to injury. In mice with a kidney-specific knockout, Cxcl12 and Myc gene deletions suppress mitochondrial metabolism and glycolysis, and delay the recovery after ischemia/reperfusion injury. Probing these observations in zebrafish reveal that inhibition of glycolysis slows fast migrating cells and delays the repair after injury, but does not affect the slow cell movements during kidney development. Our findings demonstrate that Cxcl12 and Myc facilitate glycolysis to promote fast migratory responses during development and repair, and potentially also during tumor invasion and metastasis."
+Study Submission Date	"2018-08-01"
+Study Public Release Date	"2018-09-08"
+Study File Name	"s_CXL12 - MYC.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"CXCL12-activated CXCR4 signaling pathway"	"nuclear magnetic resonance spectroscopy"	"Danio rerio"	"Knock-Out Mouse"	"ischemia reperfusion injury"	"Gene expression profile"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/GO_0038160"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/NCBITaxon_7955"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14339"	"http://www.ebi.ac.uk/efo/EFO_0002687"	"http://edamontology.org/data_0928"	""
+Study Design Type Term Source REF	"GO"	"CHMO"	"EFO"	"NCIT"	"EFO"	"EDAM"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"30202007"
+Study Publication DOI	"10.1038/s41467-018-06094-4"
+Study Publication Author List	"Yakulov TA, Todkar AP, Slanchev K, Wiegel J, Bona A, Groß M, Scholz A, Hess I, Wurditsch A, Grahammer F, Huber TB, Lecaudey V, Bork T, Hochrein J, Boerries M, Leenders J, de Tullio P, Jouret F, Kramer-Zucker A, Walz G."
+Study Publication Title	"CXCL12 and MYC control energy metabolism to support adaptive responses after kidney injury."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Gene knock-out"
+Study Factor Type	"gene knock out"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000506"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_cxl12_-_myc_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"All animal experiments were approved by the local authorities (Regierungspräsidium Freiburg), and performed according to German law governing welfare of animals. Mice were housed with free access to chow and drinking water, and a 12-hr day/night cycle. Standard procedures were used for breeding, maintenance, tail biopsy and genotyping. Cxcl12fl/fl mice and Cxcr4fl/fl mice, obtained from The Jackson Laboratory (Bar Harbor, ME, USA), were crossed with Pax8rtTA and TetOCre animals as previously described[1]. All animals used in I/R injury experiments were 10 to 12 weeks old male mice and littermates. After a 1 week-washout, renal ischemia reperfusion (I/R) injury was performed under isoflurane anesthesia (4% isoflurane, 4 l/min flow for induction, followed by 2% isoflurane and 1 l/min flow for maintenance). Animals were kept on a heated surgical pad in supine position, and treated with the analgesic buprenorphine hydrochloride 0.05 mg/kg body weight subcutaneously before surgery. Renal pedicles were exposed via an abdominal midline incision. Renal arteries were clamped for 22.5 min at 37 °C. After reperfusion, warm 0.9% NaCl was injected (40 µl/g body weight) intraperitoneally, and metamizol was given for pain control via the drinking water (500 mg metamizol/100 ml water). Mice were sacrificed under ketamine/xyalzine anesthesia (120 µg/g and 8 µg/g body weight, i.p.), and urine was collected 12 hr after I/R injury.
+</p>
+Ref:</br>
+[1] Grahammer F, Haenisch N, Steinhardt F, Sandner L, Roerden M, Arnold F, Cordts T, Wanner N, Reichardt W, Kerjaschki D, Ruegg MA6, Hall MN, Moulin P, Busch H, Boerries M, Walz G, Artunc F, Huber TB. mTORC1 maintains renal tubular homeostasis and is essential in response to ischemic stress. Proc Natl Acad Sci U S A. 2014 Jul 8;111(27):E2817-26. doi:10.1073/pnas.1402352111. PMID:24958889</br>"	"No extraction was carried out in this study."	"Urine samples (50 μl) were supplemented with 170 μl of deuterated phosphate buffer (DPB, pH 7.4), 30 μl of a 5 mM solution of maleic acid and 1 μl of a 10 mg/ml TMSP solution. Samples were finally transferred into 2.5 mm NMR tube. Maleic acid was used as internal standard for quantification and trimethylsilyl-3-propionic acid-d4 (TMSP) for the zero calibration."	"All samples were recorded at 298 K on a Bruker Avance HD spectrometer operating at 700 MHz for the acquisition. The instrument was equipped with a 5 mm TCI cryoprobe with a Z-gradient. The samples were measured at 298 K."	"1H-NMR spectra were acquired using a 1D NOESY sequence with presaturation for urine samples. The Noesypresat experiment used a RD-90°-T1-90°-Tm-90°-acquire sequence with a relaxation delay of 4 s, a mixing time (Tm) of 10 ms, and a fixed T1 delay of 4 μs. Water-suppression pulse was placed during the relaxation delay (RD). The number of transient was 64 (64K data points), and a number of 4 dummy scans was chosen. Acquisition time was fixed to 3.2769001 s. 
+</p>
+Gradient enhanced magnitude COSY experiment (pulse sequence cosygpprqf supplied by Bruker) with a pre-saturation during relaxation delay was used for 2D measurements. Spectra were collected with 4096 points in F2 and 300 points in F1 over a sweep width of 10 ppm, with 6 scans per F1 value. The acquisition times were fixed to 0.2557028s in F2 and 0.0187212 in F1.
+</p>
+Edited Hetero-nuclear single quantum correlation HSQC (pulse sequence HSQCEDETGP) with 256 increments, 32 transients, a 1.5 s relaxation delay, sweep width of 14 and 100 ppm and offsets of 6.012 and 47 ppm was used."	"The data were processed with the Bruker Topspin 3.2 software with a standard parameter set. Phase and baseline corrections were performed manually over the entire range of the spectra, and the δ scale was calibrated to 0 ppm, using the internal standard TMSP. Optimized 1H-NMR spectra were then automatically baseline-corrected and reduced to ASCII files using AMIX software (version 3.9.14; Bruker). The spectral intensities were normalized to total intensities and reduced to integrated regions of equal width (0.04 ppm) corresponding to the 0.5–10.00 ppm region. Because of the residual signals of water and maleic acid, regions between 4.7 and 5 ppm (water signal) and 5.9–6.1 ppm (maleic acid signal) were removed before analysis. The reduced and normalized NMR spectral data were imported into SIMCA (version 13.0.3, Umetrics AB, Umea Sweden). Pareto scaling was finally applied to bucket tables.
+</p>
+The resulting COSY spectra were processed in Topspin 3.2 using standard methods, with sine-squared apodization in both dimensions and zero filling in F1 to yield a transformed 2D dataset of 2048 by 2048 points.
+</p>
+HSQC spectra were processed on Topspin 3.2 using standard methods, with sine-squared apodization in both dimensions and zero filling in F1 to yield a transformed 2D dataset of 1024 by 1024 points."	"From PLS-DA loading plots, metabolites with higher loadings were identified. Signals with values of Variable Importance in Projection (VIP) higher than 1 were considered as significant, and further validated using t-test with Metaboanalyst. Metabolite identification was next performed using the open-access database NMR suite 8.1 (Chenomx inc., Edmonton, Canada), the free web-based tool HMDB (http://www.hmdb.ca) and tables. Each metabolite identified was finally confirmed by performing peak correlation plots from 2D-NMR spectra (COSY and HSQC)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Walz"	"Jouret"	"De Tullio"	"Leenders"
+Study Person First Name	"Gerd"	"François"	"Pascal"	"Justine"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"gerd.walz@uniklinik-freiburg.de"	" francois.jouret@chuliege.be"	"p.detullio@ulg.ac.be"	"justineleenders@gmail.com"
+Study Person Phone	""	"+3243662540"	"+3243664373"	"+3243664368"
+Study Person Fax	""	""	""	""
+Study Person Address	"Renal Division
+University Freiburg Medical Center
+Hugstetter Strasse 55
+D-79106 Freiburg
+Germany
+"	"Division of Nephrology
+University of Liege CHU - GIGA Cardiovascular Sciences
+Tour de Pathologie, B23/+5
+B-4000 Sart Tilman (Liège)
+Belgium"	"CIRM, Chimie Pharmaceutique
+Université de Liège
+Quartier Hôpital, Avenue Hippocrate 15
+B-4000 Liège, Belgique"	"CIRM, Chimie Pharmaceutique
+Université de Liège
+Quartier Hôpital, Avenue Hippocrate 15
+B-4000 Liège, Belgique"
+Study Person Affiliation	"University Freiburg Medical Center, Renal Division"	"University of Liege CHU - GIGA Cardiovascular Sciences"	"University of Liège, CIRM, Metabolomics Group"	"University of Liège, CIRM, Metabolomics Group"
+Study Person Roles	"Principal investigator"	"Principal investigator"	"Principal investigator"	"PhD Student"
+Study Person Roles Term Accession Number	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"	"http://bioontology.org/projects/ontologies/birnlex#birnlex_2152"	""
+Study Person Roles Term Source REF	"BIRNLEX"	"BIRNLEX"	"BIRNLEX"	""

@@ -1,0 +1,114 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"BRO"	"CHMO"	"NCBITAXON"	"EFO"	"OBI"	"NCIT"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/BRO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"14"	"18"	"6"	"113"	"23"	"44"	"86"	"29"	
+Term Source Description	"Biomedical Resource Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS473"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UsersulaszewskmDownloadsISAcreatorMetaboLightsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS473"
+Study Title	"Host: microbiome co-metabolic processing of dietary polyphenols – an acute, single blinded, cross-over study with different doses of apple polyphenols in healthy subjects"
+Study Description	"Apples are one of the most commonly consumed fruits and their high polyphenol content is considered one of the most important determinants of their health-promoting activities. Here we studied the nutrikinetics of apple polyphenols by UHPLC-HRMS metabolite fingerprinting, comparing the bioavailability when assumed in a natural or a polyphenol-enriched cloudy apple juice. Twelve men and women participated in an acute single blind controlled crossover study in which they consumed 250 mL of cloudy apple juice (CAJ), Crispy Pink apple variety, or 250 mL of the same juice enriched with 750 mg of an apple polyphenol extract (PAJ). Plasma and whole blood were collected at time 0, 1, 2, 3 and 5 h. Urine was collected at time 0 and 0-2, 2-5, 5-8, and 8-24 h after juice consumption. Faecal samples were collected from each individual during the study for 16S rRNA gene profiling. As many as 110 metabolites were significantly elevated following intake of polyphenol enriched cloudy apple juice, with large inter-individual variations. The comparison of the average area under the curve of circulating metabolites in plasma and in urine of volunteers consuming either the CAJ or the PAJ demonstrated a stable metabotype, suggesting that an increase in the concentration of polyphenols in the fruit do not limit their bioavailability. Faecal bacteria were correlated with specific microbial catabolites derived from apple polyphenols. Human metabolism of apple polyphenols is a co-metabolic process between human encoded activities and those of our resident microbiota. Here we have identified specific blood and urine metabolic biomarkers of apple polyphenol intake and identified putative associations with specific genera of gut bacteria, associations which now need confirmation in specifically designed mechanistic studies."
+Study Submission Date	"2017-06-08"
+Study Public Release Date	"2018-06-08"
+Study File Name	"s_MTBLS473.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Malus x domestica"	"untargeted metabolites"	"Pharmacokinetics Pharmacodynamics"	"Nutrition"	"high-performance liquid chromatography-mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/NCBITaxon_3750"	""	"http://bioontology.org/ontologies/ResearchArea.owl#Pharmacokinetics_Pharmacodynamics"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28294"	"http://purl.obolibrary.org/obo/CHMO_0000796"
+Study Design Type Term Source REF	"EFO"	""	"BRO"	"NCIT"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1016/j.foodres.2018.06.016"
+Study Publication Author List	"Kajetan Trost, Marynka Ulaszewska, Jan Stanstrup, Davide Albanese, Carlotta de Filippo, Kieran Tuohy, Fausta Natella, Cristina Scaccini, Fulvio Mattivi"
+Study Publication Title	"Host: microbiome co-metabolic processing of dietary polyphenols – an acute, single blinded, cross-over study with different doses of apple polyphenols in healthy subjects"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time Point"	"Meal"	"Person"
+Study Factor Type	"timepoint"	"Group"	"Study Subject"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls473_POS_Plasma_mass_spectrometry.txt"	"a_mtbls473_NEG_Plasma_mass_spectrometry.txt"	"a_mtbls473_POS_Urine_mass_spectrometry.txt"	"a_mtbls473_NEG_Urine_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"LTQ XL (Thermo Scientific)"	"LTQ XL (Thermo Scientific)"	"LTQ XL (Thermo Scientific)"	"LTQ XL (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Urine was collected at time 0 and between 0 and 2, 2 and 5, 5 and 8, and 8 and 24 hr after juice consumption. Urine samples from 0 to 8 hr were stored at 4 °C immediately after voiding, while 8-24 hr urine samples were collected in 2.5 l plastic bottles containing 9 ml hydrochloridric acid 20% as a preservative. Urine samples were aliquoted and stored at -80 °C until analysis. 
+</p>
+A venous blood sample was taken at time 0. Immediately after the first blood collection, participants were provided with experimental meals. Further blood samples were taken at 1, 2, 3 and 5 hr after meals consumption."	"200 µl of urine sample was added to 200 µl of internal standards dissolved in methanol. Samples were vortexed and centrifuged at 4 °C and 15,000 rpm followed by filtration with 4 mm Millex DURAPORE PVDF filters with 0.45 um pore size (Millipore,USA) and diluted with 600 µl of deionized water[1]. 
+</p>
+For plasma samples, Sirocco protein precipitation plate and positive pressure manifold (Waters, USA) were used for filtration. 100 µl of plasma was oaded into well plate, and 300 µl of cold methnol was added. After filtration the samples were evaporated under nitrogen and redissolved with 200 µl of methanol:water (1:1 V/V).
+</p>
+Ref:</br>
+[1] Zhang T, Creek DJ, Barrett MP, Blackburn G, Watson DG. Evaluation of coupling reversed phase, aqueous normal phase, and hydrophilic interaction liquid chromatography with Orbitrap mass spectrometry for metabolomic studies of human urine. Anal Chem. 2012 Feb 21;84(4):1994-2001. doi:10.1021/ac2030738. PMID:22409530</br>"	"Thermo Scientific Dionex UltiMate HPLC system was used for chromatographic separation. Kinetex C18 column (150 mm x 2.1 mm I.D., particle size 3.5 µm) with pre-column 4.0 mm x 2.0 mm I.D (Phenomenex Torrance, CA, USA) was used. The flow rate was 300 ul/min and column temperature was maintained at 30 °C.
+</p>
+For urine, mobile phases used were: Milli-Q water (Solvent A), acetonitrile (Solvent B), all with 0.1% formic acid. Urine was analysed with the following gradient: 95% of solvent A and 5% of solvent B were maintained for 1 min, followed by an increase of solvent B to 45% in 12 min and to 80% in 2 min and maintained for 2 min. The initial composition was restored in 3 min.
+</p>
+For plasma, mobile phases used were: Milli-Q water (Solvent A), acetonitrile (Solvent B), and 2-propanol (Solvent C) all with 0.1% formic acid. Plasma was analysed with following gradient:  95% of solvent A and 5% of solvent B maintained for 1 min followed by an increase of solvent B to 100% in 19 min. Then the phase C volumetric ratio was increased to 50% in 5 min, while solvent A was maintained at 0%. In two minutes the initial conditions were restored and held for 3 min. "	"The Orbitrap LTQ was equipped with an Electrospray Ionization (ESI) probe and operated in both positive and negative ionization modes. The conditions have been described elsewhere[1]. Briefly the mass spectrometer operated under data-dependent-acquisition (DDA) mode during the complete chromatographic run. The resolving power for MS scan was 30,000 and for MS2 scans 7500. The static exclusion list was made up of the 300 most abundant ions created by the injection of solvents, which followed the same preparation procedures as the samples. Dynamic exclusion allowed 3 repeated counts of the same ion in 15 s, while the exclusion duration was 45 s. The sequences were randomised with regard to participants and treatments, while samples from the same individual were kept together. Every 20 samples a quality control block was analysed consisting of solvents, internal standards and quality control samples.
+</p>
+Ref:</br>
+[1] Ulaszewska MM, Trost K, Stanstrup J et al. Metabolomics (2016) 12: 32. doi:10.1007/s11306-015-0935-z</br>"	"Data from full scan MS level were transformed into open mzXML format."	"Markers contributing to the discrimination between two treatments were identified through a multiple-step procedure. Molecular ion and in-source molecular fragments were assigned as one compound based on a mass accuracy approach and peak shape. Discriminative markers were then compared with the monoisotopic molecular weight, chemical structures and LC-MS/MS spectra of metabolites proposed by freely available databases: m/z Cloud (www.mzcloud.org); the Human Metabolome DB[1], the METLIN[2], the MassBank[3] and the LIPID MAPS[4] databases. Mass accuracy was set to 2 mDa while searching on-line. Additionally, information from MSn experiments were introduced to Met-Fusion[5] to get candidate structures. Final identification was achieved after a combination of LC-HRMS2, LC-HRMS3 experiments, on-line database information and literature verification. Levels of identification reported in Supplementary Materials 2, in the paper associated with this study, are as follow:  Level I corresponds to compounds identified by matching masses and retention times with authentic standards in the laboratory, or by matching with LC-HR-MS and LC-HR MS/MS and LC-HR-MSn of standards reported in the literature; Level II corresponds to compounds identified by LC-MS, LC-MS2 and/or LC-MSn spectra and matched to spectra from databases and literature. Compounds identified only by spectral similarities to a similar compound class and literature knowledge are reported as level III. Unknown compounds are reported as level IV. 
+</p>
+Ref:</br>
+[1] Wishart DS, Knox C, Guo AC, Eisner R, Young N, Gautam B, et al. (2009). HMDB: A knowledgebase for the human metabolome. Nucleic Acids Res. 2009 Jan;37(Database issue):D603-10. doi:10.1093/nar/gkn810. PMID:18953024</br>
+[2] Smith CA, O'Maille G, Want EJ, Qin C, Trauger SA, Brandon TR, Custodio DE, Abagyan R, Siuzdak G. METLIN: A metabolite mass spectral database. Ther Drug Monit. 2005 Dec;27(6):747-51. PMID:16404815</br>
+[3] Horai H, Arita M, Kanaya S, Nihei Y, Ikeda T, Suwa K, Ojima Y, Tanaka K, Tanaka S, Aoshima K et al. MassBank: a public repository for sharing mass spectral data for life sciences. J Mass Spectrom. 2010 Jul;45(7):703-14. doi:10.1002/jms.1777. PMID:20623627</br>
+[4] Sud M, Fahy E, Cotter D, Brown A, Dennis EA, Glass CK, Merrill AH Jr, Murphy RC, Raetz CR, Russell DW, Subramaniam S. LMSD: LIPID MAPS structure database. Nucleic Acids Res. 2007 Jan;35(Database issue):D527-32. doi:10.1093/nar/gkl838. PMID:17098933</br>
+[5] Gerlich M and Neumann S. MetFusion: integration of compound identification strategies. J Mass Spectrom. 2013 Mar;48(3):291-8. doi:10.1002/jms.3123. PMID:23494783</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Mattivi"
+Study Person First Name	"Fulvio"
+Study Person Mid Initials	""
+Study Person Email	"fulvio.mattivi@fmach.it"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"Via Mach 1, 38010 San Michele all'Adige (TN) - Italy"
+Study Person Affiliation	"Fondazione Edmund Mach, Research and Innovation Centre Food Quality and Nutrition Department"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

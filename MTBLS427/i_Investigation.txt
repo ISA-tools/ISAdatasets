@@ -36,14 +36,14 @@ Study Identifier	"MTBLS427"
 Study Title	"SPE-IMS-MS: An automated platform for sub-sixty second surveillance of endogenous metabolites and xenobiotics in biofluids"
 Study Description	"Characterization of endogenous metabolites and xenobiotics is essential to deconvoluting the genetic and environmental causes of disease. However, surveillance of chemical exposure and disease-related changes in large cohorts requires an analytical platform that offers rapid measurement, high sensitivity, efficient separation, broad dynamic range, and application to an expansive chemical space. Here, we present a novel platform for small molecule analyses that addresses these requirements by combining solidphase extraction with ion mobility spectrometry and mass spectrometry (SPE-IMS-MS). This platform is capable of performing both targeted and global measurements of endogenous metabolites and xenobiotics in human biofluids with high reproducibility (CV <= 3%), sensitivity (LODs in the pM range in biofluids) and throughput (10-s sample-to-sample duty cycle). We report application of this platform to the analysis of human urine from patients with and without type 1 diabetes, where we observed statistically significant variations in the concentration of disaccharides and previously unreported chemical isomers. This SPE-IMS-MS platform overcomes many of the current challenges of large-scale metabolomic and exposomic analyses and offers a viable option for population and patient cohort screening in an effort to gain insights into disease processes and human environmental chemical exposure."
 Study Submission Date	"2017-01-31"
-Study Public Release Date	"2017-02-15"
+Study Public Release Date	"2017-02-14"
 Study File Name	"s_mtbls427.txt"
 STUDY DESIGN DESCRIPTORS
 Study Design Type	"Ion Mobility Spectrometry"	"untargeted metabolites"	"Exposomics"	"diabetes mellitus"	"targeted metabolites"	"Solid-Phase Extraction Ion Mobility Spectrometry Mass Spectrometry"
 Study Design Type Term Accession Number	""	""	""	"http://www.ebi.ac.uk/efo/EFO_0000400"	""	""
 Study Design Type Term Source REF	""	""	""	"EFO"	""	""
 STUDY PUBLICATIONS
-Study PubMed ID	""
+Study PubMed ID	"29276770"
 Study Publication DOI	"10.1016/j.clinms.2016.11.002"
 Study Publication Author List	"Xing Zhang, Michelle Romm, Xueyun Zheng, Erika M. Zink, Young-Mo Kim, Kristin E. Burnum-Johnson, Daniel J. Orton, Alex Apffel, Yehia M. Ibrahim, Matthew E. Monroe,
 Ronald J. Moore, Jordan N. Smith, Jian Ma, Ryan S. Renslow, Dennis G. Thomas, Anne E. Blackwell,

@@ -1,0 +1,110 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"CHMO"	"NCBITAXON"	"EFO"	"NCIT"	"OBI"	"CHEBI"	"UO"	"LBO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/LBO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"18"	"6"	"146"	"44"	"22"	"99"	"43"	"2"	"29"	
+Term Source Description	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	"Livestock Breed Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS675"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\luca\Desktop\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS675"
+Study Title	"Characterization of trotter horses urine metabolome by means of proton nuclear magnetic resonance spectroscopy"
+Study Description	"BACKGROUND: Metabolomics has been recognized as a powerful approach for disease screening. In order to highlight potential health issues in subjects, a key factor is the possibility to compare quantitatively the metabolome of their biofluids with reference values from healthy individuals. Such efforts towards the systematic characterization of the metabolome of biofluids in perfect health conditions, far from concluded for humans, have barely begun on horses. </br> OBJECTIVES: The present work attempts, for the first time, to give reference quantitative values for the molecules mostly represented in the urine metabolome of horses at rest and under light training, as observable by 1H-NMR. </br> METHODS: The metabolome of ten trotter horses, four male and six female, ranging from 3 to 8 years of age, has been observed by 1H-NMR spectroscopy before and after three training sessions. </br> RESULTS: We could characterize and quantify 54 molecules in trotter horse urine, originated from diet, protein digestion, energy generation or gut-microbial co-metabolism. </br> CONCLUSION: We were able to describe how gender, age and exercise affected their concentration, by means of a two steps protocol based on univariate and robust principal component analysis."
+Study Submission Date	"2018-05-09"
+Study Public Release Date	"2019-05-09"
+Study File Name	"s_Trotter_Horse_Urine_Metabolome.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-018-1403-3"
+Study Publication Author List	"Chenglin Zhu, Vanessa Faillace, Fulvio Laus, Marilena Bazzano, Luca Laghi"
+Study Publication Title	"Characterization of trotter horse urine metabolome by means of proton nuclear magnetic resonance spectroscopy "
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Age"	"Gender"	"Exercise"
+Study Factor Type	"age"	"Gender"	"exercise"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000246"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"	"http://www.ebi.ac.uk/efo/EFO_0000483"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_trotter_horse_urine_metabolome_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"10 Standardbred horses, 6 females and 4 males, body condition score (BCS) 2.8–3.0 out of 5[1], aged between 3 and 8 years (median 6.5 years), were enrolled in the present study. The weight of the horses ranged between 405 and 511 Kg (median 479 Kg). All horses had the same fitness level and were regularly trained from at least 6 months prior the beginning of the trial. Once enrolled, the horses were stabled in individual boxes and were administered a standardized diet composed by hay (a mix of ryegrass and wild oats) and complementary feed (containing a mix of oats, barley, wheat and alfalfa pellets). The diet remained unchanged throughout the year. Horses enrolled in the study did not have access to pasture during the experimental period. The daily exercise schedule consisted of standardized progressive work sessions of walk and trot. All the horses included in the study received no drug and showed no clinical sign of disease (dyspnea, anorexia/disorexia, weight loss, nasal discharge, cough, fever, diarrhea, lameness) throughout the 3 months prior to the sampling period and throughout the study.
+</p>
+3 urine samples per animal were collected in different moments of the year (listed in Table 1 in the paper associated with this study) by means of a stick connected with a sterile 50 ml Falcon tube containing NaN3, placed under the urine flow at the time of urination. Urine was frozen at − 80 °C within 2 h after collection.
+</p>
+Ref:</br>
+[1] Carroll CL and Huntington PJ. Body condition scoring and weight estimation of horses. Equine Vet J. 1988 Jan;20(1):41-5. PMID:3366105</br>"	"No extraction was carried out in this study."	"Urine samples were prepared for NMR by thawing and centrifuging them for 15 min at 18,630 x g at 4 °C. An amount of supernatant equal to 350 μl was added to 350 μl of bi-distilled water and to 200 μl of a D2O solution of 3-(trimethylsilyl)-propionic-2,2,3,3-d4 acid (TSP) sodium salt 10 mM, buffered at pH 7.00 ± 0.02 by means of 1 M phosphate buffer.  After centrifugation, the samples were placed in an NMR tube of 5 mm of diameter."	"1H-NMR spectra were recorded at 298 K with an AVANCE III spectrometer (Bruker, Milan, Italy), at a frequency of 600.13 MHz, equipped with Topspin software (Ver. 3.5)."	"As published previously[1], the signals from broad resonances were suppressed by a CPMG-filter composed by 400 echoes with a tau of 400 μs and a 180° pulse of 24 μs, for a total filter of 330 ms. The HOD residual signal was suppressed by means of presaturation. This was done by employing the cpmgpr1d sequence.
+</p>
+Ref:</br>
+[1] Foschi C, Laghi L, D'Antuono A, Gaspari V, Zhu C, Dellarosa N, Salvo M, Marangoni A. Urine metabolome in women with Chlamydia trachomatis infection. PLoS One. 2018 Mar 22;13(3):e0194827. doi:10.1371/journal.pone.0194827. PMID:29566085</br>"	"Topspin software was used to apply a line broadening of 0.3 Hz and to adjust the phase of each spectrum, while R computational language[1] was employed for any further spectra processing, molecules quantification and data mining step, by means of scripts developed in house. The spectra were aligned towards TSP signal (-0.017 ppm). The baseline of each spectrum was then adjusted by means of peak detection according to the “rolling ball” principle[2] implemented in the “baseline” R package[3]. We finally applied a linear correction to each spectrum.
+</p>
+Ref:</br>
+[1] R Development Core Team. (2011). R: A language and environment for statistical computing (Vol. 1). Vienna, Austria: R foundation for statistical computing. doi:10.1007/978-3-540-74686-7.</br>
+[2] Kneen MA and Annegarn HJ. (1996). Algorithm for fitting XRF, SEM and PIXE X-ray spectra backgrounds. Nuclear Instruments and Methods in Physics Research, Section B: Beam Interactions with Materials and Atoms, 109–110, 209–213. doi:10.1016/0168-583X(95)00908-6.</br>
+[3] Liland KH, Almøy T, Mevik BH. Optimal choice of baseline correction for multivariate calibration of spectra. Appl Spectrosc. 2010 Sep;64(9):1007-16. doi:10.1366/000370210792434350. PMID:20828437</br>"	"Signals assignment was performed by comparing chemical shift and multiplicity with the Human Metabolome Database[1], the compounds library (Ver. 10) of Chenomx software (Chenomx Inc., Canada, Ver. 8.3) and literature[2].
+</p>
+Ref:</br>
+[1] Wishart DS, Tzur D, Knox C, Eisner R, Guo AC, Young N et al. HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007 Jan;35(Database issue):D521-6. doi:10.1093/nar/gkl923. PMID:17202168</br>
+[2] Escalona EE, Leng J, Dona AC, Merrifield CA, Holmes E, Proudman CJ, Swann JR. Dominant components of the Thoroughbred metabolome characterised by (1) H-nuclear magnetic resonance spectroscopy: A metabolite atlas of common biofluids. Equine Vet J. 2015 Nov;47(6):721-30. doi:10.1111/evj.12333. PMID:25130591</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Zhu"	"Laghi"	"Faillace"	"Laus"	"Bazzano"
+Study Person First Name	"Chenglin"	"Luca"	"Vanessa"	"Fulvio"	"Marilena"
+Study Person Mid Initials	""	""	""	""	""
+Study Person Email	"chenglin.zhu2@unibo.it"	"l.laghi@unibo.it"	"vanessa.faillace@unicam.it"	"fulvio.laus@unicam.it"	"marilena.bazzano@unicam.it"
+Study Person Phone	""	""	""	""	""
+Study Person Fax	""	""	""	""	""
+Study Person Address	""	""	""	""	""
+Study Person Affiliation	"Centre of Foodomics, Department of Agro-Food Science and Technology, University of Bologna, Cesena, Italy"	"Centre of Foodomics, Department of Agro-Food Science and Technology, University of Bologna, Cesena, Italy"	"School of Biosciences and Veterinary Medicine, University of Camerino. Via Circonvallazione 93/95, 62024 Matelica (MC), Italy"	"School of Biosciences and Veterinary Medicine, University of Camerino. Via Circonvallazione 93/95, 62024 Matelica (MC), Italy"	"School of Biosciences and Veterinary Medicine, University of Camerino. Via Circonvallazione 93/95, 62024 Matelica (MC), Italy"
+Study Person Roles	"Principal investigator"	"Principal investigator"	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""

@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"NCIT"	"OBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"44"	"22"	"86"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS698"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Applications/ISAcreatorMetaboLights-2018/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS698"
+Study Title	"Firefly genomes illuminate parallel origins of bioluminescence in beetles"
+Study Description	"Fireflies and their luminous courtships have inspired centuries of scientific study. Today firefly luciferase is widely used in biotechnology, but the evolutionary origin of bioluminescence within beetles remains unclear. To shed light on this long-standing question, we sequenced the genomes of two firefly species that diverged over 100 million-years-ago: the North American Photinus pyralis and Japanese Aquatica lateralis. To compare bioluminescent origins, we also sequenced the genome of a related click beetle, the Caribbean Ignelater luminosus, with bioluminescent biochemistry near-identical to fireflies, but anatomically unique light organs, suggesting the intriguing hypothesis of parallel gains of bioluminescence. Our analyses support independent gains of bioluminescence in fireflies and click beetles, and provide new insights into the genes, chemical defenses, and symbionts that evolved alongside their luminous lifestyle."
+Study Submission Date	"2018-06-28"
+Study Public Release Date	"2018-08-23"
+Study File Name	"s_Bioluminescent beetle LCMS.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"liquid chromatography-mass spectrometry"	"Bioluminescence"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0000524"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62655"
+Study Design Type Term Source REF	""	"CHMO"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1101/237586"
+Study Publication Author List	"Timothy R Fallon, Sarah E Lower, Ching-Ho Chang, Manabu Bessho-Uehara, Gavin J Martin, Adam J Bewick, Megan Behringer, Humberto J Debat, Isaac Wong, John C Day, Anton Suvorov, Christian J Silva, Kathrin F Stanger-Hall, David W Hall, Robert J. Schmitz, David R Nelson, Sara Lewis, Shuji Shigenobu, Seth M Bybee, Amanda M Larracuente,  Yuichi Oba, Jing-Ke Weng"
+Study Publication Title	"Firefly genomes illuminate parallel origins of bioluminescence in beetles"
+Study Publication Status	"In review"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"life stage"	"gender"
+Study Factor Type	"Life Stage"	"Gender"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89335"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_bioluminescent_beetle_lcms_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography Tandem MS (LC-MS/MS)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Photinus pyralis adult males were collected from field sites in NJ, VA, and CT, and reared Photinus pyralis larvae from eggs laid from mated pairs. Aquatica lateralis (strain Ikeya-Y90) were raised in the laboratory. Ignelater luminosus (Illiger, 1807) adult specimens were collected from private land in Mayagüez, Puerto Rico (18° 13' 12.1974" N, 67° 6' 31.6866" W) with permission of the landowner by Dr. David Jenkins (USDA-ARS)."	"Adult male P. pyralis and A. lateralis hemolymph was extracted by the following methods: A single live adult P. pyralis male was placed in a 1.5 ml microcentrifuge tube with a 5 mm glass bead underneath the specimen, and centrifuged at maximum speed (~20,000 x g ) for 30 sec in a benchtop centrifuge. This centrifugation crushed the specimen on top of the bead, and allowed the hemolymph to collect at the bottom of the tube. Approximately 5 μl was obtained. The extracted hemolymph was diluted with 50 μl methanol to precipitate proteins and other macromolecules. For A. lateralis adult hemolymph, 3 adult male individuals were placed in individual 1.5 ml microcentrifuge tubes with 5 mm glass beads, and spun at 5000 RPM for 1 min in a benchtop centrifuge. The pooled extracted hemolymph (~5 μl), was diluted with 50 μl MeOH, and air dried. The P. pyralis extracted hemolymph was filtered through a 0.2 μm PFTE filter (Filter Vial, P/No. 15530-100, Thomson Instrument Company), whereas the A. lateralis hemolymph residue was redissolved in 100 μl 50% MeOH, and then filtered through the filter vial.
+</p>
+For extraction of P. pyralis larval partial body, the posterior 2 abdominal segments were first cut off from a single laboratory reared larvae (see Appendix 1.3.2 in the paper associated with this study), and the remaining partial body was placed in 180 μl 50% acetonitrile, and macerated with a pipette tip.  The extract was sonicated in a water bath sonicator for ~10 min, not letting the temperature of the bath go above 50 ˚C. The extract was then centrifuged (20,000 x g for 10 min), and filtered through a 0.2 μm PFTE filter (Filter Vial, P/No. 15530-100, Thomson Instrument Company).
+</p>
+For extraction of A. lateralis larval whole body, laboratory reared A. lateralis larvae were flash frozen in liquid N2, lyophilized, and the whole body (dry weight: 29.1 mg) was placed in 200 μl 50% methanol, and macerated with a pipette tip. The extract was sonicated in a water bath sonicator for 30 min, centrifuged (20,000 x g for 10 min), and filtered through a 0.2 μm PFTE filter (Filter Vial, P/No. 15530-100, Thomson Instrument Company).
+</p>
+For extraction of I. luminosus adult thorax, the mesothorax through the 2 most anterior abdominal segments (ventral lantern containing segment + 1 segment) of a lyophilized I. luminosus adult male (see Appendix 3.3 in the paper associated with this study), was separated from the prothorax plus head and posterior 3 abdominal segments. This mesothorax + abdomen fragment was then placed in 0.5 ml 50% methanol, and macerated with a pipette tip.  The extract was then sonicated in a water bath sonicator for ~10 min, not letting the temperature of the bath go above 50 ˚C, centrifuged (20,000 x g for 10 min), and filtered through a 0.2 μm PFTE filter (Filter Vial, P/No. 15530-100, Thomson Instrument Company)."	"Injections of these filtered extracts (P. pyralis adult male hemolymph 10 μl; A. lateralis adult male hemolymph 5 μl; P. pyralis partial larval body extract 5 μl; A. lateralis whole larval body 5 μl; I. luminosus thorax extract 20 μl) were separated and analyzed using an UltiMate 3000 liquid chromatography system (Thermo Scientific) equipped with a 150 mm C18 Column (Kinetex 2.6 μm silica core shell C18 100Å pore, P/No. 00F-4462-Y0, Phenomenex, USA) coupled to a Q-Exactive mass spectrometer (Thermo Scientific, USA). 2 different instrument methods were used, a slow ~44 min method, and an optimized ~28 min method. Chromatographically both methods are identical up to 20 min.
+</p>
+P. pyralis hemolymph compounds were separated by the optimized method (28 min), with separation via reversed-phase chromatography on a C18 column using a gradient of Solvent A (0.1% formic acid in H2O) and Solvent B (0.1% formic acid in acetonitrile); 5% B for 2 min, 5-40% B until 20 min, 40-95% B until 22 min, 95% B for 4 min, and 5% B for 5 min; flow rate 0.8 ml/min. All other sample extracts were separated by the slow (44 min) reversed-phase chromatography method, using a C18 column with a gradient of Solvent A (0.1% formic acid in H2O) and Solvent B (0.1% formic acid in acetonitrile); 5% B for 2 min, 5-80% B until 40 min, 95% B for 4 min, and 5% B for 5 min; flow rate 0.8 ml/min."	"The mass spectrometer was configured to perform one MS1 scan from m/z 120-1250 followed by 1-3 data-dependent MS2 scans using HCD fragmentation with a stepped collision energy of 10, 15, 25 normalized collision energy (NCE). Positive mode and negative mode MS1 and MS2 data were obtained in a single run via polarity switching for the optimized method, or in separate runs for the slow method. Data was collected as profile data. The instrument was always used within 7 days of the last mass accuracy calibration. The ion source parameters were as follows: spray voltage (+) at 3000 V, spray voltage (-) at 2000 V, capillary temperature at 275 ˚C, sheath gas at 40 arb units, aux gas at 15 arb units, spare gas at 1 arb unit, max spray current at 100 (μA), probe heater temp at 350 ˚C, ion source: HESI-II. The raw data in Thermo format was converted to mzml format using ProteoWizard MSConvert. Data analysis was performed with Xcalibur (Thermo Scientific) and MZmine2 (v2.30)."	"Within MZmine2, data were from all 5 samples on positive mode, and were first cropped to 20 min in order to compare data which was obtained with the same LC gradient parameters. Profile MS1 data was then converted to centroid mode with the Mass detection module(Parameters: Mass Detector = Exact mass, Noise level = 1.0E^4), whereas MS2 data was converted to centroid mode with (Noise level = 1.0E^1).  Ions were built into chromatograms using the Chromatogram Builder module with parameters (min_time_span = 0.10,min_height = 1.0E^4, m/z tolerance = 0.001 m/z or 5 ppm. Chromatograms were then deconvolved using the Chromatogram deconvolution module with parameters (Algorithm = Local Minimum Search, Chromatographic threshold = 5.0%, Search Minimum in RT range = 0.10 min, Minimum relative height = 1%, Minimum absolute height = 1.0E^0, Min ratio of peak top/edge = 2, Peak duration range = 0.00-10.00).  Isotopic peaks were annotated to their parent features with the Isotopic peaks grouper module with parameters (m/z tolerance = 0.001 or 5 ppm, Retention time tolerance = 0.2 min, Monotonic shape=yes, Maximum charge = 2, Representative isotope=Most intense). The 5 peaklists (P. pyralis hemolymph, P. pyralis larval partial body, A. lateralis adult hemolymph, A. lateralis larval whole body, I. luminous thorax) were then joined and retention time aligned using the RANSAC algorithm with parameters (m/z tolerance = 0.001 or 10 ppm, RT tolerance = 1.0 min, RT tolerance after correction = 0.1 min, RANSAC iterations = 100, Minimum number of points = 5%, Threshold value = 0.5).  These aligned peaklists were then gap-filled. Systematic mass accuracy error was determined with the endogenous tryptophan [M+H]+ ion (m/z = 205.09, RT = 3.5-4.5 mins), and was measured to be +0.6 ppm, +9.9 ppm, +1.6 ppm, +1.1 ppm, and +0.6ppm, for P. pyralis adult hemolymph, P. pyralis partial larval body extract, A. lateralis adult hemolymph, A. lateralis larval body extract, and I. luminosus thorax extract respectively."	"First, a MS2 similarity search was performed within P. pyralis adult hemolymph for ions that showed a similar MS2 spectra to the MS2 spectra arising from the diacetylated lucibufagin [M+H]+ ion from the same run ([M+H]+ m/z 533.2385, RT = 15.10 mins) (see Appendix 4-Figure 20 in the paper associated with this study). This search was performed through the MS2 similarity search module of MZmine2 (v2.30) with parameters (m/z tolerance: 0.0004 m/z or 1 PPM; minimum # of ions to report: 3). This MS2 similarity search revealed 9 putative lucibufagin isomers with highly similar MS2 spectra (see Appendix 4-Figure 21 in the paper associated with this study), which expanded to 17 putative lucibufagin isomers when considering features without MS2 spectra, but with identical exact masses and close retention times (ΔRT < 2 min) to the previously identified 9 (see Appendix 4-Table 7 in the paper associated with this study). Chemical formula prediction was assigned to each precursor ion using the Chemical formula search module of MZmine2, whereas chemical formula predictions for product ions was performed within MZmine2 using SIRUIS (v3.5.1). The structural identity of the 9 putative lucibufagins detected via the MS2 spectra similarity search was easily interpreted in light that the different chemical formula represented the core lucibufagins that had undergone acetylation (COCH3) or propylation (COCH2CH3), in different combinations. Notably the most substituted isomers, dipropylated lucibufagin ([M+H] m/z 561.2695, RT = 19.54 mins) were close to the edge of the cropped data (20 min), thus it may be possible that more highly substituted lucibufagins with a longer retention times are present, but not detected in the current analysis.
+</p>
+Next, a MS2 similarity search was performed within P. pyralis partial body extract for ions that showed a MS2 spectra similar to that of the dipropylated lucibufagin [M+H]+ ion from the same run ([M+H]+ m/z 561.2738, RT = 19.53). This search was performed through the MS2 similarity search module of MZmine2 (v2.30) with parameters (m/z tolerance: 0.0004 m/z or 1 PPM; minimum # of ions to report: 5).  This MS2 similarity search revealed 14 putative lucibufagin isomers with highly similar MS2 spectra (see Appendix 4-Table 7 in the paper associated with this study).  Complexes, and fragments were manually removed from the analysis. Comparison of the theoretical and observed exact mass indicated that this experimental run had an unusual degree of systematic m/z error, of ~+10 ppm. After manual correction m/z, chemical formula prediction revealed a several putative lucibufagins of unknown structure with nitrogen in their chemical formula, suggesting that the nitrogen containing lucibufagins reported by Gronquist and colleagues from Lucidota atra[1] may be present in P. pyralis larvae.
+</p>
+Ref:</br>
+[1] Gronquist M, Meinwald J, Eisner T, Schroeder FC. Exploring uncharted terrain in nature's structure space using capillary NMR spectroscopy: 13 steroids from 50 fireflies. J Am Chem Soc. 2005 Aug 10;127(31):10810-1. doi:10.1021/ja053617v. PMID:16076169(/br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Fallon"
+Study Person First Name	"Timothy"
+Study Person Mid Initials	"R."
+Study Person Email	"tfallon@mit.edu"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	"455 Main Street, Cambridge, MA, 02142"
+Study Person Affiliation	"Whitehead Institute"
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

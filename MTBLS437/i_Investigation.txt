@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"EFO"	"CHMO"	"NCIT"	"OBI"	"MS"	"OMIT"	"BTO"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OMIT"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"2"	"113"	"5"	"44"	"22"	"86"	"40"	"29"	"6"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Ontology for MicroRNA Target"	"BRENDA Tissue and Enzyme Source Ontology"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS437"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/takumi-MacBookPro/Desktop/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS437"
+Study Title	"Seed Metabolome Analysis of a Transgenic Rice Line Expressing Cholera Toxin B-subunit"
+Study Description	"Rice (Oryza sativa L.) is a candidate crop for production of plant-based vaccines by genetic engineering technologies. MucoRice-CTB has been developed as a rice-seed-based vaccine against cholera by transgenic expression of modified cholera toxin B-subunit (CTB) under the RNA interference (RNAi)-mediated suppression of endogenous seed storage proteins. Here, we performed non-targeted metabolomic profiling of MucoRice-CTB to understand the overall effects of the genetic engineering on rice seed metabolism using gas chromatography/time-of-flight mass spectrometry."
+Study Submission Date	"2017-03-13"
+Study Public Release Date	"2017-08-30"
+Study File Name	"s_Seed Metabolome.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Plants, Genetically Modified"	"metabolomic profiling"	"gas chromatography time-of-flight mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.bioontology.org/ontology/MESH/D030821"	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/CHMO_0000735"	""
+Study Design Type Term Source REF	"MESH"	"EFO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28701756"
+Study Publication DOI	"10.1038/s41598-017-04701-w"
+Study Publication Author List	"Takumi Ogawa, Koji Kashima, Yoshikazu Yuki, Mio Mejima, Shiho Kurokawa, Masaharu Kuroda, Atsushi Okazawa, Hiroshi Kiyono, Daisaku Ohta"
+Study Publication Title	"Seed Metabolome Analysis of a Transgenic Rice Line Expressing Cholera Toxin B-subunit"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Protein overexpression"	"Gene suppression"	"Selection marker gene"	"Cultivation technique"	"Postharvest handling"
+Study Factor Type	"Protein Overexpression"	"gene silencing"	"Genetic Marker"	"Cultivation technique"	"Postharvest handling"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18211"	"http://purl.obolibrary.org/obo/GO_0016458"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16622"	""	""
+Study Factor Type Term Source REF	"NCIT"	"OMIT"	"NCIT"	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_seed_metabolome_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"GCT Premier (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"In this study, we used two transgenic rice lines (abbreviated as MR-CTB51A and MR-RNAi) and their parental non-transgenic rice cultivar (O. sativa L. cv. Nipponbare; abbreviated as NPB). MR-CTB51A is a transgenic rice line expressing modified CTB and RNA interference (RNAi)-triggers for endogenous seed storage protein genes (MucoRice-CTB transgenic rice line 51A [1]). MR-RNAi is a transgenic rice line expressing RNAi-triggers for endogenous seed storage protein genes (MucoRice-RNAi [2]).
+</p>
+In both MR-CTB51A and MR-RNAi, the RNAi-triggers for endogenous seed storage protein genes were designed to suppress both prolamin and glutelin gene expression [1,2]. However, the RNAi-trigger sequences and its promoter differed between the two transgenic rice lines [1,2]. In MR-CTB51A, the trigger sequences were 13 kDa prolamin clone RM1 (Os07g0206500) coding sequence (CDS) positions 1–45 and GluB1 (Os02g0249800) CDS positions 139–366 (controlled by 10 kDa prolamin promoter) [1]. In MR-RNAi, the trigger sequences were 13 kDa prolamin clone RM1 (Os07g0206500) CDS positions 1–45 and GluA2 (Os10g0400200) CDS positions 142–270 (controlled by ubiquitin promoter) [2]. MR-CTB51A is a selection marker-free transgenic rice line generated by an agrobacterium-mediated co-transformation method [1]. In contrast, MR-RNAi is a transgenic rice line harbouring a selection marker gene, hygromycin phosphotransferase (HPT), under the control of cauliflower mosaic virus (CaMV) 35S promoter [2].
+</p>
+MR-CTB51A and NPB plants were hydroponically grown in a growth chamber (for details see Kashima et al. [3]). Brown rice samples from NPB plants grown hydroponically were named NPB-HP. NPB plants were also grown in an open-air paddy field (Niigata, Japan) using a conventional method. A brown rice sample from the NPB plants grown in the paddy field was named NPB-PF. MR-RNAi plants were grown in a soil pot in a growth chamber (for details see Kurokawa et al. [2]).
+</p>
+Rice ears were harvested from MR-CTB51A, MR-RNAi, and NPB plants at least 40 days after heading. After harvesting, the ears were dried in a ventilated incubator for several days until the water content dropped to approximately 10%. From the dried rice ears, rice grains were collected. The husks of the grains were removed to obtain brown rice. Brown rice samples from MR-CTB51A, NPB-HP, and NPB-PF were stored at 4 °C for up to 1–2 weeks. MR-RNAi was stored at room temperature for 4 years. Brown rice samples were powdered and stored at -80 °C until use.
+</p>
+Ref: </br>
+[1] Mejima M., Kashima K., Kuroda M., Takeyama N., Kurokawa S., Fukuyama Y., et al. (2015) Determination of  genomic location and structure of the transgenes in marker-free rice-based cholera vaccine by using whole genome resequencing approach. Plant Cell, Tissue Organ Cult 120: 35–48.</br>
+[2] Kurokawa S., Nakamura R., Mejima M., Kozuka-Hata H., Kuroda M., Takeyama N., et al. (2013) MucoRice-cholera toxin B-subunit, a rice-based oral cholera vaccine, down-regulates the expression of a-amylase/trypsin inhibitor-like protein family as major rice allergens. J Proteome Res 12: 3372–3382.</br>
+[3] Kashima K., Yuki Y., Mejima M., Kurokawa S., Suzuki Y., Minakawa S. et al. (2016) Good manufacturing practices production of a purification-free oral cholera vaccine expressed in transgenic rice plants. Plant Cell Rep35: 667–679.</br>"	"A 50-mg brown rice powder sample and 300 mg of quartz sand (Nacalai Tesque, Kyoto, Japan) were placed in a 2-ml tube (Eppendorf, Hamburg, Germany) and extracted with 1 ml of a methanol–chloroform–2% acetic acid mixture (5:2:1, v/v/v) containing 5 µg/ml ribitol and 20 µg/ml testosterone as internal standard compounds [1]. The suspension was shaken for 2 min at a frequency of 30 Hz in a mixer mill (Retsch MM400; Verder Scientific, Haan, Germany). After centrifugation (12,000 x g, 10 min), the supernatant was collected into a new 2-ml tube (Eppendorf), and the precipitate was re-extracted using the same procedure. The supernatants obtained after the first and second extractions were combined and mixed (vortex mixer). The supernatant (800 µl) was transferred to a new 2-ml tube (Eppendorf), and 500 µl of ultrapure water and 400 µl of chloroform were added to the tube and mixed (vortex mixer). After centrifugation (12,000 x g, 2 min), the upper phase (polar fraction) was separated from the lower phase and the inter-phase (non-polar fraction); fractions were lyophilized in 2-ml tubes (Eppendorf) in a centrifugal concentrator (CC-105; Tomy Seiko, Tokyo, Japan) for 6 h (polar fraction) or 1 h (non-polar fraction).
+</p>
+Transesterification of esterified fatty acids was performed using a base-catalyzed method [1]. Sodium methoxide (500 µl, approximately 30% in methanol; Sigma-Aldrich, St. Louis, MO, United States) was added to the dried non-polar fraction and incubated at 55 °C for 90 min with shaking (1000 rpm; Thermomixer Comfort, Eppendorf). Then, 1% acetic acid (1 ml) and chloroform (400 µl) were added to the tube and mixed (vortex mixer). After centrifugation (12,000 x g, 2 min), the upper phase was discarded, and ultrapure (1 ml) water was added to the tube. After centrifugation (12,000 x g, 2 min), the upper phase was discarded, and the remaining lower phase was lyophilized in the same centrifugal concentrator for 1 h.
+</p>
+Metabolites were derivatized using a combination of methoxamine hydrochloride (Sigma-Aldrich) and N-methyl-N-(trimethylsilyl)trifluoroacetamide (MSTFA; Sigma-Aldrich). Methoxamine hydrochloride solution (20 µl; 40 mg/ml in pyridine) was added to the dried polar and non-polar fractions and incubated at 30 °C for 90 min with shaking (1,000 rpm; Thermomixer Comfort). Then, 80 µl of MSTFA was added and incubated at 37 °C for 30 min with shaking as above. The sample was centrifuged at 12,000 x g for 3 min, the supernatant was filtered through a hydrophilic polytetrafluoroethylene membrane filter unit (Millex-LG; Merck Millipore, Darmstadt, Germany), and a 1-µl aliquot was used in the GC/TOF-MS analysis.
+</p>
+Ref: </br>
+[1] Furuhashi T., Ogawa T., Nakai R., Nakazawa M., Okazawa A., Padermschoke A. et al. (2015) Wax ester and lipophilic compound profiling of Euglena gracilis by gas chromatography-mass spectrometry: toward understanding of wax ester fermentation under hypoxia. Metabolomics 11: 175.</br>"	"An Agilent 6890 Gas Chromatograph (Agilent Technologies, Santa Clara, CA, United States) and an autosampler (PAL GC-xt; CTC Analytics, Zwingen, Switzerland) were used. MassLynx 4.0 software (Waters) was used to control the system. Separation was performed on an HP-5ms column (length, 30 m; inner diameter, 0.25 mm; film thickness, 0.25 µm; Agilent Technologies). Injection port temperature was set at 230 °C. The GC temperature program was as follows: hold at 70 °C for 1 min followed by a 1 °C/min increase to 76 °C and then a 6 °C/min increase to 350 °C, with a final hold time of 3 min. The carrier gas flow (helium, >99.999% purity; Taiyo Nippon Sanso, Tokyo, Japan) was maintained at 1.0 ml/min. The transfer line temperature was set at 250 °C."	"A Micromass GCT Premier Mass Spectrometer (Waters, Milford, MA, United States) was used. MassLynx 4.0 software (Waters) was used to control the system. Mass spectra were acquired at 10 spectra/s with a mass range of 50–650 m/z. The mass spectrometer was operated in the electron ionization mode. All electron ionization spectra were collected using a detector voltage of 2700 V, electron energy of 70 eV, trap current of 50 μA, filament current of 3.6 A, emission current of 100 μA, and ion source temperature of 250 °C."	"Raw data were processed by MetAlign version 041012 [1] (for automated baseline correction and alignment of all extracted mass peaks across all samples) and AIoutput2 version 1.30 [2] (peak deconvolution, conversion of retention time to retention index values, and peak annotation).
+</p>
+The parameter values of the MetAlign step were as follows: Part A: Peak slope factor (x noise) = 4, Peak threshold factor (x noise) = 8, Peak threshold (abs. value) = 500, Average peak width at half height (scans) = 4. Part B: Scaling option, No scaling; Internal peak search criteria, Beginning of 1st region = 0 (Max. shift = 5), End of 1st region = 3500 (Max. shift = 5); Tuning alignment option and criteria, Pre-align processing (iterative); Calculation criteria for chromatography shift profiles, Maximum shift per 100 scans = 35, Min. factor (x noise) at 1st and last iteration = 7 and 7, Min. Nr. of masses at 1st and last iteration = 10 and 5. The processed data were exported and imported into AIoutput2 version 1.30 [2].
+</p>
+The parameter values of the AIoutput2 step were as follows: Height threshold = 500; RT bining = 1; Available index, Retention index; Analysis type, Non targeted; RI tolerance = 20; Match threshold (Identification score) = 0.600; Filtering, Accurate; Height filter = 3,000; RSD (CV) filter = 30. The peaks obtained after the filtering processes are designated as metabolite-candidate peaks. Peak intensity ratios of a metabolite-candidate peak and an internal standard compound (ribitol or testosterone) in the same TIC chromatogram were used to compare metabolite levels among different samples.
+</p>
+Ref:</br> 
+[1] De Vos R. C., Moco S., Lommen A., Keurentjes J. J., Bino R. J., Hall R. D. (2007) Untargeted large-scale plant metabolomics using liquid chromatography coupled to mass spectrometry. Nat Protoc 2: 778-791.</br>
+[2] Tsugawa H., Tsujimoto Y., Arita M., Bamba T., Fukusaki E. (2011) GC/MS based metabolomics: development of a data mining system for metabolite identification by using soft independent modeling of class analogy (SIMCA). BMC Bioinformatics 12: 131.</br>"	"The peak identification was carried out using AIoutput2 version 1.30 [1]. Metabolite-candidate peaks were identified based on a Pearson's product-moment correlation coefficient (PPMCC) considering retention time and weighted mass spectrum between each metabolite-candidate peak and the compounds in our reference library. Out of the 351 metabolite-candidate peaks (198 metabolite-candidate peaks from the non-polar fraction and 153 metabolite-candidate peaks from the polar fraction), 212 were found to match (annotated peaks; identification score =0.600) the compounds stored in our reference library, and 139 did not match (unannotated peaks; identification score <0.600). These annotated peaks are shown with the library top hit compound name with the values of identification score given through the AIoutput2 peak identification processes.
+</p>
+Ref:</br>
+[1] Tsugawa H., Tsujimoto Y., Arita M., Bamba T., Fukusaki E. (2011) GC/MS based metabolomics: development of a data mining system for metabolite identification by using soft independent modeling of class analogy (SIMCA). BMC Bioinformatics 12: 131.</br>"
+Study Protocol URI	""	""	""	""	"
+AIoutput2 version 1.30 (http://prime.psc.riken.jp/Metabolomics_Software/AIoutput/index.html)"	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Ogawa"	"Ohta"	"Okazawa"
+Study Person First Name	"Takumi"	"Daisaku "	"Atsushi"
+Study Person Mid Initials	""	""	""
+Study Person Email	"ogawa@bioinfo.osakafu-u.ac.jp"	"ohtad2g30490@bioinfo.osakafu-u.ac.jp"	"okazawa@plant.osakafu-u.ac.jp"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"1-1 Gakuen-cho, Nakaku, Sakai, Osaka 599-8531, Japan"	"1-1 Gakuen-cho, Nakaku, Sakai, Osaka 599-8531, Japan"	"1-1 Gakuen-cho, Nakaku, Sakai, Osaka 599-8531, Japan"
+Study Person Affiliation	"Osaka Prefecture University"	"Osaka Prefecture University"	"Osaka Prefecture University"
+Study Person Roles	"Study Site Investigator"	"Principal Investigator"	"Study Site Investigator"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

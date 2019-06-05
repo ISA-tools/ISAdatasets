@@ -1,0 +1,132 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"BTO"	"MS"	"CHMO"	"MATR"	"UO"	"NCBITAXON"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/MATR"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/NCBITAXON"	
+Term Source Version	"36"	"33"	"125"	"18"	"1"	"52"	"10"	
+Term Source Description	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Material"	"Units of Measurement Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	
+INVESTIGATION
+Investigation Identifier	"MTBLS694"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/jtpearce/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS694"
+Study Title	"Investigation of cross-platform analytical precision in NMR and UPLC-MS based metabolic-phenotyping"
+Study Description	"Dataset of six samples of pooled human urine, aliquoted, and independently prepared and aquired by NMR spectroscopy, and UPLC-MS. Each source sample is seperatly prepared and assayed thirteen times. A pooled QC sample and independent external reference of a compariable matrix is also aquired to assist in assesing analytical precision."
+Study Submission Date	"2018-06-14"
+Study Public Release Date	"2018-09-03"
+Study File Name	"s_PipelineTest.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Source"	"cross-platform"	"nuclear magnetic resonance spectroscopy"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolomics"
+Study Design Type Term Accession Number	"http://sweet.jpl.nasa.gov/2.3/reprSciComponent.owl#Source"	""	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""
+Study Design Type Term Source REF	"MATR"	""	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Jake TM Pearce, Caroline J Sands, Arnaud M Wolfer, Noureddin Sadawi, Gon�alo DS Correia, Arfan Ahmed, Matthew R Lewis, Robert C Glen, and Jeremy K Nicholson"
+Study Publication Title	"The nPYc-toolbox, a Python module for the pre-processing, quality-control, and analysis of metabolic profiling datasets"
+Study Publication Status	"In Press"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Dilution"
+Study Factor Type	"fold dilution"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/UO_0000322"
+Study Factor Type Term Source REF	"UO"
+STUDY ASSAYS
+Study Assay File Name	"a_pipelinetest_metabolite_profiling_NMR_spectroscopy.txt"	"a_pipelinetest_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"	"Liquid Chromatography MS - Positive (LC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""	""	""
+Study Protocol Description	"This is all intentionally blinded by the ethics - n source samples were split into three groups and pooled to generate samples Devset 1-3. Spot samples of human urine were collected, spun down and aliquoted into 2 ml cryo-vials (minimum volume 700 μl). To avoid bacterial contamination, 0.05% wt/vol of NaN3 water solution was added. Samples were stored at −80 °C until analysis and always kept at 4 °C otherwise.</br></br>
+ 
+Samples were divided into three groups;</br>
+Study sample: Equal aliquots of each sample in a group were mixed to generate the primary samples (DevSet1-3). An additional three samples were generated by pairwise mixing of the primary samples.</br>
+Study reference (SR): The study pool sample consists of an equal mix of all study samples.</br>
+External reference: QC sample composed of urine specimens which are completely independent of the study and used across multiple studies. "	"NMR SAMPLE</br>
+No extraction was carried out.</br></br>
+
+MS SAMPLE</br>
+Individual aliquot plates were removed from -80 °C storage approximately three hours prior to their scheduled analysis and thawed at 4 °C. All study samples were diluted with ultrapure water (75 μl for reversed-phase chromatography preparation, commensurate with the volume of QC sample dilution caused by the addition of method reference. The IS solution (75 μl) was added to all samples.</br>
+Sample plates were sealed with a silicone cap mat, mixed for one minute at 4 °C using a MixMate (Eppendorf) operating at 850 rpm, and centrifuged for 10 mins at 3486 × g. The supernatant was split between two analytical microwell plates, one for positive and one for negative ion mode UPLC - MS analysis. Prepared plates were loaded into a 2777C sample manager (Waters Corp., Milford, MA, USA) where they were held at 4 °C under a constant flow of nitrogen until analysis.</br>
+A dilution series of study reference samples (1%, 10%, 20%, 40%, 60%, 80% and 100% original concentration) was prepared in the same manner described above except that they were prepared in bulk volume in Eppendorf microcentrifuge tubes and the products were stored in polypropylene sample vials for analysis supporting multiple injections from the same stock. Further information for reference samples can be found in Lewis et al. [2].</br></br>
+
+Ref:</br>
+[1] Dona AC, Jiménez B, Schäfer H, Humpfer E, Spraul M, Lewis MR, Pearce JT, Holmes E, Lindon JC, Nicholson JK. Precision high-throughput proton NMR spectroscopy of human urine, serum, and plasma for large-scale metabolic phenotyping. Anal Chem. 2014 Oct 7;86(19):9887-94. doi:10.1021/ac5025039.</br>
+
+[2] Lewis MR, Pearce JT, Spagou K, Green M, Dona AC, Yuen AH, David M, Berry DJ, Chappell K, Horneffer-van der Sluis V, Shaw R, Lovestone S, Elliott P, Shockcor J, Lindon JC, Cloarec O, Takats Z, Holmes E, Nicholson JK. Development and Application of Ultra-Performance Liquid Chromatography-TOF MS for Precision Large Scale Urinary Metabolic Phenotyping. Anal Chem. 2016 Sep 20;88(18):9004-13. doi: 10.1021/acs.analchem.6b01481."	"NMR SAMPLE</br>
+Biofluid Sample Preparation; Urine</br>
+In automation: 600 μl of each urine sample is added into a 96-well plate. The well plate is centrifuged at 1800g for 5 min to sediment insoluble material before positioning in the NMR flow-injection Liquid Handler robot. The robot will mix 540 μl of sample with 60 μl of urine buffer ([1] see Section S.3 of the Supporting Information) into the NMR tube for a total volume of 600 μl.</br></br>
+
+Sample ordering was randomized and samples aliquoted into 96-well plates for NMR spectroscopy using a Bruker Sample Track system and a Liquid Handler 215 preparation robot. The 96-well plate contained composite QC and LTR quality control (QC) reference samples. Additionally, in one well pure water was added in place of a sample, the preparation of a buffer blank elucidates whether the robot is behaving correctly and the buffer has been prepared without contamination.</br></br>
+"	"High-throughput 1H NMR spectra was carried out using a Bruker Avance III HD console combined with a 14.1 T magnet for 1H 600 MHz. It was equipped with a 5 mm broadband inverse configuration probe with a z axis magnetic field-gradient capability. The instrument has a Bruker SampleJet system set to 5 mm shuttle mode with a cooling rack of refrigerated tubes at 6 °C. "	"The data acquired was processed using Topspin 3.2 and run under automation by IconNMR. A 99.8% deuterated methanol (MeOD) standard sample in a sealed 5 mm NMR tube was used to calibrate the temperature before each run of samples. The purpose of the temperature calibration is to ensure that urine samples are run at exactly 300 K. A standard 2 mM sucrose sample (containing 0.5 mM TSP, 2 mM NaN3 in 90% H2O:10% D2O) was loaded into the magnet and used to check the performance of the water suppression functionality.</br></br>
+
+One of the composite QC samples was used to set up the parameters that are not automatically calculated, such as the center of the frequency window for 1H spectroscopy and the shimming file. The SampleJet mode is changed to the 5 mm shuttle automation mode and the QC sample is introduced. A wait of 5 mins to equilibrate the temperature (urine samples are run at 300 K) is required.</br></br>
+
+Spectra were acquired using the Bruker noesygppr1d pulse sequence. Relaxation delay of 4 s was used, t was a short delay of about 3 μs, tm, the mixing time was 10 ms, and data acquisition period (2.7 s). Application of the gradients ensures that dispersive residual water signals are filtered out and do not contribute to the final spectrum. The spectral window was set to 20 ppm for urine. In total 32 transients were acquired with 64k data points.
+"	"The LC component was an ACQUITY UPLC (Waters Corp., Milford, MA, USA) composed of a binary solvent manager and column heater/cooler module. The stationary phase and mobile phase conditions previously reported by Wong et al. [1] were adopted. Water and acetonitrile, each supplemented with 0.1% formic acid (mobile phases A and B, respectively). A 2.1 × 150 mm HSS T3 column thermostatted at 45 °C was used with a mobile phase flow rate of 0.6 mL/min, generating a maximum pressure of approximately 12 000 psi (80% of the maximum achievable system pressure of 15 000 psi) in a water/acetonitrile gradient.</br></br>
+
+Prior to and immediately following the analysis experimental samples, a series of dilutions of the SR samples were analysed by repeated measurement aimed at weighting the ends of the series (10,10,5,3,3,5,and 10 consecutive replicate injections of the 1%, 10%, 20%, 40%, 60%, 80%, and 100% SR samples respectively).</br></br>
+
+Ref:</br>
+[1] Wong, M. C.; Lee, W. T.; Wong, J. S.; Frost, G.; Lodge, J. J. Chromatogr. B: Anal. Technol. Biomed. Life Sci. 2008, 871, 341– 348 DOI: 10.1016/j.jchromb.2008.06.033
+"	"Mass spectral data was acquired using a Xevo G2-S oaTOF MS (Waters Corp., Manchester, UK) coupled to the UPLC via a Zspray electrospray ionization (ESI) source. The instrument was set to acquire over the m/z range 50-1200."	"Mass Spectral Data</br>
+Untargeted feature extraction was carried out using XCMS as described [1]. The raw data files were converted from .RAW format to .mzML format using the msconvert tool from the ProteoWizard tookit [2], for feature-detection with XCMS. msconvert was configured to discard scans below an intensity threshold of 100, and only retain scans from the first acquisition function (--filter "scanEvent 1" --filter "threshold absolute 100 most-intense"). Peak detection was by the centwave algorithm configured with a noise threshold of 600, mass accuracy of 25ppm, and minmum and maximum peakwidth of 1.5 and 5 seconds. Retention time alignment was performed using the ‘density’ method.</br></br>
+
+Ref:</br>
+[1] Lewis MR, Pearce JT, Spagou K, Green M, Dona AC, Yuen AH, David M, Berry DJ, Chappell K, Horneffer-van der Sluis V, Shaw R, Lovestone S, Elliott P, Shockcor J, Lindon JC, Cloarec O, Takats Z, Holmes E, Nicholson JK. Development and Application of Ultra-Performance Liquid Chromatography-TOF MS for Precision Large Scale Urinary Metabolic Phenotyping. Anal Chem. 2016 Sep 20;88(18):9004-13. doi: 10.1021/acs.analchem.6b01481.</br>
+
+[2] A cross-platform toolkit for mass spectrometry and proteomics. Chambers, M.C., MacLean, B., ... Mallick, P. Nature Biotechnology 30, 918-920 (2012) doi: 10.1038/nbt.2377
+"	"Not applicable "
+Study Protocol URI	""	"http://dx.doi.org/10.1021/ac5025039, http://dx.doi.org/10.1021/acs.analchem.6b01481"	""	"http://dx.doi.org/10.1021/ac5025039"	"http://dx.doi.org/10.1021/ac5025039"	"http://dx.doi.org/10.1021/acs.analchem.6b01481"	"http://dx.doi.org/10.1021/acs.analchem.6b01481"	"http://dx.doi.org/10.1021/acs.analchem.6b01481"	""
+Study Protocol Version	""	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Pearce"
+Study Person First Name	"Jake"
+Study Person Mid Initials	"TM"
+Study Person Email	"jake.pearce@imperial.ac.uk"
+Study Person Phone	""
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	"Imperial College London"
+Study Person Roles	"submitter"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

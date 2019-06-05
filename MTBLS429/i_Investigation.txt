@@ -1,0 +1,108 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"BTO"	"MS"	"NCBITAXON"	"NCIT"	"EFO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"2"	"22"	"22"	"86"	"6"	"44"	"146"	"80"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Experimental Factor Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS429"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:Usersmulde013DownloadsConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS429"
+Study Title	"The correlation between leaf-surface and leaf-tissue secondary metabolites: a case study with pyrrolizidine alkaloids in Jacobaea hybrid plants"
+Study Description	"Introduction: Usually whole plant or whole leaf extracts are analyzed to study the chemical ecology of insect-plant interactions. For herbivore species the contact with the leaf surface enables them to estimate the quality of the plant. The relationship between the leaf-surface and leaf-tissue secondary metabolites (SMs) could offer important new insights in insect-plant interactions mediated by SMs. Pyrrolizidine alkaloids (PAs), typical defense chemicals in Jacobaea species, are repellent for generalist herbivores but are attractive to specialists.</br> Objectives: Explore whether the PAs on the leaf surface are a reliable representation of the PAs in the leaf tissue in PA-containing plants.</br> Method: The concentration of individual PAs present on the leaf surface and in the corresponding leaf tissue from 37 genotypes (one plant from each genotype) of an F2 generation of a cross between Jacobaea vulgaris and Jacobaea aquatica was measured by high performance liquid chromatography coupled to tandem mass spectrometry (LC-MS/MS). PAs were removed from the leaf surface by extraction with a slightly acidic aqueous solution.</br> Results: The total amount of PAs present on the surface of the leaves was only 0.015% (range: 0.001-0.163%) of the total amount present in the leaf tissue. Most PAs present in the leaf tissue were also found on the surface, except for jaconine, dehydrojaconine, dehydrojacoline and usaramine N-oxide. Positive correlations between leaf-surface and leaf-tissue concentrations were found for most of the jacobine-like and otosenine-like PAs, but correlations for total PA, senecionine- and erucifoline-like PAs were not significant.</br> Conclusion: These results indicate that PA variation on the leaf surface only partially reflects the PA variation in the leaf tissue. Because most herbivores are affected in a different manner by individual PAs, this result means that the leaf surface does not give a reliable estimate of plant quality to herbivores."
+Study Submission Date	"2017-02-09"
+Study Public Release Date	"2017-03-31"
+Study File Name	"s_PAs Leaf Surface.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"pyrrolizidine alkaloid"	"insect-plant interactions"	"ultra-performance liquid chromatography-mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_64948"	""	""	""
+Study Design Type Term Source REF	"CHEBI"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-017-1184-0"
+Study Publication Author List	"Dandan Cheng, Patrick P.J. Mulder, Eddy van der Meijden, Peter G.L. Klinkhamer, Klaas Vrieling"
+Study Publication Title	"The correlation between leaf-surface and leaf-tissue secondary metabolites: a case study with pyrrolizidine alkaloids in Jacobaea hybrid plants
+"
+Study Publication Status	"published"
+Study Publication Status Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0001796"
+Study Publication Status Term Source REF	"EFO"
+STUDY FACTORS
+Study Factor Name	"Sample location"
+Study Factor Type	"Location"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341"
+Study Factor Type Term Source REF	"NCIT"
+STUDY ASSAYS
+Study Assay File Name	"a_pas_leaf_surface_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Quattro Premier XE (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Plants of 37 F2 genotypes were propagated by tissue culture from a hybrid family of a cross between J. vulgaris and J. aquatica[1]. Moreover the hybrid system was already used in oviposition experiments with the cinnabar moth[2] and other herbivores[3][4]. The 37 F2 hybrid genotypes were selected based on their PA composition and concentration in shoots in order to cover a large range of PA concentrations and compositions of major PAs such as senecionine, jacobine, and erucifoline.
+</p>
+The plants were potted in 1.3 l pots filled with 95% sandy soil (collected from the coastal dunes), 5% potting soil (Slingerland Potgrond company, The Netherlands) and 1.5 g/l Osmocote slow release fertilizer (Scott®, N:P:K = 15:9:11). Plants were kept in a climate room for 14 weeks before harvest (humidity 70%, light intensity 130 µE/m^2/sec, light 16 h at 20 °C, dark 8 h at 20 °C). Plants were watered 3 times a week when needed. 1 fully developed, healthy and undamaged leaf from each individual plant of the 37 hybrids was selected for leaf surface PA-extraction and subsequently for leaf tissue extraction. The leaf was cut from the plant, and the cut leaf was immediately sealed with a small piece of Parafilm® (Bemis Company, WI, USA).
+</p>
+Ref:</br>
+[1] Cheng D, Kirk H, Mulder PPJ, Vrieling K, & Klinkhamer PGL. (2011 a) Pyrrolizidine alkaloid variation in shoots and roots of segregating hybrids between Jacobaea vulgaris and Jacobaea aquatica. New Phytologist, 192, 1010–1023.</br>
+[2] Cheng D, van der Meijden E,  Mulder PP, Vrieling K, & Klinkhamer PGL. (2013) Pyrrolizidine alkaloid composition in?uences cinnabar moth oviposition preferences in Jacobaea hybrids. Journal of Chemical Ecology, 39, 430–437.</br>
+[3] Cheng D, Kirk H, Vrieling K, Mulder PPJ, & Klinkhamer PGL. (2011 b) The relationship between structurally di?erent pyrrolizidine alkaloids and western ?ower thrips resistance in F2 hybrids of Jacobaea vulgaris and Jacobaea aquatica. Journal of Chemical Ecology, 37, 1071–1080.</br>
+[4] Wei X, Vrieling K, Mulder PPJ, & Klinkhamer PGL. (2015) Testing  the  generalist-specialist  dilemma:  The  role  of  pyrrolizidine  alkaloids  in  resistance  to  invertebrate  herbivores  in Jacobaea species. Journal of Chemical Ecology, 41, 159–167.</br>"	"Leaf surface extraction:</br>
+For each leaf, a 50 ml Greiner polypropylene tube was prepared containing 40 ml 1 mM FA solution to which heliotrine had been added as an internal standard at a concentration of 1 ng/ml. Each leaf was carefully dipped into the solvent in the tube for 20 s. It was taken out once and after 10 s dipped again in the same tube for another 10 s. After dipping, each leaf was dried with soft tissue paper and put in a plastic bag and scanned. The leaf surface area was determined by using WinFLORA Pro 2002a software (Regent Instruments, Quebec, Canada). The leaves used for the leaf surface extraction were, after scanning, immediately flash frozen in liquid N2. The tubes containing the leaf-surface PA extracts were stored at 4°C in a refrigerator until the next day for further sample clean-up by solid phase extraction (SPE).
+</p>
+The pH of the leaf surface extracts was adjusted to pH 9 by addition of 10 µl ammonium hydroxide (25%). Solid phase extraction cartridges (Strata X polymeric reversed phase, 60 mg, 3 ml, Phenomenex, Torrance, CA, USA), placed on a SPE manifold (Phenomenex), were used to concentrate the leaf surface extracts. The SPE cartridges were activated with 3 ml methanol and equilibrated with 3 ml water. Each leaf surface extract was passed through the cartridge by gravity, using a 25 ml polypropylene reservoir placed on top of the cartridge. The reservoir was washed with 3 ml water and the contents were passed through the cartridge, which was then dried under reduced pressure. 10 ml PP tubes were placed under the cartridges before these were eluted with 3 ml methanol. The eluates were evaporated in a TurboVap® 96 (Biotage, Uppsala, Sweden) at 50 °C with N2 gas for 30 min. Each residue was dissolved in 500 µl water and transferred to a glass HPLC vial for LC-MS/MS analysis. Of the extracts 20 µl was injected in the LC-MS/MS system.</br>
+</p> 
+Leaf tissue extraction:</br>
+The leaves used for the leaf surface extraction were flash frozen in liquid N2 and subsequently freeze-dried for 1 week under vacuum with a collector temperature of -55 °C (Labconco Free Zone® 12 liter Freeze Dry System). Of each leaf the dry weight was determined, and then ground into a fine powder, which was stored at -20 °C until PA analysis. Approximately 10 mg of the powdered plant material was extracted with 1 ml 2% formic acid solution in an Eppendorf tube. Heliotrine was added as internal standard to the extraction solvent at a concentration of 1 µg/ml. The tubes were placed on a shaker for 30 min. Solid plant material was removed by centrifugation at 2600 rpm for 10 min and filtered through a 0.2 µm nylon membrane (Acrodisc® 13 mm syringe filter, Pall Corp, Port Washington, NY, USA). An aliquot of the filtered solution (25 µl) was diluted with water (975 µl) and 5 µl was injected in the LC-MS/MS system."	"A Waters Acquity ultra performance liquid chromatographic system coupled to a Waters Quattro Premier XE tandem mass spectrometer (LC-MS/MS) (Waters, Milford, MA, USA) was used for PA analysis. Separation was achieved on a Waters BEH C18 UPLC column (150 x 2.1 mm, 1.7 µm) using a gradient of mobile phase A: 6 mM ammonium hydroxide and with mobile phase B: acetonitrile. The gradient profile was as follows: 0.0-1.0 min: isocratic hold at 100% A/0% B; 1.0 to 12.0 min: linear gradient to 50% A/50% B; 12.0-12.2 min: isocratic at 50%A/50% B; 12.2-12.4 min: linear gradient to 100% A/0% B, 12.2-15.0 min: isocratic hold at 100% A/0% B. The flow rate was 400 µl/min and the column temperature was kept constant at 50 ºC."	"The source of the mass spectrometer was operated in positive electrospray mode, using the following instrumental settings: capillary voltage: 2.7 kV; cone voltage: 40 V; source temperature: 120 ºC; cone gas (N2) flow rate: 20 l/h; desolvation gas (N2) flow rate: 700 l/h; desolvation temperature: 400 ºC; collision gas (argon) pressure: 4.0*10^-3 mbar; resolution settings for HM1, LM1, HM2, LM2: 14.0 arbitrary units."	"Data were recorded in multiple monitoring mode (MRM) using per compound 2 selected precursor ions to product ion transitions. Data processing was conducted with MassLynx 4.1 software (Waters, Milford, MA, USA). No data deconvolution was applied nor a threshold for minimum peak area was defined, however data were smoothed (SG, 2x1) and checked for peak integration and r.t. compliance (± 0.1 min) with the predefined r.t. settings. Data were transferred to Excel, checked for general coherence, and for sensitivity and r.t. stability of the mixed standard solutions injected during the series. Noise level peaks or signals with abnormal ion ratios or deviating r.t. (± 0.03 min) were manually removed from the data set. For each compound the sum of the peak areas of the 2 transitions is reported. For a comparison of position (PAs on the leaf surface versus PAs in leaf tissue) for each compound the peak area needs to be divided by the peak area of the internal standard."	"20 authetic PA standards were available for this study, representing most of the major PAs present in the Jacobaea extracts (MSI Level 1). Another 21 PAs were included in the analytical method, as they had been identified previously in Jacobaea and related species, on the basis of their retention time, molecular mass and fragmentation pattern and on comparison with literature data (MSI Level 2)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Mulder"	"Cheng"
+Study Person First Name	"Patrick"	"Dandan"
+Study Person Mid Initials	"PJ"	""
+Study Person Email	"patrick.mulder@wur.nl"	"dandan.cheng@cug.edu.cn"
+Study Person Phone	"0031 317 481685"	"0086 177 8640 8623"
+Study Person Fax	""	""
+Study Person Address	"RIKILT, Akkermaalsbos 2, 6708 WB Wageningen, the Netherlands"	"State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Wuhan, Hubei, 430074, China "
+Study Person Affiliation	"Wageningen University & Research"	"University of Geosciences"
+Study Person Roles	"analytical chemist"	"study director"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

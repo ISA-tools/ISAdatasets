@@ -1,0 +1,114 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"MS"	"NCBITAXON"	"NCIT"	"CHMO"	"UO"	"OBI"	"BTO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"103"	"4"	"44"	"5"	"43"	"25"	"29"	"113"	
+Term Source Description	"Mass Spectrometry Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"National Cancer Institute Thesaurus"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS441"
+Investigation Title	""
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+Comment[Created With Tool]	"mzml2isa 0.5.1"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS441"
+Study Title	"Stress-related mitogen-activated protein kinases stimulate the accumulation of small molecules and proteins in Arabidopsis thaliana root exudates"
+Study Description	"A delicate balance in cellular signaling is required for plants to distinguish mutualist from parasitic organisms in its environment. Mitogen-activated protein kinase (MAPK) cascades are one of the signaling modules that mediate transduction of extracellular microbial signals into appropriate cellular responses. Here, we employ a transgenic system that simulates activation of two pathogen/stress-responsive MAPKs to study release of metabolites and proteins into root exudates. The premise is based on our previous proteomics study that suggests upregulation of secretory processes in this transgenic system. An advantage of this experimental set-up is the direct focus on MAPK-regulated processes without the confounding complications of other signaling pathways activated by exposure to microbes or microbial molecules. Using non-targeted metabolomics and proteomics studies, we show that MAPK activation can indeed drive the appearance of dipeptides, defense-related metabolites and proteins in root apoplastic fluid. However, the relative levels of other compounds in the exudates were decreased. This points to a bidirectional control of metabolite and protein release into the apoplast. The putative roles for some of the identified apoplastic metabolites and proteins are discussed with respect to possible antimicrobial/defense or allelopathic properties. Overall, our findings demonstrate that sustained activation of MAPKs alters the composition of apoplastic root metabolites and proteins, presumably to influence the plant-microbe interactions in the rhizosphere."
+Study Submission Date	"2017-03-31"
+Study Public Release Date	"2017-08-25"
+Study File Name	"s_MTBLS441.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"root exudate"	"plant defence"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	""	""
+Study Design Type Term Source REF	"CHMO"	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28785276"
+Study Publication DOI	"10.3389/fpls.2017.01292"
+Study Publication Author List	"Strehmel N, Hoehenwarter W, Mönchgesang S, Majovsky P, Krüger S, Scheel D, Lee J."
+Study Publication Title	"Stress-Related Mitogen-Activated Protein Kinases Stimulate the Accumulation of Small Molecules and Proteins in Arabidopsis thaliana Root Exudates."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Genotype"	"Time after Inoculation"
+Study Factor Type	"genotype"	"timepoint"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000513"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_MTBLS441_root_POS_metabolite_profiling_mass_spectrometry.txt"	"a_MTBLS441_root_NEG_metabolite_profiling_mass_spectrometry.txt"	"a_MTBLS441_exudate_POS_metabolite_profiling_mass_spectrometry.txt"	"a_MTBLS441_exudate_NEG_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"micrOTOF-Q"	"micrOTOF-Q"	"micrOTOF-Q"	"micrOTOF-Q"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Transgenic lines[1] with dexamethasone(DEX)-inducible expression of constitutively-active MKK5-DD (line DD55-4) or its corresponding kinase-inactive MKK5-KR variant (line KR51-6) were used. These are abbreviated subsequently as DD or KR, respectively, and were cultivated in a hydroponic system under short-day conditions (8 h day light, 200 µE, 23 °C) as previously described[2]. Briefly, seeds were sown onto agar filled PCR tubes (with the bottom cut off) and placed into a tip box filled with 0.5x MS and 1% sucrose (w/v). After 3 weeks, plantlets were transferred to brown Duran flasks, which had been filled to capacity with modified MS medium[3]. 12 flasks were arrayed into an “araponics” growth tray(http://www.araponics.com/) and both genotypes cultivated separately. The medium was exchanged once (after 7 days) and plants grown for 2 further weeks prior to DEX treatment. To exclude position effects within the growth chamber, the araponics trays are shifted every second day to a new position to ensure equal illumination during the growth period.
+</p>
+Ref:</br>
+[1] Lassowskat et al., 2014</br>
+[2] Strehmel N, Böttcher C, Schmidt S, Scheel D. Profiling of secondary metabolites in root exudates of Arabidopsis thaliana. Phytochemistry. 2014 Dec;108:35-46. doi:10.1016/j.phytochem.2014.10.003. PMID:25457500</br>
+[3] von Wiren et al., 1995</br>"	"Exudates:</br>
+For root exudate analysis, the nutrient solutions of four flasks were combined, spiked with 50 µl internal standard (50 µg/ml 2,4-dichlorophenoxyacetic acid) and evaporated until dryness (35 mbar, 40 °C) using a rotary evaporator. Then, the residue was reconstituted twice in 3 ml methanol, sonicated for 3 min in an ultrasonic bath, and the unified solution dried down in a glass vial under reduced pressure using a vacuum centrifuge (40 °C). Next, the residue was reconstituted in 500 µl methanol, the solution sonicated (3 min) and transferred to a 1.5-ml polypropylene tube. Finally, the supernatant was evaporated in a vacuum centrifuge again and reconstituted in 100 µl methanol/water (30/70; v/v) prior to LC/MS analysis.
+</p>
+Roots:</br>
+Root material was homogenized under liquid nitrogen and 200 µl pre-cooled methanol/water (80/20; v/v) were added to 40 mg powdered material. After reaching room temperature, samples were sonicated (10 min, 20 °C), centrifuged at 11200 x g (10 min, 16 °C), the supernatant transferred into a new 1.5 ml polypropylene tube, and the residue extracted a second time with 200 µl methanol/water (80/20; v/v). Finally, both extracts were combined and evaporated under reduced pressure at 40 °C using a vacuum centrifuge. For LC/MS analysis, the residue was reconstituted in 100 µl methanol/water (30/70; v/v) spiked with internal standard (indole-3-acetyl-L-valine (1 µM), o-anisic acid (1 µM), and kinetin (2 µM))."	"Samples (2.6 µl, full loop injection) were separated at 40 °C on an Acquity UPLC platform (Waters, www.waters.com) equipped with a HSS T3 column (100 x 1.0 mm, particle size 1.8 µm, Waters) applying the following gradient at a flow rate of 150 µl/min: 0-1 min, isocratic 95% A (water/formic acid, 99.9/0.1 (v/v)), 5% B (acetonitrile/formic acid, 99.9/0.1 (v/v)); 1-16 min, linear from 5 to 95% B; 16–18 min, isocratic 95% B; 18–20 min, isocratic 5% B."	"Eluting compounds were detected in positive and negative ionization mode from m/z 80 – 1000 using a MicroTOF–Q I hybrid quadrupole time-of-flight mass spectrometer equipped with an Apollo II electrospray ion source (Bruker Daltonics, Billerica, MA, USA). Instrument parameters were defined as follows for the positive mode: nebulizer gas, nitrogen, 1.6 bar; dry gas, nitrogen, 6 l/min, 190 °C; capillary, –5000 V; end plate offset, -500 V; funnel 1 RF, 200 Vpp; funnel 2 RF, 200 Vpp; in-source CID energy, 0 V; hexapole RF, 100 Vpp; quadrupole ion energy, 5 eV, low mass 55; collision gas, argon; collision energy, 10 eV; collision RF 150 Vpp; transfer time, 70 µs; pre pulse storage, 5 µs; spectra rate, 3 Hz. For the negative ionization mode all parameters were maintained except for the capillary voltage (4000 V).
+</p>
+All mass spectra were acquired in centroid mode and recalibrated on the basis of lithium formiate cluster ions."	"For non-targeted data evaluation, all raw data files were converted to mzML with the help of CompassXPort version 1.3.10 (Bruker Daltonics) and arranged into four sample classes (KR/6h, KR/24h, DD/6h, DD/24h). Feature detection was performed using the centWave algorithm [sntresh = 3, prefilter = (3, 100), ppm = 25, peak width = (5, 12)] and alignment accomplished with the help of the XCMS functions group.density (minfrac =
+1, bw = 2 and mzwid = 0.05), retcor (span = 1, missing = 0, extra = 0), and group.density (minfrac = 1, bw = 1 and mzwid = 0.03). Missing feature intensities were filled using the XCMS function fillPeaks. The intensity matrix was log2-transformed and batch corrected with surrogate variable analysis.[1]
+</p>
+Ref:</br>
+[1] (Leek and Storey, 2007)"	"Compounds were annotated based on accurate mass (m/z = 0.02) and retention time ( t = 0.2 min) on the basis of literature data as published[1][2] and manually quantified using QuantAnalysis 2.0 (Bruker Daltonics).
+</p>
+Ref:</br>
+[1] Lassowskat et al., 2014</br>
+[2] Strehmel N, Böttcher C, Schmidt S, Scheel D. Profiling of secondary metabolites in root exudates of Arabidopsis thaliana. Phytochemistry. 2014 Dec;108:35-46. doi:10.1016/j.phytochem.2014.10.003. PMID:25457500</br>
+[3] von Wiren et al., 1995</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Strehmel"	"Hoehenwarter"	"Mönchgesang"	"Majovsky"	"Krüger"	"Scheel"	"Lee"
+Study Person First Name	"Nadine"	"Wolfgang"	"Susann"	"Petra"	"Sylvia"	"Dierk"	"Justin"
+Study Person Mid Initials	""	""	""	""	""	""	""
+Study Person Email	"nstrehme@ipb-halle.de"	"Wolfgang.Hoehenwarter@ipb-halle.de"	"Susann.Moenchgesang@ipb-halle.de"	"Petra.Majovsky@ipb-halle.de"	"skrueger@ipb-halle.de"	"dscheel@ipb-halle.de"	"jlee@ipb-halle.de"
+Study Person Phone	""	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""	""
+Study Person Address	""	""	""	""	""	""	""
+Study Person Affiliation	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"	"IPB Halle"
+Study Person Roles	""	""	""	""	""	""	""
+Study Person Roles Term Accession Number	""	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""	""

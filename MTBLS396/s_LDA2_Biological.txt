@@ -1,0 +1,5 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"Mouse liver1"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Left lobe of liver"	"FMA"	"http://purl.org/sig/ont/fma/fma15810"	"Sample collection"	"Mouse liver1"
+"Mouse liver2"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Left lobe of liver"	"FMA"	"http://purl.org/sig/ont/fma/fma15810"	"Sample collection"	"Mouse liver2"
+"Mouse liver3"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Left lobe of liver"	"FMA"	"http://purl.org/sig/ont/fma/fma15810"	"Sample collection"	"Mouse liver3"
+"Mouse liver1-3"	"Mus musculus"	"NCBITAXON"	"http://purl.bioontology.org/ontology/NCBITAXON/10090"	"Left lobe of liver"	"FMA"	"http://purl.org/sig/ont/fma/fma15810"	"Sample collection"	"Mouse liver1-3"

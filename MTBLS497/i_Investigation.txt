@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CHMO"	"NCBITAXON"	"EFO"	"MS"	"NCIT"	"CHEBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"29"	"18"	"6"	"146"	"129"	"44"	"99"	"43"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS497"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\mwilliam\Google Drive\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS497"
+Study Title	"Headspace volatile organic compounds from bacteria implicated in ventilator-associated pneumonia analysed by TD-GC/MS."
+Study Description	"Ventilator-associated pneumonia (VAP) is a healthcare-acquired infection arising from the invasion of the lower respiratory tract by opportunistic pathogens in ventilated patients. The current method of diagnosis requires the culture of an airway sample such as bronchoalveolar lavage, which is invasive to obtain and may take up to seven days to identify a causal pathogen, or indeed rule out infection. While awaiting results, patients are administered empirical antibiotics; risks of this approach include lack of effect on the causal pathogen, contribution to the development of antibiotic resistance and downstream effects such as increased length of intensive care stay, cost, morbidity and mortality. Specific biomarkers which could identify causal pathogens in a timely manner are needed as they would allow judicious use of the most appropriate antimicrobial therapy. Volatile organic compound (VOC) analysis in exhaled breath is proposed as an alternative due to its non-invasive nature and its potential to provide rapid diagnosis at the patient's bedside. VOCs in exhaled breath originate from exogenous, endogenous, as well as microbial sources. To identify potential markers, VAP-associated pathogens Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Staphylococcus aureus were cultured in both artificial sputum medium and nutrient broth, and their headspaces were sampled and analysed for VOCs. Previously reported volatile markers were identified in this study, including indole and 1-undecene, alongside compounds that are novel to this investigation, cyclopentanone and 1-hexanol. We further investigated media components (substrates) to identify those that are essential for indole and cyclopentanone production, with potential implications for understanding microbial metabolism in the lung."
+Study Submission Date	"2017-08-01"
+Study Public Release Date	"2018-08-01"
+Study File Name	"s_MTBLS497.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"thermal desorption-gas chromatography mass spectrometry"	"volatile organic compound"	"Bacteria"	"Expired Air"	"Infection"	"ventilator-associated pneumonia"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/CHMO_0002640"	"http://purl.obolibrary.org/obo/CHEBI_134179"	"http://purl.obolibrary.org/obo/NCBITaxon_2"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78741"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128320"	"http://www.ebi.ac.uk/efo/EFO_1001865"
+Study Design Type Term Source REF	""	"CHMO"	"CHEBI"	"EFO"	"NCIT"	"NCIT"	"EFO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28947683"
+Study Publication DOI	"10.1088/1752-7163/aa8efc"
+Study Publication Author List	"Lawal O, Muhamadali H, Ahmed WM, White IR, Nijsen TME, Goodacre R, Fowler SJ."
+Study Publication Title	"Headspace volatile organic compounds from bacteria implicated in ventilator-associated pneumonia analysed by TD-GC/MS."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Bacteria"	"Media"	"Time"
+Study Factor Type	"Bacteria"	"Growth Medium"	"timepoint"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/NCBITaxon_2"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls497_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Gas Chromatography MS - Positive (GC-MS (Positive))"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Media preparation:</br>
+Nutrient agar (NA) (Oxoid, Basingstone, UK), nutrient broth (NB) (Oxoid), and artificial sputum medium (ASM) were utilised in this study. NA and NB were prepared according to manufacturer's specification. Details for preparing ASM have been published previously[1]. Briefly for ASM, type II mucin (Sigma-Aldrich, UK), salmon sperm DNA (Sigma-Aldrich, UK), diethylenetriaminepentaacetic acid (Sigma-Aldrich, UK), sodium chloride (Sigma-Aldrich, UK), potassium chloride (Fisher scientific, UK), Tris base (Formedium, Hunstanton, England), egg yolk emulsion (Oxoid, UK), casamino acids (BD, Sparks, USA) were all dissolved in distilled water and subsequently autoclaved. MOre information has been published previously[2]. M9 minimal medium was also used to grow Escherichia coli strains. Briefly, the minimal medium is a mixture of four solutions: glucose (5 g; Sigma Aldrich, UK) dissolved in 50 ml distilled water (DW); ammonium chloride (1 g; Fisher Scientific, UK) and magnesium sulfate heptahydrate (0.5 g; AnalaR, UK) dissolved in 800 ml DW; disodium phosphate (3 g; Fluka, Switzerland) and monopotassium phosphate (3 g; Sigma Aldrich, USA) in 150 ml DW, and Iron (II) sulfate heptahydrate (0.1 g; Sigma Aldrich, UK) and calcium chloride anhydrous solution (0.1 g; Fisher Scientific, UK) dissolved in 100 ml DW. 1 ml of the latter solution was added to the combined mixture of the other solutions before they were autoclaved at 121 °C for 15 min and combined.
+</p>
+Bacterial culture:</br>
+Escherichia coli ATCC 25922, Klebsiella pneumoniae ATCC 13887, Pseudomonas aeruginosa PA01 and Staphylococcus aureus ATCC 29213 were used in this study since these bacteria are most commonly associated with VAP[3]. Strains were recovered from glycerol frozen stocks, sub-cultured twice on NA plates and incubated overnight at 37 °C to obtain axenic colonies. Single colonies were subsequently transferred into 50 ml liquid media (ASM, NB) in 250 ml conical flasks sealed with sponges and incubated at 37 °C with 200 rounds per min (rpm) shaking.
+</p>
+Bacterial culture headspace sampling 
+The headspace (200 ml) above liquid cultures was actively sampled onto Tenax GR thermal desorption tubes at a flow rate of approximately 100 ml/min using an Easy-VOC pump (Markes international, Llantrisant, UK) after incubation at time points that were determined based on culture growth curves as follows: E. coli NB (3, 5, and 15 h), E. coli ASM (10, 12 and 24 h), K. pneumoniae NB (5, 7, and 15 h), P. aeruginosa NB (3, 5, and 15 h), P. aeruginosa ASM (5, 7, and 12 h), S. aureus NB (3, 5, and 15 h), S. aureus ASM (4.5, 6.25, and 15 h). These time points reflect approximately 50%, 75%, and 100% of respective maximum ODs where the cultures had entered the stationary phase. Samples were collected under sterile conditions in a laminar flow hood. All experiments were performed within a week with a minimum of 5 replicates for each condition and time point.
+</p>
+Ref:</br>
+[1] Sriramulu DD, Lünsdorf H, Lam JS, Römling U. Microcolony formation: a novel biofilm model of Pseudomonas aeruginosa for the cystic fibrosis lung. J Med Microbiol. 2005 Jul;54(Pt 7):667-76. doi:10.1099/jmm.0.45969-0. PMID:15947432</br>
+[2] Diraviam Dinesh S. Artificial Sputum Medium. Protocol Exchange (2010). doi:10.1038/protex.2010.212</br>
+[3] Park DR. The microbiology of ventilator-associated pneumonia. Respir Care. 2005 Jun;50(6):742-63; discussion 763-5. PMID:15913466</br>"	"No extraction was performed in this study."	"VOC analysis was conducted on a thermal desorption-gas chromatography time-of-flight mass spectrometer (GC-TOF-MS) platform (Unity II TD with UltrA autosampler, Markes International, and Micromass GCT Premier, Waters Corp, Manchester, UK). Prior to desorption, 100 μl of an internal standard (IS) (1 ppmV 4-bromofluorobenzene in N2; Thames Restek, Bucks, UK) was loaded onto each tube. This compound was used as an IS due to exhibiting similar chemical properties and vapour pressure to the analytes of interest and also being not naturally found in the samples as as recommended in EPA method TO-17[1]; we also use this in our clinical studies as described previously[2]. VOCs were desorbed from sorbent tubes at 280 °C for 5 min, cryo-focussed on a cold trap maintained at 10 °C and desorbed from the cold trap onto the GC (Agilent 6890N) column by flash heating to 280 °C for 3 min with a flow path temperature of 200 °C. The GC column (DB-5MS column, 30 m, 0.25 mm internal diameter (I.D), 0.25 μm film thickness, Agilent) was held at an initial temperature of 40 °C, ramped to 170 °C at 6 °C/min and to 190 °C at 15°C/min. A post run ramp to 250 °C was held for 2 min. The GC runtime was 23 min with a total TD cycle time of 40 min. 
+</p>
+Ref:</br>
+[1] US Environmental Protection Agency 1999 Compendium method TO-17 determination of volatile organic compounds in ambient air using active sampling onto sorbent tubes EPA/625/R-96/101b (www3.epa.gov/ttnamti1/files/ambient/airtox/to-17r.pdf).</br>
+[2] van Oort PM, Nijsen T, Weda H, Knobel H, Dark P, Felton T, Rattray NJ, Lawal O, Ahmed W, Portsmouth C, Sterk PJ, Schultz MJ, Zakharkina T, Artigas A, Povoa P, Martin-Loeches I, Fowler SJ, Bos LD; BreathDx Consortium. BreathDx - molecular analysis of exhaled breath as a diagnostic test for ventilator-associated pneumonia: protocol for a European multicentre observational study. BMC Pulm Med. 2017 Jan 3;17(1):1. doi:10.1186/s12890-016-0353-7. PMID:28049457</br>"	"The Waters Micromass GCT Premier Tof-MS was in electron ionisation (EI) mode set at 70 eV. The source temperature was set to 200 °C, at a trap current of 200 μA, and spectra were acquired in dynamic range extension mode at 5 scans/s over a range of 40-500 m/z. For E. coli minimal media experiments, and cyclopentanone authentic standard analysis, the same parameters were used albeit using a different analytical platform: a thermal desorption-gas chromatography triple quadrupole mass spectrometer (Markes TD-100 and 7010 series triple quadrupole GC/MS, Agilent technologies, Manchester, UK) as described previously[1].
+</p>
+Ref:</br>
+[1] van Oort PM, Nijsen T, Weda H, Knobel H, Dark P, Felton T, Rattray NJ, Lawal O, Ahmed W, Portsmouth C, Sterk PJ, Schultz MJ, Zakharkina T, Artigas A, Povoa P, Martin-Loeches I, Fowler SJ, Bos LD; BreathDx Consortium. BreathDx - molecular analysis of exhaled breath as a diagnostic test for ventilator-associated pneumonia: protocol for a European multicentre observational study. BMC Pulm Med. 2017 Jan 3;17(1):1. doi:10.1186/s12890-016-0353-7. PMID:28049457</br>"	"Raw data in manufacturer's data format were converted into a netCDF format utilising the DataBridge software (Waters Corp, Manchester, UK). All statistical analyses were performed using R software (version 3.3.2; R Core Team, 2016). The xcms package was used to pre-process the netCDF files in R following the approach as outlined previously[1]. Isotopologue parameter optimisation (IPO) was used to obtain optimised parameters for pre-processing raw data[2]. IPO is an R package which reiteratively pre-processes a selected number of netCDF files using a specified range of parameters and outputs the recommended parameters. The product of raw data pre-processing is a data file containing ion fragments, their corresponding m/z, retention times, and integrated areas. Normalisation using the internal standard (IS), 4-bromofluorobenzene, was based on the 174 m/z parent ion.
+</p>
+Ref:</br>
+[1] Tautenhahn R, Böttcher C, Neumann S. Highly sensitive feature detection for high resolution LC/MS. BMC Bioinformatics. 2008 Nov 28;9:504. doi:10.1186/1471-2105-9-504. PMID:19040729</br>
+[2] Libiseller G, Dvorzak M, Kleb U, Gander E, Eisenberg T, Madeo F, Neumann S, Trausinger G, Sinner F, Pieber T, Magnes C. IPO: a tool for automated optimization of XCMS parameters. BMC Bioinformatics. 2015 Apr 16;16:118. doi:10.1186/s12859-015-0562-8. PMID:25888443</br>"	"GC-TOF-MS data was acquired and analysed using Masslynx (Waters Corp, Manchester, UK). Chromatographic peaks and mass spectra were cross-referenced with National Institute of Standards and Technology (NIST) library 14 for putative identification purposes, and followed the metabolomics standards initiative (MSI) guidelines for metabolite identification[1]. Quanlynx (Waters Corp, Manchester, UK) was used as a quantitative tool for obtaining the response of peaks of interest with high NIST matching factor (>750 match). Masshunter quantitative analysis software (Agilent, Manchester, UK) was used to quantify the response of indole-d5 for the minimal medium experiments.
+</p>
+Ref:</br>
+[1] Sumner LW, Amberg A, Barrett D, Beale MH, Beger R, Daykin CA, Fan TW, Fiehn O, Goodacre R, Griffin JL, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane AN, Lindon JC, Marriott P, Nicholls AW, Reily MD, Thaden JJ, Viant MR. Proposed minimum reporting standards for chemical analysis Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics. 2007 Sep;3(3):211-221. doi:10.1007/s11306-007-0082-2. PMID:24039616</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Chromatography Instrument;Autosampler model;Thermal Desorption unit;Column model;Column type"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Lawal"	"Goodacre"	"Fowler"	"Nijsen"
+Study Person First Name	"Oluwasola"	"Royston"	"Stephen"	"Tamara"
+Study Person Mid Initials	""	""	"J."	"M.E."
+Study Person Email	"oluwasola.lawal@postgrad.manchester.ac.uk"	"roy.goodacre@manchester.ac.uk"	"stephen.fowler@manchester.ac.uk"	"tamara.nijsen@philips.com"
+Study Person Phone	""	""	""	""
+Study Person Fax	""	""	""	""
+Study Person Address	"Division of Infection, Immunity  and Respiratory Medicine, School of Biological Sciences, Faculty of Biology, Medicine and Health"	"School of Chemistry, Manchester Institute of Biotechnology"	"Manchester Academic Health Science Centre and University Hospital of South Manchester NHS Foundation Trust"	"Philips Research"
+Study Person Affiliation	"The University of Manchester, Manchester, UK"	"The University of Manchester, Manchester, UK."	"The University of Manchester, Manchester, UK."	"Royal Philips B.V., Eindhoven, the Netherlands"
+Study Person Roles	"Postgraduate researcher"	"Principal investigator"	"Principal investigator"	"Principal investigator"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

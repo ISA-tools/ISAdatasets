@@ -1,0 +1,122 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NIFSTD"	"NCBITAXON"	"NMR"	"CHEBI"	"BTO"	"CHMO"	"EFO"	"MESH"	"NCIT"	"OBI"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/NMR"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"17"	"2"	"7"	"80"	"22"	"18"	"146"	"10"	"44"	"22"	"43"	
+Term Source Description	"Neuroscience Information Framework (NIF) Standard Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"NMR-Instrument Component of Metabolomics Investigations Ontology"	"Chemical Entities of Biological Interest Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Medical Subject Headings"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS643"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\JMA\Documents\! These JMA\Metabolights\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS643"
+Study Title	"A multidimensional 1H NMR lipidomics workflow to address chemical food safety issues"
+Study Description	"INTRODUCTION: Although it is still at a very early stage compared to its mass spectrometry (MS) counterpart, proton nuclear magnetic resonance (NMR) lipidomics is worth being investigated as an original and complementary solution for lipidomics. Dedicated sample preparation protocols and adapted data acquisition methods have to be developed to set up an NMR lipidomics workflow; in particular, the considerable overlap observed for lipid signals on 1D spectra may hamper its applicability. </br> OBJECTIVES: The study describes the development of a complete proton NMR lipidomics workflow for application to serum fingerprinting. It includes the assessment of fast 2D NMR strategies, which, besides reducing signal overlap by spreading the signals along a second dimension, offer compatibility with the high-throughput requirements of food quality characterization. </br> METHOD: The robustness of the developed sample preparation protocol is assessed in terms of repeatability and ability to provide informative fingerprints; further, different NMR acquisition schemes—including classical 1D, fast 2D based on non-uniform sampling or ultrafast schemes—are evaluated and compared. Finally, as a proof of concept, the developed workflow is applied to characterize lipid profiles disruption in serum from β-agonists diet fed pigs. </br> RESULTS: Our results show the ability of the workflow to discriminate efficiently sample groups based on their lipidic profile, while using fast 2D NMR methods in an automated acquisition framework. </br> CONCLUSION: This work demonstrates the potential of fast multidimensional 1H NMR—suited with an appropriate sample preparation—for lipidomics fingerprinting as well as its applicability to address chemical food safety issues. </br>"
+Study Submission Date	"2018-03-12"
+Study Public Release Date	"2018-04-18"
+Study File Name	"s_mtbls643.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Lipidomics"	"non-uniform sampling"	"untargeted metabolites"	"Food Quality"	"beta-adrenergic agonist"	"ractopamine"	"two-dimensional 1H nuclear magnetic resonance spectroscopy"	"nuclear magnetic resonance spectroscopy"
+Study Design Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193"	"http://nmrML.org/nmrCV#NMR:1000350"	""	"http://purl.bioontology.org/ontology/MESH/D063427"	"http://purl.obolibrary.org/obo/CHEBI_35522"	"http://purl.obolibrary.org/obo/CHEBI_82644"	"http://purl.obolibrary.org/obo/CHMO_0002443"	"http://purl.obolibrary.org/obo/CHMO_0000591"
+Study Design Type Term Source REF	"NCIT"	"NMR"	""	"MESH"	"CHEBI"	"CHEBI"	"CHMO"	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-018-1360-x"
+Study Publication Author List	"Jérémy Marchand, Estelle Martineau, Yann Guitton, Bruno Le Bizec, Gaud Dervilly-Pinel, Patrick Giraudeau"
+Study Publication Title	"A multidimensional 1H NMR lipidomics workflow to address chemical food safety issues"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Experiment"	"Sampling Day"
+Study Factor Type	"Population Group"	"timepoint"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005"	"http://www.ebi.ac.uk/efo/EFO_0000724"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls643_zg_NMR_spectroscopy.txt"	"a_mtbls643_zTOCSY_NMR_spectroscopy.txt"	"a_mtbls643_iUFCOSY_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Bruker"	"Bruker"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"10 4 month-old female pigs (Axior Porc Charcutier) (Terrena, Ancenis, France) weighting 40 kg were randomly divided into control (n = 5 animals) and treated (n = 5 animals) groups. Animals were allowed a 3-day acclimatization period, following which, each animal received 1.8 kg feed/day. Pigs from the treatment group received then on a daily basis and during 29 days, a feed containing ractopamine hydrochloride (Sigma Aldrich) (10 mg/kg feed). The 10 ppm daily dose was selected as corresponding to classical doses used in finishing pigs. Blood samples were collected at day 3, 9, 16, 18, 23, 29, for both control and treated animals. The blood samples were allowed to clot at room temperature and the serum samples, obtained by centrifugation, were frozen and then stored at -80 °C."	"First, the serum samples were allowed to thaw on ice and 300 μl from each were transferred into 15 ml glass tubes. Successively, 1900 μl of cold methanol, 3800 μl of chloroform and 1200 μl of H2O were added to each glass tube, which was vortexed for 20 s after each addition. Samples were centrifuged twice for 20 min at 2000 rpm, 4 °C. The lipidic fraction was obtained from serum according to a modified Bligh and Dyer extraction, descibed previously[1]. Briefly, 3000 μl of the organic phase were transferred into a 7 ml glass tube and evaporated at 25 °C under N2. 
+</p>
+QC samples were also extracted according to the same process. QC extracts were then mixed together and re-divided into 4 different NMR tubes, to ensure that they were identical.
+</p>
+Ref:</br>
+[1] Nzoughet, J. K., Gallart-Ayala, H., Biancotto, G., Hennig, K., Dervilly-Pinel, G., & Le Bizec, B. (2015). Hydrophilic interaction (HILIC)
+and reverse phase liquid chromatography (RPLC)–high resolution MS for characterizing lipids profile disruption in serum of anabolic implanted bovines. Metabolomics, 11, 1884–1895. doi:10.1007/s11306-015-0847-y.</br>"	"The extracts were eventually suspended in 700 μl of CDCl3 containing 0.3 mmol/l of dimethylsulfone (DMSO2) as an internal standard, and transferred into 5 mm NMR tubes for analysis. DMSO2 was chosen because of it solubility in CDCl3, its stability at room temperature and the fact that it yields a sharp singlet at 3.0 ppm, a region free of lipid signals. For the evaluation of the sample preparation, CDCl3 without DMSO2 was employed."	"All the spectra were automatically recorded using IconNMR (Bruker Biospin) on a 16.4 T Bruker Avance-III HD spectrometer operating at a 1H frequency of 700.13 MHz, equipped with an inverse 1H/13C/15N/2H cryogenically cooled probe. The sample temperature was set at 298 K and a SampleJet auto-sampler set at 277 K, requiring 4-inch long NMR tubes in 96-well plates was used. 1D 1H, 2D 1H NUS ZQF-TOCSY and 2D 1H UF COSY spectra were separately acquired."	"Assay 1) 1D 1H NMR:</br>
+For 1D 1H NMR analysis, a pulse acquire sequence was used, with acquisition parameters as follows: 128 scans and 2 dummy scans, a 10 ppm spectral width centered at 4 ppm, an acquisition time of 3.9 s, an inter scan delay of 16.1 s. Total acquisition time was 43 min. The free induction decays were processed with the Bruker Topspin software, version 3.2. Before Fourier Transform, data were weighted with an exponential function using a line broadening factor of 0.3 Hz, then zero filled to 128 k. The spectra underwent zero and first order manual phase correction using the Topspin routine followed by a degree 2 polynomial automatic baseline correction. The chemical shifts were finally referenced on all spectra to the DMSO2 signal at 3.0 ppm.
+</p>
+Assay 2) 2D 1H NUS ZQF-TOCSY:</br>
+Zero-quantum-filtered total correlation spectra (ZQF-TOCSY)[1] were recorded with the following parameters: NS = 8, DS = 2, a 6 x 6 ppm spectral width, an acquisition time of 4 s, a 0.9 s inter-scan delay, 384 points in the indirect dimension. For the Spin-lock, a DIPSI-2 motif was used for 82 ms. A zero-quantum filter was also applied, through the use of 20 kHz chirp pulses before and after the spin-lock for 50 ms and 30 ms respectively, simultaneously with 1.6 G/cm gradients. Non-uniform sampling parameters were set according to previously published work which studied the impact of these parameters on sensitivity and resolution on metabolic mixtures characterisation[2]. The Non-Uniform Sampling acquisition mode was used with a NUS percentage of 50% (192 points were actually acquired in the indirect dimension) resulting in a total acquisition time of 107 min. A Poisson-gap sampling scheme was generated using the NUScore program and the resulting spectra were obtained using the compressed sensing (CS) algorithm, included in the Topspin 3.2 software. For the apodization, an exponential function with a LB = 0.3 Hz for the direct dimension and LB = 10 Hz for the indirect dimension were applied. The spectra were zero filled to 32k points in the direct dimension and 1k points in the indirect dimension before Fourier Transform. A second order baseline was applied and the spectra were manually phased. The chemical shift was referenced using the DMSO2 signal, which provides a sharp diagonal peak at 3 ppm.
+</p>
+Assay 3) 2D 1H UF COSY:</br>
+Ultrafast COSY spectra were also recorded following a multi-scan sequence already described in the literature[3], completed with an interleaved acquisition scheme to increase the observable spectral width. Details on this hybrid acquisition strategy are given in the literature[4]. A constant-time spatial encoding scheme was used thanks to a pair of 15 ms smoothed chirp encoding pulses with a 13.5 kHz sweep range. For the spatial encoding, the gradient amplitude was set to ±1.6 G/cm and for the mixing period, opposite coherence-selection gradients were used (sine shape; 50.1 G/cm, 1 ms). For the echo-planar spectroscopic imaging acquisition, 32 gradients pairs were applied for 799 µs with an amplitude of 40.7 G/cm. 8 FIDs were recorded while incrementing a pre-acquisition delay, then processed in an interleaved fashion to yield a COSY spectrum with a 6 x 10 ppm spectral width. 8 interleaved acquisitions were performed with 48 scans each, with an inter-scan delay of 3.9 s. The total acquisition time was 26 min per spectrum. The processing was carried out thanks to a home-written algorithm in Topspin 3.2. It uses an optimized Gaussian weighting function for spatial apodization in the spatially encoded dimension[5] and a pi/4 shifted squared sine-bell weighting function in the conventional dimension. Due to the specificities of UF experiments, the chemical shift was finally calibrated using 2 signals: the DMSO2 peak and the CH2 signal from the fatty acid (FA) chains.
+</p>
+Ref:</br>
+[1] Thrippleton, M.J. and Keeler, J. (2003) Elimination of Zero-Quantum Interference in Two-Dimensional NMR Spectra. Angew. Chem., Int. Ed. 42, 3938-3941. doi:10.1002/anie.200351947. PMID:12949874</br>
+[2] Le Guennec, A., Dumez, J.N., Giraudeau, P. and Caldarelli, S. (2015) Resolution-enhanced 2D NMR of complex mixtures by non-uniform sampling. Magn. Reson. Chem. 53, 913-20. doi:10.1002/mrc.4258. PMID:26053155</br>
+[3] Le Guennec, A., Tea, I., Antheaume, I., Martineau, E., Charrier, B., Pathan, M., Akoka, S. and Giraudeau, P. (2012) Fast determination of absolute metabolite concentrations by spatially encoded 2D NMR: application to breast cancer cell extracts. Anal. Chem. 84, 10831-7. doi:10.1021/ac3033504. PMID:23170813</br>
+[4] Rouger, L., Charrier, B., Pathan, M., Akoka, S. and Giraudeau, P. (2014) Processing strategies to obtain clean interleaved ultrafast 2D NMR spectra. J. Magn. Reson. 238, 87-93. doi:10.1016/j.jmr.2013.11.008.PMID:24322368</br>
+[5] Giraudeau, P. and Akoka, S. (2011) Sensitivity and lineshape improvement in ultrafast 2D NMR by optimized apodization in the spatially encoded dimension. Magn. Reson. Chem. 49, 307-13. doi:10.1002/mrc.2746. PMID:21452341</br>"	"The 1D, 2D NUS ZQF-TOCSY and UF COSY spectra were manually integrated using the AMIX 3.8.4 software (Bruker Biospin), resulting in variably sized buckets. Data matrices were subsequently exported to Excel 2016.
+</p>
+For the 2D spectra (NUS ZQF-TOCSY and UF COSY; i.e. Assay 2 and 3 respectively), both correlation and diagonal signals were integrated. Moreover, since homonuclear 2D correlation spectra are symmetrical, each correlation peak has its own counterpart on the other side of the diagonal that could be either integrated. Individually, we chose to perform the integration on the correlation peak that would give optimal results, e.g. because it was better resolved, more intense or less disturbed by t1 noise.
+</p>
+Raw integration data for each spectrum were normalized on the total sum using Excel 2016. To ensure the quality of the datasets, CVs were calculated on the QC samples for each variable. Variables with CVQC > 10% were suppressed as they were not considered as reliable for the following statistical analysis. Overall, none variable was suppressed in the 1D dataset whereas only 13 variables for the NUS ZQF-TOCSY and 9 variables for the UF COSY were discarded resulting in 33-, 140- and 38-variable datasets, respectively."	"The assignment of the NMR signals was achieved both from comparison with literature data[1]-[3] and the analysis of various lipid standards.
+</p>
+Ref:</br>
+[1] Ekman, D.R., Teng, Q., Villeneuve, D.L., Kahl, M.D., Jensen, K.M., Durhan, E.J., Ankley, G.T. and Collette, T.W. (2009) Profiling lipid metabolites yields unique information on sex- and time-dependent responses of fathead minnows (Pimephales promelas) exposed to 17α-ethynylestradiol. Metabolomics 5, 22-32. doi:10.1007/s11306-008-0138-y.</br>
+[2] Fernando, H., Bhopale, K.K., Kondraganti, S., Kaphalia, B.S. and Shakeel Ansari, G.A. (2011) Lipidomic changes in rat liver after long-term exposure to ethanol. Toxicol. Appl. Pharmacol. 255, 127-37. doi:10.1016/j.taap.2011.05.022. PMID:21736892</br>
+[3] Jayalakshmi, K., Sonkar, K., Behari, A., Kapoor, V.K. and Sinha, N. (2011) Lipid profiling of cancerous and benign gallbladder tissues by 1H NMR spectroscopy. NMR Biomed. 24, 335-42. doi:10.1002/nbm.1594. PMID:22945290</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Marchand"	"Martineau"	"Guitton"	"Le Bizec"	"Dervilly-Pinel"	"Giraudeau"
+Study Person First Name	"Jérémy"	"Estelle"	"Yann"	"Bruno"	"Gaud"	"Patrick"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"jeremy.marchand@oniris-nantes.fr"	"estelle.martineau@univ-nantes.fr"	"yann.guitton@oniris-nantes.fr"	"bruno.lebizec@oniris-nantes.fr"	"gaud.dervilly@oniris-nantes.fr"	"patrick.giraudeau@univ-nantes.fr"
+Study Person Phone	"0033 2 76 64 50 96"	"0033 2 51 12 57 02"	"0033 2 40 68 78 80"	"0033 2 40 68 78 80"	"0033 2 40 68 78 80"	"0033 2 51 12 57 09"
+Study Person Fax	""	""	"0033 2 40 68 78 78"	"0033 2 40 68 78 78"	"0033 2 40 68 78 78"	""
+Study Person Address	"2 rue de la Houssinière, 44322 Nantes"	"26 Bd Vincent Gâche, 44200 Nantes (France)"	"Route de Gachet, BP 50707, 44307 Nantes Cedex 3, France"	"Route de Gachet, BP 50707, 44307 Nantes Cedex 3, France"	"Route de Gachet, BP 50707, 44307 Nantes Cedex 3, France"	"2 rue de la Houssinière, 44322 Nantes // Institut Universitaire de France"
+Study Person Affiliation	"EBSI Team, Chimie et Interdisciplinarité : Synthèse, Analyse, Modélisation (CEISAM) Université de Nantes, CNRS, UMR 6230 // Laberca, Oniris, INRA, Université Bretagne Loire"	"SpectroMaitrise, CAPACITES SAS // EBSI Team, Chimie et Interdisciplinarité : Synthèse, Analyse, Modélisation (CEISAM) Université de Nantes, CNRS, UMR 6230"	"Laberca, Oniris, INRA, Université Bretagne Loire"	"Laberca, Oniris, INRA, Université Bretagne Loire"	"Laberca, Oniris, INRA, Université Bretagne Loire"	" EBSI Team, Chimie et Interdisciplinarité : Synthèse, Analyse, Modélisation (CEISAM) Université de Nantes, CNRS, UMR 6230 // Institut Universitaire de France."
+Study Person Roles	"First author"	"Second author"	"Third author"	"Fourth author"	"Corresponding author"	"Corresponding author"
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

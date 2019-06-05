@@ -1,0 +1,113 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"NIFSTD"	"MS"	"OBI"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NIFSTD"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/OBI"	
+Term Source Version	"6"	"18"	"113"	"21"	"129"	"22"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Neuroscience Information Framework (NIF) Standard Ontology"	"Mass Spectrometry Ontology"	"Ontology for Biomedical Investigations"	
+INVESTIGATION
+Investigation Identifier	"MTBLS567"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:UserskristaDocumentsCurrent projectsMSdataAnalysisISAcreatorMetaboLights_1.7ConfigurationsMetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS567"
+Study Title	"Intracellular and extracellular metabolites from three strains of Prochlorococcus"
+Study Description	"Prochlorococcus is an abundant, cosmopolitan, marine cyanobacterium with ecotypes that vary temporally and spatially across oligotrophic regions of the global ocean. This group of organisms can serve as a model system to understand the accumulation of organic compounds synthesized by primary producers in marine ecosystems. We applied targeted metabolomics to three axenic cultures of strains that span the Prochlorococcus phylogeny: a high-light adapted HLII-clade strain, a low-light adapted LLI-clade strain, and a low-light adapted LLIV-clade strain. Intracellular metabolites were extracted from cells captured in exponential growth and extracellular metabolites were adsorbed, from the same samples, to solid-phase extraction resin. Both pools were quantified using a triple quadrupole mass spectrometer. The resulting data reveal intraspecific differences in metabolites that provide clues about the selective pressures shaping the meta-metabolism of the Prochlorococcus collective, and its interactions with the surrounding microbes that depend on them."
+Study Submission Date	"2017-11-06"
+Study Public Release Date	"2018-11-01"
+Study File Name	"s_mtbls567.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"liquid chromatography-mass spectrometry"	"targeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000524"	""
+Study Design Type Term Source REF	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""	""
+Study Publication DOI	""	""
+Study Publication Author List	"R. Braakman, K. Longnecker, J.W. Becker, K. Dooley, M.C. Kido Soule, E.B. Kujawinski, S.W. Chisholm"	"K. Longnecker, J.W. Becker, R. Braakman, K. Dooley, M.C. Kido Soule, S.W. Chisholm, E.B. Kujawinski"
+Study Publication Title	"Evolutionary metabolomics suggest Prochlorococcus drives an oceanic nucleotide economy"	"Intracellular and extracellular metabolites in Prochlorococcus"
+Study Publication Status	"In preparation"	"In preparation"
+Study Publication Status Term Accession Number	""	""
+Study Publication Status Term Source REF	""	""
+STUDY FACTORS
+Study Factor Name	"Strain"	"Light"	"Treatment"	"Replicate"
+Study Factor Type	"strain"	"photon flux density"	"treatment"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0005135"	""	"http://www.ebi.ac.uk/efo/EFO_0000727"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	""	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls567_POS_LC_mass_spectrometry.txt"	"a_mtbls567_NEG_LC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"TSQ Vantage (Thermo Scientific)"	"TSQ Vantage (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"3 strains of Prochlorococcus were cultured using a natural seawater-based medium[1]. The strains included one high light-adapted strain (MIT9301; HLII) and 2 low light-adapted strains (MIT9313; LLIV and MIT0801; LLI). The cultures were maintained in autoclaved glass tubes and sampled in exponential growth. All 3 strains were grown at light levels of 10 µmol photons/m^2/s; MIT9301 was also grown at 50 µmol photons/m^2/s while MIT9313 was also grown at 5 µmol photons/m^2/s. 
+</p>
+All 3 strains were grown with replete levels of inorganic nitrogen, phosphorus, and trace metals[1]. In addition, strain MIT9301 was grown under phosphate-limited conditions with 2.28 µM PO4. The cultures with the replete level of nutrients are 'replete' under the treatment factor, while the cultures grown with limited phosphate are designated as 'Plimited' in the treatment factor. 
+</p>
+For the replete cultures, there are 3 replicates for the intracellular and extracellular samples from each strain. For the P-limited experiment with MIT9301, there are 2 replicates for the intracellular and extracellular samples. 
+</p>
+Ref:</br>
+[1] Moore, L. R., A. Coe, E. R. Zinser, M. A. Saito, M. B. Sullivan, D. Lindell, K. Frois-Moniz, J. Waterbury and S. W. Chisholm (2007). Culturing the marine cyanobacterium Prochlorococcus. Limnology and Oceanography Methods 5: 353-362.doi:10.4319/lom.2007.5.353</br>"	"The intracellular metabolites were extracted using a method modified from a previously described protocol[1]. Briefly, the filter was extracted 3 times with ice-cold extraction solvent (acetonitrile:methanol:water with 0.1 M formic acid, 40:40:20). The combined extracts were neutralized with ammonium hydroxide and dried in a vacufuge. The samples were redissolved in 95:5 (v/v) water:acetonitrile combined with a mixture of labeled compounds used as an injection standard (d2-biotin, d6-succinic acid, d4-cholic acid, d7-indole 3 acetic acid, 13C phenylalanine; final concentration of each is 0.05 µg/ml). The final extract volume was 150 µl.
+</p>
+The filtrate for each sample, representing the extracellular metabolite fraction, was processed using solid phase extraction with 1 g/6 cc Bond Elut PPL cartridges[2]. The resulting extract was dried down in a vacufuge. The extracellular metabolite extract was redissolved in 75 µl of 95:5 water:acetonitrile combined with a mixture of labeled compounds used as an injection standard (d2-biotin, d6-succinic acid, d4-cholic acid, d7-indole 3 acetic acid, 13C phenylalanine; final concentration of each is 0.05 µg/ml). 
+</p>
+Ref:</br>
+[1] Rabinowitz JD, Kimball E. Acidic acetonitrile for cellular metabolome extraction from Escherichia coli. Anal Chem. 2007 Aug 15;79(16):6167-73. doi:10.1021/ac070470c. PMID:17630720</br>
+[2] Dittmar T, Koch B, Hertkorn N, Kattner G. A simple and efficient method for the solid-phase extraction of dissolved organic matter (SPE-DOM) from seawater. Limnology and Oceanography: Methods. June 2008, 6(6), 230–235.</br>"	"The chromatographic separation was performed on a Waters Acquity HSS T3 column (2.1 x 100 mm, 1.8 μm) equipped with a Vanguard pre-column and maintained at 40 °C. The column was eluted with (A) 0.1% formic acid in water and (B) 0.1% formic acid in acetonitrile at a flow rate of 0.5 ml/min. The gradient starts at 1% B for 1 min, ramp to 15% B from 1-3 min, ramp to 50% from 3-6 min, ramp to 95% B from 6-9 min, hold until 10 min, ramp to 1% from 10-10.2 min, and a final hold at 1% B (total gradient time 12 min)."	"For targeted analysis, samples were analyzed by ultra performance liquid chromatography (Accela Open Autosampler and Accela 1250 Pump, Thermo Scientific) coupled to a heated electrospray ionization source (H-ESI) and a triple quadrupole mass spectrometer (TSQ Vantage, Thermo Scientific) operated under selected reaction monitoring (SRM) mode. Separate autosampler injections of 5 μl each were made for positive and negative ion modes. Analysis of authentic standards was used to determine the optimal ionization mode for each metabolite."	"The resulting targeted metabolomics data were converted to mzML files using the msConvert tool[1] and processed with MAVEN[2]. The concentration of the metabolites in the targeted mass spectrometry data is given in ng/cell. The cell count data were obtained by flow cytometry.
+</p>
+Ref:</br>
+[1] Chambers MC, Maclean B, Burke R, Amodei D, Ruderman DL, Neumann S, Gatto L, Fischer B, Pratt B, Egertson J, Hoff K, Kessner D, Tasman N, Shulman N, Frewen B, Baker TA, Brusniak MY, Paulse C, Creasy D, Flashner L, Kani K, Moulding C, Seymour SL, Nuwaysir LM, Lefebvre B, Kuhlmann F, Roark J, Rainer P, Detlev S, Hemenway T, Huhmer A, Langridge J, Connolly B, Chadick T, Holly K, Eckels J, Deutsch EW, Moritz RL, Katz JE, Agus DB, MacCoss M, Tabb DL, Mallick P. A cross-platform toolkit for mass spectrometry and proteomics. Nat Biotechnol. 2012 Oct;30(10):918-20. doi:10.1038/nbt.2377. PMID:23051804</br>
+[2] Melamud E, Vastag L, Rabinowitz JD. Metabolomic analysis and visualization engine for LC-MS data. Anal Chem. 2010 Dec 1;82(23):9818-26. doi:10.1021/ac1021166. PMID:21049934</br>"	"The targeted metabolomics compound identifications were based on measurements of authentic standards on the same mass spectrometer. Identifications were 'MSI Level 1' identifications, unless otherwise noted, based on the established criteria[1].
+</p>
+Ref:</br>
+[1] Sumner L, Amberg A, Barrett D, Beale M, Beger R, Daykin C, Fan T, Fiehn O, Goodacre R, Griffin J, Hankemeier T, Hardy N, Harnly J, Higashi R, Kopka J, Lane A, Lindon J, Marriott P, Nicholls A, Reily M, Thaden J, and Viant M (2007) Proposed minimum reporting standards for chemical analysis. Metabolomics 3, 211-221. doi:10.1007/s11306-007-0082-2. PMID:3772505</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Longnecker"
+Study Person First Name	"Krista"
+Study Person Mid Initials	""
+Study Person Email	"klongnecker@whoi.edu"
+Study Person Phone	"508 289 2824"
+Study Person Fax	""
+Study Person Address	""
+Study Person Affiliation	""
+Study Person Roles	""
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""

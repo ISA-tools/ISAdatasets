@@ -1,0 +1,101 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"IDO"	"OBI"	"MS"	"CHMO"	"EFO"	"EFO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/IDO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/EFO"	
+Term Source Version	"2"	"7"	"23"	"86"	"18"	"146"	"113"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Infectious Disease Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Experimental Factor Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS535"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/ymasukagami/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS535"
+Study Title	"Comparative metabolomics of Mycoplasma bovis and Mycoplasma gallisepticum reveals fundamental differences in active metabolic pathways and suggests novel gene annotations"
+Study Description	"Mycoplasmas are simple, but successful parasites that have the smallest genome of any free-living cell and are thought to have a highly streamlined cellular metabolism. Here we have undertaken a detailed metabolomic analysis of two species, Mycoplasma bovis and Mycoplasma gallisepticum, which cause economically important diseases in cattle and poultry, respectively. Untargeted GC/MS and LC/MS analyses of mycoplasma metabolite extracts revealed significant differences in the steady state levels of many metabolites in central carbon metabolism, while 13C stable isotope labelling studies revealed marked differences in carbon source utilization. These data were mapped onto in silico metabolic networks predicted from genome wide annotations. The analyses elucidated distinct differences, including a clear difference in glucose utilisation, with a marked decrease in glucose uptake and glycolysis in M. bovis compared to M. gallisepticum, which may reflect differing host nutrient availabilities. The 13C-labeling patterns also revealed several functional metabolic pathways that were previously unannotated in these species, allowing us to assign putative enzyme functions to the products of a number of genes of unknown function, especially in M. bovis. This study demonstrates the considerable potential of metabolomic analyses to assist in characterising significant differences in the metabolism of different bacterial species, and in improving genome annotation."
+Study Submission Date	"2017-09-09"
+Study Public Release Date	"2017-10-11"
+Study File Name	"s_mtbls535.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Bacteria"	"untargeted metabolites"	"high-performance liquid chromatography-mass spectrometry"	"gas chromatography-mass spectrometry"	"targeted metabolites "
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/NCBITaxon_2"	""	"http://purl.obolibrary.org/obo/CHMO_0000796"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	"EFO"	""	"CHMO"	"CHMO"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Y. Masukagami, D. P. De Souza, S. Dayalan, C. Bowen, S. O’Callaghan, K. Kouremenos, B. Nijagal, D. Tull, K. A. Tivendale, P. F. Markham, M. J. McConville, G. F. Browning, and F. M. Sansom"
+Study Publication Title	"Comparative metabolomics of Mycoplasma bovis and Mycoplasma gallisepticum reveals fundamental differences in active metabolic pathways and suggests novel gene annotations"
+Study Publication Status	"Accepted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Species"
+Study Factor Type	"organism"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0100026"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls535_LC_mass_spectrometry.txt"	"a_mtbls535_GC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Agilent 6520 series quadrupole time-of-flight mass spectrometer (QTOF MS)"	"Agilent 5975C GC/MSD"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"M. bovis PG45 and M. gallisepticum Ap3AS were grown aerobically at 37 °C in modified Frey’s broth (mycoplasma broth, MB) containing 10% swine serum for 18 hr. For metabolite extraction experiments both species were passaged twice at 1:10 dilutions, and on the third passage 8 x 20 ml biological replicates of each species were cultured in 50 ml conical centrifuge tubes (Fisher Scientific) until they reached late logarithmic phase."	"Late logarithmic phase cultures were rapidly quenched to 0 °C in an ethanol/dry ice bath to halt metabolic activity. After quenching mycoplasma cells were harvested by centrifugation (20,000 x g, 20 min, 0 °C) and the cell pellets resuspended in ice cold phosphate buffered saline (PBS). Cell number was adjusted to 1 x 1010 colour changing units (CCU) (as estimated from previous growth curves) and cell pellets washed twice with PBS (17,100 x g, 5 min, 0 °C) to remove residual culture medium, before extraction using chloroform:methanol:water (CHCl3:CH3OH:H2O, 1:3:1 v/v/v, 250 µl) containing 1 nmol 13C6-sorbitol and 10 nmol 13C6,15-N-valine as internal standards. After vortexing the samples were incubated at 60 °C for 15 min to lyse the cells. Cell debris was removed by centrifugation (17,100 x g, 5 min, 0 °C) and the supernatant adjusted to CHCl3:CH3OH:H2O (1:3:3 v/v/v) by addition of dH2O, before vortex mixing and centrifugation (17,100 x g, 5 min, 0 °C) to induce phase separation. The upper aqueous phase, containing polar metabolites, was transferred to a fresh precooled 1.5 ml microfuge tube and stored at -80 °C until GC/MS and/or LC/MS analysis.
+</p>
+Aqueous phase samples were transferred into glass vial inserts and completely dried in a rotational vacuum concentrator (John Morris Scientific RVC-2-33) at 37 °C, with 30 µl of 100% methanol added for the final drying stage. Free aldehyde groups were protected by derivatization in methoxyamine chloride (Sigma, 20 µl, 30 mg/ml in pyridine) with continuous mixing (2 hr, 37 °C). Metabolites were then derivatised by treatment with 20 µl of N, O-bistrimethylsilyltrifluoroacetamide (BSTFA) containing 1% trimethylchlorosilane (TMCS) (Thermo Scientific) (1 hr, 37 °C, continuous shaking) using a Gerstel MPS2 autosampler robot."	"Polar metabolites were also analysed by high performance (HP) LC/MS. LC analysis was performed on an Agilent 1200 series HPLC system (Agilent Technologies). Samples were stored in an autosampler at 4 °C. Metabolite separation was performed by injecting a 10 µl sample on a SeQuant ZIC-HILIC column (150 mm x 2.1 mm, 5 µm) maintained at 40 °C using Solvent A (20 mM (NH4)2CO3, pH 9.0, (Sigma-Aldrich) and Solvent B (100% acetonitrile) at a flow rate of 250 µl/min. The gradients used were: time (t) = 0 min, 90% B; t = 0.5 min, 90% B; t = 12 min, 40% B; t = 14 min, 40% B; t = 15 min, 5%, t = 18 min, 5% B; t = 19 min, 90% B.
+</p>
+For GC/MS analysis 1 µl of derivatised sample was injected into an Agilent 7890A gas chromatograph (split/splitless inlet, 250 °C) containing a VF-5ms column (30 m, 250 µm, 0.25 µm + 10m Eziguard precolumn) coupled to an Agilent 5975C mass selective detector. Helium was used as the carrier gas at a constant flow rate of 1 ml/min. The GC temperature was ramped from 35 °C, at which it was initially held for 2 min, to 325 °C at 25 °C/min, and then held for 5 min at 325 °C."	"The LC mass spectrometry analysis was performed on an Agilent 6520 series quadrupole time-of-flight mass spectrometer (QTOF MS) (Agilent Technologies). The LC flow was directed to an electrospray ionization source (ESI) where metabolite ionisation was performed with a capillary voltage of 3500 V, a drying gas (N2) pressure of 30 psi with a gas flow rate of 7.0 l/min, a gas temperature in the capillary of 325 ºC and fragmentor skimmer cap voltages of 125 V and 65 V, respectively. LC/MS data were collected in centroid mode with a scan range of 50-1700 m/z and an acquisition rate of 1.2 spectra/sec in negative MS mode.
+</p>
+For the GC mass spectrometry analysis, a 5975C mass selective detector was used in scan mode and mass spectra data were collected at 9.19 scans/s over an m/z range of 50-600 amu.
+</p>
+Prior to analysis, mass calibration was performed for negative mode to 0.5 ppm accuracy of the m/z value. Internal mass calibration was performed using Agilent ESI-TOF Reference Mass Solution containing purine (119.036320) and hexakis (1H,1H,3H-tetrafluoropropoxy) phosphazine (981.99509), which was continuously infused into the ESI source at a flow rate of 200 µl/min."	"The GC/MS untargeted and LC/MS targeted data matrices were missing value imputed, log transformed and median normalized across all M. bovis and M. gallisepticum samples and statistically analysed using R (MAR, Metabolomics Australia’s in-house statistical analysis package)."	"Profiles obtained from LC/MS analysis were filtered to remove the noise peaks above the specific abundance threshold. Metabolites were identified by comparison of retention time and molecular mass with those of the in-house Metabolomics Australia library (authentic standards). The remaining metabolites were putatively identified using the MAVEN database, with the molecular mass matching greater than 70% of the mass score match. Peak integration was performed on the spectra from identified metabolites with the in-house library, and collated into a targeted data matrix."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sansom"	"Masukagami"
+Study Person First Name	"Fiona"	"Yumiko"
+Study Person Mid Initials	"M"	""
+Study Person Email	"fsansom@unimelb.edu.au"	"ymasukagami@student.unimelb.edu.au"
+Study Person Phone	"+61 3 90353179"	""
+Study Person Fax	""	""
+Study Person Address	"Faculty of Veterinary and Aglicultural Science "	"Faculty of Veterinary and Aglicultural Science "
+Study Person Affiliation	"The University of Melbourne"	"The University of Melbourne"
+Study Person Roles	"Senior Lecturer"	"PhD student"
+Study Person Roles Term Accession Number	""	""
+Study Person Roles Term Source REF	""	""

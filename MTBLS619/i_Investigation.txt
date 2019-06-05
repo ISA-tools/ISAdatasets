@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"CHEBI"	"ENVO"	"EFO"	"OBI"	"MESH"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/ENVO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"22"	"80"	"27"	"113"	"22"	"6"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Entities of Biological Interest Ontology"	"Environment Ontology"	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Medical Subject Headings"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS619"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\ludge\Documents\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS619"
+Study Title	"Response to dietary carbohydrates in European seabass (Dicentrarchus labrax) muscle tissue as revealed by NMR-based metabolomics"
+Study Description	"INTRODUCTION: Feed optimization is a key step to the environmental and economic sustainability of aquaculture, especially for carnivorous species. Plant-derived ingredients can contribute to reduce costs and nitrogenous effluents while sparing wild fish stocks. However, the metabolic use of carbohydrates from vegetable sources by carnivorous fish is still not completely understood. </br> OBJECTIVES: We aimed to study the effects of diets with carbohydrates of different digestibilities, gelatinized starch (DS) and raw starch (RS), in the muscle metabolome of European seabass (Dicentrarchus labrax). </br> METHODS: We followed an NMR-metabolomics approach, using two sample preparation procedures, the intact muscle (HRMAS) and the aqueous muscle extracts (1H NMR), to compare the variations in muscle metabolome between the two diets. </br> RESULTS: In muscle, multivariate analysis revealed similar metabolome shifts for DS and RS diets, when compared with the control diet. HRMAS of intact muscle, which included both hydrophobic and hydrophilic metabolites, showed increased lipid in DS-fed fish by univariate analysis. Regardless of the nature of the starch, increased glycine and phenylalanine, and decreased proline were observed when compared to the Ctr diet. Combined univariate analysis of intact muscle and aqueous extracts indicated specific diet related changes in lipid and amino acid metabolism, consistent with increased dietary carbohydrate supplementation. </br> CONCLUSIONS: Due to differential sample processing, outputs differ in detail but provide complementary information. After tracing nutritional alterations by profiling fillet components, DS seems to be the most promising alternative to fishmeal-based diets in aquaculture. This approach should be reproducible for other farmed fish species and provide valuable information on nutritional and organoleptic properties of the final product. </br>"
+Study Submission Date	"2018-02-01"
+Study Public Release Date	"2019-02-01"
+Study File Name	"s_mtbls619.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"aquaculture process"	"diet"	"carbohydrate"	"Muscle Development"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/ENVO_01000906"	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://purl.obolibrary.org/obo/CHEBI_16646"	"http://purl.bioontology.org/ontology/MESH/D024510"	""
+Study Design Type Term Source REF	"ENVO"	"EFO"	"EFO"	"MESH"	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	"10.1007/s11306-018-1390-4"
+Study Publication Author List	"Jarak I, Tavares L, Palma M, Rito J, Carvalho R, Viegas I"
+Study Publication Title	"Response to dietary carbohydrates in European seabass (Dicentrarchus labrax) muscle tissue as revealed by NMR-based metabolomics"
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Diet"	"Material sample"
+Study Factor Type	"diet"	"material sample"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0002755"	"http://purl.obolibrary.org/obo/OBI_0000747"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls619_MAS_NMR_spectroscopy.txt"	"a_mtbls619_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Bruker"	"Varian"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Juvenile European seabass (Dicentrarchus labrax L.) with an initial mean body weight of 21.9 ± 0.3 g, were randomly assigned to 3 different tanks and reared under the conditions described in detail previously[1]. Briefly, fish were fed with 3 experimental diets (Sparos Lda., Loulé, Portugal): a control carbohydrate-free diet (Ctr), a diet with 30% digestible starch from gelatinized pea meal (DS), and a raw starch diet from crude pea meal (RS) (see Table S1 in the paper associated with this study). After this period, each group was transferred to a 5% 2H-enriched seawater tank for 6 days to perform hepatic glucose and lipid metabolic studies[1][2]. 24 h after last meal, fish were anesthetized in seawater with MS-222 (0.1 g/l), weighed and sacrificed by cervical section. Muscle fillet samples from the epaxial quadrant were dissected. A biopsy core was punched into each sample, immediately dipped in N2 and stored while the remaining fillet was freeze-clamped in N2. Both samples were stored at − 80 °C until further processing. All experimental procedures complied with the Guidelines of the European Union Council (86/609/EU).
+</p>
+Ref:</br>
+[1] Viegas, I., Jarak, I., Rito, J., Carvalho, R. A., Metón, I., Pardal, M. A., Baanante, I. V., & Jones, J. G. (2016). Effects of dietary carbohydrate on hepatic de novo lipogenesis in European seabass (Dicentrarchus labrax L.). Journal of Lipid Research, 57, 1264–1272. doi:10.1194/jlr.M067850. PMID:27247346</br>
+[2] Viegas, I., Rito, J., Jarak, I., Leston, S., Caballero-Solares, A., Metón, I., Pardal, M. A., Baanante, I. V., & Jones, J. G. (2015). Contribution of dietary starch to hepatic and systemic carbohydrate fluxes in European seabass (Dicentrarchus labrax L.). British Journal of Nutrition, 113, 1345–1354. doi:10.1017/S0007114515000574. PMID:25989995</br>"	"Free amino acids (FAA) were extracted following a procedure published previously[1] (Ctr, n=10; DS, n=9; RS, n=8). Fish muscle samples were ground in N2, and to each gram of frozen tissue 15.4 ml of methyl tert-butyl ether (MTBE) and 4.6 ml of methanol were added. The mixture was incubated for 1 h at room temperature under agitation and centrifuged for 10 min at 13,000 x g. The liquid fraction was separated and extracted with 4 ml of distilled water for 10 min at room temperature and centrifuged for 10 min at 1000 x g. The aqueous fraction, containing among other FAA, was collected and evaporated to dryness.
+</p>
+Ref:</br>
+[1] Matyash, V., Liebisch, G., Kurzchalia, T. V., Shevchenko, A., & Schwudke, D. (2008). Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. Journal of Lipid Research, 49, 1137–1146. doi:10.1194/jlr.D700041-JLR200. PMID:18281723</br>"	"Extract samples were reconstituted in 200 μl of 150 mM deuterated phosphate buffer, pD=7.4, and transferred to 3 mm diameter NMR tubes for 1H NMR analysis.
+</p>
+For the high resolution magic angle spinning (HRMAS) analysis of muscle biopsies (0.05 ± 0.01 g of intact tissue; Ctr, n=15; DS, n=6; RS, n=7), intact frozen tissues were washed with D2O saline to remove excess blood and packed immediately into 50 μl HRMAS 4 mm zirconia rotors containing 10 μl of D2O saline with 0.25% 3-(trimethylsilyl) propionate sodium salt (TSP)-d4."	"1D proton spectra of aqueous extracts were acquired on a Varian VNMR 600 MHz (Varian Inc., Palo Alto, CA, USA) spectrometer equipped with a 3 mm 1H(X)-PFG inverse configuration probe. All 1H-HRMAS spectra of intact muscle biopsies were acquired on an 800 MHz Bruker Avance II+ (Rheinstetten, Germany) spectrometer using a 4 mm HRMAS probe."	"For extracts, 1H presat pulse sequence was used with the following acquisition parameters: spectral width of 6 kHz, 45° pulse angle, 4 s of acquisition time, 55 s interpulse delay and 16 transients at 298 K. For biopsies, spectra were recorded at 277 K with a spinning rate of 4 kHz, employing the Carr–Purcell–Meiboom–Gill (CPMG) spin-echo pulse sequence with water presaturation and a total spin echo time of 120 ms (n = 444, τ = 270 μs). Typically, 256 transients were acquired with 72k points, spectral width of 12 kHz, relaxation delay of 2 s, and acquisition time of 3 s."	"All spectra were processed using Topspin 3.2 software (Bruker, Ettlingen, Germany) applying: zero-filling to 64k points, line broadening of 0.3 Hz, phasing and baseline correction. The chemical shifts were referenced internally to the alanine signal at δ 1.48 ppm. Spectral regions between 0.7 and 8.85 ppm (for aqueous extracts) and 0.67 and 5.6 ppm (for biopsies) were used to build data matrices for multivariate analysis, using one-point bucketing (Amix V3.9.15 software, Bruker Biospin, Germany). Water signal region was excluded (4.40–5.25 and 4.75–5.20 ppm for aqueous extracts and biopsies, respectively). Chemical shift variations in recorded spectra were minimized by using icoshift[1] alignment, followed by recursive segment-wise peak alignment[2] where needed, using R statistical package[3]. Probabilistic quotient normalization (PQN)[4] was used to account for different sample sizes and dilutions.
+</p>
+Ref:</br>
+[1] Savorani, F., Tomasi, G., & Engelsen, S. B. (2010b). icoshift: A versatile tool for the rapid alignment of 1D NMR spectra. Journal of Magnetic Resonance, 202, 190–202. doi:10.1016/j.jmr.2009.11.012. PMID:20004603</br>
+[2] Veselkov, K. A., Lindon, J. C., Ebbels, T. M. D., Crockford, D., Volynkin, V. V., Holmes, E., Davies, D. B., & Nicholson, J. K. (2009). Recursive segment-wise peak alignment of biological 1H NMR spectra for improved metabolic biomarker recovery. Analytical Chemistry, 81, 56–66. doi:10.1021/ac8011544. PMID:19049366</br>
+[3] R Core Team. (2014). R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing. http://www.R-project.org/.</br>
+[4] Dieterle, F., Ross, A., Schlotterbeck, G., & Senn, H. (2006). Probabilistic quotient normalization as robust method to account for dilution of complex biological mixtures. Application in 1H NMR metabonomics. Analytical Chemistry, 78, 4281–4290. doi:10.1021/ac051632c. PMID:16808434.</br>"	"Spectral assignments were based on matching the recorded spectra to the reference data available in public databases such as Human Metabolome Database (HMDM) and Biological Magnetic Resonance Data Bank (BMRB), and further supported by statistical total correlation spectroscopy (STOCSY)[1]. Metabolites have been identified at Metabolomics Standards Initiative (MSI) level 2 according to the guidelines for metabolite identification[2].
+</p>
+Ref:</br>
+[1] Cloarec, O., Dumas, M.-E., Craig, A., Barton, R. H., Trygg, J., Hudson, J., Blancher, C., Gauguier, D., Lindon, J. C., Holmes, E., & Nicholson, J. (2005). Statistical total correlation spectroscopy: An exploratory approach for latent biomarker identification from metabolic 1H NMR data sets. Analytical Chemistry, 77, 1282–1289. doi:10.1021/ac048630x. PMID:15732908</br>
+[2] Sumner, L. W., Amberg, A., Barrett, D., Beale, M. H., Beger, R., Daykin, C. A., Fan, T. W. M., Fiehn, O., Goodacre, R., Griffin, J. L., Hankemeier, T., Hardy, N., Harnly, J., Higashi, R., Kopka, J., Lane, A. N., Lindon, J. C., Marriott, P., Nicholls, A. W., Reily, M. D., Thaden, J. J., & Viant, M. R. (2007). Proposed minimum reporting standards for chemical analysis: Chemical Analysis Working Group (CAWG) Metabolomics Standards Initiative (MSI). Metabolomics: Official journal of the Metabolomic Society, 3, 211–221. doi:10.1007/s11306-007-0082-2</br>"
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Number of transients;Pulse sequence name;NMR Probe;Instrument"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jarak"	"Tavares"	"Palma"	"Rito"	"Carvalho"	"Viegas"
+Study Person First Name	"Ivana"	"Ludgero"	"Mariana"	"João"	"Rui"	"Ivan"
+Study Person Mid Initials	""	""	""	""	""	""
+Study Person Email	"jarak.ivana@gmail.com"	"ludgeroctavares@gmail.com"	"mpalma@uc.pt"	"jmrito@student.zoo.uc.pt"	"carvalho@ci.uc.pt "	"iviegas@uc.pt"
+Study Person Phone	""	""	""	""	""	""
+Study Person Fax	""	""	""	""	""	""
+Study Person Address	"Department Life Sciences, University of Coimbra, Coimbra 3000-456, Portugal"	"University of Coimbra, Coimbra 3004-517, Portugal."	"Department Life Sciences, University of Coimbra, Coimbra 3000-456, Portugal"	"University of Coimbra, Coimbra 3004-517, Portugal."	"University of Coimbra, Coimbra 3004-517, Portugal."	"University of Coimbra, Coimbra 3004-517, Portugal."
+Study Person Affiliation	"CFE - Centre for Functional Ecology"	"CNC - Center for Neuroscience and Cell Biology"	"CFE - Centre for Functional Ecology"	"CFE - Centre for Functional Ecology and CNC - Center for Neuroscience and Cell Biology"	"CFE - Centre for Functional Ecology"	"CFE - Centre for Functional Ecology and CNC - Center for Neuroscience and Cell Biology"
+Study Person Roles	"First author"	"First author"	"Co-author"	"Co-author"	"Co-author"	"Corresponding author"
+Study Person Roles Term Accession Number	""	""	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""	""	""

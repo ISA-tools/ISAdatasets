@@ -1,0 +1,136 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"OBI"	"MS"	"FMA"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/FMA"	
+Term Source Version	"2"	"22"	"86"	"3"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Foundational Model of Anatomy"	
+INVESTIGATION
+Investigation Identifier	"MTBLS396"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment [Created with configuration]	""
+Comment [Last Opened With Configuration]	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS396"
+Study Title	"LDA: By the lipidome of murine liver samples, we confirmed the capability of LDA to deal with a complex biological sample (Biological experiment)."
+Study Description	"The biological data served for fine-tuning of the developed decision rule sets. Particularly the high numbers of isobaric species and structural isomers contained in these samples helped in the detection of decisive differences for many isobaric subclasses/adducts."
+Study Submission Date	"2016-10-28"
+Study Public Release Date	"2017-08-15"
+Study File Name	"s_LDA2_Biological.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolomics"	"Lipids"	"ultra-performance liquid chromatography-mass spectrometry"	"Software engineering"
+Study Design Type Term Accession Number	""	""	""	""
+Study Design Type Term Source REF	""	""	""	""
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Hartler J, Triebl A, Ziegl A, Trötzmüller M, Rechberger GN, Zeleznik OA, Zierler KA, Torta F, Cazenave-Gassiot A, Wenk MR, Fauland A, Wheelock C, Armando AM, Quehenberger O, Zhang Q, Wakelam MJO, Haemmerle G, Spener F, Köfeler HC, Thallinger GG"
+Study Publication Title	"Deciphering lipid structures based on platform-independent decision rule sets"
+Study Publication Status	"submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	""
+Study Factor Type	""
+Study Factor Type Term Accession Number	""
+Study Factor Type Term Source REF	""
+STUDY ASSAYS
+Study Assay File Name	"a_lda2_biological_metabolite_profiling_mass_spectrometry.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-1.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-2.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-3.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-4.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-5.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-6.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-7.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-8.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-9.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-10.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-11.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-12.txt"	"a_lda2_biological_metabolite_profiling_mass_spectrometry-13.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"	"OBI"
+Study Assay Technology Platform	"Orbitrap velos CID positive (Thermo Scientific)"	"Orbitrap velos CID negative (Thermo Scientific)"	"Orbitrap velos HCD positive (Thermo Scientific)"	"Orbitrap velos HCD negative (Thermo Scientific)"	"API 4000 QTRAP positive (AB Sciex)"	"API 4000 QTRAP negative (AB Sciex)"	"Orbitrap elite positive (Thermo Scientific)"	"Orbitrap elite negative (Thermo Scientific)"	"QTRAP 6500 positive (AB Sciex)"	"QTRAP 6500 negative (AB Sciex)"	"QTOF G6550A positive (Agilent)"	"QTOF G6550A negative (Agilent)"	"QExactive positive (Thermo Scientific)"	"QExactive negative (Thermo Scientific)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Liver samples from wild type mice with ad libitum access to water and a standard chow diet were excised as described by Zierler et al. (Functional cardiac lipolysis in mice critically depends on comparative gene identification-58. J Biol. Chem 288, 9892-9904 (2013))."	"Three liver aliquots (25-40 mg) from three different mice were homogenized using a BioPulverizer (BioSpec Products, Bartlesville, OK, USA) and extracted according to Matyash et al. (Matyash,V., Liebisch,G., Kurzchalia,T.V., Shevchenko,A., & Schwudke,D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res 49, 1137-1146 (2008)): 1.5 mL methanol and 5 mL MTBE (methyl-tert-butyl ether) were added to liver homogenate in 12 mL glass test tubes with PTFE-lined caps, and the mixture was incubated for 10 min in an overhead shaker at room temperature. After addition of 1.25 mL deionized water and 10 min of additional shaking, the mixture was centrifuged for 5 min at 2,000 x g and the upper phase was transferred to a new test tube. The lower phase was re-extracted with 2 mL of the upper phase of MTBE/methanol/deionized water 10:3:2.5 (v/v/v). The upper phases were combined, evaporated in a vacuum centrifuge and dissolved in 1 mL chloroform/methanol 1:1 (v/v) for storage at  -20 °C. Animal procedures were approved by the Austrian Federal Ministry for Science and Research and the Ethics Committee of the University of Graz (BMWFW-66.007/0006-WF/3b/2014).
+The three liver extracts were measured in quintuplicates each."	"Orbitrap Velos Pro CID and HCD:
+Chromatographic separation of lipids was performed on a Waters BEH C8 column (100 x 1 mm, 1.7 µm) (Waters, Milford, MA, USA), thermostated to 50 °C in a Dionex Ultimate XRS UHPLC (ultra-high performance liquid chromatography) system. Mobile phase A for chromatographic separation was deionized water containing 10 mmol/L ammonium formate and 0.1 vol% of formic acid. Mobile phase B was acetonitrile/2-propanol 5:2 (v/v) with the same additives. Gradient elution started at 50 % mobile phase B, rising to 100 % B over 40 min, 100 % B was held for 10 min and the column was re-equilibrated with 50 % B for 8 min before the next injection. Flow rate was 150 µL/min and injection volume was 2µL.
+
+ SYNAPT G1 HDMS QTOF:
+Chromatographic separation was performed using a BEH C18 column (2.1 x 150 mm, 1.7 µm) thermostated to 50 °C in an AQUITY UPLC system (Waters, Manchester, UK). Mobile phases A and B were water/methanol 1:1 (v/v), and 2-propanol, respectively, both containing 8 µmol/L phosphoric acid, 10 mmol/L ammonium acetate and 0.1 vol% formic acid. Flow rate was 150 µL/min; the linear gradient starting at 45 % B reached 100 % B within 32 min, followed by 10 min at this level, and re-equilibration for 8 min.
+
+4000 QTRAP:
+Chromatographic separation was performed on an Agilent HPLC 1100 system (Agilent Technologies, Waldbronn, Germany). A Kinetex C8 column (100 x 2.1 mm, 1.7 µm) (Phenomenex, Torrance, CA, USA) was used. Mobile phases were identical as used for Orbitrap Velos Pro. Gradient elution started at 50 % mobile phase B, rising to 100 % B over 30 min, 100 % B was held for 15 min and the column was re-equilibrated with 50 % B for 13 min. Flow rate was 250 µL/min and 2 µL of the sample were injected.
+
+Orbitrap Elite:
+Chromatography was performed on a Gemini-NX C18 (150 x 2 mm) column (Phenomenex, Torrance, CA, USA) using a Shimadzu Prominence 20-AD system (Shimadzu, Kyoto, Japan). Mobile phase A was water and mobile phase B was acetonitrile/2-propanol 5:2 (v/v), both containing 10 mmol/L ammonium formate and 0.1 vol% formic acid as additives. Eight µL of sample were injected onto the column and eluted with a gradient of 50-100 % B over 25 min, 100 % B was held for 20 min before the column was re-equilibrated with 50 % B. Flow rate was 450 µL/min, the column oven temperature was 50 °C and the samples were kept at 4 °C.
+
+QTRAP6500:
+A Waters Acquity UPLC system (Waters Technologies, Milford, MA, USA) with a Phenomenex Kinetex C18 column (150 x 2.1 mm, 1.7 µm) was used for chromatographic separation. Gradient elution started at 40 % mobile phase B for 10 min, then rising to 100 % B over 10 min. 100 % B was held for 30 min and the column was equilibrated with 50 % B for 8 min. Flow rate was 300 µL/min and 10 µL of sample was injected.
+
+QTOF G6550A:
+Chromatographic separation was performed using an Agilent C18 Zorbax RRHD 100 x 2.1 mm, 1.8 µm column thermostated to 50 °C in an Agilent 1290 Infinity UHPLC system (Agilent, Santa Clara, CA, USA). Mobile phases A and B were acetonitrile/water 40:60 (v/v) and 2-propanol:acetonitrile 90:10 (v/v), respectively, both containing 10 mmol/L ammonium formate. Gradient elution started at 10 % mobile phase B, rising to 25 % B in 1 min, to 60 % B in 4.5 min, to 85 % B in 8.5 min, and to 100 % B in 4 min. 100 % B was held for 1 min before the column was re-equilibrated for a further 1.5 min, leading to a total run time of 20.5 min. Flow rate was 400 µL/min, and 2 µL of sample were injected.
+
+Q Exactive:
+Chromatographic separation of lipids was performed on a Waters (Waters, Milford, MA, USA) BEH C8 column (100 x 1 mm, 1.7 µm), thermostated to 50 °C in a Thermo Ultimate 3000 UHPLC system. Mobile phase A for chromatographic separation was deionized water with 10 mmol/L ammonium formate and 0.1 vol% of formic acid as additives. Mobile phase B was a mixture of acetonitrile/2-propanol 5:2 (v/v) with the same additives. Gradient elution started at 50 % mobile phase B, rising to 100 % B in 40 min, 100 % B were held for 8 min and the column was re-equilibrated with 50 % B for 7 min before the next injection. The flow rate was 150 µL/min and injection volume was 2 µL."	"Orbitrap Velos Pro CID and HCD:
+The Orbitrap Velos Pro hybrid mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) was operated in Data Dependent Acquisition (DDA) mode using a HESI II (heated electrospray ionization) ion source. Prior to experiments, lens settings and source parameters were optimized to the signal of PE 34:1 (using protonated/deprotonated molecular ion in positive/negative ion mode, respectively) infused into the column effluent of 80 % mobile phase B with a mixing tee. Ion source parameters for positive polarity were as follows: Source Voltage 4.5 kV; source temperature 375 °C; sheath gas 25 arbitrary units (AU); aux gas 9 AU; sweep gas 0 AU; capillary temperature 300 °C. Ion source parameters for negative ion mode were: Source voltage 3.8 kV; source temperature 325 °C; sheath gas 30 AU; aux gas 10 AU; sweep gas 0 AU; capillary temperature 300 °C. Full scan spectra from m/z 400 to 1,000 for positive ion mode and from m/z 400 to 1,000 in negative ion mode were acquired at a target resolution of 100,000 (FWHM at m/z 400). From each full scan spectrum, ions were selected for sequential fragmentation either in the linear ion trap (collision-induced dissociation (CID) experiments) or in the C-trap (higher-energy collision dissociation (HCD) experiments) and detected in the ion trap or the Orbitrap analyzer, respectively. For CID experiments, the 10 most abundant ions of the full scan spectrum were fragmented using He as collision gas (isolation width 1.5 m/z; activation Q 0.2; activation time 10 ms). Normalized collision energy was 50 in both positive and negative ion mode. For HCD experiments, fragment spectra of the 4 most abundant ions were collected in the Orbitrap mass analyzer at a target resolution of 7,500 (FWHM at m/z 400, isolation width 1.5 m/z; activation time 0.1 ms). Exclusion time (duration after fragmentation for excluding ions with similar m/z) was set to 10 s. Normalized collision energy settings were 25 and 50 for positive and negative ion mode, respectively.
+
+4000 QTRAP:
+The 4000 QTRAP (AB Sciex, Concord, Canada) was controlled by Analyst v. 1.6.1 software and operated in Information Dependent Acquisition (IDA) mode, using an enhanced MS (EMS) scan from m/z 400 to 1,050 and 400 to 1,000 in positive and negative ion mode, respectively, at 1,000 Da/s as a survey scan. Prior to analysis, source parameters were optimized using flow injection analysis into an isocratic flow of 80 % mobile phase B. Analytes were PC 36:1 (m/z 788.6-184) for positive ion mode and PE 36:2 (m/z 742-279) for negative ion mode. The optimized source parameters of the Turbo V ion source for positive ion mode were as follows: Curtain gas 15 AU; collision gas high; ionspray voltage 5,000 V; temperature 450 °C; gas 1 50 AU; gas 2 50 AU; declustering potential 60 V; collision energy spread 0; collision energy 45 V. Source parameters for negative ion mode were: Curtain gas 10 AU; collision gas high; ionspray voltage 4,500 V; temperature 600 °C; gas 1 20 AU; gas 2 50 AU; declustering potential 95 V; collision energy spread 0; collision energy 45 V. From each survey scan, the four most abundant ions exceeding 1,000 counts were chosen for enhanced product ion (EPI) scans at 4,000 Da/s. Previously detected target ions were excluded for 10 s.
+
+Orbitrap Elite:
+MS/MS data was acquired on an Orbitrap Elite mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) in DDA mode. Source parameters for both polarities were as follows: Capillary temperature 380 °C; source heater temperature 380 °C; sheath gas 60 AU; aux gas 20 AU; sweep gas 5 AU. Source voltage was 3.5 kV and 5 kV for positive and negative ion mode, respectively. Full scan spectra in the range of m/z 400 to 1,050 were acquired at a target resolution of 120,000 (FWHM at m/z 400). The four most abundant ions from each spectrum were subjected to fragmentation in the C-trap, and the tandem mass spectra were recorded at a target resolution of 15,000 (FWHM at m/z 400). Isolation width was 1.5 m/z, activation time was 0.1 ms, normalized collision energy was 25 in positive ion mode and 50 in negative ion mode, and the exclusion time was 15 s.
+
+QTRAP 6500:
+The QTRAP 6500 (AB Sciex, Concord, ON, Canada), controlled by Analyst v. 1.6.2 software, operated in IDA mode, using an EMS scan from m/z 400 to 1,000 at 10,000 Da/s as a survey scan. Source parameters were automatically optimized using flow injection analysis into an isocratic flow of 80 % mobile phase B. Analytes were PC 34:1 (m/z 760-184) for positive ion mode and PE 34:1 (m/z 716-281) for negative ion mode. The optimized source parameters of the Turbo V ion source for positive ion mode were as follows: Curtain gas 20 AU; collision gas high; ionspray voltage 5,000 V; temperature 300 °C; gas 1 30 AU; gas 2 30 AU; declustering potential 100; collision energy spread 0; collision energy 45 V. Source parameters for negative ion mode were: curtain gas 20; collision gas high; ionspray voltage 4,500 V; temperature 300 °C; gas 1 30 AU; gas 2 30 AU; declustering potential 150; collision energy spread 0; collision energy 10 V. From each survey scan, the eight most abundant ions exceeding 100,000 counts were chosen for EPI at 10,000 Da/s. Previously detected target ions were excluded for a duration of 6 s.
+
+QTOF G6550A:
+The Agilent G6550A QTOF mass spectrometer was operated in AutoMSMS mode. From the full scan spectra, acquired from m/z 100 to 1,700 at a rate of 4 spectra/s, tandem mass spectra of the 15 most abundant precursor ions were acquired at a scan rate of 20 spectra/s and a collision energy setting of 30. Previously detected target ions were excluded after three spectra for 9 s. Source parameters for positive and negative ion mode were as follows: Gas temperature 200 °C; gas flow 14 AU; nebulizer 35 AU; sheath gas temperature 350 °C; sheath gas flow 11 AU; capillary voltage 3,500 V; nozzle voltage 1,000 V; fragmentor 175; skimmer 65; octopole RF peak 750.
+
+Q Exactive:
+The Q Exactive mass spectrometer (Thermo Fisher Scientific Inc., Waltham, MA, USA) was operated in DDA mode. Ion source parameters for positive polarity were as follows: Spray voltage 4.5 kV; aux gas heater temperature 375 °C; sheath gas 35 AU; aux gas 10 AU; sweep gas 0 AU; capillary temperature 320 °C. Ion source parameters for negative ion mode were: Spray voltage 3.8 kV; aux gas heater temperature 325 °C; sheath gas 40 AU; aux gas 20 AU; sweep gas 0 AU; capillary temperature 300 °C. For both positive and negative ion mode, full scan spectra from m/z 400 to 1,050 were acquired at a target resolution of 140,000 (FWHM at m/z 200) from which ions were selected for fragmentation. Automatic gain control (AGC) target was set to 1e6 ions and the maximum injection time to 500 ms. For the DDA MS/MS scan for both positive and negative ion mode, target resolution was set to 17,500 (FWHM at m/z 200), AGC target to 5e4 ions, maximum injection time to 50 ms and isolation window to 1.5 m/z. The 10 most abundant ions from the full scan spectra were selected for the MS/MS scan. Normalized collision energy was 25 for positive ion mode and 30 for negative ion mode."	"Data was transformed by msconvert to mzXML, and by LDA in chrom format."	"MS1 peaks were identified as described in Hartler, J. et al. (Bioinformatics. 27, 572-577, 2011), and MS/MS spectra were interpreted by decision rule sets as described in the referenced paper of this study.
+
+For the metabolites assignment, a pipe "|" was used to discriminate between the individual MS runs, while comma "," was used to account for several identifications (e.g. several retention times) and ambiguous identifications (e.g. DG 20:0/18:0/-,20:0/-/18:0 corresponds to a diacylglyceride where 20:0 is identified to be on the sn-1 position, while 18:0 might be at sn-2 or sn-3)."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Hartler"	"Köfeler"	"Thallinger"
+Study Person First Name	"Jürgen"	"Harald"	"Gerhard"
+Study Person Mid Initials	""	"C"	"G"
+Study Person Email	"juergen.hartler@tugraz.at"	"harald.koefeler@klinikum-graz.at"	"gerhard.thallinger@tugraz.at"
+Study Person Phone	"+43-316-873-5322"	"+43-316-385-73005"	"+43-316-873-5343"
+Study Person Fax	"+43-316-873-105322"	"+43-316-385-73009"	"+43-316-873-105343"
+Study Person Address	"Petersgasse 14/V
+8010 Graz, Austria"	"Stiftingtalstrasse 24
+8010 Graz, Austria"	"Petersgasse 14/V
+8010 Graz, Austria"
+Study Person Affiliation	"Institute of Molecular Biotechnology, Graz University of Technology"	"Center for Medical Research, Medical University of Graz"	"Institute of Molecular Biotechnology, Graz University of Technology"
+Study Person Roles	"author"	"author"	"author"
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

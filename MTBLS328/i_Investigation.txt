@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"MS"	"NCIT"	"OBI"	"BTO"	
-Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/BTO"	
-Term Source Version	"6"	"18"	"146"	"129"	"44"	"22"	"29"	
-Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Mass Spectrometry Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"BRENDA Tissue and Enzyme Source Ontology"	
+Term Source Name	"OBI"	"CHMO"	"NCIT"	"NCBITAXON"	"MS"	"EFO"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"22"	"18"	"44"	"6"	"129"	"146"	"29"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Chemical Methods Ontology"	"National Cancer Institute Thesaurus"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
 INVESTIGATION
 Investigation Identifier	"MTBLS328"
 Investigation Title	"Investigation"
@@ -36,28 +36,27 @@ Study Identifier	"MTBLS328"
 Study Title	"A microfluidics-based in vitro model of the gastrointestinal human-microbe interface"
 Study Description	"Changes in the human gastrointestinal microbiome are associated with several diseases. To infer causality, experiments in representative models are essential, but widely used animal models exhibit limitations. Here we present a modular, microfluidics-based model (HuMiX, human–microbial crosstalk), which allows co-culture of human and microbial cells under conditions representative of the gastrointestinal human–microbe interface. We demonstrate the ability of HuMiX to recapitulate in vivo transcriptional, metabolic and immunological responses in human intestinal epithelial cells following their co-culture with the commensal Lactobacillus rhamnosus GG (LGG) grown under anaerobic conditions. In addition, we show that the co-culture of human epithelial cells with the obligate anaerobe Bacteroides caccae and LGG results in a transcriptional response, which is distinct from that of a co-culture solely comprising LGG. HuMiX facilitates investigations of host–microbe molecular interactions and provides insights into a range of fundamental research questions linking the gastrointestinal microbiome to human health and disease."
 Study Submission Date	"2016-03-21"
-Study Public Release Date	"2016-03-19"
+Study Public Release Date	"2017-08-04"
 Study File Name	"s_HuMiX.txt"
 Comment[Study Grant Number]	""
 Comment[Study Funding Agency]	""
 STUDY DESIGN DESCRIPTORS
-Study Design Type	"global metabolite profiling"	"Co-Culture"	"gas chromatography-mass spectrometry"	"untargeted metabolites"
-Study Design Type Term Accession Number	""	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93168"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
-Study Design Type Term Source REF	""	"NCIT"	"CHMO"	""
+Study Design Type	"metabolomic profiling"	"Co-Culture"	"gas chromatography-mass spectrometry"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93168"	"http://purl.obolibrary.org/obo/CHMO_0000497"	""
+Study Design Type Term Source REF	"EFO"	"NCIT"	"CHMO"	""
 STUDY PUBLICATIONS
 Study PubMed ID	"27168102"
-Study Publication DOI	"http://dx.doi.org/10.1038/ncomms11535"
-Study Publication Author List	"Pranjul Shah, et al."
-Study Publication Title	"A microfluidics-based in vitro model of the gastrointestinal
-human-microbe interface"
-Study Publication Status	"published"
+Study Publication DOI	"10.1038/ncomms11535"
+Study Publication Author List	"Shah P, Fritz JV, Glaab E, Desai MS, Greenhalgh K, Frachet A, Niegowska M, Estes M, Jäger C, Seguin-Devaux C, Zenhausern F, Wilmes P."
+Study Publication Title	"A microfluidics-based in vitro model of the gastrointestinal human-microbe interface."
+Study Publication Status	"Published"
 Study Publication Status Term Accession Number	""
 Study Publication Status Term Source REF	""
 STUDY FACTORS
-Study Factor Name	"coculture"	"anaerobic"
-Study Factor Type	"coculture"	"Anaerobic"
-Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/BTO_0003143"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103137"
-Study Factor Type Term Source REF	"BTO"	"NCIT"
+Study Factor Name	"coculture"	"anaerobic"	"control"	"Caco2"	"Lactobacillus rhamnosus LGG"	"Bacteroides caccae"
+Study Factor Type	"Boolean"	"Boolean"	"Boolean"	"Boolean"	"Boolean"	"Boolean"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254"
+Study Factor Type Term Source REF	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"	"NCIT"
 STUDY ASSAYS
 Study Assay File Name	"a_humix_metabolite_profiling_mass_spectrometry.txt"
 Study Assay Measurement Type	"metabolite profiling"
@@ -72,11 +71,12 @@ Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spec
 Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
 Study Protocol Type Term Accession Number	""	""	""	""	""	""
 Study Protocol Type Term Source REF	""	""	""	""	""	""
-Study Protocol Description	"For biomolecular extractions on the adherent Caco-2 cells, the gasket–membrane assemblies were first washed in a 0.9% (w/v) NaCl solution. The cells were then immediately treated with 800 μl of an ice-cold 1:1 methanol:water (v/v) solution. Subsequently, the cells were disrupted and detached from the membranes using a plastic scrapper (VWR). The methanol:water suspension containing cells was then placed into a 2 ml sample tube and 400 μl of ice-cold chloroform was added. The sample mixtures were briefly vortexed and centrifuged at 14,000 rpm for 5 min at 4 °C to separate the polar and non-polar metabolite phases and to concentrate the interphase pellets which were subsequently used for the extraction of biomacromolecules (RNA, DNA and proteins). The Caco-2 interphase pellets were then processed using the Qiagen AllPrep DNA/RNA/Protein Mini Kit [1]. The fractions of DNA, RNA and proteins fractions were sequentially isolated and snap frozen. All extracts (except DNA fractions) were preserved at -80°C until further analysis.</br>
+Study Protocol Description	"For biomolecular extractions on the adherent Caco-2 cells, the gasket–membrane assemblies were first washed in a 0.9% (w/v) NaCl solution. The cells were then immediately treated with 800 μl of an ice-cold 1:1 methanol:water (v/v) solution. Subsequently, the cells were disrupted and detached from the membranes using a plastic scrapper (VWR). The methanol:water suspension containing cells was then placed into a 2 ml sample tube and 400 μl of ice-cold chloroform was added. The sample mixtures were briefly vortexed and centrifuged at 14,000 rpm for 5 min at 4 °C to separate the polar and non-polar metabolite phases and to concentrate the interphase pellets which were subsequently used for the extraction of biomacromolecules (RNA, DNA and proteins). The Caco-2 interphase pellets were then processed using the Qiagen AllPrep DNA/RNA/Protein Mini Kit [1]. The fractions of DNA, RNA and proteins fractions were sequentially isolated and snap frozen. All extracts (except DNA fractions) were preserved at -80°C until further analysis.
+</p>
 For the biomolecular extractions on the microbial cell contingents, the microbial cells were immediately disrupted and detached from the semi-permeable membranes using a plastic scrapper (VWR) and placed in a 0.9% (w/v) NaCl solution. This solution was then placed in a 2 ml sample tube and centrifuged at 4,000 rpm for 10 min at 4 °C to pellet the bacteria. The supernatant was discarded and the bacterial pellet was snap-frozen. The bacterial pellet was then lysed using a Precellys lysis kit and polar and non-polar metabolites fractions were obtained. The interphase pellet was subsequently used for the extraction of biomolecules (RNA, DNA and proteins) [1].</br>
 </p>
 Ref:</br>
-[1] Roume H, Muller EE, Cordes T, Renaut J, Hiller K, Wilmes P. A biomolecular isolation framework for eco-systems biology. ISME J. 2013 Jan;7(1):110-21. doi: 10.1038/ismej.2012.72."	"The intracellular (Caco-2 and bacteria) polar metabolite fractions were prepared for gas chromatography–mass spectrometry (GC–MS) analyses by pipetting 2 × 300 μl of polar fractions into 0.5 ml glass vials (Chromatographie Zubehör Trott) and dried using a speedvac. All vials were capped and stored at −80 °C until GC–MS analyses.</br>
+[1] Roume H, Muller EE, Cordes T, Renaut J, Hiller K, Wilmes P. A biomolecular isolation framework for eco-systems biology. ISME J. 2013 Jan;7(1):110-21. doi: 10.1038/ismej.2012.72."	"The intracellular (Caco-2 and bacteria) polar metabolite fractions were prepared for gas chromatography–mass spectrometry (GC–MS) analyses by pipetting 2 x 300 μl of polar fractions into 0.5 ml glass vials (Chromatographie Zubehör Trott) and dried using a speedvac. All vials were capped and stored at −80 °C until GC–MS analyses.
 </p>
 Metabolites derivatisation was performed using a multipurpose sampler (Gerstel). Dried polar metabolite extracts from the Caco-2 cells, LGG or LGG and B. caccae were dissolved in 15 µl pyridine, containing 20 mg/ml methoxyamine hydrochloride, at 40 °C for 60 min while shaking. Following the addition of 15 µl N-methyl-N-trimethylsilyl-triflouroacetamide, the samples were incubated at 40 °C for 30 min under continuous shaking."	"GC–MS analyses were performed using an Agilent 7890 A GC coupled to an Agilent 5975C mass selective detector. A sample volume of 1 μl was injected into a split/splitless inlet operating in split (3:1) or splitless mode at 270 °C. The gas chromatograph was equipped with a 30 m DB-35MS capillary column and a 5 m DuraGuard capillary in front of the analytical column. Helium was used as the carrier gas with a constant flow rate of 1.0 ml/min. The GC oven temperature was  kept constant at 80 °C for 6 min and then increased to 300 °C at 6 °C/min. After 10 min, the temperature was increased at a rate of 10 °C/min followed by a constant temperature period at 325 °C for 4 min. The total run time was 60 min."	"The transfer line temperature was set to constant 280 °C. The mass selective detector was operating under electron ionisation at 70 eV. The MS source was held at 230 °C and the quadrupole at 150 °C. Full-scan mass spectra were acquired from m/z 70 to m/z 800."	"Data acquisition: Agilent MSD ChemStation</br>
 GC-MS chromatograms (raw data) were converted into  Common Data Format (CDF). Then, CDF-files were converted into MetaboliteDetector file format (.bin/.idx).
@@ -92,9 +92,9 @@ Ref:</br>
 "	"The obtained mass spectra were matched against an in-house mass spectral library. Compounds were annotated by retention index and mass spectrum. An alkane mix was run with every experimental sequence to provide retention index calibration for the experimental samples. Selected fragment ions unique for each individual metabolite were used for quantification."
 Study Protocol URI	""	""	""	""	""	""
 Study Protocol Version	""	""	""	""	""	""
-Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
-Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
-Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model;Guard column"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;;"	";;;;"	""	""
 Study Protocol Components Name	""	""	""	""	""	""
 Study Protocol Components Type	""	""	""	""	""	""
 Study Protocol Components Type Term Accession Number	""	""	""	""	""	""

@@ -1,0 +1,2 @@
+"Source Name"	"Characteristics[Organism]"	"Term Source REF"	"Term Accession Number"	"Characteristics[Organism part]"	"Term Source REF"	"Term Accession Number"	"Protocol REF"	"Sample Name"
+"Standard mix2"	"reference compound"	"BAO"	"http://www.bioassayontology.org/bao#BAO_0002092"	"mixture"	"CHEBI"	"http://purl.obolibrary.org/obo/CHEBI_60004"	"Sample collection"	"Standard mix2"

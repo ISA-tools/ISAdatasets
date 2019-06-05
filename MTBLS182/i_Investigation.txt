@@ -1,0 +1,131 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"NCBITAXON"	"MS"	"CHMO"	"BTO"	"BAO"	"DOID"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/DOID"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"23"	"4"	"86"	"16"	"26"	"25"	"399"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"BioAssay Ontology"	"Human Disease Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS182"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	""
+Comment[Last Opened With Configuration]	""
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS182"
+Study Title	"Isotopomer analysis of MCF-7 breast cancer cell line incubated with 13C labelled glucose (GC-MS assay)"
+Study Description	"MS and NMR are two of the most powerful spectroscopic techniques used in the field of fluxomics, to analyze the flux distributions in cellular metabolomic pathways. Both of them possess pros and cons, such as, MS being the most sensitive and low-cost technique, while needs extensive sample processing and providing incomplete labeling data, whereas NMR needs lesser sample preparation and provides more detailed labeling data, while being less sensitive and expensive. Since both techniques could be viewed as complementary to each other, combining their data could yield a detailed and complete information about a system under study. In this case, samples were generated from a single experiment and the same set of samples was used both in MS and 1D NMR to analyze the 13C label distributions in TCA cycle intermediates. The data generated from both methods were used with a simulation script that was developed to integrate the MS and NMR data. MCF-7 breast cancer cell line was used as an experimental model and it was incubated with 100% [1,2-13C]-glucose and 100% [U-13C]-glucose for 8 hours. The cells, before and after incubation with tracers, were frozen in liquid nitrogen and then later processed for extracting the TCA cycle intermediates. Same set of samples were separated for GC-MS and NMR based analysis and processed for the respective techniques. The isotopologue analysis was performed by GC-MS and the isotopomer analysis was performed by NMR and both sets of data were integrated with the simulation software. This study contains the data for GC-MS analysis.
+</br></br>
+The NMR assay for this study can be found in the MetaboLights study MTBLS241.</br> <br/>Linked Studies: <a href='https://www.ebi.ac.uk/metabolights/MTBLS241' target='_blank'><span class='label label-success'>MTBLS241</span></a>"
+Study Submission Date	"2015-03-11"
+Study Public Release Date	"2018-05-02"
+Study File Name	"s_mtbls182.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"tracer-based metabolomics"	"breast cancer"	"isotopologue"	"gas chromatography-mass spectrometry"
+Study Design Type Term Accession Number	""	"http://purl.obolibrary.org/obo/DOID_1612"	""	"http://purl.obolibrary.org/obo/CHMO_0000497"
+Study Design Type Term Source REF	""	"DOID"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	"28272839"
+Study Publication DOI	"10.1002/anie.201611634"
+Study Publication Author List	"Mei Chong, Anusha Jayaraman, Silvia Marin, Vitaly Selivanov, Pedro R. de Atauri Carulla, Daniel A. Tennant, Marta Cascante, Ulrich L. Günther and Christian Ludwig."
+Study Publication Title	"Combined NMR and MS analysis for tracer based metabolic flux experiments. Angewandte Chemie, 2017."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Tracer"
+Study Factor Type	"tracer"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/CHEBI_35204"
+Study Factor Type Term Source REF	"CHEBI"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls182_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"5975C Series GC/MSD (Agilent)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Isotopologue distribution calculation"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"	"Isotopologue distribution calculation"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"MCF-7 cells were seeded (1,000,000 per p100 plate) and 6 ml of medium was used in each of them. In total 48 plates were seeded - 6 plates combined together for each replicate (as 1:5 ratio for GCMS:NMR). The medium used was basal medium DMEM (A14430, Invitrogen) with 10% dialyzed FBS (F0392, Sigma), 0.01 mg/ml Insulin (19278, Sigma), 1% Non-Essential Amino acids (01-340-1B, Biological Industries), 10 mM glucose (G8769, Sigma) and 4 mM Glutamine (25030-81, Life Technologies).
+</p>
+After 48 h of cell seeding, media was removed and plates were washed twice with PBS. 6 ml of fresh media containing tracers were added to each plate. The conditions used in this experiment were cold natural samples with [U-12C]-glucose (unlabeled glucose) (A), samples with tracer [U-13C6]-glucose (B) and samples with tracer [1,2-13C2]-glucose (C), amounting to 10 mM of glucose in each case. Time points of 0 h (before adding tracer) and 8 h (after tracers incubation) were maintained. 3 replicates for each condition at 8 h of tracers incubation (B and C) and 1 replicate for cold natural (A) at 8 h were obtained. In addition 3 plates were used for 0 h cell counting and another 3 for 8 h cell counting. 
+</p>
+After 8 h incubation, medium was removed and kept for biochemical concentration analysis. Plates were washed twice with cold PBS followed by snap-freezing using liquid nitrogen. Plates were kept under -80 ºC until their analysis.
+</p>
+The commercial glucose standard mixture used for validation consisted of 10 mM with the composition of [U-12C]-D-glucose (82%) + [1,2-13C]-D-glucose (10%) + [1-13C]-D-glucose (3%) + [1,6-13C]-D-glucose (5%)."	"6 plates of a same condition were combined together for each replicate. Plates were processed in the following way. 1 ml of cold methanol (100% v/v) was added to one plate. 1 min later 1 ml of cold water was added to the same plate. The content of the plate was scraped and all the content was transferred to a second plate. The content of this plate was scraped and was transferred to a third plate. This process was followed with the 6 plates of the same replicate. After scraping the 6th plate, all the content was transferred to a glass tube, where 2 ml of cold chloroform was added. Tubes were vigorously agitated for 30 min at 4 ºC. After agitation, 1/6 part of the content of the tube was transferred to a separate tube. The tube containing the 1/6 part was used for GC/MS analysis and the tube containing the 5/6 part was used for NMR analysis.
+</p>
+Next, tubes were centrifuged and the upper phase containing the polar metabolites was transferred to a separate glass tube. The tubes containing the polar phase for GCMS analysis were immediately evaporated to dryness under airflow at room temperature.
+</p>
+The intracellular polar metabolites were derivatized by adding 50 µl 2% (v/v) methoxamine hydrochloride in pyridine and shaken vigorously at 37 °C for 90 min. Next, N-methyl-N-(tert-butyldimethylsilyl)trifluoroacetamide (MBTSTFA) + 1% tert-butyldimetheylchlorosilane (TBDMCS) were added and samples were incubated for 1 hr at 55 °C. Content of tubes was transferred to ALS vials for GC/MS analysis.
+</p>
+Cold glucose and glucose from the 13C artificial glucose mixture were converted to its glucose aldonitrile pentaacetate derivative after treatment for 30 min at 100 ºC with hydroxylamine hydrochloride in pyridine (2% v/v) and then acetic anhydride for 1 hr more. Excess reagent and solvent were removed by evaporation with N2, and the derivatized glucose was redissolved in ethyl acetate just before GC/MS analysis."	"Gas chromatography (GC) conditions were different depending on the analyzed sample. For all samples/methods a constant He flow of 1 ml/min was applied. Inlet temperature and oven temperature ramps were different depending on the analyzed metabolite:
+</p>
+- Polar intracellular metabolites: inlet temp. 270 ºC; oven temperature programmed as follows: 100 ºC for 3 min, then a 10 ºC/min ramp to 165 ºC, followed by a 2.5 ºC/min ramp to 225 ºC, next a 25 ºC/min ramp to 265 ºC, and a final 7.5 ºC/min ramp to 300 ºC. Retention times of the different determined metabolites were: pyruvate, 7.8 min; lactate, 10 min; alanine, 12.3 min; fumarate, 17.0 min; malate, 26.0 min; aspartate, 28.0 min; glutamate, 30.0 min; citrate, 35.0 min.
+</p>
+- Glucose: inlet temp. 250 ºC; oven temperature programmed as follows: 230 ºC for 2 min, then a 10 ºC/min ramp to 260 ºC, followed by a 25 ºC/min ramp to 270 ºC and hold for 2 min. Retention time of glucose was 3.6 min."	"Mass spectrometer (MS) source temperature was 230 ºC for polar intracellular metabolites and 300 ºC for glucose. MS quadrupole temperature was 150 ºC for all the methods. Ion source was Electron Impact Ionization (EI) for polar intracellular metabolites and fragments C1C4 and C3C6 of glucose, and Chemical Ionization (CI) for glucose-C1C6. Selected Ion Monitoring (SIM) was used in all the assays. Monitored m/z values were:
+</p>
+-Polar intracellular metabolites:</br>
+--- from RT 6.0 to 8.1 min, m/z values: 173, 174, 175, 176, 177 (pyruvate C1C3);</br>
+--- from RT 8.1 to 11.6 min, m/z values: 232, 233, 234, 235, 236 (lactate C2C3), and 260, 261, 262, 263, 264, 265 (lactate C1C3);</br>
+--- from RT 11.6 to 12.4min, m/z values: 231, 232, 233, 234, 235 (alanine C2C3), and 259, 260, 261, 262, 263, 264 (alanine C1C3);</br>
+--- from RT 12.4 to 17.9 min, m/z values: 286, 287, 288, 289, 290, 291, 292 (fumarate C1C4);</br>
+--- from RT 17.9 to 27.2 min, m/z values: 418, 419, 420, 421, 422, 423, 424 (malate C1C4);</br>
+--- from RT 27.2 to 28.5 min, m/z values: 417, 418, 419, 420, 421, 422, 423 (aspartate C1C4);</br>
+--- from RT 28.5 to 32.1 min, m/z values: 329, 330, 331, 332, 333, 334 (glutamate C2C5), and 431, 432, 433, 434, 435, 436, 437, 438 (glutamate C1C5);</br>
+--- from RT 32.1 to 37.5 min, m/z values: 458, 459, 460, 461, 462, 463, 464, 465, 466 (citrate C1C6).
+</p>
+- Glucose_CI (C1C6): m/z 327, 328, 329, 330, 331, 332, 333, 334, 335, 336
+</p>
+- Glucose_EI: m/z 186, 187, 188, 189, 190, 191, 192, 193, 194 (glucose C3C6); 241, 242, 243, 244, 245, 246, 247, 248, 249 (glucose C1C4).
+</p>
+Acceptance criteria: Only peaks with intensity of the Total Ion Chromatogram (TIC) lower than 8 million ions were accepted. Whether possible, only peaks with intensity of the Total Ion Chromatogram (TIC) higher than 1 million ions were used."	"The ion clusters around the specific m/z were monitored for each analyzed metabolite to determine the fractional distribution of 13C. In brief, the areas of peaks for all ions in the cluster were extracted from raw data using equipment software. A value of each peak area is proportional to the fraction of ions with the same molecular weight. These data obtained represents the distribution of ions of various molecular weights that belong to the same compound or its fragment. Ions of various molecular weights are produced as a result of experimental isotope incorporation, the presence of isotopes in heteroatoms and the presence of natural abundance of 13C in the background. Also, derivatizing reagents often contain isotopes which contribute to the isotopologue distribution of the derivatized compound as well. Correction for all such contributions is necessary before one can determine the amount of isotope incorporation from artificially 13C labeled substrates and the distribution of isotopologues in the compound of interest. This correction was performed by using regression analysis using an in-house developed algorithm (R-mass)."	"Metabolites are not identified, just isotopologue distributions as consequence of incubation in the presence of the tracer are determined."	"The ion clusters around the specific m/z were monitored for each analyzed metabolite to determine the fractional distribution of 13C. In brief, the areas of peaks for all ions in the cluster were extracted from raw data using equipment software. A value of each peak area is proportional to the fraction of ions with the same molecular weight. These data obtained represents the distribution of ions of various molecular weights that belong to the same compound or its fragment. Ions of various molecular weights are produced as a result of experimental isotope incorporation, the presence of isotopes in heteroatoms and the presence of natural abundance of 13C in the background. Also, derivatizing reagents often contain isotopes which contribute to the isotopologue distribution of the derivatized compound as well. Correction for all such contributions is necessary before one can determine the amount of isotope incorporation from artificially 13C labeled substrates and the distribution of isotopologues in the compound of interest. This correction was performed by using regression analysis using an in-house developed algorithm (R-mass)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction; Derivatization"	"Chromatography Instrument;Autosampler model;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Jayaraman"	"Atauri"	"Marin"	"Cascante"
+Study Person First Name	"Anusha"	"Pedro"	"Silvia"	"Marta"
+Study Person Mid Initials	""	""	""	""
+Study Person Email	"anusha.jayaraman@ub.edu"	"pde_atauri@ub.edu"	"silviamarin@ub.edu"	"martacascante@ub.edu"
+Study Person Phone	"+34-934 021 217"	"+34-934 039281"	"+34-934 021 217"	"+34-934 021 593"
+Study Person Fax	"+34-934 021 559"	"+34-934 021 559"	"+34-934 021 559"	"+34-934 021 559"
+Study Person Address	"Av. Diagonal 643 Edifici Prevosti floor -2
+Barcelona 08028 (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2
+Barcelona 08028 (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2
+Barcelona 08028 (Spain)"	"Av. Diagonal 643 Edifici Prevosti floor -2
+Barcelona 08028 (Spain)"
+Study Person Affiliation	"Universitat de Barcelona"	"Universitat de Barcelona"	"Universitat de Barcelona"	"Universitat de Barcelona"
+Study Person Roles	"Main investigator of the project"	"technical advisor"	"technical advisor"	"principal investigator of the project"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

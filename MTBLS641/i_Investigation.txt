@@ -1,0 +1,119 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"OBI"	"CSEO"	"MS"	"CHMO"	"EFO"	"BAO"	"UO"	"CHEBI"	
+Term Source File	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BAO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/CHEBI"	
+Term Source Version	"22"	"2"	"86"	"5"	"146"	"26"	"43"	"99"	
+Term Source Description	"Ontology for Biomedical Investigations"	"Cigarette Smoke Exposure Ontology"	"Mass Spectrometry Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"BioAssay Ontology"	"Units of Measurement Ontology"	"Chemical Entities of Biological Interest Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS641"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\Lipidomics\Downloads\ISAcreatorMetaboLights\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS641"
+Study Title	"Comprehensive High-Resolution Multiple-Reaction Monitoring Mass Spectrometry for Targeted Eicosanoid Assays"
+Study Description	"Eicosanoids comprise a class of bioactive lipids derived from a unique group of essential fatty acids that mediate a variety of important physiological functions. Owing to the structural diversity of these lipids, their analysis in biological samples is often a major challenge. Advancements in mass spectrometry have been helpful for the characterization and quantification of these molecular lipid species in complex matrices. However, there are technical limitations to this approach, including low-abundant and/or poorly ionizable lipids. Using high-resolution multiple-reaction monitoring (MRM-HR), we were able to develop a targeted bioanalytical method for eicosanoid quantification. For this, we optimized the LC-MS/MS conditions and evaluated several parameters, including linearity, limits of quantification, matrix effects and recovery yields. For validation purposes, we looked at the method’s precision and accuracy. A library of high-resolution fragmentation spectra for eicosanoids was developed. Our comprehensive dataset meets benchmark standards for targeted analysis, having been derived using best-practice workflows and rigorous quality assessments. As such, our method has applications for determining complex eicosanoid profiles in the biomedical field."
+Study Submission Date	"2018-03-12"
+Study Public Release Date	"2018-03-20"
+Study File Name	"s_mtbls641.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"ultra-performance liquid chromatography-mass spectrometry"	"icosanoid"	"High-Resolution Multiple-Reaction Monitoring Mass Spectrometry"	"Lipidomics"	"targeted metabolites"	"tandem mass spectrometry"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/CHEBI_23899"	""	"http://scai.fraunhofer.de/CSEO#lipidomics"	""	"http://purl.obolibrary.org/obo/CHMO_0000575"
+Study Design Type Term Source REF	"CHMO"	"CHEBI"	""	"CSEO"	""	"CHMO"
+STUDY PUBLICATIONS
+Study PubMed ID	""
+Study Publication DOI	""
+Study Publication Author List	"Carlos Artério Sorgi, Ana Paula Ferranti Peti, Tania Petta, Alyne Fávero Galvão Meirelles, Caroline Fontanari, Luiz Alberto Beraldo de Moraes, Lúcia Helena Faccioli"
+Study Publication Title	"Comprehensive High-Resolution Multiple-Reaction Monitoring Mass Spectrometry for Targeted Eicosanoid Assays"
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Total mass injected"
+Study Factor Type	"mass"
+Study Factor Type Term Accession Number	"http://purl.obolibrary.org/obo/PATO_0000125"
+Study Factor Type Term Source REF	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls641_StdMix_mass_spectrometry.txt"	"a_mtbls641_QC_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Type	"mass spectrometry"	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"	"OBI"
+Study Assay Technology Platform	"Liquid Chromatography Tandem MS (LC-MS/MS)"	"Liquid Chromatography Tandem MS (LC-MS/MS)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Standard Solutions and Calibration Curve:</br>
+Individual stock solutions of lipid mediators (molecular weight standards, MWS) and deuterated internal standards (IS) were prepared at 10 µg/ml in MeOH. A standard working solution (WS) composed of a mixture of all the lipids (MWS and IS) was prepared via direct infusion of 100 ng/ml in MeOH/H2O (7:3, v/v) containing 0.1% NH4OH by volume; this was to establish the high-resolution multiple reaction monitoring (MRMHR) parameters, such as the declustering potential (DP) and the collision energy (CE). The WS was prepared without adding any isomer compounds to the same solution. For LC parameter studies, the WS was prepared as described with no addition of NH4OH. In another set of experiments, the calibration curves for the validation assay were obtained by diluting the relevant lipids in MeOH/H2O (7:3, v/v) to the following final concentrations: 2.3, 4.6, 9.2, 18.5, 37.0, 74.0, 148.1, 222.2, 333.3, and 500 ng/ml. To determine matrix effect and recovery yields, IS solutions were prepared in MeOH at 3 concentrations 18.5, 148.1, and 500 ng/ml. All solutions were stored in amber glass vials at -80 °C and under argonium atmosphere until needed.
+</p>
+Solid Phase Extraction (SPE):</br>
+Pooled plasma and lung tissue samples were obtained from 6-week-old male C57BL/6 mice, obtained from Faculdade de Ciências Farmacêuticas de Ribeirão Preto, FCFRP/USP. Dulbecco’s Modified Eagle Medium (DMEM, Gibco, Grand Island, NY, USA) was used as the culture medium for the validation assay."	"Solid Phase Extraction (SPE):</br>
+Lipid extraction was carried out according to a previously described protocol[1][2], but with slight modifications. In brief, each sample was spiked with 10 µl of the IS solution before being extracted for use either in the recovery assay or the matrix effect assay. Lung samples were prepared via homogenization (Mixer Homogenizer, Labortechnik, Staufen, Germany) of 50 mg of tissue/ml of MeOH/H2O (1:1, v/v) solution. Plasma samples were made via protein precipitation of 150 µl of the sample in 1.5 ml of MeOH/ACN (1:1, v/v) at 4 °C, which was left to denature overnight. Afterwards, both plasma and lung samples were centrifuged for 10 min at 4 ºC and 800 x g. For culture medium extraction a solution in MeOH was prepared (1:1, v/v). Subsequently, the supernatant samples, from lungs, plasma or culture medium were diluted with water to a maximum solvent concentration of 15%.
+</p>
+For the first step in the SPE extraction protocol, the cartridge (Hypersep C18-500 mg, 3 ml, Thermo Scientific, Bellefonte, PA, USA) was washed with 4 ml of MeOH and equilibrated with 4 ml of H2O that had been generated using an extraction manifold (Waters, Milford, MA, USA). After loading the diluted samples, the cartridges were again flushed with 4 ml of H2O to remove hydrophilic impurities. The analytes which had been adsorbed on the SPE sorbent were eluted with 1 ml of MeOH and stored at -80 °C to prevent metabolite degradation. The solvent was removed in vacuo (Concentrator Plus, Eppendorf, Germany) at room temperature and re-dissolved in 50 µl of MeOH/H2O (7:3, v/v) for LC-MS/MS analysis.
+</p>
+Ref:</br>
+[1] Gijón, M. A., Zarini, S. & Murphy, R. C. Biosynthesis of eicosanoids and transcellular metabolism of leukotrienes in murine bone marrow cells. J. Lipid Res. 48, 716–725 (2007). doi:10.1194/jlr.M600508-JLR200. PMID:17179116</br>
+[2] Galvão, A. F. et al. Plasma eicosanoid profiles determined by high-performance liquid chromatography coupled with tandem mass spectrometry in stimulated peripheral blood from healthy individuals and sickle cell anemia patients in treatment. Anal. Bioanal. Chem. 408, 3613–3623 (2016). doi:10.1007/s00216-016-9445-8. PMID:26968567</br>"	"The Ultra-High-Performance Liquid Chromatography (UHPLC) system (Nexera X2, Shimadzu, Kyoto, HO, Japan) was equipped with a binary pump system, an SIL-30AC autosampler, a DGU-20A degasser and a CBM-20A controller. The conditions used for chromatography are outlined in a previously published work[1][2][3]. However, some modifications have been implemented to improve the eicosanoids quantifications. The method was optimized using an Ascentis Express C18 column (Supelco, St. Louis, MO, USA) with an i.d. of 100 x 4.6 mm and a particle size of 2.7 µm. Elution was conducted under a binary gradient system which consisted of Phase A, H2O/ACN/acetic acid (69.98:30:0.02, v/v/v) at pH 5.8 (adjusted with NH4OH), and Phase B, an ACN/isopropanol (70:30, v/v). Gradient elution was carried out for 25 min at a flow rate of 0.6 ml/min. Gradient conditions were as follows: 0 to 2.00 min, 0% B; 2.10 to 5.00 min, 15% B; 5.10 to 8.00 min, 20% B; 8.10 to 11.00 min, 35% B; 11.10 to 15 min, 70% B; and 15.10 to 19 min, 100% B. At 19.10 min, the gradient returned to the initial condition of 0% B, and the column was re-equilibrated until 25.0 min. Over the course of the analyses, the column was kept at 25 °C, and the samples were maintained at 4 °C in the autosampler. A 10 µl aliquot of each sample was injected onto the column. The pH of the mobile phase A was optimized to achieve the best sensitivity and chromatographic separation of lipid metabolites. As such, the pH values of phase A throughout the experiment were 3.8, 5.8, and 6.4 respectively.
+</p>
+Ref:</br>
+[1] Gijón, M. A., Zarini, S. & Murphy, R. C. Biosynthesis of eicosanoids and transcellular metabolism of leukotrienes in murine bone marrow cells. J. Lipid Res. 48, 716–725 (2007). doi:10.1194/jlr.M600508-JLR200. PMID:17179116</br>
+[2] Galvão, A. F. et al. Plasma eicosanoid profiles determined by high-performance liquid chromatography coupled with tandem mass spectrometry in stimulated peripheral blood from healthy individuals and sickle cell anemia patients in treatment. Anal. Bioanal. Chem. 408, 3613–3623 (2016). doi:10.1007/s00216-016-9445-8. PMID:26968567</br>
+[3] Adamek, A. et al. Role of 5-lipoxygenase in myocardial ischemia-reperfusion injury in mice. Eur. J. Pharmacol. 571, 51–54 (2007). doi:10.1016/j.ejphar.2007.05.040. PMID:17586489</br>"	"The UHPLC system was interfaced with a TripleTOF®5600+ Mass Spectrometer (Sciex, Foster, CA, USA) equipped with a Turbo-V IonSpray. An Atmospheric-Pressure Chemical Ionization probe (APCI) was used for external calibrations of the Calibrant Delivery System (CDS). Automatic mass calibration (<2 ppm) was performed using APCI Negative Calibration Solution (Sciex-Foster, CA, USA) injected via direct infusion at 300 µl/min flow rate; this was done periodically after each of the five sample injections. An Electrospray Ionization (ESI) source in the negative ion mode was utilized for MRMHR scanning. For optimization of MRMHR channel settings, CE and DP values were determined for each analyte via direct infusion of MWS and IS solutions at a flow rate of 10 µl/min. Compounds were fragmented via CAD using nitrogen as the collision gas. Additional instrumental parameters were as follows: nebulizer gas (GS1), 50 psi; turbo-gas (GS2), 50 psi; curtain gas (CUR), 25 psi; electrospray voltage (ISVF), -4.0 kV; and turbo ion spray source temperature, 550 °C. The mass range of the product ion experiments was from 50 to 700 m/z, the dwell time was 10 ms, and a mass resolution of 35.000 was achieved at 400 m/z. Data acquisitions were performed using Analyst® Software (Sciex, Foster, CA, USA)."	"Linearity and LLOQ:</br>
+These were assessed by means of 10-point standard curves prepared for 5 replicate samples within a linear range. Standard curves (linear regression, 1/x weighted) were constructed by plotting the standard area against its nominal concentration.
+</p>
+Inter- and Intra-day Precision and Accuracy:</br>
+These were evaluated at 3 concentration levels for the quality control samples (QC): 0.15 ng/ml for low-concentration quality control (LQC) samples; 1.5 ng/ml for medium-concentration quality control (MQC) samples; and 5 ng/ml for high-concentration quality control (HQC) samples. Precision and accuracy were expressed in percentage as the Relative Standard Deviation (RSD) and the Relative Error (RE), respectively. Accuracy was defined as the difference between the expected concentration (Cex) and the average measured concentration (Cav) as calculated by the formula (Cex - Cav/Cex) x 100. The precision, RSD, was calculated using the formula (SD/Cav) x 100. The intraday precision (repeatability) and accuracy were established for 5 replicates for the LQC, MQC, and HQC over the course of the same day using the same calibration curve. For the interday analysis (reproducibility), the assay was conducted for 3 consecutive days. Interday accuracy and precision were assessed by running analysis for 5 calibration curves in quintuplicate over consecutive days.
+</p>
+Recovery and Matrix Effects:</br>
+To determine the extraction efficiency of SPE for the analytes in the biological matrix studied, recovery was assessed by means of the IS solutions. Plasma and lung tissue samples, as well as the culture medium, were spiked with IS solution before SPE extraction. Recovery was determined by comparing the analytical response of the IS for the extracted samples at 3 concentrations (LQC, MQC, and HQC) to the IS that had not been extracted and that had been prepared in solvent (MeOH/H2O, 7:3, v/v). Recovery was expressed as the percentage of the expected value, as calculated by the average area ratio between the extraction samples and the standard samples. The extent of recovery of the IS should be consistent, precise, and reproducible. Matrix-dependent recovery was established using different matrices, such as lung tissue homogenate, plasma, and culture medium; these were spiked with IS at 3 concentrations (LQC, MQC, and HQC) after SPE extraction. The peak areas after extraction were compared with the corresponding peak areas of the pure IS solutions."	"Identification of the lipid species obtained in the LC-MS analysis was performed using PeakView® 2.1 (Sciex, Foster, CA, USA). Briefly, this software combines information in three dimensions to give a representation of the retention time, signal intensity, and m/z value for each analyte. PeakView® software is a stand-alone application for the qualitative review of LC-MS data files. In addition to its general application in exploring and interpreting qualitative data, the software also provides the tools for analyzing accurate and nominal mass data, structures, and multiple samples at any given time. Data processing usually proceeds through multiple steps, including filtering, feature detection, alignment, and normalization. Feature detection is conducted to identify all signals caused by true ions and to avoid the detection of false positives, thereby interpolating theoretical information from the molecular data file and experimental fragments. In our study, alignment to confirm retention-time differences between runs was conducted through a comparison of the IS chromatography peaks. Normalization steps help in removing factors which cause unwanted systematic bias and can be used to determine extraction efficiency during sample preparation via ion intensities and/or peak area between measurements. This was performed by extrapolation of the area ratio among the IS and biological analyte peaks.
+</p>
+For quantitative analysis, we used MultiQuant™. This software uses robust integration algorithms, such as MQ4 and advanced SignalFinder™, and is able to generate reliable integration results faster with less user intervention in order to maximize productivity. The use of reference standards for each of the target lipid species or class was important in quantifying the lipids under investigation. In this field, it is common practice to normalize the individual molecular ion-peak intensities using an internal standard for each lipid class. The calculated ratio of analyte to internal standard is then multiplied by the concentration of said internal standard so as to obtain the concentration of a particular analyte present in the sample. To quantify the lipid mediators in our work, MRMHR channels were created during computational data processing. These were instructed to select product ions of higher intensity and selectivity in order to achieve greater analytical sensitivity and avoid cross-identification.
+"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Autosampler model;Column model;Column type"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Faccioli"	"Moraes"	"Sorgi"	"Peti"
+Study Person First Name	"Lucia"	"Luiz"	"Carlos"	"Ana Paula"
+Study Person Mid Initials	"H"	"A B"	"A"	"F"
+Study Person Email	"faccioli@fcfrp.usp.br"	"luizmoraes@ffclrp.usp.br"	"sorgi@fcfrp.usp.br"	"anaferranti@usp.br"
+Study Person Phone	"+551633154303"	"+551633154853"	"+551633154303"	"+551633154303"
+Study Person Fax	"+551633154725"	"+551633154725"	"+551633154725"	"+551633154725"
+Study Person Address	"Av. do Café, s/n, Ribeirão Preto, São Paulo, 14040-903, Brazil"	"Av. Bandeirantes, 3900, Ribeirão Preto, São Paulo, 14049-901, Brazil"	"Av. do Café, s/n, Ribeirão Preto, São Paulo, 14040-903, Brazil"	"Av. do Café, s/n, Ribeirão Preto, São Paulo, 14040-903, Brazil"
+Study Person Affiliation	"Departamento de Análises Clínicas, Toxicológicas e Bromatológicas, Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo"	"Departamento de Química, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo"	"Departamento de Análises Clínicas, Toxicológicas e Bromatológicas, Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo"	"Departamento de Análises Clínicas, Toxicológicas e Bromatológicas, Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo"
+Study Person Roles	"Principal Investigator"	"Principal Investigator"	"Researcher"	"Researcher"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

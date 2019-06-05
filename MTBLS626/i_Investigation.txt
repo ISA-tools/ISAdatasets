@@ -1,0 +1,107 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"EFO"	"CHMO"	"UO"	"ACGT-MO"	"OBI"	"NCIT"	"MESH"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/ACGT-MO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/MESH"	
+Term Source Version	"2"	"22"	"113"	"5"	"42"	"2"	"34"	"59"	"6"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Units of Measurement Ontology"	"Cancer Research and Management ACGT Master Ontology"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Medical Subject Headings"	
+INVESTIGATION
+Investigation Identifier	"MTBLS626"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\wey018\AppData\Local\Temp\Configurations\1518286147070\isaconfig-default_v2015-07-02"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS626"
+Study Title	"Cancer-cell-secreted exosomal miR-105 promotes tumour growth through the Myc-dependent metabolic reprogramming of stromal cells"
+Study Description	"Cancer and other cells residing in the same niche engage various modes of interactions to synchronize and to buffer the negative effects of environmental changes. Extracellular miRNAs have been recently implicated in the intercellular crosstalk. Here we show a mechanistic model involving breast-cancer-secreted, extracellular-vesicle-encapsulated miR-105, which is induced by the oncoprotein MYC in cancer cells and in turn activates MYC signaling in cancer-associated fibroblasts (CAFs) to induce a metabolic program. This results in CAFs metabolic plasticity toenhance glycolysis and glutaminolysis to fuel adjacent cancer cells when nutrients are sufficient (the symbiosis mode), and detoxify metabolic wastes (lactic acid and ammonium) by converting them into energy-rich metabolites, when nutrients are deprived whereas metabolic byproducts are accumulated. This commensalism of cancer stroma emphasizes the functional flexibility of non-cancer cell populations contributing to cancer fitness during sustained growth of tumour."
+Study Submission Date	"2018-02-11"
+Study Public Release Date	"2018-03-02"
+Study File Name	"s_mtbls626.txt"
+Comment[Study Grant Number]	"R01CA218140 (SEW), R01CA166020 (SEW), and R01CA206911 (SEW),"
+Comment[Study Funding Agency]	"National Institutes of Health (NIH)/National Cancer Institute (NCI)"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Metabolism"	"untargeted metabolites"	"Cancer-Associated Fibroblasts"	"nuclear magnetic resonance spectroscopy"	"MicroRNA"	"cancer"	"Tracer"
+Study Design Type Term Accession Number	"http://www.ifomis.org/acgt/1.0#Metabolism"	""	"http://purl.bioontology.org/ontology/MESH/D000072645"	"http://purl.obolibrary.org/obo/CHMO_0000591"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25966"	"http://www.ebi.ac.uk/efo/EFO_0000311"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2480"
+Study Design Type Term Source REF	"ACGT-MO"	""	"MESH"	"CHMO"	"NCIT"	"EFO"	"NCIT"
+STUDY PUBLICATIONS
+Study PubMed ID	"29662176"
+Study Publication DOI	"10.1038/s41556-018-0083-6"
+Study Publication Author List	"Yan W, Wu X, Zhou W, Fong MY, Cao M, Liu J, Liu X, Chen CH, Fadare O, Pizzo DP, Wu J, Liu L, Liu X, Chin AR, Ren X, Chen Y, Locasale JW, Wang SE."
+Study Publication Title	"Cancer-cell-secreted exosomal miR-105 promotes tumour growth through the Myc-dependent metabolic reprogramming of stromal cells "
+Study Publication Status	"Submitted"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Tissue type"	"Treatment"
+Study Factor Type	"Tissue"	"treatment"
+Study Factor Type Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"	"http://www.ebi.ac.uk/efo/EFO_0000727"
+Study Factor Type Term Source REF	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_mtbls626_metabolite_profiling_NMR_spectroscopy.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"NMR spectroscopy"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000623"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Nuclear Magnetic Resonance (NMR)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"NMR sample"	"NMR spectroscopy"	"NMR assay"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""	""
+Study Protocol Description	"Samples include: human cancer-associated fibroblasts (CAF; isolated in our lab from a triple-negative human breast tumor), NIH3T3 cells (NIH; obtained from American Type Culture Collection), and mammary tumor tissues collected from female NOD/SCID/IL2Rgamma-null mice that had been implanted with a mixture of human cancer cells (PDX; isolated in our lab from a triple-negative human breast tumor) and CAF.  Different treatments, including exosomes carrying varying levels of miR-105, as well as control treatment (with PBS), were applied to the samples.
+</p>
+Sample preparation was performed as described[1]. Briefly, for experiments with 13C-labelled glucose and glutamine, CAFs pretreated with EVs for 48 hr were incubated with 16.6 mM (3 g/l) D-glucose-13C6 (≥99%; Sigma-Aldrich) in medium free of 12C-glucose, or with 4 mM L-glutamine-13C5,15N2 (98%, 98%; Sigma-Aldrich) in medium free of 12C-glutamine. For experiments with 13C-labelled lactate, pretreated CAFs were cultured in glucose-free medium containing 10 mM lactate for 24 hr, and then changed to glucose-free medium containing 10 mM sodium L-lactate-13C3 (99%; Sigma-Aldrich). Cells were analysed for metabolic profiles after 6 hr. For cell metabolome (CM) analysis, cells were washed after incubating with the tracer for 6 hr, and changed to the corresponding medium containing regular unlabelled (12C) metabolites; CM was collected after 24 hr. 
+</p>
+Ref:</br>
+[1] Fong, M.Y. et al. Breast-cancer-secreted miR-122 reprograms glucose metabolism in premetastatic niche to promote metastasis. Nat Cell Biol. 2015 Feb;17(2):183-94. doi:10.1038/ncb3094. PMID:25621950</br>"	"To determine the abundances of 13C-containing metabolites, cells and the EV-depleted CM were extracted to collect the hydrophilic fraction, which was resuspended in 500 µl 100% D2O containing 5 mM sodium 2,2-dimethyl-2-silapentane-5-sulfonate (DSS; Cambridge Isotope Laboratories; Tewksbury, MA) that serves as an internal chemical shift reference and a concentration standard in 2D spectra."	"The sample was resuspended in 500 µl D2O with either 5 µM or 5 mM DSS dissolved dry pellet from weighed cells or tumor tissues."	"NMR spectra were acquired at 25 °C on a Bruker Avance spectrometer equipped with a cryoprobe operating at 600.19 MHz 1H frequency."	"1D NMR spectroscopy was performed described[1]. Briefly, 1D NOESY (nuclear Overhauser effect spectroscopy) with presaturation spectra[2] was collected with spectral width of 10 kHz, 32k data points, 3s relaxation delay, and 1,024 transients. 2D 1H-13C HSQC (Heteronuclear Single Quantum Coherence) was used to analyse cell samples and constant-time 1H-13C HSQC was used to analyse medium and tumour samples. The spectrum width for 1H and 13C are 16 ppm and 14 ppm, respectively. The acquisition time for 1H and 13C are 3.4 s and 122 ms, respectively.
+</p>
+Ref:</br>
+[1] Fong, M.Y. et al. Breast-cancer-secreted miR-122 reprograms glucose metabolism in premetastatic niche to promote metastasis. Nat Cell Biol. 2015 Feb;17(2):183-94. doi:10.1038/ncb3094. PMID:25621950</br>
+[2] Beckonert, O. et al. Metabolic profiling, metabolomic and metabonomic procedures for NMR spectroscopy of urine, plasma, serum and tissue extracts. Nat Protoc. 2007;2(11):2692-703. doi:10.1038/nprot.2007.376. PMID:8007604</br>"	"1D NOESY data were processed using Bruker topspin 3.1, and analysed with Chenomx NMR Suite Processor (version 7.5; Chenomx; Edmonton, Canada). 2D 1H-13C correlation spectra were processed using Bruker topspin 3.1, and analysed with Sparky software[1]. Representative NMR spectra are shown in the Supplementary Information section of the paper associated with this study.
+</p>
+Ref:</br>
+[1] T.D. Goddard and D.G. Kneller, SPARKY 3, University of California, San Francisco</br>"	"Assignments were confirmed by 2D spectroscopy including 1D NOESY, 1H-13C Heteronuclear Signal Quantum Coherence (HSQC)."
+Study Protocol URI	""	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Extraction Method"	"NMR tube type;Temperature;Sample pH;Solvent"	"Magnetic field strength;Pulse sequence name;Instrument;NMR Probe;Number of transients"	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	";;;"	";;;;"	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Yan"	"Wang"
+Study Person First Name	"Wei"	"Emily Shizhen"
+Study Person Mid Initials	""	""
+Study Person Email	"wey018@ucsd.edu"	"emilywang@ucsd.edu"
+Study Person Phone	"8582462462"	"8582462464"
+Study Person Fax	""	""
+Study Person Address	"9500 Gilman Dr, La Jolla, CA, 92093"	"9500 Gilman Dr, La Jolla, CA, 92093"
+Study Person Affiliation	""	""
+Study Person Roles	"Postdoctoral Scholar"	"Professor"
+Study Person Roles Term Accession Number	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19925"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69170"
+Study Person Roles Term Source REF	"NCIT"	"NCIT"

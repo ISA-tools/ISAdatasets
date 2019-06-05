@@ -1,0 +1,104 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"PO"	"NCBITAXON"	"GO"	"GRO"	"EFO"	"CHMO"	"OBI"	"CHEBI"	"MS"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/PO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/GO"	"http://data.bioontology.org/ontologies/GRO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"10"	"2"	"1358"	"3"	"146"	"5"	"22"	"99"	"86"	"29"	
+Term Source Description	"Plant Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Gene Ontology"	"Gene Regulation Ontology"	"Experimental Factor Ontology"	"Chemical Methods Ontology"	"Ontology for Biomedical Investigations"	"Chemical Entities of Biological Interest Ontology"	"Mass Spectrometry Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS447"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/home/workstation3/tools_installed/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS447"
+Study Title	"Metabolomic homeostasis shifts after callus formation and shoot regeneration in tomato"
+Study Description	"Plants can regenerate from a variety of tissues on culturing in appropriate media. However, the metabolic shifts involved in callus formation and shoot regeneration are largely unknown. The metabolic profiles of callus generated from tomato (Solanum lycopersicum) cotyledons and that of shoot regenerated from callus were compared with the pct1-2 mutant that exhibits enhanced polar auxin transport and the shr mutant that exhibits elevated nitric oxide levels. The transformation from cotyledon to callus involved a major shift in metabolite profiles with denser metabolic networks in the callus. In contrast, the transformation from callus to shoot involved minor changes in the networks. The metabolic networks in pct1-2 and shr mutants were distinct from wild type and were rewired with shifts in endogenous hormones and metabolite interactions. The callus formation was accompanied by a reduction in the levels of metabolites involved in cell wall lignification and cellular immunity. On the contrary, the levels of monoamines were upregulated in the callus and regenerated shoot. The callus formation and shoot regeneration were accompanied by an increase in salicylic acid in wild type and mutants. The transformation to the callus and also to the shoot downregulated LST8 and upregulated TOR transcript levels indicating a putative linkage between metabolic shift and TOR signalling pathway. The network analysis indicates that shift in metabolite profiles during callus formation and shoot regeneration is governed by a complex interaction between metabolites and endogenous hormones."
+Study Submission Date	"2017-04-18"
+Study Public Release Date	"2017-05-05"
+Study File Name	"s_Metabolomic Homeostasis during callusing.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"metabolomic profiling"	"plant callus"	"TOR signaling"	"gas chromatography time-of-flight mass spectrometry"	"Shoot Regeneration"	"plant hormone"	"untargeted metabolites"
+Study Design Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000752"	"http://purl.obolibrary.org/obo/PO_0005052"	"http://purl.obolibrary.org/obo/GO_0031929"	"http://purl.obolibrary.org/obo/CHMO_0000735"	""	"http://purl.obolibrary.org/obo/CHEBI_37848"	""
+Study Design Type Term Source REF	"EFO"	"EFO"	"GO"	"CHMO"	""	"CHEBI"	""
+STUDY PUBLICATIONS
+Study PubMed ID	"28481937"
+Study Publication DOI	"10.1371/journal.pone.0176978"
+Study Publication Author List	"Alka Kumari, Kamalika Ray, Sadhna Sadhna, Arun Kumar Pandey, Yellamaraju Sreelakshmi, Rameshwar Sharma"
+Study Publication Title	"Metabolomic Homeostasis Shifts after Callus Formation and Shoot Regeneration in Tomato."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Mutant"	"Plant Tissue"	"Replicate"
+Study Factor Type	"mutant gene"	"portion of plant tissue"	"biological replicate"
+Study Factor Type Term Accession Number	"http://www.bootstrep.eu/ontology/GRO#MutantGene"	"http://purl.obolibrary.org/obo/PO_0009007"	"http://www.ebi.ac.uk/efo/EFO_0002091"
+Study Factor Type Term Source REF	"GRO"	"EFO"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_metabolomic_homeostasis_during_callusing_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"LECO-PEGASUS GCXGC-TOF-MS 173"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The seeds of wild type (WT) tomato (Solanum lycopersicum) cv. Ailsa Craig, and pct1-2 (enhanced polar auxin transport mutant, and shr (NO overproducing mutant) were used. Both shr and pct1-2 mutants were monogenic recessive in nature. Seeds were surface sterilized with 4% (v/v) sodium hypochlorite, and seedlings were raised on MS (1/2X) medium supplemented with 1.5% (w/v) sucrose under 16 h light and 8 h darkness cycles. Fully expanded cotyledons from 9-10 days old seedlings were used as explant for the callus initiation. For callus induction, excised cotyledons were cut at the tip and the base (0.7 x 1.0 cm size) and were placed on MS medium (1X) supplemented with 3% (w/v) sucrose, 2 mg/l zeatin and 0.1 mg/l IAA (CIM) with their adaxial surface in contact with the medium. Explants were sub-cultured at an interval of 10-12 days by transferring to fresh plates on CIM. After the appearance of shoots, the shoots were excised from the callus and transferred to the SIM consisting of MS media supplemented with 3% (w/v) sucrose, 1 mg/l zeatin and 0.1 mg/l IAA for further differentiation and growth."	"For metabolite profiling, tissues were collected at 3 different stages; 9-10 day old trimmed cotyledon, greening callus and regenerated shoot. The tissue was snap frozen and homogenized in liquid nitrogen and stored at -80 °C till further use. All experimental analyses were carried out using 5 independent biological replicates at each stage from WT, shr and pct1-2.
+</p>
+The GC-MS based identification of primary metabolites was carried out essentially using the protocol described previously[1]. Briefly, a polar metabolite fraction was extracted from 100 mg of powdered tissue by shaking with 1400 μl 100% methanol and 60 μl internal standard (0.2 mg/ml ribitol in MilliQ water) at 700 rpm for 15 min at 70 °C. The extract was vigorously mixed with 1400 μl water, centrifuged at 2200 x g at 25 °C and supernatant was collected. 300 μl aliquots of supernatant were dried in vacuo for 3 h. The dried residue was dissolved and derivatized for 90 min at 37 °C in 80 μl of pyridine containing 20 mg/ml methoxyamine hydrochloride. To the derivatized sample 80 μl N-trimethylsilyl-N-methyl trifluoroacetamide (MSTFA) and 20 μl of a retention time standard mixture (F.A.M.E. Mix, Sigma, 1 μg/μl in hexane) was added, and the mixture was incubated at 37 °C for 30 min.
+</p>
+Ref:</br>
+[1] Roessner U, Wagner C, Kopka J, Trethewey RN, Willmitzer L. Technical advance: simultaneous analysis of metabolites in potato tuber by gas chromatography-mass spectrometry. Plant J. 2000 Jul;23(1):131-42. PMID:10929108</br>"	"The derivatized samples were then analysed by LECO-PEGASUS GCXGC-TOF-MS system (LECO Corporation, USA) equipped with 30 m Rxi-5ms column with 0.25 mm internal diameter and 0.25 μm film thickness (Restek, USA). The injection temperature, interface, and ion source were set at 250 °C, 225 °C and 200 °C respectively. For separation of groups of metabolites, the run program was set as following; isothermal heating at 70 °C for 5 min, followed by 5 °C/min oven temperature ramp to 290 °C and final heating at 290 °C for 5 min. The flow rate of carrier gas (helium gas) was set to 1.5 ml/min."	"A 1 μl of sample was injected in splitless mode into the LECO-PEGASUS GCXGC-TOF-MS system and mass spectra were recorded at 2 scans/s within a mass range from 70 to 600."	"The NetCDF files were obtained from ChromaTOF software 4.50.8.0 chromatography version (LECO Corporation, USA) GC-MS were further analysed using MetAlign 3.0 (www.metalign.nl) and MSClust software with a signal to noise ratio of ≥ 2, for baseline correction, noise estimation, alignment and extraction of ionwise mass signal. The mass signals that were present in <3 samples were discarded. The MetAlign results were processed with MSClust software for reduction of data and compound mass extraction."	"The mass spectra extracted by MSClust were opened in NIST MS Search v 2.2 software for identifying compounds with the NIST (National Institute of Standard and Technology) Library and Gölm Metabolome Database Library (http://gmd.mpimp-golm.mpg.de/). The compound hits which showed maximum matching factor (MF) value (>700) and least deviation from the retention index (RI) was used for metabolite identity. The metabolite levels were quantified by normalizing with the internal standard ribitol. During identification, the metabolites with different trimethylsilyl derivatives were clubbed together as a single entity. In addition, only annotated metabolites were taken for further study."
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Derivatization;Post Extraction"	"Column type;Column model;Chromatography Instrument"	"Scan polarity;Mass analyzer;Ion source;Instrument;Scan m/z range"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Sharma"	"Yellamaraju"	"Kumari"
+Study Person First Name	"Rameshwar"	"Sreelakshmi"	"Alka "
+Study Person Mid Initials	""	""	""
+Study Person Email	"rameshwar.sharma@gmail.com"	""	"alkahcu2008@gmail.com"
+Study Person Phone	""	""	""
+Study Person Fax	""	""	""
+Study Person Address	"Repository of Tomato Genomics Resources
+University of Hyderabad
+Hyderabad
+Telangana"	"Repository of Tomato Genomics Resources
+University of Hyderabad
+Hyderabad
+Telangana"	""
+Study Person Affiliation	""	""	""
+Study Person Roles	"Principal Investigator"	""	""
+Study Person Roles Term Accession Number	""	""	""
+Study Person Roles Term Source REF	""	""	""

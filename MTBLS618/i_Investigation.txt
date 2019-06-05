@@ -1,0 +1,123 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"CHMO"	"EFO"	"UO"	"OBI"	"MS"	"MESH"	"BTO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/BTO"	
+Term Source Version	"2"	"18"	"113"	"42"	"22"	"86"	"6"	"29"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"Units of Measurement Ontology"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Medical Subject Headings"	"BRENDA Tissue and Enzyme Source Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS618"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"/Users/apple/Downloads/ISAcreatorMetaboLights/Configurations/MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS618"
+Study Title	"Metabolomics of Solanum lycopersicum infected by Phytophthora infestans leads to Late blight detection and reveals metabolic differences in infection times."
+Study Description	"Tomato crops suffer attacks of various pathogens that cause large production losses. Late blight caused by Phytophthora infestans is a devastating disease in tomatoes because of its difficultly to control. Here, we applied metabolomics based on liquid chromatography–mass spectrometry (LC-MS) and metabolic profiling by matrix-assisted laser desorption ionization mass spectrometry (MALDI-MS) in combination with multivariate data analysis in the early detection of late blight on asymptomatic tomato plants and to discriminate infection times of 4, 12, 24, 36, 48, 60, 72 and 96 h after inoculation (hpi). MALDI-MS and LC-MS profiles of metabolites combined with multivariate data analysis are able to detect early-late blight-infected tomato plants, and metabolomics based on LC-MS discriminates infection times in asymptomatic plants. We found the metabolite tomatidine as an important biomarker of infection, saponins as early infection metabolite markers and isocoumarin as early and late asymptomatic infection marker along the post infection time. MALDI-MS and LC-MS analysis can therefore be used as a rapid and effective method for the early detection of late blight-infected tomato plants, offering a suitable tool to guide the correct management and application of sanitary defense approaches. LC-MS analysis also appears to be a suitable tool for identifying major metabolites of asymptomatic late blight-infected tomato plants."
+Study Submission Date	"2018-02-01"
+Study Public Release Date	"2019-01-24"
+Study File Name	"s_Tomato-Phyto.txt"
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"Phytophthora infestans"	"Phytophthora infestans"	"Multivariate Analysis"	"ultra-performance liquid chromatography-mass spectrometry"	"untargeted metabolites"	"Host-Pathogen Interactions"
+Study Design Type Term Accession Number	"http://purl.obolibrary.org/obo/NCBITaxon_4787"	"http://purl.bioontology.org/ontology/MESH/D055750"	"http://purl.bioontology.org/ontology/MESH/D015999"	"http://purl.obolibrary.org/obo/CHMO_0000715"	""	"http://purl.bioontology.org/ontology/MESH/D054884"
+Study Design Type Term Source REF	"EFO"	"MESH"	"MESH"	"CHMO"	""	"MESH"
+STUDY PUBLICATIONS
+Study PubMed ID	"30558273"
+Study Publication DOI	"10.3390/molecules23123330"
+Study Publication Author List	"Galeano Garcia P, Neves Dos Santos F, Zanotta S, Eberlin MN, Carazzone C."
+Study Publication Title	"Metabolomics of Solanum lycopersicum Infected with Phytophthora infestans Leads to Early Detection of Late Blight in Asymptomatic Plants."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Time post infection"	"Replicate"
+Study Factor Type	"timepoint"	"replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://www.ebi.ac.uk/efo/EFO_0000683"
+Study Factor Type Term Source REF	"EFO"	"EFO"
+Comment[Sample Collection]	""	""
+STUDY ASSAYS
+Study Assay File Name	"a_tomato-phyto_metabolite_profiling_mass_spectrometry-1.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"6550 Q-TOF LC-MS Agilent"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"The seeds of the Santa Cruz Kada tomato cultivar were obtained from a local market. The seeds were germinated in a germination chamber (120 mm Petri dishes containing wet germination paper) maintained at 18 °C with a 16 h photoperiod for 3 days. The germinated seeds were planted in 16 cm diameter pots containing a 1:1 mixture of soil and vermiculite and subsequently subirrigated once per day. The 45 plants were maintained at 18 °C, with a 16 h photoperiod, and approximately 60–70% relative humidity (RH).
+</p>
+A culture of P. infestans, named as IBSP-34, was obtained from the microorganism collection of the Biological Institute of Sao Paulo, SP, Brazil. The isolate was subcultured on V8 media in 90 mm Petri dishes at 18 °C. After 2–3 weeks, a sporangial suspension was prepared by scraping the surfaces of the colonies with a sterile scalpel, and the mycelia were suspended in sterilized water to produce the infecting solution. The concentration of sporangia in the suspension was adjusted to 1.0 x 10^5 sporangia/ml using a Neubauer chamber.
+</p>
+After 5–6 weeks, 40 plants were inoculated at the same time with 10 μl of the sporangial suspension of P. infestans at 4 different sites, 2 on each side of the midrib of the leaf. The infection was carried out by carefully depositing a drop of the sporangial suspension on the leaf with the aid of a micropipette, without mechanically wounding the leaf. The 5 control plants were inoculated with ultrapure water using the same procedure. The experimental design for the infection consisted of 2 sets of plants that were the initial control (CN) and the inoculated (IN) plants. At each time point after inoculation (4, 12, 24, 36, 48, 60, 72 and 96 hpi), 5 infected plants were randomly collected and separately analyzed as replicates."	"All the tomato leaves were excised with sterilized scissors and were immediately macerated in liquid nitrogen. A 100 mg aliquot of the crushed powder was vortexed (Multi Reax, Heidolph, Schwabach, Germany), extracted with 1 ml of methanol for 10 min at room temperature, and then centrifuged for 5 min at 12,000 x g at 20 °C (Centrifuge 5418, Eppendorf, Hamburg, Germany). The supernatants were stored at −20 °C until analysis. For LC-MS analysis, 50 µl of the supernatant was diluted with 950 µl of methanol in a vial."	"The extracts of infected and noninfected leaves were analyzed with a 1290 Infinity UHPLC coupled to an Agilent 6550 iFunnel Q-TOF LC-MS system with Agilent Dual Jet Stream electrospray ionization technology (ESI, Agilent Technologies, Santa Clara, CA, USA). For metabolite separation, a Kinetex XB-C18 Core-Shell column (2.1 x 150 mm, 1.7 μm, 100 Å; Phenomenex Inc., Torrance, CA, USA) was used and maintained at 40 °C. The mobile phases were A (0.1% aqueous formic acid) and B (0.1% formic acid in methanol). The chromatographic gradient of B was increased from 5% to 95% over 18 min and maintained for 7 min at 95% with a flow rate of 0.35 ml/min. Subsequently, the initial conditions were reached in 8 min, and the column was equilibrated for 7 min. The injection volume was 2 µl. To avoid degradation, the samples were maintained at −20 °C in a freezer, and prior to analysis they were placed in an autosampler maintained at a room temperature of approximately 21 °C. Prior to injection, the needle was washed for 20 s with a mixture of H2O:ACN:IPA (4:4:2) using the flush port. The external needle wash volume was 150 µl."	"The ESI source was used in the positive or negative ion mode in the following conditions: drying gas temperature 250 °C, drying gas flow rate 14.0 l/min, sheath gas temperature 250 °C, sheath gas flow rate 10.0 l/min, nebulizer gas 45 psig, and capillary voltage +3.5 kV and −3.5 kV for the positive and negative ionization mode, respectively. The Q-TOF parameters were acquisition rate of 1.0 spectra/s over the m/z 100−1700 amu range, skimmer voltage 65 V, octopole RF 750 V, fragmentor 150 V and nozzle voltage 350 V. The multichannel plate detector voltage was 650 V, and the photomultiplier tube voltage was 700 V. The pulser was set to a pulse width of 125 counts/pulse, with a pulse width of 25 counts. A second reference sprayer orthogonal to the sample sprayer in the electrospray source was used to introduce a reference solution for accurate mass determinations. The reference mass ions were of m/z 121.0509 and m/z 922.0098 in ESI (+) and m/z 119.0363 and m/z 966.0007 in ESI (−). The detection window for the reference masses was set to 10 ppm, with an average of 10 scans and a minimum peak height of 100 counts/s. A mass calibration was performed with an Agilent tune mix from 100 to 1600 Da. The data were acquired in profile mode using high resolution mode (2 GHz).
+</p>
+First, an experiment in full scan mode over the entire mass range was performed, and then 2 fragmentation experiments were carried out. The auto MS/MS experiments were performed with fixed energies of 30, 40 or 50 eV, in which a first step was to select the 10 most intense ions per scan to produce the MS2 spectra. The auto MS/MS experiments that were performed in the variable energy mode used scan speeds that varied based on the precursor abundance and used energies based on the precursor mass-to-charge. The collision energies applied were 6.5 V/100 Da and were offset by 2.0 V. The QC samples consisted of a pool of all the different inoculation times and controls and were analyzed at the beginning and at the end of each batch and after every 10 injections."	"The LC-MS data processing was performed using MassHunter Qualitative Analysis (Agilent Software B07.00, Santa Clara, CA, USA), in which raw original data was converted to the mzData format. The mzData files were uploaded to XCMS online for further data processing (https://xcmsonline.scripps.edu/). The XCMS software was used for feature detection, retention time correction, feature alignment and univariate statistical analysis[1]. The data were analyzed as pairwise jobs, with the following settings: centWave feature detection with 5 ppm of maximal tolerated m/z deviation; minimum peak width 5 s; maximum peak width 20 s; signal/noise threshold 6; noise filter abundance 0; prefilter abundance 100; mzdiff 0.01, and integration method type 1. Obiwarp retention time correction with 1 m/z step size (profStep) was used to generate the profiles. Other parameters were alignment: mzwid 0.015; minfrac 0.5; mz width: 0.015; bw: 5. An unpaired parametric t test (Welch test) was performed to identify significant features with a p value threshold of 0.05 and a fold change threshold (highly significant features) of 1.5[2]. The .csv file from the XCMS processing was uploaded to MetaboAnalyst 3.0 (http://www.metaboanalyst.ca/) for multivariate statistical data analysis. The file comprised a list of features (m/z, retention times and intensities) for all samples from infected and noninfected leaves. The data processing applied an integrity check, missing value check, data filter, and normalization before statistical analysis[3][4]. The presence of missing values or features with constant values (i.e., all zeros) was checked, and data filtering using the interquantile range (IQR) was applied to remove variables close to the baseline or detection limits and variables with near-constant value[5]. 
+</p>
+Data were normalized by sum for adjustment of the differences among samples and Pareto scaling (mean-centered and divided by the square root of the standard deviation of each variable) was used to make individual features more comparable[6]. To discriminate the infection times of the tomato plants with P. infestans based on their metabolite profiles, principal component analysis (PCA), partial least squares discriminant analysis (PLS-DA) and orthogonal partial least squares discriminant analysis (OPLS-DA) was performed on the data using MetaboAnalyst 3.0. To identify the molecular features related to variation between groups of samples, the corresponding loading plots and the variable importance in projection (VIP) were applied [98]. The validation of the classification models obtained by multivariate analysis was made to confirm the capability of classification and prediction of the models. The data were permuted 100 times, and Q2 and R2Y were used as quality-of-fit criterion[7].
+</p>
+Ref:</br>
+[1] Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006 Feb 1;78(3):779-87. doi:10.1021/ac051437y. PMID:16448051</br>
+[2] Graham S.F., Chevallier O.P., Kumar P., Türkoğlu O., Bahado-Singh R.O. High resolution metabolomic analysis of ASD human brain uncovers novel biomarkers of disease. Metabolomics. 2016;12:62. doi:10.1007/s11306-016-0986-9.</br>
+[3] Xia J, and Wishart DS. Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data Analysis. Curr Protoc Bioinformatics. 2016 Sep 7;55:14.10.1-14.10.91. doi:10.1002/cpbi.11. PMID:27603023</br>
+[4] Xia J, Mandal R, Sinelnikov IV, Broadhurst D, Wishart DS. MetaboAnalyst 2.0--a comprehensive server for metabolomic data analysis. Nucleic Acids Res. 2012 Jul;40(Web Server issue):W127-33. doi:10.1093/nar/gks374. PMID:22553367</br>
+[5] Barbosa GB, Jayasinghe NS, Natera SHA, Inutan ED, Peteros NP, Roessner U. From common to rare Zingiberaceae plants - A metabolomics study using GC-MS. Phytochemistry. 2017 Aug;140:141-150. doi:10.1016/j.phytochem.2017.05.002. PMID:28499256</br>
+[6] Dos Santos FN1, Tata A, Belaz KR, Magalhães DM, Luz ED, Eberlin MN. Major phytopathogens and strains from cocoa (Theobroma cacao L.) are differentiated by MALDI-MS lipid and/or peptide/protein profiles. Anal Bioanal Chem. 2017 Mar;409(7):1765-1777. doi:10.1007/s00216-016-0133-5. PMID:28028594</br>
+[7] Zhang L.-N., Wang L., Shi Z.-Q., Li P., Li H.-J. A metabolomic strategy based on integrating headspace gas chromatography-mass spectrometry and liquid chromatography-mass spectrometry to differentiate the five cultivars of Chrysanthemum flower. RSC Adv. 2018;8:9074–9082. doi:10.1039/C7RA13503C.</br>"	"The major discriminant features of the LC-MS analyses were selected out of the multivariate analysis, and their annotation was made according to the exact mass (m/z) of the protonated or deprotonated ion and their fragmentation spectra. The .txt data archives with m/z and relative abundance of the ions obtained from MS and MS/MS spectra were uploaded to MS-FINDER software ver. 2.26 (http://prime.psc.riken.jp/Metabolomics_Software/MS-FINDER/), which provides molecular formulas of the precursor ions based on accurate mass, isotope ratio, and product ion spectra[1].
+</p>
+The Metlin (http://metlin.scripps.edu), ChemSpider (www.chemspider.com), MassBank (http://www.massbank.jp/), HMDB (http://www.hmdb.ca/), and LipidMaps (http://www.lipidmaps.org/) spectra databases and a comparison with fragmentation profiles of previously reported metabolites from tomato infection were also used for confirmation of the metabolite annotation[2-7]. 
+</p>
+Ref:</br>
+[1] Tsugawa H, Kind T, Nakabayashi R, Yukihira D, Tanaka W, Cajka T, Saito K, Fiehn O, Arita M. Hydrogen Rearrangement Rules: Computational MS/MS Fragmentation and Structure Elucidation Using MS-FINDER Software. Anal Chem. 2016 Aug 16;88(16):7946-58. doi:10.1021/acs.analchem.6b00770. PMID:27419259</br>
+[2] Ballester AR, Tikunov Y, Molthoff J, Grandillo S, Viquez-Zamora M, de Vos R, de Maagd RA, van Heusden S, Bovy AG. Identification of Loci Affecting Accumulation of Secondary Metabolites in Tomato Fruit of a Solanum lycopersicum × Solanum chmielewskii Introgression Line Population. Front Plant Sci. 2016 Sep 28;7:1428. doi:10.3389/fpls.2016.01428. PMID:27733856</br>
+[3] Errard A, Ulrichs C, Kühne S, Mewis I, Drungowski M, Schreiner M, Baldermann S. Single- versus Multiple-Pest Infestation Affects Differently the Biochemistry of Tomato (Solanum lycopersicum 'Ailsa Craig'). J Agric Food Chem. 2015 Nov 25;63(46):10103-11. doi:10.1021/acs.jafc.5b03884. PMID:26507319</br>
+[4] Itkin M, Rogachev I, Alkan N, Rosenberg T, Malitsky S, Masini L, Meir S, Iijima Y, Aoki K, de Vos R, Prusky D, Burdman S, Beekwilder J, Aharoni A. GLYCOALKALOID METABOLISM1 is required for steroidal alkaloid glycosylation and prevention of phytotoxicity in tomato. Plant Cell. 2011 Dec;23(12):4507-25. doi:10.1105/tpc.111.088732. PMID:22180624</br>
+[5] Moco S, Bino RJ, Vorst O, Verhoeven HA, de Groot J, van Beek TA, Vervoort J, de Vos CH. A liquid chromatography-mass spectrometry-based metabolome database for tomato. Plant Physiol. 2006 Aug;141(4):1205-18. doi:10.1104/pp.106.078428. PMID:16896233</br>
+[6] Mintz-Oron S, Mandel T, Rogachev I, Feldberg L, Lotan O, Yativ M, Wang Z, Jetter R, Venger I, Adato A, Aharoni A. Gene expression and metabolism in tomato fruit surface tissues. Plant Physiol. 2008 Jun;147(2):823-51. doi:10.1104/pp.108.116004. PMID:18441227</br>
+[7] Iijima Y, Fujiwara Y, Tokita T, Ikeda T, Nohara T, Aoki K, Shibata D. Involvement of ethylene in the accumulation of esculeoside A during fruit ripening of tomato (Solanum lycopersicum). J Agric Food Chem. 2009 Apr 22;57(8):3247-52. doi:10.1021/jf8037902. PMID:19284799</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+Comment[Sample Collection]	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Galeano"	"Santos"	"Eberlin"	"Chiara"
+Study Person First Name	"Paula"	"Fabio"	"Marcos"	"Carazzone"
+Study Person Mid Initials	"L"	"N"	"N"	""
+Study Person Email	"pl.galeano10@uniandes.edu.co"	"fabiof6@gmail.com"	"mneberlin@gmail.com"	"c.carazone@uniandes.edu.co"
+Study Person Phone	"+573107868279"	"+5571992971507"	"+5519997971736"	"+57 1 3394949 ext 1480"
+Study Person Fax	""	""	""	""
+Study Person Address	""	""	""	""
+Study Person Affiliation	"1.	Laboratory of Advanced Analytical Techniques in Natural Products. Universidad de los Andes, Bogotá, Colombia 2.	Facultad de Ciencias Básicas, Universidad de la Amazonia, Florencia, Colombia "	"3.	ThoMSon Mass Spectrometry Laboratory, University of Campinas, Institute of Chemistry, Campinas, São Paulo 13083-970, Brazil"	"3.	ThoMSon Mass Spectrometry Laboratory, University of Campinas, Institute of Chemistry, Campinas, São Paulo 13083-970, Brazil"	"1.	Laboratory of Advanced Analytical Techniques in Natural Products. Universidad de los Andes, Bogotá, Colombia"
+Study Person Roles	"PhD Student"	"Researcher"	"Researcher"	"Reasearcher"
+Study Person Roles Term Accession Number	""	""	""	""
+Study Person Roles Term Source REF	""	""	""	""

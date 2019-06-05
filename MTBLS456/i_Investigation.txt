@@ -1,0 +1,110 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	"NCBITAXON"	"BTO"	"VO"	"CHMO"	"EFO"	"NCIT"	"OBI"	"MS"	"LBO"	"UO"	
+Term Source File	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/VO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/LBO"	"http://data.bioontology.org/ontologies/UO"	
+Term Source Version	"2"	"22"	"240"	"18"	"146"	"44"	"22"	"86"	"2"	"43"	
+Term Source Description	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"BRENDA Tissue and Enzyme Source Ontology"	"Vaccine Ontology"	"Chemical Methods Ontology"	"Experimental Factor Ontology"	"National Cancer Institute Thesaurus"	"Ontology for Biomedical Investigations"	"Mass Spectrometry Ontology"	"Livestock Breed Ontology"	"Units of Measurement Ontology"	
+INVESTIGATION
+Investigation Identifier	"MTBLS456"
+Investigation Title	"Investigation"
+Investigation Description	""
+Investigation Submission Date	""
+Investigation Public Release Date	""
+Comment[Created With Configuration]	"C:\Users\3048470\Downloads\ISAcreatorMetaboLights (1)\Configurations\MetaboLightsConfig20150707"
+Comment[Last Opened With Configuration]	"MetaboLightsConfig20150707"
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	""
+Investigation Publication DOI	""
+Investigation Publication Author List	""
+Investigation Publication Title	""
+Investigation Publication Status	""
+Investigation Publication Status Term Accession Number	""
+Investigation Publication Status Term Source REF	""
+INVESTIGATION CONTACTS
+Investigation Person Last Name	""
+Investigation Person First Name	""
+Investigation Person Mid Initials	""
+Investigation Person Email	""
+Investigation Person Phone	""
+Investigation Person Fax	""
+Investigation Person Address	""
+Investigation Person Affiliation	""
+Investigation Person Roles	""
+Investigation Person Roles Term Accession Number	""
+Investigation Person Roles Term Source REF	""
+STUDY
+Study Identifier	"MTBLS456"
+Study Title	"DIVA Metabolomics: Differentiating Vaccination Status Following Viral Challenge Using Metabolomic Profiles."
+Study Description	"This study employed metabolomic profiling technologies, to identify metabolites (small molecules) in blood which are found at different levels in vaccinated compared to non-vaccinated animals exposed to virus."
+Study Submission Date	"2017-05-08"
+Study Public Release Date	"2018-02-12"
+Study File Name	"s_DIVA_Metabolomics.txt"
+Comment[SRA Submission Action]	"ADD"
+Comment[SRA Broker Name]	"OXFORD"
+Comment[SRA Lab Name]	"Oxford e-Research Centre"
+Comment[SRA Center Name]	"OXFORD"
+Comment[Study Accession]	""
+STUDY DESIGN DESCRIPTORS
+Study Design Type	"untargeted metabolites"	"viral infection-challenge"	"bovine respiratory disease complex"	"ultra-performance liquid chromatography-mass spectrometry"	"Bovine parainfluenza virus 3"
+Study Design Type Term Accession Number	""	""	"http://www.ebi.ac.uk/efo/EFO_0007180"	"http://purl.obolibrary.org/obo/CHMO_0000715"	"http://purl.obolibrary.org/obo/NCBITaxon_11215"
+Study Design Type Term Source REF	""	""	"EFO"	"CHMO"	"VO"
+STUDY PUBLICATIONS
+Study PubMed ID	"29621258"
+Study Publication DOI	"10.1371/journal.pone.0194488"
+Study Publication Author List	"Gray DW, Welsh MD, Mansoor F, Doherty S, Chevallier OP, Elliott CT, Mooney MH."
+Study Publication Title	"DIVA Metabolomics: Differentiating Vaccination Status Following Viral Challenge Using Metabolomic Profiles."
+Study Publication Status	"Published"
+Study Publication Status Term Accession Number	""
+Study Publication Status Term Source REF	""
+STUDY FACTORS
+Study Factor Name	"Vaccination"	"Sample type"	"Replicate"
+Study Factor Type	"timepoint"	"Group"	"technical replicate"
+Study Factor Type Term Accession Number	"http://www.ebi.ac.uk/efo/EFO_0000724"	"http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359"	"http://www.ebi.ac.uk/efo/EFO_0002090"
+Study Factor Type Term Source REF	"EFO"	"NCIT"	"EFO"
+STUDY ASSAYS
+Study Assay File Name	"a_DIVA_Metabolomics_metabolite_profiling_mass_spectrometry.txt"
+Study Assay Measurement Type	"metabolite profiling"
+Study Assay Measurement Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000366"
+Study Assay Measurement Type Term Source REF	"OBI"
+Study Assay Technology Type	"mass spectrometry"
+Study Assay Technology Type Term Accession Number	"http://purl.obolibrary.org/obo/OBI_0000470"
+Study Assay Technology Type Term Source REF	"OBI"
+Study Assay Technology Platform	"Xevo G2 QTOF (Waters)"
+STUDY PROTOCOLS
+Study Protocol Name	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type	"Sample collection"	"Extraction"	"Chromatography"	"Mass spectrometry"	"Data transformation"	"Metabolite identification"
+Study Protocol Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Type Term Source REF	""	""	""	""	""	""
+Study Protocol Description	"Male Holstein Friesian calves aged between 20 and 25 weeks were vaccinated with RISPOVAL®PI3+RSV as previously reported[1]. Blood samples drawn via jugular venepuncture at days 0, 2, 6, 14 and 20 p.i. into 6 ml plastic K3 EDTA Vacuette tubes (Greiner bio-one, Stroudwater, UK) were processed at random to platelet poor plasma via a double centrifugation method[2] optimized for metabolomic analysis within 2 hr of initial blood drawing and plasma stored at -80 ºC prior to use.
+</p>
+Ref:</br>
+[1] Gray DW, Welsh MD, Doherty S, Mansoor F, Chevallier OP, Elliott CT, Mooney MH. Identification of systemic immune response markers through metabolomic profiling of plasma from calves given an intra-nasally delivered respiratory vaccine. Vet Res. 2015 Feb 14;46:7. doi:10.1186/s13567-014-0138-z. PMID:25828073</br>
+[2] Tammen H, Schulte I, Hess R, Menzel C, Kellmann M, Mohring T, Schulz-Knappe P. Peptidomic analysis of human blood specimens: comparison between plasma specimens and serum by differential peptide display. Proteomics. 2005 Aug;5(13):3414-22. doi:10.1002/pmic.200401219. PMID:16038021.</br>"	"Samples processing order was randomized to negate processing bias on sample metabolite profiles. 400 µl of plasma was added to 1.6 ml of ice cold acetone, vortexed for 30 s and placed on ice for 15 min.  The sample was then deproteinated by centrifugation at 15,000 x g at 4 ºC for 15 min. 1.6 ml of supernatant was removed and dried under nitrogen for 45 min at 40 ºC using TurboVap LV (Caliper Life Sciences, Hopkinton, USA). Resulting residue was reconstituted in 500 µl of ultra-pure H2O and Liquid/Liquid extraction of lipids performed by addition of 500 µl of ice-cold methanol:chloroform (1:1 v/v) and vortexing for 30 s followed by centrifugation at 16,000 x g at 4 ºC for 15 min. Liquid/Liquid extraction was repeated and after centrifugation 900 µl of the aqueous layer was removed and dried under nitrogen.  The residue was reconstituted in 150 µl ultra-pure H2O and filtered by centrifugation at 10,000 x g, 4 ºC using 0.22 µm Costar Spin-X® Centrifuge Tube Filter for 5 min."	"RP-UPLC-MS analysis was performed using an Acquity UPLC system coupled to a XEVO G2 Q-Tof (Waters Corporation, Milford, MA, USA). A test mix of Acetominophen, Sulfaguanidine, Sulfadimethoxine, Val-Tyr-Val, Verapmil, Terfenadine, Leucine-Enkephalin, Reserpine and Erythromycin was injected to ensure calibration of mass spectrometer mass accuracy and UPLC performance prior to analysis. Pooled samples (comprising a 10 μl aliquot from all study samples) were injected 5 times before the start of each run for column conditioning[1] and intermittently throughout the run to validate instrument performance. The run-order of samples entering the mass spectrometer was constructed using a randomized sample list comprising 5 technical replicates per biological sample. No other samples were injected during the analysis run. 8 μl of prepared sample extracts were injected onto an Acquity UPLC HSS-T3 column (100 mm x 2.1 mm i.d., 1.8 μm; Waters Corporation, Milford, MA, USA). Column and autosampler temperature were maintained at 50 °C and 10 °C respectively. Chromatographic separation was carried out at a flow rate of 600 μl/min with mobile phase consisting of 99.9% H2O/0.1% formic acid (A) and 99.9% acetonitrile/0.1% formic acid (B). The elution gradient was as follows: 0–2 min isocratic at 1% of B, 2–14.5 min linear gradient form 1–100% of B, 14.5–17.5 min isocratic at 100% of B, and finally 17.5–20 min linear gradient at 100–1% of B.
+</p>
+Ref:</br>
+[1] Want EJ, Wilson ID, Gika H, Theodoridis G, Plumb RS, Shockcor J, Holmes E, Nicholson JK. Global metabolic profiling procedures for urine using UPLC-MS. Global metabolic profiling procedures for urine using UPLC-MS. Nat Protoc. 2010 Jun;5(6):1005-18. doi:10.1038/nprot.2010.50. PMID:20448546</br>"	"Mass spectrometry was performed in positive-ion mode (ESI+) with the capillary voltage set to 1500 V and the sampling cone voltage 30 V. The desolvation and cone gas flows were set at 750 l/h and 100 l/h respectively. Source and desolvation temperatures were 120 °C and 400 °C respectively. Leucine Enkephalin ([M+H]+ = 278.1141 Da, and [M+H]+ = 556.2771 Da) was used for accurate lockmass calibration during data acquisition. Lockmass acquisition setting were: 0.5 s scan time, 30 s interval, 3 scan average, mass window +/- 0.5 Da. Centroid data were acquired in positive mode using resolution mode. Collision energy was only applied on function 2, with ramping between 15 eV and 30 eV."	"Total Ion Count (TIC) chromatograms and spectra were acquired with MassLynx version 4.1 (Waters Corporation, Milford, MA, USA) in centroid format and metabolite data was processed using the MarkerLynx software. The MarkerLynx method for data extraction and de-convolution was as follows. Ions were extracted from function 1 data using peak detection analysis of retention time window 0.30–14.50 min, with a mass range of 100 Da to 1200 Da. The XIC window for data collection was 0.2 Da and apex peak tracking parameters were set to automatic with no smoothing. Data collection parameters consisted of an intensity threshold (counts) of 500, a mass window of 0.02 Da with a retention time window of 0.20 min. A noise elimination level of 6 was applied and isotopes were removed. Peak heights for extracted ions were normalized against the total peak height of all extracted ions and standardized to a total ion count of 10,000.
+</p>
+The results were exported in .csv format as a 2-dimensional data table in which rows and columns respectively represented analysed samples and the relative normalized peak heights of each detected mass spectrometric signal, i.e. as an Accurate Mass (m/z) and Retention Time (min) Pair (AMRTP). Extracted and processed data submitted for downstream multivariate and statistical analysis for metabolite marker selection can be found in supplementary data (see Table S4 of the paper associate with this study)."	"The elemental composition of selected parent compounds was determined in MassLynx using both positive and negative mode data. Mass uncertainty was set to 3 mDa, odd and even electron state, carbon isotope filter of +/- 5% and elements included were C, H, O, N, P and S. Where applicable Na and K adduct elemental composition were determined with the respective element included in the analysis parameters. Elemental compositions were searched against PubChem and Chemspider online databases, and where possible Function 2 fragments were matched against Metlin, HMDB or Massbank databases. Where fragmentation spectra for the analyte in question was not available, in silico fragmentation was performed using Metfrag and Function 2 fragmentation data was validated against potential in silico fragments. Identified compounds were validated using mass spectrum and retention time relative to authentic analytical standards analysed under identical experimental conditions (see Fig. S4 of the paper associate with this study). Pooled plasma samples and individual analytical standards (1 μM) were analysed under identical UPLC and mass spectrometric run conditions as utilized previously[1], and metabolite identities confirmed by matching retention time and Function 1 and Function 2 spectra (including low and high energy fragments and adducts). Putative annotations were acquired for compounds with spectral similarity to public spectral libraries (Metlin, HMCB or Massbank).
+</p>
+Ref:</br>
+[1] Gray DW, Welsh MD, Doherty S, Mansoor F, Chevallier OP, Elliott CT, Mooney MH. Identification of systemic immune response markers through metabolomic profiling of plasma from calves given an intra-nasally delivered respiratory vaccine. Vet Res. 2015 Feb 14;46:7. doi:10.1186/s13567-014-0138-z. PMID:25828073</br>"
+Study Protocol URI	""	""	""	""	""	""
+Study Protocol Version	""	""	""	""	""	""
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source"	""	""
+Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;"	""	""
+Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;"	""	""
+Study Protocol Components Name	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	"Gray"
+Study Person First Name	"Darren"
+Study Person Mid Initials	"W"
+Study Person Email	"d.gray@qub.ac.uk"
+Study Person Phone	"028 90 976542"
+Study Person Fax	""
+Study Person Address	"Institute for global food security.  Queen's University Belfast"
+Study Person Affiliation	"Queen's University Belfast"
+Study Person Roles	"first author"
+Study Person Roles Term Accession Number	""
+Study Person Roles Term Source REF	""
