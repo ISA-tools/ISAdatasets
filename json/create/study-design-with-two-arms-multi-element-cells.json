@@ -4,7 +4,7 @@
     "first arm": {
       "cells": [
         {
-          "name": "screen",
+          "name": "SCREEN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -49,7 +49,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -111,7 +111,7 @@
                           "term": "time"
                         }
                       },
-                      "value": 100,
+                      "value": 100.0,
                       "unit": {
                         "term": "s"
                       }
@@ -138,7 +138,7 @@
                           "term": "time"
                         }
                       },
-                      "value": 100,
+                      "value": 100.0,
                       "unit": {
                         "term": "s"
                       }
@@ -218,7 +218,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 50,
+                  "value": 50.0,
                   "unit": {
                     "term": "s"
                   }
@@ -246,7 +246,7 @@
           ]
         },
         {
-          "name": "follow-up",
+          "name": "FOLLOW-UP CELL",
           "elements": [
             {
               "__treatment": false,
@@ -272,32 +272,23 @@
       "sampleAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR SCREENING",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         }
       ],
       "mappings": [
         [
-          "screen",
+          "SCREEN CELL",
           "SAMPLE ASSAY PLAN FOR SCREENING"
         ],
         [
@@ -305,7 +296,7 @@
           "SAMPLE ASSAY PLAN FOR TREATMENTS"
         ],
         [
-          "follow-up",
+          "FOLLOW-UP CELL",
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],
@@ -314,7 +305,7 @@
     "second arm": {
       "cells": [
         {
-          "name": "screen",
+          "name": "SCREEN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -364,7 +355,7 @@
                           "term": "time"
                         }
                       },
-                      "value": 100,
+                      "value": 100.0,
                       "unit": {
                         "term": "s"
                       }
@@ -400,7 +391,7 @@
                           "term": "time"
                         }
                       },
-                      "value": 100,
+                      "value": 100.0,
                       "unit": {
                         "term": "s"
                       }
@@ -430,7 +421,7 @@
                           "term": "time"
                         }
                       },
-                      "value": 100,
+                      "value": 100.0,
                       "unit": {
                         "term": "s"
                       }
@@ -510,7 +501,7 @@
                       "term": "intensity"
                     }
                   },
-                  "value": 30,
+                  "value": 30.0,
                   "unit": {
                     "term": "mg"
                   }
@@ -577,7 +568,7 @@
           ]
         },
         {
-          "name": "follow-up",
+          "name": "FOLLOW-UP CELL",
           "elements": [
             {
               "__treatment": false,
@@ -603,32 +594,23 @@
       "sampleAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR SCREENING",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         }
       ],
       "mappings": [
         [
-          "screen",
+          "SCREEN CELL",
           "SAMPLE ASSAY PLAN FOR SCREENING"
         ],
         [
@@ -636,11 +618,11 @@
           "SAMPLE ASSAY PLAN FOR TREATMENTS"
         ],
         [
-          "follow-up",
+          "FOLLOW-UP CELL",
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],
-      "groupSize": 35
+      "groupSize": 5
     }
   }
 }

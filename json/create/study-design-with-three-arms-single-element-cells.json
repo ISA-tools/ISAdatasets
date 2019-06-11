@@ -73,7 +73,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -143,7 +143,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -188,27 +188,18 @@
       "sampleAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         }
       ],
       "mappings": [
@@ -241,7 +232,7 @@
     "second arm": {
       "cells": [
         {
-          "name": "screen",
+          "name": "SCREEN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -264,7 +255,7 @@
           ]
         },
         {
-          "name": "run in",
+          "name": "RUN-IN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -287,7 +278,7 @@
           ]
         },
         {
-          "name": "SINGLE TREATMENT",
+          "name": "SINGLE-TREATMENT CELL",
           "elements": [
             {
               "__treatment": true,
@@ -309,7 +300,7 @@
                       "term": "time"
                     }
                   },
-                  "value": 100,
+                  "value": 100.0,
                   "unit": {
                     "term": "s"
                   }
@@ -398,7 +389,7 @@
           ]
         },
         {
-          "name": "follow-up",
+          "name": "FOLLOW-UP CELL",
           "elements": [
             {
               "__treatment": false,
@@ -424,52 +415,43 @@
       "sampleAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
-          "name": "WASHOUT SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         }
       ],
       "mappings": [
         [
-          "screen",
+          "SCREEN CELL",
           null
         ],
         [
-          "run in",
+          "RUN-IN CELL",
           null
         ],
         [
-          "SINGLE TREATMENT",
+          "SINGLE-TREATMENT CELL",
           "SAMPLE ASSAY PLAN FOR TREATMENTS"
         ],
         [
           "WASHOUT CELL",
-          "WASHOUT SAMPLE ASSAY PLAN"
+          "SAMPLE ASSAY PLAN FOR WASHOUT"
         ],
         [
           "BIOLOGICAL CELL",
           "SAMPLE ASSAY PLAN FOR TREATMENTS"
         ],
         [
-          "follow-up",
+          "FOLLOW-UP CELL",
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],
@@ -478,7 +460,7 @@
     "third arm": {
       "cells": [
         {
-          "name": "screen",
+          "name": "SCREEN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -501,7 +483,7 @@
           ]
         },
         {
-          "name": "run in",
+          "name": "RUN-IN CELL",
           "elements": [
             {
               "__treatment": false,
@@ -558,7 +540,7 @@
                       "term": "intensity"
                     }
                   },
-                  "value": 30,
+                  "value": 30.0,
                   "unit": {
                     "term": "mg"
                   }
@@ -635,7 +617,7 @@
           ]
         },
         {
-          "name": "follow-up",
+          "name": "FOLLOW-UP CELL",
           "elements": [
             {
               "__treatment": false,
@@ -661,36 +643,27 @@
       "sampleAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
-          "name": "WASHOUT SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
+          "samplePlan": [],
+          "assayPlan": []
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-          "sample_types": [],
-          "assay_types": [],
-          "sample_plan": [],
-          "sample_qc_plan": [],
-          "assay_plan": []
+          "samplePlan": [],
+          "assayPlan": []
         }
       ],
       "mappings": [
         [
-          "screen",
+          "SCREEN CELL",
           null
         ],
         [
-          "run in",
+          "RUN-IN CELL",
           null
         ],
         [
@@ -699,14 +672,14 @@
         ],
         [
           "WASHOUT CELL",
-          "WASHOUT SAMPLE ASSAY PLAN"
+          "SAMPLE ASSAY PLAN FOR WASHOUT"
         ],
         [
           "RADIOLOGICAL CELL",
           "SAMPLE ASSAY PLAN FOR TREATMENTS"
         ],
         [
-          "follow-up",
+          "FOLLOW-UP CELL",
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],

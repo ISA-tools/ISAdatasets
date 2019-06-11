@@ -1,5 +1,5 @@
 {
-  "name": "another arm",
+  "name": "first arm",
   "groupSize": 35,
   "cells": [
     {
@@ -271,27 +271,18 @@
   "sampleAssayPlans": [
     {
       "name": "SAMPLE ASSAY PLAN FOR SCREENING",
-      "sample_types": [],
-      "assay_types": [],
-      "sample_plan": [],
-      "sample_qc_plan": [],
-      "assay_plan": []
+      "samplePlan": [],
+      "assayPlan": []
     },
     {
       "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
-      "sample_types": [],
-      "assay_types": [],
-      "sample_plan": [],
-      "sample_qc_plan": [],
-      "assay_plan": []
+      "samplePlan": [],
+      "assayPlan": []
     },
     {
       "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
-      "sample_types": [],
-      "assay_types": [],
-      "sample_plan": [],
-      "sample_qc_plan": [],
-      "assay_plan": []
+      "samplePlan": [],
+      "assayPlan": []
     }
   ],
   "mappings": [
