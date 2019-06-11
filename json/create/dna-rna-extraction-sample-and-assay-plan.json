@@ -1,18 +1,23 @@
 {
-  "nodes": [
-    {
-      "@id": "product-node/0000",
-      "@type": "isatools.create.models.ProductNode",
-      "productType": "sample",
-      "size": 3,
-      "characteristics": [
+  "name": "TEST SAMPLE AND ASSAY PLAN",
+  "samplePlan": [
         {
-          "category": "organism part",
-          "value": "tissue"
+          "@id": "product-node/0000",
+          "@type": "isatools.create.models.ProductNode",
+          "productType": "sample",
+          "size": 3,
+          "characteristics": [
+            {
+              "category": "organism part",
+              "value": "tissue"
+            }
+          ]
         }
-      ]
-    },
+  ],
+  "assayPlan": [
     {
+      "nodes": [
+            {
       "@id": "protocol-node/0000",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "DNA extraction",
@@ -25,7 +30,26 @@
       "parameters": [],
       "components": []
     },
+           {
+      "@id": "product-node/0001",
+      "@type": "isatools.create.models.ProductNode",
+      "productType": "sample",
+      "size": 3,
+      "characteristics": [
+        {
+          "category": "nucleic acid",
+          "value": "DNA"
+        }
+      ]
+    }
+      ],
+      "links": [
+        ["protocol-node/0000", "product-node/0001"]
+      ]
+    },
     {
+      "nodes": [
+            {
       "@id": "protocol-node/0001",
       "@type": "isatools.create.models.ProtocolNode",
       "name": "RNA extraction",
@@ -38,18 +62,7 @@
       "parameters": [],
       "components": []
     },
-    {
-      "@id": "product-node/0001",
-      "@type": "isatools.create.models.ProductNode",
-      "productType": "sample",
-      "size": 3,
-      "characteristics": [
-        {
-          "category": "nucleic acid",
-          "value": "DNA"
-        }
-      ]
-    },
+
     {
       "@id": "product-node/0002",
       "@type": "isatools.create.models.ProductNode",
@@ -74,12 +87,11 @@
         }
       ]
     }
-  ],
-  "links": [
-    ["product-node/0000", "protocol-node/0000"],
-    ["product-node/0000", "protocol-node/0001"],
-    ["protocol-node/0000", "product-node/0001"],
-    ["protocol-node/0001", "product-node/0002"],
-    ["protocol-node/0001", "product-node/0003"]
+      ],
+      "links": [
+        ["protocol-node/0001", "product-node/0002"],
+        ["protocol-node/0001", "product-node/0003"]
+      ]
+    }
   ]
 }
