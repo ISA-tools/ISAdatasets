@@ -1,96 +1,137 @@
 {
   "name": "TEST SAMPLE AND ASSAY PLAN",
   "samplePlan": [
+    {
+      "@id": "product-node/0000",
+      "@type": "isatools.create.models.ProductNode",
+      "name": "tissue",
+      "productType": "sample",
+      "size": 2,
+      "characteristics": [
         {
-          "@id": "product-node/0000",
+          "category": "organism part",
+          "value": "tissue"
+        }
+      ]
+    },
+    {
+      "@id": "product-node/0001",
+      "@type": "isatools.create.models.ProductNode",
+      "name": "blood",
+      "productType": "sample",
+      "size": 3,
+      "characteristics": [
+        {
+          "category": "organism part",
+          "value": "blood"
+        }
+      ]
+    }
+  ],
+  "assayPlan": [
+    {
+      "@id": "assay-graph/00",
+      "measurementType": "genomic extraction",
+      "technologyType": "nucleic acid extraction",
+      "nodes": [
+        {
+          "@id": "protocol-node/0000",
+          "@type": "isatools.create.models.ProtocolNode",
+          "name": "DNA extraction",
+          "protocolType": {
+            "term": ""
+          },
+          "description": "",
+          "uri": "",
+          "version": "1.0.0",
+          "parameterValues": [
+            {
+              "name": "instrument",
+              "value": "Maxwell RSC 48",
+              "unit": null
+            }
+          ]
+        },
+        {
+          "@id": "product-node/0002",
           "@type": "isatools.create.models.ProductNode",
+          "name": "DNA",
           "productType": "sample",
           "size": 3,
           "characteristics": [
             {
-              "category": "organism part",
-              "value": "tissue"
+              "category": "nucleic acid",
+              "value": "DNA"
             }
           ]
         }
-  ],
-  "assayPlan": [
-    {
-      "nodes": [
-            {
-      "@id": "protocol-node/0000",
-      "@type": "isatools.create.models.ProtocolNode",
-      "name": "DNA extraction",
-      "protocolType": {
-        "term": ""
-      },
-      "description": "",
-      "uri": "",
-      "version": "1.0.0",
-      "parameters": [],
-      "components": []
-    },
-           {
-      "@id": "product-node/0001",
-      "@type": "isatools.create.models.ProductNode",
-      "productType": "sample",
-      "size": 3,
-      "characteristics": [
-        {
-          "category": "nucleic acid",
-          "value": "DNA"
-        }
-      ]
-    }
       ],
       "links": [
-        ["protocol-node/0000", "product-node/0001"]
+        [
+          "protocol-node/0000",
+          "product-node/0002"
+        ]
       ]
     },
     {
+      "@id": "assay-graph/01",
+      "measurementType": "genomic extraction",
+      "technologyType": "nucleic acid extraction",
       "nodes": [
+        {
+          "@id": "protocol-node/0001",
+          "@type": "isatools.create.models.ProtocolNode",
+          "name": "RNA extraction",
+          "protocolType": {
+            "term": ""
+          },
+          "description": "",
+          "uri": "",
+          "version": "0.1",
+          "parameterValues": [
             {
-      "@id": "protocol-node/0001",
-      "@type": "isatools.create.models.ProtocolNode",
-      "name": "RNA extraction",
-      "protocolType": {
-        "term": ""
-      },
-      "description": "",
-      "uri": "",
-      "version": "0.1",
-      "parameters": [],
-      "components": []
-    },
-
-    {
-      "@id": "product-node/0002",
-      "@type": "isatools.create.models.ProductNode",
-      "productType": "sample",
-      "size": 3,
-      "characteristics": [
+              "name": "instrument",
+              "value": "Maxwell RSC 48",
+              "unit": null
+            }
+          ]
+        },
         {
-          "category": "nucleic acid",
-          "value": "mRNA"
-        }
-      ]
-    },
-    {
-      "@id": "product-node/0003",
-      "@type": "isatools.create.models.ProductNode",
-      "productType": "sample",
-      "size": 5,
-      "characteristics": [
+          "@id": "product-node/0003",
+          "@type": "isatools.create.models.ProductNode",
+          "name": "mRNA",
+          "productType": "sample",
+          "size": 3,
+          "characteristics": [
+            {
+              "category": "nucleic acid",
+              "value": "mRNA"
+            }
+          ]
+        },
         {
-          "category": "nucleic acid",
-          "value": "miRNA"
+          "@id": "product-node/0004",
+          "@type": "isatools.create.models.ProductNode",
+          "name": "miRNA",
+          "productType": "sample",
+          "size": 5,
+          "characteristics": [
+            {
+              "category": "nucleic acid",
+              "value": "miRNA"
+            }
+          ]
         }
-      ]
-    }
       ],
       "links": [
-        ["protocol-node/0001", "product-node/0002"],
-        ["protocol-node/0001", "product-node/0003"]
+        [
+          "protocol-node/0001",
+          "product-node/0003"
+        ],
+        [
+          "protocol-node/0001",
+          "product-node/0004"
+        ]
       ]
     }
   ]
