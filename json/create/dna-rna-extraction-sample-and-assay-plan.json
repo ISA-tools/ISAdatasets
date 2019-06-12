@@ -134,5 +134,13 @@
         ]
       ]
     }
-  ]
+  ],
+  "sampleToAssayMap": {
+    "product-node/0000": [
+       "assay-graph/00", "assay-graph/01"
+    ],
+    "product-node/0001": [
+      "assay-graph/00", "assay-graph/01"
+    ]
+  }
 }

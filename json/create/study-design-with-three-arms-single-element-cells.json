@@ -189,17 +189,20 @@
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         }
       ],
       "mappings": [
@@ -416,17 +419,20 @@
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         }
       ],
       "mappings": [
@@ -644,17 +650,20 @@
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "SAMPLE ASSAY PLAN FOR WASHOUT",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         },
         {
           "name": "FOLLOW-UP SAMPLE ASSAY PLAN",
           "samplePlan": [],
-          "assayPlan": []
+          "assayPlan": [],
+          "sampleToAssayMap": {}
         }
       ],
       "mappings": [
