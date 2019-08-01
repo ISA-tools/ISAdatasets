@@ -1,4 +1,4 @@
-ONTOLOGY SOURCE REFERENCE
+ ONTOLOGY SOURCE REFERENCE
 Term Source Name	"MS"	"CSEO"	"NCBITAXON"	"EFO"	"BTO"	"CHMO"	"NCIT"	"UO"	"OBI"	"PSO"	"PRO"	"MI"	"CRISP"
 Term Source File	"http://data.bioontology.org/ontologies/MS"	"http://data.bioontology.org/ontologies/CSEO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/OBI"	"http://purl.org/spar/pso"	"http://purl.org/spar/pro"	"http://purl.obolibrary.org/obo/mi.owl"	"http://purl.bioontology.org/ontology/CRISP"
 Term Source Version	"103"	"2"	"4"	"132"	"26"	"16"	"40"	"43"	"25"	""	""	""	""
@@ -72,7 +72,7 @@ Study Protocol Type Term Source REF	"CRISP"	"NCIT"	"NCIT"	"NCIT"	"OBI"	"MI"
 Study Protocol Description	""	""	""	""	""	""
 Study Protocol URI	""	""	""	""	""	""
 Study Protocol Version	""	""	""	""	""	""
-Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Instrument software;Detector mode;Spectrum representation;Inlet type;Number of scans;Scan m/z range;Detector;Instrument serial number;Raw data file checksum type;Mass analyzer;Instrument manufacturer;Raw data file format;Scan polarity;Raw data file checksum value;Instrument software version;Native spectrum identifier format;Instrument;Data file content;Time range;Ion source"	""	"Data Transformation software;Data Transformation software version"
+Study Protocol Parameters Name	""	"Post Extraction;Derivatization"	"Chromatography Instrument;Column type;Column model"	"Instrument software;Detector mode;Spectrum representation;Inlet type;Number of scans;Scan m/z range;Detector;Instrument serial number;Data file checksum type;Mass analyzer;Instrument manufacturer;Raw data file format;Scan polarity;Raw data file checksum value;Instrument software version;Native spectrum identifier format;Instrument;Data file content;Time range;Ion source"	""	"Data Transformation software;Data Transformation software version"
 Study Protocol Parameters Name Term Accession Number	""	";"	";;"	";;;;;;;;;;;;;;;;;;;"	""	";"
 Study Protocol Parameters Name Term Source REF	""	";"	";;"	";;;;;;;;;;;;;;;;;;;"	""	";"
 Study Protocol Components Name	""	""	""	""	""	""
