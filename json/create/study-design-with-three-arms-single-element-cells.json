@@ -207,7 +207,7 @@
           ]
         }
       ],
-      "sampleAssayPlans": [
+      "sampleAndAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],
@@ -459,7 +459,7 @@
           ]
         }
       ],
-      "sampleAssayPlans": [
+      "sampleAndAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],
@@ -712,7 +712,7 @@
           ]
         }
       ],
-      "sampleAssayPlans": [
+      "sampleAndAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR TREATMENTS",
           "samplePlan": [],

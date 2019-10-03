@@ -269,7 +269,7 @@
           ]
         }
       ],
-      "sampleAssayPlans": [
+      "sampleAndAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR SCREENING",
           "samplePlan": [],
@@ -616,7 +616,7 @@
           ]
         }
       ],
-      "sampleAssayPlans": [
+      "sampleAndAssayPlans": [
         {
           "name": "SAMPLE ASSAY PLAN FOR SCREENING",
           "samplePlan": [],
