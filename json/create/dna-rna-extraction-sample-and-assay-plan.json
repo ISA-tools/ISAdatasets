@@ -56,7 +56,7 @@
           "@id": "product-node/0002",
           "@type": "isatools.create.models.ProductNode",
           "name": "DNA",
-          "productType": "sample",
+          "productType": "extract",
           "size": 3,
           "characteristics": [
             {
@@ -100,7 +100,7 @@
           "@id": "product-node/0003",
           "@type": "isatools.create.models.ProductNode",
           "name": "mRNA",
-          "productType": "sample",
+          "productType": "extract",
           "size": 3,
           "characteristics": [
             {
@@ -113,7 +113,7 @@
           "@id": "product-node/0004",
           "@type": "isatools.create.models.ProductNode",
           "name": "miRNA",
-          "productType": "sample",
+          "productType": "extract",
           "size": 5,
           "characteristics": [
             {

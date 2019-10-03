@@ -303,7 +303,29 @@
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],
-      "groupSize": 35
+      "groupSize": 35,
+      "sourceType": {
+        "category": {
+          "term": "Study Subject",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41189",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        },
+        "value": {
+          "term": "Human",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        }
+      }
     },
     "second arm": {
       "cells": [
@@ -628,7 +650,29 @@
           "FOLLOW-UP SAMPLE ASSAY PLAN"
         ]
       ],
-      "groupSize": 5
+      "groupSize": 5,
+      "sourceType": {
+        "category": {
+          "term": "Study Subject",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41189",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        },
+        "value": {
+          "term": "Human",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        }
+      }
     }
   }
 }

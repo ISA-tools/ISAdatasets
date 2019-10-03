@@ -2,6 +2,28 @@
   "name": "TEST STUDY DESIGN WITH THREE ARMS",
   "studyArms": {
     "first arm": {
+      "sourceType": {
+        "category": {
+          "term": "Study Subject",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41189",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        },
+        "value": {
+          "term": "Human",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        }
+      },
       "groupSize": 10,
       "cells": [
         {
@@ -233,6 +255,28 @@
       ]
     },
     "second arm": {
+      "sourceType": {
+        "category": {
+          "term": "Study Subject",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41189",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        },
+        "value": {
+          "term": "Human",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        }
+      },
       "cells": [
         {
           "name": "SCREEN CELL",
@@ -464,6 +508,28 @@
       "groupSize": 30
     },
     "third arm": {
+      "sourceType": {
+        "category": {
+          "term": "Study Subject",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41189",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        },
+        "value": {
+          "term": "Human",
+          "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+          "termSource": {
+            "name": "NCIT",
+            "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+            "version": "19.02d",
+            "description": "NCI Thesaurus OBO Edition"
+          }
+        }
+      },
       "cells": [
         {
           "name": "SCREEN CELL",

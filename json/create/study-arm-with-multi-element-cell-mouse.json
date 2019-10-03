@@ -12,8 +12,8 @@
       }
     },
     "value": {
-      "term": "Human",
-      "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14225",
+      "term": "Mouse",
+      "termAccession": "http://purl.obolibrary.org/obo/NCIT_C14238",
       "termSource": {
         "name": "NCIT",
         "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",

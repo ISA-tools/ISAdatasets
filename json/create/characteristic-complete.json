@@ -1,0 +1,23 @@
+{
+    "category": {
+      "term": "Length",
+      "termAccession": "http://purl.obolibrary.org/obo/NCIT_C25334",
+      "termSource": {
+        "name": "NCIT",
+        "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+        "version": "19.02d",
+        "description": "NCI Thesaurus OBO Edition"
+      }
+    },
+    "value": 9.9,
+    "unit": {
+      "term": "m",
+      "termAccession": "http://purl.obolibrary.org/obo/NCIT_C41139",
+      "termSource": {
+        "name": "NCIT",
+        "file": "http://purl.obolibrary.org/obo/ncit/releases/2019-03-02/ncit.owl",
+        "version": "19.02d",
+        "description": "NCI Thesaurus OBO Edition"
+      }
+    }
+}
