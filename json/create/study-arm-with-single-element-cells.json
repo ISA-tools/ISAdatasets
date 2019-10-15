@@ -28,7 +28,7 @@
       "name": "SCREEN CELL",
       "elements": [
         {
-          "__treatment": false,
+          "isTreatment": false,
           "type": "screen",
           "factorValues": [
             {
@@ -51,7 +51,7 @@
       "name": "RUN-IN CELL",
       "elements": [
         {
-          "__treatment": false,
+          "isTreatment": false,
           "type": "run in",
           "factorValues": [
             {
@@ -74,7 +74,7 @@
       "name": "SINGLE-TREATMENT CELL",
       "elements": [
         {
-          "__treatment": true,
+          "isTreatment": true,
           "type": "chemical intervention",
           "factorValues": [
             {
@@ -118,7 +118,7 @@
       "name": "WASHOUT CELL",
       "elements": [
         {
-          "__treatment": false,
+          "isTreatment": false,
           "type": "washout",
           "factorValues": [
             {
@@ -141,7 +141,7 @@
       "name": "ANOTHER SINGLE-TREATMENT CELL",
       "elements": [
         {
-          "__treatment": true,
+          "isTreatment": true,
           "type": "chemical intervention",
           "factorValues": [
             {
@@ -185,7 +185,7 @@
       "name": "FOLLOW-UP CELL",
       "elements": [
         {
-          "__treatment": false,
+          "isTreatment": false,
           "type": "follow-up",
           "factorValues": [
             {

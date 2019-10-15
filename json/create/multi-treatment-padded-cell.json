@@ -2,7 +2,7 @@
   "name": "PADDED MULTI-ELEMENT CELL",
   "elements": [
     {
-      "__treatment": true,
+      "isTreatment": true,
       "type": "chemical intervention",
       "factorValues": [
         {
@@ -41,7 +41,105 @@
       ]
     },
     {
-      "__treatment": false,
+      "isTreatment": false,
+      "type": "washout",
+      "factorValues": [
+        {
+          "factor": {
+            "name": "DURATION",
+            "type": {
+              "term": "time"
+            }
+          },
+          "value": 30,
+          "unit": {
+            "term": "day"
+          }
+        }
+      ]
+    },
+    [
+      {
+        "isTreatment": true,
+        "type": "chemical intervention",
+        "factorValues": [
+          {
+            "factor": {
+              "name": "AGENT",
+              "type": {
+                "term": "perturbation agent"
+              }
+            },
+            "value": "alchohol"
+          },
+          {
+            "factor": {
+              "name": "INTENSITY",
+              "type": {
+                "term": "intensity"
+              }
+            },
+            "value": 5,
+            "unit": {
+              "term": "kg/m^3"
+            }
+          },
+          {
+            "factor": {
+              "name": "DURATION",
+              "type": {
+                "term": "time"
+              }
+            },
+            "value": 100.0,
+            "unit": {
+              "term": "s"
+            }
+          }
+        ]
+      },
+      {
+        "isTreatment": true,
+        "type": "chemical intervention",
+        "factorValues": [
+          {
+            "factor": {
+              "name": "AGENT",
+              "type": {
+                "term": "perturbation agent"
+              }
+            },
+            "value": "water"
+          },
+          {
+            "factor": {
+              "name": "INTENSITY",
+              "type": {
+                "term": "intensity"
+              }
+            },
+            "value": 5,
+            "unit": {
+              "term": "kg/m^3"
+            }
+          },
+          {
+            "factor": {
+              "name": "DURATION",
+              "type": {
+                "term": "time"
+              }
+            },
+            "value": 100.0,
+            "unit": {
+              "term": "s"
+            }
+          }
+        ]
+      }
+    ],
+    {
+      "isTreatment": false,
       "type": "washout",
       "factorValues": [
         {
@@ -59,107 +157,7 @@
       ]
     },
     {
-      "concomitantTreatments": [
-        {
-          "__treatment": true,
-          "type": "chemical intervention",
-          "factorValues": [
-            {
-              "factor": {
-                "name": "AGENT",
-                "type": {
-                  "term": "perturbation agent"
-                }
-              },
-              "value": "alchohol"
-            },
-            {
-              "factor": {
-                "name": "INTENSITY",
-                "type": {
-                  "term": "intensity"
-                }
-              },
-              "value": 5,
-              "unit": {
-                "term": "kg/m^3"
-              }
-            },
-            {
-              "factor": {
-                "name": "DURATION",
-                "type": {
-                  "term": "time"
-                }
-              },
-              "value": 100.0,
-              "unit": {
-                "term": "s"
-              }
-            }
-          ]
-        },
-        {
-          "__treatment": true,
-          "type": "chemical intervention",
-          "factorValues": [
-            {
-              "factor": {
-                "name": "AGENT",
-                "type": {
-                  "term": "perturbation agent"
-                }
-              },
-              "value": "water"
-            },
-            {
-              "factor": {
-                "name": "INTENSITY",
-                "type": {
-                  "term": "intensity"
-                }
-              },
-              "value": 5,
-              "unit": {
-                "term": "kg/m^3"
-              }
-            },
-            {
-              "factor": {
-                "name": "DURATION",
-                "type": {
-                  "term": "time"
-                }
-              },
-              "value": 100.0,
-              "unit": {
-                "term": "s"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "__treatment": false,
-      "type": "washout",
-      "factorValues": [
-        {
-          "factor": {
-            "name": "DURATION",
-            "type": {
-              "term": "time"
-            }
-          },
-          "value": 30,
-          "unit": {
-            "term": "day"
-          }
-        }
-      ]
-    },
-    {
-      "__treatment": true,
+      "isTreatment": true,
       "type": "chemical intervention",
       "factorValues": [
         {
@@ -198,7 +196,7 @@
       ]
     },
     {
-      "__treatment": false,
+      "isTreatment": false,
       "type": "washout",
       "factorValues": [
         {

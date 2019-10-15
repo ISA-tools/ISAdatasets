@@ -2,7 +2,7 @@
   "name": "SINGLE-TREATMENT CELL",
   "elements": [
       { 
-        "__treatment": true, 
+        "isTreatment": true,
         "type": "chemical intervention", 
         "factorValues": [
           {
