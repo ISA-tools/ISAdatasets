@@ -353,127 +353,125 @@
         {
           "name": "MULTI-ELEMENT CELL BIO-DIET",
           "elements": [
-            {
-              "concomitantTreatments": [
-                {
-                  "isTreatment": true,
-                  "type": "chemical intervention",
-                  "factorValues": [
-                    {
-                      "factor": {
-                        "name": "INTENSITY",
-                        "type": {
-                          "term": "intensity"
-                        }
-                      },
-                      "value": 5,
-                      "unit": {
-                        "term": "kg/m^3"
+            [
+              {
+                "isTreatment": true,
+                "type": "chemical intervention",
+                "factorValues": [
+                  {
+                    "factor": {
+                      "name": "INTENSITY",
+                      "type": {
+                        "term": "intensity"
                       }
                     },
-                    {
-                      "factor": {
-                        "name": "DURATION",
-                        "type": {
-                          "term": "time"
-                        }
-                      },
-                      "value": 100.0,
-                      "unit": {
-                        "term": "s"
-                      }
-                    },
-                    {
-                      "factor": {
-                        "name": "AGENT",
-                        "type": {
-                          "term": "perturbation agent"
-                        }
-                      },
-                      "value": "water"
+                    "value": 5,
+                    "unit": {
+                      "term": "kg/m^3"
                     }
-                  ]
-                },
-                {
-                  "isTreatment": true,
-                  "type": "chemical intervention",
-                  "factorValues": [
-                    {
-                      "factor": {
-                        "name": "AGENT",
-                        "type": {
-                          "term": "perturbation agent"
-                        }
-                      },
-                      "value": "nitroglycerin"
-                    },
-                    {
-                      "factor": {
-                        "name": "DURATION",
-                        "type": {
-                          "term": "time"
-                        }
-                      },
-                      "value": 100.0,
-                      "unit": {
-                        "term": "s"
+                  },
+                  {
+                    "factor": {
+                      "name": "DURATION",
+                      "type": {
+                        "term": "time"
                       }
                     },
-                    {
-                      "factor": {
-                        "name": "INTENSITY",
-                        "type": {
-                          "term": "intensity"
-                        }
-                      },
-                      "value": 5,
-                      "unit": {
-                        "term": "kg/m^3"
-                      }
+                    "value": 100.0,
+                    "unit": {
+                      "term": "s"
                     }
-                  ]
-                },
-                {
-                  "isTreatment": true,
-                  "type": "chemical intervention",
-                  "factorValues": [
-                    {
-                      "factor": {
-                        "name": "DURATION",
-                        "type": {
-                          "term": "time"
-                        }
-                      },
-                      "value": 100.0,
-                      "unit": {
-                        "term": "s"
+                  },
+                  {
+                    "factor": {
+                      "name": "AGENT",
+                      "type": {
+                        "term": "perturbation agent"
                       }
                     },
-                    {
-                      "factor": {
-                        "name": "INTENSITY",
-                        "type": {
-                          "term": "intensity"
-                        }
-                      },
-                      "value": 5,
-                      "unit": {
-                        "term": "kg/m^3"
+                    "value": "water"
+                  }
+                ]
+              },
+              {
+                "isTreatment": true,
+                "type": "chemical intervention",
+                "factorValues": [
+                  {
+                    "factor": {
+                      "name": "AGENT",
+                      "type": {
+                        "term": "perturbation agent"
                       }
                     },
-                    {
-                      "factor": {
-                        "name": "AGENT",
-                        "type": {
-                          "term": "perturbation agent"
-                        }
-                      },
-                      "value": "alchohol"
+                    "value": "nitroglycerin"
+                  },
+                  {
+                    "factor": {
+                      "name": "DURATION",
+                      "type": {
+                        "term": "time"
+                      }
+                    },
+                    "value": 100.0,
+                    "unit": {
+                      "term": "s"
                     }
-                  ]
-                }
-              ]
-            },
+                  },
+                  {
+                    "factor": {
+                      "name": "INTENSITY",
+                      "type": {
+                        "term": "intensity"
+                      }
+                    },
+                    "value": 5,
+                    "unit": {
+                      "term": "kg/m^3"
+                    }
+                  }
+                ]
+              },
+              {
+                "isTreatment": true,
+                "type": "chemical intervention",
+                "factorValues": [
+                  {
+                    "factor": {
+                      "name": "DURATION",
+                      "type": {
+                        "term": "time"
+                      }
+                    },
+                    "value": 100.0,
+                    "unit": {
+                      "term": "s"
+                    }
+                  },
+                  {
+                    "factor": {
+                      "name": "INTENSITY",
+                      "type": {
+                        "term": "intensity"
+                      }
+                    },
+                    "value": 5,
+                    "unit": {
+                      "term": "kg/m^3"
+                    }
+                  },
+                  {
+                    "factor": {
+                      "name": "AGENT",
+                      "type": {
+                        "term": "perturbation agent"
+                      }
+                    },
+                    "value": "alchohol"
+                  }
+                ]
+              }
+            ],
             {
               "isTreatment": false,
               "type": "washout",
