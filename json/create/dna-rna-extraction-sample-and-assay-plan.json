@@ -3,7 +3,6 @@
   "samplePlan": [
     {
       "@id": "product-node/0000",
-      "@type": "isatools.create.models.ProductNode",
       "name": "tissue",
       "productType": "sample",
       "size": 2,
@@ -16,7 +15,6 @@
     },
     {
       "@id": "product-node/0001",
-      "@type": "isatools.create.models.ProductNode",
       "name": "blood",
       "productType": "sample",
       "size": 3,
@@ -36,7 +34,6 @@
       "nodes": [
         {
           "@id": "protocol-node/0000",
-          "@type": "isatools.create.models.ProtocolNode",
           "name": "DNA extraction",
           "protocolType": {
             "term": ""
@@ -54,7 +51,6 @@
         },
         {
           "@id": "product-node/0002",
-          "@type": "isatools.create.models.ProductNode",
           "name": "DNA",
           "productType": "extract",
           "size": 3,
@@ -80,7 +76,6 @@
       "nodes": [
         {
           "@id": "protocol-node/0001",
-          "@type": "isatools.create.models.ProtocolNode",
           "name": "RNA extraction",
           "protocolType": {
             "term": ""
@@ -98,7 +93,6 @@
         },
         {
           "@id": "product-node/0003",
-          "@type": "isatools.create.models.ProductNode",
           "name": "mRNA",
           "productType": "extract",
           "size": 3,
@@ -111,7 +105,6 @@
         },
         {
           "@id": "product-node/0004",
-          "@type": "isatools.create.models.ProductNode",
           "name": "miRNA",
           "productType": "extract",
           "size": 5,
