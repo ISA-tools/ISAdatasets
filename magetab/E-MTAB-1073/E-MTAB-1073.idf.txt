@@ -1,0 +1,33 @@
+Comment[ArrayExpressAccession]	E-MTAB-1073
+Investigation Title	Pairing of Homologous Regions in the Mouse Genome Is Associated with Transcription but not Imprinting Status																																				
+Comment[Submitted Name]	Pairing of Homologous Regions in the Mouse Genome Is Associated with Transcription but not Imprinting Status
+Experiment Description	Allele-specific 4C-sequencing																																				
+Experimental Design	individual_genetic_characteristics_design	in_vivo_design	genotyping_design																																		
+Comment[AEExperimentType]	DNA-seq																																				
+Comment[AEExperimentDisplayName]	DNA-seq of M. musculusliver and placenta mouse cells to investigate pairing of homologous regions in the mouse genome, associated with transcription but not imprinting satus																																				
+Experimental Factor Name	genotype	barcode	organism part	phenotype																																	
+Experimental Factor Type	genotype	barcode	organism part	phenotype																																	
+Quality Control Type	biological_replicate																																				
+Public Release Date	2012-11-01																																				
+Person Last Name	Krueger																																				
+Person First Name	Felix																																				
+Person Mid Initials																																					
+Person Email	felix.krueger@babraham.ac.uk																																				
+Person Phone																																					
+Person Address	Cambridge, CB22 3AT																																				
+Person Affiliation	The Babraham Institute																																				
+Person Roles	submitter																																				
+PubMed ID																																					
+Publication Author List																																					
+Publication Title	Pairing of Homologous Regions in the Mouse Genome Is Associated with Transcription but not Imprinting Status																																				
+Publication Status	submitted																																				
+Protocol Name	P-MTAB-26280	P-MTAB-26281	P-MTAB-26282	P-MTAB-26283
+Protocol Type	specified_biomaterial_action	extraction	sequencing	image_acquisition																																	
+Protocol Description	3C material was generated using BglII as a restriction enzyme. The bait fragment (Chr7: 150474507-150484686, NCBIM37) encompasses the whole KvDMR1, and was enriched by streptavidin pulldown of a biotinylated primer extension product using primer KvDMR-4C-ext as described in Schoenfelder et al., 2010. 	The 4-cutter Csp6I was used to cut within the prey region and create uniform ends for adapter ligation. A SNP at Chr7:150474522 (B6: T, SD7: C) was used to discriminate between alleles.	Sequencing was performed as paired-end reads on the Illumina GAIIx platform. The first read (38 bp) contained 4C prey fragments and the second read (76 bp) contained a barcode as well as the allele-specific 4C KvDMR bait.    	Sequence pairs were screened for presence of bait in the second read and sorted according to sample and allelic origin. The prey end sequence reads used as input for ASAP (which uses Bowtie for alignments) were 38 bp and alignments were performed allowing 2 mismatches (ASAP parameters: -q --phred64-quals -n 2 -l 38 -k 2 --best --chunkmbs 256). SD7 mice carry M. spretus sequence at the distal end of chromosome 7. A ‘partial M. spretus genome’ for use in ASAP was assembled by using BAC sequences (CH35_ 17P24, CH35_35H19, CH35_76I5, CH35_123K8, CH35_374F13, CH35_391C2). The M. musculus (B6) and M. spretus sequences differ not only by an array of SNPs, but also by various structural variations. ASAP takes all these variations into account and returns a subset of reads which are specific for one particular allele. 																																	
+Protocol Hardware			Illumina Genome Analyzer IIx																																		
+Protocol Term Source REF	ArrayExpress	ArrayExpress	ArrayExpress	ArrayExpress																																	
+Term Source Name	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/ArrayExpress																																				
+Comment[SecondaryAccession]	ERP001966																																				
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR196159-ERR196166																																				
+SDRF File	E-MTAB-1073.sdrf.txt

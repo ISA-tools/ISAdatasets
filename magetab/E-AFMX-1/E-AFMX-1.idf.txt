@@ -1,0 +1,48 @@
+Investigation Title	Transcription profiling of human, chimp and mouse brain	
+Comment[Submitted Name]	Khaitovich: A Neutral Model of Transcriptome Evolution	
+Experimental Design	species_design	transcription profiling by array	
+Experimental Design Term Source REF	mo	EFO	
+Comment[ArrayExpressReleaseDate]		
+Comment[AEMIAMESCORE]	3	
+Comment[ArrayExpressAccession]	E-AFMX-1	
+Comment[MAGETAB TimeStamp_Version]	2011-01-21 17:58:39 Last Changed Rev: 14857	
+Experimental Factor Name	Organism	
+Experimental Factor Type	organism	
+Experimental Factor Term Source REF	
+Person Last Name	Khaitovich	
+Person First Name	Philipp	
+Person Mid Initials	
+Person Email	khaitovich@eva.mpg.de	
+Person Phone	 49 341 3550 520	
+Person Fax	 49 341 3550 555	
+Person Address	Deutscher Platz 6	
+Person Affiliation	Evolutionary Genetics	
+Person Roles	submitter	
+Person Roles Term Source REF	mo	
+Quality Control Type	
+Quality Control Term Source REF	
+Replicate Type	
+Replicate Term Source REF	
+Normalization Type	
+Normalization Term Source REF	
+Date of Experiment	
+Public Release Date	
+PubMed ID	15138501	
+Publication DOI	15138501	
+Publication Author List	Philipp Khaitovich, Gunter Weiss, Michael Lachmann, Ines Hellmann, Wolfgang Enard, Bjoern Muetzel, Ute Wirkner, Wilhelm Ansorge, Svante Pääbo	
+Publication Title	A Neutral Model of Transcriptome Evolution	
+Publication Status	journal_article	
+Publication Status Term Source REF	mo	
+Experiment Description	Microarray technologies allow the identification of large numbers of expression differences within and between species. Although environmental and physiological stimuli are clearly responsible for changes in the expression levels of many genes, it is not known whether the majority of changes of gene expression fixed during evolution between species and between various tissues within a species are caused by Darwinian selection or by stochastic processes. We find the following: (1) expression differences between species accumulate approximately linearly with time; (2) gene expression variation among individuals within a species correlates positively with expression divergence between species; (3) rates of expression divergence between species do not differ significantly between intact genes and expressed pseudogenes; (4) expression differences between brain regions within a species have accumulated approximately linearly with time since these regions emerged during evolution. These results suggest that the majority of expression differences observed between species are selectively neutral or nearly neutral and likely to be of little or no functional significance. Therefore, the identification of gene expression differences between species fixed by selection should be based on null hypotheses assuming functional neutrality. Furthermore, it may be possible to apply a molecular clock based on expression differences to infer the evolutionary history of tissues.	
+Protocol Name	P-AFFY-1	P-AFFY-2	Affymetrix:Protocol:Hybridization-EukGE-WS2v4[]	Affymetrix:Protocol:Percentile	
+Protocol Type	nucleic_acid_extraction	labeling	hybridization	feature_extraction	
+Protocol Description	Title: Trizol extraction. Description: 	Title: Affymetrix in vitro transcription. Description: 	Title: Affymetrix EukGE-WS2v4 Hybridization. Description: 	Title: Affymetrix CEL Analysis (Percentile). Description: 	
+Protocol Parameters	
+Protocol Hardware	
+Protocol Software			MicroArraySuite 5.0	MicroArraySuite 5.0	
+Protocol Contact	
+Protocol Term Source REF			mo	
+SDRF File	E-AFMX-1.sdrf.txt	
+Term Source Name	mo		ArrayExpress	ncbitax	mo	EFO	
+Term Source File	http://mged.sourceforge.net/ontologies/MGEDontology.php		http://www.ebi.ac.uk/arrayexpress	http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://www.ebi.ac.uk/efo/	
+Term Source Version							

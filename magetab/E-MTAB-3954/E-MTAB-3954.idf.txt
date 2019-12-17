@@ -1,0 +1,38 @@
+Comment[ArrayExpressAccession]	E-MTAB-3954
+MAGE-TAB Version	1.1												
+Investigation Title	Transcriptional binding patterns involved in promoter-enhancer interactions.												
+Comment[Submitted Name]	Transcriptional binding patterns involved in promoter-enhancer interactions.
+Experiment Description	This study was designed to be able to determine the interactions between promoter and enhancer elements in the haematopoietic stem/progenitor cell line HPC-7. The next step was to investigate if specific transcription factors could be associated with looping events and to determine if there was co-operative binding involved.												
+Experimental Design	observational design												
+Experimental Design Term Source REF	EFO												
+Experimental Design Term Accession Number	EFO_0000629												
+Experimental Factor Name	sequencing type												
+Experimental Factor Type	sequencing type												
+Experimental Factor Term Source REF													
+Experimental Factor Term Accession Number													
+Experimental Design													
+Person Last Name	Hannah	Wilson	Gottgens										
+Person First Name	Rebecca	Nicola	Berthold										
+Person Mid Initials	L												
+Person Email	rlh60@cam.ac.uk	nkw22@cam.ac.uk	bg200@cam.ac.uk										
+Person Phone													
+Person Fax													
+Person Address													
+Person Affiliation	University of Cambridge												
+Person Roles	submitter	experiment performer	investigator										
+Date of Experiment	2015-09-17												
+Public Release Date	2017-09-18												
+Protocol Name	P-MTAB-47021	P-MTAB-47022	P-MTAB-47023	P-MTAB-47024	P-MTAB-47025	P-MTAB-47026	P-MTAB-47027	P-MTAB-47028	P-MTAB-47029	P-MTAB-47030	P-MTAB-47031	P-MTAB-47032	P-MTAB-47033
+Protocol Type	growth protocol	nucleic acid extraction protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	nucleic acid sequencing protocol	high throughput sequence alignment protocol	normalization data transformation protocol	normalization data transformation protocol	normalization data transformation protocol	normalization data transformation protocol	normalization data transformation protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003789	EFO_0002944	EFO_0002944	EFO_0004184	EFO_0004184	EFO_0004170	EFO_0004170	EFO_0004917	EFO_0003816	EFO_0003816	EFO_0003816	EFO_0003816	EFO_0003816
+Protocol Description	HPC-7 cells (Pinto do O et al., 1998) were grown in Stem Cell Factor.	As described in Wilson et al., Cell Stem Cell. 2010 Oct 8;7(4):532-44	Hi-C and CHi-C was performed as described previously (Schoenfelder et al., 2015).	Sequencing libraries were prepared using the Illumina TruSeq ChIP Sample Prep Kit and according to the manufactures instructions.	 Sequencing libraries were prepared according to the manufactures instructions. 	Libraries were sequenced on an Illumina platform (2G Genome Analyzer, HiSeq 2000 or HiSeq 2500).	Capture Hi-C libraries were paired-end sequenced	Reads aligned to mm10 using Bowtie than converted from SAM to BED format using BEDTools.	bedGraphs created using bedtools then converted to bigWigs using UCSC utilities.	In-house scripts used to count cut sites in windows of 75, sliding by 20bp bins, bedGraphs created using bedtools then converted to bigWigs using UCSC utilities.	Peaks called using MACS2, using IgG sample as a control.	Peaks called using F-Seq.	Capture HiC Analysis of Genomic Organisation (CHiCAGO) pipeline
+Protocol Hardware						Illumina HiSeq 2500	Illumina HiSeq 1000						
+Protocol Software													
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/												
+Term Source Version													
+Comment[AEExperimentType]	ChIP-seq												
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR1088371-ERR1101762	http://www.ebi.ac.uk/ena/data/view/ERR1101762-ERR1101762
+Comment[SecondaryAccession]	ERP012882
+SDRF File	E-MTAB-3954.sdrf.txt

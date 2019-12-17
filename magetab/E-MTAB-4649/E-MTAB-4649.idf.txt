@@ -1,0 +1,33 @@
+Comment[ArrayExpressAccession]	E-MTAB-4649
+MAGE-TAB Version	1.1
+Investigation Title	Whole genome sequencing of Burkholderia contaminans sequential isolates
+Comment[Submitted Name]	Whole genome sequencing of Burkholderia contaminans sequential isolates
+Experiment Description	The data represent whole genome sequencing of two sequential isolates of B. contaminans ST872 that have been retrieved form a cystic fibrosis patient during different phases of chronic pulmonary infection.
+Experimental Factor Name	isolate details	sampling site
+Experimental Factor Type	isolate details	sampling site
+Experimental Factor Term Source REF		
+Experimental Factor Term Accession Number		
+Person Last Name	Nunvar
+Person First Name	Jaroslav
+Person Mid Initials	
+Person Email	jaroslav.nunvar@lfmotol.cuni.cz
+Person Phone	
+Person Fax	
+Person Address	V Uvalu 84 150 06 Prague Czech Republic
+Person Affiliation	Department of Medical Microbiology, 2nd Faculty of Medicine, Charles University in Prague and Motol University Hospital
+Person Roles	submitter
+Public Release Date	2016-05-13
+Protocol Name	P-MTAB-49559	P-MTAB-49560	P-MTAB-49561
+Protocol Type	sample collection protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol
+Protocol Term Source REF	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0004184	EFO_0004170
+Protocol Description	Single colony isolate from cystic fibrosis patient	Nextera XT DNA Library Preparation Kit	MiSeq v2 2x150 bp readings
+Protocol Hardware			Illumina MiSeq
+Protocol Software			
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/
+Term Source Version	
+Comment[AEExperimentType]	whole chromosome random sequencing
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR1395654-ERR1395655
+Comment[SecondaryAccession]	ERP015407
+SDRF File	E-MTAB-4649.sdrf.txt
