@@ -1,0 +1,179 @@
+{
+    "measurement_type": {
+        "term":"metabolite profiling",
+        "iri": "http://purl.obolibrary.org/obo/OBI_0000366",
+        "source": null
+    },
+    "technology_type": {
+        "term": "mass spectrometry",
+        "iri": "http://purl.obolibrary.org/obo/OBI_0000470",
+        "source": null
+    },
+    "workflow": [
+        [
+            {
+                "term": "measurement_type",
+                "iri": "http://www.ebi.ac.uk/efo/EFO_0001444",
+                "source": null
+            },
+            {
+                "term":"metabolite profiling",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0000366",
+                "source": null
+            }
+        ],
+        [   {
+                "term": "technology_type",
+                "iri": "http://www.ebi.ac.uk/efo/EFO_0005521",
+                "source": null
+            },
+            {
+                "term": "mass spectrometry",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0000470",
+                "source": null
+            }
+        ],
+        [
+            {
+                "term":"extraction",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0302884",
+                "source": null
+            },
+            {}
+        ],
+        [
+            {
+                "term": "extract",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0000423"
+            },
+            [
+                {
+                    "node_type": "extract",
+                    "characteristics_category": {
+                        "term": "extract type",
+                        "iri": null,
+                        "source": null
+                    },
+                    "characteristics_value": {
+                        "term": "polar fraction",
+                        "iri": null,
+                        "source": null
+                    },
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                },
+                {
+                    "node_type": "extract",
+                    "characteristics_category": {
+                        "term": "extract type",
+                        "iri": null,
+                        "source": null
+                    },
+                    "characteristics_value": {
+                        "term": "lipids",
+                        "iri": null,
+                        "source": null
+                    },
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                }
+            ]
+        ],
+        [
+            {
+                "term": "labelling",
+                "iri": "http://purl.obolibrary.org/obo/CHMO_0001675",
+                "source": null
+            },
+            {
+                "#replicates": 2
+            }
+        ],
+        [
+            {
+                "term": "labelled extract",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0000924",
+                "source": null
+            },
+            [
+                {
+                    "node_type": "labeled extract",
+                    "characteristics_category": {
+                        "term": "labelled extract type",
+                        "iri": null,
+                        "source": null
+                    },
+                    "characteristics_value": {
+                        "term": "",
+                        "iri": null,
+                        "source": null
+                    },
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                }
+            ]
+        ],
+        [
+            {
+                "term": "mass spectrometry",
+                "iri": "http://purl.obolibrary.org/obo/OBI_0200085",
+                "source": null
+            },
+            {
+                "#replicates": 2,
+                "instrument": [
+                    {
+                        "term":"Agilent QTQF 6510",
+                        "iri": "http://purl.obolibrary.org/obo/MS_1000676",
+                        "source": null
+                    },
+                    {
+                        "term":"Agilent QTQF 6520A",
+                        "iri": "http://purl.obolibrary.org/obo/MS_1000677",
+                        "source": null
+                    }
+                ],
+                "injection_mode": [
+                    {
+                        "term":"FIA",
+                        "iri": "http://purl.obolibrary.org/obo/MS_1000058",
+                        "source": null
+                    },
+                    {
+                        "term": "LC",
+                        "iri": null,
+                        "source": null
+                    }
+                ],
+                "acquisition_mode": [
+                    {
+                        "term":"positive mode",
+                        "iri": "http://purl.obolibrary.org/obo/MS_1002807",
+                        "source": null
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "term": "raw spectral data file",
+                "iri": "http://purl.obolibrary.org/obo/MS_1003083",
+                "source": null
+            },
+            [
+                {
+                    "node_type": "data file",
+                    "size": 2,
+                    "is_input_to_next_protocols": false
+                }
+            ]
+        ]
+    ],
+    "@context": {
+        "measurement_type": "http://purl.obolibrary.org/obo/NCIT_C25209",
+        "technology_type": "http://www.ebi.ac.uk/efo/EFO_0005521",
+        "instrument": "http://purl.obolibrary.org/obo/MS_1000463",
+        "injection_mode": "http://purl.obolibrary.org/obo/MS_1000007",
+        "acquisition_mode": "http://purl.obolibrary.org/obo/MS_1000027"
+    }
+}
