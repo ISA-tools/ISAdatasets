@@ -50,7 +50,7 @@
                 "instrument": [
                     "Agilent QTQF 6510"
                 ],
-                "injection_modgite": [
+                "injection_mode": [
                     "FIA",
                     "LC"
                 ],

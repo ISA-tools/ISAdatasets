@@ -12,29 +12,6 @@
     "workflow": [
         [
             {
-                "term": "measurement_type",
-                "iri": "http://www.ebi.ac.uk/efo/EFO_0001444",
-                "source": null
-            },
-            {
-                "term":"metabolite profiling",
-                "iri": "http://purl.obolibrary.org/obo/OBI_0000366",
-                "source": null
-            }
-        ],
-        [   {
-                "term": "technology_type",
-                "iri": "http://www.ebi.ac.uk/efo/EFO_0005521",
-                "source": null
-            },
-            {
-                "term": "mass spectrometry",
-                "iri": "http://purl.obolibrary.org/obo/OBI_0000470",
-                "source": null
-            }
-        ],
-        [
-            {
                 "term":"extraction",
                 "iri": "http://purl.obolibrary.org/obo/OBI_0302884",
                 "source": null
@@ -44,7 +21,8 @@
         [
             {
                 "term": "extract",
-                "iri": "http://purl.obolibrary.org/obo/OBI_0000423"
+                "iri": "http://purl.obolibrary.org/obo/OBI_0000423",
+                "source": null
             },
             [
                 {
@@ -125,11 +103,6 @@
                     {
                         "term":"Agilent QTQF 6510",
                         "iri": "http://purl.obolibrary.org/obo/MS_1000676",
-                        "source": null
-                    },
-                    {
-                        "term":"Agilent QTQF 6520A",
-                        "iri": "http://purl.obolibrary.org/obo/MS_1000677",
                         "source": null
                     }
                 ],
