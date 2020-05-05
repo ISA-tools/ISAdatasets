@@ -1,0 +1,56 @@
+{
+    "measurement_type": "metabolite profiling",
+    "technology_type": "nmr spectroscopy",
+    "workflow": [
+        [
+            "extraction",
+            {}
+        ],
+        [
+            "extract",
+            [
+                {
+                    "node_type": "extract",
+                    "characteristics_category": "extract type",
+                    "characteristics_value": "supernatant",
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                },
+                {
+                    "node_type": "extract",
+                    "characteristics_category": "extract type",
+                    "characteristics_value": "pellet",
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                }
+            ]
+        ],
+        [
+            "nmr spectroscopy",
+            {
+                "#replicates": 2,
+                "instrument": [
+                    "Bruker AvanceII 1 GHz"
+                ],
+                "pulse_sequence": [
+                    "CPMG",
+                    "watergate"
+                ],
+                "acquisition_mode": [
+                    "1D 13C NMR",
+                    "2D 13C-13C NMR"
+                ]
+            }
+        ],
+        [
+            "raw spectral data file",
+            [
+                {
+                    "node_type": "data file",
+                    "size": 1,
+                    "is_input_to_next_protocols": false
+                }
+            ]
+        ]
+    ]
+}
