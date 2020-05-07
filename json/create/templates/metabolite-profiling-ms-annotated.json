@@ -29,7 +29,7 @@
                     "node_type": "extract",
                     "characteristics_category": {
                         "term": "extract type",
-                        "iri": null,
+                        "iri": "http://purl.obolibrary.org/obo/NCIT_C82948",
                         "source": null
                     },
                     "characteristics_value": {
@@ -44,7 +44,7 @@
                     "node_type": "extract",
                     "characteristics_category": {
                         "term": "extract type",
-                        "iri": null,
+                        "iri": "http://purl.obolibrary.org/obo/NCIT_C82948",
                         "source": null
                     },
                     "characteristics_value": {
@@ -78,7 +78,7 @@
                     "node_type": "labeled extract",
                     "characteristics_category": {
                         "term": "labelled extract type",
-                        "iri": null,
+                        "iri": "http://purl.obolibrary.org/obo/NCIT_C43386",
                         "source": null
                     },
                     "characteristics_value": {
