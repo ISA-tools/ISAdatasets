@@ -2596,7 +2596,7 @@
         }
       ],
       "publicReleaseDate": "2008-08-15",
-      "identifier": "BII-S-3",
+      "identifier": "#study/BII-S-3",
       "filename": "s_BII-S-3.txt",
       "description": "Sequencing the metatranscriptome can provide information about the response of organisms to varying environmental conditions. We present a methodology for obtaining random whole-community mRNA from a complex microbial assemblage using Pyrosequencing. The metatranscriptome had, with minimum contamination by ribosomal RNA, significant coverage of abundant transcripts, and included significantly more potentially novel proteins than in the metagenome. This experiment is part of a much larger experiment. We have produced 4 454 metatranscriptomic datasets and 6 454 metagenomic datasets. These were derived from 4 samples.",
       "materials": {
