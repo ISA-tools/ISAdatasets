@@ -1,0 +1,31 @@
+Comment[ArrayExpressAccession]	E-MTAB-1653
+MAGE-TAB Version	1.1																						
+Investigation Title	Human Embryonic Stem Cells Polysomes																						
+Comment[Submitted Name]	Human Embryonic Stem Cells Polysomes
+Experiment Description	H1s are induced to differentiate into the trophoblast (TE) lineage, and polysome analysis performed at 0hr (Undifferentiated), 12hr TE and 24hr TE. The whole cell extract (WCE) is a cytoplasmic lysate of the cell . G1-G4 represent RNAs that were found in different fractions of a sucrose gradient, which represents monosomes, polysomes, etc. Thus the WCE is used as the denominator so that for a particular transcript, we can express G1, for example, as a fraction of the total RNA.																						
+Experimental Design	development or differentiation design	in_vitro_design	translational bias design	time series design																			
+Comment[AEExperimentType]	translation profiling																						
+Comment[AEExperimentDisplayName]	Translation profiling by array of H1 human embryonic stem cells induced to differentiate into the trophoblast lineage in order to perform polysome analysis																						
+Experimental Factor Name	time	cell type																					
+Experimental Factor Type	time	cell type																					
+Quality Control Type	biological replicate																						
+Quality Control Term Source REF	EFO																						
+Public Release Date	2014-10-29																						
+Person Last Name	Tan																						
+Person First Name	Shen Mynn																						
+Person Mid Initials																							
+Person Email	mynntan@gmail.com																						
+Person Phone																							
+Person Address																							
+Person Affiliation	Boston Children's Hospital, Harvard Medical School																						
+Person Roles	submitter																						
+PubMed ID																							
+Publication Author List	Shen Mynn Tan, Gabriel Altschuler, Tian Yun Zhao, Haw Siang Ang, Henry Yang, Bing Lim, Leah Vardy, Winston Hide, Andrew M Thomson and Ricky Lareu																						
+Publication Title	LIN28 suppresses translation by both increasing and decreasing association with distinct sets of transcripts upon hESC Differentiation																						
+Publication Status	submitted																						
+Protocol Name	P-MTAB-32555	P-MTAB-32556	P-MTAB-32557	P-MTAB-32558	P-MTAB-32559	P-MTAB-32560
+Protocol Type	growth protocol	treatment protocol	nucleic acid extraction protocol	nucleic acid labeling protocol	nucleic acid hybridization to array protocol	array scanning protocol																	
+Protocol Description	Human ESCs were cultured on 1112BM Biomatrix with MEF-conditioned media for 10 passages.	Differentiation (T12 or T24)	Whole cell extract (WCE) and polysomal RNA samples were extracted by standard Trizol and ethanol precipitation	cRNA libraries were prepared with Ambion kit	Standard Illumina protocol	Standard Illumina protocol																	
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo																						
+SDRF File	E-MTAB-1653.sdrf.txt

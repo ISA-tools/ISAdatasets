@@ -1,0 +1,30 @@
+Comment[ArrayExpressAccession]	E-MTAB-584
+Investigation Title	FAIRE-seq																											
+Comment[Submitted Name]	FAIRE-seq
+Experiment Description	Formaldehyde-Assisted Isolation of Regulatory Elements (FAIRE) in U2OS cells detected by SOLiD sequencing																											
+Experimental Design	high_throughput_sequencing_design	binding_site_identification_design	in_vitro_design																									
+Comment[AEExperimentType]	DNA-seq																											
+Experimental Factor Name	INDIVIDUAL																											
+Experimental Factor Type	individual																											
+Quality Control Type	biological_replicate																											
+Public Release Date	2012-01-20																											
+Person Last Name	Donaldson																											
+Person First Name	Ian																											
+Person Mid Initials	J																											
+Person Email	ian.donaldson@manchester.ac.uk																											
+Person Phone																												
+Person Address	University of Manchester, Manchester, UK																											
+Person Affiliation	University of Manchester																											
+Person Roles	submitter																											
+PubMed ID																												
+Publication Author List																												
+Publication Title																												
+Publication Status																												
+Protocol Name	P-MTAB-19704	P-MTAB-19705	P-MTAB-19706	P-MTAB-19707	P-MTAB-19708
+Protocol Type	grow	specified_biomaterial_action	sequencing	DATA_GENERATION	alignment																							
+Protocol Description	U2OS cells, were grown in DMEM supplemented with 10% foetal bovine serum.	FAIRE was performed as described previously (Giresi et al., 2007; Eeckhoute et al., 2009) with slight modifications. 5 x 107 U2OS cells were cross-linked with 1% formaldehyde for 10 min at room temperature. The same amount of non-cross-linked cells was used as control. Glycine was added to a final concentration of 125 mM and the cells were rinsed with cold PBS and harvested by scraping into cold PBS containing protease inhibitors. Cells were then lysed with lysis buffer (2% Triton X-100, 1% SDS, 100 mM NaCl, 10 mM Tris-Cl at pH 8.0, 1 mM EDTA) containing a protease inhibitor cocktail (Roche) and sonicated for 15 min (30 sec on/off cycles) using a Bioruptor (Diagenode) set up at the highest intensity. After centrifugation at 13,000g for 10 min at 4C to precipitate cellular debris, 50 ul lysate were taken as input control. The soluble chromatin was isolated and subjected to three consecutive phenol-chloroform extractions (Sigma, P3803). Each time, the aqueous phase was recovered and mixed with an equal volume of phenol-chloroform. After vortexing, the mixture was centrifuged at 13,000g for 5 min and the aqueous phase was recovered. Samples were then incubated overnight at 65C to reverse cross linking. DNA was finally purified using a PCR purification kit (QIAGEN). DNA were quantified using a Nanodrop and 5 ng DNA was used as qPCR templates. 	1 ug was sequenced using the SOLiD platform according to the manufacturers protocols. 	SOLiD pipeline producing    SOLiD_native_csfasta and  SOLiD_native_qual files	The Corona-Lite software (ABI) was used to align reads against the hg18 reference genome. All 50bp were aligned allowing up and including 5 mismatches. Reads aligning to multiple locations were discarded.																							
+Protocol Hardware			AB SOLiD 4 System																									
+Comment[SecondaryAccession]	ERP000567																											
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR031605-ERR031606																											
+Comment[ENA_SAMPLE]	ERS025869-ERS025870																											
+SDRF File	E-MTAB-584.sdrf.txt

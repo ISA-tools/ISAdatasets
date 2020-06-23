@@ -1,0 +1,26 @@
+Comment[ArrayExpressAccession]	E-MTAB-621
+Investigation Title	MECP2 ChIP-chip and MeDIP-chip experiments																		
+Comment[Submitted Name]	MECP2 ChIP-chip and MeDIP-chip experiments
+Experiment Description	Comparison of MYCN and MECP2 genome wide  binding sites in the neuroblastoma genome 																		
+Experimental Design	individual_genetic_characteristics_design	in_vitro_design	binding_site_identification_design																
+Comment[AEExperimentType]	ChIP-chip by array	methylation profiling by array																	
+Experimental Factor Name	IMMUNOPRECIPITATE																		
+Experimental Factor Type	immunoprecipitate																		
+Quality Control Type	technical_replicate																		
+Public Release Date	2012-04-05																		
+Person Last Name	Murphy																		
+Person First Name	Derek																		
+Person Mid Initials	M																		
+Person Email	derekmurphy3@rcsi.ie																		
+Person Phone	3531-4022712																		
+Person Address																			
+Person Affiliation	RCSI																		
+Person Roles	submitter																		
+PubMed ID																			
+Publication Author List	Derek M Murphy  Patrick G Buckley, Sudipto Das Karen M WattersKenneth Bryan and Raymond L Stallings																		
+Publication Title	Co-localization of the oncogenic transcription factor MYCN and the DNA methyl binding protein MECP2 at genomic sites in neuroblastoma 																		
+Publication Status	submitted																		
+Protocol Name	P-MTAB-23776	P-MTAB-23777	P-MTAB-23778	P-MTAB-23779	P-MTAB-23780	P-MTAB-23781	P-MTAB-23782	P-MTAB-23783
+Protocol Type	grow	Chromatin_isolation	nucleic_acid_extraction	ChIP	MeDIP	labeling	hybridization	image_acquisition											
+Protocol Description	Cultured in RPMI-1640 supplemented with 2mM glutamine, 10% fetal bovine serum and penicillin/streptomycin.	Chromatin was extracted as described by Nimblegens ChIP-chip protocol	DNA was extracted from cell lines and primary tumors using the DNAeasy kit from Qiagen	Chromatin was immunnoprecipitated  (as described by Li Z et al., PNAS, 2003)	Methylated DNA was immuno captured (as described by Weber et al., Nat Genet, 2005)	DNA labelled using Cy3 and Cy5 labelled random primers (as per Nimblegen DNA methylation analysis protocol v6.0)	Hybridization conditions were  performed as described in the Nimblegen  ChIP-chip analysis protocol v6.0	Scanning was performed using the Axon 4000B scanner and image data analysed using GenePix 6.0											
+SDRF File	E-MTAB-621.sdrf.txt

@@ -1,0 +1,146 @@
+{
+  "type": "here you can describe your type of design",
+  "elements": [
+    {
+      "id": "#element/screen",
+      "name": "screen",
+      "type": "screen",
+      "duration": 7,
+      "durationUnit": "days"
+    },
+    {
+      "id": "#element/first_treatment",
+      "name": "first treatment",
+      "type": "chemical intervention",
+      "agent": "test drug",
+      "intensity": 10,
+      "intensityUnit": "mg/day",
+      "duration": 30,
+      "durationUnit": "days"
+    },
+    {
+      "id": "#element/surgical_treatment",
+      "name": "surgical treatment",
+      "type": "surgical intervention",
+      "agent": "surgery"
+    },
+    {
+      "id": "#element/follow-up",
+      "name": "follow-up",
+      "type": "follow-up",
+      "duration": 3,
+      "durationUnit": "months"
+    },
+    {
+      "id": "#element/control_treatment",
+      "name": "control treatment",
+      "type": "chemical intervention",
+      "agent": "placebo",
+      "intensity": 10,
+      "intensityUnit": "mg/day",
+      "duration": 30,
+      "durationUnit": "days"
+    }
+  ],
+  "events": [
+    {
+      "id": "#event/sampling_0",
+      "action": "sampling",
+      "input": "subject",
+      "output": "liver sample",
+      "outputSize": 1
+    },
+    {
+      "id": "#event/sampling_1",
+      "action": "sampling",
+      "input": "subject",
+      "output": "blood sample",
+      "outputSize": 3
+    },
+    {
+      "id": "#event/assay_0",
+      "action": "assay",
+      "template": null
+    },
+    {
+      "id": "#event/assay_1",
+      "action": "assay",
+      "template": null
+    }
+  ],
+  "arms": [
+    {
+      "id": "#arm/treatment",
+      "name": "treatment",
+      "subjectType": "Human",
+      "size": 10,
+      "epochs": [
+        {
+          "elements": [
+            "#element/screen"
+          ],
+          "events": []
+        },
+        {
+          "elements": [
+            "#element/first_treatment"
+          ],
+          "events": []
+        },
+        {
+          "elements": [
+            "#element/surgical_treatment"
+          ],
+          "events": [
+            "#event/sampling_0",
+            "#event/assay_0"
+          ]
+        },
+        {
+          "elements": [
+            "#element/follow-up"
+          ],
+          "events": [
+            "#event/sampling_1",
+            "#event/assay_0",
+            "#event/assay_1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "#arm/control",
+      "name": "control",
+      "subjectType": "Homo Sapiens",
+      "size": 8,
+      "epochs": [
+        {
+          "elements": [
+            "#element/screen"
+          ],
+          "events": []
+        },
+        {
+          "elements": [
+            "#element/control_treatment"
+          ],
+          "events": []
+        },
+        {
+          "elements": [],
+          "events": []
+        },
+        {
+          "elements": [
+            "#element/follow-up"
+          ],
+          "events": [
+            "#event/sampling_1",
+            "#event/assay_0",
+            "#event/assay_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

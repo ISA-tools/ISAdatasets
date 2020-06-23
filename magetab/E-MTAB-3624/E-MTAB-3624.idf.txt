@@ -1,0 +1,46 @@
+Comment[ArrayExpressAccession]	E-MTAB-3624
+MAGE-TAB Version	1.1																																		
+Investigation Title	Single-cell transcriptome sequencing from mouse mTECs (additional data)																																		
+Comment[Submitted Name]	Single-cell transcriptome sequencing from mouse mTECs (additional data)
+Experiment Description	Promiscuous gene expression (pGE) of tissue-restricted antigens in medullary thyme ephitelial cells (mTECs) is essential for self-tolerance induction and to prevent autoimmunity. We sequenced single mTEC transcriptomes to explore gene expression heterogeneity and to discover patterns of regulation of pGE.  This data set complements what's submitted earlier, under ArrayExpress accession E-MTAB-3346 ( http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3346/ ).																																		
+Experimental Design	population based design																																		
+Experimental Design Term Source REF	EFO																																		
+Experimental Design Term Accession Number	EFO_0001430																																		
+Experimental Factor Name	phenotype	individual																																	
+Experimental Factor Type	phenotype	individual																																	
+Experimental Factor Term Source REF																																			
+Experimental Factor Term Accession Number																																			
+Person Last Name	Reyes																																		
+Person First Name	Alejandro																																		
+Person Mid Initials																																			
+Person Email	alejandro.reyes@embl.de																																		
+Person Phone																																			
+Person Fax																																			
+Person Address																																			
+Person Affiliation	EMBL Heidelberg																																		
+Person Roles	submitter																																		
+Date of Experiment	2015-06-03																																		
+Public Release Date	2016-01-21																																		
+PubMed ID	26237553																																		
+Publication DOI	10.1038/ni.3246																																		
+Publication Author List	Brennecke P, Reyes A, Pinto S, Rattay K, Nguyen M, Küchler R, Huber W, Kyewski B, Steinmetz LM																																		
+Publication Title	Single-cell transcriptome analysis reveals coordinated ectopic gene-expression patterns in medullary thymic epithelial cells.																																		
+Publication Status	published																																		
+Publication Status Term Source REF	EFO																																		
+Publication Status Term Accession Number	EFO_0001796																																		
+Protocol Name	P-MTAB-45031	P-MTAB-45032	P-MTAB-45033	P-MTAB-45034	P-MTAB-45035
+Protocol Type	sample collection protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol																														
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO																														
+Protocol Term Accession Number	EFO_0005518	EFO_0004184	EFO_0004170	EFO_0004184	EFO_0004170																														
+Protocol Description	Human mTECs were processed as in Pinto et al, 2013. Mouse mTECs were isolated and purified as described previously (Rattay et al, 2015). The pre-enriched stromal cell fraction, sorted for total mTECs (n = 259 cells) was stained using the following antibodies: anti-CD45-PerCP (clone 30-F11, BD Pharmingen), anti-EpCAM-Alexa647 (G8.8, described by Farr et al ), anti-CDR1-Pacific Blue or anti-Ly51-FITC (CDR1 hybridoma, described by Rouse et al ; clone 6C3, BD Biosciences).  For the antigen-specific mTECs Tspan8 (n = 48) and Ceacam1 (n = 30) additional antibodies were added to the antibody mix namely: anti-I-A(b)-FITC (clone AF6-120.1, BD Pharmingen), anti-Tspan8-PE (clone 657909, RandD Systems) and anti-CD66a-PE (i.e., anti-Ceacam1, clone CC1, eBioscience). Dead cells were excluded using propidium iodide (PI) in a final concentration of 0.2 ug/ml. Cells were sorted on BD FACSAria(TM) III cell sorter (BD Biosciences) using the single-cell sorting mode as previously described (Derbinski et al, 2008)	We used a modified version of Smrt-seq2. We used 19 cycles of initial PCR amplification and used a ratio of 0.6:1 (instead of a 1:1 ratio) of Ampure XP beads (Beckman Coulter) for the first PCR purification to minimize primer dimer carryover. After the first PCR amplification, cDNA libraries were screened via qPCR (we used a 1:10 dilution of purified cDNA libraries for qPCR reactions) for expression of a mouse housekeeping gene (Ubc), and library size distribution was checked on the Bioanalyzer instrument (Agilent) as reported previously . Only cDNA libraries that passed both quality controls were processed further. We used 100 pg of cDNA for the tagmentation reaction and applied 12 cycles for the final enrichment PCR of adapter-ligated fragments. The last purification step was performed using a 0.8:1 ratio of Ampure SPRIselect beads (Beckman Coulter).	We multiplexed 24 samples per Illumina HiSeq 2500 lane and used 100 bp paired-end sequencing.	Human mTEC subsets (surface TRA positive and surface TRA depleted cells) were isolated and FACS sorted as described elsewhere(Pinto et al, 2013). ATAC-seq experiments were performed as reported previously (Buenrostro et al) with the following modifications: 15,000 â 50,000 pooled cells (depending on mTEC subset frequencies) were sorted in PBS (5 percent FCS) and used for ATAC-seq experiments. We used 50 percent of each purified tagmentation reaction for the enrichment PCR (without 5 cycle pre-amplification). Enrichment PCRs were monitored individually using a StepOnePlus Real-Time PCR System (Life Technologies) and the amplification reaction was stopped as soon as amplification approached saturation. After the enrichment PCR, we performed a gel extraction (QIAquick Gel Extraction Kit, QIAGEN) to remove primer dimer.	Final multiplexed sequencing libraries were quantified using qPCR and pooled on a MiSeq lane. 76 bp paired-end sequencing was used on a MiSeq Sequencing System (Illumina).																														
+Protocol Hardware			Illumina HiSeq 2500		Illumina HiSeq 2500																														
+Protocol Software																																			
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/																																		
+Term Source Version																																			
+Comment[AEExperimentType]	RNA-seq of coding RNA from single cells																																		
+Comment[AdditionalFile:fa]	E-MTAB-3624_spike_in_sequences.fa																																		
+Comment[AdditionalFile:txt]	E-MTAB-3624_spike_in_concentration.txt																																		
+Comment[SecondaryAccession]	ERP010760																																		
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR920972-ERR921007																																		
+SDRF File	E-MTAB-3624.sdrf.txt

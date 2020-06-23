@@ -1,0 +1,33 @@
+Comment[ArrayExpressAccession]	E-MTAB-2143
+MAGE-TAB Version	1.1																											
+Investigation Title	Application of Histone Interacting Domains as an Alternative to Antibodies (CIDOP-seq)																											
+Comment[Submitted Name]	Application of Histone Interacting Domains as an Alternative to Antibodies (CIDOP-seq)
+Experiment Description	Application of Histone Modification Interacting Domains (HMIDs) as an Alternative to Antibodies. HMIDs and antibodies (taken from ENCODE) were used for precipitation of native chromatin (mononucleosomes) in order to study distinct histone marks. HMIDs used in this study are MPP8 Chromo domains and ATRX ADD (as H3K9me3 binders), Dnmt3a PWWP (as H3K36me3 binder) and CBX7 Chromo (as H3K27me3 binder).																											
+Experimental Design	in_vitro_design	binding site identification design																										
+Comment[AEExperimentType]	unknown experiment type																											
+Experimental Factor Name	reading domain																											
+Experimental Factor Type	reading domain																											
+Public Release Date	2014-02-06																											
+Person Last Name	Kungulovski																											
+Person First Name	Goran																											
+Person Mid Initials																												
+Person Email	goran.kungulovski@ibc.uni-stuttgart.de																											
+Person Phone																												
+Person Address	Institute of Biochemistry, Pfaffenwaldring 55, 70565 Stuttgart, Germany																											
+Person Affiliation	University of Stuttgart																											
+Person Roles	submitter																											
+PubMed ID																												
+Publication Author List																												
+Publication Title	Application of Histone Modification Specific Interacting Domains as an Alternative to Antibodies																											
+Publication Status																												
+Protocol Name	P-MTAB-36486	P-MTAB-36487	P-MTAB-36488	P-MTAB-39142	P-MTAB-39143	P-MTAB-36490	P-MTAB-36491
+Protocol Type	growth protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	nucleic acid sequencing protocol	normalization data transformation protocol	normalization data transformation protocol																					
+Protocol Description	HepG2 cells were grown following ENCODE guidelines	Chromatin IP kit (Active Motif)	15-60 micrograms of mononucleosomes were incubated overnight with HMIDs and were washed 1x High Salt Buffer, 1x Low Salt Buffer, 1x LiCl Buffer and 2x TE buffer, eluted in 1% SDS and DNA was extracted with Chromatin IP kit (Active Motif)	Standard Illumina library preparation	Standard Illumina library preparation	 Bowtie 2 mismatches were allowed, duplicates were removed, mapped to Homo sapiens (Hg19)	Peak calling with SICER 																					
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO	EFO																					
+Protocol Hardware				Illumina HiSeq 2000	Illumina HiSeq 2500																							
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo																											
+Comment[SecondaryAccession]	ERP004430																											
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR385811-ERR385815																											
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR504751-ERR504754																											
+SDRF File	E-MTAB-2143.sdrf.txt

@@ -1,0 +1,35 @@
+Comment[ArrayExpressAccession]	E-MTAB-3336
+MAGE-TAB Version	1.1
+Investigation Title	Expression analysis of microRNA in P7 Aldh1l1-EGFP cells
+Comment[Submitted Name]	Expression analysis of microRNA in P7 Aldh1l1-EGFP cells
+Experiment Description	Aldh1l1-EGFP cells were FACS and isolated from postnatal day 7 mouse forebrains.  Total RNAs were then isolated and analyzed for microRNA expression.
+Experimental Design	cell type comparison design	development or differentiation design
+Experimental Design Term Source REF	EFO	EFO
+Experimental Design Term Accession Number	EFO_0001745	EFO_0001746
+Experimental Factor Name	genotype
+Experimental Factor Type	genotype
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000513
+Person Last Name	Howng
+Person First Name	Bruce
+Person Mid Initials	
+Person Email	sybh@hotmail.com
+Person Phone	
+Person Fax	
+Person Address	
+Person Affiliation	
+Person Roles	submitter
+Date of Experiment	2014-02-20
+Public Release Date	2015-02-24
+Protocol Name	P-MTAB-43412	P-MTAB-43413	P-MTAB-43414	P-MTAB-43415	P-MTAB-43416
+Protocol Type	normalization data transformation protocol	nucleic acid extraction protocol	nucleic acid labeling protocol	growth protocol	nucleic acid hybridization to array protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003816	EFO_0002944	EFO_0003813	EFO_0003789	EFO_0003815
+Protocol Description	Samples were normalized to U6 expressions that were detected on the detector's plate.	trizol RNA isolation	Taqman, FAM	Cells were isolated from forebrains of P7 mice	Dried primers on plates
+Protocol Hardware					
+Protocol Software					
+Term Source Name	ArrayExpress	EFO
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/
+Term Source Version		
+Comment[AEExperimentType]	transcription profiling by RT-PCR
+SDRF File	E-MTAB-3336.sdrf.txt

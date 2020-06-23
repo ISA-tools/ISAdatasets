@@ -1,0 +1,73 @@
+{
+    "measurement_type": "metabolite profiling",
+    "technology_type": "mass spectrometry",
+    "workflow": [
+        [
+            "extraction",
+            {}
+        ],
+        [
+            "extract",
+            [
+                {
+                    "node_type": "extract",
+                    "characteristics_category": "extract type",
+                    "characteristics_value": "polar fraction",
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                },
+                {
+                    "node_type": "extract",
+                    "characteristics_category": "extract type",
+                    "characteristics_value": "lipids",
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                }
+            ]
+        ],
+        [
+            "labelling",
+            {
+                "#replicates": 2
+            }
+        ],
+        [
+            "labelled extract",
+            [
+                {
+                    "node_type": "labeled extract",
+                    "characteristics_category": "labelled extract type",
+                    "characteristics_value": "",
+                    "size": 1,
+                    "is_input_to_next_protocols": true
+                }
+            ]
+        ],
+        [
+            "mass spectrometry",
+            {
+                "#replicates": 2,
+                "instrument": [
+                    "Agilent QTQF 6510"
+                ],
+                "injection_mode": [
+                    "FIA",
+                    "LC"
+                ],
+                "acquisition_mode": [
+                    "positive mode"
+                ]
+            }
+        ],
+        [
+            "raw spectral data file",
+            [
+                {
+                    "node_type": "data file",
+                    "size": 2,
+                    "is_input_to_next_protocols": false
+                }
+            ]
+        ]
+    ]
+}

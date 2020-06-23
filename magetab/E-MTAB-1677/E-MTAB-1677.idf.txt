@@ -1,0 +1,32 @@
+Comment[ArrayExpressAccession]	E-MTAB-1677
+MAGE-TAB Version	1.1																						
+Investigation Title	Transcription profiling of Listeria monocytogenes EGD wild type, Listeria monocytogenes EGD-e wild-type and EGD-e PrfA*, all grown in BHI at 37C																						
+Comment[Submitted Name]	Transcription profiling of Listeria monocytogenes EGD wild type, Listeria monocytogenes EGD-e wild-type and EGD-e PrfA*, all grown in BHI at 37C
+Experiment Description	Comparison of Listeria monocytogenes transcripts in different strains (EGD wild-type versus EGD-e wild-type, EGD-e PrfA* versus EGD-e wild-type).																						
+Experimental Design	species design	co-expression_design	replicate design	all pairs																			
+Comment[AEExperimentType]	transcription profiling by tiling array																						
+Comment[AEExperimentDisplayName]	Transcription profiling by tiling array of Listeria monocytogenes EGD wild type, Listeria monocytogenes EGD-e wild-type and EGD-e PrfA*																						
+Experimental Factor Name	organism	genotype																					
+Experimental Factor Type	organism	genotype																					
+Quality Control Type	technical replicate																						
+Quality Control Term Source REF	EFO																						
+Public Release Date	2013-08-01																						
+Person Last Name	Becavin	Cossart																					
+Person First Name	Christophe	Pascale																					
+Person Mid Initials																							
+Person Email	christophe.becavin@pasteur.fr	pascale.cossart@pasteur.fr																					
+Person Phone	33 1 40613779	33 1 45688841																					
+Person Address	Cell Biology and Infection, 25 rue du Dr Roux, Paris, IDF, 75015, France	Cell Biology and Infection, 25 rue du Dr Roux, Paris, IDF, 75015, France																					
+Person Affiliation	Institut Pasteur	Institut Pasteur																					
+Person Roles	submitter	submitter																					
+PubMed ID																							
+Publication Author List																							
+Publication Title																							
+Publication Status																							
+Protocol Name	P-MTAB-33430	P-MTAB-33431	P-MTAB-33432	P-MTAB-33433
+Protocol Type	growth protocol	nucleic acid extraction protocol	nucleic acid labeling protocol	normalization data transformation protocol																			
+Protocol Description	Bacterial overnight cultures were diluted in BHI and bacteria were grown until OD = 1.	After washing in PBS, the bacterial pellets were resuspended in 400 ml solution A (1/2 Glucose 20% + 1/2 vol Tris 25mM pH 7.6 + EDTA 10mM) to which an additional 60 ml of 0.5M EDTA was added. RNAs were subsequently extracted using classical TRIzol/chloroform protocol as described previously (Toledo-Arana et al., 2009). 	Sample preparation for each chip was then processed following the Affymetrix GeneChip Expression Analysis Technical Manual (P/N 702232 Rev. 2) as previously described (Toledo-Arana et al., 2009).	Tiling arrays were normalized using DNA reference normalization (Huber, Toedling, & Steinmetz, 2006) against a wild-type strain grown in BHI at 37 degrees generating log-transformed expression values. Median expression of tiling data was adjusted to zero. 																			
+Protocol Term Source REF	EFO	EFO	EFO	EFO																			
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo	http://www.ebi.ac.uk/arrayexpress																					
+SDRF File	E-MTAB-1677.sdrf.txt

@@ -1,0 +1,35 @@
+Comment[ArrayExpressAccession]	E-MTAB-1963				
+MAGE-TAB Version	1.1				
+Investigation Title	Transcriptional landscape, long non-coding RNAs and post-transcriptional regulation in hematopoietic stem/progenitor cell differentiation				
+Comment[Submitted Name]	Transcriptional landscape, long non-coding RNAs and post-transcriptional regulation in hematopoietic stem/progenitor cell differentiation				
+Experiment Description	Hematopoietic stem cells (HSC) possess life-long self-renewal activity and generate a series of multipotent progenitors that differentiate into lineage-committed progenitors and subsequently mature cells. Recently, functionally distinct stem and progenitor cell types have been identified, however, a systems-wide understanding of the underlying gene regulation is lacking. Here, we present the global transcriptome of ex vivo isolated mouse multipotent hematopoietic stem/progenitor cells (HSPCs, LinnegSca-1+c-Kit+) and myeloid committed precursors (LinnegSca-1-c-Kit+) as revealed by next-generation sequencing (RNA-seq).				
+Experimental Design	development_or_differentiation_design	ex_vivo_design	co-expression_design		
+Comment[AEExperimentType]	RNA-seq of coding RNA				
+Experimental Factor Name	cell type				
+Experimental Factor Type	cell type				
+Quality Control Type	biological replicate				
+Quality Control Term Source REF	EFO				
+Public Release Date	2014-10-08				
+Person Last Name	Reyes				
+Person First Name	Alejandro				
+Person Mid Initials					
+Person Email	alejandro.reyes@embl.de				
+Person Phone	+49(0)62213878169				
+Person Address	Meyerhofstrasse 1, DE-69117 Heidelberg, Germany				
+Person Affiliation	EMBL				
+Person Roles	submitter				
+Publication Author List	Daniel Klimmeck, Nina Cabezas-Wallscheid, Alejandro Reyes, Lisa von Paleske, Jenny Hansson, Jeroen Krijgsveld, Wolfgang Huber, Andreas Trumpp				
+Publication Title	Transcriptional landscape, long non-coding RNAs and post-transcriptional regulation in hematopoietic stem/progenitor cell differentiation				
+PubMed ID	25418729				
+Publication DOI	10.1016/j.stemcr.2014.08.012				
+Protocol Name	P-MTAB-35353	P-MTAB-35354	P-MTAB-35355	P-MTAB-35356	P-MTAB-35357
+Protocol Type	Flow cytometry	nuceic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	high throughput sequence alignment protocol
+Protocol Description	Bone marrow was isolated from hindlegs (femur, tibia), hips (ilium) and backbone (vertebra). Muscle, connective tissue and spinal cord were removed, bones were crushed in RPMI/ 2 percent FBS (Gibco, Carlsbad, CA) using mortar and pestle. Single cell-suspensions were made by flushing through a 40 um filter mesh. Cell numbers and viability were determined using a ViCell Counter (Beckman Coulter, Brea, CA). To deplete lineage-positive cells, total bone marrow was stained 30 minutes with a combination of the following monoclonal rat antibodies directed against mature cell specific lineage markers: anti-CD4 (clone GK1.5), anti-CD8a (53.6.7), anti-CD11b (M1/70), anti-B220 (RA3.6B2), anti-GR1 (RB6.8C5) and anti-TER119 (Ter119). Labeled cells were incubated for 20 minutes with polyclonal sheep anti-rat IgG coated magnetic Dynabeads (Invitrogen, Hercules, CA) at a ratio 2:1 beads to cell and depleted using a magnet, enriching for the lineage-negative (Linneg) cell fraction. Beads were washed twice with RPMI/ 2 percent FBS to harvest residual cell fractions. Centrifugation steps were carried out at 1,500 rpm and 4 degrees C for 5 minutes (5810r, Eppendorf, Hamburg, Germany). To specify multipotent and myeloid progenitor fractions, the Linneg fraction was stained 30 minutes using the following rat monoclonal fluorochrome-coupled antibodies: anti-CD4 (GK1.5), anti-CD8a (53.6.7), anti-CD11b (M1/70), anti-B220 (RA3-6B2), anti-Gr1 (RB6.8C5) and anti-Ter119, all phycoerythrobilin-cyanine dye 7 (PE-Cy7) conjugated; anti-CD117/c-Kit (2B8)- PE; anti-Sca-1 (D7)-Alexa700. Lineage antibodies for depletion of mature effector cells were purified and conjugated in our laboratory according to standard protocols. Monoclonal antibody conjugates were purchased from eBioscience (San Diego, CA) or BioLegend (San Diego, CA). All antibodies were titrated prior to use. Cell sorting was performed on a FACS Aria I or FACS Aria II (Becton Dickinson, San Jose, CA) at the DKFZ Flow Cytometry Service Unit, Heidelberg, Germany. The following sort parameters were used: 70 um nozzle; 15,000 evt/s.; 70 psi. Multipotent hematopoietic stem/progenitor cells (LS+K)  and myeloid comitted progenitor cells (LS-K) were obtained by sorting LinnegSca-1+c-Kit+ and LinnegSca-1+c-Kit-, respectively, in biological triplicate. Sorted cells were collected into ice-cold RNA lysis buffer (ARCTURUS(R) PicoPure(R) RNA Isolation Kit (Life Technologies, Invitrogen)) and stored at -80 degrees C until further usage. Of note, to determine sample's purity we re-sorted a fraction of each population (each population showed a purity greater than 95 percent).	Total RNA isolation was performed from the indicated populations using ARCTURUS(R) PicoPure(R) RNA Isolation Kit (Life Technologies, Invitrogen) according to the manufacturer's instructions. DNAse treatment was performed using RNAse-free DNAse Set (Qiagen). Total RNA was used for quality controls and for normalization of starting material. 	cDNA-libraries were generated with 10 ng of total RNA using the SMARTer(TM) Ultra Low RNA Kit for Illumina Sequencing (Clontech) according to the manufacturer's indications. Of note, twelve cycles were used for the amplification of cDNA respectively. Paired-end adaptors were applied to each population. 	Sequencing was performed with the HiSeq2000 device (Illumina) and one sample per lane.	RNA-seq reads were aligned to the reference genome of Mus musculus GRcm38 from ENSEMBL release 69 (Flicek et al. 2013), using GSNAP version 2012-07-20. Only uniquely aligned fragments were allowed.
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Protocol Hardware				Illumina HiSeq 2000	
+Term Source Name	EFO	ArrayExpress			
+Term Source File	http://www.ebi.ac.uk/efo	http://www.ebi.ac.uk/arrayexpress			
+Comment[SecondaryAccession]	ERP004089				
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR356437-ERR356442				
+Comment[AEExperimentDisplayName]	Transcription profiling by high throughput sequencing between multipotent hematopoietic stem progenitor cells LS+K) and myeloid committed cells (LS−K) of the mouse bone marrow				
+SDRF File	E-MTAB-1963.sdrf.txt				
