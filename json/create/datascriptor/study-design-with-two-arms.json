@@ -72,7 +72,7 @@
     {
       "id": "#arm/treatment",
       "name": "treatment",
-      "subjectType": "Human",
+      "subjectType": "Homo Sapiens",
       "size": 10,
       "epochs": [
         {
