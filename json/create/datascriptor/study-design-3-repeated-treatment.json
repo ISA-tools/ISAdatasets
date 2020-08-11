@@ -710,7 +710,7 @@
           [
             "extract",
             {
-              "node_type": "EXTRACT",
+              "node_type": "extract",
               "characteristics_category": "extract type",
               "characteristics_value": {
                 "options": [
@@ -737,7 +737,7 @@
           [
             "labelled extract",
             {
-              "node_type": "LABELED_EXTRACT",
+              "node_type": "labeled extract",
               "characteristics_category": "labelled extract type",
               "characteristics_value": {
                 "options": [],
@@ -787,7 +787,7 @@
           [
             "raw spectral data file",
             {
-              "node_type": "DATA_FILE",
+              "node_type": "data file",
               "is_input_to_next_protocols": {
                 "value": true
               }
@@ -933,7 +933,7 @@
               "iri": "http://purl.obolibrary.org/obo/OBI_0000423"
             },
             {
-              "node_type": "EXTRACT",
+              "node_type": "extract",
               "characteristics_category": {
                 "term": "extract type",
                 "iri": null,
@@ -978,7 +978,7 @@
               "source": null
             },
             {
-              "node_type": "LABELED_EXTRACT",
+              "node_type": "labeled extract",
               "characteristics_category": {
                 "term": "labelled extract type",
                 "iri": null,
@@ -1052,7 +1052,7 @@
               "source": null
             },
             {
-              "node_type": "DATA_FILE",
+              "node_type": "data file",
               "is_input_to_next_protocols": {
                 "value": true
               }
@@ -1190,7 +1190,7 @@
           [
             "extract",
             {
-              "node_type": "EXTRACT",
+              "node_type": "extract",
               "characteristics_category": "extract type",
               "characteristics_value": {
                 "options": [
@@ -1238,7 +1238,7 @@
           [
             "raw_spectral_data_file",
             {
-              "node_type": "DATA_FILE",
+              "node_type": "data file",
               "size": 1,
               "is_input_to_next_protocols": {
                 "value": false
