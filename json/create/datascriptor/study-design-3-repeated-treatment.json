@@ -740,8 +740,12 @@
               "node_type": "labeled extract",
               "characteristics_category": "labelled extract type",
               "characteristics_value": {
-                "options": [],
-                "values": []
+                "options": [
+                  "biotin","cy-5","cy-3"
+                ],
+                "values": [
+                  "biotin"
+                ]
               },
               "is_input_to_next_protocols": {
                 "value": true
@@ -985,8 +989,30 @@
                 "source": null
               },
               "characteristics_value": {
-                "options": [],
-                "values": []
+                "options": [
+                  {
+                    "term": "biotin",
+                    "iri": null,
+                    "source": null
+                  },
+                  {
+                    "term": "cy-5",
+                    "iri": null,
+                    "source": null
+                  },
+                  {
+                    "term": "cy-3",
+                    "iri": null,
+                    "source": null
+                  }
+                ],
+                "values": [
+                  {
+                    "term": "cy-3",
+                    "iri": null,
+                    "source": null
+                  }
+                ]
               },
               "is_input_to_next_protocols": {
                 "value": true
