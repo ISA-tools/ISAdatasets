@@ -22,6 +22,16 @@
       }
     }
   },
+  "sourceCharacteristics": [
+    {
+      "category": "age group",
+      "value": "old"
+    },
+    {
+      "category": "sex",
+      "value": "M"
+    }
+  ],
   "groupSize": 10,
   "cells": [
     {
