@@ -323,7 +323,17 @@
             "description": "NCI Thesaurus OBO Edition"
           }
         }
-      }
+      },
+      "sourceCharacteristics": [
+        {
+          "category": "age group",
+          "value": "old"
+        },
+        {
+          "category": "sex",
+          "value": "M"
+        }
+      ]
     },
     "second arm": {
       "cells": [
@@ -668,7 +678,17 @@
             "description": "NCI Thesaurus OBO Edition"
           }
         }
-      }
+      },
+      "sourceCharacteristics": [
+        {
+          "category": "age group",
+          "value": "old"
+        },
+        {
+          "category": "sex",
+          "value": "F"
+        }
+      ]
     }
   }
 }

@@ -24,6 +24,16 @@
           }
         }
       },
+      "sourceCharacteristics": [
+        {
+          "category": "age group",
+          "value": "old"
+        },
+        {
+          "category": "sex",
+          "value": "M"
+        }
+      ],
       "groupSize": 10,
       "cells": [
         {
@@ -277,6 +287,16 @@
           }
         }
       },
+      "sourceCharacteristics": [
+        {
+          "category": "age group",
+          "value": "old"
+        },
+        {
+          "category": "sex",
+          "value": "F"
+        }
+      ],
       "cells": [
         {
           "name": "SCREEN CELL",
@@ -530,6 +550,16 @@
           }
         }
       },
+      "sourceCharacteristics": [
+        {
+          "category": "age group",
+          "value": "young"
+        },
+        {
+          "category": "sex",
+          "value": "M"
+        }
+      ],
       "cells": [
         {
           "name": "SCREEN CELL",
