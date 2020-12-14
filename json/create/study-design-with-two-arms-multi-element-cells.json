@@ -1,5 +1,7 @@
 {
   "name": "TEST STUDY DESIGN WITH TWO ARMS (MULTI-ELEMENT CELLS)",
+  "description": "This is a study design with two multi-element arms",
+  "designType": "unspecified design",
   "studyArms": {
     "first arm": {
       "cells": [

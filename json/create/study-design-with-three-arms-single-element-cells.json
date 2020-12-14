@@ -1,4 +1,6 @@
 {
+  "description": "This is a study design with three single-element arms",
+  "designType": "unspecified design",
   "name": "TEST STUDY DESIGN WITH THREE ARMS",
   "studyArms": {
     "first arm": {
