@@ -62,7 +62,7 @@
       "elements": [
         {
           "isTreatment": false,
-          "type": "run in",
+          "type": "run-in",
           "factorValues": [
             {
               "factor": {
