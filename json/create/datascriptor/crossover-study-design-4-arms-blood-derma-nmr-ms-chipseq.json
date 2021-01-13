@@ -1013,6 +1013,11 @@
             "node_type": "data file",
             "is_input_to_next_protocols": {
               "value": true
+            },
+            "extension": {
+              "options": [],
+              "value": "mzML",
+              "newValues": true
             }
           }
         ]
