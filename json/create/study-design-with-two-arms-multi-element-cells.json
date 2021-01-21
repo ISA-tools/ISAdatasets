@@ -328,11 +328,15 @@
       },
       "sourceCharacteristics": [
         {
-          "category": "age group",
+          "category":  {
+            "term": "age group"
+          },
           "value": "old"
         },
         {
-          "category": "sex",
+          "category":  {
+            "term": "sex"
+          },
           "value": "M"
         }
       ]
@@ -683,11 +687,15 @@
       },
       "sourceCharacteristics": [
         {
-          "category": "age group",
+          "category": {
+            "term":"age group"
+          },
           "value": "old"
         },
         {
-          "category": "sex",
+          "category": {
+            "term":"sex"
+          },
           "value": "F"
         }
       ]

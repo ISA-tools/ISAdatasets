@@ -8,7 +8,9 @@
       "size": 2,
       "characteristics": [
         {
-          "category": "organism part",
+          "category": {
+            "term":"organism part"
+          },
           "value": "tissue"
         }
       ]
@@ -20,7 +22,9 @@
       "size": 3,
       "characteristics": [
         {
-          "category": "organism part",
+          "category": {
+            "term":"organism part"
+          },
           "value": "blood"
         }
       ]
@@ -56,7 +60,9 @@
           "size": 3,
           "characteristics": [
             {
-              "category": "nucleic acid",
+              "category": {
+                "term":"nucleic acid"
+              },
               "value": "DNA"
             }
           ]
@@ -98,7 +104,9 @@
           "size": 3,
           "characteristics": [
             {
-              "category": "nucleic acid",
+              "category": {
+                "term": "nucleic acid"
+              },
               "value": "mRNA"
             }
           ]
@@ -110,7 +118,9 @@
           "size": 5,
           "characteristics": [
             {
-              "category": "nucleic acid",
+              "category":  {
+                "term":"nucleic acid"
+              },
               "value": "miRNA"
             }
           ]
