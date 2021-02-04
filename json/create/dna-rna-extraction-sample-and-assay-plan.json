@@ -47,7 +47,9 @@
           "version": "1.0.0",
           "parameterValues": [
             {
-              "name": "instrument",
+              "name": {
+                "term": "instrument"
+              },
               "value": "Maxwell RSC 48",
               "unit": null
             }
@@ -91,7 +93,9 @@
           "version": "0.1",
           "parameterValues": [
             {
-              "name": "instrument",
+              "name": {
+                "term": "instrument"
+              },
               "value": "Maxwell RSC 48",
               "unit": null
             }
