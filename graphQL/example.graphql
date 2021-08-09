@@ -1,0 +1,178 @@
+query getRawDataFiles(
+    $technologyType: ID
+    $measurementType: ID
+    $fileType: ID
+    $protocol: ID
+    $compound: ID
+    $dose1: ID
+    $dose2: ID
+    $material: ID
+){
+    investigation {
+        studies {
+            assays(
+                filters: {
+                    technologyType: { eq: $technologyType }
+                    measurementType: { eq: $measurementType }
+                    executesProtocol: { in: $protocol }
+                    treatmentGroup: [
+                        {
+                            name: { eq: "compound" }
+                            value: { eq: $compound }
+                        }
+                        {
+                            name: { eq: "dose" }
+                            value: { eq: $dose1 }
+                        }
+                    ]
+                }
+            ) { ... assay }
+        }
+    }
+
+    q1: assays(
+        operator: "OR"
+        filters: {
+            technologyType: { eq: $technologyType }
+            measurementType: { eq: $measurementType }
+            executesProtocol: { in: $protocol }
+            treatmentGroup: [
+                {
+                    name: { eq: "compound" }
+                    value: { eq: $compound }
+                }
+                {
+                    name: { eq: "dose" }
+                    value: { eq: $dose1 }
+                }
+            ]
+        }
+    ) { ... assay }
+
+    q2: assays { ... secondAssay }
+
+    q3: assays(
+        filters: {
+            technologyType: { eq: $technologyType }
+            measurementType: { eq: $measurementType }
+            treatmentGroup: [
+                {
+                    name: {eq: "compound"}
+                    value: {in: "carbon dio"}
+                }
+                {
+                    name: {eq: "dose"}
+                    value: {eq: "high"}
+                }
+            ]
+        }
+    ) {
+        dataFiles(
+            label: {in: "Raw Data Fi"}
+        ) {
+            name
+            type
+        }
+        processSequence {
+            inputs(
+                filters: {
+                    on: "Sample",
+                    characteristics: ""
+                }
+            ) {
+                ... on Sample {
+                    name
+                }
+            }
+        }
+    }
+}
+
+fragment assay on Assay {
+    processes: processSequence(
+        filters: {
+            executesProtocol: { in: $protocol }
+            treatmentGroup: [
+                {
+                    name: { eq: "compound" }
+                    value: { eq: $compound }
+                }
+                {
+                    name: { eq: "dose" },
+                    value: { in: $dose2 }
+                }
+            ]
+        }
+    ) {
+        ... process
+    }
+    dataFiles (label: { in: $fileType }) { name }
+}
+
+fragment process on Process {
+
+    samples: inputs(
+        filters: {
+            on: "Sample"
+            treatmentGroup: [
+                {
+                    name: { eq: "compound" }
+                    value: { eq: $compound }
+                }
+            ],
+        }
+    ) {
+        ... on Sample {
+            name
+            factorValues {
+                value {
+                    ... annotation
+                }
+                unit {
+                    ... annotation
+                }
+            }
+            derivesFrom {
+                name
+                characteristics {
+                    category { ... annotation }
+                    unit { ... annotation }
+                    value { ... annotation }
+                }
+            }
+        }
+    }
+    outputs { ... outputs }
+}
+
+fragment outputs on ProcessOutputs {
+    ... on DataFile { name type }
+    ... on Material { name type }
+}
+
+fragment annotation on OntologyAnnotation {
+    annotationValue termAccession
+}
+
+fragment secondAssay on Assay {
+    processes: processSequence {
+        rawDataFiles: outputs(
+            filters: {
+                on: "DataFile"
+                type: { in: $fileType }
+            }
+        ) { ... on DataFile { name } }
+        extractsNames: outputs(
+            filters: {
+                on: "Material",
+                type: { eq: $material }
+            }
+        ) { ... on Material { name } }
+        allOutputs: outputs {
+            ... on Material { name }
+            ... on DataFile { name }
+            ... on Sample { name }
+        }
+    }
+}
+
