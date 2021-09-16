@@ -4,8 +4,7 @@ query getRawDataFiles(
     $fileType: ID
     $protocol: ID
     $compound: ID
-    $dose1: ID
-    $dose2: ID
+    $dose: ID
     $material: ID
 ){
     investigation {
@@ -22,7 +21,7 @@ query getRawDataFiles(
                         }
                         {
                             name: { eq: "dose" }
-                            value: { eq: $dose1 }
+                            value: { eq: $dose }
                         }
                     ]
                 }
@@ -43,49 +42,13 @@ query getRawDataFiles(
                 }
                 {
                     name: { eq: "dose" }
-                    value: { eq: $dose1 }
+                    value: { eq: $dose }
                 }
             ]
         }
     ) { ... assay }
 
     q2: assays { ... secondAssay }
-
-    q3: assays(
-        filters: {
-            technologyType: { eq: $technologyType }
-            measurementType: { eq: $measurementType }
-            treatmentGroup: [
-                {
-                    name: {eq: "compound"}
-                    value: {in: "carbon dio"}
-                }
-                {
-                    name: {eq: "dose"}
-                    value: {eq: "high"}
-                }
-            ]
-        }
-    ) {
-        dataFiles(
-            label: {in: "Raw Data Fi"}
-        ) {
-            name
-            type
-        }
-        processSequence {
-            inputs(
-                filters: {
-                    on: "Sample",
-                    characteristics: ""
-                }
-            ) {
-                ... on Sample {
-                    name
-                }
-            }
-        }
-    }
 }
 
 fragment assay on Assay {
@@ -99,9 +62,13 @@ fragment assay on Assay {
                 }
                 {
                     name: { eq: "dose" },
-                    value: { in: $dose2 }
+                    value: { in: $dose }
                 }
             ]
+            parameterValues: {
+                category: {eq: "sequencing instrument"}
+                value: {eq: "454 GS FLX"}
+            }
         }
     ) {
         ... process
@@ -119,7 +86,7 @@ fragment process on Process {
                     name: { eq: "compound" }
                     value: { eq: $compound }
                 }
-            ],
+            ]
         }
     ) {
         ... on Sample {
