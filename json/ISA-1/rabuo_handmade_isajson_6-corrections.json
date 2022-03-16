@@ -1,0 +1,1154 @@
+{
+    "@id": "rabuo_handmade_isajson6",
+    "filename": "i_handmade_isajson.txt",
+    "identifier": "investigation_1",
+    "title": "A handmade investigation to test the ISA_API",
+    "description": "This investigation was made by hand, following the JSON schemas provided at https://isa-specs.readthedocs.io/en/latest/isajson.html#format and the examples BII-I-1, BII-S-3, and BII-S-7. Fields for information that is not currently recorded in FAIRDOM-SEEK are left blank. The schema material_schema.json is modified so that the Type is set to String and does not expect the values Extract Name or Labeled Extract Name",
+    "submissionDate": "2021-09-30",
+    "publicReleaseDate": "2021-10-01",
+    "ontologySourceReferences": [
+        {
+            "name": "NCBITAXON",
+            "file": "http://purl.obolibrary.org/obo/ncbitaxon.owl",
+            "version": "",
+            "description": "NCBI organismal classification"
+        }
+    ],
+    "publications": [
+        {
+            "pubMedID": "26978244",
+            "doi": "10.1038/sdata.2016.18",
+            "status": {
+                "termAccession": "",
+                "termSource": "",
+                "annotationValue": ""
+            },
+            "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+            "authorList": "Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, Blomberg N, Boiten JW, da Silva Santos LB, Bourne PE, Bouwman J, Brookes AJ, Clark T, Crosas M, Dillo I, Dumon O, Edmunds S, Evelo CT, Finkers R, Gonzalez-Beltran A, Gray AJ, Groth P, Goble C, Grethe JS, Heringa J, 't Hoen PA, Hooft R, Kuhn T, Kok R, Kok J, Lusher SJ, Martone ME, Mons A, Packer AL, Persson B, Rocca-Serra P, Roos M, van Schaik R, Sansone SA, Schultes E, Sengstag T, Slater T, Strawn G, Swertz MA, Thompson M, van der Lei J, van Mulligen E, Velterop J, Waagmeester A, Wittenburg P, Wolstencroft K, Zhao J, Mons B."
+        }
+    ],
+    "people": [
+        {
+            "@id": "#people/Alice",
+            "lastName": "Smith",
+            "firstName": "Alice",
+            "midInitials": "",
+            "email": "alice@research.be",
+            "phone": "+32555555555",
+            "fax": "",
+            "address": "",
+            "affiliation": "Default Institution",
+            "roles": [
+                {
+                    "termAccession": "",
+                    "termSource": "",
+                    "annotationValue": "Postdoc"
+                }
+            ],
+            "comments": [
+                {
+                    "@id": "",
+                    "value": "0000-0000-0000-0000",
+                    "name": "ORCID"
+                }
+            ]
+        }
+    ],
+    "studies": [
+        {
+            "@id": "",
+            "filename": "s_handmade_isajson.txt",
+            "identifier": "study_1",
+            "title": "A handmade study to test the ISA_API",
+            "description": "This study was made by hand, following the JSON schemas provided at https://isa-specs.readthedocs.io/en/latest/isajson.html#format and the examples BII-I-1, BII-S-3, and BII-S-7. Fields for information that is not currently recorded in FAIRDOM-SEEK are left blank.",
+            "submissionDate": "2021-10-02",
+            "publicReleaseDate": "2021-10-03",
+            "publications": [
+                {
+                    "pubMedID": "27899646",
+                    "doi": "10.1093/nar/gkw1032",
+                    "status": {
+                        "termAccession": "",
+                        "termSource": "",
+                        "annotationValue": ""
+                    },
+                    "title": "FAIRDOMHub: a repository and collaboration environment for sharing systems biology research",
+                    "authorList": "Wolstencroft K, Krebs O, Snoep JL, Stanford NJ, Bacall F, Golebiewski M, Kuzyakiv R, Nguyen Q, Owen S, Soiland-Reyes S, Straszewski J, van Niekerk DD, Williams AR, Malmström L, Rinn B, Müller W, Goble C."
+                }
+            ],
+            "people": [
+                {
+                    "@id": "people/Alice",
+                    "lastName": "Smith",
+                    "firstName": "Alice",
+                    "midInitials": "",
+                    "email": "Alice@research.be",
+                    "phone": "+32555555554",
+                    "fax": "",
+                    "address": "",
+                    "affiliation": "Default Institution",
+                    "roles": [
+                        {
+                            "termAccession": "",
+                            "termSource": "",
+                            "annotationValue": "PhD Student"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "@id": "",
+                            "value": "1000-0000-0000-0000",
+                            "name": "ORCID"
+                        }
+                    ]
+                },
+                {
+                    "@id": "people/Bob",
+                    "lastName": "Smith",
+                    "firstName": "Bob",
+                    "midInitials": "",
+                    "email": "Bob@research.be",
+                    "phone": "+32555555554",
+                    "fax": "",
+                    "address": "",
+                    "affiliation": "Default Institution",
+                    "roles": [
+                        {
+                            "termAccession": "",
+                            "termSource": "",
+                            "annotationValue": "PhD Student"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "@id": "",
+                            "value": "1000-0000-0000-0000",
+                            "name": "ORCID"
+                        }
+                    ]
+                }
+            ],
+            "studyDesignDescriptors": [
+                {
+                    "annotationValue": "",
+                    "termAccession": "",
+                    "termSource": ""
+                }
+            ],
+            "protocols": [
+                {
+                    "@id": "#protocol/sample_collection",
+                    "name": "sample collection",
+                    "protocolType": {
+                        "annotationValue": "sample collection",
+                        "termAccession": "",
+                        "termSource": ""
+                    },
+                    "description": "",
+                    "uri": "",
+                    "version": "",
+                    "parameters": [
+                        {
+                            "@id": "#parameter/collection_date",
+                            "parameterName": {
+                                "annotationValue": "collection_date",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "components": [
+                        {
+                            "componentName": "",
+                            "componentType": {
+                                "annotationValue": "",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "#protocol/nucleic_acid_extraction",
+                    "name": "nucleic acid extraction",
+                    "protocolType": {
+                        "annotationValue": "",
+                        "termAccession": "",
+                        "termSource": ""
+                    },
+                    "description": "",
+                    "uri": "",
+                    "version": "",
+                    "parameters": [
+                        {
+                            "@id": "#parameter/sample_volume_or_weight_for_DNA_extraction",
+                            "parameterName": {
+                                "annotationValue": "sample volume or weight for DNA extraction",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "components": [
+                        {
+                            "componentName": "",
+                            "componentType": {
+                                "annotationValue": "",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "#protocol/library_construction",
+                    "name": "library construction",
+                    "protocolType": {
+                        "annotationValue": "",
+                        "termAccession": "",
+                        "termSource": ""
+                    },
+                    "description": "",
+                    "uri": "",
+                    "version": "",
+                    "parameters": [
+                        {
+                            "@id": "#parameter/library_source",
+                            "parameterName": {
+                                "annotationValue": "library source",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/library_strategy",
+                            "parameterName": {
+                                "annotationValue": "library strategy",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/library_selection",
+                            "parameterName": {
+                                "annotationValue": "library selection",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/library_layout",
+                            "parameterName": {
+                                "annotationValue": "library layout",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/insert_size",
+                            "parameterName": {
+                                "annotationValue": "insert size",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/Description",
+                            "parameterName": {
+                                "annotationValue": "Description",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "components": [
+                        {
+                            "componentName": "",
+                            "componentType": {
+                                "annotationValue": "",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "#protocol/nucleic_acid_sequencing",
+                    "name": "nucleic acid sequencing",
+                    "protocolType": {
+                        "annotationValue": "",
+                        "termAccession": "",
+                        "termSource": ""
+                    },
+                    "description": "",
+                    "uri": "",
+                    "version": "",
+                    "parameters": [
+                        {
+                            "@id": "#parameter/sequencing_instrument",
+                            "parameterName": {
+                                "annotationValue": "sequencing instrument",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/quality_scorer",
+                            "parameterName": {
+                                "annotationValue": "quality scorer",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/base_caller",
+                            "parameterName": {
+                                "annotationValue": "base caller",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        },
+                        {
+                            "@id": "#parameter/file_type",
+                            "parameterName": {
+                                "annotationValue": "file type",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "components": [
+                        {
+                            "componentName": "",
+                            "componentType": {
+                                "annotationValue": "",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "sources": [
+                    {
+                        "@id": "#source/yeast_wgs_01",
+                        "name": "yeast_wgs_01",
+                        "characteristics": [
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/scientific_name"
+                                },
+                                "value": {
+                                    "annotationValue": "Saccharomyces cerevisiae",
+                                    "termSource": "NCBITAXON",
+                                    "termAccession": "http://purl.obolibrary.org/obo/NCBITaxon_4932"
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            },
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/taxon_id"
+                                },
+                                "value": {
+                                    "annotationValue": "4932",
+                                    "termSource": "",
+                                    "termAccession": ""
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "#source/yeast_wgs_02",
+                        "name": "yeast_wgs_02",
+                        "characteristics": [
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/scientific_name"
+                                },
+                                "value": {
+                                    "annotationValue": "#Saccharomyces cerevisiae",
+                                    "termSource": "NCBITAXON",
+                                    "termAccession": "http://purl.obolibrary.org/obo/NCBITaxon_4932"
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            },
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/taxon_id"
+                                },
+                                "value": {
+                                    "annotationValue": "4932",
+                                    "termSource": "",
+                                    "termAccession": ""
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "samples": [
+                    {
+                        "@id": "#sample/s_yeast_wgs_01",
+                        "name": "s_yeast_wgs_01",
+                        "derivesFrom": [
+                            {
+                                "@id": "#source/yeast_wgs_01"
+                            }
+                        ],
+                        "characteristics": [
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/sample_description"
+                                },
+                                "value": {
+                                    "annotationValue": "Samples were cultured and isolated in laboratory conditions",
+                                    "termSource": "",
+                                    "termAccession": ""
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ],
+                        "factorValues": [
+                            {
+                                "category": {
+                                    "@id": ""
+                                },
+                                "value": {
+                                    "termAccession": "",
+                                    "termSource": "",
+                                    "annotationValue": ""
+                                }
+                            },
+                            {
+                                "category": {
+                                    "@id": ""
+                                },
+                                "value": "",
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@id": "#sample/s_yeast_wgs_02",
+                        "name": "s_yeast_wgs_02",
+                        "derivesFrom": [
+                            {
+                                "@id": "#source/yeast_wgs_02"
+                            }
+                        ],
+                        "characteristics": [
+                            {
+                                "category": {
+                                    "@id": "#characteristic_category/sample_description"
+                                },
+                                "value": {
+                                    "annotationValue": "Samples were cultured and isolated in laboratory conditions",
+                                    "termSource": "",
+                                    "termAccession": ""
+                                },
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ],
+                        "factorValues": [
+                            {
+                                "category": {
+                                    "@id": ""
+                                },
+                                "value": {
+                                    "termAccession": "",
+                                    "termSource": "",
+                                    "annotationValue": ""
+                                }
+                            },
+                            {
+                                "category": {
+                                    "@id": ""
+                                },
+                                "value": "",
+                                "unit": {
+                                    "@id": ""
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "characteristicCategories": [
+                {
+                    "@id": "#characteristic_category/scientific_name",
+                    "characteristicType": {
+                        "annotationValue": "scientific name",
+                        "termAccession": "",
+                        "termSource": ""
+                    }
+                },
+                {
+                    "@id": "#characteristic_category/taxon_id",
+                    "characteristicType": {
+                        "annotationValue": "taxon_id",
+                        "termAccession": "",
+                        "termSource": ""
+                    }
+                },
+                {
+                    "@id": "#characteristic_category/sample_description",
+                    "characteristicType": {
+                        "annotationValue": "sample_description",
+                        "termAccession": "",
+                        "termSource": ""
+                    }
+                }
+            ],
+            "processSequence": [
+                {
+                    "@id": "#process/sample_collection_1",
+                    "name": "",
+                    "executesProtocol": {
+                        "@id": "#protocol/sample_collection"
+                    },
+                    "parameterValues": [
+                        {
+                            "category": {
+                                "@id": "#parameter/collection_date"
+                            },
+                            "value": {
+                                "annotationValue": "2010-01-01",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "performer": "",
+                    "date": "",
+                    "previousProcess": {},
+                    "nextProcess": {},
+                    "inputs": [
+                        {
+                            "@id": "#source/yeast_wgs_01"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "@id": "#sample/s_yeast_wgs_01"
+                        }
+                    ]
+                },
+                {
+                    "@id": "#process/sample_collection_2",
+                    "name": "",
+                    "executesProtocol": {
+                        "@id": "#protocol/sample_collection"
+                    },
+                    "parameterValues": [
+                        {
+                            "category": {
+                                "@id": "#parameter/collection_date"
+                            },
+                            "value": {
+                                "annotationValue": "2010-01-01",
+                                "termSource": "",
+                                "termAccession": ""
+                            }
+                        }
+                    ],
+                    "performer": "",
+                    "date": "",
+                    "previousProcess": {},
+                    "nextProcess": {},
+                    "inputs": [
+                        {
+                            "@id": "#source/yeast_wgs_02"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "@id": "#sample/s_yeast_wgs_02"
+                        }
+                    ]
+                }
+            ],
+            "factors": [
+                {
+                    "@id": "",
+                    "factorName": "",
+                    "factorType": {
+                        "annotationValue": "",
+                        "termSource": "",
+                        "termAccession": ""
+                    }
+                }
+            ],
+            "unitCategories": [],
+            "assays": [
+                {
+                    "@id": "#assay/a_handmade_assay",
+                    "filename": "a_handmade_assay.txt",
+                    "measurementType": {
+                        "annotationValue": "",
+                        "termSource": "",
+                        "termAccession": ""
+                    },
+                    "technologyType": {
+                        "annotationValue": "",
+                        "termSource": "",
+                        "termAccession": ""
+                    },
+                    "technologyPlatform": "",
+                    "characteristicCategories": [
+                        {
+                            "@id": "#characteristic_category/ee79c0c6-d009-45e8-9a04-1719dd115282",
+                            "characteristicType": {
+                                "annotationValue": "",
+                                "termAccession": "",
+                                "termSource": ""
+                            }
+                        }
+                    ],
+                    "materials": {
+                        "samples": [
+                            {
+                                "@id": "#sample/s_yeast_wgs_01"
+                            },
+                            {
+                                "@id": "#sample/s_yeast_wgs_02"
+                            }
+                        ],
+                        "otherMaterials": [
+                            {
+                                "@id": "#material/e_s_yeast_wgs_01",
+                                "name": "e_s_yeast_wgs_01",
+                                "type": "Extract Name",
+                                "characteristics": [
+                                    {
+                                        "category": {
+                                            "@id": "#characteristic_category/ee79c0c6-d009-45e8-9a04-1719dd115282"
+                                        },
+                                        "value": {
+                                            "annotationValue": "",
+                                            "termSource": "",
+                                            "termAccession": ""
+                                        },
+                                        "unit": {
+                                            "@id": ""
+                                        }
+                                    }
+                                ],
+                                "derivesFrom": [
+                                    {
+                                        "@id": "#sample/s_yeast_wgs_01"
+                                    }
+                                ]
+                            },
+                            {
+                                "@id": "#material/e_s_yeast_wgs_02",
+                                "name": "e_s_yeast_wgs_02",
+                                "type": "Extract Name",
+                                "characteristics": [
+                                    {
+                                        "category": {
+                                            "@id": "#characteristic_category/ee79c0c6-d009-45e8-9a04-1719dd115282"
+                                        },
+                                        "value": {
+                                            "annotationValue": "",
+                                            "termSource": "",
+                                            "termAccession": ""
+                                        },
+                                        "unit": {
+                                            "@id": ""
+                                        }
+                                    }
+                                ],
+                                "derivesFrom": [
+                                    {
+                                        "@id": "#sample/s_yeast_wgs_02"
+                                    }
+                                ]
+                            },
+                            {
+                                "@id": "#material/wgs_library_1",
+                                "name": "wgs_library_1",
+                                "type": "library name",
+                                "characteristics": [
+                                    {
+                                        "category": {
+                                            "@id": "#characteristic_category/ee79c0c6-d009-45e8-9a04-1719dd115282"
+                                        },
+                                        "value": {
+                                            "annotationValue": "",
+                                            "termSource": "",
+                                            "termAccession": ""
+                                        },
+                                        "unit": {
+                                            "@id": ""
+                                        }
+                                    }
+                                ],
+                                "derivesFrom": [
+                                    {
+                                        "@id": "#material/e_s_yeast_wgs_01"
+                                    }
+                                ]
+                            },
+                            {
+                                "@id": "#material/wgs_library_2",
+                                "name": "wgs_library_2",
+                                "type": "library name",
+                                "characteristics": [
+                                    {
+                                        "category": {
+                                            "@id": "#characteristic_category/ee79c0c6-d009-45e8-9a04-1719dd115282"
+                                        },
+                                        "value": {
+                                            "annotationValue": "",
+                                            "termSource": "",
+                                            "termAccession": ""
+                                        },
+                                        "unit": {
+                                            "@id": ""
+                                        }
+                                    }
+                                ],
+                                "derivesFrom": [
+                                    {
+                                        "@id": "#material/e_s_yeast_wgs_02"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "processSequence": [
+                        {
+                            "@id": "#process/nucleic_acid_extraction1",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/nucleic_acid_extraction"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/sample_volume_or_weight_for_DNA_extraction"
+                                    },
+                                    "value": {
+                                        "annotationValue": "23",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    },
+                                    "unit": {
+                                        "@id": "#unit/mg"
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/sample_collection_1"
+                            },
+                            "nextProcess": {
+                                "@id": "#process/library_construction_1"
+                            },
+                            "inputs": [
+                                {
+                                    "@id": "#sample/s_yeast_wgs_01"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#material/e_s_yeast_wgs_01"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "#process/nucleic_acid_extraction2",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/nucleic_acid_extraction"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/sample_volume_or_weight_for_DNA_extraction"
+                                    },
+                                    "value": {
+                                        "annotationValue": "23",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    },
+                                    "unit": {
+                                        "@id": "#unit/mg"
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/sample_collection_2"
+                            },
+                            "nextProcess": {
+                                "@id": "#process/library_construction_2"
+                            },
+                            "inputs": [
+                                {
+                                    "@id": "#sample/s_yeast_wgs_02"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#material/e_s_yeast_wgs_02"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "#process/library_construction_1",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/library_construction"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_source"
+                                    },
+                                    "value": {
+                                        "annotationValue": "GENOMIC",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_strategy"
+                                    },
+                                    "value": {
+                                        "annotationValue": "WGS",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_selection"
+                                    },
+                                    "value": {
+                                        "annotationValue": "other",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_layout"
+                                    },
+                                    "value": {
+                                        "annotationValue": "single",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/insert_size"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/Description"
+                                    },
+                                    "value": {
+                                        "annotationValue": "Description of the protocol for the library",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/nucleic_acid_extraction1"
+                            },
+                            "nextProcess": {
+                                "@id": "#process/nucleic_acid_sequencing_1"
+                            },
+                            "inputs": [
+                                {
+                                    "@id": "#material/e_s_yeast_wgs_01"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#material/wgs_library_1"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "#process/library_construction_2",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/library_construction"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_source"
+                                    },
+                                    "value": {
+                                        "annotationValue": "GENOMIC",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_strategy"
+                                    },
+                                    "value": {
+                                        "annotationValue": "WGS",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_selection"
+                                    },
+                                    "value": {
+                                        "annotationValue": "other",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/library_layout"
+                                    },
+                                    "value": {
+                                        "annotationValue": "single",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/insert_size"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/Description"
+                                    },
+                                    "value": {
+                                        "annotationValue": "Description of the protocol for the library",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/nucleic_acid_extraction2"
+                            },
+                            "nextProcess": {
+                                "@id": "#process/nucleic_acid_sequencing_2"
+                            },
+                            "inputs": [
+                                {
+                                    "@id": "#material/e_s_yeast_wgs_02"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#material/wgs_library_2"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "#process/nucleic_acid_sequencing_1",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/nucleic_acid_sequencing"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/sequencing_instrument"
+                                    },
+                                    "value": {
+                                        "annotationValue": "Illumina HiSeq 4000",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/quality_scorer"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/base_caller"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/file_type"
+                                    },
+                                    "value": {
+                                        "annotationValue": "fastq",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/library_construction_1"
+                            },
+                            "nextProcess": {},
+                            "inputs": [
+                                {
+                                    "@id": "#material/wgs_library_1"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#data/file1.gz"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "#process/nucleic_acid_sequencing_2",
+                            "name": "",
+                            "executesProtocol": {
+                                "@id": "#protocol/nucleic_acid_sequencing"
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "@id": "#parameter/sequencing_instrument"
+                                    },
+                                    "value": {
+                                        "annotationValue": "Illumina HiSeq 4000",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/quality_scorer"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/base_caller"
+                                    },
+                                    "value": {
+                                        "annotationValue": "",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "@id": "#parameter/file_type"
+                                    },
+                                    "value": {
+                                        "annotationValue": "fastq",
+                                        "termSource": "",
+                                        "termAccession": ""
+                                    }
+                                }
+                            ],
+                            "performer": "",
+                            "date": "",
+                            "previousProcess": {
+                                "@id": "#process/library_construction_2"
+                            },
+                            "nextProcess": {},
+                            "inputs": [
+                                {
+                                    "@id": "#material/wgs_library_2"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "@id": "#data/file2_r1.gz"
+                                }
+                            ]
+                        }
+                    ],
+                    "dataFiles": [
+                        {
+                            "@id": "#data/file1.gz",
+                            "name": "file1.gz",
+                            "type": "Raw Data File",
+                            "comments": []
+                        },
+                        {
+                            "@id": "#data/file2_r1.gz",
+                            "name": "file2_r1.gz",
+                            "type": "Raw Data File",
+                            "comments": []
+                        }
+                    ],
+                    "unitCategories": [
+                        {
+                            "@id": "#unit/mg",
+                            "annotationValue": "mg",
+                            "termSource": "",
+                            "termAccession": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "comments": [
+        {
+            "@id": "",
+            "value": "",
+            "name": ""
+        }
+    ]
+}

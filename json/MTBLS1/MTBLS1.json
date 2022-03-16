@@ -6055,48 +6055,56 @@
   "identifier": "1425901783014",
   "ontologySourceReferences": [
     {
+      "@id": "#ontology/5029109568",
       "version": "119",
       "file": "http://data.bioontology.org/ontologies/EFO",
       "description": "Experimental Factor Ontology",
       "name": "EFO"
     },
     {
+      "@id": "",
       "version": "26",
       "file": "http://data.bioontology.org/ontologies/BTO",
       "description": "BRENDA Tissue and Enzyme Source Ontology",
       "name": "BTO"
     },
     {
+      "@id": "",
       "version": "12",
       "file": "http://data.bioontology.org/ontologies/CHMO",
       "description": "Chemical Methods Ontology",
       "name": "CHMO"
     },
     {
+      "@id": "",
       "version": "4",
       "file": "http://data.bioontology.org/ontologies/NCBITAXON",
       "description": "National Center for Biotechnology Information (NCBI) Organismal Classification",
       "name": "NCBITAXON"
     },
     {
+      "@id": "",
       "version": "23",
       "file": "http://data.bioontology.org/ontologies/OBI",
       "description": "Ontology for Biomedical Investigations",
       "name": "OBI"
     },
     {
+      "@id": "",
       "version": "34",
       "file": "http://data.bioontology.org/ontologies/NCIT",
       "description": "National Cancer Institute Thesaurus",
       "name": "NCIT"
     },
     {
+      "@id": "",
       "version": "86",
       "file": "http://data.bioontology.org/ontologies/CHEBI",
       "description": "Chemical Entities of Biological Interest Ontology",
       "name": "CHEBI"
     },
     {
+      "@id": "",
       "version": "43",
       "file": "http://data.bioontology.org/ontologies/UO",
       "description": "Units of Measurement Ontology",
