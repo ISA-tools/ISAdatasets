@@ -1,0 +1,95 @@
+ONTOLOGY SOURCE REFERENCE																		
+Term Source Name	MTBLS	EFO	MS	NCIT	OBI	CHMO												
+Term Source File	https://www.ebi.ac.uk/metabolights/				http://data.bioontology.org/ontologies/OBI													
+Term Source Version	1				29													
+Term Source Description	User defined terms				Ontology for Biomedical Investigations													
+INVESTIGATION																		
+Investigation Identifier	MOE																	
+Investigation Title	Investigation																	
+Investigation Description	Created using the MetaboLights Online Editor (MOE)																	
+Investigation Submission Date																		
+Investigation Public Release Date	28/09/2020																	
+Comment[Created With Configuration]	MetaboLightsConfig20150707																	
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707																	
+INVESTIGATION PUBLICATIONS																		
+Investigation PubMed ID																		
+Investigation Publication DOI																		
+Investigation Publication Author List																		
+Investigation Publication Title																		
+Investigation Publication Status																		
+Investigation Publication Status Term Accession Number																		
+Investigation Publication Status Term Source REF																		
+INVESTIGATION CONTACTS																		
+Investigation Person Last Name																		
+Investigation Person First Name																		
+Investigation Person Mid Initials																		
+toto																		
+Investigation Person Email																		
+Investigation Person Phone																		
+Investigation Person Fax																		
+Investigation Person Address																		
+Investigation Person Affiliation																		
+Investigation Person Roles																		
+Investigation Person Roles Term Accession Number																		
+Investigation Person Roles Term Source REF																		
+STUDY																		
+Study Identifier	MTBLS1846																	
+Study Title	Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria																	
+Study Description	"<p><strong>Background</strong></p><p>Antibiotic treatment has a well-established detrimental effect on the gut bacterial composition, but effects on the fungal community are less clear. Bacteria in the lumen of the gastrointestinal tract may limit fungal colonization and invasion. Antibiotic drugs targeting bacteria are therefore seen as an important risk factor for fungal infections and induced allergies. However, antibiotic effects on gut bacterial-fungal interactions, including disruption and resilience of fungal community compositions, were not investigated in humans. We analysed stool samples collected from 14 healthy human participants over three months following a 6-day antibiotic administration. We integrated data from shotgun metagenomics, metatranscriptomics, metabolomics, and fungal ITS2 sequencing.&nbsp;</p><p><strong>Results</strong></p><p>While the bacterial community recovered mostly over three months post treatment, the fungal community was shifted from mutualism at baseline to competition. Half of the bacterial-fungal interactions present before drug intervention had disappeared three months later. During treatment, fungal abundances were associated with the expression of bacterial genes with functions for cell growth and repair. By extending the metagenomic species approach, we revealed bacterial strains inhibiting the opportunistic fungal pathogen&nbsp;Candida albicans. We demonstrate&nbsp;in vitro&nbsp;how&nbsp;C. albicans pathogenicity and host cell damage might be controlled naturally in the human gut by bacterial metabolites such as propionate or 5-dodecenoate.</p><p><strong>Conclusions</strong></p><p>We demonstrate that antibacterial drugs have long-term influence on the human gut mycobiome. While bacterial communities recovered mostly 30-days post antibacterial treatment, the fungal community was shifted from mutualism towards competition.</p><p><br></p><p><strong>Linked data:</strong></p><p>Metagenomics has been submitted to NCBI SRA repository as projects PRJNA573821, PRJNA573905 and PRJNA579284.</p>"																	
+Study Submission Date																		
+Study Public Release Date	28/09/2020																	
+Study File Name	s_MTBLS1846.txt																	
+STUDY DESIGN DESCRIPTORS																		
+Study Design Type	microbiome	antibiotics	mycrobiome	ultra-performance liquid chromatography-mass spectrometry	Gas chromatography mass spectrometry													
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHMO_0000715	http://purl.obolibrary.org/obo/CHMO_0000497													
+Study Design Type Term Source REF	MTBLS	MTBLS	MTBLS	CHMO	CHMO													
+STUDY PUBLICATIONS																		
+Study PubMed ID	32919472																	
+Study Publication DOI	10.1186/s40168-020-00899-6																	
+Study Publication Author List	"Seelbinder B, Chen J, Brunke S, Vazquez-Uribe R, Santhaman R, Meyer AC, de Oliveira Lino FS, Chan KF, Loos D, Imamovic L, Tsang CC, Lam RP, Sridhar S, Kang K, Hube B, Woo PC, Sommer MOA, Panagiotou G."																	
+Study Publication Title	Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria.																	
+Study Publication Status	Published																	
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796																	
+Study Publication Status Term Source REF	EFO																	
+STUDY FACTORS																		
+Study Factor Name	Antibiotic Treatment	Calibration sample concentration																
+Study Factor Type	Timepoint	concentration																
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHMO_0002820																
+Study Factor Type Term Source REF	MTBLS	CHMO																
+STUDY ASSAYS																		
+Study Assay File Name	a_MTBLS1846_LC-MS_negative_reverse-phase_metabolite_profiling.txt	a_MTBLS1846_GC-MS_positive__metabolite_profiling.txt																
+Study Assay Measurement Type	metabolite profiling	metabolite profiling																
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366	http://purl.obolibrary.org/obo/OBI_0000366																
+Study Assay Measurement Type Term Source REF	OBI	OBI																
+Study Assay Technology Type	mass spectrometry	mass spectrometry																
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470																
+Study Assay Technology Type Term Source REF	OBI	OBI																
+Study Assay Technology Platform	Liquid Chromatography MS - negative - reverse phase	Gas Chromatography MS - positive																
+STUDY PROTOCOLS																		
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification												
+Study Protocol Type	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification												
+Study Protocol Type Term Accession Number																		
+tata																		
+Study Protocol Type Term Source REF																		
+Study Protocol Description	"<p>Stool samples were from healthy adults, aged 18-65 years, from Hong Kong. The study was approved by the Institutional Review Board of The University of Hong Kong/Hospital Authority Hong Kong West Cluster (UW 17-042). All work was performed in accordance with the Good Clinical Practice principles and the Helsinki declaration. Written informed consent was obtained from all participants. </p><p>Participant characteristics are described in (Suppl. Table 12 of associated manuscript). Subjects with any of the exclusion criteria below were not eligible for entry into the present study: (i) History of taking antibiotics over the last 6 months; (ii) receiving systemic antifungals/ antifungal mouthwashes or probiotics concurrently; (iii) patients suffering from immunosuppressive conditions or taking immunosuppressants; (iv) severe medical comorbidities requiring frequent hospitalization.</p><p><br></p><p>Participants were treated for 6 days with 1 antibiotic drug out of 5: Doxycycline (tetracycline class), Azithromycin (macrolide class), Augmentin (β-lactam class), Ciprofloxacin (quinolone class), Cefuroxime (β-lactam class) or untreated used as controls.</p><p><br></p><p>From each participant in the clinical study, four stool samples were obtained at 7 days before treatment (± 1 day), day 6 of treatment, and 30 and 90 days after treatment. Collected samples were&nbsp;aliquoted and stored at -80 °C immediately after collection until metabolomic experiments.</p><p><br></p>"	"<p>A total of 15 samples were submitted to the Metabo-Profile R&amp;D laboratory and immediately stored at -80 °C freezer (Thermo Fisher Scientific, Nashville, NC, USA) until analysis. The total number of samples that have been processed and analyzed by Metabo-Profile was 15.</p><p><br></p><p><strong><u>LCMS</u></strong></p><p>For bile acid profiles, bile acid-free matrix (BAFM) was obtained using the charcoal-stripping protocol. Calibrators and quality controls were prepared for the BAFM and processed as for extraction of bile acids from stool samples. About 10 mg prechilled zirconium oxide beads was added to 10 mg stool with 15 μl ultrapure water. To each sample, a 200 μl aliquot of prechilled acetonitrile/methanol containing 10 internal standards was added for homogenization. After centrifugation at 13,500 rpm and 4 °C for 20 min, 50 μl supernatant was transferred to 96-well plates. Acetonitrile/water (150 μl) was added for gentle shaking for 5 min before injection into an ultra-performance liquid chromatography column coupled to tandem mass spectrometry (UPLC-MS/MS) system to quantitate bile acids.</p><p><br></p><p><strong><u>GCMS</u></strong></p><p>MicrobioMET profiles including aromatic phenols and indoles, phenolic acids, short-chain fatty acids and branched-chain amino acids, amino acids and organic acids were quantitated using gas chromatography coupled to time-of-flight mass spectrometer (GC-TOFMS). Samples were thawed on ice-bath to diminish sample degradation. Stool aliquots (50 mg) were homogenized with 300 μl NaOH (1M) solution using a homogenizer and centrifuged at 13,500 rpm and 4 °C for 20 min. Supernatants (200 μl) were transferred into autosampler vials and residue extracted with 200 μl cold methanol. After a second homogenization and centrifugation, 167 μl supernatant was combined with the first supernatant in the autosampler vial. </p><p>Extracts were capped and used for automated sample derivatization by a robotic multipurpose sample MPS2 with dual heads (Gerstel, Muehlheim, Germany). Briefly, each 20 μl of MCF was added to the mixture and the sample was vortexed vigorously for exact 30 s. Another 20 μl of MCF was added for the second time derivatization. Four hundred microliter of chloroform followed by four hundred microliter of sodium bicarbonate solution was added to achieve the separation. The prepared samples were centrifuged at 4°C and 4000g for 20 min, and the bottom chloroform layer was carefully transferred by the robotic preparation station to capped empty autosampler viral preloaded with approximately 25 mg of anhydrous sodium sulfate. The sample pre-treated with sodium sulfate was shaken on a laboratory shaker at 1500 rpm and 4°C for 20 min and further transferred to a capped empty autosampler viral for injection (GC-TOFMS).</p><p><br></p><p><em><u>Internal standards</u></em></p><p>dehydroLCA; LCA; isoDCA; isoLCA; alloLCA; GLCA; DCA; CDCA; TLCA; apaCA; NorDCA; 12-ketoLCA; 7-ketoLCA; 6,7-diketoLCA; GDCA; 6-ketoLCA; GCDCA; HDCA; UDCA; CA; TDCA; ACA; βHDCA; 3-DHCA; TCDCA; βUDCA; muroCA; HCA; 12-DHCA; βMCA; NorCA; 7-ketoDCA; GCA;&nbsp;&nbsp;αMCA; GHDCA; βCA; GUDCA; ωMCA; TCA; GHCA; THDCA; TUDCA; 7,12-diketoLCA; DHCA; UCA; THCA; TβMCA; TαMCA; GDHCA;T ωMCA; TDHCA</p>"	"<p><strong><u>LCMS</u></strong></p><p>The ACQUITY UPLC-Xevo TQ-S (Waters Corp., Milford, MA, USA) with ACQUITY UPLC Cortecs C18 1.6μM VanGuard pre-column and ACQUITY UPLC Cortecs C18 1.6μM analytical column was used to quantitate bile acids in this project. Sample manager was maintained at 10 °C and column at 30 °C. The mobile phase consisted of A (water with formic acid (pH=3.25)) and B (acetonitrile / methanol (80:20)) with the gradient conditions<strong>; </strong>0-1 min (5% B), 1-3 min (5-30% B), 3-15 min (30-100% B), 15-16 min (100-5% B), 16-17 min (5% B) and flow rate 0.40 ml/min. The injection volume was 5.0 µl.</p><p><br></p><p><strong><u>GCMS</u></strong></p><p>The Pegasus HT (Leco Corp., St. Joseph, MO, USA) with Rxi-5MS column (30 m x 250 μm I.D., 0.25 μm film thickness) was used to separate the microbial metabolite in this project. The system operated with temp gradient; 45 °C (1 min), 45-260 °C (20 °C/min), 260-320 °C (40 °C/min), 320 °C (2 min). Flow rate was 1.0 ml/min and injection volume 1.0 µl.</p>"	"<p><strong><u>LCMS</u></strong></p><p>The UPLC was coupled to a tandem mass spectrometry system, ACQUITY UPLC-Xevo TQ-S (Waters Corp., Milford, MA, USA) with ESI. The system was operated in negative mode, capillary 2.0 Kv, source temperature 150 °C, desolvation temp 550 °C, and desolvation gas flow 1000 l/hr.</p><p><br></p><p><strong><u>GCMS</u></strong></p><p>A gas chromatography coupled to time-of-flight mass spectrometry (GC-TOFMS)&nbsp;system (Pegasus HT, Leco Corp., St. Joseph, MO, USA)&nbsp;operated in electron ionization (EI) mode was used. Instrument settings included; electron energy -70, detector voltage -1450 v, source temp 220 °C, acquisition rate 20 spectra/sec and mass range 38-550 Da.</p>"	"<p><strong><u>LCMS</u></strong></p><p>The raw data files generated by UPLC-MS/MS were processed using the QuanMET software (v1.0, Metabo-Profile, Shanghai, China) to perform peak integration, calibration and quantitation for each metabolite. </p><p><br></p><p><strong><u>GCMS</u></strong></p><p>The data retained on instrument control computers are immediately removed and transferred to a local data server (Metabo-Profile) for further data analysis located in a locked room. For MicrobioMET profiles, raw data from the GC-TOFMS were processed using proprietary software XploreMET (v2.0, Metabo-Profile) for automatic baseline denosing, smoothing, peak picking, and peak signal alignment.</p><p><br></p><p>Metabo-Profile will not share any information with other customers until permitted. The data will be retained on Metabo-Profile server for up to 6 months.</p><p><br></p>"	"<p><strong><u>LCMS</u></strong></p><p>The analyte concentration of unknown bile acid was calculated using a calibration curve.</p><p><br></p><p><strong><u>GCMS</u></strong></p><p>MS-based quantitative metabolomics determined the concentration of unknown metabolites by comparing the unknown to a calibration curve. Abundance of MirobioMET profiles was calculated to minimize large individual variations in metabolites.</p><p><br></p><p>Mass spectrometry-based quantitative metabolomics refers to the determination of the concentration of a substance in an unknown sample by comparing the unknown to a set of standard samples of known concentration of the analyte. For most analyses a plot of instrument response vs. concentration will show a linear relationship. This yields a model described by the equation y = ax + b, where y is the instrument response e.g., peak height or area, a represents the slope / sensitivity, and b is a constant that describes the background. The analyte concentration (x) of unknown samples may be calculated from this equation.</p>"												
+Study Protocol URI																		
+Study Protocol Version																		
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer														
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;														
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;														
+Study Protocol Components Name																		
+Study Protocol Components Type																		
+Study Protocol Components Type Term Accession Number																		
+Study Protocol Components Type Term Source REF																		
+STUDY CONTACTS																		
+Study Person Last Name	Seelbinder	Chen	Brunke	Uribe	Santhaman	Meyer	de Oliveira Lino	Chan	Loos	Imamovic	Tsang	Lam	Sridhar	Kang	Hube	Woo	Sommer	Panagiotou
+Study Person First Name	Bastian	Jiarui	Sascha	Ruben	Rakesh	Anne-Christin	Felipe	Ka-Fai	Daniel	Lejla	Chi-Ching	Rex	Siddharth	Kang	Bernhard	Patrick	Morten	Gianni
+Study Person Mid Initials				V.			Senne					P. K.				C. Y.	O.A.	
+Study Person Email																		
+Study Person Phone																		
+Study Person Fax																		
+Study Person Address																		
+Study Person Affiliation																		
+Study Person Roles	first author	first author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Correspondence	Correspondence
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/MS_1002034	http://purl.obolibrary.org/obo/MS_1002034	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C97019	http://purl.obolibrary.org/obo/NCIT_C97019
+Study Person Roles Term Source REF	MS	MS	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT
