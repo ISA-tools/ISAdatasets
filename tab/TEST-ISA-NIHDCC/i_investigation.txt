@@ -1,0 +1,91 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI
+Term Source File	
+Term Source Version	
+Term Source Description	Ontology for Biomedical Investigations
+INVESTIGATION
+Investigation Identifier	CESB_P01
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name	Lane
+Investigation Person First Name	Andrew
+Investigation Person Mid Initials	
+Investigation Person Email	andrewnlane@gmail.com
+Investigation Person Phone	
+Investigation Person Fax	
+Investigation Person Address	Rm 516 Biopharm Complex, 789 S. Limestone St.,Univ. of Kentucky, Lexington, KY  40536
+Investigation Person Affiliation	CESB, University of Kentucky
+Investigation Person Roles	
+Investigation Person Roles Term Accession Number	https://purl.org/obo/OBI_1
+Investigation Person Roles Term Source REF	OBI
+STUDY
+Study Identifier	SIRM_ex_vivo_tissue_slice_study
+Study Title	Distinctly perturbed metabolic networks underlie differential tumor tissue damages induced by immune modulator b-glucan in a two-case ex vivo non-small cell lung cancer study
+Study Description	[U-13C]-Glu SIRM study of ex vivo tissue slices in matched-pair tumor/non-tumor ex vivo tissue slices from two human patients with and withou beta-glucan.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_SIRM_ex_vivo_tissue_slice_study.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	tracer
+Study Design Type Term Accession Number	https://purl.org/obo/OBI_1
+Study Design Type Term Source REF	OBI
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	sample.replicate	subject.protocol.id	subject.replicate	subject.tissue_type
+Study Factor Type				
+Study Factor Type Term Accession Number				
+Study Factor Type Term Source REF				
+STUDY ASSAYS
+Study Assay File Name	a_assay_ms_2.txt	a_assay_ms_3.txt
+Study Assay Measurement Type	mass isotopologue distribution analysis	mass isotopologue distribution analysis
+Study Assay Measurement Type Term Accession Number	https://purl.org/obo/OBI_112	https://purl.org/obo/OBI_112
+Study Assay Measurement Type Term Source REF	OBI	OBI
+Study Assay Technology Type	mass spectrometry	mass spectrometry
+Study Assay Technology Type Term Accession Number	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1
+Study Assay Technology Type Term Source REF	OBI	OBI
+Study Assay Technology Platform		
+STUDY PROTOCOLS
+Study Protocol Name	13C6Glc	13C6Glc_100ug/ml b-glucan	IC-FTMS1	IC-FTMS2	homogenization_quench_precellys	homogenization_quench_retsch	polar_preparation	protein_extraction
+Study Protocol Type	treatment	treatment	MS	MS	collection	collection	sample_prep	sample_prep
+Study Protocol Type Term Accession Number	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1	https://purl.org/obo/OBI_1
+Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI	OBI
+Study Protocol Description	ex vivo tissue slice experiment with isotopic labeling.	ex vivo tissue slice experiment with isotopic labeling.	Dionex ICS-5000+ ion chromatograph interfaced to a Thermo Fusion Orbitrap Tribrid mass spectrometer (IC-FTMS). Data were adjusted as follows: 1)Get raw XIC peak areas from TF33 -> 2)correct for protein content by reconstituting the volumes according to tissue wet weight  -> 3) correct for NA abundance. Some compounds were assigned using a sperate standard run, others were assigned because they were the only or the highest peak in the extracted ion chromatogram. (XIC).	Dionex ICS-5000+ ion chromatograph interfaced to a Thermo Fusion Orbitrap Tribrid mass spectrometer (IC-FTMS). Data were adjusted as follows: 1)Get raw XIC peak areas from TF33 -> 2)correct for protein content by adjusting the signals according by  wet weight -> 3) correct for NA abundance. Some compounds were assigned using a sperate standard run, others were assigned because they were the only or the highest peak in the extracted ion chromatogram. (XIC).	Precellys Homogenization and quench procedure.	Retsch homogenization and quenching procedure.	Preparation of polar samples for GCMS, NMR, and IC-FTMS.	Protein extraction and quantification.
+Study Protocol URI	SIRM_ex_vivo_tissue_slices_protocol__Bio-protocol_6_e1730__2016.pdf	SIRM_ex_vivo_tissue_slices_protocol__Bio-protocol_6_e1730__2016.pdf	IC_FTMS_SOP-2016-01-01.pdf	IC_FTMS_SOP-2016-01-01.pdf	Precellys_homogenization_SOP-2015-04-09	Retsch_homogenization_SOP-2015-09-27	Extract_Polar_Lipid_Prot_Fan.pdf	Extract_Protein_Quant_Fan.pdf
+Study Protocol Version								
+Study Protocol Parameters Name								
+Study Protocol Parameters Name Term Accession Number								
+Study Protocol Parameters Name Term Source REF								
+Study Protocol Components Name								
+Study Protocol Components Type								
+Study Protocol Components Type Term Accession Number								
+Study Protocol Components Type Term Source REF								
+STUDY CONTACTS
+Study Person Last Name	Fan
+Study Person First Name	Teresa
+Study Person Mid Initials	
+Study Person Email	twmfan@gmail.com
+Study Person Phone	
+Study Person Fax	
+Study Person Address	Rm 516 Biopharm Complex, 789 S. Limestone St.,Univ. of Kentucky, Lexington, KY  40536
+Study Person Affiliation	CESB, University of Kentucky
+Study Person Roles	principal investigator
+Study Person Roles Term Accession Number	https://purl.org/obo/OBI_1
+Study Person Roles Term Source REF	OBI
