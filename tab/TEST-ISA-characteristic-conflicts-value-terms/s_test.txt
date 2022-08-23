@@ -1,0 +1,5 @@
+Source Name	Characteristics[Organism]	Characteristics[Organism part]	Characteristics[Sample type]	Protocol REF	Sample Name	Characteristics[OTHER_CHAR]	Term Source REF	Term Accession Number
+source1	a1	op1	st1	protocol1	sample_1	value1		
+source2	a1	op1	st1	protocol1	sample_2	other_value1		
+source2	a1	op1	st1	protocol1	sample_2	other_value2		
+source2	alpha	op1	st1	protocol1	sample_2	other_value2		
