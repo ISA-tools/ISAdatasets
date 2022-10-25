@@ -1,0 +1,643 @@
+MS_METABOLITE_DATA_START	
+Samples	05_UK21	07_UK21	13_UK21	15_UK21	
+Factors	Treatment:13C6Glc | Tissue type:tumor	Treatment:13C6Glc_100ug/ml b-glucan | Tissue type:tumor	Treatment:13C6Glc | Tissue type:nontumor	Treatment:13C6Glc_100ug/ml b-glucan | Tissue type:nontumor	
+(S)-Methylmalonic acid semialdehyde-13C0[-H+]-	87912.82	135224.30	69049.71	66478.87	
+(S)-Methylmalonic acid semialdehyde-13C3[-H+]-	15290.66	11909.33	22206.13	22659.78	
+(S)-Methylmalonic acid semialdehyde-13C4[-H+]-	3817365.03	2795726.61	3688604.22	4030830.65	
+13BPG-13C3[-H+]-	4733.29	2710.35	27242.95	21100.83	
+1-Pyrroline-2-carboxylic acid-13C0[-H+]-	32759.79	54004.34			
+1-Pyrroline-2-carboxylic acid-13C2[-H+]-		4823.15			
+1-Pyrroline-2-carboxylic acid-13C3[-H+]-	622310.82	1260519.95	31325.05	17141.82	
+2HG-13C0[-H+]-	2141618.32	2303501.93	1699396.63	1074764.04	
+2HG-13C1[-H+]-					
+2HG-13C2[-H+]-	141786.88	198361.91	39307.19	13121.62	
+2HG-13C3[-H+]-	23949.57	43761.08	6473.02	5342.80	
+2HG-13C4[-H+]-	27547.65	38826.79			
+2HG-13C5[-H+]-	9795.58	11907.05			
+3PG-13C0[-H+]-	13250.50	12424.17			
+3PG-13C3[-H+]-	818820.63	810538.46	420696.39	247077.40	
+ADP-13C0[-H+]-	5157247.94	8995964.45	5351117.56	1769385.25	
+ADP-13C1[-H+]-					
+ADP-13C2[-H+]-			30532.36	16387.57	
+ADP-13C3[-H+]-	48696.31	94242.79	45570.31	19611.33	
+ADP-13C4[-H+]-	61936.30	106738.09	115070.46	40568.13	
+ADP-13C5[-H+]-	3824106.17	6258774.50	6352693.26	2130189.74	
+ADP-13C6[-H+]-					
+aKG-13C0[-H+]-	738276.38	1051119.25	609859.08	655932.37	
+aKG-13C1[-H+]-					
+aKG-13C2[-H+]-	44997.93	155267.94	36539.70	12270.49	
+aKG-13C3[-H+]-	11231.85	34548.17	6736.80		
+aKG-13C4[-H+]-	13652.15	26542.72			
+aKG-13C5[-H+]-	3409.47	8889.75			
+Aminofructose 6-phosphate-13C0[-H+]-	135788537.12	226670628.89	80724681.51	68535789.21	
+Aminofructose 6-phosphate-13C1[-H+]-	26910.97	777490.95			
+Aminofructose 6-phosphate-13C2[-H+]-					
+Aminofructose 6-phosphate-13C3[-H+]-	7288626.56	12504524.25	5888767.57	3668421.69	
+Aminofructose 6-phosphate-13C4[-H+]-					
+Aminofructose 6-phosphate-13C6[-H+]-			19533.59	10268.81	
+AMP-13C0[-H+]-	5571930.19	7688065.99	7025584.86	1993842.89	
+AMP-13C1[-H+]-					
+AMP-13C2[-H+]-			15510.84		
+AMP-13C3[-H+]-			42572.45	10558.34	
+AMP-13C4[-H+]-			105830.00	15596.39	
+AMP-13C5[-H+]-	1390196.66	1955641.64	6889162.94	1386765.19	
+AMP-13C6[-H+]-					
+ATP-13C0[-H+]-	3269462.80	6040730.81	99656.54	41451.14	
+ATP-13C1[-H+]-					
+ATP-13C2[-H+]-					
+ATP-13C3[-H+]-	35279.45	54570.72			
+ATP-13C4[-H+]-	37067.87	86063.78			
+ATP-13C5[-H+]-	2614127.36	4669508.39	143305.32	51242.04	
+ATP-13C6[-H+]-					
+CDP-13C0[-H+]-	35453.90	93663.67	93870.57	64333.86	
+CDP-13C5[-H+]-	3718.28	3671.58	16114.85		
+cis-Aconitate-13C0[-H+]-	470452.62	558828.09	59481.05	28259.38	
+cis-Aconitate-13C1[-H+]-					
+Citrate-13C0[-H+]-	1975890.31	2463193.39	2745065.87	1855000.34	
+Citrate-13C1[-H+]-	5128.60	88601.97	87097.55		
+Citrate-13C2[-H+]-	991370.23	1695269.99	858166.85	277363.24	
+Citrate-13C3[-H+]-	198984.00	393167.72	167060.01	49880.67	
+Citrate-13C4[-H+]-	264446.71	571172.96	109936.32	16493.32	
+Citrate-13C5[-H+]-	101333.47	320149.31	23715.09	4505.20	
+Citrate-13C6[-H+]-	16293.80	47942.34	3786.84		
+CMP -13C6[-H+]-	4605.22	10527.10	11964.53	1774.21	
+CMP -13C7[-H+]-	8146.54	12571.96	13104.35	2446.43	
+CMP-13C0[-H+]-	7756591.08	9388191.78	1695514.30	1256683.68	
+CMP-13C1[-H+]-					
+CMP-13C2[-H+]-					
+CMP-13C5[-H+]-	135125.68	100494.01	102187.96	31091.54	
+CTP-13C0[-H+]-	10629.49	14077.39	3394.92		
+Cyclic AMP-13C0[-H+]-	4855113.65	6025230.63	397468.33	120966.90	
+Cyclic AMP-13C1[-H+]-					
+Cyclic AMP-13C2[-H+]-					
+Cyclic AMP-13C3[-H+]-	8503.94	45816.44			
+Cyclic AMP-13C4[-H+]-	22007.87	60476.05		4217.04	
+Cyclic AMP-13C5[-H+]-	1582001.46	5710727.08	174438.10	176966.69	
+Cyclic AMP-13C6[-H+]-					
+Cyclic AMP-13C8[-H+]-		5234.05			
+Deoxycytidine-13C0[-H+]-	1271380.99	1221223.22	1194655.07	1147708.45	
+Deoxycytidine-13C1[-H+]-					
+Deoxycytidine-13C2[-H+]-	70952.66	83955.72	58701.44	24605.80	
+Deoxycytidine-13C3[-H+]-	10965.91	30876.44			
+Deoxycytidine-13C4[-H+]-	7332.76	9361.44			
+dGDP-13C0[-H+]-	5157247.94	8995964.45	5351117.56	1769385.25	
+dGDP-13C1[-H+]-					
+dGDP-13C2[-H+]-			31512.61	16432.20	
+dGDP-13C3[-H+]-	48696.31	94242.79	45483.34	19607.37	
+dGDP-13C4[-H+]-	61936.30	106738.09	115073.83		
+dGDP-13C5[-H+]-	3824106.17	6258774.50	6352693.18	2132889.15	
+dGDP-13C6[-H+]-					
+D-Glucuronic acid 1-phosphate-13C0[-H+]-	5375.81				
+D-Glucuronic acid 1-phosphate-13C6[-H+]-	87002.56	49800.32	6863.68	5194.53	
+dGTP-13C0[-H+]-	3269462.80	6040730.81	99656.54	41738.93	
+dGTP-13C1[-H+]-					
+dGTP-13C2[-H+]-					
+dGTP-13C3[-H+]-	35279.45	54570.72			
+dGTP-13C4[-H+]-	37067.87	86063.78			
+dGTP-13C5[-H+]-	2614127.36	4669508.39	143305.32	51242.04	
+dGTP-13C6[-H+]-					
+D-Ribose and L-Arabinose-13C0[-H+]-	106162.32	87634.09	46483.37	33250.25	
+D-Ribose and L-Arabinose-13C5[-H+]-	272674.20	167571.64	258103.74	347505.47	
+D-Ribulose 5-phosphate -13C0[-H+]-	123177.41	238383.44	10194.07	8254.92	
+D-Ribulose 5-phosphate -13C3[-H+]-	5116.17	6255.61			
+D-Ribulose 5-phosphate -13C4[-H+]-	4231.46	7477.23			
+D-Ribulose 5-phosphate -13C5[-H+]-	816543.21	1226633.28	85693.71	49418.09	
+dTMP-13C0[-H+]-	4416.78				
+D-Xylose-13C0[-H+]-	106380.09	98330.55	50924.59	46782.82	
+D-Xylose-13C5[-H+]-	272674.20	167571.64	258103.74	347505.47	
+E4P-13C0[-H+]-			7434.34		
+E4P-13C4[-H+]-	11708.33	20519.09			
+Erythrose-13C0[-H+]-	929943.61	1042235.58	1016058.19	863686.46	
+Erythrose-13C4[-H+]-	9913.58	13370.95	22403.77	12288.01	
+F16P-13C5[-H+]-	8768.21	8477.21			
+F16P-13C6[-H+]-	493843.95	735671.90	108431.86	31519.14	
+F26P-13C0[-H+]-	73243.65	159754.53	400950.99	239377.56	
+F26P-13C1[-H+]-					
+F6P-13C5[-H+]-			21547.32		
+F6P-13C6[-H+]-	183589.70	295572.35	1117247.25	667989.51	
+Fumarate-13C0[-H+]-	2412403.21	2484271.60	1663701.73	1136898.92	
+Fumarate-13C1[-H+]-	2703.28				
+Fumarate-13C2[-H+]-	402372.42	478526.33	134223.43	27030.09	
+Fumarate-13C3[-H+]-	189066.95	259404.45	62156.08	14248.83	
+Fumarate-13C4[-H+]-	41690.26	43769.45	11602.93		
+G1P-13C0[-H+]-	9199.04		64741.02	57739.86	
+G1P-13C5[-H+]-		13084.44			
+G1P-13C6[-H+]-	992950.17	1518898.93	358687.12	272002.56	
+G6P-13C0[-H+]-			12436.03		
+G6P-13C4[-H+]-			3330.29		
+G6P-13C5[-H+]-			44991.70	13646.56	
+G6P-13C6[-H+]-	511971.23	464901.46	2588341.07	1738661.90	
+GalactitolAndSorbitol-13C0[-H+]-	1513921.17	1843139.59	4949523.76	1409996.13	
+GalactitolAndSorbitol-13C1[-H+]-					
+GalactitolAndSorbitol-13C4[-H+]-		3344.28			
+GalactitolAndSorbitol-13C5[-H+]-	557644.31	710945.33	234590.60	89404.04	
+GalactitolAndSorbitol-13C6[-H+]-	18993815.72	23492115.20	10197398.39	4871371.88	
+Galactose 6-phosphate-13C0[-H+]-	5033.71	8918.24	52723.80	22576.62	
+Galactose 6-phosphate-13C3[-H+]-	7897.39	9211.90	13434.90	9945.55	
+Galactose 6-phosphate-13C5[-H+]-	29247.14	34600.83	59160.12	43695.93	
+Galactose 6-phosphate-13C6[-H+]-	2081027.27	2423413.62	3770873.90	2970407.29	
+Galacturonic acid-13C0[-H+]-	520638.65	541190.85	113719.20	198873.07	
+Galacturonic acid-13C1[-H+]-					
+Galacturonic acid-13C5[-H+]-		4563.82		3667.37	
+Galacturonic acid-13C6[-H+]-	737356.07	665741.56	436420.61	520861.88	
+GDP-13C0[-H+]-	56830.15	101019.41	29625.01	13452.31	
+GDP-13C5[-H+]-	93922.87	197769.14	73476.76	30566.52	
+Glyceric acid-13C0[-H+]-	4467.84				
+Glyceric acid-13C3[-H+]-	274851.52	250680.07	111048.15	80997.63	
+GMP -13C0[-H+]-	2470781.38	3093769.85	918815.94	508960.44	
+GMP -13C1[-H+]-					
+GMP -13C4[-H+]-			5902.54		
+GMP -13C5[-H+]-	47462.41	179792.53	719846.13	167605.58	
+GMP -13C6[-H+]-					
+GMP -13C9[-H+]-	6584.52				
+GSH-13C0[-H+]-	315269111.42	432656546.52	238128796.92	157634555.71	
+GSH-13C1[-H+]-	7822494.09	11498443.60	13060623.29	6177680.35	
+GSH-13C2[-H+]-	54654837.41	88952383.11	35753908.47	14145406.99	
+GSH-13C3[-H+]-	13877519.25	23665331.14	10246004.91	3300866.79	
+GSH-13C4[-H+]-	12739111.60	26080754.77	4756071.64	820359.78	
+GSH-13C5[-H+]-	5928208.82	11096222.91	1909766.23	189072.01	
+GSH-13C6[-H+]-					
+GTP-13C0[-H+]-	13909.90	36103.29			
+GTP-13C5[-H+]-	50826.64	70709.26			
+Gulonic and Galactonic and Gluconic acid-13C0[-H+]-	8235343.42	10412420.73	799173.58	1085953.56	
+Gulonic and Galactonic and Gluconic acid-13C1[-H+]-					
+Gulonic and Galactonic and Gluconic acid-13C3[-H+]-	24800.48	27607.28	1131.57	4586.43	
+Gulonic and Galactonic and Gluconic acid-13C4[-H+]-	3881.55	9684.03			
+Gulonic and Galactonic and Gluconic acid-13C5[-H+]-	215307.79	283175.46	208660.74	150059.01	
+Gulonic and Galactonic and Gluconic acid-13C6[-H+]-	9440388.99	11496858.36	2678960.35	2905714.14	
+Hexoses-13C0[-H+]-	44692605.13	51321651.82	32503712.82	21384021.59	
+Hexoses-13C1[-H+]-					
+Hexoses-13C2[-H+]-					
+Hexoses-13C5[-H+]-	349285.74	217767.68	352414.30	388944.25	
+Hexoses-13C6[-H+]-	15496126.42	11297584.96	14996091.73	16395686.61	
+IMP-13C0[-H+]-			4603.38		
+IMP-13C5[-H+]-			8712.89		
+Isocitrate-13C0[-H+]-				16873.26	
+Isocitrate-13C2[-H+]-			5403.72		
+Itaconic acid-13C0[-H+]-	79705.70	100716.81	149572.88	114323.34	
+Lactate-13C0[-H+]-	31124056.13	38465610.90	32675088.83	25436936.24	
+Lactate-13C1[-H+]-	226654.94	431708.08			
+Lactate-13C2[-H+]-	10904604.30	13223140.49	3013455.22	1779474.46	
+Lactate-13C3[-H+]-	436878997.61	532853249.81	151966536.22	100980230.93	
+L-Aspartic acid-13C0[-H+]-	20598668.66	19134803.89	43079449.19	37537675.38	
+L-Aspartic acid-13C1[-H+]-	432934.09	327439.34	4467341.20	2112342.61	
+L-Aspartic acid-13C2[-H+]-	2426326.57	2293630.70	9196085.64	3999088.15	
+L-Aspartic acid-13C3[-H+]-	1748776.49	1590117.26	6338161.36	2757529.40	
+L-Aspartic acid-13C4[-H+]-	209934.72	248821.89	797181.48	111513.57	
+L-Glutamic acid-13C0[-H+]-	392274490.33	411306675.84	506467603.41	429281517.71	
+L-Glutamic acid-13C1[-H+]-	9616910.47	14312473.13	25347435.80	11433656.29	
+L-Glutamic acid-13C2[-H+]-	11188997.95	117771747.25	89246611.13	39601894.50	
+L-Glutamic acid-13C3[-H+]-	28144565.52	36660975.94	25534423.20	8080667.56	
+L-Glutamic acid-13C4[-H+]-	24449659.37	38277292.81	15074363.78	1934042.28	
+L-Glutamic acid-13C5[-H+]-	11425376.36	18170835.04	4766645.17	568348.38	
+L-Xylonate-13C0[-H+]-	224229.09	212975.20	345792.02	447998.11	
+L-Xylonate-13C4[-H+]-	4527.70				
+L-Xylonate-13C5[-H+]-	650250.44	453554.71	327191.91	308157.30	
+Malate-13C0[-H+]-	8965200.03	9883511.65	6712692.75	4097450.92	
+Malate-13C1[-H+]-	368902.97	493731.86	366288.85	74468.57	
+Malate-13C2[-H+]-	1667250.25	2049557.74	947474.30	301479.42	
+Malate-13C3[-H+]-	1157608.06	1375945.39	643101.39	126016.81	
+Malate-13C4[-H+]-	323500.86	513527.49	87081.62	11431.52	
+Mannose 6-phosphate-13C0[-H+]-	26726.81	42050.23	13880.68	8291.14	
+Mannose 6-phosphate-13C5[-H+]-	16220.71	20451.53	10423.99	16210.62	
+Mannose 6-phosphate-13C6[-H+]-	1213260.40	1195143.25	1931781.94	1099952.82	
+N-Acetylglutamic acid -13C0[-H+]-	3400242.48	4544723.13	2384333.67	1933503.71	
+N-Acetylglutamic acid -13C1[-H+]-		21071.64	55201.30		
+N-Acetylglutamic acid -13C2[-H+]-	1677693.91	2628822.55	2303894.25		
+N-Acetylglutamic acid -13C3[-H+]-	85779.67	227759.50	148148.74	77408.00	
+N-Acetylglutamic acid -13C4[-H+]-	388246.22	813490.05	493161.43	102647.77	
+N-Acetylglutamic acid -13C5[-H+]-	54172.84	178434.48	79025.11	17846.96	
+N-Acetylglutamic acid -13C6[-H+]-	35379.59	89075.93	38466.43		
+N-Acetylglutamic acid -13C7[-H+]-	17887.99	34747.84			
+NADH-13C0[-H+]-	69121.70	87493.75	35143.08	11661.98	
+NADH-13C10[-H+]-	345677.42	297877.06	143922.51	76275.70	
+NADH-13C11[-H+]-					
+NADH-13C3[-H+]-	5217.61				
+NADH-13C4[-H+]-		9777.64			
+NADH-13C5[-H+]-	525114.06	482235.85	168389.04	84756.69	
+NADH-13C6[-H+]-					
+NADH-13C7[-H+]-	4477.92	462.32			
+NADH-13C8[-H+]-	8129.83	5639.45			
+NADH-13C9[-H+]-	18492.92	16020.62			
+Pantothenic acid-13C0[-H+]-	31951181.75	34162336.20	19789832.30	17578677.85	
+Pantothenic acid-13C1[-H+]-					
+Pantothenic acid-13C2[-H+]-					
+PEP-13C3[-H+]-	64852.34	47440.10	35328.26	23648.32	
+Phosphocreatine-13C0[-H+]-	1039670.59	1531381.78	243717.27	115881.63	
+Phosphocreatine-13C1[-H+]-					
+Phosphoserine-13C0[-H+]-	26957.10	33257.82	22041.76	35570.36	
+Pyroglutamic acid-13C0[-H+]-	59105509.46	54558931.81	56462150.36	45465776.51	
+Pyroglutamic acid-13C1[-H+]-	145969.44	376973.28			
+Pyroglutamic acid-13C2[-H+]-	1385054.52	1840307.62	438890.62	126425.36	
+Pyroglutamic acid-13C3[-H+]-	308665.19	537964.54	69638.90	20290.72	
+Pyroglutamic acid-13C4[-H+]-	269790.62	569150.20	32925.13	6747.81	
+Pyroglutamic acid-13C5[-H+]-	95376.90	189222.36			
+Pyruvate-13C0[-H+]-	818361.29	887233.33	1126770.79	1126422.81	
+Pyruvate-13C1[-H+]-					
+Pyruvate-13C2[-H+]-	15078.68	20608.80	9591.29	8546.75	
+Pyruvate-13C3[-H+]-	4585358.61	5300700.65	2661658.15	2959750.49	
+R1P-13C0[-H+]-	104345.45	259488.95	21304.96	3819.86	
+R1P-13C5[-H+]-	178326.42	356677.15	61532.98	21564.36	
+R5P-13C0[-H+]-	123177.41	238383.44	10194.07	9458.91	
+R5P-13C3[-H+]-	5048.52	6255.61			
+R5P-13C4[-H+]-	4232.96	7339.94			
+R5P-13C5[-H+]-	816543.20	1226634.80	85693.71	40651.08	
+S7P-13C0[-H+]-	3503.71	6856.14			
+S7P-13C2[-H+]-	60883.09	58284.83	8327.09	5680.18	
+S7P-13C5[-H+]-	38958.80	49808.60	6169.83		
+S7P-13C6[-H+]-	13633.50	19807.88	4653.69	4339.45	
+S7P-13C7[-H+]-	501167.90	718276.60	203757.57	124246.55	
+Succinate-13C0[-H+]-	6694212.20	8681363.03	9062971.51	5736296.45	
+Succinate-13C1[-H+]-			22379.40		
+Succinate-13C2[-H+]-	355891.81	499842.90	381640.47	72950.37	
+Succinate-13C3[-H+]-	198314.19	219570.90	187651.59	10873.94	
+Succinate-13C4[-H+]-	43366.82	59897.06	21687.82		
+SucroseAndDischarrides-13C1[-H+]-			7377.68	24544.54	
+SucroseAndDischarrides-13C11[-H+]-	29555.30	29459.42	116663.00	60065.98	
+SucroseAndDischarrides-13C12[-H+]-	1154214.65	1283608.51	3134934.37	2080085.54	
+SucroseAndDischarrides-13C6[-H+]-			16408.41	13047.37	
+SucroseAndDischarrides-13C8[-H+]-	9503.12	11222.44			
+Taurine-13C0[-H+]-	164631273.97	179969591.42	121683985.11	96222378.14	
+Taurine-13C1[-H+]-					
+UDP-13C0[-H+]-	32781.36	50924.42	109696.04	62109.83	
+UDP-13C5[-H+]-	15257.75	21074.71	29626.49	3819.41	
+UDP-13C7[-H+]-			5199.66		
+UDP-N-acetyl-alpha-D-galactosamine-13C0[-H+]-	4042777.77	8823340.19	295773.53	192979.80	
+UDP-N-acetyl-alpha-D-galactosamine-13C1[-H+]-					
+UDP-N-acetyl-alpha-D-galactosamine-13C10[-H+]-	88253.06	132876.29	11768.19		
+UDP-N-acetyl-alpha-D-galactosamine-13C11[-H+]-	1160139.00	2181323.30	251560.11	88081.70	
+UDP-N-acetyl-alpha-D-galactosamine-13C12[-H+]-	167818.15	345859.61	31199.44	5165.20	
+UDP-N-acetyl-alpha-D-galactosamine-13C13[-H+]-	736836.06	1539490.11	54959.66	13385.19	
+UDP-N-acetyl-alpha-D-galactosamine-13C14[-H+]-	131086.35	256291.81	13986.84		
+UDP-N-acetyl-alpha-D-galactosamine-13C15[-H+]-	77136.16	192705.64			
+UDP-N-acetyl-alpha-D-galactosamine-13C16[-H+]-	25599.91	63124.20			
+UDP-N-acetyl-alpha-D-galactosamine-13C2[-H+]-	55061.19	270127.60			
+UDP-N-acetyl-alpha-D-galactosamine-13C3[-H+]-	26507.94	51871.63			
+UDP-N-acetyl-alpha-D-galactosamine-13C4[-H+]-	33914.59	59791.75			
+UDP-N-acetyl-alpha-D-galactosamine-13C5[-H+]-	1275641.65	2615399.67	123560.77	54319.54	
+UDP-N-acetyl-alpha-D-galactosamine-13C6[-H+]-	3428386.48	7656771.93	1266671.41	1058885.08	
+UDP-N-acetyl-alpha-D-galactosamine-13C7[-H+]-	136014.59	284310.43			
+UDP-N-acetyl-alpha-D-galactosamine-13C8[-H+]-	1085061.84	2799096.02	34501.43	13822.97	
+UDP-N-acetyl-alpha-D-galactosamine-13C9[-H+]-	4519.73				
+UMP-13C0[-H+]-	13045811.23	17910351.02	13377484.40	11387445.40	
+UMP-13C1[-H+]-	143020.54	86418.44			
+UMP-13C2[-H+]-			15226.08		
+UMP-13C3[-H+]-	68369.78	122430.23	60497.53	27803.97	
+UMP-13C4[-H+]-	97045.64	178227.50	101695.38	39164.53	
+UMP-13C5[-H+]-	8251528.02	9868259.54	6541810.99	2684714.22	
+UMP-13C6[-H+]-	890876.54	1262953.09	640077.24	99121.59	
+UMP-13C7[-H+]-	969588.76	1452722.01	713407.86	113334.58	
+UMP-13C8[-H+]-	246462.00	476661.86	161479.47	34020.71	
+Uracil-13C0[-H+]-	3219194.48	4441909.64	846790.89	636467.10	
+Uracil-13C1[-H+]-					
+Uracil-13C2[-H+]-	31879.57	51391.93			
+Uracil-13C3[-H+]-		5115.59			
+Uric acid-13C0[-H+]-	7001675.97	7110217.53	572204.11	656928.06	
+Uric acid-13C1[-H+]-					
+Uridine diphosphate-N-acetylglucosamine-13C0[-H+]-	965453.69	1861020.15	100433.10	68310.25	
+Uridine diphosphate-N-acetylglucosamine-13C1[-H+]-					
+Uridine diphosphate-N-acetylglucosamine-13C10[-H+]-	22673.96	25054.30	4318.55		
+Uridine diphosphate-N-acetylglucosamine-13C11[-H+]-	320840.10	471208.22	50566.95	28477.44	
+Uridine diphosphate-N-acetylglucosamine-13C12[-H+]-	46097.62	93522.57			
+Uridine diphosphate-N-acetylglucosamine-13C13[-H+]-	220088.56	321753.27	9307.01		
+Uridine diphosphate-N-acetylglucosamine-13C14[-H+]-	41085.35	57864.60	3279.89		
+Uridine diphosphate-N-acetylglucosamine-13C15[-H+]-	39543.82	34827.53			
+Uridine diphosphate-N-acetylglucosamine-13C16[-H+]-		15299.85			
+Uridine diphosphate-N-acetylglucosamine-13C2[-H+]-	13454.48	59331.95			
+Uridine diphosphate-N-acetylglucosamine-13C3[-H+]-		6923.34			
+Uridine diphosphate-N-acetylglucosamine-13C4[-H+]-	16102.12	11924.44			
+Uridine diphosphate-N-acetylglucosamine-13C5[-H+]-	340239.53	547391.84	33695.98	17588.41	
+Uridine diphosphate-N-acetylglucosamine-13C6[-H+]-	873012.35	1364828.80	279738.36	254842.60	
+Uridine diphosphate-N-acetylglucosamine-13C7[-H+]-	62562.18	87031.68			
+Uridine diphosphate-N-acetylglucosamine-13C8[-H+]-	316611.84	614303.55	18673.73		
+Uridine diphosphate-N-acetylglucosamine-13C9[-H+]-	1832.89	3860.17			
+UTP-13C0[-H+]-	10536.09	28614.70		12763.42	
+XMP-13C0[-H+]-	315181.15	423165.19	32060.83	12499.20	
+XMP-13C1[-H+]-	22394.59	21336.72			
+XMP-13C2[-H+]-	8737.88	2845.13			
+XMP-13C3[-H+]-	17697.26	17852.32			
+XMP-13C4[-H+]-	4621.55	7201.80			
+XMP-13C5[-H+]-	3186.64				
+METABOLITES_START	
+metabolite_name	assignment%method	compound	corrected_mz	formula	isotopologue	isotopologue%type	retention_time(min)	
+(S)-Methylmalonic acid semialdehyde-13C0[-H+]-	database	(S)-Methylmalonic acid semialdehyde_2-Ketobutyric acid_2-Methyl-3-oxopropanoic acid_Succinic acid semialdehyde	101.02442	C4H6O3	13C0	13C	2.57	
+(S)-Methylmalonic acid semialdehyde-13C3[-H+]-	database	(S)-Methylmalonic acid semialdehyde_2-Ketobutyric acid_2-Methyl-3-oxopropanoic acid_Succinic acid semialdehyde	104.03448	C4H6O3	13C3	13C	2.57	
+(S)-Methylmalonic acid semialdehyde-13C3[-H+]-	database	(S)-Methylmalonic acid semialdehyde_2-Ketobutyric acid_2-Methyl-3-oxopropanoic acid_Succinic acid semialdehyde	104.03448	C4H6O3	13C3	13C	2.59	
+(S)-Methylmalonic acid semialdehyde-13C4[-H+]-	database	(S)-Methylmalonic acid semialdehyde_2-Ketobutyric acid_2-Methyl-3-oxopropanoic acid_Succinic acid semialdehyde	105.03784	C4H6O3	13C4	13C	2.57	
+(S)-Methylmalonic acid semialdehyde-13C4[-H+]-	database	(S)-Methylmalonic acid semialdehyde_2-Ketobutyric acid_2-Methyl-3-oxopropanoic acid_Succinic acid semialdehyde	105.03784	C4H6O3	13C4	13C	2.38	
+13BPG-13C3[-H+]-	indirectly to standard	13BPG	267.96205	C3H8O10P2	13C3	13C	36.19	
+1-Pyrroline-2-carboxylic acid-13C0[-H+]-	database	1-Pyrroline-2-carboxylic acid_1-Pyrroline-5-carboxylic acid	112.0404	C5H7N1O2	13C0	13C	20.35	
+1-Pyrroline-2-carboxylic acid-13C2[-H+]-	database	1-Pyrroline-2-carboxylic acid_1-Pyrroline-5-carboxylic acid	114.04711	C5H7N1O2	13C2	13C	20.35	
+1-Pyrroline-2-carboxylic acid-13C3[-H+]-	database	1-Pyrroline-2-carboxylic acid_1-Pyrroline-5-carboxylic acid	115.05046	C5H7N1O2	13C3	13C	20.35	
+2HG-13C0[-H+]-	database	2HG	147.0299	C5H8O5	13C0	13C	16.11	
+2HG-13C1[-H+]-	database	2HG	148.03325	C5H8O5	13C1	13C	16.11	
+2HG-13C2[-H+]-	database	2HG	149.03661	C5H8O5	13C2	13C	16.11	
+2HG-13C3[-H+]-	database	2HG	150.03996	C5H8O5	13C3	13C	16.11	
+2HG-13C4[-H+]-	database	2HG	151.04332	C5H8O5	13C4	13C	16.11	
+2HG-13C5[-H+]-	database	2HG	152.04667	C5H8O5	13C5	13C	16.11	
+3PG-13C0[-H+]-	directly to standard	3PG	184.98566	C3H7O7P	13C0	13C	26.76	
+3PG-13C3[-H+]-	indirectly to standard	3PG	187.99572	C3H7O7P	13C3	13C	26.71	
+ADP-13C0[-H+]-	directly to standard	ADP	426.02214	C10H15N5O10P2	13C0	13C	32.76	
+ADP-13C1[-H+]-	indirectly to standard	ADP	427.02549	C10H15N5O10P2	13C1	13C	32.74	
+ADP-13C2[-H+]-	indirectly to standard	ADP	428.02885	C10H15N5O10P2	13C2	13C	32.76	
+ADP-13C3[-H+]-	indirectly to standard	ADP	429.0322	C10H15N5O10P2	13C3	13C	32.72	
+ADP-13C4[-H+]-	indirectly to standard	ADP	430.03556	C10H15N5O10P2	13C4	13C	32.76	
+ADP-13C5[-H+]-	indirectly to standard	ADP	431.03891	C10H15N5O10P2	13C5	13C	32.76	
+ADP-13C6[-H+]-	indirectly to standard	ADP	432.04227	C10H15N5O10P2	13C6	13C	32.76	
+aKG-13C0[-H+]-	directly to standard	aKG	145.01425	C5H6O5	13C0	13C	19.22	
+aKG-13C1[-H+]-	indirectly to standard	aKG	146.0176	C5H6O5	13C1	13C	19.22	
+aKG-13C2[-H+]-	indirectly to standard	aKG	147.02096	C5H6O5	13C2	13C	19.22	
+aKG-13C3[-H+]-	indirectly to standard	aKG	148.02431	C5H6O5	13C3	13C	19.22	
+aKG-13C4[-H+]-	indirectly to standard	aKG	149.02767	C5H6O5	13C4	13C	19.22	
+aKG-13C5[-H+]-	indirectly to standard	aKG	150.03102	C5H6O5	13C5	13C	19.22	
+Aminofructose 6-phosphate-13C0[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	258.03843	C6H14N1O8P	13C0	13C	13.44	
+Aminofructose 6-phosphate-13C1[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	259.04178	C6H14N1O8P	13C1	13C	13.44	
+Aminofructose 6-phosphate-13C2[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	260.04514	C6H14N1O8P	13C2	13C	13.52	
+Aminofructose 6-phosphate-13C3[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	261.04849	C6H14N1O8P	13C3	13C	13.44	
+Aminofructose 6-phosphate-13C4[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	262.05185	C6H14N1O8P	13C4	13C	13.39	
+Aminofructose 6-phosphate-13C6[-H+]-	database	Aminofructose 6-phosphate_Glucosamine 6-phosphate	264.05856	C6H14N1O8P	13C6	13C	13.39	
+AMP-13C0[-H+]-	directly to standard	AMP	346.05581	C10H14N5O7P	13C0	13C	21.1	
+AMP-13C1[-H+]-	indirectly to standard	AMP	347.05916	C10H14N5O7P	13C1	13C	21.1	
+AMP-13C2[-H+]-	indirectly to standard	AMP	348.06252	C10H14N5O7P	13C2	13C	21.1	
+AMP-13C3[-H+]-	indirectly to standard	AMP	349.06587	C10H14N5O7P	13C3	13C	21.1	
+AMP-13C4[-H+]-	indirectly to standard	AMP	350.06923	C10H14N5O7P	13C4	13C	21.1	
+AMP-13C5[-H+]-	indirectly to standard	AMP	351.07258	C10H14N5O7P	13C5	13C	21.1	
+AMP-13C6[-H+]-	indirectly to standard	AMP	352.07594	C10H14N5O7P	13C6	13C	21.1	
+ATP-13C0[-H+]-	directly to standard	ATP	505.98847	C10H16N5O13P3	13C0	13C	37.81	
+ATP-13C1[-H+]-	indirectly to standard	ATP	506.99182	C10H16N5O13P3	13C1	13C	37.81	
+ATP-13C2[-H+]-	indirectly to standard	ATP	507.99518	C10H16N5O13P3	13C2	13C	37.81	
+ATP-13C3[-H+]-	indirectly to standard	ATP	508.99853	C10H16N5O13P3	13C3	13C	37.81	
+ATP-13C4[-H+]-	indirectly to standard	ATP	510.00189	C10H16N5O13P3	13C4	13C	37.81	
+ATP-13C5[-H+]-	indirectly to standard	ATP	511.00524	C10H16N5O13P3	13C5	13C	37.83	
+ATP-13C6[-H+]-	indirectly to standard	ATP	512.0086	C10H16N5O13P3	13C6	13C	37.83	
+CDP-13C0[-H+]-	directly to standard	CDP	402.0109	C9H15N3O11P2	13C0	13C	28.23	
+CDP-13C5[-H+]-	indirectly to standard	CDP	407.02767	C9H15N3O11P2	13C5	13C	28.16	
+cis-Aconitate-13C0[-H+]-	directly to standard	cis-Aconitate	173.00916	C6H6O6	13C0	13C	35.43	
+cis-Aconitate-13C1[-H+]-	indirectly to standard	cis-Aconitate	174.01251	C6H6O6	13C1	13C	35.43	
+Citrate-13C0[-H+]-	directly to standard	Citrate	191.01973	C6H8O7	13C0	13C	28.57	
+Citrate-13C1[-H+]-	indirectly to standard	Citrate	192.02308	C6H8O7	13C1	13C	28.55	
+Citrate-13C2[-H+]-	indirectly to standard	Citrate	193.02644	C6H8O7	13C2	13C	28.57	
+Citrate-13C3[-H+]-	indirectly to standard	Citrate	194.02979	C6H8O7	13C3	13C	28.59	
+Citrate-13C4[-H+]-	indirectly to standard	Citrate	195.03315	C6H8O7	13C4	13C	28.57	
+Citrate-13C5[-H+]-	indirectly to standard	Citrate	196.0365	C6H8O7	13C5	13C	28.55	
+Citrate-13C6[-H+]-	indirectly to standard	Citrate	197.03986	C6H8O7	13C6	13C	28.55	
+CMP -13C6[-H+]-	indirectly to standard	CMP	328.0647	C9H14N3O8P	13C6	13C	16.32	
+CMP -13C7[-H+]-	indirectly to standard	CMP	329.06805	C9H14N3O8P	13C7	13C	16.32	
+CMP-13C0[-H+]-	directly to standard	CMP	322.04457	C9H14N3O8P	13C0	13C	16.22	
+CMP-13C0[-H+]-	directly to standard	CMP	322.04457	C9H14N3O8P	13C0	13C	16.17	
+CMP-13C1[-H+]-	indirectly to standard	CMP	323.04792	C9H14N3O8P	13C1	13C	16.17	
+CMP-13C2[-H+]-	indirectly to standard	CMP	324.05128	C9H14N3O8P	13C2	13C	16.17	
+CMP-13C5[-H+]-	indirectly to standard	CMP	327.06134	C9H14N3O8P	13C5	13C	16.32	
+CMP-13C5[-H+]-	indirectly to standard	CMP	327.06134	C9H14N3O8P	13C5	13C	16.17	
+CTP-13C0[-H+]-	directly to standard	CTP	481.97723	C9H16N3O14P3	13C0	13C	34.62	
+Cyclic AMP-13C0[-H+]-	directly to standard	Cyclic AMP	328.04524	C10H12N5O6P	13C0	13C	19.5	
+Cyclic AMP-13C1[-H+]-	indirectly to standard	Cyclic AMP	329.04859	C10H12N5O6P	13C1	13C	19.52	
+Cyclic AMP-13C2[-H+]-	indirectly to standard	Cyclic AMP	330.05195	C10H12N5O6P	13C2	13C	19.52	
+Cyclic AMP-13C3[-H+]-	indirectly to standard	Cyclic AMP	331.0553	C10H12N5O6P	13C3	13C	19.52	
+Cyclic AMP-13C4[-H+]-	indirectly to standard	Cyclic AMP	332.05866	C10H12N5O6P	13C4	13C	19.52	
+Cyclic AMP-13C5[-H+]-	indirectly to standard	Cyclic AMP	333.06201	C10H12N5O6P	13C5	13C	19.45	
+Cyclic AMP-13C6[-H+]-	indirectly to standard	Cyclic AMP	334.06537	C10H12N5O6P	13C6	13C	19.54	
+Cyclic AMP-13C8[-H+]-	indirectly to standard	Cyclic AMP	336.07208	C10H12N5O6P	13C8	13C	19.52	
+Deoxycytidine-13C0[-H+]-	directly to standard	Deoxycytidine	226.08333	C9H13N3O4	13C0	13C	30.17	
+Deoxycytidine-13C1[-H+]-	indirectly to standard	Deoxycytidine	227.08668	C9H13N3O4	13C1	13C	30.28	
+Deoxycytidine-13C2[-H+]-	indirectly to standard	Deoxycytidine	228.09004	C9H13N3O4	13C2	13C	30.28	
+Deoxycytidine-13C3[-H+]-	indirectly to standard	Deoxycytidine	229.09339	C9H13N3O4	13C3	13C	30.28	
+Deoxycytidine-13C4[-H+]-	indirectly to standard	Deoxycytidine	230.09675	C9H13N3O4	13C4	13C	30.28	
+dGDP-13C0[-H+]-	directly to standard	dGDP	426.02214	C10H15N5O10P2	13C0	13C	32.76	
+dGDP-13C1[-H+]-	indirectly to standard	dGDP	427.02549	C10H15N5O10P2	13C1	13C	32.74	
+dGDP-13C2[-H+]-	indirectly to standard	dGDP	428.02885	C10H15N5O10P2	13C2	13C	32.76	
+dGDP-13C3[-H+]-	indirectly to standard	dGDP	429.0322	C10H15N5O10P2	13C3	13C	32.72	
+dGDP-13C4[-H+]-	indirectly to standard	dGDP	430.03556	C10H15N5O10P2	13C4	13C	32.76	
+dGDP-13C5[-H+]-	indirectly to standard	dGDP	431.03891	C10H15N5O10P2	13C5	13C	32.76	
+dGDP-13C6[-H+]-	indirectly to standard	dGDP	432.04227	C10H15N5O10P2	13C6	13C	32.76	
+D-Glucuronic acid 1-phosphate-13C0[-H+]-	database	D-Glucuronic acid 1-phosphate	273.00171	C6H11O10P	13C0	13C	26.48	
+D-Glucuronic acid 1-phosphate-13C6[-H+]-	database	D-Glucuronic acid 1-phosphate	279.02184	C6H11O10P	13C6	13C	26.48	
+dGTP-13C0[-H+]-	directly to standard	dGTP	505.98847	C10H16N5O13P3	13C0	13C	37.81	
+dGTP-13C1[-H+]-	indirectly to standard	dGTP	506.99182	C10H16N5O13P3	13C1	13C	37.78	
+dGTP-13C2[-H+]-	indirectly to standard	dGTP	507.99518	C10H16N5O13P3	13C2	13C	37.78	
+dGTP-13C3[-H+]-	indirectly to standard	dGTP	508.99853	C10H16N5O13P3	13C3	13C	37.78	
+dGTP-13C4[-H+]-	indirectly to standard	dGTP	510.00189	C10H16N5O13P3	13C4	13C	37.78	
+dGTP-13C5[-H+]-	indirectly to standard	dGTP	511.00524	C10H16N5O13P3	13C5	13C	37.83	
+dGTP-13C6[-H+]-	indirectly to standard	dGTP	512.0086	C10H16N5O13P3	13C6	13C	37.83	
+D-Ribose and L-Arabinose-13C0[-H+]-	directly to standard	D-Ribose and L-Arabinose	149.04555	C5H10O5	13C0	13C	2.42	
+D-Ribose and L-Arabinose-13C5[-H+]-	indirectly to standard	D-Ribose and L-Arabinose	154.06232	C5H10O5	13C5	13C	2.42	
+D-Ribulose 5-phosphate -13C0[-H+]-	directly to standard	D-Ribulose 5-phosphate	229.01188	C5H11O8P	13C0	13C	20.43	
+D-Ribulose 5-phosphate -13C3[-H+]-	indirectly to standard	D-Ribulose 5-phosphate	232.02194	C5H11O8P	13C3	13C	20.43	
+D-Ribulose 5-phosphate -13C4[-H+]-	indirectly to standard	D-Ribulose 5-phosphate	233.0253	C5H11O8P	13C4	13C	20.43	
+D-Ribulose 5-phosphate -13C5[-H+]-	indirectly to standard	D-Ribulose 5-phosphate	234.02865	C5H11O8P	13C5	13C	20.43	
+dTMP-13C0[-H+]-	directly to standard	dTMP	321.04933	C10H15N2O8P	13C0	13C	28.72	
+D-Xylose-13C0[-H+]-	directly to standard	D-Xylose_D-Xylulose	149.04555	C5H10O5	13C0	13C	2.42	
+D-Xylose-13C5[-H+]-	indirectly to standard	D-Xylose_D-Xylulose	154.06232	C5H10O5	13C5	13C	2.42	
+E4P-13C0[-H+]-	directly to standard	E4P	199.00131	C4H9O7P	13C0	13C	32.8	
+E4P-13C4[-H+]-	indirectly to standard	E4P	203.01473	C4H9O7P	13C4	13C	32.8	
+Erythrose-13C0[-H+]-	database	Erythrose	119.03498	C4H8O4	13C0	13C	6.79	
+Erythrose-13C4[-H+]-	database	Erythrose	123.0484	C4H8O4	13C4	13C	6.84	
+F16P-13C5[-H+]-	indirectly to standard	F16P	344.00554	C6H14O12P2	13C5	13C	34.05	
+F16P-13C6[-H+]-	indirectly to standard	F16P	345.0089	C6H14O12P2	13C6	13C	34.05	
+F26P-13C0[-H+]-	database	F26P	338.98877	C6H14O12P2	13C0	13C	39.83	
+F26P-13C1[-H+]-	database	F26P	339.99212	C6H14O12P2	13C1	13C	39.81	
+F6P-13C5[-H+]-	indirectly to standard	F6P	264.03921	C6H13O9P	13C5	13C	19.35	
+F6P-13C6[-H+]-	indirectly to standard	F6P	265.04257	C6H13O9P	13C6	13C	19.35	
+Fumarate-13C0[-H+]-	directly to standard	Fumarate	115.00368	C4H4O4	13C0	13C	20.36	
+Fumarate-13C1[-H+]-	indirectly to standard	Fumarate	116.00703	C4H4O4	13C1	13C	20.36	
+Fumarate-13C2[-H+]-	indirectly to standard	Fumarate	117.01039	C4H4O4	13C2	13C	20.34	
+Fumarate-13C3[-H+]-	indirectly to standard	Fumarate	118.01374	C4H4O4	13C3	13C	20.3	
+Fumarate-13C4[-H+]-	indirectly to standard	Fumarate	119.0171	C4H4O4	13C4	13C	20.3	
+G1P-13C0[-H+]-	directly to standard	G1P	259.02244	C6H13O9P	13C0	13C	15.2	
+G1P-13C5[-H+]-	indirectly to standard	G1P	264.03921	C6H13O9P	13C5	13C	15.15	
+G1P-13C6[-H+]-	indirectly to standard	G1P	265.04257	C6H13O9P	13C6	13C	15.15	
+G6P-13C0[-H+]-	directly to standard	G6P	259.02244	C6H13O9P	13C0	13C	18.87	
+G6P-13C4[-H+]-	indirectly to standard	G6P	263.03586	C6H13O9P	13C4	13C	18.87	
+G6P-13C5[-H+]-	indirectly to standard	G6P	264.03921	C6H13O9P	13C5	13C	18.87	
+G6P-13C6[-H+]-	indirectly to standard	G6P	265.04257	C6H13O9P	13C6	13C	18.87	
+GalactitolAndSorbitol-13C0[-H+]-	directly to standard	GalactitolAndSorbitol	181.07176	C6H14O6	13C0	13C	2.24	
+GalactitolAndSorbitol-13C1[-H+]-	indirectly to standard	GalactitolAndSorbitol	182.07511	C6H14O6	13C1	13C	2.24	
+GalactitolAndSorbitol-13C4[-H+]-	indirectly to standard	GalactitolAndSorbitol	185.08518	C6H14O6	13C4	13C	2.24	
+GalactitolAndSorbitol-13C5[-H+]-	indirectly to standard	GalactitolAndSorbitol	186.08853	C6H14O6	13C5	13C	2.24	
+GalactitolAndSorbitol-13C6[-H+]-	indirectly to standard	GalactitolAndSorbitol	187.09189	C6H14O6	13C6	13C	2.24	
+Galactose 6-phosphate-13C0[-H+]-	directly to standard	Galactose 6-phosphate	259.02244	C6H13O9P	13C0	13C	17.84	
+Galactose 6-phosphate-13C3[-H+]-	indirectly to standard	Galactose 6-phosphate	262.0325	C6H13O9P	13C3	13C	17.84	
+Galactose 6-phosphate-13C5[-H+]-	indirectly to standard	Galactose 6-phosphate	264.03921	C6H13O9P	13C5	13C	17.77	
+Galactose 6-phosphate-13C6[-H+]-	indirectly to standard	Galactose 6-phosphate	265.04257	C6H13O9P	13C6	13C	17.77	
+Galacturonic acid-13C0[-H+]-	database	Galacturonic acid_D-Glucuronic acid	193.03538	C6H10O7	13C0	13C	10.78	
+Galacturonic acid-13C1[-H+]-	database	Galacturonic acid_D-Glucuronic acid	194.03873	C6H10O7	13C1	13C	10.78	
+Galacturonic acid-13C5[-H+]-	database	Galacturonic acid_D-Glucuronic acid	198.05215	C6H10O7	13C5	13C	10.78	
+Galacturonic acid-13C6[-H+]-	database	Galacturonic acid_D-Glucuronic acid	199.05551	C6H10O7	13C6	13C	10.73	
+GDP-13C0[-H+]-	directly to standard	GDP	442.01705	C10H15N5O11P2	13C0	13C	40.43	
+GDP-13C5[-H+]-	indirectly to standard	GDP	447.03382	C10H15N5O11P2	13C5	13C	40.41	
+Glyceric acid-13C0[-H+]-	database	Glyceric acid	105.01933	C3H6O4	13C0	13C	26.69	
+Glyceric acid-13C3[-H+]-	database	Glyceric acid	108.02939	C3H6O4	13C3	13C	26.71	
+GMP -13C0[-H+]-	directly to standard	GMP	362.05072	C10H14N5O8P	13C0	13C	35.35	
+GMP -13C1[-H+]-	indirectly to standard	GMP	363.05407	C10H14N5O8P	13C1	13C	35.35	
+GMP -13C4[-H+]-	indirectly to standard	GMP	366.06414	C10H14N5O8P	13C4	13C	35.35	
+GMP -13C5[-H+]-	indirectly to standard	GMP	367.06749	C10H14N5O8P	13C5	13C	35.35	
+GMP -13C6[-H+]-	indirectly to standard	GMP	368.07085	C10H14N5O8P	13C6	13C	35.35	
+GMP -13C9[-H+]-	indirectly to standard	GMP	371.08091	C10H14N5O8P	13C9	13C	35.35	
+GSH-13C0[-H+]-	directly to standard	GSH	306.07653	C10H17N3O6S	13C0	13C	25.5	
+GSH-13C1[-H+]-	indirectly to standard	GSH	307.07988	C10H17N3O6S	13C1	13C	25.48	
+GSH-13C2[-H+]-	indirectly to standard	GSH	308.08324	C10H17N3O6S	13C2	13C	25.5	
+GSH-13C3[-H+]-	indirectly to standard	GSH	309.08659	C10H17N3O6S	13C3	13C	25.44	
+GSH-13C4[-H+]-	indirectly to standard	GSH	310.08995	C10H17N3O6S	13C4	13C	25.44	
+GSH-13C5[-H+]-	indirectly to standard	GSH	311.0933	C10H17N3O6S	13C5	13C	25.5	
+GSH-13C6[-H+]-	indirectly to standard	GSH	312.09666	C10H17N3O6S	13C6	13C	25.5	
+GTP-13C0[-H+]-	directly to standard	GTP	521.98338	C10H16N5O14P3	13C0	13C	44.03	
+GTP-13C5[-H+]-	indirectly to standard	GTP	527.00015	C10H16N5O14P3	13C5	13C	44.03	
+Gulonic and Galactonic and Gluconic acid-13C0[-H+]-	database	Gulonic and Galactonic and Gluconic acid	195.05103	C6H12O7	13C0	13C	6.75	
+Gulonic and Galactonic and Gluconic acid-13C1[-H+]-	database	Gulonic and Galactonic and Gluconic acid	196.05438	C6H12O7	13C1	13C	6.7	
+Gulonic and Galactonic and Gluconic acid-13C3[-H+]-	database	Gulonic and Galactonic and Gluconic acid	198.06109	C6H12O7	13C3	13C	6.7	
+Gulonic and Galactonic and Gluconic acid-13C4[-H+]-	database	Gulonic and Galactonic and Gluconic acid	199.06445	C6H12O7	13C4	13C	6.7	
+Gulonic and Galactonic and Gluconic acid-13C5[-H+]-	database	Gulonic and Galactonic and Gluconic acid	200.0678	C6H12O7	13C5	13C	6.75	
+Gulonic and Galactonic and Gluconic acid-13C6[-H+]-	database	Gulonic and Galactonic and Gluconic acid	201.07116	C6H12O7	13C6	13C	6.75	
+Hexoses-13C0[-H+]-	directly to standard	Hexoses	179.05611	C6H12O6	13C0	13C	2.2	
+Hexoses-13C1[-H+]-	indirectly to standard	Hexoses	180.05946	C6H12O6	13C1	13C	2.24	
+Hexoses-13C2[-H+]-	indirectly to standard	Hexoses	181.06282	C6H12O6	13C2	13C	2.27	
+Hexoses-13C5[-H+]-	indirectly to standard	Hexoses	184.07288	C6H12O6	13C5	13C	2.27	
+Hexoses-13C6[-H+]-	indirectly to standard	Hexoses	185.07624	C6H12O6	13C6	13C	2.53	
+IMP-13C0[-H+]-	directly to standard	IMP	347.03982	C10H13N4O8P	13C0	13C	34.6	
+IMP-13C5[-H+]-	indirectly to standard	IMP	352.05659	C10H13N4O8P	13C5	13C	34.6	
+Isocitrate-13C0[-H+]-	directly to standard	Isocitrate	191.01973	C6H8O7	13C0	13C	29.01	
+Isocitrate-13C2[-H+]-	indirectly to standard	Isocitrate	193.02644	C6H8O7	13C2	13C	29.01	
+Itaconic acid-13C0[-H+]-	directly to standard	Itaconic acid	129.01933	C5H6O4	13C0	13C	17.88	
+Lactate-13C0[-H+]-	directly to standard	Lactate	89.02442	C3H6O3	13C0	13C	7.05	
+Lactate-13C1[-H+]-	indirectly to standard	Lactate	90.02777	C3H6O3	13C1	13C	7.05	
+Lactate-13C2[-H+]-	indirectly to standard	Lactate	91.03113	C3H6O3	13C2	13C	6.99	
+Lactate-13C3[-H+]-	indirectly to standard	Lactate	92.03448	C3H6O3	13C3	13C	7.05	
+L-Aspartic acid-13C0[-H+]-	directly to standard	L-Aspartic acid	132.03023	C4H7N1O4	13C0	13C	15.46	
+L-Aspartic acid-13C1[-H+]-	indirectly to standard	L-Aspartic acid	133.03358	C4H7N1O4	13C1	13C	15.44	
+L-Aspartic acid-13C2[-H+]-	indirectly to standard	L-Aspartic acid	134.03694	C4H7N1O4	13C2	13C	15.5	
+L-Aspartic acid-13C3[-H+]-	indirectly to standard	L-Aspartic acid	135.04029	C4H7N1O4	13C3	13C	15.46	
+L-Aspartic acid-13C4[-H+]-	indirectly to standard	L-Aspartic acid	136.04365	C4H7N1O4	13C4	13C	15.3	
+L-Glutamic acid-13C0[-H+]-	directly to standard	L-Glutamic acid	146.04588	C5H9N1O4	13C0	13C	18.18	
+L-Glutamic acid-13C1[-H+]-	indirectly to standard	L-Glutamic acid	147.04923	C5H9N1O4	13C1	13C	18.23	
+L-Glutamic acid-13C2[-H+]-	indirectly to standard	L-Glutamic acid	148.05259	C5H9N1O4	13C2	13C	18.23	
+L-Glutamic acid-13C3[-H+]-	indirectly to standard	L-Glutamic acid	149.05594	C5H9N1O4	13C3	13C	18.23	
+L-Glutamic acid-13C4[-H+]-	indirectly to standard	L-Glutamic acid	150.0593	C5H9N1O4	13C4	13C	18.16	
+L-Glutamic acid-13C5[-H+]-	indirectly to standard	L-Glutamic acid	151.06265	C5H9N1O4	13C5	13C	18.21	
+L-Xylonate-13C0[-H+]-	database	L-Xylonate	165.04046	C5H10O6	13C0	13C	6.77	
+L-Xylonate-13C4[-H+]-	database	L-Xylonate	169.05388	C5H10O6	13C4	13C	6.77	
+L-Xylonate-13C5[-H+]-	database	L-Xylonate	170.05723	C5H10O6	13C5	13C	6.79	
+Malate-13C0[-H+]-	directly to standard	Malate	133.01425	C4H6O5	13C0	13C	16.5	
+Malate-13C1[-H+]-	indirectly to standard	Malate	134.0176	C4H6O5	13C1	13C	16.5	
+Malate-13C2[-H+]-	indirectly to standard	Malate	135.02096	C4H6O5	13C2	13C	16.5	
+Malate-13C3[-H+]-	indirectly to standard	Malate	136.02431	C4H6O5	13C3	13C	16.5	
+Malate-13C4[-H+]-	indirectly to standard	Malate	137.02767	C4H6O5	13C4	13C	16.5	
+Mannose 6-phosphate-13C0[-H+]-	directly to standard	Mannose 6-phosphate	259.02244	C6H13O9P	13C0	13C	19.89	
+Mannose 6-phosphate-13C5[-H+]-	indirectly to standard	Mannose 6-phosphate	264.03921	C6H13O9P	13C5	13C	19.76	
+Mannose 6-phosphate-13C6[-H+]-	indirectly to standard	Mannose 6-phosphate	265.04257	C6H13O9P	13C6	13C	19.8	
+N-Acetylglutamic acid -13C0[-H+]-	database	N-Acetylglutamic acid	188.05645	C7H11N1O5	13C0	13C	14.54	
+N-Acetylglutamic acid -13C1[-H+]-	database	N-Acetylglutamic acid	189.0598	C7H11N1O5	13C1	13C	14.57	
+N-Acetylglutamic acid -13C2[-H+]-	database	N-Acetylglutamic acid	190.06316	C7H11N1O5	13C2	13C	14.54	
+N-Acetylglutamic acid -13C3[-H+]-	database	N-Acetylglutamic acid	191.06651	C7H11N1O5	13C3	13C	14.59	
+N-Acetylglutamic acid -13C4[-H+]-	database	N-Acetylglutamic acid	192.06987	C7H11N1O5	13C4	13C	14.5	
+N-Acetylglutamic acid -13C5[-H+]-	database	N-Acetylglutamic acid	193.07322	C7H11N1O5	13C5	13C	14.57	
+N-Acetylglutamic acid -13C6[-H+]-	database	N-Acetylglutamic acid	194.07658	C7H11N1O5	13C6	13C	14.57	
+N-Acetylglutamic acid -13C7[-H+]-	database	N-Acetylglutamic acid	195.07993	C7H11N1O5	13C7	13C	14.57	
+NADH-13C0[-H+]-	directly to standard	NADH	664.11749	C21H29N7O14P2	13C0	13C	28.4	
+NADH-13C10[-H+]-	indirectly to standard	NADH	674.15104	C21H29N7O14P2	13C10	13C	28.42	
+NADH-13C11[-H+]-	indirectly to standard	NADH	675.15439	C21H29N7O14P2	13C11	13C	28.4	
+NADH-13C3[-H+]-	indirectly to standard	NADH	667.12755	C21H29N7O14P2	13C3	13C	28.4	
+NADH-13C4[-H+]-	indirectly to standard	NADH	668.13091	C21H29N7O14P2	13C4	13C	28.4	
+NADH-13C5[-H+]-	indirectly to standard	NADH	669.13426	C21H29N7O14P2	13C5	13C	28.38	
+NADH-13C6[-H+]-	indirectly to standard	NADH	670.13762	C21H29N7O14P2	13C6	13C	28.4	
+NADH-13C7[-H+]-	indirectly to standard	NADH	671.14097	C21H29N7O14P2	13C7	13C	28.4	
+NADH-13C8[-H+]-	indirectly to standard	NADH	672.14433	C21H29N7O14P2	13C8	13C	28.4	
+NADH-13C9[-H+]-	indirectly to standard	NADH	673.14768	C21H29N7O14P2	13C9	13C	28.4	
+Pantothenic acid-13C0[-H+]-	database	Pantothenic acid	218.1034	C9H17N1O5	13C0	13C	7.05	
+Pantothenic acid-13C1[-H+]-	database	Pantothenic acid	219.10675	C9H17N1O5	13C1	13C	7.05	
+Pantothenic acid-13C2[-H+]-	database	Pantothenic acid	220.11011	C9H17N1O5	13C2	13C	7.05	
+PEP-13C3[-H+]-	indirectly to standard	PEP	169.98516	C3H5O6P	13C3	13C	30.32	
+Phosphocreatine-13C0[-H+]-	directly to standard	Phosphocreatine	210.02853	C4H10N3O5P	13C0	13C	12.49	
+Phosphocreatine-13C1[-H+]-	indirectly to standard	Phosphocreatine	211.03188	C4H10N3O5P	13C1	13C	12.46	
+Phosphoserine-13C0[-H+]-	database	Phosphoserine	184.00165	C3H8N1O6P	13C0	13C	24.99	
+Pyroglutamic acid-13C0[-H+]-	directly to standard	Pyroglutamic acid	128.03532	C5H7N1O3	13C0	13C	6.66	
+Pyroglutamic acid-13C1[-H+]-	indirectly to standard	Pyroglutamic acid	129.03867	C5H7N1O3	13C1	13C	6.66	
+Pyroglutamic acid-13C2[-H+]-	indirectly to standard	Pyroglutamic acid	130.04203	C5H7N1O3	13C2	13C	6.62	
+Pyroglutamic acid-13C3[-H+]-	indirectly to standard	Pyroglutamic acid	131.04538	C5H7N1O3	13C3	13C	6.66	
+Pyroglutamic acid-13C4[-H+]-	indirectly to standard	Pyroglutamic acid	132.04874	C5H7N1O3	13C4	13C	6.62	
+Pyroglutamic acid-13C5[-H+]-	indirectly to standard	Pyroglutamic acid	133.05209	C5H7N1O3	13C5	13C	6.62	
+Pyruvate-13C0[-H+]-	directly to standard	Pyruvate	87.00877	C3H4O3	13C0	13C	8.64	
+Pyruvate-13C1[-H+]-	indirectly to standard	Pyruvate	88.01212	C3H4O3	13C1	13C	8.64	
+Pyruvate-13C2[-H+]-	indirectly to standard	Pyruvate	89.01548	C3H4O3	13C2	13C	8.64	
+Pyruvate-13C3[-H+]-	indirectly to standard	Pyruvate	90.01883	C3H4O3	13C3	13C	8.64	
+R1P-13C0[-H+]-	directly to standard	R1P	229.01188	C5H11O8P	13C0	13C	14.31	
+R1P-13C5[-H+]-	indirectly to standard	R1P	234.02865	C5H11O8P	13C5	13C	14.31	
+R5P-13C0[-H+]-	directly to standard	R5P	229.01188	C5H11O8P	13C0	13C	20.43	
+R5P-13C3[-H+]-	indirectly to standard	R5P	232.02194	C5H11O8P	13C3	13C	20.43	
+R5P-13C4[-H+]-	indirectly to standard	R5P	233.0253	C5H11O8P	13C4	13C	20.43	
+R5P-13C5[-H+]-	indirectly to standard	R5P	234.02865	C5H11O8P	13C5	13C	20.43	
+S7P-13C0[-H+]-	directly to standard	S7P	289.03301	C7H15O10P	13C0	13C	21.01	
+S7P-13C2[-H+]-	indirectly to standard	S7P	291.03972	C7H15O10P	13C2	13C	21.01	
+S7P-13C5[-H+]-	indirectly to standard	S7P	294.04978	C7H15O10P	13C5	13C	21.01	
+S7P-13C6[-H+]-	indirectly to standard	S7P	295.05314	C7H15O10P	13C6	13C	21.01	
+S7P-13C7[-H+]-	indirectly to standard	S7P	296.05649	C7H15O10P	13C7	13C	20.99	
+Succinate-13C0[-H+]-	directly to standard	Succinate	117.01933	C4H6O4	13C0	13C	16.39	
+Succinate-13C1[-H+]-	indirectly to standard	Succinate	118.02268	C4H6O4	13C1	13C	16.39	
+Succinate-13C2[-H+]-	indirectly to standard	Succinate	119.02604	C4H6O4	13C2	13C	16.39	
+Succinate-13C3[-H+]-	indirectly to standard	Succinate	120.02939	C4H6O4	13C3	13C	16.41	
+Succinate-13C4[-H+]-	indirectly to standard	Succinate	121.03275	C4H6O4	13C4	13C	16.41	
+SucroseAndDischarrides-13C1[-H+]-	indirectly to standard	SucroseAndDischarrides	342.11228	C12H22O11	13C1	13C	2.68	
+SucroseAndDischarrides-13C11[-H+]-	indirectly to standard	SucroseAndDischarrides	352.14583	C12H22O11	13C11	13C	2.68	
+SucroseAndDischarrides-13C12[-H+]-	indirectly to standard	SucroseAndDischarrides	353.14919	C12H22O11	13C12	13C	2.68	
+SucroseAndDischarrides-13C6[-H+]-	indirectly to standard	SucroseAndDischarrides	347.12906	C12H22O11	13C6	13C	2.68	
+SucroseAndDischarrides-13C8[-H+]-	indirectly to standard	SucroseAndDischarrides	349.13577	C12H22O11	13C8	13C	2.68	
+Taurine-13C0[-H+]-	database	Taurine	124.00739	C2H7N1O3S	13C0	13C	7.12	
+Taurine-13C1[-H+]-	database	Taurine	125.01074	C2H7N1O3S	13C1	13C	7.14	
+UDP-13C0[-H+]-	directly to standard	UDP	402.99492	C9H14N2O12P2	13C0	13C	37.12	
+UDP-13C5[-H+]-	indirectly to standard	UDP	408.01169	C9H14N2O12P2	13C5	13C	37.16	
+UDP-13C7[-H+]-	indirectly to standard	UDP	410.0184	C9H14N2O12P2	13C7	13C	37.16	
+UDP-N-acetyl-alpha-D-galactosamine-13C0[-H+]-	directly to standard	UDP-N-acetyl-alpha-D-galactosamine	606.07429	C17H27N3O17P2	13C0	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C1[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	607.07764	C17H27N3O17P2	13C1	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C10[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	616.10784	C17H27N3O17P2	13C10	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C11[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	617.11119	C17H27N3O17P2	13C11	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C12[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	618.11455	C17H27N3O17P2	13C12	13C	29.29	
+UDP-N-acetyl-alpha-D-galactosamine-13C13[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	619.1179	C17H27N3O17P2	13C13	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C14[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	620.12126	C17H27N3O17P2	13C14	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C15[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	621.12461	C17H27N3O17P2	13C15	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C16[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	622.12797	C17H27N3O17P2	13C16	13C	29.31	
+UDP-N-acetyl-alpha-D-galactosamine-13C2[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	608.081	C17H27N3O17P2	13C2	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C3[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	609.08435	C17H27N3O17P2	13C3	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C4[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	610.08771	C17H27N3O17P2	13C4	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C5[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	611.09106	C17H27N3O17P2	13C5	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C6[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	612.09442	C17H27N3O17P2	13C6	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C7[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	613.09777	C17H27N3O17P2	13C7	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C8[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	614.10113	C17H27N3O17P2	13C8	13C	29.37	
+UDP-N-acetyl-alpha-D-galactosamine-13C9[-H+]-	indirectly to standard	UDP-N-acetyl-alpha-D-galactosamine	615.10448	C17H27N3O17P2	13C9	13C	29.31	
+UMP-13C0[-H+]-	directly to standard	UMP	323.02859	C9H13N2O9P	13C0	13C	31.01	
+UMP-13C1[-H+]-	indirectly to standard	UMP	324.03194	C9H13N2O9P	13C1	13C	30.99	
+UMP-13C2[-H+]-	indirectly to standard	UMP	325.0353	C9H13N2O9P	13C2	13C	30.99	
+UMP-13C3[-H+]-	indirectly to standard	UMP	326.03865	C9H13N2O9P	13C3	13C	30.99	
+UMP-13C4[-H+]-	indirectly to standard	UMP	327.04201	C9H13N2O9P	13C4	13C	30.95	
+UMP-13C5[-H+]-	indirectly to standard	UMP	328.04536	C9H13N2O9P	13C5	13C	30.97	
+UMP-13C6[-H+]-	indirectly to standard	UMP	329.04872	C9H13N2O9P	13C6	13C	30.99	
+UMP-13C7[-H+]-	indirectly to standard	UMP	330.05207	C9H13N2O9P	13C7	13C	30.97	
+UMP-13C8[-H+]-	indirectly to standard	UMP	331.05543	C9H13N2O9P	13C8	13C	31.01	
+Uracil-13C0[-H+]-	directly to standard	Uracil	111.02	C4H4N2O2	13C0	13C	29.33	
+Uracil-13C1[-H+]-	indirectly to standard	Uracil	112.02335	C4H4N2O2	13C1	13C	29.33	
+Uracil-13C2[-H+]-	indirectly to standard	Uracil	113.02671	C4H4N2O2	13C2	13C	29.33	
+Uracil-13C3[-H+]-	indirectly to standard	Uracil	114.03006	C4H4N2O2	13C3	13C	29.33	
+Uric acid-13C0[-H+]-	database	Uric acid	167.02106	C5H4N4O3	13C0	13C	28.94	
+Uric acid-13C1[-H+]-	database	Uric acid	168.02441	C5H4N4O3	13C1	13C	28.94	
+Uridine diphosphate-N-acetylglucosamine-13C0[-H+]-	directly to standard	Uridine diphosphate-N-acetylglucosamine	606.07429	C17H27N3O17P2	13C0	13C	28.92	
+Uridine diphosphate-N-acetylglucosamine-13C1[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	607.07764	C17H27N3O17P2	13C1	13C	28.92	
+Uridine diphosphate-N-acetylglucosamine-13C10[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	616.10784	C17H27N3O17P2	13C10	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C11[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	617.11119	C17H27N3O17P2	13C11	13C	28.83	
+Uridine diphosphate-N-acetylglucosamine-13C12[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	618.11455	C17H27N3O17P2	13C12	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C13[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	619.1179	C17H27N3O17P2	13C13	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C14[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	620.12126	C17H27N3O17P2	13C14	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C15[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	621.12461	C17H27N3O17P2	13C15	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C16[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	622.12797	C17H27N3O17P2	13C16	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C2[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	608.081	C17H27N3O17P2	13C2	13C	28.92	
+Uridine diphosphate-N-acetylglucosamine-13C3[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	609.08435	C17H27N3O17P2	13C3	13C	28.92	
+Uridine diphosphate-N-acetylglucosamine-13C4[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	610.08771	C17H27N3O17P2	13C4	13C	28.92	
+Uridine diphosphate-N-acetylglucosamine-13C5[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	611.09106	C17H27N3O17P2	13C5	13C	28.96	
+Uridine diphosphate-N-acetylglucosamine-13C6[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	612.09442	C17H27N3O17P2	13C6	13C	28.88	
+Uridine diphosphate-N-acetylglucosamine-13C7[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	613.09777	C17H27N3O17P2	13C7	13C	28.88	
+Uridine diphosphate-N-acetylglucosamine-13C8[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	614.10113	C17H27N3O17P2	13C8	13C	28.9	
+Uridine diphosphate-N-acetylglucosamine-13C9[-H+]-	indirectly to standard	Uridine diphosphate-N-acetylglucosamine	615.10448	C17H27N3O17P2	13C9	13C	28.9	
+UTP-13C0[-H+]-	directly to standard	UTP	482.96125	C9H15N2O15P3	13C0	13C	40.78	
+XMP-13C0[-H+]-	database	XMP	363.03474	C10H13N4O9P	13C0	13C	35.37	
+XMP-13C1[-H+]-	database	XMP	364.03809	C10H13N4O9P	13C1	13C	35.43	
+XMP-13C2[-H+]-	database	XMP	365.04145	C10H13N4O9P	13C2	13C	35.43	
+XMP-13C3[-H+]-	database	XMP	366.0448	C10H13N4O9P	13C3	13C	35.43	
+XMP-13C4[-H+]-	database	XMP	367.04816	C10H13N4O9P	13C4	13C	35.43	
+XMP-13C5[-H+]-	database	XMP	368.05151	C10H13N4O9P	13C5	13C	35.43	

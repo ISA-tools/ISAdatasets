@@ -1,0 +1,13 @@
+Source Name	Characteristics[Organism]	Term Source REF	Term Accession Number	Protocol REF	Sample Name	Characteristics[organism_part]	Term Source REF	Term Accession Number
+01_UK49_CA_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	01_UK49_CA_13C6Glc_slice	tumor	OBI	https://purl.org/obo/OBI_1
+02_UK49_CA_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	02_UK49_CA_13C6Glc_slice	tumor	OBI	https://purl.org/obo/OBI_1
+03_UK49_CA_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	03_UK49_CA_13C6Glc_100ug/ml b-glucan_slice	tumor	OBI	https://purl.org/obo/OBI_1
+04_UK49_CA_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	04_UK49_CA_13C6Glc_100ug/ml b-glucan_slice	tumor	OBI	https://purl.org/obo/OBI_1
+05_UK21_CA_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	05_UK21_CA_13C6Glc_slice	tumor	OBI	https://purl.org/obo/OBI_1
+07_UK21_CA_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	07_UK21_CA_13C6Glc_100ug/ml b-glucan_slice	tumor	OBI	https://purl.org/obo/OBI_1
+13_UK21_N_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	13_UK21_N_13C6Glc_slice	nontumor	OBI	https://purl.org/obo/OBI_1
+15_UK21_N_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	15_UK21_N_13C6Glc_100ug/ml b-glucan_slice	nontumor	OBI	https://purl.org/obo/OBI_1
+31_UK49_N_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	31_UK49_N_13C6Glc_slice	nontumor	OBI	https://purl.org/obo/OBI_1
+32_UK49_N_13C6Glc_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	32_UK49_N_13C6Glc_slice	nontumor	OBI	https://purl.org/obo/OBI_1
+33_UK49_N_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	33_UK49_N_13C6Glc_100ug/ml b-glucan_slice	nontumor	OBI	https://purl.org/obo/OBI_1
+34_UK49_N_13C6Glc_100ug/ml b-glucan_slice	homo sapiens	NCBITaxon	https://purl.bioontology.org/ontology/NCBITAXON/9606	13C6Glc	34_UK49_N_13C6Glc_100ug/ml b-glucan_slice	nontumor	OBI	https://purl.org/obo/OBI_1
