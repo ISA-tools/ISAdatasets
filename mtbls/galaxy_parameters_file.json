@@ -1,0 +1,6 @@
+{
+  "factor_value_series": [
+    {"factor_name": "Gender", "factor_value": "Male"},
+    {"factor_name": "Metabolic syndrome", "factor_value": "Control Group"}
+  ]
+}
