@@ -1,0 +1,91 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	CHEBI	CHMO	PSI-MS	MSIO	OBI	STATO
+Term Source File						
+Term Source Version						
+Term Source Description	Chemical Entity of Biological Interest	Chemical Methods Ontology	PSI Mass Spectrometry	Metabolomics Standardisation Initiative Ontology	Ontology for Biomedical Investigation	Statistics Ontology
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	PrecisionTox
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	
+Study Title	PrecisionTox_metadata.xls
+Study Description	
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_ptx_test.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	full factorial design
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/STATO_0000270
+Study Design Type Term Source REF	OBI
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	compound_name	compound_vehicle	dose_categorical	timepoint
+Study Factor Type	chemical entity	chemical	dose	time
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/CHEBI_24431	http://purl.obolibrary.org/obo/CHEBI_24431	http://purl.obolibrary.org/obo/OBI_0000984	http://purl.obolibrary.org/obo/MS_1001815
+Study Factor Type Term Source REF	CHEBI	CHEBI	OBI	PSI-MS
+STUDY ASSAYS
+Study Assay File Name	a_ms_hilic_pos.txt	a_ms_lipids_pos.txt
+Study Assay Measurement Type	metabolite profiling	metabolite profiling
+Study Assay Measurement Type Term Accession Number	http://	http://
+Study Assay Measurement Type Term Source REF	MSIO	MSIO
+Study Assay Technology Type	mass spectrometry	mass spectrometry
+Study Assay Technology Type Term Accession Number	http://	http://
+Study Assay Technology Type Term Source REF	MSIO	MSIO
+Study Assay Technology Platform		
+STUDY PROTOCOLS
+Study Protocol Name	chemical exposure	robotic methanol-water extraction	hilic chromatography	C18 chromatography	mass spectrometry
+Study Protocol Type	treatment	material separation	hilic chromatography	C18 chromatography	data acquisition
+Study Protocol Type Term Accession Number					
+Study Protocol Type Term Source REF	OBI	OBI	CHMO	CHMO	CHMO
+Study Protocol Description					
+Study Protocol URI					
+Study Protocol Version					
+Study Protocol Parameters Name	collection order;exposure_batch_id;exposure_route	extraction include sample;extraction replicate randomisation;extraction_batch;extraction order randomisation;extraction order;extraction plate position;extraction precellys rack ID;extraction precellys rack sample position	chromatography column	chromatography column	scan polarity;analysis block;analysis order randomisation;analysis order expected;autosampler position;injection replicate
+Study Protocol Parameters Name Term Accession Number	;;	;;;;;;;			;;;;;
+Study Protocol Parameters Name Term Source REF	;;	;;;;;;;			;;;;;
+Study Protocol Components Name					
+Study Protocol Components Type					
+Study Protocol Components Type Term Accession Number					
+Study Protocol Components Type Term Source REF					
+STUDY CONTACTS
+Study Person Last Name	Orsini	Weber	Jones	Colbourne
+Study Person First Name	Luisa	Ralf	Martin	John
+Study Person Mid Initials				
+Study Person Email	luisa.orsini@birmingham.ac.uk	ralf.weber@birmingham.ac.uk	martin.jones@birmingham.ac.uk	john.colbourne@birmingham.ac.uk
+Study Person Phone				
+Study Person Fax				
+Study Person Address				
+Study Person Affiliation				
+Study Person Roles	principal investigator	principal investigator	principal investigator	principal investigator
+Study Person Roles Term Accession Number	http://	http://	http://	http://
+Study Person Roles Term Source REF	OBI	OBI	OBI	OBI

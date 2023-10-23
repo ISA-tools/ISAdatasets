@@ -1,11 +1,9 @@
 {
-    "@id": "#investigation/5089646432",
     "comments": [],
     "description": "We could alternatively use the class constructor's parameters to set some default values at the time of creation, however we want to demonstrate how to use the object's instance variables to set values.",
     "identifier": "1",
     "ontologySourceReferences": [
         {
-            "@id": "#ontology/5089647824",
             "comments": [],
             "description": "Ontology for Biomedical Investigations",
             "file": "",
@@ -13,7 +11,6 @@
             "version": ""
         },
         {
-            "@id": "#ontology/5089645760",
             "comments": [],
             "description": "NCBI Taxonomy",
             "file": "",
@@ -21,7 +18,6 @@
             "version": ""
         },
         {
-            "@id": "#ontology/5100721488",
             "comments": [],
             "description": "Uber Anatomy Ontology",
             "file": "",
@@ -34,27 +30,25 @@
     "publications": [],
     "studies": [
         {
-            "@id": "#study/5089647920",
             "assays": [
                 {
-                    "@id": "#5107811952",
                     "characteristicCategories": [],
                     "comments": [],
                     "dataFiles": [
                         {
-                            "@id": "#data/rawdatafile-5107812960",
+                            "@id": "#data_file/2d651ec2-45eb-4dd6-9493-1214968c5732",
                             "comments": [],
                             "name": "sequenced-data-0",
                             "type": "Raw Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-5107812624",
+                            "@id": "#data_file/dd666b60-db89-4acc-a927-1d584820ddca",
                             "comments": [],
                             "name": "sequenced-data-1",
                             "type": "Raw Data File"
                         },
                         {
-                            "@id": "#data/rawdatafile-5107811040",
+                            "@id": "#data_file/8fd3694d-0275-46ac-8f7b-78f3ca36f006",
                             "comments": [],
                             "name": "sequenced-data-2",
                             "type": "Raw Data File"
@@ -64,21 +58,21 @@
                     "materials": {
                         "otherMaterials": [
                             {
-                                "@id": "#material/extract-5107813968",
+                                "@id": "#material/a81f2609-d21a-4560-9832-26c278ca9182",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-0",
                                 "type": "Extract Name"
                             },
                             {
-                                "@id": "#material/extract-5107813344",
+                                "@id": "#material/1d8de23b-e627-4b81-b972-0050fd61e886",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-1",
                                 "type": "Extract Name"
                             },
                             {
-                                "@id": "#material/extract-5107812048",
+                                "@id": "#material/8cdcb07c-9867-457b-bf21-badbadb6d54d",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-2",
@@ -87,87 +81,18 @@
                         ],
                         "samples": [
                             {
-                                "@id": "#sample/5100723264",
-                                "characteristics": [
-                                    {
-                                        "category": {
-                                            "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
-                                        },
-                                        "comments": [],
-                                        "value": {
-                                            "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
-                                            "annotationValue": "liver",
-                                            "comments": [],
-                                            "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
-                                            "termSource": "UBERON"
-                                        }
-                                    }
-                                ],
-                                "comments": [],
-                                "derivesFrom": [
-                                    {
-                                        "@id": "#source/5089647872"
-                                    }
-                                ],
-                                "factorValues": [],
-                                "name": "sample_material-0"
+                                "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                             },
                             {
-                                "@id": "#sample/5100721296",
-                                "characteristics": [
-                                    {
-                                        "category": {
-                                            "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
-                                        },
-                                        "comments": [],
-                                        "value": {
-                                            "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
-                                            "annotationValue": "liver",
-                                            "comments": [],
-                                            "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
-                                            "termSource": "UBERON"
-                                        }
-                                    }
-                                ],
-                                "comments": [],
-                                "derivesFrom": [
-                                    {
-                                        "@id": "#source/5089647872"
-                                    }
-                                ],
-                                "factorValues": [],
-                                "name": "sample_material-1"
+                                "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                             },
                             {
-                                "@id": "#sample/5100722880",
-                                "characteristics": [
-                                    {
-                                        "category": {
-                                            "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
-                                        },
-                                        "comments": [],
-                                        "value": {
-                                            "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
-                                            "annotationValue": "liver",
-                                            "comments": [],
-                                            "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
-                                            "termSource": "UBERON"
-                                        }
-                                    }
-                                ],
-                                "comments": [],
-                                "derivesFrom": [
-                                    {
-                                        "@id": "#source/5089647872"
-                                    }
-                                ],
-                                "factorValues": [],
-                                "name": "sample_material-2"
+                                "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                             }
                         ]
                     },
                     "measurementType": {
-                        "@id": "#ontology_annotation/cc7292b2-d307-43cf-99c3-8a736a472c4c",
+                        "@id": "#ontology_annotation/84441e94-0b59-45db-a322-78db84e17e0f",
                         "annotationValue": "gene sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -175,144 +100,144 @@
                     },
                     "processSequence": [
                         {
-                            "@id": "#process/5107811136",
+                            "@id": "#process/df7380a4-e0df-4b56-8231-cd93a2cb7f9e",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107813104"
+                                "@id": "#protocol/a0c7d03a-36b9-4f0a-bfe3-b90a998eb882"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/5100723264"
+                                    "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/extract-5107813968"
+                                    "@id": "#material/a81f2609-d21a-4560-9832-26c278ca9182"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/5107811184"
+                                "@id": "#process/26561c8b-e6cf-4560-889c-10879bfbe8e2"
                             }
                         },
                         {
-                            "@id": "#process/5107811184",
+                            "@id": "#process/26561c8b-e6cf-4560-889c-10879bfbe8e2",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107811232"
+                                "@id": "#protocol/63ec41df-78b9-41e4-839c-d317ef4dfa89"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/extract-5107813968"
+                                    "@id": "#material/a81f2609-d21a-4560-9832-26c278ca9182"
                                 }
                             ],
                             "name": "assay-name-0",
                             "nextProcess": {
-                                "@id": "#process/5107811136"
+                                "@id": "#process/df7380a4-e0df-4b56-8231-cd93a2cb7f9e"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-5107812960"
+                                    "@id": "#data_file/2d651ec2-45eb-4dd6-9493-1214968c5732"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": ""
                         },
                         {
-                            "@id": "#process/5107811520",
+                            "@id": "#process/8db4a168-d9c8-4a3e-bcea-b5df33d97746",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107813104"
+                                "@id": "#protocol/a0c7d03a-36b9-4f0a-bfe3-b90a998eb882"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/5100721296"
+                                    "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/extract-5107813344"
+                                    "@id": "#material/1d8de23b-e627-4b81-b972-0050fd61e886"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/5107812576"
+                                "@id": "#process/6e716b7e-886b-4a88-880e-ccc41e79c48d"
                             }
                         },
                         {
-                            "@id": "#process/5107812576",
+                            "@id": "#process/6e716b7e-886b-4a88-880e-ccc41e79c48d",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107811232"
+                                "@id": "#protocol/63ec41df-78b9-41e4-839c-d317ef4dfa89"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/extract-5107813344"
+                                    "@id": "#material/1d8de23b-e627-4b81-b972-0050fd61e886"
                                 }
                             ],
                             "name": "assay-name-1",
                             "nextProcess": {
-                                "@id": "#process/5107811520"
+                                "@id": "#process/8db4a168-d9c8-4a3e-bcea-b5df33d97746"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-5107812624"
+                                    "@id": "#data_file/dd666b60-db89-4acc-a927-1d584820ddca"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": ""
                         },
                         {
-                            "@id": "#process/5107810416",
+                            "@id": "#process/8a4f782f-14ea-4b89-9ccc-702473f054b4",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107813104"
+                                "@id": "#protocol/a0c7d03a-36b9-4f0a-bfe3-b90a998eb882"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/5100722880"
+                                    "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/extract-5107812048"
+                                    "@id": "#material/8cdcb07c-9867-457b-bf21-badbadb6d54d"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/5107811904"
+                                "@id": "#process/71816617-730b-4d71-91e9-c1a5b7820474"
                             }
                         },
                         {
-                            "@id": "#process/5107811904",
+                            "@id": "#process/71816617-730b-4d71-91e9-c1a5b7820474",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/5107811232"
+                                "@id": "#protocol/63ec41df-78b9-41e4-839c-d317ef4dfa89"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/extract-5107812048"
+                                    "@id": "#material/8cdcb07c-9867-457b-bf21-badbadb6d54d"
                                 }
                             ],
                             "name": "assay-name-2",
                             "nextProcess": {
-                                "@id": "#process/5107810416"
+                                "@id": "#process/8a4f782f-14ea-4b89-9ccc-702473f054b4"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data/rawdatafile-5107811040"
+                                    "@id": "#data_file/8fd3694d-0275-46ac-8f7b-78f3ca36f006"
                                 }
                             ],
                             "parameterValues": [],
@@ -321,7 +246,7 @@
                     ],
                     "technologyPlatform": "",
                     "technologyType": {
-                        "@id": "#ontology_annotation/64e80262-9c4a-41d1-ba2b-f62cafea91fc",
+                        "@id": "#ontology_annotation/bc77445b-0be9-4347-9c42-c69fb6bff484",
                         "annotationValue": "nucleotide sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -332,19 +257,21 @@
             ],
             "characteristicCategories": [
                 {
-                    "@id": "#characteristic_category/e2e45152-46bd-471b-a68e-146c67d3b66d",
+                    "@id": "#characteristic_category/e7bdea18-24f4-4e69-b4b4-50d233cf40a7",
                     "characteristicType": {
-                        "@id": "#ontology_annotation/e2e45152-46bd-471b-a68e-146c67d3b66d",
-                        "annotationValue": "",
+                        "@id": "#ontology_annotation/e7bdea18-24f4-4e69-b4b4-50d233cf40a7",
+                        "annotationValue": "Organism",
+                        "comments": [],
                         "termAccession": "",
                         "termSource": ""
                     }
                 },
                 {
-                    "@id": "#characteristic_category/216f3c3d-345d-423f-9f8b-3c5fa35ee289",
+                    "@id": "#characteristic_category/8ac8cf2c-283c-414a-9183-2d40cb87096d",
                     "characteristicType": {
-                        "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289",
-                        "annotationValue": "",
+                        "@id": "#ontology_annotation/8ac8cf2c-283c-414a-9183-2d40cb87096d",
+                        "annotationValue": "OrganismPart",
+                        "comments": [],
                         "termAccession": "",
                         "termSource": ""
                     }
@@ -359,7 +286,7 @@
             "description": "Like with the Investigation, we could use the class constructor to set some default values, but have chosen to demonstrate in this example the use of instance variables to set initial values.",
             "factors": [
                 {
-                    "@id": "#studyfactor/5100722496",
+                    "@id": "#study_factor/79f19215-ee27-467c-aa48-54ac3583924c",
                     "comments": [
                         {
                             "name": "Study Start Date",
@@ -372,7 +299,7 @@
                     ],
                     "factorName": "treatment['modality']",
                     "factorType": {
-                        "@id": "#ontology_annotation/7a3a87eb-629c-49ad-b84b-da31f8ad57d7",
+                        "@id": "#ontology_annotation/fecb7419-3972-4af5-a399-e9e41ac7047d",
                         "annotationValue": "treatment['modality']",
                         "comments": [],
                         "termAccession": "",
@@ -386,15 +313,15 @@
                 "otherMaterials": [],
                 "samples": [
                     {
-                        "@id": "#sample/5100723264",
+                        "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
+                                    "@id": "#characteristic_category/8ac8cf2c-283c-414a-9183-2d40cb87096d"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
+                                    "@id": "#ontology_annotation/4b8d71f4-12f1-4f60-9d6b-5b5a40b1c7c5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -405,22 +332,22 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/5089647872"
+                                "@id": "#source/9073d1e6-7078-48ad-a24d-170bdb5d3c6e"
                             }
                         ],
                         "factorValues": [],
                         "name": "sample_material-0"
                     },
                     {
-                        "@id": "#sample/5100721296",
+                        "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
+                                    "@id": "#characteristic_category/8ac8cf2c-283c-414a-9183-2d40cb87096d"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
+                                    "@id": "#ontology_annotation/4b8d71f4-12f1-4f60-9d6b-5b5a40b1c7c5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -431,22 +358,22 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/5089647872"
+                                "@id": "#source/9073d1e6-7078-48ad-a24d-170bdb5d3c6e"
                             }
                         ],
                         "factorValues": [],
                         "name": "sample_material-1"
                     },
                     {
-                        "@id": "#sample/5100722880",
+                        "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#ontology_annotation/216f3c3d-345d-423f-9f8b-3c5fa35ee289"
+                                    "@id": "#characteristic_category/8ac8cf2c-283c-414a-9183-2d40cb87096d"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/e73cb977-025d-4ac8-80f8-093efdf513ae",
+                                    "@id": "#ontology_annotation/4b8d71f4-12f1-4f60-9d6b-5b5a40b1c7c5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -457,7 +384,7 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/5089647872"
+                                "@id": "#source/9073d1e6-7078-48ad-a24d-170bdb5d3c6e"
                             }
                         ],
                         "factorValues": [],
@@ -466,15 +393,15 @@
                 ],
                 "sources": [
                     {
-                        "@id": "#source/5089647872",
+                        "@id": "#source/9073d1e6-7078-48ad-a24d-170bdb5d3c6e",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#ontology_annotation/e2e45152-46bd-471b-a68e-146c67d3b66d"
+                                    "@id": "#characteristic_category/e7bdea18-24f4-4e69-b4b4-50d233cf40a7"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/de1c4395-3084-4a8a-b70e-e28dcb15e21e",
+                                    "@id": "#ontology_annotation/2c68e709-ab2d-45bf-a9c9-6962419baf5e",
                                     "annotationValue": "Homo Sapiens",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
@@ -489,7 +416,6 @@
             },
             "people": [
                 {
-                    "@id": "#person/5089645088",
                     "address": "",
                     "affiliation": "University of Life",
                     "comments": [],
@@ -501,7 +427,7 @@
                     "phone": "",
                     "roles": [
                         {
-                            "@id": "#ontology_annotation/24449f91-0a15-4d7c-9af4-84b0281fc091",
+                            "@id": "#ontology_annotation/b9170769-f9c1-4c2e-9c72-4dd8578f8194",
                             "annotationValue": "submitter",
                             "comments": [],
                             "termAccession": "",
@@ -512,27 +438,27 @@
             ],
             "processSequence": [
                 {
-                    "@id": "#process/5100722112",
+                    "@id": "#process/d0c80179-20c1-43b8-b86b-88d9a03b589b",
                     "comments": [],
                     "date": "",
                     "executesProtocol": {
-                        "@id": "#protocol/5100720576"
+                        "@id": "#protocol/38e12953-71bf-40ae-9b5d-956917a67887"
                     },
                     "inputs": [
                         {
-                            "@id": "#source/5089647872"
+                            "@id": "#source/9073d1e6-7078-48ad-a24d-170bdb5d3c6e"
                         }
                     ],
                     "name": "",
                     "outputs": [
                         {
-                            "@id": "#sample/5100723264"
+                            "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                         },
                         {
-                            "@id": "#sample/5100721296"
+                            "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                         },
                         {
-                            "@id": "#sample/5100722880"
+                            "@id": "#sample/8e506c76-d8b9-477d-8054-8dc04943dbea"
                         }
                     ],
                     "parameterValues": [],
@@ -541,7 +467,7 @@
             ],
             "protocols": [
                 {
-                    "@id": "#protocol/5100720576",
+                    "@id": "#protocol/38e12953-71bf-40ae-9b5d-956917a67887",
                     "comments": [
                         {
                             "name": "Study Start Date",
@@ -557,7 +483,7 @@
                     "name": "sample collection",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/ee4efeba-76ca-46c2-a7de-06709e4605b2",
+                        "@id": "#ontology_annotation/7760f1c0-2a52-4b41-9bc2-eb2a3d2deaaf",
                         "annotationValue": "sample collection",
                         "comments": [],
                         "termAccession": "",
@@ -567,14 +493,14 @@
                     "version": ""
                 },
                 {
-                    "@id": "#protocol/5107813104",
+                    "@id": "#protocol/a0c7d03a-36b9-4f0a-bfe3-b90a998eb882",
                     "comments": [],
                     "components": [],
                     "description": "",
                     "name": "extraction",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/c0f0ecc4-caa9-42de-80c6-7cc398ac671f",
+                        "@id": "#ontology_annotation/5c94aed6-6048-45da-ab15-0f81bfccca0f",
                         "annotationValue": "material extraction",
                         "comments": [],
                         "termAccession": "",
@@ -584,14 +510,14 @@
                     "version": ""
                 },
                 {
-                    "@id": "#protocol/5107811232",
+                    "@id": "#protocol/63ec41df-78b9-41e4-839c-d317ef4dfa89",
                     "comments": [],
                     "components": [],
                     "description": "",
                     "name": "sequencing",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/88c72210-47d3-4932-85cc-905469a1a1c6",
+                        "@id": "#ontology_annotation/51794481-c5dc-4485-9c66-153be867ca49",
                         "annotationValue": "material sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -604,13 +530,12 @@
             "publicReleaseDate": "2016-11-03",
             "publications": [
                 {
-                    "@id": "#publication/5089646336",
                     "authorList": "A. Robertson, B. Robertson",
                     "comments": [],
                     "doi": "",
                     "pubMedID": "12345678",
                     "status": {
-                        "@id": "#ontology_annotation/2ea701ea-d8ec-4573-888f-983ba44dd2b4",
+                        "@id": "#ontology_annotation/bb24e48e-59b0-48bd-9ec0-2d52aeae8a9b",
                         "annotationValue": "published",
                         "comments": [],
                         "termAccession": "",
@@ -621,7 +546,7 @@
             ],
             "studyDesignDescriptors": [
                 {
-                    "@id": "#ontology_annotation/9cb53eae-02d9-4ea2-a50a-c7d8d29d8de7",
+                    "@id": "#ontology_annotation/dca614f6-2348-4bf3-8bd0-9d61fae202af",
                     "annotationValue": "intervention design",
                     "comments": [],
                     "termAccession": "http://purl.obolibrary.org/obo/OBI_0000115",
