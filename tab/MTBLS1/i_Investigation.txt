@@ -2,7 +2,7 @@ ONTOLOGY SOURCE REFERENCE
 Term Source Name	"EFO"	"BTO"	"CHMO"	"NCBITAXON"	"OBI"	"NCIT"	"CHEBI"	"UO"	
 Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/BTO"	"http://data.bioontology.org/ontologies/CHMO"	"http://data.bioontology.org/ontologies/NCBITAXON"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/NCIT"	"http://data.bioontology.org/ontologies/CHEBI"	"http://data.bioontology.org/ontologies/UO"	
 Term Source Version	"119"	"26"	"12"	"4"	"23"	"34"	"86"	"43"	
-Term Source Description	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"	
+Term Source Description	"Experimental Factor Ontology"	"BRENDA Tissue and Enzyme Source Ontology"	"Chemical Methods Ontology"	"National Center for Biotechnology Information (NCBI) Organismal Classification"	"Ontology for Biomedical Investigations"	"National Cancer Institute Thesaurus"	"Chemical Entities of Biological Interest Ontology"	"Units of Measurement Ontology"
 INVESTIGATION
 Investigation Identifier	"1425901783014"
 Investigation Title	"Investigation"
