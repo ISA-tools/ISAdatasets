@@ -4,7 +4,7 @@ Term Source File
 Term Source Version						
 Term Source Description	Chemical Entity of Biological Interest	Chemical Methods Ontology	PSI Mass Spectrometry	Metabolomics Standardisation Initiative Ontology	Ontology for Biomedical Investigation	Statistics Ontology
 INVESTIGATION
-Investigation Identifier	
+Investigation Identifier	PT1
 Investigation Title	PrecisionTox
 Investigation Description	
 Investigation Submission Date	
@@ -30,9 +30,9 @@ Investigation Person Roles
 Investigation Person Roles Term Accession Number
 Investigation Person Roles Term Source REF
 STUDY
-Study Identifier	
+Study Identifier	PT-S1
 Study Title	PrecisionTox_metadata.xls
-Study Description	
+Study Description	PrecisionTox_metadata.xls
 Study Submission Date	
 Study Public Release Date	
 Study File Name	s_ptx_test.txt
