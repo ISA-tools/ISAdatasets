@@ -1,4 +1,5 @@
 {
+    "@id": "#investigation/TEST-ISA-charac-param-factor",
     "identifier": "TEST-ISA-charac-param-factor",
     "publicReleaseDate": "",
     "studies": [{
@@ -124,6 +125,7 @@
             }
         ],
         "publications": [{
+            "@id": "#publication/1435624",
             "status": {
                 "annotationValue": "Published",
                 "termAccession": "",
