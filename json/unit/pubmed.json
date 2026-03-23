@@ -14,7 +14,7 @@
         {
             "authorList": "",
             "doi": "",
-            "pubMedID": "18725995",
+            "pubMedID": "https://pubmed.ncbi.nlm.nih.gov/18725995",
             "status": {
                 "annotationValue": "",
                 "termAccession": "",

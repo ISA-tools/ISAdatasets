@@ -77,7 +77,7 @@
                 {
                     "node_type": "labeled extract",
                     "characteristics_category": {
-                        "term": "labelled extract type",
+                        "term": "label",
                         "iri": "http://purl.obolibrary.org/obo/NCIT_C43386",
                         "source": null
                     },

@@ -1,10 +1,11 @@
 {
-    "@id": "#investigation/f8842628-9005-494c-b32f-9cef9b2fa938",
+    "@id": "#investigation/78f10787-8ba2-4047-9d41-7d55ddbcf319",
     "comments": [],
     "description": "We could alternatively use the class constructor's parameters to set some default values at the time of creation, however we want to demonstrate how to use the object's instance variables to set values.",
     "identifier": "1",
     "ontologySourceReferences": [
         {
+            "@id": "#ontology_source/a8955541-9b48-4b76-8644-3147da0aaaca",
             "comments": [],
             "description": "Ontology for Biomedical Investigations",
             "file": "",
@@ -12,6 +13,7 @@
             "version": ""
         },
         {
+            "@id": "#ontology_source/3affbda0-8b25-47f6-a77f-e056fcc61383",
             "comments": [],
             "description": "NCBI Taxonomy",
             "file": "",
@@ -19,6 +21,7 @@
             "version": ""
         },
         {
+            "@id": "#ontology_source/b6b91682-47b1-4cf1-8bef-5da87fdc2607",
             "comments": [],
             "description": "Uber Anatomy Ontology",
             "file": "",
@@ -31,26 +34,27 @@
     "publications": [],
     "studies": [
         {
-            "@id": "",
+            "@id": "#study/85dcc158-96e2-4d83-a3a3-77dbbd20d8a5",
             "assays": [
                 {
+                    "@id": "#assay/9c7024f6-dfc4-413b-a853-5423a763143f",
                     "characteristicCategories": [],
                     "comments": [],
                     "dataFiles": [
                         {
-                            "@id": "#data_file/07cbd91d-ae83-4e94-bbb1-fc3d3293f360",
+                            "@id": "#data_file/8a4f6cea-3076-40d6-a022-d3da3fb84442",
                             "comments": [],
                             "name": "sequenced-data-0",
                             "type": "Raw Data File"
                         },
                         {
-                            "@id": "#data_file/89d4183e-a44e-4f70-a9c2-1f497c2abc9a",
+                            "@id": "#data_file/c854674c-6649-4530-bbec-2f28d7b8db14",
                             "comments": [],
                             "name": "sequenced-data-1",
                             "type": "Raw Data File"
                         },
                         {
-                            "@id": "#data_file/f60d8d32-013b-4b33-a41b-cd2a540da4b6",
+                            "@id": "#data_file/1ab98727-20c8-4aa5-9edb-8a2b35804f3e",
                             "comments": [],
                             "name": "sequenced-data-2",
                             "type": "Raw Data File"
@@ -60,21 +64,21 @@
                     "materials": {
                         "otherMaterials": [
                             {
-                                "@id": "#material/aa2bfc56-40a7-4eda-9578-f6a33c77a2af",
+                                "@id": "#material/aed1bc24-fdef-4fad-9d89-48767fd0b8f7",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-0",
                                 "type": "Extract Name"
                             },
                             {
-                                "@id": "#material/63ba17b5-fb75-48b6-9a7c-608d5f6ce08c",
+                                "@id": "#material/6cc66c0d-f2c5-412e-972f-6f3628b34c3b",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-1",
                                 "type": "Extract Name"
                             },
                             {
-                                "@id": "#material/d9b32e2e-157c-4c2a-b1c6-5a65b9c976ce",
+                                "@id": "#material/b7eb65c9-6bea-4856-a8cf-764a9d4870d1",
                                 "characteristics": [],
                                 "comments": [],
                                 "name": "extract-2",
@@ -83,18 +87,18 @@
                         ],
                         "samples": [
                             {
-                                "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                             },
                             {
-                                "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                             },
                             {
-                                "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                             }
                         ]
                     },
                     "measurementType": {
-                        "@id": "#ontology_annotation/7d0feb4a-1b51-47be-a091-ad633cce8324",
+                        "@id": "#ontology_annotation/753a46f1-4be6-47f9-b4f1-2c9dc4ac6ac4",
                         "annotationValue": "gene sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -102,144 +106,144 @@
                     },
                     "processSequence": [
                         {
-                            "@id": "#process/05d53019-483a-4dcd-a504-f8634e3153f7",
+                            "@id": "#process/9fc5f3f9-ac1e-48f0-973e-4b83d55a5c2e",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/abf68547-622b-48e9-9d73-3f43964860dc"
+                                "@id": "#protocol/ec48036d-c05c-4216-91eb-ffa35fba4997"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                    "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/aa2bfc56-40a7-4eda-9578-f6a33c77a2af"
+                                    "@id": "#material/aed1bc24-fdef-4fad-9d89-48767fd0b8f7"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/e1e7485c-9b33-4e54-a851-b29fe5ae2db2"
+                                "@id": "#process/4c20405f-b9cd-46f2-8279-66869fa7e313"
                             }
                         },
                         {
-                            "@id": "#process/e1e7485c-9b33-4e54-a851-b29fe5ae2db2",
+                            "@id": "#process/4c20405f-b9cd-46f2-8279-66869fa7e313",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/0a2b50e8-4374-4368-8a11-844d0372c6e3"
+                                "@id": "#protocol/06012a55-d5ff-40fa-9711-0ff9e94ec0ba"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/aa2bfc56-40a7-4eda-9578-f6a33c77a2af"
+                                    "@id": "#material/aed1bc24-fdef-4fad-9d89-48767fd0b8f7"
                                 }
                             ],
                             "name": "assay-name-0",
                             "nextProcess": {
-                                "@id": "#process/05d53019-483a-4dcd-a504-f8634e3153f7"
+                                "@id": "#process/9fc5f3f9-ac1e-48f0-973e-4b83d55a5c2e"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data_file/07cbd91d-ae83-4e94-bbb1-fc3d3293f360"
+                                    "@id": "#data_file/8a4f6cea-3076-40d6-a022-d3da3fb84442"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": ""
                         },
                         {
-                            "@id": "#process/6ba314d8-d564-4e57-8656-7cb0b15e09cf",
+                            "@id": "#process/c528a0c9-34ec-43d3-a0a8-13e1c01c7576",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/abf68547-622b-48e9-9d73-3f43964860dc"
+                                "@id": "#protocol/ec48036d-c05c-4216-91eb-ffa35fba4997"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                    "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/63ba17b5-fb75-48b6-9a7c-608d5f6ce08c"
+                                    "@id": "#material/6cc66c0d-f2c5-412e-972f-6f3628b34c3b"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/db18425c-8b44-401b-b503-c97219b609c1"
+                                "@id": "#process/3afbb12b-fe9e-40ab-9244-f04f494e516a"
                             }
                         },
                         {
-                            "@id": "#process/db18425c-8b44-401b-b503-c97219b609c1",
+                            "@id": "#process/3afbb12b-fe9e-40ab-9244-f04f494e516a",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/0a2b50e8-4374-4368-8a11-844d0372c6e3"
+                                "@id": "#protocol/06012a55-d5ff-40fa-9711-0ff9e94ec0ba"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/63ba17b5-fb75-48b6-9a7c-608d5f6ce08c"
+                                    "@id": "#material/6cc66c0d-f2c5-412e-972f-6f3628b34c3b"
                                 }
                             ],
                             "name": "assay-name-1",
                             "nextProcess": {
-                                "@id": "#process/6ba314d8-d564-4e57-8656-7cb0b15e09cf"
+                                "@id": "#process/c528a0c9-34ec-43d3-a0a8-13e1c01c7576"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data_file/89d4183e-a44e-4f70-a9c2-1f497c2abc9a"
+                                    "@id": "#data_file/c854674c-6649-4530-bbec-2f28d7b8db14"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": ""
                         },
                         {
-                            "@id": "#process/3c67b0d1-619c-432f-9469-4abed3bfe7b2",
+                            "@id": "#process/034077d2-7546-42f0-b33b-1d6a714bcfbf",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/abf68547-622b-48e9-9d73-3f43964860dc"
+                                "@id": "#protocol/ec48036d-c05c-4216-91eb-ffa35fba4997"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                                    "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                                 }
                             ],
                             "name": "",
                             "outputs": [
                                 {
-                                    "@id": "#material/d9b32e2e-157c-4c2a-b1c6-5a65b9c976ce"
+                                    "@id": "#material/b7eb65c9-6bea-4856-a8cf-764a9d4870d1"
                                 }
                             ],
                             "parameterValues": [],
                             "performer": "",
                             "previousProcess": {
-                                "@id": "#process/814f8ff6-4ea1-40b1-82d2-872446558ab7"
+                                "@id": "#process/b8b46d4a-7f84-42a4-9045-e34720e4fb9b"
                             }
                         },
                         {
-                            "@id": "#process/814f8ff6-4ea1-40b1-82d2-872446558ab7",
+                            "@id": "#process/b8b46d4a-7f84-42a4-9045-e34720e4fb9b",
                             "comments": [],
                             "date": "",
                             "executesProtocol": {
-                                "@id": "#protocol/0a2b50e8-4374-4368-8a11-844d0372c6e3"
+                                "@id": "#protocol/06012a55-d5ff-40fa-9711-0ff9e94ec0ba"
                             },
                             "inputs": [
                                 {
-                                    "@id": "#material/d9b32e2e-157c-4c2a-b1c6-5a65b9c976ce"
+                                    "@id": "#material/b7eb65c9-6bea-4856-a8cf-764a9d4870d1"
                                 }
                             ],
                             "name": "assay-name-2",
                             "nextProcess": {
-                                "@id": "#process/3c67b0d1-619c-432f-9469-4abed3bfe7b2"
+                                "@id": "#process/034077d2-7546-42f0-b33b-1d6a714bcfbf"
                             },
                             "outputs": [
                                 {
-                                    "@id": "#data_file/f60d8d32-013b-4b33-a41b-cd2a540da4b6"
+                                    "@id": "#data_file/1ab98727-20c8-4aa5-9edb-8a2b35804f3e"
                                 }
                             ],
                             "parameterValues": [],
@@ -248,7 +252,7 @@
                     ],
                     "technologyPlatform": "",
                     "technologyType": {
-                        "@id": "#ontology_annotation/e2983d3b-ae46-43c5-9bbe-9cbe34f23cc0",
+                        "@id": "#ontology_annotation/0f0b2f6f-8340-4783-b86d-14477338cd88",
                         "annotationValue": "nucleotide sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -259,9 +263,9 @@
             ],
             "characteristicCategories": [
                 {
-                    "@id": "#characteristic_category/b1166d17-9738-43d2-9ce9-96e59cb8ca63",
+                    "@id": "#characteristic_category/c7661bdd-b020-4d57-98df-67187aeef942",
                     "characteristicType": {
-                        "@id": "#ontology_annotation/b1166d17-9738-43d2-9ce9-96e59cb8ca63",
+                        "@id": "#ontology_annotation/c7661bdd-b020-4d57-98df-67187aeef942",
                         "annotationValue": "Organism",
                         "comments": [],
                         "termAccession": "",
@@ -269,9 +273,9 @@
                     }
                 },
                 {
-                    "@id": "#characteristic_category/405c93f3-b39a-447c-9bc3-649205377039",
+                    "@id": "#characteristic_category/46c6caed-3b8a-42f8-bf61-f0f5aa2b8bb0",
                     "characteristicType": {
-                        "@id": "#ontology_annotation/405c93f3-b39a-447c-9bc3-649205377039",
+                        "@id": "#ontology_annotation/46c6caed-3b8a-42f8-bf61-f0f5aa2b8bb0",
                         "annotationValue": "OrganismPart",
                         "comments": [],
                         "termAccession": "",
@@ -288,7 +292,7 @@
             "description": "Like with the Investigation, we could use the class constructor to set some default values, but have chosen to demonstrate in this example the use of instance variables to set initial values.",
             "factors": [
                 {
-                    "@id": "#study_factor/d6a3aa1a-da14-4542-adce-a7637b06e57e",
+                    "@id": "#study_factor/03a8b3b2-e722-42df-92e1-de2defe0a737",
                     "comments": [
                         {
                             "name": "Study Start Date",
@@ -301,7 +305,7 @@
                     ],
                     "factorName": "treatment['modality']",
                     "factorType": {
-                        "@id": "#ontology_annotation/62d6968c-0d72-456b-9c74-6707a1b8b9e3",
+                        "@id": "#ontology_annotation/ed0d68cc-7622-4551-b47f-12bc8b4cf0ce",
                         "annotationValue": "treatment['modality']",
                         "comments": [],
                         "termAccession": "",
@@ -315,15 +319,15 @@
                 "otherMaterials": [],
                 "samples": [
                     {
-                        "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc",
+                        "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#characteristic_category/405c93f3-b39a-447c-9bc3-649205377039"
+                                    "@id": "#characteristic_category/46c6caed-3b8a-42f8-bf61-f0f5aa2b8bb0"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/f21aedda-ace0-4a19-ac6c-91eaa59056de",
+                                    "@id": "#ontology_annotation/e3357f81-0a05-4be1-842b-6bb8420220d5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -334,22 +338,22 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/6013f464-792d-4745-9358-fc0b1b38d9f7"
+                                "@id": "#source/e55c5523-b44e-41f0-8f3c-f28983ee93ca"
                             }
                         ],
                         "factorValues": [],
                         "name": "sample_material-0"
                     },
                     {
-                        "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc",
+                        "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#characteristic_category/405c93f3-b39a-447c-9bc3-649205377039"
+                                    "@id": "#characteristic_category/46c6caed-3b8a-42f8-bf61-f0f5aa2b8bb0"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/f21aedda-ace0-4a19-ac6c-91eaa59056de",
+                                    "@id": "#ontology_annotation/e3357f81-0a05-4be1-842b-6bb8420220d5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -360,22 +364,22 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/6013f464-792d-4745-9358-fc0b1b38d9f7"
+                                "@id": "#source/e55c5523-b44e-41f0-8f3c-f28983ee93ca"
                             }
                         ],
                         "factorValues": [],
                         "name": "sample_material-1"
                     },
                     {
-                        "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc",
+                        "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#characteristic_category/405c93f3-b39a-447c-9bc3-649205377039"
+                                    "@id": "#characteristic_category/46c6caed-3b8a-42f8-bf61-f0f5aa2b8bb0"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/f21aedda-ace0-4a19-ac6c-91eaa59056de",
+                                    "@id": "#ontology_annotation/e3357f81-0a05-4be1-842b-6bb8420220d5",
                                     "annotationValue": "liver",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/UBERON/123245",
@@ -386,7 +390,7 @@
                         "comments": [],
                         "derivesFrom": [
                             {
-                                "@id": "#source/6013f464-792d-4745-9358-fc0b1b38d9f7"
+                                "@id": "#source/e55c5523-b44e-41f0-8f3c-f28983ee93ca"
                             }
                         ],
                         "factorValues": [],
@@ -395,15 +399,15 @@
                 ],
                 "sources": [
                     {
-                        "@id": "#source/6013f464-792d-4745-9358-fc0b1b38d9f7",
+                        "@id": "#source/e55c5523-b44e-41f0-8f3c-f28983ee93ca",
                         "characteristics": [
                             {
                                 "category": {
-                                    "@id": "#characteristic_category/b1166d17-9738-43d2-9ce9-96e59cb8ca63"
+                                    "@id": "#characteristic_category/c7661bdd-b020-4d57-98df-67187aeef942"
                                 },
                                 "comments": [],
                                 "value": {
-                                    "@id": "#ontology_annotation/3d88cbca-501c-478c-9507-918db5e920aa",
+                                    "@id": "#ontology_annotation/a6d42a6d-eea2-4fbd-8365-8ba4ea481f0d",
                                     "annotationValue": "Homo Sapiens",
                                     "comments": [],
                                     "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/9606",
@@ -418,7 +422,7 @@
             },
             "people": [
                 {
-                    "@id": "#person/6b333daa-fdce-44a3-acc0-21af9c2429cd",
+                    "@id": "#person/82770424-f57e-4034-95a2-081022becd25",
                     "address": "",
                     "affiliation": "University of Life",
                     "comments": [],
@@ -430,7 +434,7 @@
                     "phone": "",
                     "roles": [
                         {
-                            "@id": "#ontology_annotation/f954eb46-84c5-4525-a116-ecea7c178cd9",
+                            "@id": "#ontology_annotation/1a056a02-2a50-4958-b7cf-bcb02949a1a4",
                             "annotationValue": "submitter",
                             "comments": [],
                             "termAccession": "",
@@ -441,27 +445,27 @@
             ],
             "processSequence": [
                 {
-                    "@id": "#process/12e9909a-0177-4a19-b61b-e105708612ca",
+                    "@id": "#process/f7744690-5310-4b50-b4a5-bd3280fe2d04",
                     "comments": [],
                     "date": "",
                     "executesProtocol": {
-                        "@id": "#protocol/c6304e51-a9be-4239-b817-cbfe5ca13963"
+                        "@id": "#protocol/c709be53-4b6e-450b-9029-3b0db94185d7"
                     },
                     "inputs": [
                         {
-                            "@id": "#source/6013f464-792d-4745-9358-fc0b1b38d9f7"
+                            "@id": "#source/e55c5523-b44e-41f0-8f3c-f28983ee93ca"
                         }
                     ],
                     "name": "",
                     "outputs": [
                         {
-                            "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                            "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                         },
                         {
-                            "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                            "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                         },
                         {
-                            "@id": "#sample/f86f450b-79df-47a2-a52a-e6ee0f6677cc"
+                            "@id": "#sample/e0a47e4d-32f6-4a89-8d3b-936f643d6af0"
                         }
                     ],
                     "parameterValues": [],
@@ -470,7 +474,7 @@
             ],
             "protocols": [
                 {
-                    "@id": "#protocol/c6304e51-a9be-4239-b817-cbfe5ca13963",
+                    "@id": "#protocol/c709be53-4b6e-450b-9029-3b0db94185d7",
                     "comments": [
                         {
                             "name": "Study Start Date",
@@ -486,7 +490,7 @@
                     "name": "sample collection",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/34cf6ab8-c98c-4888-9505-7b1b4a30ceee",
+                        "@id": "#ontology_annotation/a9f24e22-eeb4-4554-a998-bae266fbffbd",
                         "annotationValue": "sample collection",
                         "comments": [],
                         "termAccession": "",
@@ -496,14 +500,14 @@
                     "version": ""
                 },
                 {
-                    "@id": "#protocol/abf68547-622b-48e9-9d73-3f43964860dc",
+                    "@id": "#protocol/ec48036d-c05c-4216-91eb-ffa35fba4997",
                     "comments": [],
                     "components": [],
                     "description": "",
                     "name": "extraction",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/b543af0d-5692-4fb3-acc6-ffa508d28ab8",
+                        "@id": "#ontology_annotation/d0f14837-dd53-437f-b1ac-2bd55a037efe",
                         "annotationValue": "material extraction",
                         "comments": [],
                         "termAccession": "",
@@ -513,14 +517,14 @@
                     "version": ""
                 },
                 {
-                    "@id": "#protocol/0a2b50e8-4374-4368-8a11-844d0372c6e3",
+                    "@id": "#protocol/06012a55-d5ff-40fa-9711-0ff9e94ec0ba",
                     "comments": [],
                     "components": [],
                     "description": "",
                     "name": "sequencing",
                     "parameters": [],
                     "protocolType": {
-                        "@id": "#ontology_annotation/0fb54799-acea-4a39-90cf-a5915533d154",
+                        "@id": "#ontology_annotation/a7e01abf-bfc7-4b39-9702-f3a557da73f7",
                         "annotationValue": "material sequencing",
                         "comments": [],
                         "termAccession": "",
@@ -533,13 +537,13 @@
             "publicReleaseDate": "2016-11-03",
             "publications": [
                 {
-                    "@id": "#publication/5eff2ff0-23db-4709-8331-d818fb54feac",
+                    "@id": "#publication/f7fe3684-6f11-44c8-9fac-e6491772a016",
                     "authorList": "A. Robertson, B. Robertson",
                     "comments": [],
                     "doi": "",
                     "pubMedID": "12345678",
                     "status": {
-                        "@id": "#ontology_annotation/025f41ee-67f0-405b-bc66-8409fe888329",
+                        "@id": "#ontology_annotation/1fc8db9e-c170-4eaa-a0d4-c70d65dd5030",
                         "annotationValue": "published",
                         "comments": [],
                         "termAccession": "",
@@ -550,7 +554,7 @@
             ],
             "studyDesignDescriptors": [
                 {
-                    "@id": "#ontology_annotation/28185832-8ff2-4b90-855c-6c68d8978db6",
+                    "@id": "#ontology_annotation/905192cb-b56a-4256-bd23-63f609f2ddf5",
                     "annotationValue": "intervention design",
                     "comments": [],
                     "termAccession": "http://purl.obolibrary.org/obo/OBI_0000115",

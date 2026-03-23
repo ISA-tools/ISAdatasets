@@ -36,7 +36,7 @@
             [
                 {
                     "node_type": "labeled extract",
-                    "characteristics_category": "labelled extract type",
+                    "characteristics_category": "label",
                     "characteristics_value": "",
                     "size": 1,
                     "is_input_to_next_protocols": true
