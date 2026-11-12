@@ -8,7 +8,7 @@ Investigation Identifier	MOE
 Investigation Title	Investigation																	
 Investigation Description	Created using the MetaboLights Online Editor (MOE)																	
 Investigation Submission Date																		
-Investigation Public Release Date	28/09/2020																	
+Investigation Public Release Date	2020-09-28																	
 Comment[Created With Configuration]	MetaboLightsConfig20150707																	
 Comment[Last Opened With Configuration]	MetaboLightsConfig20150707																	
 INVESTIGATION PUBLICATIONS																		
@@ -37,7 +37,7 @@ Study Identifier	MTBLS1846
 Study Title	Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria																	
 Study Description	"<p><strong>Background</strong></p><p>Antibiotic treatment has a well-established detrimental effect on the gut bacterial composition, but effects on the fungal community are less clear. Bacteria in the lumen of the gastrointestinal tract may limit fungal colonization and invasion. Antibiotic drugs targeting bacteria are therefore seen as an important risk factor for fungal infections and induced allergies. However, antibiotic effects on gut bacterial-fungal interactions, including disruption and resilience of fungal community compositions, were not investigated in humans. We analysed stool samples collected from 14 healthy human participants over three months following a 6-day antibiotic administration. We integrated data from shotgun metagenomics, metatranscriptomics, metabolomics, and fungal ITS2 sequencing.&nbsp;</p><p><strong>Results</strong></p><p>While the bacterial community recovered mostly over three months post treatment, the fungal community was shifted from mutualism at baseline to competition. Half of the bacterial-fungal interactions present before drug intervention had disappeared three months later. During treatment, fungal abundances were associated with the expression of bacterial genes with functions for cell growth and repair. By extending the metagenomic species approach, we revealed bacterial strains inhibiting the opportunistic fungal pathogen&nbsp;Candida albicans. We demonstrate&nbsp;in vitro&nbsp;how&nbsp;C. albicans pathogenicity and host cell damage might be controlled naturally in the human gut by bacterial metabolites such as propionate or 5-dodecenoate.</p><p><strong>Conclusions</strong></p><p>We demonstrate that antibacterial drugs have long-term influence on the human gut mycobiome. While bacterial communities recovered mostly 30-days post antibacterial treatment, the fungal community was shifted from mutualism towards competition.</p><p><br></p><p><strong>Linked data:</strong></p><p>Metagenomics has been submitted to NCBI SRA repository as projects PRJNA573821, PRJNA573905 and PRJNA579284.</p>"																	
 Study Submission Date																		
-Study Public Release Date	28/09/2020																	
+Study Public Release Date	2020-09-28																	
 Study File Name	s_MTBLS1846.txt																	
 STUDY DESIGN DESCRIPTORS																		
 Study Design Type	microbiome	antibiotics	mycrobiome	ultra-performance liquid chromatography-mass spectrometry	Gas chromatography mass spectrometry													

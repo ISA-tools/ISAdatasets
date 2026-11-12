@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+<SAMPLE accession="SRS495496" alias="L77_M1.5" center_name="Stanford University" broker_name="NCBI">
+     <IDENTIFIERS>
+          <PRIMARY_ID>SRS495496</PRIMARY_ID>
+          <EXTERNAL_ID namespace="BioSample">SAMN02377512</EXTERNAL_ID>
+          <SUBMITTER_ID namespace="Stanford University">L77_M1.5</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <TITLE>L77_M1.5</TITLE>
+     <SAMPLE_NAME>
+          <TAXON_ID>9606</TAXON_ID>
+          <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+          <COMMON_NAME>human</COMMON_NAME>
+     </SAMPLE_NAME>
+     <DESCRIPTION>Lung transplant recipient</DESCRIPTION>
+     <SAMPLE_LINKS>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-FASTQ-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495496&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-SUBMITTED-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495496&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+</SAMPLE_LINKS>
+<SAMPLE_ATTRIBUTES>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>collection_date</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subgroup</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>dev_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>anamorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sample_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolate</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subtype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_line</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>teleomorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subspecf_gen_lin</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>pathovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specific_host</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Biopsy_grade</TAG>
+               <VALUE>Undet</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>phenotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>strain</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>health_state</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>INSDC secondary accession</TAG>
+               <VALUE>SRS495496</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>haplotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>organism</TAG>
+               <VALUE>Homo sapiens</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sex</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>label</TAG>
+               <VALUE>L77_M1.5</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Months_post_transplant</TAG>
+               <VALUE>1.5</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>culture_collection</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>breed</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>genotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specimen_voucher</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>body site</TAG>
+               <VALUE>plasma</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>NCBI submission package</TAG>
+               <VALUE>Generic.1.0</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cultivar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>biome</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>authority</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>geo_loc_name</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>tissue_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>age</TAG>
+               <VALUE>56</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolation_source</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>BioSampleModel</TAG>
+               <VALUE>Generic</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-FIRST-PUBLIC</TAG>
+               <VALUE>2013-10-18</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-LAST-UPDATE</TAG>
+               <VALUE>2026-08-30</VALUE>
+          </SAMPLE_ATTRIBUTE>
+     </SAMPLE_ATTRIBUTES>
+</SAMPLE>
+<SAMPLE accession="SRS495497" alias="L77_M1" center_name="Stanford University" broker_name="NCBI">
+     <IDENTIFIERS>
+          <PRIMARY_ID>SRS495497</PRIMARY_ID>
+          <EXTERNAL_ID namespace="BioSample">SAMN02377513</EXTERNAL_ID>
+          <SUBMITTER_ID namespace="Stanford University">L77_M1</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <TITLE>L77_M1</TITLE>
+     <SAMPLE_NAME>
+          <TAXON_ID>9606</TAXON_ID>
+          <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+          <COMMON_NAME>human</COMMON_NAME>
+     </SAMPLE_NAME>
+     <DESCRIPTION>Lung transplant recipient</DESCRIPTION>
+     <SAMPLE_LINKS>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-FASTQ-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495497&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-SUBMITTED-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495497&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+</SAMPLE_LINKS>
+<SAMPLE_ATTRIBUTES>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>collection_date</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subgroup</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>dev_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>anamorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sample_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolate</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subtype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_line</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>teleomorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subspecf_gen_lin</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>pathovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specific_host</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Biopsy_grade</TAG>
+               <VALUE>Undet</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>phenotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>strain</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>health_state</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>INSDC secondary accession</TAG>
+               <VALUE>SRS495497</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>haplotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>organism</TAG>
+               <VALUE>Homo sapiens</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sex</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>label</TAG>
+               <VALUE>L77_M1</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Months_post_transplant</TAG>
+               <VALUE>1</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>culture_collection</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>breed</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>genotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specimen_voucher</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>body site</TAG>
+               <VALUE>plasma</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>NCBI submission package</TAG>
+               <VALUE>Generic.1.0</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cultivar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>biome</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>authority</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>geo_loc_name</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>tissue_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>age</TAG>
+               <VALUE>56</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolation_source</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>BioSampleModel</TAG>
+               <VALUE>Generic</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-FIRST-PUBLIC</TAG>
+               <VALUE>2013-10-18</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-LAST-UPDATE</TAG>
+               <VALUE>2026-08-30</VALUE>
+          </SAMPLE_ATTRIBUTE>
+     </SAMPLE_ATTRIBUTES>
+</SAMPLE>
+<SAMPLE accession="SRS495498" alias="L77_M2" center_name="Stanford University" broker_name="NCBI">
+     <IDENTIFIERS>
+          <PRIMARY_ID>SRS495498</PRIMARY_ID>
+          <EXTERNAL_ID namespace="BioSample">SAMN02377514</EXTERNAL_ID>
+          <SUBMITTER_ID namespace="Stanford University">L77_M2</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <TITLE>L77_M2</TITLE>
+     <SAMPLE_NAME>
+          <TAXON_ID>9606</TAXON_ID>
+          <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+          <COMMON_NAME>human</COMMON_NAME>
+     </SAMPLE_NAME>
+     <DESCRIPTION>Lung transplant recipient</DESCRIPTION>
+     <SAMPLE_LINKS>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-FASTQ-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495498&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-SUBMITTED-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495498&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+</SAMPLE_LINKS>
+<SAMPLE_ATTRIBUTES>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>collection_date</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subgroup</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>dev_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>anamorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sample_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolate</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subtype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_line</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>teleomorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subspecf_gen_lin</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>pathovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specific_host</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Biopsy_grade</TAG>
+               <VALUE>Undet</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>phenotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>strain</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>health_state</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>INSDC secondary accession</TAG>
+               <VALUE>SRS495498</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>haplotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>organism</TAG>
+               <VALUE>Homo sapiens</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sex</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>label</TAG>
+               <VALUE>L77_M2</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Months_post_transplant</TAG>
+               <VALUE>2</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>culture_collection</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>breed</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>genotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specimen_voucher</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>body site</TAG>
+               <VALUE>plasma</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>NCBI submission package</TAG>
+               <VALUE>Generic.1.0</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cultivar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>biome</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>authority</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>geo_loc_name</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>tissue_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>age</TAG>
+               <VALUE>56</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolation_source</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>BioSampleModel</TAG>
+               <VALUE>Generic</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-FIRST-PUBLIC</TAG>
+               <VALUE>2013-10-18</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-LAST-UPDATE</TAG>
+               <VALUE>2026-08-30</VALUE>
+          </SAMPLE_ATTRIBUTE>
+     </SAMPLE_ATTRIBUTES>
+</SAMPLE>
+<SAMPLE accession="SRS495499" alias="L77_M3" center_name="Stanford University" broker_name="NCBI">
+     <IDENTIFIERS>
+          <PRIMARY_ID>SRS495499</PRIMARY_ID>
+          <EXTERNAL_ID namespace="BioSample">SAMN02377515</EXTERNAL_ID>
+          <SUBMITTER_ID namespace="Stanford University">L77_M3</SUBMITTER_ID>
+     </IDENTIFIERS>
+     <TITLE>L77_M3</TITLE>
+     <SAMPLE_NAME>
+          <TAXON_ID>9606</TAXON_ID>
+          <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+          <COMMON_NAME>human</COMMON_NAME>
+     </SAMPLE_NAME>
+     <DESCRIPTION>Lung transplant recipient</DESCRIPTION>
+     <SAMPLE_LINKS>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-FASTQ-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495499&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+    <SAMPLE_LINK>
+        <XREF_LINK>
+            <DB>ENA-SUBMITTED-FILES</DB>
+            <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRS495499&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+        </XREF_LINK>
+    </SAMPLE_LINK>
+</SAMPLE_LINKS>
+<SAMPLE_ATTRIBUTES>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>collection_date</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subgroup</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>dev_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>anamorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sample_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolate</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subtype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_line</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>teleomorph</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>subspecf_gen_lin</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cell_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>pathovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specific_host</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Biopsy_grade</TAG>
+               <VALUE>Undet</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>phenotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>strain</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>health_state</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>INSDC secondary accession</TAG>
+               <VALUE>SRS495499</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>haplotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>organism</TAG>
+               <VALUE>Homo sapiens</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>sex</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>disease_stage</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>label</TAG>
+               <VALUE>L77_M3</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>Months_post_transplant</TAG>
+               <VALUE>3</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>culture_collection</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>breed</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>genotype</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>specimen_voucher</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>body site</TAG>
+               <VALUE>plasma</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>NCBI submission package</TAG>
+               <VALUE>Generic.1.0</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>cultivar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>biome</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>authority</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>serovar</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>geo_loc_name</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>tissue_type</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>age</TAG>
+               <VALUE>56</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>isolation_source</TAG>
+               <VALUE>not applicable</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>BioSampleModel</TAG>
+               <VALUE>Generic</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-FIRST-PUBLIC</TAG>
+               <VALUE>2013-10-18</VALUE>
+          </SAMPLE_ATTRIBUTE>
+          <SAMPLE_ATTRIBUTE>
+               <TAG>ENA-LAST-UPDATE</TAG>
+               <VALUE>2026-08-30</VALUE>
+          </SAMPLE_ATTRIBUTE>
+     </SAMPLE_ATTRIBUTES>
+</SAMPLE>
+</SAMPLE_SET>

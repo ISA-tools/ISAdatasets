@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	BTO	CHEBI	CHMO	EFO	ENVO	MESH	MI	MS	MTBLS	NCBITaxon	NCIT	OBI	PR	TO	UO	portaldoexternalidsATG
+Term Source File	http://purl.obolibrary.org/obo/bto.owl	http://purl.obolibrary.org/obo/chebi.owl	http://purl.obolibrary.org/obo/chmo.owl	http://www.ebi.ac.uk/efo/efo.owl	http://purl.obolibrary.org/obo/envo.owl	https://data.bioontology.org/ontologies/MESH	http://purl.obolibrary.org/obo/mi.owl	http://purl.obolibrary.org/obo/ms.owl	https://github.com/EBI-Metabolights/MtblsWS-Py/blob/main/resources/Metabolights.owl	http://purl.obolibrary.org/obo/ncbitaxon.owl	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/obi.owl	http://purl.obolibrary.org/obo/pr.owl	http://purl.obolibrary.org/obo/to.owl	http://purl.obolibrary.org/obo/uo.owl	
+Term Source Version		248	2025-10-21	3.86.0	2025-10-20					2025-12-03	25.06e	2025-12-18			2026-01-16	
+Term Source Description	The BRENDA Tissue Ontology (BTO)	Chemical Entities of Biological Interest	Chemical Methods Ontology	Experimental Factor Ontology	The Environment Ontology	Medical Subject Headings	Molecular Interactions Controlled Vocabulary	Mass spectrometry ontology	MetaboLights Controlled Vocabulary	NCBI organismal classification	NCI Thesaurus OBO Edition	Ontology for Biomedical Investigations	PRotein Ontology (PRO)	Plant Trait Ontology	Units of measurement ontology	
+INVESTIGATION
+Investigation Identifier	MTBLS2289
+Investigation Title	Overexpression of the vascular brassinosteroid receptor BRL3 confers drought resistance without penalizing plant growth
+Investigation Description	Created using the MetaboLights Online Editor (MOE)
+Investigation Submission Date	2020-12-07
+Investigation Public Release Date	2021-05-17
+Comment[Created With Configuration]	MetaboLightsConfig20150707
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS2289
+Study Title	Overexpression of the vascular brassinosteroid receptor BRL3 confers drought resistance without penalizing plant growth
+Study Description	<p>Drought represents a major threat to food security. Mechanistic data describing plant responses to drought have been studied extensively and genes conferring drought resistance have been introduced into crop plants. However, plants with enhanced drought resistance usually display lower growth, highlighting the need for strategies to uncouple drought resistance from growth. Here, we show that overexpression of BRL3, a vascular-enriched member of the brassinosteroid receptor family, can confer drought stress tolerance in <em>Arabidopsis</em>. Whereas loss-of-function mutations in the ubiquitously expressed BRI1 receptor leads to drought resistance at the expense of growth, overexpression of BRL3 receptor confers drought tolerance without penalizing overall growth. Systematic analyses reveal that upon drought stress, increased BRL3 triggers the accumulation of osmoprotectant metabolites including proline and sugars. Transcriptomic analysis suggests that this results from differential expression of genes in the vascular tissues. Altogether, this data suggests that manipulating BRL3 expression could be used to engineer drought tolerant crops.</p>
+Study Submission Date	2020-12-07
+Study Public Release Date	2021-05-17
+Study File Name	s_MTBLS2289.txt
+Comment[Created At]	2020-12-07T00:00:00
+Comment[License]	EMBL-EBI Terms of Use
+Comment[Revision]	4
+Comment[Revision Date]	
+Comment[Revision Log]	updating data license
+Comment[Sample Template]	minimum
+Comment[Study Category]	other
+Comment[Study Template]	
+Comment[Template Version]	1.0
+STUDY DESIGN DESCRIPTORS
+Study Design Type	untargeted metabolites	drought tolerance	brassinosteroid	Genetic	Growth	gas chromatography time-of-flight mass spectrometry	BRL3 (Arabidopsis thaliana)
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279	http://purl.obolibrary.org/obo/TO_0000276	http://purl.obolibrary.org/obo/CHEBI_22921	http://purl.obolibrary.org/obo/NCIT_C17938	http://purl.obolibrary.org/obo/NCIT_C64379	http://purl.obolibrary.org/obo/CHMO_0000735	https://bar.utoronto.ca/thalemine/portal.do?externalids=AT3G13380
+Study Design Type Term Source REF	MTBLS	TO	CHEBI	NCIT	NCIT	CHMO	portaldoexternalidsATG
+STUDY PUBLICATIONS
+Study PubMed ID	30409967
+Study Publication DOI	10.1038/s41467-018-06861-3
+Study Publication Author List	Fàbregas N, Lozano-Elena F, Blasco-Escámez D, Tohge T, Martínez-Andújar C, Albacete A, Osorio S, Bustamante M, Riechmann JL, Nomura T, Yokota T, Conesa A, Alfocea FP, Fernie AR, Caño-Delgado AI.
+Study Publication Title	Overexpression of the vascular brassinosteroid receptor BRL3 confers drought resistance without penalizing plant growth.
+Study Publication Status	published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+STUDY FACTORS
+Study Factor Name	Genotype	Timepoint	Drought stress	Replicate	Sample weight
+Study Factor Type	genotype	timepoint	treatment	replicate	Weight
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000513	http://www.ebi.ac.uk/efo/EFO_0000724	http://www.ebi.ac.uk/efo/EFO_0000727	http://www.ebi.ac.uk/efo/EFO_0000683	http://purl.obolibrary.org/obo/NCIT_C25208
+Study Factor Type Term Source REF	EFO	EFO	EFO	EFO	NCIT
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS2289_GC-MS___metabolite_profiling.txt
+Study Assay Measurement Type	metabolite profiling assay
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	mass spectrometry assay
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Gas Chromatography MS -
+Comment[Assay Identifier]	
+Comment[Assay Type Label]	GC-MS
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	chromatography	mass spectrometry	data transformation	metabolite identification
+Study Protocol Type Term Accession Number			http://purl.obolibrary.org/obo/CHMO_0001000	http://purl.obolibrary.org/obo/CHMO_0000470	http://purl.obolibrary.org/obo/OBI_0200000	http://purl.obolibrary.org/obo/MI_2131
+Study Protocol Type Term Source REF			CHMO	CHMO	OBI	MI
+Study Protocol Description	<p><strong>Plant materials</strong></p><p><em>Arabidopsis </em>seeds of <strong>WT </strong>(<strong>Col-0 ecotype</strong>) and mutants, <strong>BRL3ox </strong>and <strong>quad[1]</strong>, were sterilized with 35% NaClO for 5 min and washed 5 times for 5 min with sterile dH2O. Sterile seeds were vernalized 48 h at 4 °C and grown in half-strength agar Murashige and Skoog (MS1/2) media with vitamins and without sucrose. Plates were grown vertically in long day (LD) conditions (16 h of light/8 h of dark; 22 °C, 60% relative humidity). Genotypes used in this study: <strong>Columbia-0 WT (Col-0 WT)</strong>, <strong>brl1-1brl3-1 (brl1brl3)</strong>, <strong>bak1-3 (bak1)</strong>, <strong>bri1-301 (bri1)</strong>, <strong>bri1-301brl1-1brl3-1 (bri1brl1brl3)</strong>, <strong>bri1-301bak1-3brl1-1brl3-1 </strong>(<strong>quad</strong>), and 35S:<strong>BRL3-GFP (BRL3ox)[2].</strong></p><p><br></p><p><strong>Metabolite profiling analyses</strong></p><p>1-wk-old seedlings were placed in individual pots with 30 g of autoclaved soil and grown under LD photoperiodic conditions. After 3 wk growing, half of the plants were subjected to severe drought (withholding water) for 6 d and the other half were watered normally (well-watered control conditions). A total of 5 biological replicates were collected every 24 h during the time course (from Day 0 to Day 6) both in drought and watered conditions, and for each genotype (<strong>WT</strong>, <strong>quad</strong>, and <strong>BRL3ox</strong>). 4 independent plants were bulked in each biological replicate. Roots were manually separated from shoots. 4 entire shoots were grinded using the Frosty Cryogenic grinder system (Labman). 4 entire root samples were grinded in the Tissue Lyser Mixer-Mill (Qiagen). Roots were aliquoted into 20 mg samples and shoot into 50 mg samples (the exact weight was annotated for data normalization).</p><p><br></p><p><strong>Refs:</strong></p><p><strong>[1] </strong>Fàbregas N, Lozano-Elena F, Blasco-Escámez D, Tohge T, Martínez-Andújar C, Albacete A, Osorio S, Bustamante M, Riechmann JL, Nomura T, Yokota T, Conesa A, Alfocea FP, Fernie AR, Caño-Delgado AI. Overexpression of the vascular brassinosteroid receptor BRL3 confers drought resistance without penalizing plant growth. Nat Commun. 2018 Nov 8;9(1):4680. doi:10.1038/s41467-018-06861-3. PMID:30409967</p><p><strong>[2]</strong> Fàbregas N, Li N, Boeren S, Nash TE, Goshe MB, Clouse SD, de Vries S, Caño-Delgado AI. The brassinosteroid insensitive1-like3 signalosome complex regulates Arabidopsis root development. Plant Cell. 2013 Sep;25(9):3377-88. doi:10.1105/tpc.113.114462. Epub 2013 Sep 24. PMID:24064770</p>	<p>Primary metabolite extraction was carried as follows<strong>[1]</strong>. 1 zirconia and 500 μL of 100% methanol premixed with ribitol (20:1) were added and samples were subsequently homogenized in the Tissue Lyser (Qiagen) 3 min at 25 Hz. Samples were centrifuged 10 min at 14,000 rpm (10 °C) and resulting supernatant was transferred into fresh tubes. Addition of 200 μL of CHCl3 and vortex ensuring 1 single phase followed by the addition of 600 μL of H2O and vortex 15 s. Samples were centrifuged 10 min at 14,000 rpm (10 °C). 100 μL from the upper phase (polar phase) were transferred into fresh eppendorf tubes (1.5 mL) and dried in the speed vacuum for at least 3 h without heating. 40 μL of derivatization agent (methoxyaminhydrochloride in pyridine) were added to each sample (20 mg/mL). Samples were shaken for 3 h at 900 rpm at 37 °C. Drops on the cover were shortly spun down. 1 sample vial with 1 mL MSTFA + 20 μL FAME mix was prepared. Addition of 70 μL MSTFA + FAMEs in each sample was done followed by shaking 30 min at 37 °C. Drops on the cover were shortly spun down.</p><p><br></p><p><strong>Ref:</strong></p><p><strong>[1] </strong>Lisec J, Schauer N, Kopka J, Willmitzer L, Fernie AR. Gas chromatography mass spectrometry-based metabolite profiling in plants. Nat Protoc. 2006;1(1):387-96. doi:10.1038/nprot.2006.59. Erratum in: Nat Protoc. 2015 Sep;10(9):1457. PMID:17406261</p>	<p>Samples were transferred into glass vials specific for injection in GC–TOF–MS. The GC–TOF–MS system comprised of a CTC CombiPAL autosampler, an Agilent 6890N gas chromatograph. Samples were processed using a DB-35 capillary column of dimensions, 30 m length, 0.32 mm inner diameter, and 0.25 µm film thickness mounted to a Agilent 6890N gas chromatograph (Agilent). The n-alkanes used to calculate the retention time index were as follows: decane, dodecane, pentadecane, octadecane, nonadecane, docosane, octacosane, dotriacontane, hexatriacontane. Additional information on the retention time index calculations has been previously published<strong>[1]</strong>.</p><p><br></p><p><strong>Ref:</strong></p><p><strong>[1] </strong>Erban A, Schauer N, Fernie AR, Kopka J. Nonsupervised construction and application of mass spectral and retention time index libraries from time-of-flight gas chromatography-mass spectrometry metabolite profiles. Methods Mol Biol. 2007;358:19-38. doi:10.1007/978-1-59745-244-1_2. PMID:17035678</p>	<p>Samples were transferred into glass vials specific for injection in GC–TOF–MS. The GC–TOF–MS system comprised of a CTC CombiPAL autosampler, an Agilent 6890N gas chromatograph, and a LECO Pegasus III TOF–MS running in EI+ mode.</p>	<p>No data transformation information was supplied for this study. </p>	<p>Metabolites were identified by comparing to database entries of authentic standards<strong>[1]</strong>. Metabolites were identified using the <strong>NIST05 </strong>mass spectral search and comparison software (National Institute of Standards and Technology, Gaithersburg, MD, USA; <a href='http://www.nist.gov/srd/mslist.htm' rel='noopener noreferrer' target='_blank'>http://www.nist.gov/srd/mslist.htm</a>) and the mass spectral and retention time index (RI) collection of the <strong>Golm Metabolome Database[2]</strong>.</p><p><br></p><p>Chromatograms were evaluated using<strong> Chroma TOF 1.0</strong> (Leco) Pegasus software was used for peak identification and correction of RT. Mass spectra were evaluated using the <strong>TagFinder 4.0</strong> software<strong>[3] </strong>for metabolite annotation and quantification (peak area measurements)&nbsp;and matches accepted with thresholds of match &gt; 650 (with maximum match equal to 1000) and RI deviation &lt; 5%. RIs were calculated form standard additions to each chromatogram of a mixture of C12, C15, C19, C22, C32, C36 n-alkanes.</p><p><br></p><p>The resulting data matrix was normalized using an internal standard, Ribitol, in 100% methanol (20:1), followed by normalization with the fresh weight of each sample. Metabolomics data from control (well-watered) conditions at Day 0 were analyzed with a 2-tailed t-test, p-value &lt; 0.05 (no multiple testing correction). Data from the time course was analyzed with <strong>R </strong>software using the <strong><em>maSigPro </em></strong>package<strong>[4]</strong>. Briefly, the profile of each metabolite under each condition was fitted to a polynomial model of maximum degree 3. The curves of each genotype were statistically compared taking into account the fitting value and correcting the p-value (Benjamini–Hochberg method). Significant metabolites (p-value &lt; 0.05) having a differential profile between genotypes were plotted to visualize their behavior under the drought time course. Clustering analysis was performed using the <strong><em>maSigPro </em></strong>package and the <strong><em>hclust </em></strong>R core function.</p><p><br></p><p><strong>Refs:</strong></p><p><strong>[1] </strong>Kopka J, Schauer N, Krueger S, Birkemeyer C, Usadel B, Bergmüller E, Dörmann P, Weckwerth W, Gibon Y, Stitt M, Willmitzer L, Fernie AR, Steinhauser D. GMD@CSB.DB: the Golm Metabolome Database. Bioinformatics. 2005 Apr 15;21(8):1635-8. doi:10.1093/bioinformatics/bti236. Epub 2004 Dec 21. PMID:15613389</p><p><strong>[2]</strong> Schauer N, Steinhauser D, Strelkov S, Schomburg D, Allison G, Moritz T, Lundgren K, Roessner-Tunali U, Forbes MG, Willmitzer L, Fernie AR, Kopka J. GC-MS libraries for the rapid identification of metabolites in complex biological samples. FEBS Lett. 2005 Feb 28;579(6):1332-7. doi:10.1016/j.febslet.2005.01.029. Epub 2005 Jan 28. PMID:15733837</p><p><strong>[3]</strong> Luedemann A, Strassburg K, Erban A, Kopka J. TagFinder for the quantitative analysis of gas chromatography--mass spectrometry (GC-MS)-based metabolite profiling experiments. Bioinformatics. 2008 Mar 1;24(5):732-7. doi:10.1093/bioinformatics/btn023. Epub 2008 Jan 19. PMID:18204057</p><p><strong>[4]</strong> Conesa A, Nueda MJ, Ferrer A, Talón M. maSigPro: a method to identify significantly differential expression profiles in time-course microarray experiments. Bioinformatics. 2006 May 1;22(9):1096-102. doi:10.1093/bioinformatics/btl056. Epub 2006 Feb 15. PMID:16481333</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Fàbregas	Blasco-Escámez	Tohge	Martínez-Andújar	Albacete	Osorio	Bustamante	Riechmann	Nomura	Yokota	Conesa	Alfocea	Fernie	Caño-Delgado	Lozano-Elena
+Study Person First Name	Norma	David	Takayuki	Cristina	Alfonso	Sonia	Mariana	José Luis	Takahito	Takao	Ana	Francisco Pérez	Alisdair R	Ana	Fidel
+Study Person Mid Initials														I	
+Study Person Email														ana.cano@cragenomica.es	fidel.lozano@cragenomica.es
+Study Person Phone															
+Study Person Fax															
+Study Person Address															
+Study Person Affiliation														Center for Research in Agricultural Genomics	Center for Research in Agricultural Genomics (CRAG)
+Study Person Roles	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Principal Investigator	Submitter
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C19924	http://purl.obolibrary.org/obo/NCIT_C42781
+Study Person Roles Term Source REF	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	NCIT	
+Comment[Study Person ORCID]														0000-0002-8071-6724	
+Comment[Study Person Affiliation ROR ID]														https://ror.org/04tz2h245	

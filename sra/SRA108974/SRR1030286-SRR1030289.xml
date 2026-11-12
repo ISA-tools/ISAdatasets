@@ -1,0 +1,270 @@
+<RUN_SET>
+<RUN accession="SRR1030286" alias="A22_M7.1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRR1030286</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M7.1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>Illumina HiSeq 2000 sequencing; A22_M7.1</TITLE>
+  <EXPERIMENT_REF accession="SRX377934" refcenter="Stanford University" refname="A22_M7.1">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRX377934</PRIMARY_ID>
+      <SUBMITTER_ID namespace="Stanford University">A22_M7.1</SUBMITTER_ID>
+    </IDENTIFIERS>
+  </EXPERIMENT_REF>
+  <RUN_LINKS>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-STUDY</DB>
+        <ID>SRP032345</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495116</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030286&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030286&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+  </RUN_LINKS>
+  <RUN_ATTRIBUTES>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-FIRST-PUBLIC</TAG>
+      <VALUE>2013-11-26</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-LAST-UPDATE</TAG>
+      <VALUE>2015-06-19</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-BASE-COUNT</TAG>
+      <VALUE>1159745865</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-SPOT-COUNT</TAG>
+      <VALUE>22740115</VALUE>
+    </RUN_ATTRIBUTE>
+  </RUN_ATTRIBUTES>
+</RUN>
+<RUN accession="SRR1030287" alias="A22_M8.5.1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRR1030287</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M8.5.1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>Illumina HiSeq 2000 sequencing; A22_M8.5.1</TITLE>
+  <EXPERIMENT_REF accession="SRX377935" refcenter="Stanford University" refname="A22_M8.5.1">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRX377935</PRIMARY_ID>
+      <SUBMITTER_ID namespace="Stanford University">A22_M8.5.1</SUBMITTER_ID>
+    </IDENTIFIERS>
+  </EXPERIMENT_REF>
+  <RUN_LINKS>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-STUDY</DB>
+        <ID>SRP032345</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495120</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030287&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030287&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+  </RUN_LINKS>
+  <RUN_ATTRIBUTES>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-FIRST-PUBLIC</TAG>
+      <VALUE>2013-11-26</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-LAST-UPDATE</TAG>
+      <VALUE>2015-06-19</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-BASE-COUNT</TAG>
+      <VALUE>952556886</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-SPOT-COUNT</TAG>
+      <VALUE>18677586</VALUE>
+    </RUN_ATTRIBUTE>
+  </RUN_ATTRIBUTES>
+</RUN>
+<RUN accession="SRR1030288" alias="A22_M8.1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRR1030288</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M8.1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>Illumina HiSeq 2000 sequencing; A22_M8.1</TITLE>
+  <EXPERIMENT_REF accession="SRX377936" refcenter="Stanford University" refname="A22_M8.1">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRX377936</PRIMARY_ID>
+      <SUBMITTER_ID namespace="Stanford University">A22_M8.1</SUBMITTER_ID>
+    </IDENTIFIERS>
+  </EXPERIMENT_REF>
+  <RUN_LINKS>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-STUDY</DB>
+        <ID>SRP032345</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495122</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030288&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030288&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+  </RUN_LINKS>
+  <RUN_ATTRIBUTES>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-FIRST-PUBLIC</TAG>
+      <VALUE>2013-11-26</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-LAST-UPDATE</TAG>
+      <VALUE>2015-06-19</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-BASE-COUNT</TAG>
+      <VALUE>875579781</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-SPOT-COUNT</TAG>
+      <VALUE>17168231</VALUE>
+    </RUN_ATTRIBUTE>
+  </RUN_ATTRIBUTES>
+</RUN>
+<RUN accession="SRR1030289" alias="L8_M3.1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRR1030289</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">L8_M3.1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>Illumina HiSeq 2000 sequencing; L8_M3.1</TITLE>
+  <EXPERIMENT_REF accession="SRX377937" refcenter="Stanford University" refname="L8_M3.1">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRX377937</PRIMARY_ID>
+      <SUBMITTER_ID namespace="Stanford University">L8_M3.1</SUBMITTER_ID>
+    </IDENTIFIERS>
+  </EXPERIMENT_REF>
+  <RUN_LINKS>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-STUDY</DB>
+        <ID>SRP032345</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495523</ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030289&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+    <RUN_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR1030289&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </RUN_LINK>
+  </RUN_LINKS>
+  <RUN_ATTRIBUTES>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-FIRST-PUBLIC</TAG>
+      <VALUE>2013-11-26</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-LAST-UPDATE</TAG>
+      <VALUE>2015-06-19</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-BASE-COUNT</TAG>
+      <VALUE>812859981</VALUE>
+    </RUN_ATTRIBUTE>
+    <RUN_ATTRIBUTE>
+      <TAG>ENA-SPOT-COUNT</TAG>
+      <VALUE>15938431</VALUE>
+    </RUN_ATTRIBUTE>
+  </RUN_ATTRIBUTES>
+</RUN>
+</RUN_SET>

@@ -1,0 +1,64 @@
+<PROJECT_SET>
+<PROJECT accession="PRJNA222186" alias="PRJNA222186" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>PRJNA222186</PRIMARY_ID>
+    <SECONDARY_ID>SRP032345</SECONDARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">PRJNA222186</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <NAME>Homo sapiens</NAME>
+  <TITLE>Homo sapiens Genome sequencing</TITLE>
+  <DESCRIPTION>Cell-free DNA purified from plasma of organ transplant recipients. Data for 656 samples, average sequencing depth: 1.25 Gbp. Sequenced on the Illumina Hiseq platform.</DESCRIPTION>
+  <SUBMISSION_PROJECT>
+    <SEQUENCING_PROJECT/>
+    <ORGANISM>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </ORGANISM>
+  </SUBMISSION_PROJECT>
+  <RELATED_PROJECTS>
+    <RELATED_PROJECT>
+      <PARENT_PROJECT accession="PRJNA9558"/>
+    </RELATED_PROJECT>
+  </RELATED_PROJECTS>
+  <PROJECT_LINKS>
+    <PROJECT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA222186&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </PROJECT_LINK>
+    <PROJECT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA222186&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </PROJECT_LINK>
+  </PROJECT_LINKS>
+  <PROJECT_ATTRIBUTES>
+    <PROJECT_ATTRIBUTE>
+      <TAG>ENA-REFSEQ</TAG>
+      <VALUE>N</VALUE>
+    </PROJECT_ATTRIBUTE>
+    <PROJECT_ATTRIBUTE>
+      <TAG>PROJECT-ID</TAG>
+      <VALUE>222186</VALUE>
+    </PROJECT_ATTRIBUTE>
+    <PROJECT_ATTRIBUTE>
+      <TAG>NCBI-PROJECT-TYPE</TAG>
+      <VALUE>SUBMISSION</VALUE>
+    </PROJECT_ATTRIBUTE>
+    <PROJECT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </PROJECT_ATTRIBUTE>
+    <PROJECT_ATTRIBUTE>
+      <TAG>ENA-FIRST-PUBLIC</TAG>
+      <VALUE>2013-10-23</VALUE>
+    </PROJECT_ATTRIBUTE>
+    <PROJECT_ATTRIBUTE>
+      <TAG>ENA-LAST-UPDATE</TAG>
+      <VALUE>2026-10-17</VALUE>
+    </PROJECT_ATTRIBUTE>
+  </PROJECT_ATTRIBUTES>
+</PROJECT>
+</PROJECT_SET>

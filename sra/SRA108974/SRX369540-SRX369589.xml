@@ -1,0 +1,3932 @@
+<EXPERIMENT_SET>
+<EXPERIMENT accession="SRX369540" alias="A17_M8" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369540</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A17_M8</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A17_M8</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495066">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495066</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377084</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495066</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369540&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369540&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369541" alias="A17_W1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369541</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A17_W1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A17_W1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495067">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495067</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377085</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495067</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369541&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369541&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369542" alias="A17_W2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369542</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A17_W2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A17_W2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495068">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495068</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377086</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495068</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369542&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369542&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369543" alias="A17_W3" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369543</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A17_W3</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A17_W3</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495069">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495069</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377087</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495069</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369543&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369543&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369544" alias="A18_D1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369544</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A18_D1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A18_D1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495070">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495070</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377088</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495070</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369544&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369544&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369545" alias="A18_W1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369545</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A18_W1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A18_W1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495071">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495071</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377089</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495071</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369545&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369545&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369546" alias="A18_W2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369546</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A18_W2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A18_W2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495072">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495072</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377090</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495072</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369546&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369546&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369547" alias="A19_D1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369547</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_D1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_D1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495073">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495073</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377091</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495073</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369547&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369547&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369548" alias="A19-M10" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369548</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19-M10</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19-M10</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495074">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495074</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377092</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495074</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369548&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369548&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369549" alias="A19_M12" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369549</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M12</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M12</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495075">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495075</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377093</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <PAIRED/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>200</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+        <READ_SPEC>
+          <READ_INDEX>1</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Reverse</READ_TYPE>
+          <BASE_COORD>101</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495075</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369549&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369549&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369550" alias="A19_M16" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369550</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M16</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M16</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495076">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495076</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377094</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <PAIRED/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>200</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+        <READ_SPEC>
+          <READ_INDEX>1</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Reverse</READ_TYPE>
+          <BASE_COORD>101</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495076</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369550&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369550&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369551" alias="A19_M18" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369551</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M18</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M18</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495077">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495077</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377095</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <PAIRED/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>200</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+        <READ_SPEC>
+          <READ_INDEX>1</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Reverse</READ_TYPE>
+          <BASE_COORD>101</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495077</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369551&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369551&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369552" alias="A19_M2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369552</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495078">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495078</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377096</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495078</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369552&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369552&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369553" alias="A19_M3" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369553</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M3</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M3</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495079">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495079</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377097</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495079</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369553&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369553&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369554" alias="A19_M4" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369554</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M4</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M4</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495080">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495080</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377098</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495080</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369554&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369554&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369555" alias="A19_M5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369555</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495081">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495081</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377099</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495081</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369555&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369555&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369556" alias="A19_M6" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369556</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M6</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M6</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495082">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495082</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377100</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495082</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369556&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369556&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369557" alias="A19-M6" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369557</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19-M6</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19-M6</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495083">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495083</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377101</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495083</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369557&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369557&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369558" alias="A19_M8" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369558</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_M8</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_M8</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495085">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495085</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377102</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495085</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369558&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369558&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369559" alias="A19_W2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369559</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A19_W2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A19_W2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495084">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495084</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377103</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495084</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369559&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369559&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369560" alias="A1_M12" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369560</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M12</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M12</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495086">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495086</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377104</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495086</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369560&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369560&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369561" alias="A1_M1-5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369561</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M1-5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M1-5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495087">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495087</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377105</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495087</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369561&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369561&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369562" alias="A1_M2-5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369562</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M2-5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M2-5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495088">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495088</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377106</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495088</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369562&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369562&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369563" alias="A1_M4" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369563</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M4</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M4</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495089">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495089</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377107</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495089</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369563&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369563&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369564" alias="A1_M5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369564</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495090">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495090</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377108</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495090</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369564&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369564&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369565" alias="A1_M7" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369565</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A1_M7</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A1_M7</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495091">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495091</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377109</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495091</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369565&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369565&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369566" alias="A20_M16" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369566</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M16</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M16</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495092">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495092</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377110</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <PAIRED/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>200</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+        <READ_SPEC>
+          <READ_INDEX>1</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Reverse</READ_TYPE>
+          <BASE_COORD>101</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495092</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369566&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369566&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369567" alias="A20_M1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369567</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495093">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495093</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377111</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495093</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369567&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369567&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369568" alias="A20_M2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369568</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495094">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495094</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377112</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495094</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369568&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369568&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369569" alias="A20_M3" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369569</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M3</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M3</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495095">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495095</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377113</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495095</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369569&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369569&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369570" alias="A20_M4" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369570</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M4</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M4</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495096">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495096</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377114</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495096</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369570&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369570&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369571" alias="A20_M6" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369571</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_M6</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M6</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495097">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495097</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377115</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495097</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369571&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369571&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369572" alias="A20-M8" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369572</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20-M8</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_M8</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495098">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495098</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377116</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495098</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369572&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369572&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369573" alias="A20_W2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369573</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A20_W2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A20_W2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495099">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495099</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377117</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495099</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369573&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369573&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369574" alias="A21_D1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369574</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_D1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_D1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495100">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495100</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377118</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495100</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369574&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369574&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369575" alias="A21_M1-5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369575</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_M1-5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_M1.5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495101">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495101</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377119</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495101</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369575&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369575&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369576" alias="A21_M2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369576</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_M2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_M2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495102">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495102</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377120</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495102</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369576&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369576&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369577" alias="A21_M4_5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369577</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_M4_5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_M4.5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495103">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495103</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377121</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495103</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369577&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369577&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369578" alias="A21_M4" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369578</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_M4</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_M4</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495104">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495104</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377122</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495104</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369578&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369578&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369579" alias="A21-M8" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369579</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21-M8</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21-M8</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495105">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495105</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377123</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495105</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369579&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369579&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369580" alias="A21_W1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369580</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_W1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_W1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495106">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495106</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377124</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495106</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369580&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369580&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369581" alias="A21_W2" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369581</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_W2</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_W2</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495107">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495107</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377125</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495107</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369581&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369581&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369582" alias="A21_W3" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369582</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A21_W3</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A21_W3</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495108">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495108</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377126</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495108</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369582&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369582&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369583" alias="A22_M15" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369583</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M15</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M15</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495109">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495109</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377127</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495109</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369583&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369583&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369584" alias="A22_M1" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369584</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M1</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M1</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495110">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495110</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377128</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495110</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369584&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369584&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369585" alias="A22_M3" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369585</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M3</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M3</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495111">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495111</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377129</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495111</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369585&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369585&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369586" alias="A22_M4" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369586</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M4</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M4</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495112">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495112</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377130</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495112</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369586&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369586&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369587" alias="A22_M5" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369587</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M5</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M5</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495113">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495113</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377131</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495113</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369587&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369587&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369588" alias="A22_M6" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369588</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M6</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M6</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495114">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495114</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377132</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <SINGLE/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>51</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495114</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369588&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369588&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+<EXPERIMENT accession="SRX369589" alias="A22_M7" center_name="Stanford University" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRX369589</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">A22_M7</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>A22_M7</TITLE>
+  <STUDY_REF accession="SRP032345">
+    <IDENTIFIERS>
+      <PRIMARY_ID>SRP032345</PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioProject">PRJNA222186</EXTERNAL_ID>
+    </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+    <DESIGN_DESCRIPTION>cfDNA from plasma; library made with the Ovation SP Ultralow Library Systems</DESIGN_DESCRIPTION>
+    <SAMPLE_DESCRIPTOR accession="SRS495115">
+      <IDENTIFIERS>
+        <PRIMARY_ID>SRS495115</PRIMARY_ID>
+        <EXTERNAL_ID namespace="BioSample">SAMN02377133</EXTERNAL_ID>
+      </IDENTIFIERS>
+    </SAMPLE_DESCRIPTOR>
+    <LIBRARY_DESCRIPTOR>
+      <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+      <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+      <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+      <LIBRARY_LAYOUT>
+        <PAIRED/>
+      </LIBRARY_LAYOUT>
+    </LIBRARY_DESCRIPTOR>
+    <SPOT_DESCRIPTOR>
+      <SPOT_DECODE_SPEC>
+        <SPOT_LENGTH>200</SPOT_LENGTH>
+        <READ_SPEC>
+          <READ_INDEX>0</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Forward</READ_TYPE>
+          <BASE_COORD>1</BASE_COORD>
+        </READ_SPEC>
+        <READ_SPEC>
+          <READ_INDEX>1</READ_INDEX>
+          <READ_CLASS>Application Read</READ_CLASS>
+          <READ_TYPE>Reverse</READ_TYPE>
+          <BASE_COORD>101</BASE_COORD>
+        </READ_SPEC>
+      </SPOT_DECODE_SPEC>
+    </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+    <ILLUMINA>
+      <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+    </ILLUMINA>
+  </PLATFORM>
+  <EXPERIMENT_LINKS>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SAMPLE</DB>
+        <ID>SRS495115</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMISSION</DB>
+        <ID>SRA108974</ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369589&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+    <EXPERIMENT_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRX369589&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </EXPERIMENT_LINK>
+  </EXPERIMENT_LINKS>
+  <EXPERIMENT_ATTRIBUTES>
+    <EXPERIMENT_ATTRIBUTE>
+      <TAG>ENA-STATUS</TAG>
+      <VALUE>PUBLIC</VALUE>
+    </EXPERIMENT_ATTRIBUTE>
+  </EXPERIMENT_ATTRIBUTES>
+</EXPERIMENT>
+</EXPERIMENT_SET>

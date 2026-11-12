@@ -1,0 +1,23 @@
+<SUBMISSION_SET>
+<SUBMISSION accession="SRA108974" alias="Homo sapiens Genome sequencing" center_name="Stanford University" lab_name="Quake lab" broker_name="NCBI">
+  <IDENTIFIERS>
+    <PRIMARY_ID>SRA108974</PRIMARY_ID>
+    <SUBMITTER_ID namespace="Stanford University">Homo sapiens Genome sequencing</SUBMITTER_ID>
+  </IDENTIFIERS>
+  <TITLE>Submitted by Stanford University on 26-NOV-2013</TITLE>
+  <SUBMISSION_LINKS>
+    <SUBMISSION_LINK>
+      <XREF_LINK>
+        <DB>ENA-FASTQ-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRA108974&result=read_run&fields=run_accession,fastq_ftp,fastq_md5,fastq_bytes]]></ID>
+      </XREF_LINK>
+    </SUBMISSION_LINK>
+    <SUBMISSION_LINK>
+      <XREF_LINK>
+        <DB>ENA-SUBMITTED-FILES</DB>
+        <ID><![CDATA[https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRA108974&result=read_run&fields=run_accession,submitted_ftp,submitted_md5,submitted_bytes,submitted_format]]></ID>
+      </XREF_LINK>
+    </SUBMISSION_LINK>
+  </SUBMISSION_LINKS>
+</SUBMISSION>
+</SUBMISSION_SET>

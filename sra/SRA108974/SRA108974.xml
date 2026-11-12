@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROOT request="SRA108974&amp;display=xml">
+     <SUBMISSION_SET>
 <SUBMISSION alias="Homo sapiens Genome sequencing" lab_name="Quake lab" center_name="Stanford University" accession="SRA108974" broker_name="NCBI">
      <IDENTIFIERS>
           <PRIMARY_ID>SRA108974</PRIMARY_ID>
@@ -55,4 +56,5 @@
           </SUBMISSION_ATTRIBUTE>
      </SUBMISSION_ATTRIBUTES>
 </SUBMISSION>
+     </SUBMISSION_SET>
 </ROOT>
